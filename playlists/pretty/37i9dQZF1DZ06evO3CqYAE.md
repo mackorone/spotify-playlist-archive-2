@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,343 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,352 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 49 | [None Like You Lord](https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 6:01 |
 | 50 | [You No Let Them](https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:09 |
 
-Snapshot ID: `aZpHAAAAAADnempNcfrvPf/ftpL/gcyb`
+Snapshot ID: `aZuYgAAAAAACAEpeVruPmprEUP/867AT`

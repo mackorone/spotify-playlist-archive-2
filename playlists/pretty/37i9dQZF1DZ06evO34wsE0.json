@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 252117,
+  "num_followers": 252133,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAp6xx43PRs/8t5OkuwQGA0",
+  "snapshot_id": "aZuYgAAAAABtKyo3V2EhHTEdfpt4TkiF",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 196720,
-      "name": "In My Car (I'll Be The Driver) - Red Version",
-      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+      "duration_ms": 229026,
+      "name": "She's Not Just A Pretty Face - Red Version",
+      "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 229026,
-      "name": "She's Not Just A Pretty Face - Red Version",
-      "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
+      "duration_ms": 196720,
+      "name": "In My Car (I'll Be The Driver) - Red Version",
+      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
+        "name": "Last Day of Summer",
+        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 168933,
-      "name": "You Lay A Whole Lot Of Love On Me",
-      "url": "https://open.spotify.com/track/0oGmDmlKPWiZbnuVed68Rs"
+      "duration_ms": 190268,
+      "name": "Last Day of Summer",
+      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
     }
   ],
   "unique_name": "This Is Shania Twain",

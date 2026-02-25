@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 189108,
+  "num_followers": 189121,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAB2+VpM7fPhx2citib/DMDL",
+  "snapshot_id": "aZuYgAAAAABuEjR+4P6gn08ZaXc6rCG1",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Move Over",
-      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
+      "duration_ms": 107866,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 107866,
-      "name": "Mercedes Benz",
-      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
+      "duration_ms": 223826,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 234881,
+      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
+      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 183646,
       "name": "Flower In the Sun",
       "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 234881,
-      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
-      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+      "duration_ms": 398066,
+      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Janis Joplin",
-        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 398066,
-      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,

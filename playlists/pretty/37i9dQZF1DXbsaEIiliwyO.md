@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: UNISON SQUARE GARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,473 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,473 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,22 +13,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 3 | [シルエット](https://open.spotify.com/track/3vWRsBKvOpj8iITRh8ERlZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/3MFXQmlK8U6Zwe3GjNSoxN) | 4:00 |
 | 4 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 5 | [かすかなはな \- Kasuka na Hana \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [かすかなはな \- Kasuka na Hana \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq) | 3:07 |
-| 6 | [アザレアの風](https://open.spotify.com/track/5YZ37RSEf6oOjUjVBKPj3Q) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [アザレアの風](https://open.spotify.com/album/4Y4MlrPBLWUfWyVXMIPCzy) | 4:03 |
+| 6 | [フルボコ](https://open.spotify.com/track/1gVV83GEtLV50vTzEMx4cJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [フルボコ](https://open.spotify.com/album/5c3vPtqXPktqI3mtZOc83C) | 2:53 |
 | 7 | [THE DAY](https://open.spotify.com/track/3wWPWoE2b7enVy5SIqMqm9) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [BUTTERFLY EFFECT](https://open.spotify.com/album/1iDYx5sNkNoJwgGXEGcfSy) | 4:01 |
 | 8 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 |
 | 9 | [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 |
 | 10 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
 | 11 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
-| 12 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
+| 12 | [アザレアの風](https://open.spotify.com/track/5YZ37RSEf6oOjUjVBKPj3Q) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [アザレアの風](https://open.spotify.com/album/4Y4MlrPBLWUfWyVXMIPCzy) | 4:03 |
 | 13 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 |
 | 14 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
-| 15 | [lulu.](https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [lulu.](https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI) | 4:30 |
+| 15 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
 | 16 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 |
 | 17 | [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 |
 | 18 | [It's Going Down Now](https://open.spotify.com/track/7ANv9zA5z0Nssv7GedrvV6) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [ペルソナ3 リロード オリジナル・サウンドトラック](https://open.spotify.com/album/61yqhb1UqGVI2TV7pO4Tb6) | 3:06 |
 | 19 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
 | 20 | [アダルトチックチルドレン](https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr) | 3:02 |
-| 21 | [八芒星ダンス](https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 3:49 |
+| 21 | [lulu.](https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [lulu.](https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI) | 4:30 |
 | 22 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 23 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 |
 | 24 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 43 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
 | 44 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
 | 45 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 |
-| 46 | [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 |
-| 47 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
+| 46 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
+| 47 | [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 |
 | 48 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
 | 49 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 50 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
 
-Snapshot ID: `AAAAACS2tOB+aweNnBX2Xq6g1BI8dJOM`
+Snapshot ID: `AAAAAE8o3spL/BuSl7cfyJZCOECpkTC4`

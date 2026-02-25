@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,763 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,741 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 23 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 |
 | 24 | [Dracula Teeth](https://open.spotify.com/track/1x9EqJg2UOhlhDAaTUyOIZ) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:51 |
 | 25 | [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/3gYr4NDoTEOUsHzxfttYPK) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/2PXlvqTzGBNetlGct7L5e6) | 4:28 |
-| 26 | [head, shoulders, knees and ankles](https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [head, shoulders, knees and ankles](https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN) | 3:12 |
-| 27 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
+| 26 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
+| 27 | [head, shoulders, knees and ankles](https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [head, shoulders, knees and ankles](https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN) | 3:12 |
 | 28 | [Burn The Witch](https://open.spotify.com/track/1i7DbKzPcWERPNFa48NwwB) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi) | 3:35 |
 | 29 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 |
 | 30 | [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 53 | [Standing on Ghosts](https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Four Words to Stand On](https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5) | 3:31 |
 | 54 | [It's Halloween!](https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [It's Halloween!](https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi) | 2:29 |
 | 55 | [Dark and Stormy](https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6) | 4:55 |
-| 56 | [Struggle With the Beast](https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Struggle With the Beast](https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm) | 8:44 |
-| 57 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
+| 56 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
+| 57 | [Struggle With the Beast](https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Struggle With the Beast](https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm) | 8:44 |
 | 58 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
 | 59 | [Little Bit 'O Soul \[From The Amazon Original Movie “Totally Killer”\]](https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Little Bit 'O Soul \[From The Amazon Original Movie “Totally Killer”\]](https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM) | 2:40 |
 | 60 | [Final Girl](https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence: Director's Cut](https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A) | 4:29 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 72 | [Hunting for Witches](https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In the City](https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y) | 3:31 |
 | 73 | [Help I'm Alive](https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 4:45 |
 | 74 | [To Lose My Life](https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 3:11 |
-| 75 | [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 |
-| 76 | [Zombie](https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs) | 4:06 |
+| 75 | [Zombie](https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs) | 4:06 |
+| 76 | [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 |
 | 77 | [Right On, Frankenstein!](https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw) | 3:05 |
 | 78 | [So Haunted](https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9) | 4:27 |
 | 79 | [Skeleton Dance](https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K) | 3:37 |

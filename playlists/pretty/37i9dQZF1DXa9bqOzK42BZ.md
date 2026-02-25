@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Joel Lwaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,780 likes - 100 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,102 likes - 100 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [MAORORE](https://open.spotify.com/track/5AQ1ULbOkslDrl6Uth9zUc) | [Nanana Siampala](https://open.spotify.com/artist/1pDfaLyHxCeIGYXUfSQT9l) | [MAORORE](https://open.spotify.com/album/3ubcox5KhLbSYnRzILUNYn) | 3:12 |
 | 100 | [Dunia](https://open.spotify.com/track/6A8DkTvU2v7Z7UiHz76kwj) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Dunia](https://open.spotify.com/album/6JQDVjdfoEEr64kmDn6zCu) | 2:45 |
 
-Snapshot ID: `AAAAAAsYHIUnuA+xsAr1vok2Nn7jjfZz`
+Snapshot ID: `AAAAALVZyf3l81GiNZtH9CY9c7LKUE8T`

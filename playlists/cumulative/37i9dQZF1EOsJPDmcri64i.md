@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-20 songs - 6 hr 33 min
+20 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Hellevator](https://open.spotify.com/track/67LJNZyfDA1uaPCtlpyuKN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape](https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4) | 4:00 | 2020-11-27 |  |
 | [Justin Bieber's 'Changes' Proves the Enduring Allure of Child\-Turned\-Adult Pop Stars](https://open.spotify.com/episode/0hS3hJyORLwDXBygWFFb5U) | [Pop Shop Podcast](https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ) | [Pop Shop Podcast](https://open.spotify.com/album/6Up21LReNRTrMTa6O3mkKJ) | 25:12 | 2020-11-27 |  |
 | [Khalid: A lot of relationships we surround ourselves with are temporary](https://open.spotify.com/episode/4rNWK6dbVJLI7NtsvIolcw) | [The Come Up Show](https://open.spotify.com/show/2GawG4tWysGNLSyzlMmfNF) | [The Come Up Show](https://open.spotify.com/album/2GawG4tWysGNLSyzlMmfNF) | 20:02 | 2020-11-27 |  |
-| [Kyle Meredith With..\. Kodaline](https://open.spotify.com/episode/50Vt8rDvVe07EbqEDR3Q0F) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 22:51 | 2020-11-27 |  |
+| [Kyle Meredith With..\. Kodaline](https://open.spotify.com/episode/50Vt8rDvVe07EbqEDR3Q0F) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 24:17 | 2020-11-27 |  |
 | [Ocean \(feat\. Khalid\)](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ocean \(feat\. Khalid\)](https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH) | 3:36 | 2020-11-27 |  |
 | [See The Way](https://open.spotify.com/track/6VWz99969QmNc2gWo21ktl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 2:57 | 2020-11-27 |  |
 | [Steve Aoki](https://open.spotify.com/episode/69hN4xvtqXH7NmoQR02yvc) | [On with Mario Interviews](https://open.spotify.com/show/0yU4kEIGRodx3sgK99xnJz) | [On with Mario Interviews](https://open.spotify.com/album/0yU4kEIGRodx3sgK99xnJz) | 28:17 | 2020-11-27 |  |

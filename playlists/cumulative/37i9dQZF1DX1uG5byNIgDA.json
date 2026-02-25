@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "name": "Morning K-Pop!",
+  "description": "\ud589\ubcf5\ud558\uace0 \uc2e0\ub098\ub294 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \uac13\uc0dd\uc744 \uc2dc\uc791\ud574\ubcf4\uc138\uc694! \ucd9c\ud1f4\uadfc \uae38\uc5d0 \ub4e4\uc73c\uc2dc\uba74 \ub354\uc6b1 \uc88b\uc2b5\ub2c8\ub2e4. (Kickstart your day with high-energy vibes, the ultimate soundtrack for your hustle and commute.)",
+  "name": "RUSH HOUR: \uac13\uc0dd ON!",
   "tracks": [
     {
       "album": {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
@@ -3390,7 +3390,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
@@ -3596,6 +3596,24 @@
       "duration_ms": 207804,
       "name": "i i i",
       "url": "https://open.spotify.com/track/2Phn8k2Eaxg73jY17SH7nq"
+    },
+    {
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "I Lived",
+      "url": "https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo"
     },
     {
       "album": {
@@ -4688,6 +4706,24 @@
       "duration_ms": 182769,
       "name": "Lucky (feat. HANHAE)",
       "url": "https://open.spotify.com/track/4cap8r3pvNFqLoenkZTNjw"
+    },
+    {
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140021,
+      "name": "Lucky Girl Syndrome",
+      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
     },
     {
       "album": {
@@ -6054,6 +6090,24 @@
       "duration_ms": 153720,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {

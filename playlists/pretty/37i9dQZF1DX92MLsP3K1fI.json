@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Jotdog en portada \u2728",
-  "num_followers": 94101,
+  "num_followers": 94107,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,38 @@
     {
       "added_at": "2026-02-20 06:34:16",
       "album": {
+        "name": "Otra Vez (One More Time)",
+        "url": "https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "duration_ms": 193161,
+      "name": "Otra Vez (One More Time)",
+      "url": "https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj"
+    },
+    {
+      "added_at": "2026-02-20 06:34:16",
+      "album": {
+        "name": "0%",
+        "url": "https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
+    },
+    {
+      "added_at": "2026-02-20 06:34:16",
+      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -323,22 +355,6 @@
     {
       "added_at": "2026-02-20 06:34:16",
       "album": {
-        "name": "0%",
-        "url": "https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
-    },
-    {
-      "added_at": "2026-02-20 06:34:16",
-      "album": {
         "name": "Mixteip",
         "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 198493,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
-    },
-    {
-      "added_at": "2026-02-20 06:34:16",
-      "album": {
-        "name": "Otra Vez (One More Time)",
-        "url": "https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM"
-      },
-      "artists": [
-        {
-          "name": "CD9",
-          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
-        }
-      ],
-      "duration_ms": 193161,
-      "name": "Otra Vez (One More Time)",
-      "url": "https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj"
     },
     {
       "added_at": "2026-02-20 06:34:16",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-02-20 06:34:16",
       "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
-    },
-    {
-      "added_at": "2026-02-20 06:34:16",
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
+    },
+    {
+      "added_at": "2026-02-20 06:34:16",
+      "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
     },
     {
       "added_at": "2026-02-20 06:34:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-20 06:34:16",
       "album": {
-        "name": "Pecadora",
-        "url": "https://open.spotify.com/album/5HxKLEE75MZGKDPFPl37Hl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Pecadora",
-      "url": "https://open.spotify.com/track/1599bMWWkIn041P87kqtmB"
-    },
-    {
-      "added_at": "2026-02-20 06:34:16",
-      "album": {
         "name": "odio a primera vista",
         "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
       },
@@ -855,6 +839,42 @@
     {
       "added_at": "2026-02-20 06:34:16",
       "album": {
+        "name": "Pecadora",
+        "url": "https://open.spotify.com/album/5HxKLEE75MZGKDPFPl37Hl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Pecadora",
+      "url": "https://open.spotify.com/track/1599bMWWkIn041P87kqtmB"
+    },
+    {
+      "added_at": "2026-02-20 06:34:16",
+      "album": {
+        "name": "sigues aqu\u00ed?",
+        "url": "https://open.spotify.com/album/3iZOS2KpqIeqayYSFgVlJ6"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        },
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 203555,
+      "name": "sigues aqu\u00ed?",
+      "url": "https://open.spotify.com/track/5KtVRCzur1RMEnTdabkIYg"
+    },
+    {
+      "added_at": "2026-02-20 06:34:16",
+      "album": {
         "name": "PALACIO DE LUX",
         "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
       },
@@ -871,22 +891,6 @@
       "duration_ms": 194565,
       "name": "bachata m\u00eda",
       "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
-    },
-    {
-      "added_at": "2026-02-20 06:34:16",
-      "album": {
-        "name": "brainchem",
-        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "BRAINCHEM",
-      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
     }
   ],
   "unique_name": "Oye Pop",

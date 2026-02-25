@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: BLK ODYSSY",
-  "num_followers": 1325640,
+  "num_followers": 1325584,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1341,6 +1341,26 @@
       "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
     },
     {
+      "added_at": "2025-11-07 07:39:57",
+      "album": {
+        "name": "Beck n Call",
+        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Beck n Call",
+      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
+    },
+    {
       "added_at": "2025-08-15 06:41:00",
       "album": {
         "name": "Baby",
@@ -1391,26 +1411,6 @@
       "duration_ms": 250000,
       "name": "Someone Asked Me How I've Been",
       "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
-    },
-    {
-      "added_at": "2025-11-07 07:39:57",
-      "album": {
-        "name": "Beck n Call",
-        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        },
-        {
-          "name": "ttoh",
-          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Beck n Call",
-      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1581,20 +1581,20 @@
       "url": "https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F"
     },
     {
-      "added_at": "2025-09-12 20:05:34",
+      "added_at": "2024-09-27 23:55:30",
       "album": {
-        "name": "JUICY",
-        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
+        "name": "Songs About You Specifically",
+        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 192221,
-      "name": "JUICY",
-      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
+      "duration_ms": 163931,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
     },
     {
       "added_at": "2025-05-02 04:00:39",
@@ -1611,22 +1611,6 @@
       "duration_ms": 113184,
       "name": "TRICK DADDY",
       "url": "https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3"
-    },
-    {
-      "added_at": "2024-09-27 23:55:30",
-      "album": {
-        "name": "Songs About You Specifically",
-        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 163931,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -1659,6 +1643,22 @@
       "duration_ms": 253728,
       "name": "I Could Be Forever",
       "url": "https://open.spotify.com/track/1f2MtVFQobJYlbHLQycFPm"
+    },
+    {
+      "added_at": "2025-09-12 20:05:34",
+      "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 192221,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
     },
     {
       "added_at": "2025-01-17 07:53:24",
@@ -1897,6 +1897,26 @@
       "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
     },
     {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "Agnus",
+        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        },
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        }
+      ],
+      "duration_ms": 136918,
+      "name": "scrabble",
+      "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
+    },
+    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "IMPALA",
@@ -1921,26 +1941,6 @@
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "Agnus",
-        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
-      },
-      "artists": [
-        {
-          "name": "Merges",
-          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
-        },
-        {
-          "name": "Lonr.",
-          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
-        }
-      ],
-      "duration_ms": 136918,
-      "name": "scrabble",
-      "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
-    },
-    {
       "added_at": "2025-02-07 08:30:49",
       "album": {
         "name": "WONDERLOVE",
@@ -1961,22 +1961,6 @@
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2024-09-13 09:09:19",
-      "album": {
-        "name": "What\u2019s It Take to Be a Star?",
-        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168176,
-      "name": "What\u2019s It Take to Be a Star?",
-      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
-    },
-    {
       "added_at": "2025-09-26 19:38:36",
       "album": {
         "name": "Church",
@@ -1991,6 +1975,22 @@
       "duration_ms": 229706,
       "name": "Church",
       "url": "https://open.spotify.com/track/5fZM36ZapKLmexDKuBW4pO"
+    },
+    {
+      "added_at": "2024-09-13 09:09:19",
+      "album": {
+        "name": "What\u2019s It Take to Be a Star?",
+        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168176,
+      "name": "What\u2019s It Take to Be a Star?",
+      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -2165,22 +2165,6 @@
       "url": "https://open.spotify.com/track/6N6SeSFTRdnu7ogCDnysby"
     },
     {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
-        "name": "LVRS PARADISE (SIDE A)",
-        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 140104,
-      "name": "GET YA MONEY",
-      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
-    },
-    {
       "added_at": "2025-04-25 06:37:11",
       "album": {
         "name": "Dark Nights",
@@ -2195,6 +2179,22 @@
       "duration_ms": 192279,
       "name": "What I Used To Get Into",
       "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "LVRS PARADISE (SIDE A)",
+        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 140104,
+      "name": "GET YA MONEY",
+      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
     },
     {
       "added_at": "2024-07-19 15:05:24",
@@ -2249,22 +2249,6 @@
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
-      "added_at": "2025-02-28 07:11:38",
-      "album": {
-        "name": "need your love",
-        "url": "https://open.spotify.com/album/3kWkmQuS1oBj0a8YwL4KP5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 176488,
-      "name": "need your love",
-      "url": "https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu"
-    },
-    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "Rolling Stone",
@@ -2279,6 +2263,22 @@
       "duration_ms": 118813,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
+    },
+    {
+      "added_at": "2025-02-28 07:11:38",
+      "album": {
+        "name": "need your love",
+        "url": "https://open.spotify.com/album/3kWkmQuS1oBj0a8YwL4KP5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 176488,
+      "name": "need your love",
+      "url": "https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu"
     },
     {
       "added_at": "2025-03-14 07:00:38",
@@ -2349,22 +2349,6 @@
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
     },
     {
-      "added_at": "2025-10-10 08:11:09",
-      "album": {
-        "name": "HEARTBREAK",
-        "url": "https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 212299,
-      "name": "HEARTBREAK",
-      "url": "https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq"
-    },
-    {
       "added_at": "2024-06-14 07:30:32",
       "album": {
         "name": "Cruzafied",
@@ -2379,6 +2363,22 @@
       "duration_ms": 217600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
+    },
+    {
+      "added_at": "2025-10-10 08:11:09",
+      "album": {
+        "name": "HEARTBREAK",
+        "url": "https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "duration_ms": 212299,
+      "name": "HEARTBREAK",
+      "url": "https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq"
     },
     {
       "added_at": "2025-09-12 20:05:34",
@@ -2433,6 +2433,22 @@
       "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
     },
     {
+      "added_at": "2024-10-20 00:14:41",
+      "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "200 Cigarettes",
+      "url": "https://open.spotify.com/track/2bAVI1A5pTpfi6qloElMWa"
+    },
+    {
       "added_at": "2024-06-28 18:42:06",
       "album": {
         "name": "STANK ROSE",
@@ -2469,22 +2485,6 @@
       "url": "https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS"
     },
     {
-      "added_at": "2024-10-20 00:14:41",
-      "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "200 Cigarettes",
-      "url": "https://open.spotify.com/track/2bAVI1A5pTpfi6qloElMWa"
-    },
-    {
       "added_at": "2024-07-19 15:05:24",
       "album": {
         "name": "all night",
@@ -2517,22 +2517,6 @@
       "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C"
-    },
-    {
       "added_at": "2024-09-13 09:09:19",
       "album": {
         "name": "Pointy Heights",
@@ -2547,6 +2531,22 @@
       "duration_ms": 175746,
       "name": "birds, bees",
       "url": "https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C"
     },
     {
       "added_at": "2025-03-21 05:31:12",

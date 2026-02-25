@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,481 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,497 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 48 | [Mirando a las muchachas](https://open.spotify.com/track/00Z3s0Xw7oE3fgTSZVjEFs) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Méjico Máxico](https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV) | 4:35 |
 | 49 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
 | 50 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
-| 51 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
-| 52 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 |
+| 51 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 |
+| 52 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
 | 53 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 |
 | 54 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
 | 55 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 86 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 |
 | 87 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
 | 88 | [Voltage Is O.K.](https://open.spotify.com/track/55ZfCuNYNWYW4l9dLOVfVD) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Menonita Rock](https://open.spotify.com/album/6djkx8A7bD2sf7LsF42onV) | 3:40 |
-| 89 | [Agua De Coco](https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [Madre Mía](https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9) | 3:46 |
-| 90 | [Robot](https://open.spotify.com/track/0meIJ6nBSVW3UqX1O96EN3) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Cassette](https://open.spotify.com/album/5BS5LJXuEvSkOhznZ6gqhS) | 3:43 |
+| 89 | [Robot](https://open.spotify.com/track/0meIJ6nBSVW3UqX1O96EN3) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Cassette](https://open.spotify.com/album/5BS5LJXuEvSkOhznZ6gqhS) | 3:43 |
+| 90 | [Agua De Coco](https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [Madre Mía](https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9) | 3:46 |
 | 91 | [Psicomagia](https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx) | [Timothy The Master](https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ) | [Buffalo Beat EP](https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56) | 5:15 |
 | 92 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
 | 93 | [Muchacho Satanico \- 2002 version](https://open.spotify.com/track/2W6y3hTo9bC2ptXAr5yjCl) | [Mario\*](https://open.spotify.com/artist/6LuoxHz3XHf2nh6UHM2tZB) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 3:03 |

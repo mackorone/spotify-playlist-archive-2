@@ -576,7 +576,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 299325,
       "name": "444 - Remix",
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
@@ -1344,9 +1344,9 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
+      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
@@ -1592,6 +1592,24 @@
       "duration_ms": 188423,
       "name": "Amor de Vago",
       "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
+    },
+    {
+      "album": {
+        "name": "Amor Infinito",
+        "url": "https://open.spotify.com/album/5lpIs74vogvB4D68npwGqB"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261081,
+      "name": "Amor Infinito",
+      "url": "https://open.spotify.com/track/1KTFvlTR9JCrceX0VJrVxS"
     },
     {
       "album": {
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -4855,6 +4873,28 @@
     },
     {
       "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "COMERNOS",
+      "url": "https://open.spotify.com/track/2TYZU0Fvfp5b7gbfqdIAq6"
+    },
+    {
+      "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
@@ -5484,7 +5524,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
@@ -6748,7 +6788,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -7090,7 +7130,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 158440,
       "name": "Domingo Familiar",
       "url": "https://open.spotify.com/track/6s5fdTesXo77NneP3tn3Km"
@@ -12692,7 +12732,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -14452,7 +14492,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 272649,
       "name": "Last Train to London",
       "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"
@@ -16314,7 +16354,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 127000,
       "name": "Me flipa",
       "url": "https://open.spotify.com/track/1ZTEc4KIj5Usofip2AmNsZ"
@@ -18714,7 +18754,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -22008,7 +22048,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -24536,7 +24576,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
@@ -26048,7 +26088,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -26592,7 +26632,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 267300,
       "name": "Todos los Besos",
       "url": "https://open.spotify.com/track/2vSJKKmOEJQA5tr082p5XX"
@@ -28502,7 +28542,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
@@ -30030,7 +30070,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"

@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "In Sound Mind - Original Soundtrack",
+        "url": "https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240616,
+      "name": "Bottom of the Pit (feat. Sam Haft)",
+      "url": "https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K"
+    },
+    {
+      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },

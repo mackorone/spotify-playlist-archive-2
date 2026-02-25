@@ -13620,7 +13620,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -13758,7 +13758,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -35226,7 +35226,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -48074,6 +48074,24 @@
       "duration_ms": 234515,
       "name": "White Horse (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

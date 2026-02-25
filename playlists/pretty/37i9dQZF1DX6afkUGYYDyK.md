@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,789 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,819 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 31 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
 | 32 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 |
 | 33 | [Thank You, Lord](https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Ordinary Ways](https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I) | 3:25 |
-| 34 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
-| 35 | [Things I'm Thankful For](https://open.spotify.com/track/1dskRzY3rg3ilpyQvkUrPS) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Things I'm Thankful For](https://open.spotify.com/album/3Ya7msaCiI22qG9iIRo0cn) | 3:10 |
+| 34 | [Things I'm Thankful For](https://open.spotify.com/track/1dskRzY3rg3ilpyQvkUrPS) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Things I'm Thankful For](https://open.spotify.com/album/3Ya7msaCiI22qG9iIRo0cn) | 3:10 |
+| 35 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
 | 36 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 37 | [Fire & Ice](https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Fire & Ice](https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77) | 2:31 |
 | 38 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 65 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 |
 | 66 | [Thank You Lord](https://open.spotify.com/track/5xPmU88ZnWOfPVFIlUogNk) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Thank You Lord](https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj) | 3:06 |
 | 67 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
-| 68 | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq) | 4:45 |
-| 69 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
+| 68 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
+| 69 | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq) | 4:45 |
 | 70 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 71 | [Thank You](https://open.spotify.com/track/6uv1fhJ65Ev2lcgRmCMeOf) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Thank You, I Love You](https://open.spotify.com/album/1Q3OpMJgTNZZq6wE4kcscv) | 4:39 |
 | 72 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |

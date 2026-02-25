@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,308 likes - 173 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,237 likes - 173 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

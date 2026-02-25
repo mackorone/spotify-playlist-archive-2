@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 113612,
+  "num_followers": 113620,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "BIANCA (feat. Kid Yugi)",
-        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
-      },
-      "artists": [
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 160282,
-      "name": "BIANCA (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 151515,
       "name": "Soldi Arrotolati (feat. ANNA)",
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "BIANCA (feat. Kid Yugi)",
+        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 160282,
+      "name": "BIANCA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "Gol",
+      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 182407,
       "name": "FASHION (feat. ANNA, Lazza, Tony Effe & Benny Benassi)",
       "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "Gol",
-      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "XDVR Reloaded",
         "url": "https://open.spotify.com/album/45rG8pfk8nga2wfRcAqC9l"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 232000,
       "name": "Mercedes Nero",
       "url": "https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1367,22 +1367,30 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Supercar",
-        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
+        "name": "TRAPHOUSE",
+        "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
       },
       "artists": [
         {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
         },
         {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
-      "duration_ms": 124800,
-      "name": "Supercar",
-      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
+      "duration_ms": 177576,
+      "name": "Freaky (feat. Shiva & Niky Savage)",
+      "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1411,30 +1419,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "TRAPHOUSE",
-        "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
+        "name": "Supercar",
+        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
       },
       "artists": [
         {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
         }
       ],
-      "duration_ms": 177576,
-      "name": "Freaky (feat. Shiva & Niky Savage)",
-      "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
+      "duration_ms": 124800,
+      "name": "Supercar",
+      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Leanin'",
-        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
-      "duration_ms": 146285,
-      "name": "Leanin'",
-      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+        "name": "Leanin'",
+        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
       },
       "artists": [
         {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+      "duration_ms": 146285,
+      "name": "Leanin'",
+      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
     },
     {
       "added_at": "2026-02-12 23:01:39",

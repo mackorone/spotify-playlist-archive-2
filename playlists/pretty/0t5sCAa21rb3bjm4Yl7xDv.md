@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Olivia Dean
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 76,404 likes - 101 songs - 5 hr 30 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 76,387 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 2 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
-| 3 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
-| 4 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
-| 5 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
-| 6 | [Gentleman Blue](https://open.spotify.com/track/3lV07aYA51LIEH2egLXyV7) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Gentleman Blue](https://open.spotify.com/album/7DqZlAXPkwicTQdm9Ii3eu) | 3:28 |
-| 7 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
-| 8 | [COME GET YOUR GIRL](https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [COME GET YOUR GIRL](https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl) | 3:41 |
-| 9 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
-| 10 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
-| 11 | [Ingrained \(DNA\)](https://open.spotify.com/track/0M3JmNdhwKC2LPONbjvZfT) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 2:57 |
+| 3 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
+| 4 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
+| 5 | [Gentleman Blue](https://open.spotify.com/track/3lV07aYA51LIEH2egLXyV7) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Gentleman Blue](https://open.spotify.com/album/7DqZlAXPkwicTQdm9Ii3eu) | 3:28 |
+| 6 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
+| 7 | [COME GET YOUR GIRL](https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [COME GET YOUR GIRL](https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl) | 3:41 |
+| 8 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 9 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
+| 10 | [Ingrained \(DNA\)](https://open.spotify.com/track/0M3JmNdhwKC2LPONbjvZfT) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 2:57 |
+| 11 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
 | 12 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
 | 13 | [Sweet To Me](https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 4:17 |
 | 14 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 100 | [Close To You](https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:45 |
 | 101 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
 
-Snapshot ID: `AAA9KTenLKm/m9p9vJMTJGIHUpr6Vhd9`
+Snapshot ID: `AAA9KrxilYbwQ+gNUjqO6mLsr8CUS7Au`

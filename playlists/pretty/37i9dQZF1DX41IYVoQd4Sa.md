@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : הילה רוח
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,331 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,334 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 43 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
 | 44 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 45 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
-| 46 | [קרימינל](https://open.spotify.com/track/3tpI2k1hXu4dxOPtVQvlBr) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/3VhmehVwpYqJN1R3BFD2xA) | 2:51 |
+| 46 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
 | 47 | [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 |
-| 48 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
+| 48 | [קרימינל](https://open.spotify.com/track/3tpI2k1hXu4dxOPtVQvlBr) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/3VhmehVwpYqJN1R3BFD2xA) | 2:51 |
 | 49 | [I Don't Know When, I Don't Know How, I Don't Know Why](https://open.spotify.com/track/2NZc3vxC1wSUkjfHOUe5ek) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Unfurl](https://open.spotify.com/album/3Ee0iWoBRVVol6fHUbKzyx) | 4:20 |
 | 50 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
 

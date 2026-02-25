@@ -89281,6 +89281,32 @@
     },
     {
       "album": {
+        "name": "Just Saying Tho",
+        "url": "https://open.spotify.com/album/3J33vK6BfdCrpaocDb6W8J"
+      },
+      "artists": [
+        {
+          "name": "Hoodrich Keem",
+          "url": "https://open.spotify.com/artist/4XmzcMETyb1ReFvx5SMTI1"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213528,
+      "name": "Just Saying Tho",
+      "url": "https://open.spotify.com/track/4a0iRBZ1kNzCwKKjn925yi"
+    },
+    {
+      "album": {
         "name": "just score it",
         "url": "https://open.spotify.com/album/73cibirs94ZVsObZcEdyny"
       },

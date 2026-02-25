@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,444 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,453 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 27 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:19 |
 | 28 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
 | 29 | [The Strangest Thing](https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:01 |
-| 30 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
-| 31 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
+| 30 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
+| 31 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
 | 32 | [Let Her Down Easy \- Live](https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:50 |
 | 33 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 |
 | 34 | [This Is Not Real Love \(feat\. Mutya\) \- Remastered 2006](https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mutya](https://open.spotify.com/artist/1VPdHx80mwDD7koKNVxPH1) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [All You Need Is Love](https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek), [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP), [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Ars Canto G\. Verdi](https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE), [Cambodian And Tibetan Children's Choir](https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd), [Orchestra Sinfonica Italiana](https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P), [José Molina](https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh) | [Spirito Italiano](https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8) | 4:15 |
 | 50 | [This Is How \(We Want You To Get High\)](https://open.spotify.com/track/7ghfc7IWlgUezEmW6uaPM5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [This Is How \(We Want You To Get High\)](https://open.spotify.com/album/0FRo7kLUZKAUCKwom4XwaH) | 4:00 |
 
-Snapshot ID: `aZpHAAAAAABhYd7olOl7sYWsQZ1EoszU`
+Snapshot ID: `aZuYgAAAAAAYf2oEpuYrc7LDPfdCN6ZW`

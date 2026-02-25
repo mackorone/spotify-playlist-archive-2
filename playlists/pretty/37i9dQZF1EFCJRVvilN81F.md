@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,104 likes - 182 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,104 likes - 183 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 119 | [All We Do](https://open.spotify.com/track/1K0miFSHid85a5A7jM9Q3e) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/04ujSnhw3iG2pdXbFsQIXK) | 4:12 |
 | 120 | [DJ Got Me](https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [DJ Got Me](https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ) | 2:15 |
 | 121 | [A Lite](https://open.spotify.com/track/3CeI4Ri97C26GxShl4sbdY) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:31 |
-| 122 | [Traveling Light](https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Radio Silence](https://open.spotify.com/album/7C82GwudARaV8PrNPia8AV) | 4:30 |
-| 123 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
+| 122 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
+| 123 | [Traveling Light](https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Radio Silence](https://open.spotify.com/album/7C82GwudARaV8PrNPia8AV) | 4:30 |
 | 124 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 |
 | 125 | [GOODBYE BITCH!](https://open.spotify.com/track/6CTnLPc0KLaumnvPBEztdO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 2:46 |
 | 126 | [Turn Me On](https://open.spotify.com/track/0XPg6Wdh4eIMeibWCwo0Uv) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:15 |
@@ -190,5 +190,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 180 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 181 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
 | 182 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
+| 183 | [Driftin'](https://open.spotify.com/track/0iWrhzQ4gluIbXiExggZT5) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: Elevators: Act I & II](https://open.spotify.com/album/3S4DGnUhfUpnadVoacbUmW) | 0:49 |
 
-Snapshot ID: `AcKeKgAAAAC5q0GhRfXvB+1OtT+pB/mX`
+Snapshot ID: `AcKjygAAAAAjHb8WuFHKAdgPJnnHb0Se`

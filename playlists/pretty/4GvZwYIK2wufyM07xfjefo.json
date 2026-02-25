@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGb7BWwGavC4N65XWxQyBYUGd1R79D",
+  "snapshot_id": "AAAGfkuVV7m6WUXBEhFrrYY//56M4m6F",
   "tracks": [
+    {
+      "added_at": "2026-02-24 07:36:46",
+      "album": {
+        "name": "\u8ab0\u304c\u70ba\u306e\u82f1\u96c4\u8b5a",
+        "url": "https://open.spotify.com/album/0uG413gxbzbTKf94UYwbbF"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "\u6b4c\u611b\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "\u8ab0\u304c\u70ba\u306e\u82f1\u96c4\u8b5a (feat. \u6b4c\u611b\u30e6\u30ad)",
+      "url": "https://open.spotify.com/track/6vqJWuAPenItS9DBLLXRvX"
+    },
+    {
+      "added_at": "2026-02-24 07:37:00",
+      "album": {
+        "name": "El rebano de Gish",
+        "url": "https://open.spotify.com/album/1Eq21TDbOSz31FFPRnVM4i"
+      },
+      "artists": [
+        {
+          "name": "Maubox",
+          "url": "https://open.spotify.com/artist/6Pawecfq5bF3s2o01TlOIe"
+        }
+      ],
+      "duration_ms": 261543,
+      "name": "El rebano de Gish",
+      "url": "https://open.spotify.com/track/4PzLNgrDI2oGbMWDuJHdff"
+    },
+    {
+      "added_at": "2026-02-24 07:37:11",
+      "album": {
+        "name": "Color of Synergy",
+        "url": "https://open.spotify.com/album/5mz2xITm6fxxC29h3yrR91"
+      },
+      "artists": [
+        {
+          "name": "Mwk",
+          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/6t2Gle6C25cM2Oil2VoA41"
+    },
+    {
+      "added_at": "2026-02-24 07:37:55",
+      "album": {
+        "name": "\u304a\u3084\u3059\u307f\u30aa\u30e9\u30f3\u30b8\u30a7\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/1cSXUU5HhrWGWweNUky6vU"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u64ab\u5bfa",
+          "url": "https://open.spotify.com/artist/5wvPfEco9mG8kzdMnhL3ct"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 158457,
+      "name": "\u304a\u3084\u3059\u307f\u30aa\u30e9\u30f3\u30b8\u30a7\u30c3\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5PgUNE6zjB61rsLxy0jE1W"
+    },
+    {
+      "added_at": "2026-02-24 07:38:32",
+      "album": {
+        "name": "Grow on...",
+        "url": "https://open.spotify.com/album/5b7qJb5Ih9R0HuoCAGsZxo"
+      },
+      "artists": [
+        {
+          "name": "EO",
+          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "\u30e8\u30ea\u30df\u30c1 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1qKEFIPpmwttUIY5bCFVjP"
+    },
     {
       "added_at": "2026-02-17 08:12:40",
       "album": {
@@ -703,98 +795,6 @@
       "duration_ms": 222653,
       "name": "silent siren",
       "url": "https://open.spotify.com/track/6Sl29lZlzwOKA2x3xqDHEi"
-    },
-    {
-      "added_at": "2025-12-02 08:25:07",
-      "album": {
-        "name": "\u3072\u307f\u3064\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/6EOStnNCeIbtXPgtt47vB7"
-      },
-      "artists": [
-        {
-          "name": "\u6797\u7530\u5320",
-          "url": "https://open.spotify.com/artist/3FxzoRlmUKSHHfZGd9JoVE"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 219027,
-      "name": "Penguin's Detour (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2sWXjNycfK37VTWO0CTAhM"
-    },
-    {
-      "added_at": "2025-12-02 08:25:23",
-      "album": {
-        "name": "MASQ",
-        "url": "https://open.spotify.com/album/5HGfZ4ql6AfciNleiUr1Kq"
-      },
-      "artists": [
-        {
-          "name": "MINO-U",
-          "url": "https://open.spotify.com/artist/71Y3Ll2Yp2CUVtgo3FitWi"
-        },
-        {
-          "name": "\u30d5\u30ea\u30e2\u30e1\u30f3",
-          "url": "https://open.spotify.com/artist/4pLhclkqDIa5iBW0EtTKmr"
-        }
-      ],
-      "duration_ms": 199980,
-      "name": "MASQ (feat. \u30d5\u30ea\u30e2\u30e1\u30f3)",
-      "url": "https://open.spotify.com/track/2qledqaSiczubmSyxvlm8i"
-    },
-    {
-      "added_at": "2025-12-02 08:25:39",
-      "album": {
-        "name": "\u4e94\u6708\u96e8",
-        "url": "https://open.spotify.com/album/1dcEPkb7YVaysbrjj4cC4Y"
-      },
-      "artists": [
-        {
-          "name": "Mwk",
-          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
-        },
-        {
-          "name": "\u82b1\u9688\u5343\u51ac",
-          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "\u4e94\u6708\u96e8 (feat. \u82b1\u9688\u5343\u51ac)",
-      "url": "https://open.spotify.com/track/1rfKUaBY93Y5U2wVYPMYtO"
-    },
-    {
-      "added_at": "2025-12-02 08:26:52",
-      "album": {
-        "name": "showdown",
-        "url": "https://open.spotify.com/album/6JOZeUpUM2xIwDK02T5TVI"
-      },
-      "artists": [
-        {
-          "name": "yukitsuki",
-          "url": "https://open.spotify.com/artist/0QI68ykMZoGMCUSUlOOdfD"
-        }
-      ],
-      "duration_ms": 210238,
-      "name": "showdown",
-      "url": "https://open.spotify.com/track/0hxXGGuLs5d6uVVMmvHR6r"
-    },
-    {
-      "added_at": "2025-12-02 08:26:15",
-      "album": {
-        "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30fb\u30aa\u30fc\u30eb\u30fb\u30b6\u30c3\u30c8\u30fb\u30b8\u30e3\u30ba",
-        "url": "https://open.spotify.com/album/7LFzHaCd9sz0gkYvOonxUv"
-      },
-      "artists": [
-        {
-          "name": "DATEKEN",
-          "url": "https://open.spotify.com/artist/7y2lgi4wRHvlwczrW5ucal"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30fb\u30aa\u30fc\u30eb\u30fb\u30b6\u30c3\u30c8\u30fb\u30b8\u30e3\u30ba",
-      "url": "https://open.spotify.com/track/4XclB9qUKnQH0uWY9w7HBf"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

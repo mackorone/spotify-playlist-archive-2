@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,576 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,569 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 3 | [Carl's Song 1 \- It Could Be Anything \- 2025 Mix](https://open.spotify.com/track/0EYwcNP72Wl3SSND69enJP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [We Gotta Groove \- The Brother Studio Years \(Super Deluxe Edition\)](https://open.spotify.com/album/3tag1yvfPv1X8aoa5lql1z) | 3:27 |
 | 4 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 |
 | 5 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
-| 6 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
-| 7 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
+| 6 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
+| 7 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
 | 8 | [Wouldn't It Be Nice](https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:33 |
 | 9 | [I Get Around \(Mono\)](https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:14 |
 | 10 | [A Thing Or Two \- Track & Backing Vocals](https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 1:00 |
 | 11 | [Barbara Ann](https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Spirit Of America](https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH) | 2:13 |
 | 12 | [California Dreamin' \- Remastered 2007](https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 3:24 |
 | 13 | [California Girls \- Remix/Remastered 2001](https://open.spotify.com/track/6bJuuCtXYiwOcKT9s8uRh8) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:40 |
-| 14 | [Sloop John B](https://open.spotify.com/track/72fAewq2UVWSf3RjtqICdS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:59 |
-| 15 | [I Can Hear Music](https://open.spotify.com/track/1hcMfYTsRTC4hIKbfosxjz) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:37 |
+| 14 | [I Can Hear Music](https://open.spotify.com/track/1hcMfYTsRTC4hIKbfosxjz) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:37 |
+| 15 | [Sloop John B](https://open.spotify.com/track/72fAewq2UVWSf3RjtqICdS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:59 |
 | 16 | [Darlin' \- Remastered 2001](https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Wild Honey \(Remastered\)](https://open.spotify.com/album/01uTaEF0YlcBgNwaSS9iIl) | 2:14 |
 | 17 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |
 | 18 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 36 | [Disney Girls \(1957\) \- Remastered 2009](https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:10 |
 | 37 | [You Still Believe In Me](https://open.spotify.com/track/2xNZK0n7SV7qvV1AlH30Dp) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:36 |
 | 38 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
-| 39 | [Be True To Your School \- Remastered](https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:11 |
-| 40 | [Ding Dang \- Remastered 2000](https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 0:58 |
+| 39 | [Ding Dang \- Remastered 2000](https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 0:58 |
+| 40 | [Be True To Your School \- Remastered](https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:11 |
 | 41 | [All Summer Long \(Stereo\)](https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:08 |
 | 42 | [Whistle In \- Remastered 2001](https://open.spotify.com/track/35zgxz18meGLAaQ7pdUlsU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 1:07 |
 | 43 | [The Warmth Of The Sun \- Remastered](https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 49 | [Barnyard](https://open.spotify.com/track/0qV9G76eiyQOUtbzem02Bp) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA) | 0:47 |
 | 50 | [I'm The Pied Piper \- A Cappella Section](https://open.spotify.com/track/21cBdopm6fSgfLnplL7qVT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sail On Sailor – 1972 \(Super Deluxe\)](https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k) | 0:31 |
 
-Snapshot ID: `aZpHAAAAAADrDkPNcVO4m7yTs8hZmITt`
+Snapshot ID: `aZuYgAAAAAAM9J49CiNQQlI+N58pfUu2`

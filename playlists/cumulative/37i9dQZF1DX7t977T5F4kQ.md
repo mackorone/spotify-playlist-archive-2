@@ -2,7 +2,7 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: KJ Spio & Kidi
+> The hottest and recent Ghana party starters\. Cover: Black Sherif
 
 606 songs - 1 day 7 hr 17 min
 
@@ -532,7 +532,7 @@
 | [Super Super](https://open.spotify.com/track/5uTchNrLEREPxobWrFQHx8) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Super Super](https://open.spotify.com/album/3dZj1zWLCn0LlGIUNayrUT) | 2:20 | 2023-05-12 | 2023-06-10 |
 | [Survivor](https://open.spotify.com/track/4juj2vcoKlRyW2toW951Wg) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Survivor](https://open.spotify.com/album/5uaAvmMxqIOtqu2Vh3omBc) | 2:30 | 2025-03-07 | 2025-03-22 |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-11-04 | 2023-02-24 |
-| [Sweet Baby](https://open.spotify.com/track/67EQfnVh7NoTcefV1k0xvF) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sweet Baby](https://open.spotify.com/album/6HpKMrkRl4zxtwLLCsfnCp) | 3:05 | 2026-02-20 |  |
+| [Sweet Baby](https://open.spotify.com/track/67EQfnVh7NoTcefV1k0xvF) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sweet Baby](https://open.spotify.com/album/6HpKMrkRl4zxtwLLCsfnCp) | 3:05 | 2026-02-20 | 2026-02-25 |
 | [Take Away](https://open.spotify.com/track/4u06gL0vNj2Q4UF1cT19GV) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Kofi OO Kofi](https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v) | 2:53 | 2024-05-10 | 2025-03-14 |
 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 | 2022-11-04 | 2024-03-15 |
 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 | 2025-10-24 | 2025-11-28 |

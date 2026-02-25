@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,146 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,204 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 15 | [Sobre Mis Pies](https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:48 |
 | 16 | [Mingo](https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/3Jg86eGRRn6XLMDl0uiKPE) | 3:08 |
 | 17 | [Culpables](https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8) | 4:12 |
-| 18 | [Zutano](https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Zutano](https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh) | 3:01 |
-| 19 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
+| 18 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
+| 19 | [Zutano](https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Zutano](https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh) | 3:01 |
 | 20 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
 | 21 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 22 | [El Chavo \- En Vivo](https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Serafín](https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X) | 4:00 |
 | 50 | [Andar Conmigo](https://open.spotify.com/track/69qGjlSgEJJkkZSp4ZN3GC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 4:07 |
 
-Snapshot ID: `aZpHAAAAAABnIC3Jb+WioL4qOU1TvDEh`
+Snapshot ID: `aZuYgAAAAADc8JWpNZOYl72JE1A64hGl`

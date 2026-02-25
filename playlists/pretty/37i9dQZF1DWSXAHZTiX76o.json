@@ -1,6 +1,6 @@
 {
-  "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 348587,
+  "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Cazzu en portada.",
+  "num_followers": 348564,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 181500,
       "name": "EX EX EX",
       "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": "2025-12-03 13:14:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,021 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,047 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 63 | [Somewhere Down in Texas](https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 5:53 |
 | 64 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |
 | 65 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 |
-| 66 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
-| 67 | [I Been to Georgia on a Fast Train](https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Billy Joe Shaver](https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9) | 2:56 |
+| 66 | [I Been to Georgia on a Fast Train](https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Billy Joe Shaver](https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9) | 2:56 |
+| 67 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 68 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
 | 69 | [Mr\. Bojangles](https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Mr\. Bojangles](https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW) | 5:28 |
 | 70 | [Carry On](https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:57 |
-| 71 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
-| 72 | [Live Forever](https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Tramp On Your Street](https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0) | 2:49 |
+| 71 | [Live Forever](https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Tramp On Your Street](https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0) | 2:49 |
+| 72 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 73 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 |
 | 74 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 |
 | 75 | [Texas On My Mind](https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:40 |

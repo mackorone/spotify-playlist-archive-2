@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 23320,
+  "num_followers": 23327,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAACiZGFgZYVYfPTPGYA7VOSN",
+  "snapshot_id": "aZuYgAAAAADn0IAwaud9f5HyNyZDUy37",
   "tracks": [
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Dat Nou Echt?",
-        "url": "https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD"
+        "name": "Bro Code",
+        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Is Dat Nou Echt?",
-      "url": "https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT"
+      "duration_ms": 131279,
+      "name": "Bro Code",
+      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bro Code",
-        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
+        "name": "Is Dat Nou Echt?",
+        "url": "https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 131279,
-      "name": "Bro Code",
-      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
+      "duration_ms": 148965,
+      "name": "Is Dat Nou Echt?",
+      "url": "https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT"
     },
     {
       "added_at": null,

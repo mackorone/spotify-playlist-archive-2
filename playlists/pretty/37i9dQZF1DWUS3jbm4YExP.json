@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 864462,
+  "num_followers": 864552,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,18 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 301242,
-      "name": "Diarabi",
-      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -147,18 +143,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+      "duration_ms": 301242,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Black Classical Music",
         "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 159443,
+      "name": "Pingpxng",
+      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/03hsJO3aPFCbKhjTNUAlE0"
       },
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Cause & Effect",
         "url": "https://open.spotify.com/album/0dITivzCKB2PwtQj9Txc0d"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 193772,
       "name": "In Lust",
       "url": "https://open.spotify.com/track/49xVYRohos3yfT19Vz1lM7"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 159443,
-      "name": "Pingpxng",
-      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -347,18 +347,18 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK"
+        "name": "Yatta!",
+        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 290448,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
+      "duration_ms": 271247,
+      "name": "In Search of Yang",
+      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -375,6 +375,22 @@
       "duration_ms": 254062,
       "name": "Nadoman",
       "url": "https://open.spotify.com/track/2knt63jdoXdMm4uu9tmNOi"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 290448,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -399,22 +415,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 261926,
-      "name": "Ddoje Facce",
-      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Sciall\u00e0",
         "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 256393,
       "name": "Sciall\u00e0",
       "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Yatta!",
-        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 271247,
-      "name": "In Search of Yang",
-      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -499,22 +483,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "\u00d6ld\u00fcrme Beni",
-        "url": "https://open.spotify.com/album/0x1olGUHMu2BODn1Sgw8U0"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 297994,
-      "name": "\u00d6ld\u00fcrme Beni",
-      "url": "https://open.spotify.com/track/7ec8SmW3u4r5xa1yA9qBRN"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Mistakes on Purpose (Ethiopiques 30)",
         "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
       },
@@ -531,6 +499,38 @@
       "duration_ms": 238440,
       "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
       "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "\u00d6ld\u00fcrme Beni",
+        "url": "https://open.spotify.com/album/0x1olGUHMu2BODn1Sgw8U0"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 297994,
+      "name": "\u00d6ld\u00fcrme Beni",
+      "url": "https://open.spotify.com/track/7ec8SmW3u4r5xa1yA9qBRN"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 261926,
+      "name": "Ddoje Facce",
+      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Alma\u2019s Cove",
-        "url": "https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 234248,
-      "name": "Alma's Cove",
-      "url": "https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Wahala Wahala",
         "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 361715,
       "name": "Suro Nipa",
       "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Alma\u2019s Cove",
+        "url": "https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 234248,
+      "name": "Alma's Cove",
+      "url": "https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Calima",
-        "url": "https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Calima",
-      "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Mount Matsu",
         "url": "https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 324978,
       "name": "Takahashi Timing",
       "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Calima",
+        "url": "https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Calima",
+      "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "The Return of\u2026",
-        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 224882,
-      "name": "Sunset Sound",
-      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Marvin",
         "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 235795,
       "name": "Porsche 944",
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 224882,
+      "name": "Sunset Sound",
+      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Space Echo (Analog Africa No. 20)",
-        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
-      },
-      "artists": [
-        {
-          "name": "Abel Lima",
-          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Corre Riba, Corre Baixo",
-      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
         "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 448947,
       "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
       "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Space Echo (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
+      },
+      "artists": [
+        {
+          "name": "Abel Lima",
+          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Corre Riba, Corre Baixo",
+      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 149745,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 149745,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Cinema Sound System",
-        "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
-      },
-      "artists": [
-        {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
-        }
-      ],
-      "duration_ms": 264217,
-      "name": "Cannot Get Enough",
-      "url": "https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
         "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 357480,
       "name": "Yabaal",
       "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Cinema Sound System",
+        "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 264217,
+      "name": "Cannot Get Enough",
+      "url": "https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Can't Deny",
         "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 162477,
       "name": "Can't Deny",
       "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
-        {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Bassa Bassa",
-        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
       },
       "artists": [
         {
-          "name": "Jembaa Groove",
-          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
         }
       ],
-      "duration_ms": 301647,
-      "name": "Bassa Bassa",
-      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -2139,6 +2123,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Bassa Bassa",
+        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+      },
+      "artists": [
+        {
+          "name": "Jembaa Groove",
+          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+        }
+      ],
+      "duration_ms": 301647,
+      "name": "Bassa Bassa",
+      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
         "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
       },
@@ -2155,22 +2155,18 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "W\u00e9r\u00e9nt\u00e9 (feat. Lass)",
-        "url": "https://open.spotify.com/album/6THCwJcSUpaagIcs0MRh1f"
+        "name": "R\u00fczgar",
+        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
       },
       "artists": [
         {
-          "name": "Kronan",
-          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
-        },
-        {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 180622,
-      "name": "W\u00e9r\u00e9nt\u00e9 (feat. Lass)",
-      "url": "https://open.spotify.com/track/6ocVLqgrQc1NPCKdeH0UXQ"
+      "duration_ms": 357558,
+      "name": "R\u00fczgar",
+      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -2207,6 +2203,26 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "W\u00e9r\u00e9nt\u00e9 (feat. Lass)",
+        "url": "https://open.spotify.com/album/6THCwJcSUpaagIcs0MRh1f"
+      },
+      "artists": [
+        {
+          "name": "Kronan",
+          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
+        },
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        }
+      ],
+      "duration_ms": 180622,
+      "name": "W\u00e9r\u00e9nt\u00e9 (feat. Lass)",
+      "url": "https://open.spotify.com/track/6ocVLqgrQc1NPCKdeH0UXQ"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 267316,
       "name": "Bumay\u00e9 - Voilaaa Disco Remix",
       "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "R\u00fczgar",
-        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 357558,
-      "name": "R\u00fczgar",
-      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Orb II",
+        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
+      },
+      "artists": [
+        {
+          "name": "Meister Lampe",
+          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Dantokpa",
+      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
@@ -2387,6 +2403,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Space Echo (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
+      },
+      "artists": [
+        {
+          "name": "Dionisio Maio",
+          "url": "https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw"
+        }
+      ],
+      "duration_ms": 276981,
+      "name": "Dia Ja Manche",
+      "url": "https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Malegr\u00eda",
         "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
       },
@@ -2415,22 +2447,6 @@
       "duration_ms": 353109,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Orb II",
-        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
-      },
-      "artists": [
-        {
-          "name": "Meister Lampe",
-          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Dantokpa",
-      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -2467,22 +2483,6 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Space Echo (Analog Africa No. 20)",
-        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
-      },
-      "artists": [
-        {
-          "name": "Dionisio Maio",
-          "url": "https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw"
-        }
-      ],
-      "duration_ms": 276981,
-      "name": "Dia Ja Manche",
-      "url": "https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -2559,6 +2559,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Golden Hands",
+        "url": "https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf"
+      },
+      "artists": [
+        {
+          "name": "Golden Hands",
+          "url": "https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ"
+        }
+      ],
+      "duration_ms": 461120,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Fully Loaded",
         "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
       },
@@ -2591,26 +2607,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Apiafo",
-        "url": "https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn"
-      },
-      "artists": [
-        {
-          "name": "Vaudou Game",
-          "url": "https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz"
-        },
-        {
-          "name": "Roger Damawuzan",
-          "url": "https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "Pas Contente",
-      "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Fighting Slowly",
         "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
       },
@@ -2631,18 +2627,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Heaviness",
-        "url": "https://open.spotify.com/album/2pm917uNJ3wpKBDy0Hoxfm"
+        "name": "Apiafo",
+        "url": "https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn"
       },
       "artists": [
         {
-          "name": "Falle Nioke",
-          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+          "name": "Vaudou Game",
+          "url": "https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz"
+        },
+        {
+          "name": "Roger Damawuzan",
+          "url": "https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv"
         }
       ],
-      "duration_ms": 224050,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2Xgo2uCqGH4LMS14yHbodv"
+      "duration_ms": 213373,
+      "name": "Pas Contente",
+      "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
     }
   ],
   "unique_name": "Global Groove",

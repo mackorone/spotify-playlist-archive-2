@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Lekaa, ODUMODUBLVCK & Omah Lay",
-  "num_followers": 213419,
+  "num_followers": 213522,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2026-02-20 00:01:31",
       "album": {
-        "name": "Uzama The 3rd",
-        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
       "artists": [
         {
           "name": "Famous Pluto",
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 154268,
-      "name": "Osusu",
-      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2026-02-20 00:01:31",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2026-02-20 00:01:31",
       "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+        "name": "Uzama The 3rd",
+        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
       "artists": [
         {
           "name": "Famous Pluto",
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+      "duration_ms": 154268,
+      "name": "Osusu",
+      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
     },
     {
       "added_at": "2026-02-20 00:01:31",

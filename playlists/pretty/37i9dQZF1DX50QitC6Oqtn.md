@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,380,805 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,380,590 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 32 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 |
 | 33 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 34 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 |
-| 35 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
+| 35 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
 | 36 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
-| 37 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
+| 37 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
 | 38 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
 | 39 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
 | 40 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 56 | [I Can't Fall in Love Without You](https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 2:57 |
 | 57 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 4:10 |
 | 58 | [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 |
-| 59 | [You Make It Real](https://open.spotify.com/track/1Yw6ViCo3tuufI0Hg4mzSU) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:31 |
-| 60 | [Patient](https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:10 |
+| 59 | [Patient](https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:10 |
+| 60 | [You Make It Real](https://open.spotify.com/track/1Yw6ViCo3tuufI0Hg4mzSU) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:31 |
 | 61 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 62 | [Wasn't Expecting That](https://open.spotify.com/track/2a5VluIESm1JP4Qwvo02H8) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB) | 3:21 |
 | 63 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |

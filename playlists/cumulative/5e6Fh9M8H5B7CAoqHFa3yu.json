@@ -33973,6 +33973,24 @@
     },
     {
       "album": {
+        "name": "Way",
+        "url": "https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS"
+      },
+      "artists": [
+        {
+          "name": "Foad Jafari",
+          "url": "https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167967,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP"
+    },
+    {
+      "album": {
         "name": "we ball",
         "url": "https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6"
       },

@@ -2,9 +2,9 @@
 
 ### [Rock Strike Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> J\-Rock acts who have broken the border and are making global impact\.   Cover: Quruli くるり
+> J\-Rock acts who have broken the border and are making global impact\.   Cover: FINLANDS
 
-1,511 songs - 4 day 2 hr 52 min
+1,512 songs - 4 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [ETERNAL](https://open.spotify.com/track/0RGE4u70SFJPtXJFXMojaB) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/0M4Y3RHFPZFb1p9UsGEMw0) | 4:47 | 2024-03-05 | 2024-04-24 |
 | [ETERNAL](https://open.spotify.com/track/3HE753A8uCfdNBPFCRRbmY) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2RoIU7aELUTrkGnN77W4Ns) | 4:47 | 2024-03-12 | 2024-04-19 |
 | [ETERNAL](https://open.spotify.com/track/4MLsKopLnvzWwAwDWnR2op) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2YIeAJSBcMSFPrgGW88nnu) | 4:47 | 2024-03-05 | 2024-03-24 |
-| [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 | 2026-02-05 | 2026-02-18 |
+| [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 | 2026-02-05 |  |
 | [Everblack \(feat\. David Simonich\)](https://open.spotify.com/track/4zngVa4uioPfsuDonRuXHv) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [David Simonich](https://open.spotify.com/artist/4VfRlW2jlturNdkawu7dmI) | [The Weight of Sound](https://open.spotify.com/album/5NXDBIwFFXf0ty5mN8KBkP) | 3:16 | 2026-02-05 | 2026-02-11 |
 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 | 2022-12-14 |
 | [EVERYWHERE](https://open.spotify.com/track/3o9IoxPIqhflWJjR0Tiyo0) | [INABA / SALAS](https://open.spotify.com/artist/2jrmtlq6cZjytdgG8xW6BG) | [EVERYWHERE](https://open.spotify.com/album/7D9c3Csn8B0qtw7I0JCTPo) | 3:37 | 2025-02-18 | 2025-03-19 |
@@ -476,7 +476,7 @@
 | [Midnight Highway](https://open.spotify.com/track/3Q028IJOizXo2hA7FUyjJV) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 4:10 | 2023-10-10 | 2023-11-01 |
 | [midsummer sunset](https://open.spotify.com/track/5GkJ9PJ7Yokkn4wFRRyf9S) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [midsummer sunset](https://open.spotify.com/album/5zu1i14LSDhd9EdwMKtQiT) | 8:44 | 2022-10-11 | 2022-10-29 |
 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 | 2025-05-13 | 2025-10-01 |
-| [MIRACLE](https://open.spotify.com/track/23sOhYGOBDdnnpXJslCY34) | [THE DO DO DO's](https://open.spotify.com/artist/5yAxOqAbqowFFsPzxTB1U2) | [MIRACLE](https://open.spotify.com/album/3pdpwCNahSImEVesRZWdZJ) | 2:55 | 2026-02-17 |  |
+| [MIRACLE](https://open.spotify.com/track/23sOhYGOBDdnnpXJslCY34) | [THE DO DO DO's](https://open.spotify.com/artist/5yAxOqAbqowFFsPzxTB1U2) | [MIRACLE](https://open.spotify.com/album/3pdpwCNahSImEVesRZWdZJ) | 2:55 | 2026-02-17 | 2026-02-25 |
 | [Mirage](https://open.spotify.com/track/24B1pivOBr5KpJbwwIS05q) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Dream in Dream](https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX) | 4:27 | 2023-06-27 | 2023-07-12 |
 | [Miraino Uta \- 2023 Master](https://open.spotify.com/track/4hx8WgEJQOIcXflbmK3xRW) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [20](https://open.spotify.com/album/6SA5aeZwQ2hOrEOeTWUGj8) | 5:07 | 2023-09-12 | 2023-10-11 |
 | [Mirror Ball Disco!!!!!!!](https://open.spotify.com/track/4rtYwWF4uBk6Q8oXyRyc86) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Mirror Ball Disco!!!!!!!](https://open.spotify.com/album/33inoNxMCsSgEI6V0zlrUY) | 3:07 | 2024-04-30 | 2024-05-29 |
@@ -770,7 +770,7 @@
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-08 |  |
 | [Taiyo to Ikaros](https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Taiyo to Ikaros](https://open.spotify.com/album/2ZC6smjFEaTONbYg0vnaBx) | 4:30 | 2023-03-07 | 2023-03-22 |
 | [TAKE OFF～赤いポルシェ～ \- 2023 Version](https://open.spotify.com/track/59O7pXJ61lzi4J8tJFAE6h) | [The Good\-Bye](https://open.spotify.com/artist/2tZR9hVz2yoMNAAvS1QwZ3) | [Oldies But Good Buy! Vol\. III](https://open.spotify.com/album/0XNtM27DPAOYcuPiReDtER) | 4:51 | 2023-09-05 | 2023-09-13 |
-| [Take your time](https://open.spotify.com/track/1AM9WKPL9CCq7PQ1rzWGVu) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Take your time](https://open.spotify.com/album/4DBfjcgzotZcMiG7ClPMPy) | 3:29 | 2026-02-17 |  |
+| [Take your time](https://open.spotify.com/track/1AM9WKPL9CCq7PQ1rzWGVu) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Take your time](https://open.spotify.com/album/4DBfjcgzotZcMiG7ClPMPy) | 3:29 | 2026-02-17 | 2026-02-25 |
 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 | 2023-06-15 | 2023-08-02 |
 | [Talk To You \- Prototype PGM Ver](https://open.spotify.com/track/1xDQCYeYMobil20w3vVyPH) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [MILAD \#2](https://open.spotify.com/album/4n9vbVhcs7u64Hcz10NgRu) | 2:58 | 2022-05-31 | 2022-06-02 |
 | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/track/6ih5w4QRlo6h75rbfqgBZg) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/album/7HTlTlJ0rWjVvVyR5ExNHh) | 5:31 | 2022-11-10 | 2022-11-23 |
@@ -1052,6 +1052,7 @@
 | [エバーグリーン](https://open.spotify.com/track/45QV763OHEY1m97VCFbzql) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [エバーグリーン](https://open.spotify.com/album/4UZQBNrKfv4S59Eg7VR4jd) | 4:13 | 2022-05-19 | 2022-07-25 |
 | [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 | 2024-04-03 | 2025-08-01 |
 | [エロイーズ](https://open.spotify.com/track/008UMp36siAtPubqLsV9ef) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [エロイーズ](https://open.spotify.com/album/5THXTAFk2nRmYJwSHvPY6I) | 4:06 | 2022-05-19 | 2022-05-25 |
+| [エンドロールタイマー](https://open.spotify.com/track/3n4e55GnEonSdZqSD7SMuT) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [エンドロールタイマー](https://open.spotify.com/album/749RO6yWEazWfeRa2n7W9h) | 4:43 | 2026-02-24 |  |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-13 |  |
 | [オートクチュール](https://open.spotify.com/track/57y16YFgicFBtzCnNVSrzk) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [オートクチュール](https://open.spotify.com/album/4pG489P1bIuHFYLpDmkowT) | 3:17 | 2022-05-12 | 2022-07-24 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2023-07-04 |  |

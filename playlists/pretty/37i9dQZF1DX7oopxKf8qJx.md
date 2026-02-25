@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,054 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,120 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 57 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
 | 58 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
 | 59 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
-| 60 | [Love Is a Many Splendoured Thing](https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8) | [Stanley Black and his Orchestra](https://open.spotify.com/artist/52ixPxvhj7veiIZLScC9K9) | [Hollywood Love Themes](https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ) | 3:44 |
+| 60 | [Green \- 1999 Remastered](https://open.spotify.com/track/3xCoRt3PkPJKpN8UnP3VXx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Conducts Tone Poems Of Color \(Remastered\)](https://open.spotify.com/album/5hIh9dtYekwchUA8tOgySP) | 4:03 |
 | 61 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [Lovely Lady](https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy) | 3:30 |
-| 62 | [Green \- 1999 Remastered](https://open.spotify.com/track/3xCoRt3PkPJKpN8UnP3VXx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Conducts Tone Poems Of Color \(Remastered\)](https://open.spotify.com/album/5hIh9dtYekwchUA8tOgySP) | 4:03 |
+| 62 | [Love Is a Many Splendoured Thing](https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8) | [Stanley Black and his Orchestra](https://open.spotify.com/artist/52ixPxvhj7veiIZLScC9K9) | [Hollywood Love Themes](https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ) | 3:44 |
 | 63 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
 | 64 | [Liebestraum](https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Pops Stoppers](https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9) | 4:11 |
 | 65 | [I Could Have Danced All Night \(From "My Fair Lady"\)](https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Ros on Broadway](https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V) | 2:31 |

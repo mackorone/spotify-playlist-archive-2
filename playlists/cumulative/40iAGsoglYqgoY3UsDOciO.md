@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-495 songs - 23 hr 53 min
+498 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [How Could I Miss You](https://open.spotify.com/track/4onjsgBG2lYeCTQEtlzAGk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [How Could I Miss You](https://open.spotify.com/album/0exsRFWlt4ycaJeXOHS6Hu) | 2:30 | 2023-07-26 |  |
 | [how much?](https://open.spotify.com/track/1mUNi6cLSNDDQUznHUG7E6) | [GZO](https://open.spotify.com/artist/789DyDVxb4jGQhG77USlEu), [NRTH](https://open.spotify.com/artist/0ETXTkdATJh2CB7ZI3TWd6) | [how much?](https://open.spotify.com/album/4pPYtx2zAsduDfuzPQCqmb) | 2:52 | 2024-07-26 |  |
 | [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 | 2023-07-26 |  |
+| [Hustle and Flow](https://open.spotify.com/track/1H9Dx5LQNxrzphL9GxoLJz) | [JkashMurkum](https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C), [Blanko Fatts](https://open.spotify.com/artist/7KuXAmWmnFy3VfIKSlkyzM), [JACKO](https://open.spotify.com/artist/3OC8FcvekGzR2bB8Pyf2v8), [SASSY GMG](https://open.spotify.com/artist/052TXoeWdC9wy5rJbfATR0) | [Hustle and Flow](https://open.spotify.com/album/19qd6ZxRRq4zEtAVU81s1w) | 3:10 | 2026-02-24 |  |
 | [i am Alright](https://open.spotify.com/track/6RzfJKnqls827LxosywPv5) | [K\-RE](https://open.spotify.com/artist/5AN3l0MyyitAVDxfkm78Pj) | [i am Alright](https://open.spotify.com/album/1QRciiuZNMK9OZmAmtRo62) | 2:13 | 2025-01-25 |  |
 | [I am not a robot](https://open.spotify.com/track/078k8YeljP4EtllR0DqsQi) | [Markeq](https://open.spotify.com/artist/6w0JFZFstrYbJzT9O2Lryg) | [Invitation to travel](https://open.spotify.com/album/4i5vdmKFPJVyT0pN7uzCfd) | 2:55 | 2024-06-18 |  |
 | [I Can't Lie \(with Kodak Black\)](https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [I Can't Lie \(with Kodak Black\) \[Versions\]](https://open.spotify.com/album/61ZFEiyOrBAMzrYGd9HMnR) | 3:06 | 2023-07-26 |  |
@@ -277,6 +278,7 @@
 | [Mr\. Tom](https://open.spotify.com/track/7jrTLliynTZPyKStXkG2xi) | [CALI](https://open.spotify.com/artist/7fHeDNHm0L1Ap99AvgdS6M) | [Mr\. Tom](https://open.spotify.com/album/6MfrZYWUSzsngRfYfVhdGQ) | 3:06 | 2024-11-18 |  |
 | [Mtmc](https://open.spotify.com/track/2RvhNQHQZpPUeGHMlra49Z) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp) | [Mtmc](https://open.spotify.com/album/02r1vO3J2UBenqXkdvJFRc) | 2:09 | 2025-12-11 |  |
 | [My Legacy](https://open.spotify.com/track/5EDSPYRpA7L4AJP5foKQaY) | [pait blaxton](https://open.spotify.com/artist/2Bfc7DqXTD62tt6xJ7H0jz) | [My Legacy](https://open.spotify.com/album/4flg7nwXshDDdoZMn2nnDc) | 3:10 | 2024-07-08 |  |
+| [My Mind Is a Void](https://open.spotify.com/track/0K1cYIykoKhDbYF3WHXNKT) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [My Mind Is a Void](https://open.spotify.com/album/7vDLJdt0tdllXZ6ZDINQb6) | 3:14 | 2026-02-24 |  |
 | [My Way Up](https://open.spotify.com/track/1Ow1KgqmivL7S8nGg40tDI) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Vanessa Macedo](https://open.spotify.com/artist/5G82Is68b0KHxvFBZSsd0r) | [My Way Up](https://open.spotify.com/album/2zhQNwywNIJgvIycnxOAi2) | 2:50 | 2024-07-26 |  |
 | [Nada a favor](https://open.spotify.com/track/40vHtIJGF327MEzCWQNvEM) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Entre gargantas y oídos](https://open.spotify.com/album/3kh5AEj633mAw7PNRdkctx) | 3:19 | 2025-01-25 |  |
 | [Namibia](https://open.spotify.com/track/3gPPLBP9O8cdssh7ajILpb) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Namibia](https://open.spotify.com/album/3l3gzBQVcaoSDCAXFHfSGX) | 4:40 | 2024-09-10 |  |
@@ -392,6 +394,7 @@
 | [So Fake](https://open.spotify.com/track/70drshuBEPNmSiNaqmzUDF) | [Morgan Wong](https://open.spotify.com/artist/1t8E1XBBGUxxrOsuBX7DRN) | [So Fake](https://open.spotify.com/album/0uyBiWKoMz9b7cLmEU9PZM) | 2:07 | 2024-07-21 |  |
 | [Soledad](https://open.spotify.com/track/7xwfuoQSskM9qrryzqPGhl) | [kunku\_arabe](https://open.spotify.com/artist/11gIrCC3WOekVJU2nF9o84) | [Soledad](https://open.spotify.com/album/7klALKfI1NeArf210gYKWZ) | 3:58 | 2024-08-05 |  |
 | [sometimes](https://open.spotify.com/track/1jIZtvTDNoorr4zuPNXu3F) | [Wowa](https://open.spotify.com/artist/3294idWcuMNPzGHcdszsA7) | [sometimes](https://open.spotify.com/album/2bfZwrFBbopUA6CCE4HDLh) | 3:15 | 2025-01-25 |  |
+| [Somos Más De Lo Que Vemos](https://open.spotify.com/track/7g86Hmc1LGJPWqZUDe7EK3) | [Adam Ashrei](https://open.spotify.com/artist/3YYTIWbnarG9IperSoNsfT) | [Somos Más De Lo Que Vemos](https://open.spotify.com/album/4zaI6x7L57L5AG20p3CuDu) | 5:03 | 2026-02-24 |  |
 | [Sorrows](https://open.spotify.com/track/4eAQk6uRmb3G8MWKoyM1iL) | [Wowa](https://open.spotify.com/artist/3294idWcuMNPzGHcdszsA7) | [Sorrows](https://open.spotify.com/album/301Lm4L75sOOzXBMafDk4C) | 4:22 | 2024-07-10 |  |
 | [Souffle Cèleste](https://open.spotify.com/track/3xnnqeRqTKho7YjLazFYc3) | [Jerocmusic](https://open.spotify.com/artist/3tCgLKbyfo0V6i7U0KMkB9) | [Souffle Cèleste](https://open.spotify.com/album/0K9VGVD1EuQQuH9JwRKEuU) | 3:36 | 2024-05-24 |  |
 | [Spanish Accent](https://open.spotify.com/track/6L43Fn5qz0SxBuAtRYioz8) | [T0k1](https://open.spotify.com/artist/2KmAVQOu4ed96IgsBKmz3u) | [9 0F M3](https://open.spotify.com/album/7LQZ0xzZ4JBQdXy26UOu89) | 2:31 | 2024-07-16 |  |

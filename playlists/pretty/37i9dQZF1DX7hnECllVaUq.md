@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Morgan Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,231 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,318 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 37 | [Holy Ground](https://open.spotify.com/track/6eVnBlQiQXms6bxnt0V8g4) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Holy Ground](https://open.spotify.com/album/2SPGc1itWblXqk3WDa7hJU) | 3:16 |
 | 38 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 |
 | 39 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
-| 40 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 |
-| 41 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
+| 40 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
+| 41 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 |
 | 42 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 |
 | 43 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 44 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 64 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 | 65 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
 | 66 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
-| 67 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
+| 67 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
 | 68 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
-| 69 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
+| 69 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
 | 70 | [Dream Baby](https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Dream Baby](https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V) | 3:37 |
-| 71 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
-| 72 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
+| 71 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
+| 72 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
 | 73 | [BOOTS 'N ALL](https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [BOOTS 'N ALL](https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm) | 2:45 |
 | 74 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 2:44 |
 | 75 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |

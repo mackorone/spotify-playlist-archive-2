@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,741 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,787 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 10 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/3gHn8eZRKss5cD4r3k3jCA) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 11 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
 | 12 | [La Duda \(Primera fila\) \- En Vivo](https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:23 |
-| 13 | [Cobarde](https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
+| 13 | [No la Beses \- Sesión de Estudio](https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:15 |
 | 14 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/2eSTnoRpEK2VXIccMbzXrE) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:48 |
 | 15 | [Señora](https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:42 |
 | 16 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
-| 17 | [No la Beses \- Sesión de Estudio](https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:15 |
+| 17 | [Cobarde](https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
 | 18 | [Si No Piensas Cambiar](https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 4:17 |
 | 19 | [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 |
 | 20 | [Ángel \(Angels\)](https://open.spotify.com/track/0oxpihgVSWeYrPoLVZ4udk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 49 | [A Dónde Va el Amor](https://open.spotify.com/track/4IXOuSEG9SHehdBRwEdezg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:44 |
 | 50 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
 
-Snapshot ID: `aZpHAAAAAAC0FSy1LUb9YuQktLBKWM51`
+Snapshot ID: `aZuYgAAAAABzWxTbpxmzKEirS1X1uTt3`

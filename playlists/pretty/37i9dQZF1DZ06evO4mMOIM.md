@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,571 likes - 36 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,572 likes - 36 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 28 | [Jesus Glue](https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:07 |
 | 29 | [new white extremity](https://open.spotify.com/track/7behUBBwhex459VBTOH0wT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 4:25 |
 | 30 | [Stations of the New Cross](https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 6:55 |
-| 31 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
-| 32 | [The Choice Is Yours](https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 3:47 |
+| 31 | [The Choice Is Yours](https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 3:47 |
+| 32 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
 | 33 | [citizen](https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:21 |
 | 34 | [U Mean I'm Not](https://open.spotify.com/track/2N97fOrsGpwkwTYtCvrPHd) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 1:38 |
 | 35 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
 | 36 | [cut and run](https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:10 |
 
-Snapshot ID: `aZpHAAAAAABrfjUmTlFZ/FOV8DdDAjbN`
+Snapshot ID: `aZuYgAAAAAB/SzoMEIbMXKf/CFV+0aJg`

@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 9 hr 31 min
+21 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 | 2020-11-27 |  |
 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2020-11-27 |  |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2020-11-27 |  |
-| [Kyle Meredith With..\. Ingrid Michaelson](https://open.spotify.com/episode/3vNRIcyly7Iueb8ETf6MNl) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 19:47 | 2020-11-27 |  |
+| [Kyle Meredith With..\. Ingrid Michaelson](https://open.spotify.com/episode/3vNRIcyly7Iueb8ETf6MNl) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 21:12 | 2020-11-27 |  |
 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 | 2020-11-27 |  |
 | [Norah Jones](https://open.spotify.com/episode/6Db8HyyK2vMteKwVoC1Bej) | [Anna Faris Is Unqualified](https://open.spotify.com/show/6ubUV2saxlMsNlrjK0oLqV) | [Anna Faris Is Unqualified](https://open.spotify.com/album/6ubUV2saxlMsNlrjK0oLqV) | 1:22:08 | 2020-11-27 |  |
 | [Season 1 Mike On Much: Jason Mraz \(\#123\)](https://open.spotify.com/episode/52Egi5VmJStEPEtNMSwb59) | [The Best Hang Podcast](https://open.spotify.com/show/5jZSR5YDg2WzSkvo5fFYO2) | [The Best Hang Podcast](https://open.spotify.com/album/5jZSR5YDg2WzSkvo5fFYO2) | 1:08:52 | 2020-11-27 |  |

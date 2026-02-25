@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 634093,
+  "num_followers": 634068,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABePlTm4v5Wxp/vOAh4tj11",
+  "snapshot_id": "aZuYgAAAAACveGkXfAns7wEYP6YK5Jbv",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Special Edition",
-        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
+        "name": "FLOWER ROAD",
+        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 223786,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
+      "duration_ms": 228631,
+      "name": "FLOWER ROAD",
+      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 231293,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb"
+      "duration_ms": 223786,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOWER ROAD",
-        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 228631,
-      "name": "FLOWER ROAD",
-      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
+      "duration_ms": 231293,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALIVE",
         "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 222186,
       "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
       "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
     },
     {
       "added_at": null,

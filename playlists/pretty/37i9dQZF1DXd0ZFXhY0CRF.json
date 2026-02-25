@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Nova Twins",
-  "num_followers": 780173,
+  "num_followers": 780172,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     },
     {
-      "added_at": "2025-09-26 04:00:31",
-      "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
-    },
-    {
       "added_at": "2025-09-02 23:00:32",
       "album": {
         "name": "my anti-aircraft friend",
@@ -875,6 +859,22 @@
       "duration_ms": 194240,
       "name": "catalogue",
       "url": "https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD"
+    },
+    {
+      "added_at": "2025-09-26 04:00:31",
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "No Obligation",
-        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 148500,
       "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "No Obligation",
+        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Down to be wrong",
-        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Down to be wrong",
-      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 262000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "Down to be wrong",
+        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Down to be wrong",
+      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "There's No Future In Optimism",
-        "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 200089,
-      "name": "There's No Future In Optimism",
-      "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Say It (To My Face)",
         "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 159308,
       "name": "Say It (To My Face)",
       "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "There's No Future In Optimism",
+        "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 200089,
+      "name": "There's No Future In Optimism",
+      "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
     },
     {
       "added_at": "2025-09-02 23:00:32",

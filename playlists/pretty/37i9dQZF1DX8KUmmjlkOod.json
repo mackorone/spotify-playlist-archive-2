@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 391964,
+  "num_followers": 391975,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Cuarteteando",
-        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
       "artists": [
         {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 261826,
-      "name": "Y Volo Volo",
-      "url": "https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT"
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+        "name": "Cuarteteando",
+        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
       },
       "artists": [
         {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+      "duration_ms": 261826,
+      "name": "Y Volo Volo",
+      "url": "https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Cuarteteando",
-        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 286426,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Cuarteteando",
+        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 286426,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme"
     },
     {
       "added_at": "2024-06-12 23:23:10",

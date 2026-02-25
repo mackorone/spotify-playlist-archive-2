@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 258462,
+  "num_followers": 258549,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "Diesel And Dust",
-        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Beds Are Burning - Remastered",
-      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "The Cars",
         "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 225626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "Diesel And Dust",
+        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
+      },
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Beds Are Burning - Remastered",
+      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "Bizarre Love Triangle",
-      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "The Best Of Cutting Crew",
         "url": "https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 278626,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
     },
     {
       "added_at": "2025-09-25 15:15:36",

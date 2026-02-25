@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating the neo\-soul classics Mzansi loves\. Cover: Jill Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,748 likes - 60 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,777 likes - 60 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 56 | [Come and Talk to Me \- Remix](https://open.spotify.com/track/5xE7sFTlv2yrG9mmhDSpdq) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:55 |
 | 57 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 |
 | 58 | [Sumthin' Sumthin' \- Remastered 2021](https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 4:17 |
-| 59 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
-| 60 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
+| 59 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
+| 60 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
 
-Snapshot ID: `AAAAAHItU9sSbyd+IOp4k6jHIM7EC63n`
+Snapshot ID: `AAAAABvX6tcxNxQfoeKzeBJblQYQgwh7`

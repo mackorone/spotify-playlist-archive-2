@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
 
-723 songs - 1 day 17 hr 12 min
+724 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Kannadi Kaadhal](https://open.spotify.com/track/0QQFLawqnCCkakWlVjoNH2) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [Kannadi Kaadhal](https://open.spotify.com/album/68W8QRoknzyEaCa29pChdZ) | 1:17 | 2024-02-01 | 2024-04-05 |
 | [Kannadi Kaadhal](https://open.spotify.com/track/47WrhLnsR1m70M12EVhuiq) | [Sharan musician](https://open.spotify.com/artist/0PQ7Qxxuybj8aNYQEKUV53) | [Kannadi Kaadhal](https://open.spotify.com/album/4JrXLB4Hd01QUkT717ZLX6) | 1:17 | 2023-10-10 | 2024-02-21 |
 | [Kannadi Mugam](https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2) | [Vishnu](https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA) | [Kannadi Mugam](https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM) | 3:32 | 2024-05-03 | 2024-12-06 |
+| [Kannala Thakatha](https://open.spotify.com/track/3cCGoJrXV5LAS2uuV8CvEh) | [Kirusanth Edman](https://open.spotify.com/artist/2kbtFqE0UNvkMyyQVDFLTL), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kannala Thakatha](https://open.spotify.com/album/6LmA6UxbxBP763f06TJERt) | 3:13 | 2026-02-24 |  |
 | [Kanne](https://open.spotify.com/track/5UCmPFvHbfb9cOcdEVc44M) | [Vivek Leo](https://open.spotify.com/artist/7nyXMk3a3vruVCqXwtXDIy), [Juvainy Mohd](https://open.spotify.com/artist/7zssdQMMHxUG0bWf88Stw8) | [Kanne](https://open.spotify.com/album/0lNDSWNDSz8NmBStBmQK3A) | 2:53 | 2025-03-17 | 2025-06-04 |
 | [Kanni Boyz](https://open.spotify.com/track/4VGUCHyLaycOXTdAieUbXr) | [RK Arvin](https://open.spotify.com/artist/21MmZBL1Slz0VCTr8vnPBM), [Rk Tharan](https://open.spotify.com/artist/2teckjfXrt39sR75clLegg) | [Kanni Boyz](https://open.spotify.com/album/3ob0EpYK2eGjerGwZSCOWD) | 3:51 | 2024-12-05 | 2025-02-25 |
 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 | 2023-03-21 | 2023-09-26 |

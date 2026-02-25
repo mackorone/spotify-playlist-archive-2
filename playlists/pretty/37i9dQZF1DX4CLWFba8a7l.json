@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Chet Faker",
-  "num_followers": 136048,
+  "num_followers": 136054,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
         "name": "Sweet Disposition (a moment, a love)",
         "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
@@ -215,18 +231,18 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 298783,
-      "name": "My Old Ways",
-      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -283,22 +299,6 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
         "name": "Tears Dry Tonight",
         "url": "https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 167142,
       "name": "Tears Dry Tonight",
       "url": "https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -351,18 +367,18 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+      "duration_ms": 264124,
+      "name": "Day To Night",
+      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -379,22 +395,6 @@
       "duration_ms": 187826,
       "name": "A PERFECT WORLD",
       "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 264124,
-      "name": "Day To Night",
-      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "HOW DOES IT FEEL?",
-        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 137689,
-      "name": "HOW DOES IT FEEL?",
-      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
         "name": "End Of Summer",
         "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
+        "name": "HOW DOES IT FEEL?",
+        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 137689,
+      "name": "HOW DOES IT FEEL?",
+      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -511,6 +511,22 @@
       "duration_ms": 206788,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -551,18 +567,18 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6"
+        "name": "Divine Feelings",
+        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ"
+      "duration_ms": 208176,
+      "name": "Divine Feelings",
+      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -579,22 +595,6 @@
       "duration_ms": 284339,
       "name": "Over You",
       "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
-        "name": "Divine Feelings",
-        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 208176,
-      "name": "Divine Feelings",
-      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
+        "name": "wraith",
+        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 245892,
+      "name": "summer in december",
+      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
         "name": "This isn\u2019t what you think it is (EP)",
         "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 199395,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
-        "name": "wraith",
-        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 245892,
-      "name": "summer in december",
-      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "Never Love",
-        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 210203,
-      "name": "Never Love",
-      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
         "name": "FACEDOWN",
         "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 221818,
       "name": "FACEDOWN",
       "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
+        "name": "Never Love",
+        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 210203,
+      "name": "Never Love",
+      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -1011,6 +1011,54 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
+        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "WARCRY",
+      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
+        "name": "What Makes a Girl a Girl",
+        "url": "https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 197544,
+      "name": "Where Our Streets Met",
+      "url": "https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
+        "name": "Telephone Busy",
+        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
         "name": "GEEKD",
         "url": "https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd"
       },
@@ -1043,34 +1091,18 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "Telephone Busy",
-        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+        "name": "REMIND ME",
+        "url": "https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 195806,
-      "name": "Telephone Busy",
-      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
-        "name": "What Makes a Girl a Girl",
-        "url": "https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 197544,
-      "name": "Where Our Streets Met",
-      "url": "https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA"
+      "duration_ms": 214761,
+      "name": "REMIND ME",
+      "url": "https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -1111,22 +1143,6 @@
       "duration_ms": 199690,
       "name": "gossip",
       "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
-        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
-        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "WARCRY",
-      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 208890,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
         "name": "What Makes A Girl",
         "url": "https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 248876,
       "name": "Muse",
       "url": "https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP"
+    },
+    {
+      "added_at": "2026-02-19 13:01:07",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
       "added_at": "2026-02-19 13:01:07",
@@ -1255,34 +1271,18 @@
     {
       "added_at": "2026-02-19 13:01:07",
       "album": {
-        "name": "REMIND ME",
-        "url": "https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu"
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
       },
       "artists": [
         {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 214761,
-      "name": "REMIND ME",
-      "url": "https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l"
-    },
-    {
-      "added_at": "2026-02-19 13:01:07",
-      "album": {
-        "name": "Please Don't Move To Melbourne",
-        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
-      },
-      "artists": [
-        {
-          "name": "Ball Park Music",
-          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
-        }
-      ],
-      "duration_ms": 291153,
-      "name": "Please Don't Move To Melbourne",
-      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
+      "duration_ms": 186971,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
     }
   ],
   "unique_name": "Turn Up Aus",

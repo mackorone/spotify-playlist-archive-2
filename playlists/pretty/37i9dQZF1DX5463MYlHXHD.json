@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 591842,
+  "num_followers": 591883,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+        "name": "DIME SI ERES FELIZ VOL.2",
+        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
+      "duration_ms": 171667,
+      "name": "DIME SI ERES FELIZ VOL.2",
+      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -423,22 +427,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "DIME SI ERES FELIZ VOL.2",
-        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 171667,
-      "name": "DIME SI ERES FELIZ VOL.2",
-      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
+      "duration_ms": 248440,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 237586,
       "name": "Porque te vas",
       "url": "https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Su Majestad",
-        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 204022,
       "name": "Cual Fue? - Remix",
       "url": "https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Su Majestad",
-        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 236016,
-      "name": "Dile Tu",
-      "url": "https://open.spotify.com/track/0VcW26sjYxiQCPFkXstR5z"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 236016,
+      "name": "Dile Tu",
+      "url": "https://open.spotify.com/track/0VcW26sjYxiQCPFkXstR5z"
     },
     {
       "added_at": "2026-02-13 19:04:43",

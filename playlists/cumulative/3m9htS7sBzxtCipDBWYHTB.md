@@ -4,13 +4,14 @@
 
 > The numb flavor of depression
 
-30 songs - 1 hr 44 min
+31 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 | 2023-07-09 | 2024-10-01 |
 | [Billy The Kid's Dream Of The Magic Shoes](https://open.spotify.com/track/6UKIygZDcwFy8uOpP8tbjC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Protein Source Of The Future..\. Now!](https://open.spotify.com/album/51m8MbCu9l4ecj1PhkShHF) | 2:06 | 2024-11-20 |  |
 | [Birth of Serpents](https://open.spotify.com/track/0KMHoeMX9IOY7IoWDVtpVy) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Eternals Deck](https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX) | 3:07 | 2023-03-03 |  |
+| [Bottom of the Pit \(feat\. Sam Haft\)](https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [In Sound Mind \- Original Soundtrack](https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr) | 4:00 | 2026-02-24 |  |
 | [Burning Pile](https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 4:22 | 2026-02-21 |  |
 | [Color in Your Cheeks](https://open.spotify.com/track/5NfLknyes6L0h5dDB6ZPck) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 2:40 | 2023-03-23 |  |
 | [Dark in Here](https://open.spotify.com/track/2o2stv4uGKSYuUaghBTVX3) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dark in Here](https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4) | 3:23 | 2025-02-17 |  |

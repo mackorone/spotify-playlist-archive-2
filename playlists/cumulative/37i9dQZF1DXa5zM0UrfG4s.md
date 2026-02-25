@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-434 songs - 19 hr 53 min
+435 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Gatebil](https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Gatebil](https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH) | 2:08 | 2022-07-03 | 2023-03-28 |
 | [Gårdsgutt](https://open.spotify.com/track/4PZt3HFcJnC4QZQhBgEiQC) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gårdsgutt](https://open.spotify.com/album/3xA6BKhYcsHshzx51a6hbc) | 2:40 | 2021-12-16 | 2022-07-27 |
 | [Gi Meg En Sjanse Til](https://open.spotify.com/track/3gf8Z0aUCru0UyYDx1WHuE) | [Ole Evenrud](https://open.spotify.com/artist/3eCnw9ALVckuWnJhXNuXNL) | [Gi Meg En Sjanse Til](https://open.spotify.com/album/5c1TX10yAZCGhC0ar9YMAj) | 2:26 | 2023-07-13 | 2023-07-18 |
+| [Gikk en tur på stien](https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Gikk en tur på stien](https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS) | 2:23 | 2026-02-19 |  |
 | [Goddess](https://open.spotify.com/track/0w1Qg8R267fYdcPDDi2Yoj) | [Olje](https://open.spotify.com/artist/0DA5Q5urbnY2wrnXF5hTVp) | [Goddess](https://open.spotify.com/album/53BLBDKlPB8fvOQwifBiRB) | 2:40 | 2022-04-28 | 2022-05-28 |
 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 | 2022-07-28 | 2025-03-28 |
 | [Granada](https://open.spotify.com/track/7mBxJDprUn3C1uRWBe3DJa) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar Med Dobbelseng](https://open.spotify.com/album/1s98zJHIwTJg5nBkkEeBRo) | 3:10 | 2021-12-16 | 2022-07-20 |
@@ -176,7 +177,7 @@
 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 | 2025-03-28 |
 | [Harry stil](https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Harry stil](https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy) | 2:41 | 2024-04-25 | 2024-08-16 |
 | [Harryhandel Halleluja](https://open.spotify.com/track/2nERzk99mUpwd8XrBOVADz) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Harryhandel Halleluja](https://open.spotify.com/album/7CX0XAiJpBFkFr2sA376fo) | 2:03 | 2021-12-16 | 2022-06-30 |
-| [Heidi](https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Heidi](https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g) | 2:04 | 2024-10-21 |  |
+| [Heidi](https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Heidi](https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g) | 2:04 | 2024-10-21 | 2026-02-25 |
 | [Heidis](https://open.spotify.com/track/6KEt31AgbIWvf9EIc4A8UW) | [Jövial](https://open.spotify.com/artist/4J67wA6BzNiosOXRTR6MPf) | [Heidis](https://open.spotify.com/album/4poJNaMxQW1OtK1pZeY33G) | 2:18 | 2022-02-17 | 2022-04-29 |
 | [Heidi´s i kveld](https://open.spotify.com/track/14GK1ZYM4q8bOpRO9bEt2T) | [TuVeia](https://open.spotify.com/artist/07BGSPHXFOdX2Ln6McOd1z) | [Heidi’s i kveld](https://open.spotify.com/album/68z4K2Gpakq9cc0Dlb97Cs) | 2:36 | 2022-05-19 | 2022-07-16 |
 | [Heim Til Nordfjord](https://open.spotify.com/track/2muikWIFUbTklgyhSkDTLF) | [Steinar Engelbrektson](https://open.spotify.com/artist/0OZ0FjkvLXQQrkHCXA2ufM) | [Ekte Speleglede](https://open.spotify.com/album/6aDWhRN1u179ghvcp4sBGi) | 3:20 | 2021-12-16 | 2022-04-17 |

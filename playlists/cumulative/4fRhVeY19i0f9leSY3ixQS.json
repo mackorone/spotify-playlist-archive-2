@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "I guess",
+        "url": "https://open.spotify.com/album/6KQ3iDLzDz34mf4C2zBmWT"
+      },
+      "artists": [
+        {
+          "name": "Everything's Fine",
+          "url": "https://open.spotify.com/artist/1NRMXgoBhJEOc5sKKsKuum"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146124,
+      "name": "all I can say",
+      "url": "https://open.spotify.com/track/3HimN5yc5g2tF5a4B0Vxrw"
+    },
+    {
+      "album": {
         "name": "Kraig Durco II",
         "url": "https://open.spotify.com/album/1M1QBNgPUB3EBMiFqguh8V"
       },
@@ -2413,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Catatonic",
+        "url": "https://open.spotify.com/album/2Fi9meDdvnCjP7wLwvq1hR"
+      },
+      "artists": [
+        {
+          "name": "Dummy Head Torpedo",
+          "url": "https://open.spotify.com/artist/3g0rrMRrcxiccPA27ABAZX"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Catatonic",
+      "url": "https://open.spotify.com/track/4rlnDyNkXZAaYOimIRVrpz"
+    },
+    {
+      "album": {
         "name": "Chains We Don\u2019t See",
         "url": "https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1"
       },
@@ -2503,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Children of No Nation",
+        "url": "https://open.spotify.com/album/1M4M17vcuHlclnUkWQr2ux"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Tomorrow",
+          "url": "https://open.spotify.com/artist/5GGQVa7pVPyY2bMRqtV19c"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293990,
+      "name": "Children of No Nation",
+      "url": "https://open.spotify.com/track/4qvESKscIDmmu5JsT3dapu"
+    },
+    {
+      "album": {
         "name": "Chipped Away",
         "url": "https://open.spotify.com/album/65AtpXTB1iunAph25q5eiE"
       },
@@ -2536,6 +2590,24 @@
       "duration_ms": 74428,
       "name": "Choke",
       "url": "https://open.spotify.com/track/4KfJUAzVHZjMdnqppSxpT1"
+    },
+    {
+      "album": {
+        "name": "Church Of Lie (Remix)",
+        "url": "https://open.spotify.com/album/0updQwHb137cfnlkfl2eqE"
+      },
+      "artists": [
+        {
+          "name": "Electric BlindFold",
+          "url": "https://open.spotify.com/artist/2OzZt06pUFhxbinEGey4Ng"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183221,
+      "name": "Church Of Lie - Remix I",
+      "url": "https://open.spotify.com/track/64VaMBSrYtEC4dd1ZFJq3N"
     },
     {
       "album": {
@@ -3120,6 +3192,24 @@
       "duration_ms": 222119,
       "name": "Dad Was Right",
       "url": "https://open.spotify.com/track/5l0sDmT6mdbofraPiYVaX6"
+    },
+    {
+      "album": {
+        "name": "Urine for a Treat!",
+        "url": "https://open.spotify.com/album/4L8uDG383No8264PsYSJnN"
+      },
+      "artists": [
+        {
+          "name": "Dave Eats Mud",
+          "url": "https://open.spotify.com/artist/2pamuQ8EAimLz16lgOucBd"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221466,
+      "name": "Dan Starts",
+      "url": "https://open.spotify.com/track/0tqWU2Lcdor1XI5jejKhjU"
     },
     {
       "album": {
@@ -3808,6 +3898,32 @@
       "duration_ms": 66836,
       "name": "Disclaimer*",
       "url": "https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or"
+    },
+    {
+      "album": {
+        "name": "Disgrace",
+        "url": "https://open.spotify.com/album/2qSaKUub8VjDdw69fyfgSu"
+      },
+      "artists": [
+        {
+          "name": "Neurasthenic",
+          "url": "https://open.spotify.com/artist/0ybvYZgxRQWGifh9Fi3Ogr"
+        },
+        {
+          "name": "Burnt Log",
+          "url": "https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC"
+        },
+        {
+          "name": "North Pope",
+          "url": "https://open.spotify.com/artist/2KRTFJ3tkGjQLYl5eS8obs"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Disgrace",
+      "url": "https://open.spotify.com/track/5x8SJh0vyRhPbwJaghlv7M"
     },
     {
       "album": {
@@ -4638,7 +4754,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 214508,
       "name": "Everybody Thinks That I'm Alive",
       "url": "https://open.spotify.com/track/7lbQJyzKZhdRWMYNn0ENrx"
@@ -5608,6 +5724,24 @@
       "duration_ms": 333103,
       "name": "Glass Slipper",
       "url": "https://open.spotify.com/track/6CLvcTLTmJLrPyaIfH1zpK"
+    },
+    {
+      "album": {
+        "name": "In My Own Way",
+        "url": "https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi"
+      },
+      "artists": [
+        {
+          "name": "Field of View",
+          "url": "https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150102,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR"
     },
     {
       "album": {
@@ -10945,6 +11079,24 @@
     },
     {
       "album": {
+        "name": "Polaroid Damage",
+        "url": "https://open.spotify.com/album/4CFXupdSv9oSMTJhoranxk"
+      },
+      "artists": [
+        {
+          "name": "The DT's",
+          "url": "https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180071,
+      "name": "Polaroid Damage",
+      "url": "https://open.spotify.com/track/3PMEO9GJF45orl04l66Tsz"
+    },
+    {
+      "album": {
         "name": "Polumrak",
         "url": "https://open.spotify.com/album/5xXHg4fcigTb880hIjc6x5"
       },
@@ -12650,6 +12802,24 @@
       "duration_ms": 183347,
       "name": "Shortchanged Even Shorter",
       "url": "https://open.spotify.com/track/3yUpbRXgwt0yftpRTlfeRK"
+    },
+    {
+      "album": {
+        "name": "Non Stop Fever",
+        "url": "https://open.spotify.com/album/47kVxZySdExNYj6dZ0M7W1"
+      },
+      "artists": [
+        {
+          "name": "Cherokee Death Cats",
+          "url": "https://open.spotify.com/artist/6bNsVEFV741xId1pufFwZv"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Shout it Out",
+      "url": "https://open.spotify.com/track/6dO45ThPk5v39uNBkYDpwH"
     },
     {
       "album": {
@@ -15355,6 +15525,24 @@
     },
     {
       "album": {
+        "name": "Trading Places",
+        "url": "https://open.spotify.com/album/57tDyu1HgzyP3HWCplzCWe"
+      },
+      "artists": [
+        {
+          "name": "Slackr",
+          "url": "https://open.spotify.com/artist/4GrBSLkUFMAVRGdnmiM5K8"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Trading Places",
+      "url": "https://open.spotify.com/track/6DMVSvgxZz0QMuCvlivFc7"
+    },
+    {
+      "album": {
         "name": "Trainjuice",
         "url": "https://open.spotify.com/album/5KZ1QRg5HnyPay7xrKflbb"
       },
@@ -15492,7 +15680,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 208834,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/1MER0YAsu55Gut37JVsPG8"
@@ -16322,6 +16510,24 @@
       "duration_ms": 178666,
       "name": "whatever happened to our love?",
       "url": "https://open.spotify.com/track/3Z7mI36blYHoiJympK3zxK"
+    },
+    {
+      "album": {
+        "name": "When's Enough, Enough?",
+        "url": "https://open.spotify.com/album/7IVo02PAQUZ04NQ5KAcku5"
+      },
+      "artists": [
+        {
+          "name": "THE IMMUNE",
+          "url": "https://open.spotify.com/artist/4l4TN4yWTI8QWNklsOCSyr"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192135,
+      "name": "When's Enough, Enough?",
+      "url": "https://open.spotify.com/track/003TdiLvCbl3rAqpnsnFDS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > ➡️ ➡️ ➡️ gute Laune.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,369 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906,269 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 3 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 4 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 5 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 6 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 7 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 6 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 7 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 8 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 9 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 10 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 27 | [Writing's On The Wall](https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:49 |
 | 28 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
 | 29 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
-| 30 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 |
-| 31 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
+| 30 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
+| 31 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 |
 | 32 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 33 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 34 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 68 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 69 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
 | 70 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
-| 71 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 |
-| 72 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 |
+| 71 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 |
+| 72 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 |
 | 73 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
 | 74 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 |
 | 75 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |

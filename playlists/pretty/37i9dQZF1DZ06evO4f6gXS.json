@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3562,
+  "num_followers": 3563,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAnQ2RV23S0Xg8r8rFz79kv",
+  "snapshot_id": "aZuYgAAAAABY74fcSlPifu9bsALxHhsl",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 276973,
-      "name": "Ah, Ah, Ah, Ah",
-      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
+      "duration_ms": 280000,
+      "name": "Won't Let You Take It Back",
+      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
     },
     {
       "added_at": null,
@@ -476,29 +476,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Won't Let You Take It Back",
-      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Central, Vol. 1",
-        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
-      },
-      "artists": [
-        {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
-        },
-        {
-          "name": "Errol Michael Henry",
-          "url": "https://open.spotify.com/artist/0u9Gskqap0OyqsdtBqYUag"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Please Come Back",
-      "url": "https://open.spotify.com/track/63icbDiDWBKZlnwR7bMJzQ"
+      "duration_ms": 276973,
+      "name": "Ah, Ah, Ah, Ah",
+      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
     },
     {
       "added_at": null,
@@ -567,18 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Central, Vol. 1",
-        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
       },
       "artists": [
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/50UOjlh09B4y1OBbNMPQwF"
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
     },
     {
       "added_at": null,
@@ -592,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Sweet Ecstasy",
-      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
+      "duration_ms": 270666,
+      "name": "You Threw Our Love Away",
+      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
     },
     {
       "added_at": null,
@@ -631,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
       "artists": [
         {
@@ -640,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,
@@ -656,29 +636,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 270666,
-      "name": "You Threw Our Love Away",
-      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Central, Vol. 1",
-        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
-      },
-      "artists": [
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
-        },
-        {
-          "name": "Errol Michael Henry",
-          "url": "https://open.spotify.com/artist/0u9Gskqap0OyqsdtBqYUag"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Lovers for Life",
-      "url": "https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus"
+      "duration_ms": 218493,
+      "name": "Sweet Ecstasy",
+      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
     },
     {
       "added_at": null,
@@ -699,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
       },
       "artists": [
         {
@@ -708,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+      "duration_ms": 155186,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec"
     },
     {
       "added_at": null,

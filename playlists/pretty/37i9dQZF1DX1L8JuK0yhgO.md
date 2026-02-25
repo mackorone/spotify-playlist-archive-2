@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,335 likes - 68 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,337 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 61 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 62 | [Sazerac](https://open.spotify.com/track/6t88qUqSedbkka0k3xB1L0) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [Sazerac](https://open.spotify.com/album/3plsOmW2Kosva50UlQ6Z4g) | 3:08 |
 | 63 | [INNER RISE](https://open.spotify.com/track/3fmmkjuxhyxcRbmjPEmxrj) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK), [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [INNER OPENINGS](https://open.spotify.com/album/1XdkhXGH1bV8n1gMBEDzfY) | 4:10 |
-| 64 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |
-| 65 | [MILLIONAIRE](https://open.spotify.com/track/71sG2ZLzf2EBQsiVPNc4T8) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [MILLIONAIRE](https://open.spotify.com/album/6MTFga6Cwh9NWWMPosjKrM) | 3:33 |
-| 66 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
-| 67 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
-| 68 | [AMENTET](https://open.spotify.com/track/460g3Sn2JPPbySTjjiG5qS) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [AMENTET](https://open.spotify.com/album/6mPYt3RF5t2Gul8OxOOW1R) | 2:29 |
+| 64 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
+| 65 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |
+| 66 | [MILLIONAIRE](https://open.spotify.com/track/71sG2ZLzf2EBQsiVPNc4T8) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ) | [MILLIONAIRE](https://open.spotify.com/album/6MTFga6Cwh9NWWMPosjKrM) | 3:33 |
+| 67 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
+| 68 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
+| 69 | [The Lobby](https://open.spotify.com/track/3S9fUHrEJ7NSOswsEtcwMs) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [The Lobby](https://open.spotify.com/album/2gWytF2ZcOP1JRxwQ8xPWE) | 3:02 |
+| 70 | [AMENTET](https://open.spotify.com/track/460g3Sn2JPPbySTjjiG5qS) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [AMENTET](https://open.spotify.com/album/6mPYt3RF5t2Gul8OxOOW1R) | 2:29 |
 
-Snapshot ID: `AAAAADfzor0zQ6H2mRqi0cvLGpsiLxAI`
+Snapshot ID: `AAAAAN1EgJitsvaIj1Js/IIzxbH1spr8`

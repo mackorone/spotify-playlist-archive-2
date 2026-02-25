@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 350 likes - 54 songs - 3 hr 32 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 349 likes - 55 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 52 | [Lobo Enjaulado](https://open.spotify.com/track/1Emlppibbbk0q4dwzbdGMr) | [P.R.O.A.](https://open.spotify.com/artist/6cMptGtvHkjH88qP0s57eO) | [Lobo Enjaulado](https://open.spotify.com/album/63rBMmyVAlIWjCJGGa7ySM) | 6:05 |
 | 53 | [Parasite](https://open.spotify.com/track/3XsQHlQKnZ9utK0vVpiUc3) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 4:07 |
 | 54 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 |
+| 55 | [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 |
 
-Snapshot ID: `AAABQSmPw3VmdqGvG+UE1K5MfETRyXPp`
+Snapshot ID: `AAABQrjtgp1wBhZaDCj5aiWW+KpOPbMH`

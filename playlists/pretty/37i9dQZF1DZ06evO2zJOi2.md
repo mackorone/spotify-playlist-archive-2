@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,976 likes - 34 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,025 likes - 34 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 33 | [Chain Smokin'](https://open.spotify.com/track/47FkZKuNcRg98jF9yrPPdm) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Chain Smokin'](https://open.spotify.com/album/3lNt5Hj6h9VVwO45I8uYJN) | 3:42 |
 | 34 | [Up Down \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:17 |
 
-Snapshot ID: `aZpHAAAAAADeCTXXYuUKvu1Q4oJHeqLp`
+Snapshot ID: `aZuYgAAAAACwCrSVmHQrSLVcgicIWrKx`

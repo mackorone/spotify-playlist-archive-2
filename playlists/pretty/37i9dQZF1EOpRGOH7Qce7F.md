@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpRGOH7Qce7F.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 |
 | 2 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
-| 3 | [Kyle Meredith With..\. Arctic Monkeys](https://open.spotify.com/episode/7vUm8xRxYYumefVxop2Rks) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 17:41 |
+| 3 | [Kyle Meredith With..\. Arctic Monkeys](https://open.spotify.com/episode/7vUm8xRxYYumefVxop2Rks) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 19:06 |
 | 4 | [Lotus Eater](https://open.spotify.com/track/6ReKt5x6FVUXTMdWNC6GAQ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 3:02 |
 | 5 | [Foster the People's Mark Foster on the Slow Climb of 'Sit Next to Me,' Being Inspired by Drake & S'mores With Paramore](https://open.spotify.com/episode/2n5PUhujQouWZer7kvJFQJ) | [Pop Shop Podcast](https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ) | [Pop Shop Podcast](https://open.spotify.com/album/6Up21LReNRTrMTa6O3mkKJ) | 53:53 |
 | 6 | [Old 45's](https://open.spotify.com/track/3tynLfCMPGbkMKLm9p960T) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:47 |

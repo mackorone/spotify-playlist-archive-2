@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 
 > A metal soundtrack for headbangers of all ages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,301 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,343 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 24 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
 | 25 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
 | 26 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 |
-| 27 | [Rock Of Ages](https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Deluxe\)](https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu) | 4:07 |
-| 28 | [You've Got Another Thing Coming](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 5:10 |
+| 27 | [You've Got Another Thing Coming](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 5:10 |
+| 28 | [Rock Of Ages](https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Deluxe\)](https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu) | 4:07 |
 | 29 | [Fade To Black \(Remastered\)](https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:57 |
 | 30 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
 | 31 | [Let There Be Rock](https://open.spotify.com/track/753KutoAy00apPsplMRetG) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 6:06 |
 | 32 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
-| 33 | [Holy Diver](https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q) | [Dio](https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 5:53 |
-| 34 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
+| 33 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
+| 34 | [Holy Diver](https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q) | [Dio](https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 5:53 |
 | 35 | [Flight of Icarus \- 2015 Remaster](https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 3:50 |
 | 36 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 |
 | 37 | [Eruption \- 2015 Remaster](https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 1:42 |
-| 38 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 |
-| 39 | [Living After Midnight](https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:30 |
+| 38 | [Living After Midnight](https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:30 |
+| 39 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 |
 | 40 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
 | 41 | [No More Mr\. Nice Guy](https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 3:07 |
 | 42 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 |

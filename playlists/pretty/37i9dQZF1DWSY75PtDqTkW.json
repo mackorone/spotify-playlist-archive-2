@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 117137,
+  "num_followers": 117159,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAAuXxjNkRXxgpUaPIFu79FU6lGJ+",
   "tracks": [
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Bigger, Better, Faster, More !",
         "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -159,22 +175,6 @@
       "duration_ms": 126458,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -631,8 +631,8 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -695,6 +695,38 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -727,22 +759,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Bigger Than Both Of Us",
         "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 142786,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Jolene (Expanded Edition)",
         "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 242733,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 255875,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -1175,6 +1191,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1207,38 +1239,6 @@
       "duration_ms": 231733,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 189432,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Dusty In Memphis",
-        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Son Of A Preacher Man",
-      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Dusty In Memphis",
+        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Just Breathe",
-      "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
+      "duration_ms": 164173,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1559,6 +1559,22 @@
       "duration_ms": 266573,
       "name": "Runaway Train (2022 Remaster)",
       "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Just Breathe",
+      "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Dusty... Definitely (Expanded Edtion)",
-        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164173,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 367333,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Harvest (2009 Remaster)",
-        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Heart of Gold - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 291200,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Harvest (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Heart of Gold - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 134800,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Finest Hour: The Best of Gavin DeGraw",
-        "url": "https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 240565,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/08Vij9GYqUjyAgSvcJxWW6"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Common Linnets",
         "url": "https://open.spotify.com/album/5Vw9o8lKtDODFDX9abMaSw"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 234253,
       "name": "Still Loving After You",
       "url": "https://open.spotify.com/track/3ghBO6rzE71dMd97kjJnmN"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Finest Hour: The Best of Gavin DeGraw",
+        "url": "https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 240565,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/08Vij9GYqUjyAgSvcJxWW6"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3275,22 +3275,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -3307,18 +3291,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz"
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
       },
       "artists": [
         {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 334040,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp"
+      "duration_ms": 356733,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3335,6 +3319,22 @@
       "duration_ms": 280040,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3407,6 +3407,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Up From Below",
         "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
       },
@@ -3435,22 +3451,6 @@
       "duration_ms": 256653,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3503,22 +3503,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Little Girl Blue (2013 Remastered Version)",
         "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
@@ -3535,18 +3519,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Ice On Fire (Remastered With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
         }
       ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3563,6 +3547,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Ice On Fire (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3663,6 +3663,26 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "A Love Song Collection",
+        "url": "https://open.spotify.com/album/0AtWFXOdX6hnMIXRfpYoyS"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 249880,
+      "name": "Islands In The Stream",
+      "url": "https://open.spotify.com/track/4WrwO9Un3ji5wnNySDGHwQ"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Nothing Like The Sun",
         "url": "https://open.spotify.com/album/4ecNI9MO1rG2p5Q9xUxQ4X"
       },
@@ -3675,6 +3695,22 @@
       "duration_ms": 266960,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/5wVylZHmBid99XzEsz8Fk7"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3743,42 +3779,6 @@
       "duration_ms": 183333,
       "name": "Smooth Sailin'",
       "url": "https://open.spotify.com/track/7ll3XGMKU9EbyFc4JX3fqk"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "A Love Song Collection",
-        "url": "https://open.spotify.com/album/0AtWFXOdX6hnMIXRfpYoyS"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 249880,
-      "name": "Islands In The Stream",
-      "url": "https://open.spotify.com/track/4WrwO9Un3ji5wnNySDGHwQ"
     },
     {
       "added_at": "2024-11-13 17:10:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,459 likes - 401 songs - 22 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,458 likes - 401 songs - 22 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 82 | [Forgive You](https://open.spotify.com/track/1sfTdlWfcFdI7NfmcfZPii) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:41 |
 | 83 | [Dope](https://open.spotify.com/track/55DuTmvSGwNQR4cBgqYuYL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:43 |
 | 84 | [GASOLINE](https://open.spotify.com/track/5jWcNM7uHhsAj9yuypurdP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:41 |
-| 85 | [Back to Beautiful](https://open.spotify.com/track/5wbrX8xNwkrNdXf6lBWvP0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Back to Beautiful](https://open.spotify.com/album/4CNA4ZgPRexRwmcouZaCSp) | 3:22 |
-| 86 | [Tonight I Might](https://open.spotify.com/track/2Ih0CPdyK7SwbTUUkpun16) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:36 |
+| 85 | [Tonight I Might](https://open.spotify.com/track/2Ih0CPdyK7SwbTUUkpun16) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:36 |
+| 86 | [Back to Beautiful](https://open.spotify.com/track/5wbrX8xNwkrNdXf6lBWvP0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Back to Beautiful](https://open.spotify.com/album/4CNA4ZgPRexRwmcouZaCSp) | 3:22 |
 | 87 | [Hesitate](https://open.spotify.com/track/7fiFJADUcHwTdYLmnZeLAy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:28 |
 | 88 | [Chromatica II](https://open.spotify.com/track/0oQc0F6KUE7QY7k5TU6bic) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 0:41 |
 | 89 | [A Little Bit Happy](https://open.spotify.com/track/5F2l8MpjysPrqxk0xq7fiU) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:15 |
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 166 | [Outsiders](https://open.spotify.com/track/1iwQdUngDyaxhq0s2PqVUx) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Outsiders](https://open.spotify.com/album/29E3D3LWKCGqGanmEjeO5E) | 3:49 |
 | 167 | [MF Diamond](https://open.spotify.com/track/0IrKiuLgqn0OKgpc946yWG) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [MF Diamond](https://open.spotify.com/album/5ADnPZHWItRHANWoJRRcZl) | 2:47 |
 | 168 | [Little Bit Of Love \- Anton Powers Remix](https://open.spotify.com/track/2679eLFnwrGQOyllYERFVn) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq), [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc) | [Little Bit Of Love \(Anton Powers Remix\)](https://open.spotify.com/album/2KAM8uOqlyLvMYEAYUoVtq) | 3:10 |
-| 169 | [Ribbons And Bows](https://open.spotify.com/track/2zgoDo4LYBCnADtZ708p8q) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:28 |
-| 170 | [Neverland](https://open.spotify.com/track/5PdqGt1Lentss5g56gcRJg) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:56 |
+| 169 | [Neverland](https://open.spotify.com/track/5PdqGt1Lentss5g56gcRJg) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:56 |
+| 170 | [Ribbons And Bows](https://open.spotify.com/track/2zgoDo4LYBCnADtZ708p8q) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:28 |
 | 171 | [Poetry by Dead Men](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 3:48 |
 | 172 | [MANGO LOVE \(feat\. Satica\)](https://open.spotify.com/track/6NDZdloxCVCDpbOuqKlCOm) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [MANGOTALE](https://open.spotify.com/album/2Xk4f4SBqao4quex0MFLy3) | 3:03 |
 | 173 | [Ins and Outs](https://open.spotify.com/track/47dpLuBCmnJyUFYQ7Xa2j4) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Ins and Outs](https://open.spotify.com/album/6DA8DSwuB5PtmskKjIULUR) | 3:23 |
@@ -288,8 +288,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 278 | [Time](https://open.spotify.com/track/5Uq15K8NEFB6SDhnGvcxCj) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 3:13 |
 | 279 | [Picnic In Paris](https://open.spotify.com/track/4RF4dFRCAuWkLXIPYwRbr7) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:16 |
 | 280 | [Drama](https://open.spotify.com/track/4Lq1kfx3ju1Dfxfpu3wIfx) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:18 |
-| 281 | [Only Love](https://open.spotify.com/track/3s7uJNPy4CwM3van8iTQOf) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:21 |
-| 282 | [Cool With That](https://open.spotify.com/track/4wxJZae52sNfAx6K5FTajL) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:55 |
+| 281 | [Cool With That](https://open.spotify.com/track/4wxJZae52sNfAx6K5FTajL) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:55 |
+| 282 | [Only Love](https://open.spotify.com/track/3s7uJNPy4CwM3van8iTQOf) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:21 |
 | 283 | [Parachute](https://open.spotify.com/track/67ndgAWo70E6uz1vKlFZfB) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 2:58 |
 | 284 | [Cheer For The Elves](https://open.spotify.com/track/40bTA7nW6C1dsx863eKVFj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe\)](https://open.spotify.com/album/78Yh1HvMa6BsVZdEtlPQO9) | 3:05 |
 | 285 | [I Don't Speak French](https://open.spotify.com/track/42LMd0m0zj6DPaKFramUMS) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [A Little Louder, Please \(Deluxe\)](https://open.spotify.com/album/03wOikJOtHMA55JRvBsx0g) | 2:58 |
@@ -410,4 +410,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 400 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 401 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcKeKgAAAAAqazx+L6A+FvucGkWYEUvp`
+Snapshot ID: `AcKjygAAAAC58yIxQrWupo265w1EPDAy`

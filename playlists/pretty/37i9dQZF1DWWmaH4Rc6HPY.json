@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Usted Se\u00f1alemelo en portada.",
-  "num_followers": 37747,
+  "num_followers": 37748,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
         "name": "Me has invitado a bailar",
         "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 218781,
       "name": "Cuarenta Mil",
       "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -463,6 +447,22 @@
       "duration_ms": 180340,
       "name": "Me Toca A M\u00ed",
       "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
+        "name": "Por Si No Te Vuelvo A Ver",
+        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 185464,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
         "name": "Ca\u00edda Libre (feat. Robe)",
         "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 211590,
       "name": "Ca\u00edda Libre (feat. Robe)",
       "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
-        "name": "Por Si No Te Vuelvo A Ver",
-        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 185464,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/0M2bvqcwOcvc0ZhmoIDBFS"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 188097,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/4dDCoRNN2wz0PeEFLb7xfb"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
-        "name": "Godzilla",
-        "url": "https://open.spotify.com/album/0M2bvqcwOcvc0ZhmoIDBFS"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 188097,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/4dDCoRNN2wz0PeEFLb7xfb"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "No Volver\u00e9 </3",
-        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 171636,
-      "name": "No Volver\u00e9 </3",
-      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "No Volver\u00e9 </3",
+        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "No Volver\u00e9 </3",
+      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
         "name": "La \u00daltima Noche (con Estopa)",
         "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 229247,
       "name": "La \u00daltima Noche - con Estopa",
       "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2026-02-20 06:00:31",

@@ -4,7 +4,7 @@
 
 > Amp up your commute with rock hits, new and old.
 
-208 songs - 13 hr 39 min
+209 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2024-06-19 |  |
 | [All Things Must Change](https://open.spotify.com/track/6ZbOtXOG3ZA1c12r1KAOyT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/4gTXzawhT3uxfHY64KAqSq) | 3:35 | 2023-06-09 | 2023-11-04 |
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2023-06-09 |  |
-| [And a Big Load](https://open.spotify.com/track/2Oo8nMqcHm1pKZUgm4l3ln) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [The Sound a Body Makes When It's Still](https://open.spotify.com/album/0HMgzw7KIZ7gnmkfeOxCs6) | 2:53 | 2025-08-26 |  |
+| [And a Big Load](https://open.spotify.com/track/2Oo8nMqcHm1pKZUgm4l3ln) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [The Sound a Body Makes When It's Still](https://open.spotify.com/album/0HMgzw7KIZ7gnmkfeOxCs6) | 2:53 | 2025-08-26 | 2026-02-25 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-29 | 2024-11-27 |
 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 | 2023-06-09 |  |
 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2024-01-12 | 2024-04-19 |
@@ -148,6 +148,7 @@
 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-06-09 | 2024-06-04 |
 | [Riding the Tiger](https://open.spotify.com/track/0eUCYeHfXVDzRhQRst4SOS) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Face In The Mirror](https://open.spotify.com/album/5qHbkaszBdFULiA7bSyMKq) | 3:14 | 2025-08-22 | 2025-11-08 |
 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2023-06-09 |  |
+| [Safe And Sound](https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Safe And Sound](https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN) | 3:21 | 2026-02-20 |  |
 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 | 2023-06-09 |  |
 | [Satellite](https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:58 | 2024-04-19 | 2024-10-05 |
 | [Savior](https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 4:02 | 2024-04-19 |  |

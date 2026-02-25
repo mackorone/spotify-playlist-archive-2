@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,313 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,355 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 37 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 |
 | 38 | [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin](https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd) | 4:03 |
 | 39 | [Charmer](https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:55 |
-| 40 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 |
-| 41 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
+| 40 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
+| 41 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 |
 | 42 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 |
 | 43 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
 | 44 | [Dost Banke](https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dost Banke](https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V) | 4:49 |

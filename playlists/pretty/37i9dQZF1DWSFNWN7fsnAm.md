@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,630 likes - 86 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,649 likes - 86 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 85 | [El Trumpetta](https://open.spotify.com/track/43oWmmr0Im6ATmWMhGRzA1) | [Will Watt](https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq) | [El Trumpetta](https://open.spotify.com/album/6G0Exe4QTIQ36BavjhMIrf) | 2:48 |
 | 86 | [Raided](https://open.spotify.com/track/5QPcUCAPr9GvckcUXbF15Z) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [RISE Vol\. 1](https://open.spotify.com/album/0Jdqo1euENNI6FfpvdPTAa) | 3:36 |
 
-Snapshot ID: `AAAAACDUYIdTBeOo3abk6dIJDvhGWa8G`
+Snapshot ID: `AAAAAE21GY38sEwtamiYj9slnJJZIMP7`

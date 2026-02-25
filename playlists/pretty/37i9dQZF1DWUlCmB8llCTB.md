@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Perreando toda la noche con Capo, Gabito Ballesteros y Esteban González.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,723 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,678 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

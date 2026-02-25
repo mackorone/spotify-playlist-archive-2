@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127586,
+  "num_followers": 127584,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-20 14:34:50",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 178716,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX"
+    },
+    {
+      "added_at": "2026-02-20 14:34:50",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 247426,
       "name": "Voicemail (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
-    },
-    {
-      "added_at": "2026-02-20 14:34:50",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 178716,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX"
     },
     {
       "added_at": "2026-02-20 14:34:50",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-02-20 14:34:50",
       "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
+    },
+    {
+      "added_at": "2026-02-20 14:34:50",
+      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 110640,
       "name": "Arz Interlude",
       "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
-    },
-    {
-      "added_at": "2026-02-20 14:34:50",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
       "added_at": "2026-02-20 14:34:50",

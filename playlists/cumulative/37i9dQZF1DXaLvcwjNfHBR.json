@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/66DqPYJg2d1duj1o6MjVuF"
       },
@@ -3085,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248297,
+      "name": "butterflies.",
+      "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -4284,7 +4324,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 278154,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/5j1APmJZ3ttRSlSB3H7Khk"
@@ -5442,10 +5482,32 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "album": {
@@ -10691,6 +10753,32 @@
     },
     {
       "album": {
+        "name": "Loose Pt. 3",
+        "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        },
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169308,
+      "name": "Loose Pt. 3",
+      "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -12406,7 +12494,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
@@ -12938,7 +13026,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -15509,6 +15597,28 @@
     },
     {
       "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "album": {
         "name": "She Will (with Day1)",
         "url": "https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob"
       },
@@ -17694,7 +17804,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 174688,
       "name": "The Day That I Die",
       "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"

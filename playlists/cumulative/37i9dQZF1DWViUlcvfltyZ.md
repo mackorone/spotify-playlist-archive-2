@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Fight Pausa, clauscalmo, Guinevere sfocati ma in cover
 
-1,860 songs - 4 day 8 hr 9 min
+1,861 songs - 4 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1391,6 +1391,7 @@
 | [Respira](https://open.spotify.com/track/2ZK5uw55jdRGjtXhL9dqq3) | [TEENROMANCE](https://open.spotify.com/artist/5HD9MOD36710UU8n0EmrV2), [Hops](https://open.spotify.com/artist/6iI2HCZNfnr2c1En9UTLHS) | [Respira](https://open.spotify.com/album/3JB5YvgyWpE8kpzyA2RoaR) | 3:10 | 2025-09-18 | 2025-10-31 |
 | [Respiro](https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Respiro](https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8) | 3:33 | 2022-06-02 | 2022-09-30 |
 | [Resta](https://open.spotify.com/track/045ZrdHAwkC4tmeZbMRnAV) | [tatà](https://open.spotify.com/artist/4QoYQE9SrNOfQaBdb5Xt1M) | [Resta](https://open.spotify.com/album/2xBezxO3xq3mQisYOeOGdC) | 3:02 | 2024-02-28 | 2024-05-24 |
+| [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 | 2026-02-25 |  |
 | [Resto solo io](https://open.spotify.com/track/0uLcIYwzGnHKxG395CCzu1) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY), [Omar Pedrini](https://open.spotify.com/artist/61qOS3wPz5dNeycrYEzfbb) | [Fulmini](https://open.spotify.com/album/0b7cQnE7oNuoB1NKWPNI0t) | 2:51 | 2022-09-15 | 2022-10-07 |
 | [RETTILE](https://open.spotify.com/track/2NJT7X3r7DzVDAKT3V05T0) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [RETTILE](https://open.spotify.com/album/3WDlcnaVtBFRqLhcYyie2x) | 2:46 | 2025-10-16 | 2025-11-21 |
 | [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 | 2022-11-03 | 2022-12-24 |

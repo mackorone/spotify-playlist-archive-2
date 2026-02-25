@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With winterburn, Leblanc, After Cooking and more",
+  "description": "With After Cooking, winterburn, Leblanc and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 166617,
       "name": "17 Virages",
       "url": "https://open.spotify.com/track/5aZKMNDFRNu9CIKh1C1ChH"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 272156,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 310942,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/5PrEsKS9zrbaP9Ok1vwTpX"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 528959,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 251903,
       "name": "Dark Waves",
       "url": "https://open.spotify.com/track/2SIywaExbw39WSlS768Sg6"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 190525,
       "name": "Die Eisbraut - Leblanc Remix",
       "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 337920,
       "name": "Dissociative",
       "url": "https://open.spotify.com/track/4oNnLEVCRyD3Into7UwOKy"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 250826,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/3scWnhahRG6x0Ul4bn1L62"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 150500,
       "name": "Echoes in The Dark",
       "url": "https://open.spotify.com/track/0ACOPSyN7dDaXUqUFrJrW7"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 248175,
       "name": "Girei",
       "url": "https://open.spotify.com/track/39XVc9tJMwgBpaMgGp8wSB"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 438900,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/2BUcGUp1TUAOllgxRg6u2Z"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 362449,
       "name": "Laminar",
       "url": "https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 283453,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/5U1jtvuBkX5PdCWK5JdYt1"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 303859,
       "name": "Nighttime Feeling (Weekend Love)",
       "url": "https://open.spotify.com/track/5uNfp8283dTgqmnmYTvqrJ"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Philosophy of Time",
       "url": "https://open.spotify.com/track/3ckK6IH8kxuUyrkVksp6Jv"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 269471,
       "name": "Sf",
       "url": "https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 472698,
       "name": "Space Bunny",
       "url": "https://open.spotify.com/track/1FTpgO7f4gWEpKwSUo7tHE"
@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 293777,
       "name": "Space Invaders",
       "url": "https://open.spotify.com/track/30HIxjXprLyB52hwD5isso"
@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 221066,
       "name": "Spirits of Joy",
       "url": "https://open.spotify.com/track/1jBKge3KmUCAtNazWzl93H"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Supermoon",
       "url": "https://open.spotify.com/track/6M24qezRKtq3GyudKIZnJH"
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 300610,
       "name": "Tenet",
       "url": "https://open.spotify.com/track/6JBxQqOuS1kWNHfZrtNp0j"
@@ -3834,7 +3834,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
@@ -3906,7 +3906,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
@@ -4054,7 +4054,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 245542,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"

@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Anna Calvi",
-  "num_followers": 93720,
+  "num_followers": 93723,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,30 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD"
+      },
+      "artists": [
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        },
+        {
+          "name": "Antony Genn",
+          "url": "https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW"
+        },
+        {
+          "name": "Martin Slattery",
+          "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        }
+      ],
+      "duration_ms": 266759,
+      "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
+      "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Incomprehensible",
         "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
       },
@@ -499,30 +523,6 @@
       "duration_ms": 249166,
       "name": "Melodramatic Fanatic",
       "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD"
-      },
-      "artists": [
-        {
-          "name": "Grian Chatten",
-          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
-        },
-        {
-          "name": "Antony Genn",
-          "url": "https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW"
-        },
-        {
-          "name": "Martin Slattery",
-          "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
-        }
-      ],
-      "duration_ms": 266759,
-      "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
-      "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -575,22 +575,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Always The Same (feat. St. Vincent)",
-        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
       "artists": [
         {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 256875,
-      "name": "Always The Same (feat. St. Vincent)",
-      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+      "duration_ms": 227070,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
     },
     {
       "added_at": "2026-02-23 15:28:05",
@@ -611,6 +607,26 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Always The Same (feat. St. Vincent)",
+        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Always The Same (feat. St. Vincent)",
+      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
       },
@@ -625,36 +641,24 @@
       "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
     },
     {
-      "added_at": "2026-02-20 10:02:12",
+      "added_at": "2026-02-23 15:28:05",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen"
+        "name": "Begging for Change",
+        "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
       },
       "artists": [
         {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 203167,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        },
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
         }
       ],
-      "duration_ms": 227070,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+      "duration_ms": 260550,
+      "name": "Begging for Change",
+      "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -671,6 +675,22 @@
       "duration_ms": 197661,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 203167,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -819,58 +839,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "80 Days",
-      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
-    },
-    {
-      "added_at": "2026-02-23 15:28:05",
-      "album": {
-        "name": "Begging for Change",
-        "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 260550,
-      "name": "Begging for Change",
-      "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
       },
@@ -887,6 +855,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "80 Days",
+      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 127714,
       "name": "Mud",
       "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Selling A Vibe",
-        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
       },
       "artists": [
         {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Never The Same",
-      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
+      "duration_ms": 169610,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
+        "name": "Selling A Vibe",
+        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
         }
       ],
-      "duration_ms": 169610,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
+      "duration_ms": 170533,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Hit My Head All Day",
-        "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 363918,
-      "name": "Hit My Head All Day",
-      "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Television Love",
         "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 280800,
       "name": "Television Love",
       "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 188271,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1203,6 +1187,22 @@
       "duration_ms": 365426,
       "name": "Circle of Trust",
       "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Hit My Head All Day",
+        "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 363918,
+      "name": "Hit My Head All Day",
+      "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Antidepressants",
-        "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 222031,
-      "name": "The Sound And The Summer",
-      "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Little Black Dress",
         "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 191620,
       "name": "Little Black Dress",
       "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Antidepressants",
+        "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 222031,
+      "name": "The Sound And The Summer",
+      "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "An Artist Is An Artist",
-        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 191448,
-      "name": "An Artist Is An Artist",
-      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "But I'll Keep Trying",
         "url": "https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 247940,
       "name": "Every Dawn's a Mountain",
       "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "An Artist Is An Artist",
+        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 191448,
+      "name": "An Artist Is An Artist",
+      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1483,6 +1483,22 @@
       "duration_ms": 231333,
       "name": "Shells",
       "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1551,6 +1567,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "drains",
+        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "drains",
+      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Michelangelo Dying",
         "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
       },
@@ -1567,34 +1599,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "The Forest Is The Path (Extended Edition)",
-        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+        "name": "SLUGLIFE",
+        "url": "https://open.spotify.com/album/38gPPBhvhAMdyPe8keDAnf"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
         }
       ],
-      "duration_ms": 179122,
-      "name": "This Is The Silence",
-      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "drains",
-        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "drains",
-      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
+      "duration_ms": 283040,
+      "name": "SLUGLIFE",
+      "url": "https://open.spotify.com/track/6mliFFTDhUNOo0I3ye5uaf"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "SLUGLIFE",
-        "url": "https://open.spotify.com/album/38gPPBhvhAMdyPe8keDAnf"
+        "name": "Dashboard Mary",
+        "url": "https://open.spotify.com/album/3T3exfwPGiO7bb06AsHBqM"
       },
       "artists": [
         {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+          "name": "Modern Woman",
+          "url": "https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9"
         }
       ],
-      "duration_ms": 283040,
-      "name": "SLUGLIFE",
-      "url": "https://open.spotify.com/track/6mliFFTDhUNOo0I3ye5uaf"
+      "duration_ms": 293259,
+      "name": "Dashboard Mary",
+      "url": "https://open.spotify.com/track/7pozVrkNzYLcymGuGDtbIQ"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1663,22 +1679,6 @@
       "duration_ms": 268768,
       "name": "Bell",
       "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172778,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
     }
   ],
   "unique_name": "The Listening Post",

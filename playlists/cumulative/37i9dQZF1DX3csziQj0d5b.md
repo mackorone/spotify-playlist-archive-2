@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-820 songs - 1 day 20 hr 15 min
+823 songs - 1 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Blue](https://open.spotify.com/track/7oMu8BUuu1jVsEewueL2zO) | [Odd Loft](https://open.spotify.com/artist/7LwQWECKqhSvplqTavA6IU) | [Watercolour / Blue](https://open.spotify.com/album/3LeiMqvnUcnu4hrl6hdYnb) | 1:50 | 2022-04-14 | 2022-04-21 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-17 |  |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-05-19 | 2023-05-27 |
-| [Body Is On Fire](https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Body Is On Fire](https://open.spotify.com/album/5EzCcZlpoHWp4X3IJDRq7b) | 2:22 | 2026-02-16 |  |
+| [Body Is On Fire](https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Body Is On Fire](https://open.spotify.com/album/5EzCcZlpoHWp4X3IJDRq7b) | 2:22 | 2026-02-16 | 2026-02-25 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2022-04-14 | 2023-07-01 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-08-09 | 2024-08-17 |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-08-03 | 2024-05-21 |
@@ -154,6 +154,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-04-05 | 2024-04-19 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2024-12-09 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2024-01-05 | 2024-04-07 |
+| [Cupid Must've Been High](https://open.spotify.com/track/3hcdiLMlKuJPqcVNOp90Mi) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Cupid Must've Been High](https://open.spotify.com/album/72Diyo40WtMIgw7im5ZpqY) | 2:42 | 2026-02-24 |  |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-04-14 | 2022-07-08 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-08-29 |  |
 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2022-04-14 | 2022-04-21 |
@@ -345,6 +346,7 @@
 | [i'm so tired...](https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:42 | 2023-01-13 | 2023-04-27 |
 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 | 2023-06-30 | 2023-10-28 |
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2022-07-08 | 2023-07-01 |
+| [I've Never Met Her](https://open.spotify.com/track/0fWLWBuDo8v6GnAwHOFQyY) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [I've Never Met Her](https://open.spotify.com/album/2hy0Ft7jAKtWtiqMDC59Za) | 3:07 | 2026-02-24 |  |
 | [I.F.L.Y.](https://open.spotify.com/track/4a6q8CR2hzLk2plDkSxkfD) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW) | 2:45 | 2022-04-14 | 2023-12-30 |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-04-14 | 2025-08-19 |
 | [idontwannabeyouanymore](https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:23 | 2022-04-29 | 2023-07-01 |
@@ -778,6 +780,7 @@
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2022-04-14 | 2023-11-18 |
 | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX) | 3:49 | 2023-06-09 | 2023-11-16 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-14 | 2025-08-30 |
+| [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 | 2026-02-24 |  |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2023-01-24 | 2023-07-01 |
 | [When It Rains](https://open.spotify.com/track/3QZTCVkRbtZG3Jp4vwhV1F) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When It Rains](https://open.spotify.com/album/5rknaasYykSFpXCMy5m4Zh) | 2:49 | 2024-07-12 | 2024-08-10 |
 | [when it's over](https://open.spotify.com/track/4ca1eUUGFzRYqFj1oHdpxf) | [Vince\. Jr](https://open.spotify.com/artist/5xqQPSaepFZnHgKZ7ASJA0) | [when it's over](https://open.spotify.com/album/1rmYOWnFWVDQlzkULj2bPt) | 3:07 | 2022-04-14 | 2022-04-21 |

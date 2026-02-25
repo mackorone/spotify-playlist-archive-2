@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,427 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,446 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 38 | [El Gozo Que Yo Queria](https://open.spotify.com/track/6lf0U3BKM3i0wPc6jr3SQ6) | [Altar Vivo](https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr) | [El Gozo Que Yo Queria](https://open.spotify.com/album/1mnea2dZLEZCUmYP4KYW0t) | 3:20 |
 | 39 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
 | 40 | [Bye Bye](https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Bye Bye](https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3) | 3:03 |
-| 41 | [Más Que Ayer](https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Más Que Ayer](https://open.spotify.com/album/49E7AN21BhiUQ1t366FqYH) | 3:30 |
-| 42 | [Salvame](https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Salvame](https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL) | 3:21 |
+| 41 | [Salvame](https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Salvame](https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL) | 3:21 |
+| 42 | [Más Que Ayer](https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Más Que Ayer](https://open.spotify.com/album/49E7AN21BhiUQ1t366FqYH) | 3:30 |
 | 43 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
 | 44 | [Subiendo](https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Envero](https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13) | 3:39 |
 | 45 | [Esta Fiesta](https://open.spotify.com/track/1E9HwdcZoZ9NZGf2gPM8u2) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Favor y Gracia](https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C) | 3:44 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 62 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
 | 63 | [Agarra La Bendición](https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Agarra La Bendición](https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ) | 3:11 |
 | 64 | [Prende La Moto](https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Prende La Moto](https://open.spotify.com/album/124x29480ASQ28sibsSykf) | 2:46 |
-| 65 | [Esposa Mía](https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Esposa Mía](https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S) | 3:30 |
-| 66 | [Confiado](https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Falkom R](https://open.spotify.com/artist/4MZ5oa6STNN0Al4lLeo1F4) | [Confiado / Olas del Mar \(Live\)](https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3) | 4:02 |
+| 65 | [Confiado](https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Falkom R](https://open.spotify.com/artist/4MZ5oa6STNN0Al4lLeo1F4) | [Confiado / Olas del Mar \(Live\)](https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3) | 4:02 |
+| 66 | [Esposa Mía](https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Esposa Mía](https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S) | 3:30 |
 | 67 | [Nos Vamos A Gozar](https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW) | [El Swing Divino](https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk) | [Adorar A Dios](https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn) | 3:15 |
 | 68 | [Agua Viva](https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc) | [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu) | [Agua Viva](https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF) | 3:21 |
 | 69 | [Más de Una Vez](https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm) | [Soly](https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ) | [Más de Una Vez](https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG) | 2:53 |

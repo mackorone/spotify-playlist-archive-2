@@ -4,7 +4,7 @@
 
 > The indie viral hits you can't escape\. Cover: Djo
 
-210 songs - 12 hr 10 min
+212 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-10-06 | 2026-01-30 |
 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 | 2025-08-08 | 2025-08-23 |
 | [August 10](https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Broken Girl](https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI) | 2:58 | 2025-01-27 | 2025-02-04 |
+| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-02-24 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-11-29 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-02-03 |  |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 |  |
@@ -62,6 +63,7 @@
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2025-03-18 | 2025-08-07 |
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 | 2025-01-22 |  |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-10-03 |  |
+| [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-24 |  |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2024-01-09 |  |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-02-03 | 2025-06-22 |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-06-07 | 2024-06-11 |
@@ -104,7 +106,7 @@
 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-01-29 |  |
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2023-11-29 |  |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-17 |  |
-| [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 | 2026-01-13 |  |
+| [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 | 2026-01-13 | 2026-02-25 |
 | [K.](https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 5:19 | 2025-08-26 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-11-29 | 2024-05-21 |
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2025-07-11 | 2025-07-22 |
@@ -203,7 +205,7 @@
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2025-07-24 | 2025-11-19 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2025-01-13 |  |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-11-29 | 2025-01-07 |
-| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2025-11-18 |  |
+| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2025-11-18 | 2026-02-25 |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2023-11-29 |  |
 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-02-25 | 2026-01-15 |
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-11 | 2024-02-13 |

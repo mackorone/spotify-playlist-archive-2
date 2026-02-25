@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 39906,
+  "num_followers": 39912,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAADUbXAl1j8x9xgZMFx6Jz0L",
+  "snapshot_id": "aZuYgAAAAACO01N0ITsJU+7yS2v0lkBm",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 216831,
-      "name": "The Need to Know (feat. SZA)",
-      "url": "https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Forgives, I Don't (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 276160,
       "name": "Diced Pineapples",
       "url": "https://open.spotify.com/track/27mF2eUbhExYWiOT0y9cuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 216831,
+      "name": "The Need to Know (feat. SZA)",
+      "url": "https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "James Freestyle",
-        "url": "https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI"
-      },
-      "artists": [
-        {
-          "name": "Don Cannon",
-          "url": "https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 146543,
-      "name": "James Freestyle",
-      "url": "https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wow... That's Crazy",
         "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 212500,
       "name": "Love... (Her Fault) [feat. Bryson Tiller]",
       "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "James Freestyle",
+        "url": "https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI"
+      },
+      "artists": [
+        {
+          "name": "Don Cannon",
+          "url": "https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 146543,
+      "name": "James Freestyle",
+      "url": "https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit (feat. Wale)",
-        "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 253178,
-      "name": "Spirit (feat. Wale)",
-      "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 219686,
       "name": "Red Lights (feat. Wale)",
       "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit (feat. Wale)",
+        "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 253178,
+      "name": "Spirit (feat. Wale)",
+      "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -999,22 +983,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Lunch",
-        "url": "https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF"
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
       "artists": [
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 269657,
-      "name": "My Boy (feat. J. Cole) - Freestyle",
-      "url": "https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx"
+      "duration_ms": 201000,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffee (F***ing) (feat. Wale)",
+        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 314053,
+      "name": "Coffee (F***ing) (feat. Wale)",
+      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffee (F***ing) (feat. Wale)",
-        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
+        "name": "Free Lunch",
+        "url": "https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 314053,
-      "name": "Coffee (F***ing) (feat. Wale)",
-      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
+      "duration_ms": 269657,
+      "name": "My Boy (feat. J. Cole) - Freestyle",
+      "url": "https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx"
     }
   ],
   "unique_name": "This Is Wale",

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: 2charm
+> Songs from LGBTQIA+ artists\. Cover: Arlo Parks
 
 1,702 songs - 3 day 20 hr 13 min
 

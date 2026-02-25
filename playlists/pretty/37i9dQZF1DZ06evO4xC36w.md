@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,395 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,561 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 31 | [El Primer Tonto \- En Vivo](https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo](https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI) | 3:46 |
 | 32 | [En Tu Sonrisa](https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 3:07 |
 | 33 | [Mi Cómplice](https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Lo Mejor De Joan Sebastian](https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte) | 3:07 |
-| 34 | [Envidia](https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 2:31 |
-| 35 | [El Viejo Joven](https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:37 |
+| 34 | [El Viejo Joven](https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:37 |
+| 35 | [Envidia](https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 2:31 |
 | 36 | [El Perdedor](https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mis Nuevas Baladas](https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ) | 3:06 |
 | 37 | [Manantial De Llanto](https://open.spotify.com/track/2ddqucsZ04B82NxZcXPVsw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mis Baladas Favoritas](https://open.spotify.com/album/7Db7VCq3IQIgkzJxdsvQSy) | 3:28 |
 | 38 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 42 | [Melodía Para Dos](https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:06 |
 | 43 | [Así Te Quiero](https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:18 |
 | 44 | [Me La Escondieron Sus Padres](https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:23 |
-| 45 | [La Derrota](https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:19 |
-| 46 | [Juanita \(Flor De Walamo\)](https://open.spotify.com/track/242lyf8OjxomhjLpeas75s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:22 |
+| 45 | [Juanita \(Flor De Walamo\)](https://open.spotify.com/track/242lyf8OjxomhjLpeas75s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:22 |
+| 46 | [La Derrota](https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:19 |
 | 47 | [Hoy Empieza Mi Tristeza](https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 2:46 |
 | 48 | [La Prietita Que Yo Quiero](https://open.spotify.com/track/69O3Bdh6vBYY3cN3BwTH2Y) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:49 |
 | 49 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:38 |
 | 50 | [Afortunado](https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:15 |
 
-Snapshot ID: `aZpHAAAAAACGw44NzIqIr5aEDIHfQvSm`
+Snapshot ID: `aZuYgAAAAAB+fTo9bZe2KIilNDD3dXZ9`

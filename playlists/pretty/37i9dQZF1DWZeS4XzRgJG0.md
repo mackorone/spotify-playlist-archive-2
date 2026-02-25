@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > focus modus is aan en leren maar
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,378 likes - 157 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,393 likes - 157 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 18 | [You & I](https://open.spotify.com/track/2afCBiru10AFckfOa49wIa) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:57 |
 | 19 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 20 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |
-| 21 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
-| 22 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 21 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 22 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
 | 23 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 |
 | 24 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
 | 25 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
-| 26 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 |
-| 27 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 |
+| 26 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 |
+| 27 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 |
 | 28 | [Hold On](https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi) | 3:18 |
 | 29 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 |
 | 30 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
@@ -138,11 +138,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 128 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
 | 129 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 |
 | 130 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
-| 131 | [Sorry](https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:40 |
-| 132 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 |
+| 131 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 |
+| 132 | [Sorry](https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:40 |
 | 133 | [7 Years](https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years](https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO) | 3:57 |
-| 134 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
-| 135 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
+| 134 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
+| 135 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
 | 136 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
 | 137 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
 | 138 | [To Build A Home \(feat\. Patrick Watson\)](https://open.spotify.com/track/4aBi3ZJdrtLYKiMCKVvvht) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Ma Fleur](https://open.spotify.com/album/7ow7A9W9gqHAL0qKDL7ki9) | 6:10 |

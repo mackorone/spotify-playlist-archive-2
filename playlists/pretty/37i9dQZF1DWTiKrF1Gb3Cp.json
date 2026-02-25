@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 245950,
+  "num_followers": 246000,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 174655,
-      "name": "3",
-      "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
+      "duration_ms": 153031,
+      "name": "LA PEOPLE",
+      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -207,22 +211,18 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 153031,
-      "name": "LA PEOPLE",
-      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
+      "duration_ms": 174655,
+      "name": "3",
+      "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
+        "name": "CH",
+        "url": "https://open.spotify.com/album/4aYdZgEbK585VOvbc0p5y5"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "CH",
+      "url": "https://open.spotify.com/track/4bOK2uHs1LJG0lT072AOTg"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 153557,
       "name": "BELIKON",
       "url": "https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
-        "name": "CH",
-        "url": "https://open.spotify.com/album/4aYdZgEbK585VOvbc0p5y5"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "CH",
-      "url": "https://open.spotify.com/track/4bOK2uHs1LJG0lT072AOTg"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
         "name": "La Caravana",
         "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
       },
@@ -1727,6 +1711,42 @@
       "duration_ms": 143250,
       "name": "La Caravana",
       "url": "https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
+        "name": "A la puta orden",
+        "url": "https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6"
+      },
+      "artists": [
+        {
+          "name": "Capotes",
+          "url": "https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        }
+      ],
+      "duration_ms": 156722,
+      "name": "A la puta orden",
+      "url": "https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1755,26 +1775,6 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "A la puta orden",
-        "url": "https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6"
-      },
-      "artists": [
-        {
-          "name": "Capotes",
-          "url": "https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        }
-      ],
-      "duration_ms": 156722,
-      "name": "A la puta orden",
-      "url": "https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -1791,22 +1791,6 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
-        "name": "Se Rumora",
-        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 252923,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1831,6 +1815,22 @@
       "duration_ms": 162002,
       "name": "Antrax",
       "url": "https://open.spotify.com/track/47rbXVaDwAfPrKolyEWWfT"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
+        "name": "Se Rumora",
+        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 252923,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "Robot Montana",
-        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 175730,
-      "name": "Mariguana & Tequila",
-      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
         "name": "No Te La Sabes",
         "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 215200,
       "name": "No Te La Sabes",
       "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
+        "name": "Robot Montana",
+        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 175730,
+      "name": "Mariguana & Tequila",
+      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -2091,22 +2091,22 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "Adentro de la Disco (feat. Myke Towers)",
-        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/4rvCnf7vwzITEVDgA85R8t"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Adentro de la Disco (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+      "duration_ms": 146398,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/51qy6tN1n8EQKOuB0mexii"
     }
   ],
   "unique_name": "Gaming Belic\u00f3n",

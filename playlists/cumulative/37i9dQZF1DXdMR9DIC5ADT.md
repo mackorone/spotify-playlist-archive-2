@@ -4,7 +4,7 @@
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: WILLOW
 
-762 songs - 1 day 18 hr 17 min
+763 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 | 2025-05-16 |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-25 |  |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-02-13 |  |
+| [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-19 |  |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2024-12-26 | 2025-01-24 |
 | [Dream Girl](https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Dream Girl](https://open.spotify.com/album/0Alr1YFzlqXuaCswGzgFsj) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 | 2023-04-05 | 2023-05-12 |
@@ -295,7 +296,7 @@
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-21 | 2025-02-18 |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-29 | 2025-06-27 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-05-13 |
-| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-29 | 2026-01-15 |
+| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-29 |  |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-06-01 | 2024-04-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-15 | 2023-06-02 |
 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 | 2024-07-25 | 2024-08-09 |
@@ -460,7 +461,7 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-14 |  |
 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 | 2024-01-25 | 2024-02-23 |
 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-10-16 | 2025-12-08 |
-| [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 |  |
+| [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2026-02-25 |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-11 | 2023-05-19 |
 | [Names](https://open.spotify.com/track/1Ee5uXAwh6eNP2Z8CB9rne) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Names](https://open.spotify.com/album/62FlfHBtmwFw0zNTX1AccQ) | 3:20 | 2023-04-21 | 2023-05-05 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-30 | 2024-11-17 |
@@ -755,7 +756,7 @@
 | [Witchy \(feat\. Childish Gambino\)](https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:47 | 2024-06-06 | 2024-08-16 |
 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 | 2025-07-24 | 2025-08-08 |
 | [wo ai ni](https://open.spotify.com/track/15f7uyz8tXgasYAL7N6WWE) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/3GKlSjIhy3WIQg34qcEeyG) | 3:31 | 2025-10-16 | 2026-01-15 |
-| [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 | 2025-10-02 |  |
+| [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 | 2025-10-02 | 2026-02-25 |
 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-05 | 2025-11-07 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-15 | 2023-06-02 |
 | [y3llow bike](https://open.spotify.com/track/4vo4KkMSWRQCD7xpufEHdU) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [y3llow bike](https://open.spotify.com/album/2BbTCbIU80QgpujEbHHDNA) | 2:54 | 2025-06-26 | 2025-07-18 |

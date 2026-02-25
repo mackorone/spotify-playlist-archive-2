@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830 likes - 136 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 831 likes - 136 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 92 | [God’s Been Good \- Live](https://open.spotify.com/track/2NvFKpZ6ECBe3wkSfvNS9K) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:58 |
 | 93 | [Mary’s Song \- Live](https://open.spotify.com/track/7DzqNeU96i94uSQ46hSnFk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:33 |
 | 94 | [Let My Heart Dance](https://open.spotify.com/track/6yYOLd0hCWamG8grPlUHQw) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:14 |
-| 95 | [I Found You \(feat\. Dante Bowe & Aaron Moses\)](https://open.spotify.com/track/6rWlOBdYTr4b642nY7dqcy) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 3:34 |
-| 96 | [Rain \- Live](https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:41 |
+| 95 | [Rain \- Live](https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:41 |
+| 96 | [I Found You \(feat\. Dante Bowe & Aaron Moses\)](https://open.spotify.com/track/6rWlOBdYTr4b642nY7dqcy) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 3:34 |
 | 97 | [Free Falling](https://open.spotify.com/track/7mUhoT53JAHiFbh3wfHVZe) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:54 |
 | 98 | [Take Me to the River](https://open.spotify.com/track/1YbR4gWmyMSnZJEOKppuIx) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:31 |
 | 99 | [Where Would I Be? \(feat\. Dante Bowe, Ryan Ofei & Brandon Lake\)](https://open.spotify.com/track/5zocauo5a4DJ01IA47OJGH) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:07 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 135 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 136 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcKeKgAAAACF1ywXFdmfVnbSUhjASFDm`
+Snapshot ID: `AcKjygAAAAAUcI0LoBNpIdFz8ghLrzM9`

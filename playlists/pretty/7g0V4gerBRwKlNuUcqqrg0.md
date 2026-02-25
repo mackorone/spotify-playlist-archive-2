@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 158,341 likes - 109 songs - 6 hr 21 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 158,335 likes - 109 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 | 108 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
 | 109 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 |
 
-Snapshot ID: `AAAvypYTyiV+xpiYh3NtS2LfZF6vEx3G`
+Snapshot ID: `AAAvyyNhp/ca0Jgl+IOtHgNFnB4iV9nF`

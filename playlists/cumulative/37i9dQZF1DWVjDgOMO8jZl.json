@@ -3875,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "TU MI PIACI TANTO",
+        "url": "https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209664,
+      "name": "TU MI PIACI TANTO",
+      "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
+    },
+    {
+      "album": {
         "name": "Going Hard 3",
         "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Throw it back to the biggest, best hits of the 90s and 2000s.",
-  "num_followers": 1489479,
+  "num_followers": 1489504,
   "original_name": "Throwback Workout",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-02-06 15:18:06",
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 251244,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2026-02-06 15:18:06",
+      "album": {
         "name": "Mail on Sunday",
         "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 231400,
       "name": "Low (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
-    },
-    {
-      "added_at": "2026-02-06 15:18:06",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 251244,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2026-02-06 15:18:06",

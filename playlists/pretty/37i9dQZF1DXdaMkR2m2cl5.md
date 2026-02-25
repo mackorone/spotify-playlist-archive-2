@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,012 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,013 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 75 | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/track/6XmzbSrY7WoUQB99u5Bi6E) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/album/0uuf4GYy7bTBpJEaH5vVDq) | 4:44 |
 | 76 | [Sparklers](https://open.spotify.com/track/4nKWycT7IEMCJqCfAy7mTc) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Olympic Girls](https://open.spotify.com/album/2fXjFuPIS8mmNjzrm20t4k) | 3:46 |
 | 77 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
-| 78 | [Friday Night Lights](https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Friday Night Lights](https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY) | 3:20 |
-| 79 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 |
+| 78 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 |
+| 79 | [Friday Night Lights](https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Friday Night Lights](https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY) | 3:20 |
 | 80 | [The Right Track](https://open.spotify.com/track/2M7UF2fo4AC93VpZXBK6nk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Right Track](https://open.spotify.com/album/0Yc69e9d5M0txUciOA6w2J) | 3:26 |
-| 81 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
-| 82 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
+| 81 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
+| 82 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
 | 83 | [Palace](https://open.spotify.com/track/1phRuf0KNLOFGzDVE2UYIv) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Palace](https://open.spotify.com/album/4vPTv6XOfiU5nyBisBJEdu) | 3:08 |
 | 84 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 85 | [Spark](https://open.spotify.com/track/579WcpfX8CuujP9UfNBPUU) | [WYNDHAM](https://open.spotify.com/artist/7m5NuY2IG5NWA9TUrPtcV7) | [Spark](https://open.spotify.com/album/2NTFOA0XTCIjzbRjpUxdK9) | 3:38 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 97 | [Time After Time](https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q) | 2:50 |
 | 98 | [You Worry Me](https://open.spotify.com/track/6jwsbxD1nvTc4UGLgRoCa6) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing at the Seams \(Deluxe Edition\)](https://open.spotify.com/album/4A2z1eFKxkLX3sI57R5y5s) | 3:34 |
 | 99 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
-| 100 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
+| 100 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
 
 Snapshot ID: `AAAAAA86+WT8vViigU+1OsaPddMobRKL`

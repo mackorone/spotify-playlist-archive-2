@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 296526,
+  "num_followers": 296736,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
         "name": "Look Out! (Remastered)",
         "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 295200,
       "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -363,22 +363,18 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 193173,
-      "name": "In The Wee Small Hours Of The Morning",
-      "url": "https://open.spotify.com/track/7A2fFWAMjU689JhOCxVs70"
+      "duration_ms": 310973,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -399,22 +395,6 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 266226,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/7A2fFWAMjU689JhOCxVs70"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
         "name": "Music For Lovers",
         "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 462773,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 252893,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 314160,
       "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 252893,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 309360,
       "name": "Spring Is Here",
       "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
     },
     {
       "added_at": "2025-12-04 13:09:04",

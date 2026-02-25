@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
+    },
+    {
+      "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
       },
@@ -9013,6 +9031,24 @@
     },
     {
       "album": {
+        "name": "Webtoon 'Return of the Blossoming Blade' Part.5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4TBlwestyArrRwPgL2ZtIE"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Never Losing",
+      "url": "https://open.spotify.com/track/3b0Bxz2ZxN8aYUAnNCnXqT"
+    },
+    {
+      "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
       },
@@ -10914,7 +10950,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 173041,
       "name": "Saucin'",
       "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
@@ -14592,7 +14628,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 202000,
       "name": "XO, My Cyberlove",
       "url": "https://open.spotify.com/track/4fr8jAAeEw8CehOFoBdjqL"

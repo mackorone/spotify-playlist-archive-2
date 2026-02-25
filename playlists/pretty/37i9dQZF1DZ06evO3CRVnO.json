@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 324259,
+  "num_followers": 324289,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAD+BZdziToxpVYaXRyo1bHO",
+  "snapshot_id": "aZuYgAAAAACMwew8KrKH3LDMC66IsERW",
   "tracks": [
     {
       "added_at": null,
@@ -426,15 +426,11 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 190373,
-      "name": "GOOD CREDIT (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
+      "duration_ms": 212598,
+      "name": "HBA",
+      "url": "https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb"
     },
     {
       "added_at": null,
@@ -498,11 +494,15 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 212598,
-      "name": "HBA",
-      "url": "https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb"
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
       "added_at": null,

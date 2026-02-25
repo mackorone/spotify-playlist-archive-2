@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,283,573 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,283,375 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

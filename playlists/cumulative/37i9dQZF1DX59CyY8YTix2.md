@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 礼賛
 
-2,000 songs - 5 day 3 hr 53 min
+2,001 songs - 5 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,7 +564,7 @@
 | [Moment26](https://open.spotify.com/track/4rKwARdCQDbSw9HvlUKFWX) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Moment26](https://open.spotify.com/album/7x9A7ULjlINeydeWZa0jgW) | 2:45 | 2022-07-14 | 2022-07-17 |
 | [monica](https://open.spotify.com/track/4MkTfQVavLRAOlsERdQNoz) | [The Floatings](https://open.spotify.com/artist/3pFyYLu4ZXazrpNfYKAV8M) | [monica](https://open.spotify.com/album/3t3WqVWIFCxtZRaDDjjUQu) | 5:07 | 2024-01-23 | 2024-02-07 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-12-20 |
-| [MONOPOLY](https://open.spotify.com/track/5XxCAlBaqx0452YxEZMPN5) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [MONOPOLY](https://open.spotify.com/album/06QOh4q0vbtfm5XvmKRsND) | 2:34 | 2025-09-02 |  |
+| [MONOPOLY](https://open.spotify.com/track/5XxCAlBaqx0452YxEZMPN5) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [MONOPOLY](https://open.spotify.com/album/06QOh4q0vbtfm5XvmKRsND) | 2:34 | 2025-09-02 | 2026-02-25 |
 | [Monster](https://open.spotify.com/track/3jM553xjXFg4d5WZjszanB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Monster](https://open.spotify.com/album/1HwjBIF2sVIWuiLuH8EsEc) | 3:08 | 2022-05-31 | 2022-07-29 |
 | [Moon Shaped](https://open.spotify.com/track/4efK771NNGsKNYbCJ1xhkD) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Moon Shaped](https://open.spotify.com/album/2kgkVKv864qu7CgVSCHuZw) | 5:11 | 2024-05-28 | 2024-09-04 |
 | [moonwalk](https://open.spotify.com/track/6Hr0XwB5CMbSWcwJNxw4M8) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [moonwalk](https://open.spotify.com/album/6DlwqOiVIyz9gHHpIx06Aw) | 4:35 | 2022-09-15 | 2022-09-28 |
@@ -951,6 +951,7 @@
 | [When dawn comes, we](https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [happiness](https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf) | 4:47 | 2023-07-18 | 2023-08-23 |
 | [White Breath](https://open.spotify.com/track/4KdVA0Gu0cA56KBgFGMUUI) | [bedgravity](https://open.spotify.com/artist/4ARxRzNmIvxLoUkj75gcSn) | [Long Fuse](https://open.spotify.com/album/70QV6ZVlpes0Sr8OlVvRZ2) | 2:53 | 2023-11-14 | 2023-11-22 |
 | [White highlights](https://open.spotify.com/track/3JtEQffMAkuPrGzGs9G7fY) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [White highlights](https://open.spotify.com/album/3OfEMtatKlKKJMhw5jliF4) | 3:27 | 2023-01-31 | 2023-02-08 |
+| [Whitoxin](https://open.spotify.com/track/7HGUFKQkVQMgPhMIm2GDfl) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Whitoxin](https://open.spotify.com/album/2OSTqjT8ESEOYbasGPRjra) | 4:09 | 2026-02-17 |  |
 | [Who Am I](https://open.spotify.com/track/17UcihyP4nJdrXWsenfJYw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Who Am I](https://open.spotify.com/album/74aqJf9J5uybLGJVv83bAR) | 4:20 | 2022-05-31 | 2022-07-04 |
 | [Whoever You Are](https://open.spotify.com/track/2ofPioSxKQZcYvPFV4CTCd) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Whoever You Are](https://open.spotify.com/album/0fcGMmFcA236FnoqTmjvT7) | 4:12 | 2025-09-09 | 2025-10-08 |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-28 | 2023-02-22 |

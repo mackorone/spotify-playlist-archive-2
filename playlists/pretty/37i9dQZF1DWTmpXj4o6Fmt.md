@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 
 > go back in time and \(re\) discover these gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,980 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,994 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 | 2 | [Vuelta por el Universo](https://open.spotify.com/track/7uY3xheR58xt98wb8BIz21) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 6:00 |
 | 3 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 |
 | 4 | [Eres Mi Religión \- 2020 Remasterizado](https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor \(2020 Remasterizado\)](https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2) | 5:29 |
-| 5 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
-| 6 | [Te lo agradezco, pero no \(feat\. Shakira\)](https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El tren de los momentos](https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437) | 4:33 |
-| 7 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 5 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 6 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
+| 7 | [Te lo agradezco, pero no \(feat\. Shakira\)](https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El tren de los momentos](https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437) | 4:33 |
 | 8 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
 | 9 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
 | 10 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 | 33 | [Para Qué Sufrir](https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:46 |
 | 34 | [Te Doy Mi Amor](https://open.spotify.com/track/5cgwBlY1oNdnuNsy4PaXAz) | [Bacanos](https://open.spotify.com/artist/3z3dviTNMzuW5GNEfcZQdP) | [Baila Pa Mi](https://open.spotify.com/album/3V12VqHb3oVpbwFGd3tKGn) | 3:48 |
 | 35 | [Todo Pasa](https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo](https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5) | 5:44 |
-| 36 | [Aire](https://open.spotify.com/track/4ubA5KivYERC8UXR6n0gFT) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ya Viene el Sol \(Bonus Tracks Edition\)](https://open.spotify.com/album/1m3nnPAQcMKR86QDfWsguj) | 4:32 |
-| 37 | [No es lo mismo](https://open.spotify.com/track/6yV2W1h4PZla1PE5s1zjVM) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:59 |
+| 36 | [No es lo mismo](https://open.spotify.com/track/6yV2W1h4PZla1PE5s1zjVM) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:59 |
+| 37 | [Aire](https://open.spotify.com/track/4ubA5KivYERC8UXR6n0gFT) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ya Viene el Sol \(Bonus Tracks Edition\)](https://open.spotify.com/album/1m3nnPAQcMKR86QDfWsguj) | 4:32 |
 | 38 | [Te Quiero Tanto](https://open.spotify.com/track/3okNQ9w68odjhNWXk6SY1n) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 3:29 |
 | 39 | [Perdido Sin Ti](https://open.spotify.com/track/5GAeZzDPkWutKmW26cnwfP) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:10 |
 | 40 | [Como Has Logrado](https://open.spotify.com/track/3Sj5hFcruCnVzOUQCO0SG5) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 3:45 |

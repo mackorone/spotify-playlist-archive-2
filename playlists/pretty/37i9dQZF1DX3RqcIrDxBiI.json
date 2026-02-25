@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 154734,
+  "num_followers": 154729,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "With Or Without You - Remastered 2007",
+      "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 290333,
       "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "With Or Without You - Remastered 2007",
-      "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
     },
     {
       "added_at": "2026-02-06 18:20:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 
 > Game day is our favorite day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,312 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,266 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 36 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 37 | [Yeah! \(feat\. Lil Jon & Ludacris\)](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:10 |
 | 38 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 39 | [The Way I Are](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 2:59 |
-| 40 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 |
-| 41 | [I Got Better](https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:24 |
+| 39 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 |
+| 40 | [I Got Better](https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:24 |
+| 41 | [The Way I Are](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 2:59 |
 | 42 | [No Hands \(feat\. Roscoe Dash & Wale\)](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Flockaveli](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) | 4:23 |
 | 43 | [Don't Stop The Music](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:27 |
 | 44 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |

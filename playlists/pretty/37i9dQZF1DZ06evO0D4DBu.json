@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAACRfUfTE47BzF6GESwg2ZNu",
+  "snapshot_id": "aZuYgAAAAABp8YSeOP+XkG/aoY6Yzuno",
   "tracks": [
     {
       "added_at": null,
@@ -1063,30 +1063,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
       },
       "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Donnie Trumpet",
-          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
         }
       ],
-      "duration_ms": 243546,
-      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
-      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

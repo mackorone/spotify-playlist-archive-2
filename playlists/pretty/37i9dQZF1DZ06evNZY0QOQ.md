@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,919 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,921 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 24 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 5:05 |
 | 25 | [DORIME \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:34 |
 | 26 | [Wetin Be Love](https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:35 |
-| 27 | [nothing spoil](https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 3:58 |
-| 28 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 |
+| 27 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 |
+| 28 | [nothing spoil](https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 3:58 |
 | 29 | [EGWU EJI](https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:52 |
 | 30 | [Show My Side \(feat\. Amaarae\)](https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:02 |
 | 31 | [love nwantiti x dumebi \- Midé Naike Remix](https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Midé Naike](https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc) | [love nwantiti x dumebi \(Midé Naike Remix\)](https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 |
 | 50 | [way \(feat\. DJ Lambo\)](https://open.spotify.com/track/1aFnU8fcGS9EHUh36DJ8Ml) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Lambo](https://open.spotify.com/artist/6UJMc7CLW0JpsbdIke13nU) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:32 |
 
-Snapshot ID: `aZpHAAAAAACB3saplMCfgbvxAZz2OyKv`
+Snapshot ID: `aZuYgAAAAADkIKe90jX+wAqVxxjw0pkz`

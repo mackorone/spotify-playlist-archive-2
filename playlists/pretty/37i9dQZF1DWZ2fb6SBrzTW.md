@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,216 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,232 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 26 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 |
 | 27 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 |
 | 28 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
-| 29 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 |
-| 30 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
+| 29 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
+| 30 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 |
 | 31 | [HAPPY SONG](https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 1:59 |
 | 32 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
 | 33 | [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 38 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 | 39 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 40 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
-| 41 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
-| 42 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
+| 41 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
+| 42 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
 | 43 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 |
 | 44 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
 | 45 | [Hi Hi](https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Hi Hi](https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt) | 2:15 |

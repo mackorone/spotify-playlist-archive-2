@@ -5795,6 +5795,28 @@
     },
     {
       "album": {
+        "name": "Kannala Thakatha",
+        "url": "https://open.spotify.com/album/6LmA6UxbxBP763f06TJERt"
+      },
+      "artists": [
+        {
+          "name": "Kirusanth Edman",
+          "url": "https://open.spotify.com/artist/2kbtFqE0UNvkMyyQVDFLTL"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Kannala Thakatha",
+      "url": "https://open.spotify.com/track/3cCGoJrXV5LAS2uuV8CvEh"
+    },
+    {
+      "album": {
         "name": "Kanne",
         "url": "https://open.spotify.com/album/0lNDSWNDSz8NmBStBmQK3A"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 100945,
+  "num_followers": 100953,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
+        "name": "\u83ef\u8207\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
+      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
         "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
         "url": "https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 178666,
       "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
       "url": "https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
-        "name": "\u83ef\u8207\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
-      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "SHERO",
-        "url": "https://open.spotify.com/album/4RsL9KnUAYttjxJxBll6pJ"
-      },
-      "artists": [
-        {
-          "name": "S.H.E",
-          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "\u611b\u4e0a\u4f60",
-      "url": "https://open.spotify.com/track/5foAX3vs1tKvzU2Lhv1a9u"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u4e00\u5929",
         "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 248629,
       "name": "\u4e00\u5929 - \u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "SHERO",
+        "url": "https://open.spotify.com/album/4RsL9KnUAYttjxJxBll6pJ"
+      },
+      "artists": [
+        {
+          "name": "S.H.E",
+          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "\u611b\u4e0a\u4f60",
+      "url": "https://open.spotify.com/track/5foAX3vs1tKvzU2Lhv1a9u"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
+        "name": "\u6211\u6703\u5f88\u611b\u4f60",
+        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "\u6211\u6703\u5f88\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
-        "name": "\u6211\u6703\u5f88\u611b\u4f60",
-        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
-      },
-      "artists": [
-        {
-          "name": "\u67cf\u9716PoLin",
-          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
-        }
-      ],
-      "duration_ms": 215978,
-      "name": "\u6211\u6703\u5f88\u611b\u4f60",
-      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u597d\u559c\u6b61\u4f60",
-        "url": "https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "\u597d\u559c\u6b61\u4f60",
-      "url": "https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u8b1d\u8b1d\u4f60\u7684\u7f8e\u597d",
         "url": "https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 217500,
       "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 - \u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u597d\u559c\u6b61\u4f60",
+        "url": "https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 267272,
+      "name": "\u597d\u559c\u6b61\u4f60",
+      "url": "https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
-        "url": "https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5"
+        "name": "\u5de6\u8fb9",
+        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
       },
       "artists": [
         {
-          "name": "E1and",
-          "url": "https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa"
+          "name": "\u5c0f\u5305",
+          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
         }
       ],
-      "duration_ms": 183750,
-      "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
-      "url": "https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG"
+      "duration_ms": 182400,
+      "name": "\u5de6\u8fb9",
+      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

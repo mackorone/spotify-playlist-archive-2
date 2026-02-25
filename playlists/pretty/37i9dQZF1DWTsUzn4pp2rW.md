@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,604 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,668 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 32 | [Beautiful Way](https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Beautiful Way](https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql) | 3:47 |
 | 33 | [That's What Friends Are For](https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [That's What Friends Are For](https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ) | 3:43 |
 | 34 | [In Too Deep](https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [The Best of George White Group](https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P) | 4:08 |
-| 35 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:47 |
-| 36 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 |
+| 35 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 |
+| 36 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:47 |
 | 37 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 |
 | 38 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
 | 39 | [Mother Of Mine](https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD) | [more than neighbours](https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj) | [Mother Of Mine](https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp) | 4:02 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 43 | [Inside and Out](https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [à Fleur de Peau](https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW) | 4:18 |
 | 44 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
 | 45 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
-| 46 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
-| 47 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
+| 46 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
+| 47 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
 | 48 | [Don't Go To Strangers](https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 5:20 |
 | 49 | [Much Rain](https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Much Rain](https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo) | 4:46 |
 | 50 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 94 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
 | 95 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
 | 96 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
-| 97 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
-| 98 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 97 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 98 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
 | 99 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 |
 | 100 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,899 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,856 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 74 | [I'm Ready](https://open.spotify.com/track/7oO94Tv1jcfpn1NZXolLJU) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 3:59 |
 | 75 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 |
 | 76 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
-| 77 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 |
-| 78 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
+| 77 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
+| 78 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 |
 | 79 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 80 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
 | 81 | [Jara](https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:09 |

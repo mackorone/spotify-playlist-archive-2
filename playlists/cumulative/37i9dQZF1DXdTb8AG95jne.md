@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Sion\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,258 songs - 3 day 4 hr 7 min
+1,259 songs - 3 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [All Alone](https://open.spotify.com/track/2phImRcqOev8XOfwlNnRb4) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB) | [Puzzle \- The Second Piece](https://open.spotify.com/album/5yydNweYNhy15YBz3v6lgn) | 3:49 | 2022-03-31 | 2022-04-15 |
 | [All at Sea](https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5) | [Ha Yang Su](https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA) | [All at Sea](https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe) | 3:28 | 2022-08-18 | 2022-09-06 |
 | [All My Friends Kill Me](https://open.spotify.com/track/4C8qPNCHXKTYD56KrPzKQP) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [All My Friends Kill Me](https://open.spotify.com/album/12oTig0EoVdptk5abXIcJ9) | 3:02 | 2022-07-04 | 2022-07-09 |
+| [All of me](https://open.spotify.com/track/0GPbxTKmIt498pYnWl5e31) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [0](https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H) | 4:42 | 2026-02-24 |  |
 | [allang mallang](https://open.spotify.com/track/5i2NJDXiUvCdH8yDX9FQ6b) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [allang mallang](https://open.spotify.com/album/31fB7mjP83b3Mf96sfmaZh) | 2:00 | 2025-06-04 | 2025-06-21 |
 | [Aloha 알로하](https://open.spotify.com/track/5493pPnFuPUaivtqso3NJo) | [ourlingo](https://open.spotify.com/artist/7zXov1xoHzEmIcnA83HjIR) | [Aloha 알로하](https://open.spotify.com/album/1bUgeTDXvqO8D3TESAhot7) | 4:05 | 2022-03-31 | 2022-07-06 |
 | [Alone](https://open.spotify.com/track/3gdNDVytyAtgqSCRNWgqMw) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:57 | 2022-03-31 | 2022-04-11 |
@@ -482,7 +483,7 @@
 | [I do not know why I am here](https://open.spotify.com/track/1J7MT5yYGxvYO51DFKK8Ti) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 4:28 | 2024-11-06 | 2024-11-21 |
 | [I Don't Give A](https://open.spotify.com/track/2NmY7mgMgXewWoQLoUQC7p) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Even Though We Are Not the Same 우리의 감정이 같을 순 없지만](https://open.spotify.com/album/3isdFTW14WhOxUdOhFMHqP) | 3:10 | 2022-03-31 | 2022-04-04 |
 | [I don't know](https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [I don't know](https://open.spotify.com/album/7Dlz2hPB7zxz4nf1RFpxiy) | 4:08 | 2021-12-21 | 2022-07-29 |
-| [I don’t care I like u](https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW) | [I don’t care I like u](https://open.spotify.com/album/4kU2FHO3Sy20o2EmYFRB2I) | 4:35 | 2026-01-23 |  |
+| [I don’t care I like u](https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW) | [I don’t care I like u](https://open.spotify.com/album/4kU2FHO3Sy20o2EmYFRB2I) | 4:35 | 2026-01-23 | 2026-02-25 |
 | [I don’t have eraser of words](https://open.spotify.com/track/36u940AeFl6IQmVWNXnAbj) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [I don’t have eraser of words](https://open.spotify.com/album/086UhcdBXeiEVY8XNAb4ad) | 3:11 | 2024-08-12 | 2024-08-23 |
 | [I know what is the love after broke up](https://open.spotify.com/track/1izGHQNj7Oh8dcGhY7xi3r) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [I know what is the love after broke up](https://open.spotify.com/album/7eUvhAWeEWVKrfnEAnlkfn) | 4:19 | 2022-04-12 | 2022-04-21 |
 | [I know what you did last summer](https://open.spotify.com/track/2mKzrzXs9d1Uvzo8GwVOfj) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [I know what you did last summer](https://open.spotify.com/album/6kOGPZkqQv1rz8EMPwDBgh) | 3:32 | 2025-08-18 | 2025-10-02 |

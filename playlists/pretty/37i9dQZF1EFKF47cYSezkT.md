@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 69 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 70 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 
-Snapshot ID: `AcKeKgAAAAASvfJ+5UX6mZggXTCQS7+c`
+Snapshot ID: `AcKjygAAAAD90txL7Mw+K6mDkkJXgm/X`

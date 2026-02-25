@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,890 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 30 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
 | 31 | [Senta Danada](https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Senta Danada](https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y) | 2:52 |
 | 32 | [Por una Lágrima](https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:09 |
-| 33 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
-| 34 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
+| 33 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
+| 34 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
 | 35 | [Te Voy Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 |
 | 36 | [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 |
 | 37 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOH3bXSBd8uiD.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 |
 | 2 | [not ur friend](https://open.spotify.com/track/5T9S5x5hEOvgGKWysm683a) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [not ur friend](https://open.spotify.com/album/6DmXViJkaMpvIJnQTohJXJ) | 2:54 |
-| 3 | [Kyle Meredith With..\. Jeremy Zucker](https://open.spotify.com/episode/2KoMXoWY0dp2lhQDF3tBCy) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 20:41 |
+| 3 | [Kyle Meredith With..\. Jeremy Zucker](https://open.spotify.com/episode/2KoMXoWY0dp2lhQDF3tBCy) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 22:06 |
 | 4 | [Bang!](https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3) | 2:50 |
 | 5 | [AJR Breaks Down Their New Album Neotheater](https://open.spotify.com/episode/7wnCvq4X9A8nIDmPyQDirK) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 1:37:44 |
 | 6 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 |

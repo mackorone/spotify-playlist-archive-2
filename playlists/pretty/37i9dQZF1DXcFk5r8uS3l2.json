@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1066911,
+  "num_followers": 1066946,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 179397,
-      "name": "ALLIIGATOR TEARS",
-      "url": "https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Pardon Me",
         "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 244626,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 179397,
+      "name": "ALLIIGATOR TEARS",
+      "url": "https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
       "artists": [
         {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Antique Hearts: Revisited",
         "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 219380,
       "name": "Antique Hearts",
       "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Sweet Southern Sounds",
-        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 301430,
-      "name": "Sweet Southern Sounds",
-      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "13 Years",
         "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 402240,
       "name": "13 Years",
       "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Sweet Southern Sounds",
+        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 301430,
+      "name": "Sweet Southern Sounds",
+      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "The Hammer & The Rose",
-        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Tonight Belongs to You",
-      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 217626,
       "name": "Fancy Drones (Fracture Me)",
       "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "The Hammer & The Rose",
+        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Tonight Belongs to You",
+      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Out of All the Stars",
+        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Out of All the Stars",
+      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Out of All the Stars",
-        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
-      },
-      "artists": [
-        {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
-        }
-      ],
-      "duration_ms": 239241,
-      "name": "Out of All the Stars",
-      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Mileage",
         "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 250765,
       "name": "Mileage",
       "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+      "duration_ms": 187027,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -891,22 +907,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Watch Me Gone",
         "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 302346,
       "name": "Watch Me Gone",
       "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+      },
+      "artists": [
+        {
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Madame President",
+      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -939,22 +955,6 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
-      },
-      "artists": [
-        {
-          "name": "Grace Bowers & The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Madame President",
-      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Who Needs the Weather",
-        "url": "https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Who Needs the Weather",
-      "url": "https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 323826,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Who Needs the Weather",
+        "url": "https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Who Needs the Weather",
+      "url": "https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Love On My Brain",
-        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 273121,
-      "name": "Love On My Brain",
-      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 335658,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "All The Things I Said",
-        "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "All The Things I Said",
-      "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Love in the Lead",
         "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 195885,
       "name": "Love in the Lead",
       "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "All The Things I Said",
+        "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "All The Things I Said",
+      "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Mortality Blues",
+        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 195490,
+      "name": "Mortality Blues",
+      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Not Bad",
         "url": "https://open.spotify.com/album/2iApN2bz8aHffvQX5Rh4mm"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 185306,
       "name": "Not Bad",
       "url": "https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Mortality Blues",
-        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 195490,
-      "name": "Mortality Blues",
-      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-02-13 05:00:37",

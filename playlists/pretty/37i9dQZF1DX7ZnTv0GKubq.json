@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373466,
+  "num_followers": 373475,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-02-09 12:17:58",
       "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 166623,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
-    },
-    {
-      "added_at": "2026-02-09 12:17:58",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
+    },
+    {
+      "added_at": "2026-02-09 12:17:58",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 166623,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2026-02-09 12:17:58",
@@ -851,6 +851,30 @@
     {
       "added_at": "2026-02-09 12:17:58",
       "album": {
+        "name": "Slow It Down (with Cruza & Isaiah Falls)",
+        "url": "https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Kay",
+          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 146594,
+      "name": "Slow It Down (with Cruza & Isaiah Falls)",
+      "url": "https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU"
+    },
+    {
+      "added_at": "2026-02-09 12:17:58",
+      "album": {
         "name": "Is This Real Love? (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
       },
@@ -867,22 +891,6 @@
       "duration_ms": 179579,
       "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
       "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
-    },
-    {
-      "added_at": "2026-02-09 12:17:58",
-      "album": {
-        "name": "White Tee / Long Walk",
-        "url": "https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT"
-      },
-      "artists": [
-        {
-          "name": "No Guidnce",
-          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "White Tee",
-      "url": "https://open.spotify.com/track/6zEEdQoOrlQnxHs4LnR5T9"
     }
   ],
   "unique_name": "Spotify & Chill",

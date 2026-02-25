@@ -4,7 +4,7 @@
 
 > All the New Joints featuring THE SCYTHE, Baby Keem, NAV and more!
 
-9,417 songs - 18 day 0 hr 59 min
+9,418 songs - 18 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4386,6 +4386,7 @@
 | [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 | 2025-08-08 | 2025-08-16 |
 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 | 2022-06-17 | 2022-06-25 |
 | [JUST SAY THAT \(Remix\) \(feat\. Quavo & Glorilla\)](https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JUST SAY THAT \(Remix\) \(feat\. Quavo & Glorilla\)](https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC) | 4:38 | 2022-08-05 | 2022-08-13 |
+| [Just Saying Tho](https://open.spotify.com/track/4a0iRBZ1kNzCwKKjn925yi) | [Hoodrich Keem](https://open.spotify.com/artist/4XmzcMETyb1ReFvx5SMTI1), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Just Saying Tho](https://open.spotify.com/album/3J33vK6BfdCrpaocDb6W8J) | 3:33 | 2026-02-20 |  |
 | [just score it](https://open.spotify.com/track/2AxMqRbs9U6JBJaS3GL5wx) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [just score it](https://open.spotify.com/album/73cibirs94ZVsObZcEdyny) | 1:47 | 2024-10-18 | 2024-10-26 |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 | 2025-03-29 |
 | [Just Wanna Party](https://open.spotify.com/track/63qiHmjEcBmMcOpuTtjP3l) | [Prophet the Artist](https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Just Wanna Party](https://open.spotify.com/album/7EpBez0uOFHcuIXsRLXm6e) | 3:24 | 2023-07-07 | 2023-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Blacks Jnr
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,001 likes - 80 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,060 likes - 80 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 79 | [Impande](https://open.spotify.com/track/7nus4PmUoUQQUWD0ALl1ne) | [DJ LOOPZz](https://open.spotify.com/artist/3aQF4q2S8tlTQjB0Pka8O8) | [Impande](https://open.spotify.com/album/45DDY1PPukbbecm72izNvY) | 7:15 |
 | 80 | [Vathela](https://open.spotify.com/track/157SGWWZlhUctkhWYp4PDA) | [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Ezase Afro](https://open.spotify.com/artist/2Pq1y5jYYOC4Si7kY6qjBB), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq) | [Ezase Afro Summer Banger](https://open.spotify.com/album/2aoN0uDKenMFzEfnEKWJhk) | 5:46 |
 
-Snapshot ID: `AAAAAKA28DtErMnhUqB9L2FujdF1bYQH`
+Snapshot ID: `AAAAAD5+FaWO2XVYtd70j94n4eMw2HS7`

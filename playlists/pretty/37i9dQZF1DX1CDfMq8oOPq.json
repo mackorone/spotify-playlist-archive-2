@@ -1,6 +1,6 @@
 {
   "description": "bolsa nova \u00e9 pra caber \ud83d\udcb5 ne?!?! // Emilly Guedes, LAY",
-  "num_followers": 98160,
+  "num_followers": 98198,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-02-20 14:47:54",
       "album": {
-        "name": "Descarga",
-        "url": "https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx"
-      },
-      "artists": [
-        {
-          "name": "Mana Bella",
-          "url": "https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Descarga",
-      "url": "https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M"
-    },
-    {
-      "added_at": "2026-02-20 14:47:54",
-      "album": {
         "name": "bandida chata (original)",
         "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 200649,
       "name": "Bandida chata",
       "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
+    },
+    {
+      "added_at": "2026-02-20 14:47:54",
+      "album": {
+        "name": "Descarga",
+        "url": "https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx"
+      },
+      "artists": [
+        {
+          "name": "Mana Bella",
+          "url": "https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Descarga",
+      "url": "https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M"
     },
     {
       "added_at": "2026-02-20 14:47:54",

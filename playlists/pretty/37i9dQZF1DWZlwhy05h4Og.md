@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: IVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,985 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,019 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

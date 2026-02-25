@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,580 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,655 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 14 | [mOBSCENE](https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc) | 3:25 |
 | 15 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
 | 16 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
-| 17 | [Wish](https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Broken](https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw) | 3:46 |
+| 17 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
 | 18 | [Zeig dich](https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:15 |
 | 19 | [Bombshell](https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Anyone For Doomsday?](https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y) | 3:14 |
 | 20 | [Platz Eins](https://open.spotify.com/track/4kF5GADt85FeD8Y26RRyLY) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [F & M \(Deluxe\)](https://open.spotify.com/album/7vTIPNCT9nCHw8hhskPYj1) | 3:55 |
 | 21 | [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 |
-| 22 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
+| 22 | [Wish](https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Broken](https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw) | 3:46 |
 | 23 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
 | 24 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 25 | [Augen auf!](https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wahrheit oder Pflicht](https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG) | 3:20 |

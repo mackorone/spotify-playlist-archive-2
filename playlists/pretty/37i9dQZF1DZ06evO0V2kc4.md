@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,861 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,875 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Love Minus Zero/No Limit](https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 2:44 |
 | 50 | [Llego Con Tres Heridas](https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:14 |
 
-Snapshot ID: `aZpHAAAAAAC8pFuy66EyaRhHP7HQ6UR6`
+Snapshot ID: `aZuYgAAAAACCwaxSMKz6ErY4Ucceulb3`

@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 102520,
+  "num_followers": 102533,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+        "name": "The Sound / How To Play Our Music",
+        "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
       },
       "artists": [
         {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+          "name": "Reese & Santonio",
+          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
         },
         {
           "name": "Kevin Saunderson",
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Reese",
+          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
         }
       ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
+      "duration_ms": 408404,
+      "name": "The Sound - Extended Mix",
+      "url": "https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -559,26 +563,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "The Sound / How To Play Our Music",
-        "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
       "artists": [
         {
-          "name": "Reese & Santonio",
-          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
         },
         {
           "name": "Kevin Saunderson",
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Reese",
-          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
         }
       ],
-      "duration_ms": 408404,
-      "name": "The Sound - Extended Mix",
-      "url": "https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx"
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2025-08-29 04:00:36",

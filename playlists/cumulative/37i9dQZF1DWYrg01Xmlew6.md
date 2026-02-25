@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. Geolier in cover.
 
-584 songs - 1 day 2 hr 29 min
+585 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [GALER & CIMITER](https://open.spotify.com/track/5jxDwh8Ieq4PQuxWNySD6I) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F) | [GALER & CIMITER](https://open.spotify.com/album/3y1EiSxjHTfYlxpSKGwKS9) | 1:57 | 2025-07-10 | 2025-09-05 |
 | [GAMBINO](https://open.spotify.com/track/4lml3kYiuBppXCVtSA7SuY) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [GAMBINO](https://open.spotify.com/album/3hmMoSZxe1ev9gDhqXmg2N) | 1:56 | 2025-01-16 |  |
 | [Game over \(feat\. Kepa & Cecchy\)](https://open.spotify.com/track/0mKwKOozlLzxrsOILkeiYb) | [Fuossera](https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb), [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Game over \(feat\. Kepa & Cecchy\)](https://open.spotify.com/album/7ydlubu0h9M9ktmFIskwuZ) | 3:49 | 2025-06-26 | 2025-07-18 |
-| [GAMECHANGER](https://open.spotify.com/track/7E0K8hQhsg6Wk6tw619awh) | [Bekkeria](https://open.spotify.com/artist/36d2YCS9iJeuNEMS5PLps7) | [GAMECHANGER](https://open.spotify.com/album/7vz1f3eVcT7ae4cZZyouWm) | 2:16 | 2026-01-29 |  |
+| [GAMECHANGER](https://open.spotify.com/track/7E0K8hQhsg6Wk6tw619awh) | [Bekkeria](https://open.spotify.com/artist/36d2YCS9iJeuNEMS5PLps7) | [GAMECHANGER](https://open.spotify.com/album/7vz1f3eVcT7ae4cZZyouWm) | 2:16 | 2026-01-29 | 2026-02-25 |
 | [Gangsta Freestyle](https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [DJ Princex](https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl) | [Gangsta Freestyle](https://open.spotify.com/album/4ZVK9TH7PST3iPpPnaEUyC) | 1:53 | 2024-03-14 | 2024-06-07 |
 | [Gangsta Room](https://open.spotify.com/track/5AotXxIHpYf3mNgBAcqMYd) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV) | [Gangsta Room](https://open.spotify.com/album/5acXtdAwTlMsnkdpx4FQhj) | 2:58 | 2025-07-17 | 2025-09-05 |
 | [GAS](https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H), [emvnuel](https://open.spotify.com/artist/6rGb0Db2lSQVMVWuSwzQBj) | [GAS](https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ) | 2:25 | 2022-07-07 | 2022-07-27 |
@@ -251,6 +251,7 @@
 | [La Notte di San Lorenzo](https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:08 | 2022-11-03 | 2024-11-15 |
 | [La Notte di San Lorenzo](https://open.spotify.com/track/3qKU0FvHKfIQSMgEEmYBtF) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:08 | 2022-10-27 | 2024-06-28 |
 | [La Notte di San Lorenzo](https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [La Notte di San Lorenzo](https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI) | 3:08 | 2022-07-26 | 2022-10-28 |
+| [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 | 2026-02-25 |  |
 | [Lacrima](https://open.spotify.com/track/2eBktx5PNJXGepg3C2WYuZ) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Lacrima](https://open.spotify.com/album/612nJUbeSR7yzHJmeAHVsG) | 1:37 | 2023-12-14 | 2024-01-09 |
 | [Lacrime](https://open.spotify.com/track/4PkbS7muz8y7B846KsvYc3) | [FRIDD](https://open.spotify.com/artist/7pmSMGKVH9oDjqaVCnb4gL) | [Lacrime](https://open.spotify.com/album/29Iv8CLITAE1OfVnRiw5l8) | 2:52 | 2025-02-06 | 2025-03-14 |
 | [Last Night](https://open.spotify.com/track/1daenAwiS4hRaY5dvLYdmn) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Last Night](https://open.spotify.com/album/1SYlvXfEqgf2rgvOQMYufO) | 3:28 | 2022-09-01 | 2022-09-20 |

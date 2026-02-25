@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 25323,
+  "num_followers": 25328,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "King Of Killbranch",
         "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
       },
@@ -211,6 +227,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "Love All (with JAY-Z)",
+      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -227,22 +263,6 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "No Friends In The Industry",
-      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -279,6 +299,26 @@
       "duration_ms": 141582,
       "name": "Off The Map",
       "url": "https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 166911,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -343,46 +383,6 @@
       "duration_ms": 158427,
       "name": "Top (Remix) feat. Lil Durk",
       "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "Love All (with JAY-Z)",
-      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 166911,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169401,
+      "name": "Dirty K",
+      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Off-White (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 150720,
       "name": "Steppers",
       "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169401,
-      "name": "Dirty K",
-      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "duration_ms": 150449,
+      "name": "Brush Em (feat. Rah Swish)",
+      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "I Ain't Scared",
         "url": "https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ"
       },
@@ -783,26 +803,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
-        }
-      ],
-      "duration_ms": 150449,
-      "name": "Brush Em (feat. Rah Swish)",
-      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Demons (feat. A Boogie Wit Da Hoodie)",
         "url": "https://open.spotify.com/album/0Lwd1Jj6yJxpbDT1vHzC9m"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 178218,
       "name": "Demons (feat. A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/5QdnavjDzGRNHfQn23PlG8"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "30 (feat. Bizzy Banks)",
+      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -887,26 +907,6 @@
       "duration_ms": 172800,
       "name": "Harley Quinn",
       "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "30 (feat. Bizzy Banks)",
-      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
     },
     {
       "added_at": "2022-10-01 16:17:17",

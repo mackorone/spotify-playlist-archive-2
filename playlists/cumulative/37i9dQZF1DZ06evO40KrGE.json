@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198762,
+      "name": "H\u00e1 Poder no Sangue de Jesus",
+      "url": "https://open.spotify.com/track/4NSTdRyk65cJJLKQL75Zqz"
+    },
+    {
+      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 344677,
       "name": "Sinfonia De Louvor",
       "url": "https://open.spotify.com/track/0vftnUsiMRlswGm4d1d4Fz"

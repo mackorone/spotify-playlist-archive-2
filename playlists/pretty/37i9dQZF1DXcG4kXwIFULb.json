@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 221417,
+  "num_followers": 221486,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "Recurring",
-      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Foxbase Alpha",
         "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 261000,
       "name": "Nothing Can Stop Us",
       "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "Recurring",
+      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Supreme Beings Of Leisure",
         "url": "https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 243066,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
       },
       "artists": [
         {
@@ -1328,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 290826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Nothing Changes Under The Sun",
         "url": "https://open.spotify.com/album/3Ubp7mzJGm58QtdJUWxlmc"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 304333,
       "name": "Your Girl",
       "url": "https://open.spotify.com/track/6L90mFjGeLu3rsGddZpttR"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393360,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
+        "name": "The Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
       },
       "artists": [
         {
@@ -1412,9 +1412,25 @@
           "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+      "duration_ms": 290826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393360,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1447,22 +1463,6 @@
       "duration_ms": 272613,
       "name": "Ocean Beat",
       "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
     },
     {
       "added_at": "2024-07-12 16:10:01",

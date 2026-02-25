@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\.  Cover \- Battle of Galwan
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,939 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,996 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

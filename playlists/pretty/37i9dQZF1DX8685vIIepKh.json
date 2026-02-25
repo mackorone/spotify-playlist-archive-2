@@ -1,6 +1,6 @@
 {
   "description": "La playlist survitamin\u00e9e !",
-  "num_followers": 763931,
+  "num_followers": 763934,
   "original_name": "Garde la p\u00eache !",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-02-20 00:00:12",
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2026-02-20 00:00:12",
+      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
-    },
-    {
-      "added_at": "2026-02-20 00:00:12",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
       "added_at": "2026-02-20 00:00:12",

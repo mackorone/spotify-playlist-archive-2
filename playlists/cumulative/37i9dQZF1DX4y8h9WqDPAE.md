@@ -4,7 +4,7 @@
 
 > Where R&B/Soul meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Brent Faiyaz
 
-1,222 songs - 2 day 15 hr 14 min
+1,223 songs - 2 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 | 2023-04-14 | 2023-10-21 |
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2023-04-07 | 2023-07-22 |
 | [DJ Got Me](https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [DJ Got Me](https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ) | 2:15 | 2024-05-31 | 2024-11-23 |
+| [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 | 2026-02-20 |  |
 | [dna \(with Jordin Sparks\)](https://open.spotify.com/track/4NDFiJ2Zk3295biDFz9wSt) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [dna \(with Jordin Sparks\)](https://open.spotify.com/album/202BJY2BNtYYglnUa6uJBT) | 3:19 | 2022-11-18 | 2023-02-11 |
 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 | 2023-04-21 | 2023-05-20 |
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-18 | 2023-03-18 |
@@ -532,7 +533,7 @@
 | [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 | 2025-07-11 | 2025-08-24 |
 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 | 2024-09-14 |
 | [Introducing](https://open.spotify.com/track/17YPaCBkxAsi3KANK0TWDX) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Introducing](https://open.spotify.com/album/5SwHtn3zeXEgFJcvgwWivu) | 4:01 | 2023-03-04 | 2023-03-25 |
-| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-27 |  |
+| [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-27 | 2026-02-25 |
 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-11 | 2026-02-02 |
 | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/3RlcyNhoM8zAEL32RF6axe) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/62ZENIIyJs5LzzG2nOdHR1) | 3:23 | 2023-11-10 | 2024-03-30 |
 | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS) | 3:23 | 2023-11-10 | 2023-12-09 |

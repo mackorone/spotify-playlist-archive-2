@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,241 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,366 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 48 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 49 | [Ouço Deus Me Chamar](https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:19 |
 | 50 | [Faz Um Milagre em Mim](https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8) | 5:19 |
-| 51 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
-| 52 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
+| 51 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
+| 52 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
 | 53 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
 | 54 | [Além do Impossível / Pedro \- Ao Vivo](https://open.spotify.com/track/31UMuLeLSIRO1jdri0iOXp) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Além do Impossível / Pedro \(Ao Vivo\)](https://open.spotify.com/album/5uTw6KtalyBvjtWpTmipc0) | 6:45 |
 | 55 | [Teus Olhos Revelam](https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança](https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i) | 4:58 |

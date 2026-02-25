@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 7 hr 51 min
+21 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:07 | 2020-11-27 |  |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2020-11-27 |  |
 | [Imagine Dragons](https://open.spotify.com/episode/0Q9otOOEJ7bWK7BXxizDYb) | [Required Listening](https://open.spotify.com/show/0K61VdygfDhFn10tV1oA7E) | [Required Listening](https://open.spotify.com/album/0K61VdygfDhFn10tV1oA7E) | 48:51 | 2020-11-27 |  |
-| [Kyle Meredith With..\. Arctic Monkeys](https://open.spotify.com/episode/7vUm8xRxYYumefVxop2Rks) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 17:41 | 2020-11-27 |  |
+| [Kyle Meredith With..\. Arctic Monkeys](https://open.spotify.com/episode/7vUm8xRxYYumefVxop2Rks) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 19:06 | 2020-11-27 |  |
 | [Lisztomania \- Alex Metric Remix](https://open.spotify.com/track/5AYNoX8mueqiClxumfzm3a) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix \(Remix Collection\)](https://open.spotify.com/album/0DMW8W3NICQCWsBB2yYUTO) | 5:08 | 2020-11-27 |  |
 | [Lotus Eater](https://open.spotify.com/track/6ReKt5x6FVUXTMdWNC6GAQ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 3:02 | 2020-11-27 |  |
 | [Old 45's](https://open.spotify.com/track/3tynLfCMPGbkMKLm9p960T) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:47 | 2020-11-27 |  |

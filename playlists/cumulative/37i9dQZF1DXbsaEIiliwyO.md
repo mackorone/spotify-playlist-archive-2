@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: UNISON SQUARE GARDEN
 
-234 songs - 14 hr 37 min
+235 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 | 2023-10-03 | 2023-10-19 |
 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 | 2024-04-16 |  |
 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2023-08-03 | 2024-04-19 |
+| [フルボコ](https://open.spotify.com/track/1gVV83GEtLV50vTzEMx4cJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [フルボコ](https://open.spotify.com/album/5c3vPtqXPktqI3mtZOc83C) | 2:53 | 2026-02-24 |  |
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 | 2025-01-15 |
 | [ブラックボックス](https://open.spotify.com/track/2egU7947vCMEnlJQcQH9WU) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ブラックボックス](https://open.spotify.com/album/0CzObAue2PzRD3cjBW4kNQ) | 2:37 | 2024-04-16 | 2024-05-22 |
 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 | 2023-08-03 |  |
@@ -185,7 +186,7 @@
 | [一途 \(ALBUM ver.\)](https://open.spotify.com/track/2MNBkwLzJuCzVQ8Z3G9qJo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:40 | 2023-12-05 | 2024-04-17 |
 | [今、僕、アンダーグラウンドから](https://open.spotify.com/track/0xA23rORcjZCUn6HMM0DMw) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:18 | 2024-06-10 | 2024-08-23 |
 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 | 2024-04-16 | 2024-05-22 |
-| [八芒星ダンス](https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 3:49 | 2025-04-22 |  |
+| [八芒星ダンス](https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 3:49 | 2025-04-22 | 2026-02-25 |
 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 | 2025-07-22 |  |
 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 | 2023-08-03 |  |
 | [冬のはなし \-with 立夏ver.\-](https://open.spotify.com/track/5Hx7H767SqDFuW8aoqPFql) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [冬のはなし \-with 立夏ver.\-](https://open.spotify.com/album/5XN5TWOa79XESseANPQmNk) | 3:26 | 2024-09-20 | 2024-10-09 |

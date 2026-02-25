@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,440 likes - 41 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,439 likes - 41 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 40 | [Abode](https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Анна Бо](https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:31 |
 | 41 | [Naja](https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Naja](https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU) | 9:02 |
 
-Snapshot ID: `aZpHAAAAAAD1XBGoYUfTjB0DptZ3TK0p`
+Snapshot ID: `aZuYgAAAAAD8cOGMo/3RZhh5KLABNkA1`

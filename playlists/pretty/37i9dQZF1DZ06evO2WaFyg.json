@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 264753,
+  "num_followers": 264780,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAADp8nAF7vGjbxwzMRweyfzg",
+  "snapshot_id": "aZuYgAAAAAC+J4h9FVMvJPZ3DF/c265q",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trimski",
+        "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 182673,
+      "name": "Trimski",
+      "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100 GIGS",
         "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 349933,
       "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
       "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trimski",
-        "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 182673,
-      "name": "Trimski",
-      "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 188440,
       "name": "Slam the Door",
       "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,

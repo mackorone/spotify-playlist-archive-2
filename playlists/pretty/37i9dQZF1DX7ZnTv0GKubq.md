@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,466 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,475 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 34 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 | 35 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 36 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 |
-| 37 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
-| 38 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
+| 37 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
+| 38 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
 | 39 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
 | 40 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
 | 41 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 46 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 47 | [Can't Get Out Of This Mood](https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 3:42 |
 | 48 | [Obsessed](https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Episode 1: Lost](https://open.spotify.com/album/7cEWlOUBq4Fj6J8nEy81ip) | 2:45 |
-| 49 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
-| 50 | [White Tee](https://open.spotify.com/track/6zEEdQoOrlQnxHs4LnR5T9) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [White Tee / Long Walk](https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT) | 3:19 |
+| 49 | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ) | 2:26 |
+| 50 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
 
 Snapshot ID: `AAAAAIrlM+RqDUSvabftulFITurpp998`

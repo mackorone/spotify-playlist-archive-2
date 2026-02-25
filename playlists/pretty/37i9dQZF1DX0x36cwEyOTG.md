@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,959 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,948 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 41 | [Come and See](https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo) | 3:39 |
 | 42 | [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 |
 | 43 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
-| 44 | [Sliding Doors](https://open.spotify.com/track/63HtCJMvG5k3aGD7behQeY) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 4:05 |
-| 45 | [Pine](https://open.spotify.com/track/0KWnWizkRsHSMqvfqyfqMH) | [Logan Bowden](https://open.spotify.com/artist/0EPb0J88Q9OxpOaaKA5teb) | [Family](https://open.spotify.com/album/6U8omMAuz0gnDvfnUXicPT) | 2:26 |
-| 46 | [Clarence Difference](https://open.spotify.com/track/2LncPy3DNKutXIuRByB1ZL) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Clarence Difference](https://open.spotify.com/album/4e5asp6c0avCzVAg4vkEFI) | 3:57 |
-| 47 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
-| 48 | [A Single Roof](https://open.spotify.com/track/0YCAnZ2CVi7NVu0iXrlSG6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 2:15 |
-| 49 | [Come Back Home](https://open.spotify.com/track/5cukW66110Uz0a7mAwfYgq) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:41 |
+| 44 | [A Single Roof](https://open.spotify.com/track/0YCAnZ2CVi7NVu0iXrlSG6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 2:15 |
+| 45 | [Come Back Home](https://open.spotify.com/track/5cukW66110Uz0a7mAwfYgq) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:41 |
+| 46 | [Sliding Doors](https://open.spotify.com/track/63HtCJMvG5k3aGD7behQeY) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 4:05 |
+| 47 | [Pine](https://open.spotify.com/track/0KWnWizkRsHSMqvfqyfqMH) | [Logan Bowden](https://open.spotify.com/artist/0EPb0J88Q9OxpOaaKA5teb) | [Family](https://open.spotify.com/album/6U8omMAuz0gnDvfnUXicPT) | 2:26 |
+| 48 | [Clarence Difference](https://open.spotify.com/track/2LncPy3DNKutXIuRByB1ZL) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Clarence Difference](https://open.spotify.com/album/4e5asp6c0avCzVAg4vkEFI) | 3:57 |
+| 49 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
 | 50 | [January 31, 2018: Super Blue Blood Moon](https://open.spotify.com/track/0Wr8Y0YistxIYJ0JiGiYRQ) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Astronomy, Vol\. 1](https://open.spotify.com/album/5wsaSNJTS4x2XhO30SD3NL) | 2:22 |
 
 Snapshot ID: `AAAAALFDsMWbQFJkJm4p+zGJZ1U026pY`

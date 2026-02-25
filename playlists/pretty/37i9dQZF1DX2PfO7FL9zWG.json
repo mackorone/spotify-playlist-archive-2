@@ -1,6 +1,6 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Ocie Elliott",
-  "num_followers": 76956,
+  "num_followers": 76974,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS"
     },
     {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 219259,
-      "name": "Funtimes in Babylon",
-      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
-    },
-    {
       "added_at": "2026-02-06 01:54:06",
       "album": {
         "name": "Ain't As Pretty A Blue",
@@ -1023,6 +1007,22 @@
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 219259,
+      "name": "Funtimes in Babylon",
+      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Know the Night",
-        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Know the Night",
-      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
       "artists": [
         {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1139,6 +1123,22 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
     },
     {
       "added_at": "2025-02-14 17:00:13",

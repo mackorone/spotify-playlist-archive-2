@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1580236,
+  "num_followers": 1580109,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2025-08-29 06:03:40",

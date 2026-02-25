@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,582 likes - 197 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,700 likes - 197 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 20 | [Get Your Freak On \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/4nClT5QchHT8zukglHyifT) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Get Your Freak On \(Arr\. String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/19GQ3XB2bJyvGr0SvlVDCr) | 3:28 |
 | 21 | [The Cranberries: Dreams](https://open.spotify.com/track/1yozEEHkRL2cotRpmAEpLs) | [Camille Berthollet](https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI) | [Dreams](https://open.spotify.com/album/50dPKN4y7TcqtaAvHUVbh4) | 3:20 |
 | 22 | [Beautiful Things \(Arr\. Piano\) \- 2025 Mix](https://open.spotify.com/track/15GxUvtyUEUVXFvsTj12VJ) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Beautiful Things \(Arr\. Piano\) \[2025 Mix\]](https://open.spotify.com/album/3Ta7hyGhyhLdpCNzVc4ydt) | 2:59 |
-| 23 | [All I Ask](https://open.spotify.com/track/5lORjRKywwKPX1kwgVHKYq) | [Adele Adkins](https://open.spotify.com/artist/6HZ5IH5ksF7cs4mg0HQlSN), [Brody Brown](https://open.spotify.com/artist/0aXiHgA8ucn4HJsLiCYvdW), [Peter Gene Hernandez](https://open.spotify.com/artist/3CUvr9w49GAFsfIMb9V7ei), [Philip Lawrence](https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [All I Ask](https://open.spotify.com/album/0KfDMGahV1xG8oCTJnIo9b) | 4:39 |
+| 23 | [All I Ask](https://open.spotify.com/track/5lORjRKywwKPX1kwgVHKYq) | [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [All I Ask](https://open.spotify.com/album/0KfDMGahV1xG8oCTJnIo9b) | 4:39 |
 | 24 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 |
 | 25 | [Wonderful \(Arr\. Piano\) \- From "Wicked"](https://open.spotify.com/track/5jpHIWxs6opHRy4QtEDTQW) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wonderful \(Arr\. Piano\) \[From "Wicked"\]](https://open.spotify.com/album/6ZA3tp9Lg7oNKiULQQED3O) | 1:52 |
 | 26 | [ocean eyes](https://open.spotify.com/track/4RcWtKFpfnR64ARSnK7tm3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Billie Eilish](https://open.spotify.com/album/3FE9wRDUSXqZ2qfLWBdsBl) | 3:16 |

@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-99 songs - 6 hr 31 min
+102 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2024-12-19 |  |
 | [Gravity of You](https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [SINCERELY MELODIES](https://open.spotify.com/album/3TxzTHwIDN6XFVtIVDDA3o) | 3:33 | 2025-09-30 |  |
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |
+| [I can't take my eyes off you](https://open.spotify.com/track/2GsYFOVcol1GPP94nMe5je) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I can't take my eyes off you](https://open.spotify.com/album/6SrmdTc9UCeVLKJkBLIm5H) | 5:07 | 2026-02-24 |  |
 | [I Knew I Love](https://open.spotify.com/track/6heT4iobgbs6RSYnen31L6) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/7BZMREZrMu97xEWX45kMPf) | 4:21 | 2024-12-19 |  |
 | [I meet you who are infinitely beautiful](https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I meet you who are infinitely beautiful](https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO) | 4:07 | 2025-09-30 |  |
 | [I will be your flower](https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [I will be your flower](https://open.spotify.com/album/39OFidEKg7M3yOm9rsTmrJ) | 3:47 | 2026-01-29 |  |
@@ -55,6 +56,7 @@
 | [Love is](https://open.spotify.com/track/2hX6cnuS3YNXt8YbOTAxar) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Cho Youngsoo Remake Project Part.4](https://open.spotify.com/album/385kNRF09SSwaGe4AbA0Cg) | 3:49 | 2025-09-30 |  |
 | [Love Is All](https://open.spotify.com/track/1QoZ5G6pg7pZgEA7uFpgVh) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 2:44 | 2024-12-19 |  |
 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 | 2025-07-08 |  |
+| [Love words](https://open.spotify.com/track/59Pyly0sGOkIdf1n1ctC7j) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [April, and a flower \- The 1st Mini Album](https://open.spotify.com/album/71UeIIBgaKpW6ES0TnjbxY) | 3:36 | 2026-02-24 |  |
 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Gu Yoon Hoe](https://open.spotify.com/artist/0dfxKU8RRSgxMUGbiusqMH) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 | 2024-12-19 |  |
 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [기태](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 | 2025-06-04 |  |
 | [Marry You](https://open.spotify.com/track/5o7B8smxbomqmWmCYQiCpv) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [유연정 \(우주소녀\)](https://open.spotify.com/artist/2Ma3wGxYt90MsYP3lioxkM) | [Marry Me Part.2](https://open.spotify.com/album/5t50FENPyOgMmFedLeVQFg) | 3:37 | 2024-12-19 |  |
@@ -103,6 +105,7 @@
 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 | 2024-12-19 |  |
 | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/album/4O9mh9UvVDrl2PCA1V6QEL) | 5:00 | 2025-06-24 |  |
 | [사랑의 시작은 고백에서부터](https://open.spotify.com/track/2fI1Q38idWmTLg9e0jpcA9) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [프로듀사 OST \(Soundtrack\)](https://open.spotify.com/album/21lft98t1v0snihFLnbhCL) | 3:44 | 2024-12-19 |  |
+| [사랑한대](https://open.spotify.com/track/1y5Ksa62m6wDfkdQGIwvpq) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [사랑한대](https://open.spotify.com/album/6nLFj1hXgkR7nal3Kcet6E) | 4:51 | 2026-02-24 |  |
 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 | 2024-12-19 | 2025-04-23 |
 | [청혼](https://open.spotify.com/track/2UjGbR7piN0icx797oWVCk) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [영화에서 처럼](https://open.spotify.com/album/1CRsM2hwwOafWQKXjlCS1E) | 3:49 | 2024-12-19 |  |
 | [청혼](https://open.spotify.com/track/7lw00DJUCg0P7HtOb4Ee1W) | [Noel](https://open.spotify.com/artist/7zpkDJ62XdmBpd5ZYM9l5o) | [These Are The Times](https://open.spotify.com/album/10yDCvVFY9b0ztvDZOwDtF) | 4:27 | 2024-12-19 |  |

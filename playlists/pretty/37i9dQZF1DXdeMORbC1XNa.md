@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Theodora
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,948 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,955 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 13 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 |
 | 14 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 |
 | 15 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 |
-| 16 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
-| 17 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
+| 16 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
+| 17 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
 | 18 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
 | 19 | [No Stress](https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [No Stress](https://open.spotify.com/album/0GaXk84jAdVN9ya3x8Keud) | 2:26 |
 | 20 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 |

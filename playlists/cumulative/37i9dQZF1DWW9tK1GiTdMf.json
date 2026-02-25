@@ -942,7 +942,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 223928,
       "name": ":PiLLoLe '22",
       "url": "https://open.spotify.com/track/3NOE2Av0zTMTb5vHQoMDSN"
@@ -11122,7 +11122,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 161367,
       "name": "Fragile (feat. Briga)",
       "url": "https://open.spotify.com/track/62s1JAoAUeYvzt5NZViCa1"
@@ -20832,7 +20832,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 183000,
       "name": "Pa//Pa//Pa",
       "url": "https://open.spotify.com/track/4ccc1MIs8TX2jbrBE7gUrj"
@@ -22066,7 +22066,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 135000,
       "name": "Pi\u00f9 Gi\u00f9 Del Solito",
       "url": "https://open.spotify.com/track/5LtsTH1gienRSG8CcyWKCT"
@@ -22342,7 +22342,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 177756,
       "name": "polvere da sparo",
       "url": "https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp"
@@ -23716,7 +23716,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 151800,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z"
@@ -29135,6 +29135,24 @@
     },
     {
       "album": {
+        "name": "Ti penso sempre",
+        "url": "https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154570,
+      "name": "Ti penso sempre",
+      "url": "https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g"
+    },
+    {
+      "album": {
         "name": "Ti voglio richiamare",
         "url": "https://open.spotify.com/album/0sS1aj3RamIlXyCGkTxzde"
       },
@@ -29892,7 +29910,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 193669,
       "name": "Tutte Le Mie Colpe",
       "url": "https://open.spotify.com/track/3tXB96HIvqA5mYSZ2EpB3w"

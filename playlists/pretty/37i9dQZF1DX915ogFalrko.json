@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186307,
+  "num_followers": 186313,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -299,18 +315,18 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+        "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+      "duration_ms": 151565,
+      "name": "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
+      "url": "https://open.spotify.com/track/6g2BiiVQqY5v1S4HIrM54F"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -331,18 +347,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
-        "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
       },
       "artists": [
         {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
         }
       ],
-      "duration_ms": 151565,
-      "name": "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
-      "url": "https://open.spotify.com/track/6g2BiiVQqY5v1S4HIrM54F"
+      "duration_ms": 219945,
+      "name": "Steal",
+      "url": "https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -363,26 +383,6 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "Portraits",
-        "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        }
-      ],
-      "duration_ms": 219945,
-      "name": "Steal",
-      "url": "https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -419,6 +419,22 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
+        "name": "(((((ultraSOUND)))))+",
+        "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -471,22 +487,6 @@
       "duration_ms": 179373,
       "name": "Bleed (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "(((((ultraSOUND)))))+",
-        "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "Lonely Touch",
-        "url": "https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 201813,
-      "name": "Lonely Touch",
-      "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 201600,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
+        "name": "Lonely Touch",
+        "url": "https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 201813,
+      "name": "Lonely Touch",
+      "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "Such Great Heights [From \"Tell Me Lies (Season 3)\"]",
+        "url": "https://open.spotify.com/album/3Qabstvdx4TfWujTzy5Gee"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 267976,
+      "name": "Such Great Heights - From \"Tell Me Lies (Season 3)\"",
+      "url": "https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 195136,
       "name": "Shala-Lala-La",
       "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "Such Great Heights [From \"Tell Me Lies (Season 3)\"]",
-        "url": "https://open.spotify.com/album/3Qabstvdx4TfWujTzy5Gee"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 267976,
-      "name": "Such Great Heights - From \"Tell Me Lies (Season 3)\"",
-      "url": "https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "What Will We Be (Standard)",
         "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 231706,
       "name": "Let Me Blow Your Mind",
       "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "No Dawn To Wake",
         "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 170453,
       "name": "Blame",
       "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "The Express",
-        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
-      },
-      "artists": [
-        {
-          "name": "Belleruche",
-          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Anything You Want - Not That",
-      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
+        "name": "The Express",
+        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
+      },
+      "artists": [
+        {
+          "name": "Belleruche",
+          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Anything You Want - Not That",
+      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 261493,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2026-02-19 23:00:59",

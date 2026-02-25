@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-90 songs - 7 hr 37 min
+91 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Forte Campeão](https://open.spotify.com/track/46yEehuyQ361ecO1zjaRIP) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:15 | 2023-07-09 | 2024-05-03 |
 | [Grato a Ti](https://open.spotify.com/track/3cyYp8qxwUU1lV4HIzpV9X) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:25 | 2024-04-05 | 2024-04-14 |
 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 | 2023-07-09 |  |
+| [Há Poder no Sangue de Jesus](https://open.spotify.com/track/4NSTdRyk65cJJLKQL75Zqz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 3:18 | 2026-02-25 |  |
 | [Identidade](https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm) | 4:35 | 2023-07-09 |  |
 | [Igreja Pequena](https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Força Imensa](https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ) | 5:02 | 2025-04-18 |  |
 | [Imagine](https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sem Palavras](https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd) | 4:49 | 2023-07-09 |  |
@@ -83,7 +84,7 @@
 | [Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Benção / A Mensagem da Cruz \- Ao vivo](https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [100 Anos do Movimento Pentecostal](https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU) | 13:55 | 2023-07-09 |  |
 | [Se Cristo Comigo Vai](https://open.spotify.com/track/5nWxAj8qbYBGUUFoIF4Bf7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 5:56 | 2023-07-09 | 2024-06-23 |
 | [Sementes da Fé](https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 6:04 | 2023-07-09 |  |
-| [Sinfonia De Louvor](https://open.spotify.com/track/0vftnUsiMRlswGm4d1d4Fz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:44 | 2025-03-15 |  |
+| [Sinfonia De Louvor](https://open.spotify.com/track/0vftnUsiMRlswGm4d1d4Fz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:44 | 2025-03-15 | 2026-02-25 |
 | [Sobre as Ondas do Mar](https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:20 | 2023-07-09 |  |
 | [Sossegai](https://open.spotify.com/track/5mz1wRklvSTHDYe1W4Iec6) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 6:36 | 2023-07-09 | 2024-05-13 |
 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Te Louvarei \(Ao Vivo\)](https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i) | 5:34 | 2024-05-26 |  |

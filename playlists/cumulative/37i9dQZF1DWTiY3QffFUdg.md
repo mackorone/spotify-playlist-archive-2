@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-324 songs - 16 hr 46 min
+325 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-08-11 |  |
 | [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 | 2024-03-29 | 2025-11-15 |
 | [Breathe In](https://open.spotify.com/track/3qM2JuYrffLMLtwx8YOWxj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In](https://open.spotify.com/album/4FjkGcjCasHkfTJjkBnCfA) | 6:38 | 2023-08-11 | 2023-08-26 |
-| [Broken Heart](https://open.spotify.com/track/5mhBny3BFk4oqfbMoW3kEy) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Broken Heart](https://open.spotify.com/album/1r39o5Bh3sL0n0qLG00qbM) | 2:33 | 2025-12-05 |  |
+| [Broken Heart](https://open.spotify.com/track/5mhBny3BFk4oqfbMoW3kEy) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Broken Heart](https://open.spotify.com/album/1r39o5Bh3sL0n0qLG00qbM) | 2:33 | 2025-12-05 | 2026-02-25 |
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2024-01-26 | 2024-03-12 |
 | [Can't Fight The Moonlight](https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Can't Fight The Moonlight](https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK) | 1:56 | 2024-07-12 |  |
 | [Can't Get You out of My Head](https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Can't Get You out of My Head](https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn) | 2:28 | 2023-09-01 |  |
@@ -318,6 +318,7 @@
 | [Universal Nation \- Charlotte de Witte Rework \- Edit](https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 4:00 | 2024-03-15 | 2024-11-13 |
 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 | 2024-08-16 | 2025-03-15 |
 | [Variant](https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Variant](https://open.spotify.com/album/1K5offBi5sFYxwHzI18KRB) | 4:50 | 2023-08-11 | 2023-08-19 |
+| [Voices](https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Voices](https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41) | 3:08 | 2026-02-13 |  |
 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 | 2025-08-01 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-11 |  |
 | [Waka Waka \(Mwaki\)](https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Waka Waka \(Mwaki\)](https://open.spotify.com/album/7HGP96lEH5assiam9DokmF) | 2:05 | 2023-11-10 | 2024-02-06 |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 45647,
+  "num_followers": 45671,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 187590,
       "name": "Ashimolowo",
       "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
+        "name": "Soundgod Fest IV",
+        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 128683,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 139047,
       "name": "US",
       "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
-        "name": "Soundgod Fest IV",
-        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 128683,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
         "name": "US III",
         "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
         "name": "Day n Nite",
         "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 142204,
       "name": "Day n Nite",
       "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
-        "name": "Verily",
-        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Verily",
-      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     },
     {
       "added_at": "2026-02-13 00:01:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,093 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,157 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 10 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 11 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 |
 | 12 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
-| 13 | [Always on My Mind](https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 4:29 |
-| 14 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
+| 13 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
+| 14 | [Always on My Mind](https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 4:29 |
 | 15 | [Theme From New York, New York](https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:24 |
 | 16 | [In the Mood](https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Greatest Hits](https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8) | 3:31 |
 | 17 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Someone To Watch Over Me](https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r) | 3:35 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 28 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 |
 | 29 | [Moonglow](https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:33 |
 | 30 | [Route 66](https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:01 |
-| 31 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
-| 32 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
+| 31 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
+| 32 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
 | 33 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 |
 | 34 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 35 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |

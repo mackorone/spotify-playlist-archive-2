@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-725 songs - 1 day 20 hr 38 min
+731 songs - 1 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-13 | 2025-02-07 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/4LhDEsC2tzaVuZbWAaCLrP) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [LEGION](https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw) | 2:49 | 2025-02-06 | 2025-04-19 |
 | [Blow Your Cover](https://open.spotify.com/track/5O3r5G2SrYQ3rYEUwwziAB) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:39 | 2024-03-07 | 2024-03-14 |
-| [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 | 2025-07-15 |  |
+| [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 | 2025-07-15 | 2026-02-25 |
+| [Blue Jeans](https://open.spotify.com/track/6hnk0Fesq9JOhWpck8HJsj) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 3:27 | 2026-02-24 |  |
 | [Bluma to Lunch](https://open.spotify.com/track/3EYWY7XBj1BkCKX3R3hoZk) | [BLOOM VASE](https://open.spotify.com/artist/3jpPlA4ASvE9TlObazOIee) | [BLOOM SQUAD](https://open.spotify.com/album/6aGYVnuwrIJY0Vy09s9CV6) | 2:39 | 2021-03-30 | 2022-03-16 |
 | [BON](https://open.spotify.com/track/1gosofqcJ7t3IUrQpDwGVL) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/4kfczYGAHkiAIGWZOcNThu) | 3:23 | 2025-03-07 | 2025-09-24 |
 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 | 2024-05-28 | 2025-03-07 |
@@ -85,7 +86,8 @@
 | [Cinderella Boy](https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Lazy Sunday](https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3) | 3:54 | 2023-06-06 | 2024-01-16 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2021-08-04 | 2022-11-03 |
 | [Click](https://open.spotify.com/track/2kFUlPHiyXAYMfE0fhoRS4) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Click](https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f) | 2:45 | 2024-04-16 | 2024-05-22 |
-| [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 | 2026-01-25 |  |
+| [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 | 2026-01-25 | 2026-02-25 |
+| [Cold Night](https://open.spotify.com/track/79wd94vXLJngCwTAVtzYvr) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 3:13 | 2026-02-24 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-04-16 | 2022-08-09 |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-23 | 2023-08-27 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-09-02 | 2024-09-04 |
@@ -108,7 +110,8 @@
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-12 | 2025-03-01 |
 | [DRIP](https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:00 | 2024-11-14 | 2025-03-02 |
 | [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 | 2025-02-01 | 2025-04-25 |
-| [Drop](https://open.spotify.com/track/4ujiGt8LsQUoZF7wR0BZxW) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 2:29 | 2025-04-24 |  |
+| [Drop](https://open.spotify.com/track/3OOKZkrUWnMdWJFAvy0b58) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:28 | 2026-02-24 |  |
+| [Drop](https://open.spotify.com/track/4ujiGt8LsQUoZF7wR0BZxW) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 2:29 | 2025-04-24 | 2026-02-25 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-12-15 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2021-12-15 | 2023-01-17 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-21 | 2024-05-27 |
@@ -183,8 +186,8 @@
 | [JUMP](https://open.spotify.com/track/4TbkhyiZjLS2srPUVez9Fm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/5t3RN1l5dn414E49qTe6UC) | 2:44 | 2025-07-12 | 2025-09-22 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-13 | 2025-09-29 |
 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 | 2025-02-20 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 | 2026-02-20 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 | 2026-02-25 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2021-03-27\* | 2022-05-08 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-12 | 2023-09-17 |
 | [KICK BACK](https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:14 | 2025-09-23 | 2025-11-21 |
@@ -243,7 +246,8 @@
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2023-12-07 | 2024-04-19 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-10-03 | 2023-12-08 |
 | [mutual love](https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [mutual love](https://open.spotify.com/album/0J4ZZ9k9ftKAwlegplXDuH) | 4:20 | 2024-04-13 | 2024-04-19 |
-| [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2025-10-14 |  |
+| [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2025-10-14 | 2026-02-25 |
+| [My Body](https://open.spotify.com/track/2AdYT7oPiAASC46qF43dia) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 3:23 | 2026-02-24 |  |
 | [My lovely killer](https://open.spotify.com/track/0l9OsLo35t2HgSqLkJMT4G) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [My lovely killer](https://open.spotify.com/album/5z6e7ospoCedgVD1l9bMbm) | 2:12 | 2024-08-09 | 2024-10-11 |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2021-12-26 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
@@ -262,7 +266,8 @@
 | [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 | 2024-10-16 | 2024-11-08 |
 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 | 2023-09-14 | 2023-11-28 |
 | [No\-Yes](https://open.spotify.com/track/6CGZ8022XXhjSU5qndKB5V) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 2:42 | 2024-05-31 | 2024-06-17 |
-| [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 | 2025-12-06 |  |
+| [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 | 2025-12-06 | 2026-02-25 |
+| [NON STOP](https://open.spotify.com/track/2q910scaHhg6GmqnUKOGHU) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:55 | 2026-02-24 |  |
 | [Numbers Ur Zone](https://open.spotify.com/track/1eOnQiXOa2oO3UCQsD9u0m) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 2:34 | 2025-09-23 | 2026-01-15 |
 | [Numbers Ur Zone](https://open.spotify.com/track/4gKyKGU7VdyE1ZhFhfg6J0) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [Numbers Ur Zone](https://open.spotify.com/album/2UZ6xQ2NDvRAl5MvLW5wy4) | 2:34 | 2025-09-16 | 2025-09-24 |
 | [OK Complex](https://open.spotify.com/track/0HrgcrtGZ3ycIFwcQIsl7Y) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 2:28 | 2024-05-31 | 2024-06-08 |
@@ -299,7 +304,8 @@
 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 | 2025-02-28 | 2025-04-20 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-12-25 | 2025-12-27 |
 | [Romantic](https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Romantic](https://open.spotify.com/album/5W8LmYnKgTQCTpRbR4cP3G) | 4:10 | 2024-06-03 | 2024-08-21 |
-| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-03 |  |
+| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-03 | 2026-02-25 |
+| [ROSE](https://open.spotify.com/track/3920QegiL2PHmaYYBVwexC) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:45 | 2026-02-24 |  |
 | [RUN](https://open.spotify.com/track/4ko0h3V5HpSI2LqzFeBXUN) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Hello! We’re timelesz](https://open.spotify.com/album/4Mwq0zT8k27V37Gg5Ig784) | 3:55 | 2025-03-01 | 2025-03-13 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-27 |
 | [Running Wild](https://open.spotify.com/track/45DB3yqxYGAnKN3YmLWbAX) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:31 | 2024-11-20 | 2024-11-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Jadi lebih produktif ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,252 likes - 95 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,263 likes - 95 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

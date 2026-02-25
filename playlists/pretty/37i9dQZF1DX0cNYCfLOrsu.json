@@ -1,6 +1,6 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Jada Kingdom",
-  "num_followers": 67794,
+  "num_followers": 67895,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
@@ -300,7 +300,7 @@
           "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         }
       ],
-      "duration_ms": 153213,
+      "duration_ms": 154038,
       "name": "So Mi Like It",
       "url": "https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX"
     },
@@ -1243,42 +1243,6 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Instruction (Gallong Gyal)",
-        "url": "https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD"
-      },
-      "artists": [
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        },
-        {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
-        }
-      ],
-      "duration_ms": 171068,
-      "name": "Instruction (Gallong Gyal)",
-      "url": "https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
-        "name": "Tek It To Dem",
-        "url": "https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm"
-      },
-      "artists": [
-        {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Tek It To Dem",
-      "url": "https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
         "name": "Dumpling (Toddla T Remix)",
         "url": "https://open.spotify.com/album/4FxgvtP89Ep5lFOPSNB6pw"
       },
@@ -1303,6 +1267,42 @@
       "duration_ms": 159743,
       "name": "Dumpling - Toddla T Remix",
       "url": "https://open.spotify.com/track/0YLdHkSOh05jocGjQ8mpfc"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
+        "name": "Tek It To Dem",
+        "url": "https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Tek It To Dem",
+      "url": "https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
+        "name": "Instruction (Gallong Gyal)",
+        "url": "https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD"
+      },
+      "artists": [
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        },
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 171068,
+      "name": "Instruction (Gallong Gyal)",
+      "url": "https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z"
     },
     {
       "added_at": "2026-01-23 14:06:44",

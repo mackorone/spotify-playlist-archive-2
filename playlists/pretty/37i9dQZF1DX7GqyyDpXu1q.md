@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,848 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,852 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 11 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
 | 12 | [Livin' Wrong](https://open.spotify.com/track/6NGlYe5ONZL7ia5UgBHDbK) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [Livin' Wrong](https://open.spotify.com/album/3butJXIqn1VxR5N29zOBb4) | 2:39 |
 | 13 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
-| 14 | [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 |
-| 15 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 |
+| 14 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 |
+| 15 | [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 |
 | 16 | [Part Of My Story](https://open.spotify.com/track/6jKrVj1uKwNUA1GUOf4efE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Part Of My Story](https://open.spotify.com/album/3HnOK1mvSj2R5uHWWwkHxi) | 3:24 |
 | 17 | [Brother Joe](https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Brother Joe](https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN) | 4:48 |
 | 18 | [Edge Of Darkness](https://open.spotify.com/track/4rhUBIlzi7zgV7TryhVujl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:28 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 48 | [Dig A Hole](https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Dig A Hole](https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb) | 4:12 |
 | 49 | [Til My Heart Don't Beat](https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside \(Deluxe Album Edition\)](https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL) | 1:57 |
 | 50 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 |
-| 51 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
-| 52 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
+| 51 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
+| 52 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
 | 53 | [Down No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Without The Pain](https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U) | 3:27 |
 | 54 | [Hot Damn](https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Black on Black](https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC) | 2:20 |
 | 55 | [A Bad Hand](https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [A Bad Hand](https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd) | 3:40 |

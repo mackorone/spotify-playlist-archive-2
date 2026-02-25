@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,657 likes - 64 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,717 likes - 64 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 48 | [How to Be a Heartbreaker](https://open.spotify.com/track/1RDNH7V9Odx6gOZJ4Siehj) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [How to Be a Heartbreaker](https://open.spotify.com/album/1WoHEBsqjgEIXH068AP4IR) | 3:41 |
 | 49 | [Trumpsta \(feat\. Treyy G\) \- Djuro Remix](https://open.spotify.com/track/6w2A10HCO5nhBCaNLk4aS2) | [Contiez](https://open.spotify.com/artist/1TlTz1l8LzQ7AiXjBO77Ep), [Treyy G](https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG) | [Trumpsta \(Remixes\) \(feat\. Treyy G\)](https://open.spotify.com/album/1GA87QBTzwfN33QAkFqCWK) | 4:18 |
 | 50 | [Diamonds \- The Bimbo Jones Vocal Edit](https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Lee Dagger](https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC), [Marc Jackson Burrows](https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH) | [Diamonds \(Remixes\)](https://open.spotify.com/album/5VViXjruVTgTp1eY2i0Yzp) | 3:14 |
-| 51 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 |
-| 52 | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/track/3JNqJPbbS1KhVzStLyxw1h) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/album/78yPCn5PoKJLrIV8DtLLnc) | 4:05 |
+| 51 | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/track/3JNqJPbbS1KhVzStLyxw1h) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/album/78yPCn5PoKJLrIV8DtLLnc) | 4:05 |
+| 52 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 |
 | 53 | [Somebody I Used to Know \- Tiësto Remix](https://open.spotify.com/track/013CED9qUgt808UQr9jSPm) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Club Life: Vol\. Two Miami](https://open.spotify.com/album/2BwI9hLyadMsWhWNVCkQMO) | 4:33 |
 | 54 | [In My Mind \(Axwell Radio Edit\)](https://open.spotify.com/track/3bXptsvAsA4gLaaRKMHsr0) | [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM), [Feenixpawl feat\. Georgi Kay](https://open.spotify.com/artist/3XYxzjgrOyfDpWvvqfAsQz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [In My Mind](https://open.spotify.com/album/7xFnyYYOFuljBw8e6NsBIV) | 3:05 |
 | 55 | [What I Might Do \- Radio Edit](https://open.spotify.com/track/0kHGBjQbl2BLScC28AIDLz) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do](https://open.spotify.com/album/3VtlqArHkrgbtwi16lC5eC) | 3:15 |

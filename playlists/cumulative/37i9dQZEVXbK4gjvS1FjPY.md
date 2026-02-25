@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-1,868 songs - 4 day 10 hr 20 min
+1,869 songs - 4 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,8 +153,8 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-05 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-08-08 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-02 | 2024-06-22 |
-| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-12 | 2026-02-24 |
-| [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 | 2026-02-11 |  |
+| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-12 |  |
+| [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 | 2026-02-11 | 2026-02-25 |
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2025-01-07 | 2025-01-23 |
 | [BANG BANG BANG \- KR Ver.](https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:41 | 2025-01-11 | 2025-01-21 |
 | [Baptized In Fear](https://open.spotify.com/track/0bxRSMz5WY1VuMmOhanE4b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:52 | 2025-02-02 | 2025-02-04 |
@@ -1056,7 +1056,7 @@
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-17 | 2024-10-28 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-05-20 | 2021-07-25 |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2022-06-27 | 2026-02-11 |
-| [NO BATIDÃO](https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:29 | 2026-02-19 |  |
+| [NO BATIDÃO](https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:29 | 2026-02-19 | 2026-02-25 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2026-01-01 | 2026-01-06 |
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2024-11-12 | 2024-11-30 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-06 |
@@ -1237,7 +1237,8 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-12 | 2025-09-27 |
 | [Rope It](https://open.spotify.com/track/5566hAPt0WmMPr9Xn749L7) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:45 | 2025-05-17 | 2025-10-01 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-25 | 2023-04-02 |
-| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-02-23 |  |
+| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-02-24 |  |
+| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-02-23 | 2026-02-25 |
 | [Ruin The Friendship](https://open.spotify.com/track/1ZbSww1TszeuJOtsdMZQv1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:40 | 2025-10-08 | 2025-10-10 |
 | [Ruin The Friendship](https://open.spotify.com/track/34xxPZWbEyg5iDKEBqdsBZ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:40 | 2025-10-09 | 2025-10-12 |
 | [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-04 | 2025-10-27 |
@@ -1804,7 +1805,7 @@
 | [哪里都是你](https://open.spotify.com/track/3QP3cYE3qnplFueLKNVsbM) | [隊長](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [哪里都是你](https://open.spotify.com/album/6C7UyN1fTxNKDeU6X4fYsH) | 3:42 | 2023-03-21 | 2024-09-07 |
 | [善后](https://open.spotify.com/track/6gYS6CQc7UMnj0Ubq3C0QT) | [马师傅](https://open.spotify.com/artist/0M668HC4fq39Ls98rUdsyS) | [善后](https://open.spotify.com/album/0v0ZrjSyK6uMaxdEzJOaPT) | 4:14 | 2025-09-17 |  |
 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 | 2021-09-09 | 2024-01-23 |
-| [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 | 2025-12-06 | 2026-02-23 |
+| [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 | 2025-12-06 |  |
 | [嘉賓 \- EP/Single](https://open.spotify.com/track/3vItl2vBpmEw20g4v8g0rS) | [張遠](https://open.spotify.com/artist/4TfiBmwTbweJlui16UmUec) | [嘉賓](https://open.spotify.com/album/50mB8uH9KpQYgqIsTEPX59) | 5:33 | 2021-07-28 | 2021-09-03 |
 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 | 2025-06-02 | 2025-08-23 |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2021-03-27\* | 2021-05-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "Sit back and relax to our favorite local indie and R&B sounds.",
+  "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
   "name": "Relax Tayo",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 224718,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3Ljx6tvFUYYj275OmlAIDg"
+    },
+    {
+      "album": {
+        "name": "Aishiteru",
+        "url": "https://open.spotify.com/album/1cgp61m7vqoLOUli9x40ky"
+      },
+      "artists": [
+        {
+          "name": "Bad Indie Eye",
+          "url": "https://open.spotify.com/artist/1RnlvFVGPfQd9UxuI6RUQy"
+        },
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172448,
+      "name": "Aishiteru",
+      "url": "https://open.spotify.com/track/7yVW6dSuvUapIL826ozQGY"
     },
     {
       "album": {
@@ -1766,7 +1788,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 210782,
       "name": "Maharani",
       "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
@@ -1788,6 +1810,24 @@
       "duration_ms": 281325,
       "name": "Makapiling Ka",
       "url": "https://open.spotify.com/track/3u7UxgPU03AwifvvRSqU8o"
+    },
+    {
+      "album": {
+        "name": "Maligaya Street",
+        "url": "https://open.spotify.com/album/6lgT7l9hshHJGyklt4H93e"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Maligaya Street",
+      "url": "https://open.spotify.com/track/0xT3loVOOSoN3IGeAUrV1k"
     },
     {
       "album": {
@@ -2056,6 +2096,32 @@
       "duration_ms": 212840,
       "name": "Ngiti",
       "url": "https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/3sVB0Nx3yLM5dBhUaFQ2pG"
+      },
+      "artists": [
+        {
+          "name": "Kyleswish",
+          "url": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
+        },
+        {
+          "name": "Jawz",
+          "url": "https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg"
+        },
+        {
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226062,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/2kIQmsQG3Wzoqt9WCkY8ww"
     },
     {
       "album": {
@@ -2564,7 +2630,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 269250,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
@@ -2792,7 +2858,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 294000,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"

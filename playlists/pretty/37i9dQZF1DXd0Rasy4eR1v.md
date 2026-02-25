@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Want You](https://open.spotify.com/track/7LPZTPG7g1C8LushbfZGlH) | [Rachel Johnson](https://open.spotify.com/artist/2Qg0ubkYlmJUDAAHdyFNcT) | [I Want You](https://open.spotify.com/album/2Q4GIy0zkUZeLkvLsRRkRI) | 3:54 |
+| 1 | [I Want You](https://open.spotify.com/track/7LPZTPG7g1C8LushbfZGlH) | [Rachel Johnson](https://open.spotify.com/artist/2Qg0ubkYlmJUDAAHdyFNcT), [Sulaman Naseer](https://open.spotify.com/artist/1UwVaWlzMZUGV9uBUb1Y4L) | [I Want You](https://open.spotify.com/album/2Q4GIy0zkUZeLkvLsRRkRI) | 3:54 |
 | 2 | [Chanchal](https://open.spotify.com/track/3JpSFRdJiSxq1yevTe1qiY) | [OrangeRed](https://open.spotify.com/artist/4auWONBBBMCWPBtq78Biq6) | [Chanchal](https://open.spotify.com/album/5WlAoB1SrRdSy9UhcsGuwr) | 3:00 |
 | 3 | [Aao Toh Zara](https://open.spotify.com/track/6GfV8hDW1zx9QgCpxRza8Q) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Aao Toh Zara](https://open.spotify.com/album/7a2r0WPerGJxnJNnzFvI9t) | 2:42 |
 | 4 | [Door Kithe](https://open.spotify.com/track/1wCRvbV7w7ksezklNMIsCU) | [Roshaan](https://open.spotify.com/artist/1lrhdYficIOHq2CtRyKci3) | [Limitless](https://open.spotify.com/album/1HiXFehB6UwEqeEc8MsoNs) | 3:38 |

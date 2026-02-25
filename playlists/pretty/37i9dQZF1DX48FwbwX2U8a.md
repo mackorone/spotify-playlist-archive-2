@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,420 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,101 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

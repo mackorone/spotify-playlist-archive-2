@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,648 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,655 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 42 | [他一定很愛你](https://open.spotify.com/track/1n3TbqMfvALAI0BjtiF6Lt) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [天黑](https://open.spotify.com/album/2j7oLWPom1E8cLCN8wkDg6) | 3:30 |
 | 43 | [體面](https://open.spotify.com/track/7oOfvZDUqhiJd9OC2Tq8Nh) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [尚未界定](https://open.spotify.com/album/3Izw8Ec6jQUYjSDUifh7XO) | 4:42 |
 | 44 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
-| 45 | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [赵露思 Rosy](https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv) | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX) | 3:14 |
-| 46 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 |
-| 47 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
-| 48 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
+| 45 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 |
+| 46 | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [赵露思 Rosy](https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv) | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX) | 3:14 |
+| 47 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
+| 48 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
 | 49 | [當你](https://open.spotify.com/track/56UzFYxgkvxU188BsCKBOc) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 4:09 |
 | 50 | [天天](https://open.spotify.com/track/4rzTxZaFsTXQN54WimO4QU) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [I'm O.K.](https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN) | 4:15 |
 

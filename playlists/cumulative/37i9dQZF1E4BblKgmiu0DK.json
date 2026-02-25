@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "smartsass",
+        "url": "https://open.spotify.com/album/5UFD98AJL2DSFNcmGWjmUc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Kay",
+          "url": "https://open.spotify.com/artist/1kULAVJKcJ44m9JOCV7J4E"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "bitterhalf",
+      "url": "https://open.spotify.com/track/4uL53CVlNIzptAmcedxQOI"
+    },
+    {
+      "album": {
         "name": "Inside The Hollow",
         "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
       },
@@ -866,7 +884,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 102319,
       "name": "I Just Wanna Fuck",
       "url": "https://open.spotify.com/track/4oU0Yvy5C13aRzJZr9hvRn"
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 200680,
       "name": "Jesus Wept",
       "url": "https://open.spotify.com/track/4mULVN5fIsZYaUYxE3HQdH"
@@ -3374,7 +3392,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 159919,
       "name": "No Collar, No Gods",
       "url": "https://open.spotify.com/track/7pkFwoao9jFUoG6VMOWFk8"
@@ -3543,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Not Crying",
+        "url": "https://open.spotify.com/album/64YF8Xwm4UbKYrTqB4p3HB"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Darkness",
+          "url": "https://open.spotify.com/artist/1AtuVRvLQYv1c0ZK4rhJPE"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131123,
+      "name": "Not Crying",
+      "url": "https://open.spotify.com/track/3MSby7uBkcR9STCrcarUlu"
+    },
+    {
+      "album": {
         "name": "Shatter the Line",
         "url": "https://open.spotify.com/album/5hwgo0LgdXNGUVPl3nJDJK"
       },
@@ -3554,7 +3590,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 111455,
       "name": "Nothing to Do",
       "url": "https://open.spotify.com/track/6iGnqTNrd9O1f9wpPIkwyu"
@@ -4292,7 +4328,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -4598,7 +4634,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 214941,
       "name": "Sunburn Road",
       "url": "https://open.spotify.com/track/1e9lwaLhdTSnFOpboQMESQ"
@@ -4746,7 +4782,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -4764,7 +4800,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -4786,6 +4822,24 @@
       "duration_ms": 218076,
       "name": "The Rabbit Hole",
       "url": "https://open.spotify.com/track/7lHaQD7uOIR2OryezgtXKd"
+    },
+    {
+      "album": {
+        "name": "The Spell",
+        "url": "https://open.spotify.com/album/2clOHowNVLAUANcGJp1WDR"
+      },
+      "artists": [
+        {
+          "name": "V'arc",
+          "url": "https://open.spotify.com/artist/3BPM77OfRftbYuixmxag7O"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186050,
+      "name": "The Spell",
+      "url": "https://open.spotify.com/track/0ZtHJrJ0yUhVRWxKhfwrbm"
     },
     {
       "album": {

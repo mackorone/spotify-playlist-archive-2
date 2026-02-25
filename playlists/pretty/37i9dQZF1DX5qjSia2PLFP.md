@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:7hjNO6RQeqZIBZpZQdstUO">Taffy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,682 likes - 66 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,705 likes - 66 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

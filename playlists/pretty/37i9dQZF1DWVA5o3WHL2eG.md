@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,849 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,848 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [Kaputt machst](https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kaputt machst](https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL) | 2:29 |
 | 19 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
 | 20 | [CLAP](https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [CLAP](https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ) | 2:06 |
-| 21 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
-| 22 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
+| 21 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
+| 22 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
 | 23 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
 | 24 | [Papa](https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Papa](https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK) | 2:43 |
 | 25 | [stadt der geister](https://open.spotify.com/track/1j0yRrOMlhONZM0QE724uu) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/3ivlFjL0X3qZOdOyRuYtb3) | 2:53 |

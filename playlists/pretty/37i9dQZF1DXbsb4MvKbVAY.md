@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Tate McRae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,598 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,599 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 68 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 69 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
 | 70 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
-| 71 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
-| 72 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
-| 73 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
-| 74 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
-| 75 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
-| 76 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 71 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 72 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
+| 73 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
+| 74 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
+| 75 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
+| 76 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
 | 77 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
 | 78 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 79 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 92 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
 | 93 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 94 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
-| 95 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
-| 96 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 |
+| 95 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 |
+| 96 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
 | 97 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 |
 | 98 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
 | 99 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |

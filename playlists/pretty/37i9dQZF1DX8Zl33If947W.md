@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,180 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,209 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 28 | [Weiße Haare](https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Weiße Haare](https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j) | 2:49 |
 | 29 | [mailbox](https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Mailbox](https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa) | 2:54 |
 | 30 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
-| 31 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
-| 32 | [Immer Nur An Dich](https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Immer Nur An Dich](https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC) | 1:57 |
+| 31 | [Immer Nur An Dich](https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Immer Nur An Dich](https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC) | 1:57 |
+| 32 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
 | 33 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
 | 34 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
 | 35 | [Wenn Du mich lässt](https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Wenn Du mich lässt](https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn) | 3:02 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 47 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
 | 48 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
 | 49 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |
-| 50 | [Ultraleicht](https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY) | [Andreas Bourani](https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj) | [Hey](https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l) | 4:25 |
+| 50 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
 | 51 | [Der Weg](https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 4:19 |
-| 52 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
+| 52 | [Ultraleicht](https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY) | [Andreas Bourani](https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj) | [Hey](https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l) | 4:25 |
 | 53 | [Regen und Meer](https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Es ist Juli](https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD) | 3:35 |
 | 54 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
 | 55 | [Tanz der Moleküle \- Single Version](https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk) | [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [Tanz Der Moleküle](https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3) | 3:58 |

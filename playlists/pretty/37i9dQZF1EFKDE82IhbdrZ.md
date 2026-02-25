@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 40 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
 | 41 | [Flicker](https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:18 |
 | 42 | [Girl Almighty](https://open.spotify.com/track/5UgsZiYk1lkEobuPHmRtWm) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:21 |
-| 43 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 |
-| 44 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:27 |
+| 43 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:27 |
+| 44 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 |
 | 45 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 46 | [Never Enough](https://open.spotify.com/track/7rdP71W8x4UbJ0KAKBACbo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:33 |
 | 47 | [Guys My Age](https://open.spotify.com/track/0Xm8tw6qikotb8FAOZ2ks7) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:33 |
@@ -321,12 +321,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 311 | [Back and Forth \(Pendulum\)](https://open.spotify.com/track/3zVYlZYf7hQMeHVN34gStn) | [Anto](https://open.spotify.com/artist/6Ce42DRIxQA0KcFd3JYW53) | [Back and Forth \(Pendulum\) \- Single](https://open.spotify.com/album/5hpXEhYIETnIbuv2J1GICf) | 4:06 |
 | 312 | [Oh Eh Ya](https://open.spotify.com/track/73nZ9M3SwDco6I7FgaShSw) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:01 |
 | 313 | [Back to Back](https://open.spotify.com/track/6Pyfl3wwjY3fGRoUqdGRvy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:04 |
-| 314 | [Inspiration](https://open.spotify.com/track/1h7yMzWftbnh510LicmyLY) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
-| 315 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
+| 314 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
+| 315 | [Inspiration](https://open.spotify.com/track/1h7yMzWftbnh510LicmyLY) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
 | 316 | [Timber](https://open.spotify.com/track/63uhHdBTWeqDWTMvvL9WGy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:58 |
 | 317 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 318 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 319 | [Ballerina](https://open.spotify.com/track/2HeIrXWLqBvBHMBMMQ3Zhv) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:28 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcKeKgAAAAColQsJCC4jWeVek51w4Q+o`
+Snapshot ID: `AcKjygAAAABAZMMJQfh0BZLIIy4y1m0y`

@@ -1,6 +1,6 @@
 {
   "description": "Shake up your wake up with a selection of feel good songs that will get you bouncing out the door. ",
-  "num_followers": 1290627,
+  "num_followers": 1290703,
   "original_name": "Morning Motivation",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 232186,
       "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "The Time Of Our Lives (International Version)",
         "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -895,38 +911,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 257157,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 257157,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Castle on the Hill",
-      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 243493,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+      "duration_ms": 261153,
+      "name": "Castle on the Hill",
+      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1123,6 +1107,22 @@
       "duration_ms": 224920,
       "name": "Girl on Fire",
       "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Who You Are (Platinum Edition)",
-        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1379,6 +1363,22 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2026-02-10 13:00:15",

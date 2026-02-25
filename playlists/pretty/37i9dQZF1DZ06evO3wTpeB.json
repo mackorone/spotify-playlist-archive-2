@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4858,
+  "num_followers": 4857,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAA/zP8anrAHU4GC87oUvJzA",
+  "snapshot_id": "aZuYgAAAAACn1OGVvmsU9fzGQvZfDPA3",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Yo Me Identifico",
-      "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado A",
         "url": "https://open.spotify.com/album/68xA7j7fPsALFS0ySq35P0"
       },
@@ -455,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Quise",
-        "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
       "artists": [
         {
@@ -464,17 +444,33 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Elias Wallace",
-          "url": "https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
-      "duration_ms": 212980,
-      "name": "Yo Quise",
-      "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
+      "duration_ms": 205293,
+      "name": "Yo Me Identifico",
+      "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        }
+      ],
+      "duration_ms": 229630,
+      "name": "Ahora Que Puedo",
+      "url": "https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb"
     },
     {
       "added_at": null,
@@ -507,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+        "name": "Yo Quise",
+        "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
       },
       "artists": [
         {
@@ -516,13 +512,17 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+          "name": "Elias Wallace",
+          "url": "https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 229630,
-      "name": "Ahora Que Puedo",
-      "url": "https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb"
+      "duration_ms": 212980,
+      "name": "Yo Quise",
+      "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
     },
     {
       "added_at": null,
@@ -619,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/1C2uyASCMHSazQkJyLleTd"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Lck Bardi",
-          "url": "https://open.spotify.com/artist/29LK3hqrdu5hDjPSK9D8NW"
-        },
-        {
-          "name": "Nk Profeta",
-          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/2UZLWRXS8MlzvUxVsQbGjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En los Brazos de Morfeo",
         "url": "https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd"
       },
@@ -671,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Oportunidad",
+        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -691,18 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Oportunidad",
-        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/1C2uyASCMHSazQkJyLleTd"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Lck Bardi",
+          "url": "https://open.spotify.com/artist/29LK3hqrdu5hDjPSK9D8NW"
+        },
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
+      "duration_ms": 193237,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2UZLWRXS8MlzvUxVsQbGjC"
     },
     {
       "added_at": null,

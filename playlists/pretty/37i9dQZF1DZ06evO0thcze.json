@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57354,
+  "num_followers": 57358,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAADf+e+VYuC7M8M94KLys/b+",
+  "snapshot_id": "aZuYgAAAAABGRuvj9p9zD9nUxs47PEDN",
   "tracks": [
     {
       "added_at": null,
@@ -439,38 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 349297,
-      "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 349297,
+      "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portarnos Mal",
-        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Portarnos Mal",
-      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nube Roja",
         "url": "https://open.spotify.com/album/7l611d6c9kU7kCzHZabXhD"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 263000,
       "name": "Nube Roja",
       "url": "https://open.spotify.com/track/5V3ooSsqapq7yzZniTHvaK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portarnos Mal",
+        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Portarnos Mal",
+      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
     },
     {
       "added_at": null,
@@ -1115,6 +1115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Alguien Que Me Cure",
+      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Alguien Que Me Cure",
-      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
     },
     {
       "added_at": null,
@@ -1323,26 +1323,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+        "name": "De Inmensidades",
+        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
         },
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+      "duration_ms": 189078,
+      "name": "Tequila y Lim\u00f3n",
+      "url": "https://open.spotify.com/track/72zs1y5Oe4LmORRE3DmthP"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

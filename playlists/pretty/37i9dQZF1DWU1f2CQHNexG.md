@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Bronski Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,066 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,176 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 14 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 15 | [Strangelove \- Single Version](https://open.spotify.com/track/6xPKB1wHju2wxtVdTsyxBx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/67yJQ4hgI4xpuiOiHgLEtX) | 3:47 |
 | 16 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 17 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 |
-| 18 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 17 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 18 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 |
 | 19 | [Relax \(Come Fighting\)](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 |
 | 20 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 21 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 66 | [Always Something There to Remind Me](https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Burning Bridges](https://open.spotify.com/album/6yRpzEmRaZbj1tFD0zYLe8) | 3:38 |
 | 67 | [Eyes Without A Face](https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM) | 4:59 |
 | 68 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/19omiIPoSfj8S1MlqK1aCd) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/6adz3RVhKbyw53pXOXJ83a) | 4:04 |
-| 69 | [Only You](https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Only Yazoo \- The Best Of](https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM) | 3:12 |
-| 70 | [Suburbia \- 2001 Remaster](https://open.spotify.com/track/4ETtqOYhgPo9fKKOSQK4vY) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984\-1986](https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F) | 5:07 |
+| 69 | [Suburbia \- 2001 Remaster](https://open.spotify.com/track/4ETtqOYhgPo9fKKOSQK4vY) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984\-1986](https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F) | 5:07 |
+| 70 | [Only You](https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Only Yazoo \- The Best Of](https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM) | 3:12 |
 | 71 | [Echo Beach](https://open.spotify.com/track/2uUHKPZF6W0ayxmdi6HRxa) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Oh Canada!: Rock Hits](https://open.spotify.com/album/04c15XwztwFaHZchwcHSFP) | 3:34 |
 | 72 | [Imagination](https://open.spotify.com/track/2LQ2cwH2A8ITNNPUwY1wve) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [This Is..\. 1986](https://open.spotify.com/album/3ACxpwN7XPqjcec45zdE8g) | 3:34 |
 | 73 | [The Sound Of The Crowd \- Remastered 2002](https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:06 |

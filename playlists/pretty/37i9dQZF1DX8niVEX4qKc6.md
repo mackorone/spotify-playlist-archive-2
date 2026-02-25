@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Franco Masciarelli y Sofia Macchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,019 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,022 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 43 | [Fanky \- Live](https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:27 |
 | 44 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 45 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 |
-| 46 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
-| 47 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
-| 48 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
+| 46 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
+| 47 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
+| 48 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
 | 49 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
 | 50 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
 | 51 | [Jaguar House](https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Ninja Mental \- Unplugged MTV](https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c) | 3:50 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 97 | [el film \- Versión Acústica](https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Acústico](https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5) | 2:49 |
 | 98 | [El Temporal](https://open.spotify.com/track/0pQ4aQ1g6lll9evj3yTiZh) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [El Filo](https://open.spotify.com/album/7rpkACLfv20YSPSkS4rS2d) | 2:42 |
 | 99 | [Víctimas del Cielo](https://open.spotify.com/track/46hRbN7XUKEwcoXB9InpeL) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs), [Sonia Alvarez](https://open.spotify.com/artist/4qeHReaMMuXAfrv9rFAPsj) | [Víctimas del Cielo \(En Casa\)](https://open.spotify.com/album/091ZOngC8UF9JAk0fICMcT) | 4:03 |
-| 100 | [Viento Dile a la Lluvia](https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 3:45 |
+| 100 | [Sonhos](https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Sonhos](https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB) | 6:09 |
 
 Snapshot ID: `AAAAAK46GdxKM7c88F1iZnqju8jpm4dT`

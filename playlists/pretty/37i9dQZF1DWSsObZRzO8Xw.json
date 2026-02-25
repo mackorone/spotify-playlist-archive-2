@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: eleventwelfth",
-  "num_followers": 213931,
+  "num_followers": 213988,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Muted Earth",
-        "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
-      },
-      "artists": [
-        {
-          "name": "Via Luna",
-          "url": "https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Infinite Spice",
-      "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 183286,
       "name": "Saint Loser",
       "url": "https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "Muted Earth",
+        "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
+      },
+      "artists": [
+        {
+          "name": "Via Luna",
+          "url": "https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Infinite Spice",
+      "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Yum !!",
-        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
-      },
-      "artists": [
-        {
-          "name": "standards",
-          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
-        }
-      ],
-      "duration_ms": 188129,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "51\u00b031'47\"S 58\u00b007'44\"W",
         "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 213512,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "Yum !!",
+        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
+      },
+      "artists": [
+        {
+          "name": "standards",
+          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
+        }
+      ],
+      "duration_ms": 188129,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "H/O",
-        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
-      },
-      "artists": [
-        {
-          "name": "Heavy Ocean",
-          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
-        }
-      ],
-      "duration_ms": 455375,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "As Seen from Above",
         "url": "https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Limerencia: Split",
-        "url": "https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st"
+        "name": "H/O",
+        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
       },
       "artists": [
         {
-          "name": "Yo Triceratop",
-          "url": "https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ"
+          "name": "Heavy Ocean",
+          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
         }
       ],
-      "duration_ms": 262666,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
+      "duration_ms": 455375,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "M. Rueff",
-        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+        "name": "Limerencia: Split",
+        "url": "https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st"
       },
       "artists": [
         {
-          "name": "Mylets",
-          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+          "name": "Yo Triceratop",
+          "url": "https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ"
         }
       ],
-      "duration_ms": 163412,
-      "name": "It's Not",
-      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
+      "duration_ms": 262666,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1331,6 +1315,22 @@
       "duration_ms": 256532,
       "name": "Floaty Boaty",
       "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "M. Rueff",
+        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+      },
+      "artists": [
+        {
+          "name": "Mylets",
+          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+        }
+      ],
+      "duration_ms": 163412,
+      "name": "It's Not",
+      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Celebrities",
-        "url": "https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt"
-      },
-      "artists": [
-        {
-          "name": "Collections Of Colonies Of Bees",
-          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "You can go again",
-      "url": "https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1507,22 +1491,6 @@
       "duration_ms": 245290,
       "name": "Habanero",
       "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
-        "name": "Old Material, Larger",
-        "url": "https://open.spotify.com/album/43WwZF6LGnqP9Pzl2Z7e8p"
-      },
-      "artists": [
-        {
-          "name": "Dianogah",
-          "url": "https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "100% Tree",
-      "url": "https://open.spotify.com/track/194os0dWNuK2aZIgkJYMKE"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1555,6 +1523,38 @@
       "duration_ms": 303516,
       "name": "Caballos (Horses)",
       "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "Old Material, Larger",
+        "url": "https://open.spotify.com/album/43WwZF6LGnqP9Pzl2Z7e8p"
+      },
+      "artists": [
+        {
+          "name": "Dianogah",
+          "url": "https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "100% Tree",
+      "url": "https://open.spotify.com/track/194os0dWNuK2aZIgkJYMKE"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "Celebrities",
+        "url": "https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt"
+      },
+      "artists": [
+        {
+          "name": "Collections Of Colonies Of Bees",
+          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "You can go again",
+      "url": "https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs"
     },
     {
       "added_at": "2025-12-15 09:28:58",

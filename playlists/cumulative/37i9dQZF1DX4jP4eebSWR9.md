@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: MERO, Aymen
+> 50 Hits in einer Playlist! Cover: Twenty One Pilots
 
-318 songs - 15 hr 11 min
+320 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [AMA DOREN](https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [AMA DOREN](https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO) | 2:41 | 2024-09-10 | 2024-11-13 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-06 | 2025-08-14 |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 | 2025-03-07 |
-| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 |  |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 | 2026-02-25 |
 | [APRES SKI](https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [APRES SKI](https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3) | 2:42 | 2025-11-18 | 2026-01-15 |
 | [April](https://open.spotify.com/track/6Y9nSF9wEBBDvD0BGGAm0n) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [April](https://open.spotify.com/album/6zKljDHDNVQFX4NkiyszOf) | 2:37 | 2025-04-15 | 2025-05-02 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-22 | 2025-06-11 |
@@ -84,6 +84,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-10 | 2025-05-07 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-16 | 2024-11-27 |
 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 | 2025-10-22 | 2026-01-15 |
+| [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-24 |  |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-14 |  |
 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 | 2024-09-10 | 2025-01-29 |
 | [Ein Lied für dich](https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:01 | 2025-09-02 | 2025-10-02 |
@@ -283,7 +284,7 @@
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-05 | 2025-09-10 |
 | [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-05-20 | 2025-06-18 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 | 2024-11-06 |
-| [Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Es ist Zeit](https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy) | 2:53 | 2025-12-30 |  |
+| [Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Es ist Zeit](https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy) | 2:53 | 2025-12-30 | 2026-02-25 |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-09-30 | 2025-11-05 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-25 | 2025-05-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-09-10 | 2024-10-09 |
@@ -315,6 +316,7 @@
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-29 | 2025-05-28 |
 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-13 |  |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-23 |  |
+| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-24 |  |
 | [WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [WHO'S THAT](https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL) | 2:20 | 2025-06-24 | 2025-10-08 |
 | [Wie?](https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wie?](https://open.spotify.com/album/3WjhvJaQYvDdud4lPBtrlH) | 2:53 | 2025-02-20 | 2026-02-04 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-05 | 2024-12-05 |

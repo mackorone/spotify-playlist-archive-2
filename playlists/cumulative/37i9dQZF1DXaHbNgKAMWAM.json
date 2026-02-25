@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
@@ -3474,7 +3474,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 293680,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 191786,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/1MryEnrTDLmz1AUe20tQ8M"
@@ -3957,6 +3957,24 @@
     },
     {
       "album": {
+        "name": "LOVE MAZE II",
+        "url": "https://open.spotify.com/album/4lN709Gy6d6f8Mkp2EZSm4"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "PERSONAL COLOR",
+      "url": "https://open.spotify.com/track/5bOabVZOZKfdzquXN6VSQF"
+    },
+    {
+      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
@@ -4026,6 +4044,28 @@
       "duration_ms": 251441,
       "name": "Private Language",
       "url": "https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T"
+    },
+    {
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        },
+        {
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
     },
     {
       "album": {
@@ -4388,6 +4428,24 @@
       "duration_ms": 250253,
       "name": "Snowy Stars",
       "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
+    },
+    {
+      "album": {
+        "name": "So Pretty",
+        "url": "https://open.spotify.com/album/5fYd7d5kXmnzaTFai0UANH"
+      },
+      "artists": [
+        {
+          "name": "Oh Si Young",
+          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "So Pretty",
+      "url": "https://open.spotify.com/track/4uGrFDHsKE6R6RTWK64Dcz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,243 songs - 3 day 2 hr 26 min
+1,244 songs - 3 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 | 2023-06-10 |
 | [Artemis](https://open.spotify.com/track/37VTqZNklXxzXdbOqeC9HC) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f) | [Artemis](https://open.spotify.com/album/3vNnhqclfPzpVBBkzhHE4h) | 4:06 | 2023-07-14 | 2024-07-13 |
 | [As the Sun Breaks](https://open.spotify.com/track/1KJZZ7GNTJ6AYPUtKYIeX3) | [Temple One](https://open.spotify.com/artist/04d81XptQA11pLPxMXLxC9) | [As the Sun Breaks](https://open.spotify.com/album/3yZlpDiuZYgIprZsl1VC2P) | 3:58 | 2023-12-08 | 2025-05-17 |
-| [Ascend](https://open.spotify.com/track/52QYnyhOTbk9ICVCSQkUBd) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Ascend](https://open.spotify.com/album/1lbWbT7G4YUQAN7TUIsWMq) | 3:23 | 2025-08-15 |  |
+| [Ascend](https://open.spotify.com/track/52QYnyhOTbk9ICVCSQkUBd) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Ascend](https://open.spotify.com/album/1lbWbT7G4YUQAN7TUIsWMq) | 3:23 | 2025-08-15 | 2026-02-25 |
 | [Ascend](https://open.spotify.com/track/6MGTRiIoovwhas2yLFv1NE) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Ascend](https://open.spotify.com/album/1eOd6pPjaUdoKqY39dhxch) | 2:49 | 2022-08-12 | 2023-06-10 |
 | [Ask Me Anything \- Album Mix](https://open.spotify.com/track/5rN7rDTkNneqW9Q5Dshsqc) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Euphoria](https://open.spotify.com/album/7Et9aUqQ8jnwIiZ49ka1ck) | 4:59 | 2021-12-17 | 2023-02-25 |
 | [Astro](https://open.spotify.com/track/4PrtVFZouroQZGMzjVat8d) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Astro](https://open.spotify.com/album/78Gqsy8a716SrHnhkgy4sw) | 3:00 | 2021-12-17 | 2022-02-26 |
@@ -631,6 +631,7 @@
 | [Lisbon](https://open.spotify.com/track/0teGeggE4isvrjIsTJ17vY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Lisbon](https://open.spotify.com/album/6WLfFIWuYJNJy6LoxLRnGL) | 3:11 | 2021-12-17 | 2022-03-12 |
 | [Little Pieces](https://open.spotify.com/track/21C2aEhXEdso5iOsLGFKL7) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Little Pieces](https://open.spotify.com/album/17obxDQCInibRahprDVLHi) | 4:27 | 2021-12-17 | 2023-02-25 |
 | [Live For Tonight \- Scorz Remix](https://open.spotify.com/track/4RHFjle9srlZWXn7mjEpcj) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Live For Tonight \(Scorz Remix\)](https://open.spotify.com/album/0fEYcXAlwni1fUkT6v7LAr) | 2:40 | 2021-12-17 | 2023-01-14 |
+| [Live Forever](https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y) | [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Live Forever](https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6) | 2:56 | 2026-02-13 |  |
 | [Lockdown Heart](https://open.spotify.com/track/1h4veLWNE7ICl6cgSiBFOn) | [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Lockdown Heart](https://open.spotify.com/album/7GBUwO9gG4F1PV1j7dC7Cv) | 3:30 | 2022-04-01 | 2022-05-22 |
 | [Lone Wolf](https://open.spotify.com/track/2jbKdQmXdOg8CATVQfZYOR) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3) | [Brave Game / Lone Wolf](https://open.spotify.com/album/5xguNCAC1chhbCkf9r69HK) | 2:56 | 2022-12-02 | 2024-02-17 |
 | [Lonely Soul \- Radio Edit](https://open.spotify.com/track/33dzDNwMRgVUNmGRPCy4Hx) | [Eugenio Tokarev](https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4), [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [Lonely Soul](https://open.spotify.com/album/6o1ysH7IGH6xu1EOIsV0bp) | 3:18 | 2022-06-24 | 2022-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5QbGZzqKp6.md) - [plain]
 
 > Books that illuminate Black history, from overlooked truths to world\-changing moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-828 songs - 1 day 17 hr 11 min
+829 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,6 +761,7 @@
 | [Underrated](https://open.spotify.com/track/0xABj8GJud97r7AXJSlpMg) | [Zushi&Vanko](https://open.spotify.com/artist/298Tr9fKPXEbDuEB4Bugmx), [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Underrated](https://open.spotify.com/album/3t5D4dnXjMZY8PZsbO8xz8) | 3:41 | 2024-09-03 |  |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 | 2023-04-28 |
 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 | 2023-01-06 | 2023-04-28 |
+| [used2be](https://open.spotify.com/track/2kc3SH7Bys3KbGXzuq11xf) | [noaa!](https://open.spotify.com/artist/2wsxJN6r2WeTwSpDqeH4ag), [fyl](https://open.spotify.com/artist/40VJ0ejUdeu8sKeW6cR38T) | [used2be](https://open.spotify.com/album/3WVH2DjJLcAZByviiG6KMX) | 2:22 | 2026-02-24 |  |
 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 | 2023-05-25 | 2023-08-10 |
 | [uWu BURST](https://open.spotify.com/track/4v4P37b9O9MDUG083zK5Il) | [FLAYA PLAYA](https://open.spotify.com/artist/2rrl5KoXZgF1QJOnQPdgao), [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [Nomeli](https://open.spotify.com/artist/1BUS9imdzOiho5SfNrqjft) | [uWu BURST](https://open.spotify.com/album/3LKaUZRta8ouY5FqWFEhli) | 1:53 | 2023-05-02 | 2023-12-14 |
 | [VBM](https://open.spotify.com/track/13pYqH006kvuspL8ugXoMO) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [VBM](https://open.spotify.com/album/2SpSpaeK47KsZg8R5QuARt) | 2:15 | 2023-12-13 | 2024-07-19 |

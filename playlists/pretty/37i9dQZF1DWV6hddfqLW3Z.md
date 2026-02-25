@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,727 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,736 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 14 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 15 | [Ninguém](https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Onde?](https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS) | 3:10 |
 | 16 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
-| 17 | [Paciência](https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Na Pressão](https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG) | 4:44 |
-| 18 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
+| 17 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
+| 18 | [Paciência](https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Na Pressão](https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG) | 4:44 |
 | 19 | [Vive](https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Rua dos Amores](https://open.spotify.com/album/41Qxndw4RWNcfeubhatBPX) | 5:22 |
 | 20 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 |
 | 21 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 67 | [Vumbora Amar](https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ) | [Alexandre Leão](https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8) | [Axé Babá](https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN) | 3:31 |
 | 68 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 69 | [Nosso Caso](https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Nosso Caso](https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u) | 3:31 |
-| 70 | [Mexeu comigo](https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [iCollection](https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg) | 3:34 |
+| 70 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
 
 Snapshot ID: `AAAAANc+Comssvv8VvapGFPOjo19kSjA`

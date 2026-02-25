@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,304 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,301 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 7 | [invisible string](https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:12 |
 | 8 | [Patterns](https://open.spotify.com/track/7HRiiK71reyWWDdKrw0Vle) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [No One’s Gonna Love You Like I Can](https://open.spotify.com/album/5JoMxxvtDzOfaIW1YOYxSu) | 4:20 |
 | 9 | [Rockland](https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:37 |
-| 10 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
+| 10 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
 | 11 | [Over the Finish Line](https://open.spotify.com/track/7bZWjIAYnl3cu6zEbK5szF) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Over the Finish Line](https://open.spotify.com/album/4Y26zaC3fTZ2U7lxv4KkxA) | 4:15 |
 | 12 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
-| 13 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 13 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 | 14 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 15 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 |
 | 16 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 82 | [See the Day](https://open.spotify.com/track/02FXmW3KGdhRZKGNccwl5r) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [See the Day](https://open.spotify.com/album/69DnDDvVwm7QHff7CLWWT4) | 3:08 |
 | 83 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
 | 84 | [3 Crow](https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Funeral for My Past](https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8) | 3:28 |
-| 85 | [Soundings](https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [Soundings](https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC) | 2:55 |
-| 86 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
+| 85 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
+| 86 | [Soundings](https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [Soundings](https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC) | 2:55 |
 | 87 | [Nothing We Say](https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 3:31 |
 | 88 | [The Low Hum](https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [California Calling](https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi) | 4:01 |
 | 89 | [American Crow](https://open.spotify.com/track/1Z1Fo7DlxPhlbR7Q9hhgKg) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & the New Hip](https://open.spotify.com/artist/3A9RsQhAsUFqIdTKJdK51d) | [New Frontier](https://open.spotify.com/album/6FU2w4wTADCGBJsYKkyz47) | 3:19 |

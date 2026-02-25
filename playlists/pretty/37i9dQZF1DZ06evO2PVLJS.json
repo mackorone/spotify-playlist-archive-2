@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1117450,
+  "num_followers": 1117511,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABk3ta18omzirjtW2WgNV6/",
+  "snapshot_id": "aZuYgAAAAADPlJd+sbmMb5FJI9NXPt7Z",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+        "name": "El N\u00famero Uno",
+        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
       },
       "artists": [
         {
           "name": "Vicente Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        },
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 206840,
-      "name": "Aunque Mal Paguen Ellas (with Roberto Carlos)",
-      "url": "https://open.spotify.com/track/16tSlxrIF7hDvU1VXkpL6U"
+      "duration_ms": 191066,
+      "name": "Yo Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero Uno",
-        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
       },
       "artists": [
         {
           "name": "Vicente Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Yo Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
+      "duration_ms": 206840,
+      "name": "Aunque Mal Paguen Ellas (with Roberto Carlos)",
+      "url": "https://open.spotify.com/track/16tSlxrIF7hDvU1VXkpL6U"
     },
     {
       "added_at": null,

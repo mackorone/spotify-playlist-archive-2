@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor en ingl\u00e9s de la \u00faltima d\u00e9cada. Para novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
-  "num_followers": 903464,
+  "num_followers": 903823,
   "original_name": "Pop Internacional 2026",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,26 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -199,26 +199,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241688,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 222533,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -1927,26 +1927,6 @@
       "duration_ms": 170826,
       "name": "Galway Girl",
       "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -1967,6 +1947,26 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Hey Brother",
-      "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -2151,6 +2135,22 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Hey Brother",
+      "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -2163,6 +2163,22 @@
       "duration_ms": 224653,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Starships",
+      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -2187,22 +2203,6 @@
       "duration_ms": 203000,
       "name": "More Than You Know",
       "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Starships",
-      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
     },
     {
       "added_at": "2026-01-13 19:08:52",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2026-01-13 19:08:52",
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+    },
+    {
+      "added_at": "2026-01-13 19:08:52",
+      "album": {
         "name": "Blurred Lines (Deluxe)",
         "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
-    },
-    {
-      "added_at": "2026-01-13 19:08:52",
-      "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
     },
     {
       "added_at": "2026-01-13 19:08:52",

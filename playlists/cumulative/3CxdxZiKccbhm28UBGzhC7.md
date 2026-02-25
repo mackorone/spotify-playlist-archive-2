@@ -4,7 +4,7 @@
 
 > 2023
 
-115 songs - 6 hr 43 min
+116 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Switchblade Smiles](https://open.spotify.com/track/4Qm13tC08v8k6a1UEr9Htb) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Velociraptor!](https://open.spotify.com/album/6lox5NV29L4QQmLuAvBXuP) | 4:13 | 2025-10-13 |  |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2026-01-01 |  |
 | [Temptation Greets You Like Your Naughty Friend](https://open.spotify.com/track/3fcJX31CLvMOzcWR0HFn8B) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Brianstorm](https://open.spotify.com/album/3wes7jJ9Ig44rYtlYGwAh9) | 3:29 | 2023-01-20 |  |
+| [The Boxer](https://open.spotify.com/track/2rIIbUK6hOdpojv37cnbYr) | [The Enemy](https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k) | [Social Disguises](https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG) | 3:31 | 2026-02-24 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2024-10-30 |  |
 | [The Man Don't Give a Fuck \- 2016 \- Remaster](https://open.spotify.com/track/3nKgqK8lLseqdMyUZm9ed0) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Fuzzy Logic \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1x6JiZdZ5HJcBk2zh6OTRl) | 4:53 | 2022-09-06 |  |
 | [The View From The Afternoon](https://open.spotify.com/track/5eyTC5GZzpzlN7YRO9AoPf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:42 | 2022-10-21 |  |

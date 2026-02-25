@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 2 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
-| 3 | [I've Seen It](https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:06 |
+| 1 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
+| 2 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
+| 3 | [MIENTRAS DUERMES](https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:46 |
 | 4 | [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 |
 | 5 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 |
 | 6 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 |

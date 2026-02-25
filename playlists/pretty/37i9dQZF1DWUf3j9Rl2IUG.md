@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: Lekaa, ODUMODUBLVCK & Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,419 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,522 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 50 | [Many People](https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:41 |
 | 51 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 |
 | 52 | [BADAMINTON](https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BADAMINTON](https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl) | 2:07 |
-| 53 | [Osusu](https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 2:34 |
+| 53 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
 | 54 | [lost](https://open.spotify.com/track/3wdV4OJ37JdoLyUJMm50UW) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [lost](https://open.spotify.com/album/5CLUFOEWCqiMNRrX5Ibxod) | 2:48 |
 | 55 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Che Che \(feat\. Asake\)](https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R) | 2:49 |
 | 56 | [ENJOYMENT](https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE) | [ENJOYMENT](https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur) | 2:55 |
 | 57 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 |
-| 58 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
+| 58 | [Osusu](https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 2:34 |
 | 59 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
 | 60 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
 | 61 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |

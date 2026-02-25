@@ -789,6 +789,28 @@
     },
     {
       "album": {
+        "name": "Andaaze",
+        "url": "https://open.spotify.com/album/5x8Usa1QvEBMTHlFNTHSgI"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136097,
+      "name": "Andaaze",
+      "url": "https://open.spotify.com/track/6x4Prss1bJsnDDg4UNXt79"
+    },
+    {
+      "album": {
         "name": "Andhadhundh",
         "url": "https://open.spotify.com/album/2Hi46SNyAZfVyKOWJQ9YTs"
       },
@@ -1398,7 +1420,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 118857,
       "name": "Bawli",
       "url": "https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT"
@@ -2068,6 +2090,28 @@
       "duration_ms": 123697,
       "name": "Chhore",
       "url": "https://open.spotify.com/track/4vDdzKCAT9t45L4gKoXQGE"
+    },
+    {
+      "album": {
+        "name": "Chhore Albadi",
+        "url": "https://open.spotify.com/album/3ZDs3OqMJ69lcNMPCH2FLZ"
+      },
+      "artists": [
+        {
+          "name": "Shayar",
+          "url": "https://open.spotify.com/artist/698WwbG1K8RbRVcqnUNJcR"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156969,
+      "name": "Chhore Albadi",
+      "url": "https://open.spotify.com/track/3zv3tbMI4DqYRKHMo4Sr1Z"
     },
     {
       "album": {
@@ -5811,6 +5855,28 @@
     },
     {
       "album": {
+        "name": "Jigra",
+        "url": "https://open.spotify.com/album/3wHSfdSjNp8OVdhAGEaESB"
+      },
+      "artists": [
+        {
+          "name": "RB Tarkhiya",
+          "url": "https://open.spotify.com/artist/2HgB3ertQaFlHkBfZHd6r1"
+        },
+        {
+          "name": "Signature By OG",
+          "url": "https://open.spotify.com/artist/4WIUMr7y0ew27aNAWna1hu"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127241,
+      "name": "Jigra",
+      "url": "https://open.spotify.com/track/28PQtBPyG9pv84sbWUYTkJ"
+    },
+    {
+      "album": {
         "name": "Jigre",
         "url": "https://open.spotify.com/album/1ZBZS8SEkciA40OwXKRJ7d"
       },
@@ -6284,6 +6350,28 @@
       "duration_ms": 201774,
       "name": "Karwai",
       "url": "https://open.spotify.com/track/3lTeDEjpSlPxtpEnzNAEB2"
+    },
+    {
+      "album": {
+        "name": "kasai",
+        "url": "https://open.spotify.com/album/0bS21rolJNLmApu4EsI02X"
+      },
+      "artists": [
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        },
+        {
+          "name": "Scammy",
+          "url": "https://open.spotify.com/artist/4mYOfU13vBwCMG1fjHBkXZ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145578,
+      "name": "kasai",
+      "url": "https://open.spotify.com/track/0EbGK2QO1o7goHuq3FIcof"
     },
     {
       "album": {
@@ -8950,7 +9038,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 192000,
       "name": "Qualis",
       "url": "https://open.spotify.com/track/6CX1HrSYjeXdbzimxmEW2P"
@@ -10156,7 +10244,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 241957,
       "name": "Success",
       "url": "https://open.spotify.com/track/4dO5LtlRj5wqdVVrDHjeh3"
@@ -11624,7 +11712,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 209629,
       "name": "Yamraaj",
       "url": "https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0"

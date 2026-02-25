@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,888 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,888 likes - 89 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 28 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 |
 | 29 | [L'UNICA](https://open.spotify.com/track/4UFS1osMKu4hGJwZtmfvuX) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:10 |
 | 30 | [Taki](https://open.spotify.com/track/24HZYhiT0GhKM3KY95NTp0) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:33 |
-| 31 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
-| 32 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 |
+| 31 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 |
+| 32 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
 | 33 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
 | 34 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 |
 | 35 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 59 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 |
 | 60 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 |
 | 61 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 |
-| 62 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
-| 63 | [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 |
+| 62 | [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 |
+| 63 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
 | 64 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 |
 | 65 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 |
 | 66 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/5Dwi8UxcZkZ74C7tYzRqGv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/1fzL3WefoCP6F7sEzlU8mg) | 2:49 |
@@ -96,5 +96,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 86 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 87 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 | 88 | [Mi Fido Di Te](https://open.spotify.com/track/3YKmi0tPQL4mpcDIvXQbUV) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [Mi Fido Di Te](https://open.spotify.com/album/2jgeoZfOlI6KCyBPvPApxz) | 3:09 |
+| 89 | [Non cambia mai](https://open.spotify.com/track/73wVaFK3ObtATKxqojeRxm) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/4m6frJXOfu9fulG7Ey89UJ) | 3:10 |
 
-Snapshot ID: `AcKeSAAAAABRQw86VOFPqwnLWg0YDsWm`
+Snapshot ID: `AcKjygAAAAB0+NzMfGyfAQqF6nLQShML`

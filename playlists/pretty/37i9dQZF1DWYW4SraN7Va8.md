@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,781 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,867 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 18 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
 | 19 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 20 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
-| 21 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
-| 22 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:29 |
+| 21 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:29 |
+| 22 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
 | 23 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 |
-| 24 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
-| 25 | [Bad To The Bone](https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [BAD TO THE BONE](https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj) | 4:52 |
-| 26 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
-| 27 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 |
+| 24 | [Bad To The Bone](https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [BAD TO THE BONE](https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj) | 4:52 |
+| 25 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
+| 26 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 |
+| 27 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
 | 28 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 |
 | 29 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 |
 | 30 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 66 | [Make Up Your Mind](https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Make Up Your Mind](https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U) | 3:38 |
 | 67 | [The Riff That Won't Quit](https://open.spotify.com/track/1AkCrT2fmXo33ITtIvKwMD) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [The Riff That Won't Quit](https://open.spotify.com/album/2V20PZi4Y8wABsv9f1rC5N) | 2:48 |
 | 68 | [Old Time Rock n\\' Roll](https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY) | [Sam Morrison and Turn The Page](https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl) | [A Tribute to the Music of Bob Seger](https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU) | 3:10 |
-| 69 | [Up All Night](https://open.spotify.com/track/5rOzetfeTHK30dlGc7DBjU) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Up All Night](https://open.spotify.com/album/2I8N3vNB7506VwZK6ICyeK) | 3:07 |
-| 70 | [No More, No More](https://open.spotify.com/track/0dJGtR6vhnxkaWyg2FOuy5) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband \(Deluxe Edition\)](https://open.spotify.com/album/19oa2tIRvZg4dSUD8Dyt8t) | 5:38 |
+| 69 | [No More, No More](https://open.spotify.com/track/0dJGtR6vhnxkaWyg2FOuy5) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband \(Deluxe Edition\)](https://open.spotify.com/album/19oa2tIRvZg4dSUD8Dyt8t) | 5:38 |
+| 70 | [Up All Night](https://open.spotify.com/track/5rOzetfeTHK30dlGc7DBjU) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Up All Night](https://open.spotify.com/album/2I8N3vNB7506VwZK6ICyeK) | 3:07 |
 | 71 | [New Orleans](https://open.spotify.com/track/4wuVgdYCcCEsBQsuC5fIvx) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Walk This Road](https://open.spotify.com/album/7aPVm5JTgslETzxylWaywk) | 3:50 |
 | 72 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |
 | 73 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
-| 74 | [Wild Ones](https://open.spotify.com/track/0Jt6jvNztmehl8yQ66ngvi) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Wild Ones](https://open.spotify.com/album/3sRejvJQPdligiHOLnsnMK) | 4:17 |
-| 75 | [Holy Ground \(Shake the Memory\)](https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Holy Ground](https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp) | 4:49 |
+| 74 | [Holy Ground \(Shake the Memory\)](https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Holy Ground](https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp) | 4:49 |
+| 75 | [Wild Ones](https://open.spotify.com/track/0Jt6jvNztmehl8yQ66ngvi) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Wild Ones](https://open.spotify.com/album/3sRejvJQPdligiHOLnsnMK) | 4:17 |
 
 Snapshot ID: `AAAAAHH01myek1TmzqvHKj5Hn4tzN69g`

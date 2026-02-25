@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,295 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,300 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 47 | [Tu Buay](https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [Tu Buay](https://open.spotify.com/album/5CNq7AqFZBnlj9lXI5275g) | 2:18 |
 | 48 | [Besitos](https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [Besitos](https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj) | 5:01 |
 | 49 | [La Maco](https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB) | [Anyuri](https://open.spotify.com/artist/3CC7UwBlcBeQtj20V9xjiE), [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [La Maco](https://open.spotify.com/album/3BcxG2jDu6hQ4lUPvwxP0d) | 3:18 |
-| 50 | [MITA](https://open.spotify.com/track/4VxX3ecFUEBgEPhdcER5VD) | [Pash](https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS) | [MITA](https://open.spotify.com/album/2NA6SnaBTut7YwDaEMc5KW) | 3:12 |
+| 50 | [MITA](https://open.spotify.com/track/4VxX3ecFUEBgEPhdcER5VD) | [Pash](https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS) | [MITA](https://open.spotify.com/album/2NA6SnaBTut7YwDaEMc5KW) | 3:12 |
 | 51 | [Ya Ni Se](https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2) | [DJ Ledezz](https://open.spotify.com/artist/2C4pKlrYpSurcTknihyLhN), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Ya Ni Se](https://open.spotify.com/album/2D9M8jbjcqjeovyTzDBPt9) | 3:19 |
 | 52 | [Háblame de Ti](https://open.spotify.com/track/20XMeJgjo5Xrq8MP2kh0p4) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Háblame de Ti](https://open.spotify.com/album/7bwsis1VLOwTBOOqYkmnGI) | 3:43 |
 | 53 | [Tus Labios](https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tus Labios](https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD) | 2:55 |

@@ -17417,6 +17417,24 @@
     },
     {
       "album": {
+        "name": "Attempted Mustache",
+        "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
+      },
+      "artists": [
+        {
+          "name": "Loudon Wainwright III",
+          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147466,
+      "name": "The Swimming Song",
+      "url": "https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3"
+    },
+    {
+      "album": {
         "name": "The Sunset Violent",
         "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
       },

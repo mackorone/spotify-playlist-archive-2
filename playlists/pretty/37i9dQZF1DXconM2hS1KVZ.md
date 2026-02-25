@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,492 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,456 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 44 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 | 45 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 |
 | 46 | [Sarà perché ti amo](https://open.spotify.com/track/7037bX3jdaUWUAXL12CHGy) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [The Collection](https://open.spotify.com/album/0WdZQGmbPI3U7eDF5jACGi) | 3:10 |
-| 47 | [SUBEME LA RADIO](https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG) | 3:27 |
-| 48 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 |
+| 47 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 |
+| 48 | [SUBEME LA RADIO](https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG) | 3:27 |
 | 49 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
 | 50 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/1PnmXdkqRktZT67tE8fv7d) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes \(Bonus Version\)](https://open.spotify.com/album/2Havuz9zsc6Ok99SIlNthK) | 4:39 |
 | 51 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 |

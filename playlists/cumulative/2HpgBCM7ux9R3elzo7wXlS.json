@@ -10277,6 +10277,24 @@
     },
     {
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4sIXQwVVGsvXcRDhrlHP0X"
+      },
+      "artists": [
+        {
+          "name": "Renaissance",
+          "url": "https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458693,
+      "name": "Kiev",
+      "url": "https://open.spotify.com/track/51aFFAg11GhQkgEWPnlwsS"
+    },
+    {
+      "album": {
         "name": "JOJO'S BIZARRE ADVENTURE -Diamond is unbreakable O.S.T Vol.2 -Good Night Morioh Cho- Music by Yugo Kanno",
         "url": "https://open.spotify.com/album/6EjSwMnJ4X9QEbyxJJoKiT"
       },

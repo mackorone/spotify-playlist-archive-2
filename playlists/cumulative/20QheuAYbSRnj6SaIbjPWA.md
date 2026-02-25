@@ -4,7 +4,7 @@
 
 > 2021
 
-164 songs - 11 hr 11 min
+165 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [I Fall Apart](https://open.spotify.com/track/4MqFHxNM8uM7UEW4t56nzU) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(Remastered 2017\)](https://open.spotify.com/album/3tk9uyWCvfQbkmvROJGUXB) | 5:12 | 2025-12-03 |  |
 | [I Lust U](https://open.spotify.com/track/0QP0kYZhYHnO8fthKntc8Z) | [Neon Neon](https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD), [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Stainless Style](https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA) | 3:00 | 2025-03-05 |  |
 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 | 2022-06-26 |  |
+| [Innocent](https://open.spotify.com/track/6lIqfJzxVkbwzgMYQcemHY) | [The Enemy](https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k) | [Social Disguises](https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG) | 4:15 | 2026-02-24 |  |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2025-10-03 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2024-10-19 |  |
 | [Iron Sky \- Abbey Road Live Session](https://open.spotify.com/track/0N29z9eL37fF9A81bJuDuO) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love \(Live and In Session\)](https://open.spotify.com/album/2JdkagQIu8f9hSRJJ5rZpP) | 6:11 | 2025-06-04 |  |

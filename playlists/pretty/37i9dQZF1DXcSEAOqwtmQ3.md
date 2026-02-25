@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,156 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,185 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 37 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
 | 38 | [The Mood](https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 2:41 |
 | 39 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
-| 40 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
-| 41 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
+| 40 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
+| 41 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
 | 42 | [Over The Moon Ft\. K\-Switch](https://open.spotify.com/track/3R963wuVpbDXyzKHUS25Tc) | [Dr SID](https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD) | [Turning Point](https://open.spotify.com/album/2FwDRA8NiC7IoaO9V3AH8k) | 3:53 |
 | 43 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
 | 44 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |

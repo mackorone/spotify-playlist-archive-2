@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
 
-485 songs - 1 day 5 hr 7 min
+486 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Kilikki \- Tribute to Team Baahubali](https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve), [Noel Sean](https://open.spotify.com/artist/3J6H27J9iKe2rCvX6YoKSQ) | [Kilikki \(Tribute to Team Baahubali\)](https://open.spotify.com/album/40dSsLJICupldtKyJMMLP5) | 3:20 | 2022-07-18 | 2023-05-23 |
 | [Komali Vasudev](https://open.spotify.com/track/50jK4YEhyOGoDHwYeqZWHC) | [Ishaq vali](https://open.spotify.com/artist/7oATc2KjTVSvRVZ8YKvOGT), [Teju R](https://open.spotify.com/artist/67CmWTS4uKxctqM84CubZV) | [Komali Vasudev](https://open.spotify.com/album/3YamZq9BPe4rwfek4oG7It) | 4:52 | 2023-07-15 | 2023-10-10 |
 | [Kothi Kommacchi](https://open.spotify.com/track/05MOOmXIm0kqL3mxzoEKNY) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Kothi Kommacchi](https://open.spotify.com/album/11BUIP1ybDtQkBwbzyh6Uv) | 3:24 | 2024-03-01 | 2024-04-26 |
-| [Koyila](https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Koyila](https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z) | 3:52 | 2025-07-01 |  |
+| [Koyila](https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Koyila](https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z) | 3:52 | 2025-07-01 | 2026-02-25 |
 | [Kshaminchu](https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kshaminchu](https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz) | 2:19 | 2023-06-19 | 2024-10-24 |
 | [Kshanam](https://open.spotify.com/track/3RoOO8Rmx5Wd9a9LrV5Btw) | [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS) | [Kshanam](https://open.spotify.com/album/4iYPR8cdYtPYuN2noncJ86) | 1:54 | 2023-10-04 | 2024-10-11 |
 | [Ku Koohu Koyila](https://open.spotify.com/track/3OwBhidXF0tDdojn0h67jg) | [Baloo Spicy](https://open.spotify.com/artist/5t1t4c1r5z1QuMaxIhVPh7) | [Ku Koohu Koyila](https://open.spotify.com/album/1nyHioOCsCpgajIZQqYwPl) | 4:34 | 2023-05-08 | 2024-09-19 |
@@ -315,6 +315,7 @@
 | [Ole Ole](https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Ole Ole](https://open.spotify.com/album/3NeFI900xOcCuuYjxKr5xr) | 5:31 | 2023-10-13 | 2025-10-24 |
 | [Ontari](https://open.spotify.com/track/6LpMArM5X2QCE12ZOPUsJZ) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Ontari](https://open.spotify.com/album/7sz6bNnzgEIdHwPX9uI94Y) | 3:08 | 2023-07-27 | 2023-08-22 |
 | [Oo Ammayi](https://open.spotify.com/track/0Hx3UGvaoGTtafm7eMptw5) | [Abhishek Arya](https://open.spotify.com/artist/0QDBWYLNLKoE54czhcJAVK) | [Oo Ammayi](https://open.spotify.com/album/5Gxe62mhzDxMNuNa7Hxdqd) | 3:50 | 2026-02-14 |  |
+| [Ooha Lokam](https://open.spotify.com/track/7EHaT6V6fkVc1ddrmgWqgI) | [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Syed Shahnawaz](https://open.spotify.com/artist/3YUy5OzmpOYchtKwM1Kw4N), [Dhruv Chitran](https://open.spotify.com/artist/5s4n4vy0oT8V7sUbnT3Wmn) | [Ooha Lokam](https://open.spotify.com/album/19uukihI8I9TtPl5wNSmT4) | 4:16 | 2026-02-24 |  |
 | [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 | 2024-01-09 |
 | [Oopiri](https://open.spotify.com/track/3pJEDr2NKBJJR4ykXWSjjZ) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk) | [Oopiri](https://open.spotify.com/album/47VDvKGwLPielokigmZ8yK) | 3:59 | 2024-11-04 | 2024-11-19 |
 | [Oopiri \- Telugu \(From "Oopiri"\)](https://open.spotify.com/track/6AtPCiyCS7WqvJD2qWitvg) | [Vedika](https://open.spotify.com/artist/3Lm2JM1wrWmPRiazdNUddz) | [Oopiri \- Telugu \(From "Oopiri"\)](https://open.spotify.com/album/4Qg56ZnmMLMA4ICCbKloMK) | 5:24 | 2025-04-23 | 2025-07-05 |

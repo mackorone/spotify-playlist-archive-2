@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,451 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,466 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 35 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 |
 | 36 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
 | 37 | [Alone](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Alone](https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt) | 3:50 |
-| 38 | [Break My Love](https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Break My Love](https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y) | 4:20 |
+| 38 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
 | 39 | [Rust](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Rust](https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D) | 4:35 |
-| 40 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
+| 40 | [Break My Love](https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Break My Love](https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y) | 4:20 |
 | 41 | [Zula](https://open.spotify.com/track/2OC0kob06GxOeWL9TxCHds) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT) | [Zula](https://open.spotify.com/album/4MPX4o0L94BZs0wNQXpMA7) | 2:10 |
 | 42 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 43 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 44 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 |
 | 45 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
-| 46 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 |
-| 47 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 |
+| 46 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 |
+| 47 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 |
 | 48 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
 | 49 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
 | 50 | [Believe Me](https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Believe Me](https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97) | 2:31 |

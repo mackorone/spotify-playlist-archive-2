@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,242 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,323 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 3 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:10 |
 | 4 | [PRESIDENTE](https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [PRESIDENTE](https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR) | 3:01 |
 | 5 | [Blancanieves](https://open.spotify.com/track/3BZUM1xojiL3TvRo3T50R9) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 2:31 |
-| 6 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
-| 7 | [Amor Tumbado](https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 3:41 |
+| 6 | [Amor Tumbado](https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 3:41 |
+| 7 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
 | 8 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
 | 9 | [Pacas De Billetes](https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
 | 10 | [Polos Opuestos](https://open.spotify.com/track/0An16OW2kcW8h9ij5cyM9a) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:19 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 33 | [Como Es](https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:20 |
 | 34 | [Madrid](https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:21 |
 | 35 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 |
-| 36 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
+| 36 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
 | 37 | [Porque La Demora](https://open.spotify.com/track/6Y9DeC4Z9R9scRPg7r11pl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:31 |
-| 38 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
+| 38 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
 | 39 | [Sin Ti](https://open.spotify.com/track/391dJizAzRYufWsrP8SB35) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:09 |
 | 40 | [Pienso en Ella](https://open.spotify.com/track/79fkYjEJlscHdgAtYWYfUO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 |
 | 41 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [Paso En Culiacan](https://open.spotify.com/track/5McxmoutZI2oRpuTQdvH71) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Paso En Culiacan](https://open.spotify.com/album/03fkik4lkYThFBm6gMuWkO) | 4:35 |
 | 50 | [La Torre NY](https://open.spotify.com/track/5HD1VkxQlGGEXhwQ2REBY2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 3:10 |
 
-Snapshot ID: `aZpHAAAAAAAa+Ot2DYgppaKyMdskg1um`
+Snapshot ID: `aZuYgAAAAAD6yc3d0+usRbsRiPT0hNVT`

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 68764,
+  "num_followers": 68807,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Victimas Del Doctor Cerebro",
-        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 215680,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
+        "name": "Victimas Del Doctor Cerebro",
+        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
-      },
-      "artists": [
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
-      "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -715,6 +715,38 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Maldita Soledad",
+      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
         "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
         "url": "https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs"
       },
@@ -751,22 +783,6 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Maldita Soledad",
-      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
         "name": "All The Moon Stompers",
         "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 191666,
       "name": "I Wanna Riot",
       "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 141344,
-      "name": "Mind Your Business",
-      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
         "name": "Alles gl\u00e4nzt",
         "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 196699,
       "name": "Komm mit aufs Boot",
       "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 141344,
+      "name": "Mind Your Business",
+      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
         "name": "The Sound Of Revolution",
         "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 205527,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -1267,6 +1267,22 @@
       "duration_ms": 261321,
       "name": "Tania",
       "url": "https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
+        "name": "Fade Out",
+        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 220625,
+      "name": "Fade Out",
+      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -1311,6 +1327,22 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
+        "name": "Wir kommen in Frieden",
+        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 234061,
+      "name": "Wir kommen in Frieden",
+      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1331,8 +1363,8 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Fade Out",
-        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
       },
       "artists": [
         {
@@ -1340,25 +1372,9 @@
           "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
         }
       ],
-      "duration_ms": 220625,
-      "name": "Fade Out",
-      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
-        "name": "Wir kommen in Frieden",
-        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "Wir kommen in Frieden",
-      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -1395,6 +1411,22 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
+        "name": "Endlich auf Reise",
+        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 179446,
+      "name": "Endlich auf Reise",
+      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
         "name": "The Slash",
         "url": "https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr"
       },
@@ -1415,18 +1447,18 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -1451,22 +1483,6 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
-        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
-        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
-      },
-      "artists": [
-        {
-          "name": "Broilers",
-          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
-      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
         "name": "Weit, weit weg",
         "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 157626,
       "name": "Weit, weit weg",
       "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
-        "name": "Endlich auf Reise",
-        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 179446,
-      "name": "Endlich auf Reise",
-      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
     },
     {
       "added_at": "2026-02-20 06:00:32",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2026-02-20 06:00:32",
       "album": {
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+    },
+    {
+      "added_at": "2026-02-20 06:00:32",
+      "album": {
         "name": "El Febrero",
         "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
       },
@@ -1695,22 +1715,6 @@
       "duration_ms": 232656,
       "name": "Sweet Loneliness",
       "url": "https://open.spotify.com/track/0CS6MtBUa48ZzYgqJaNf9F"
-    },
-    {
-      "added_at": "2026-02-20 06:00:32",
-      "album": {
-        "name": "Fass die Uhr nicht an",
-        "url": "https://open.spotify.com/album/6qt1KwR5r0XGDtf1jOQWo1"
-      },
-      "artists": [
-        {
-          "name": "Rantanplan",
-          "url": "https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM"
-        }
-      ],
-      "duration_ms": 152938,
-      "name": "Fass Die Uhr Nicht An - Blast off NY",
-      "url": "https://open.spotify.com/track/1xfLcmQMzvTF0AmG76jTKs"
     }
   ],
   "unique_name": "Ska Around The Globe",

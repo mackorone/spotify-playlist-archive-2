@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-337 songs - 16 hr 4 min
+338 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Dreamy Elixir \(alongside Forest Birds\)](https://open.spotify.com/track/0EuxLdWhNLvdpEis08mHJI) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Circadian Wanderer](https://open.spotify.com/album/0Xd2U5Kvwo9e1tT3peqXLC) | 2:56 | 2024-07-19 | 2025-12-18 |
 | [Drift Away](https://open.spotify.com/track/1QqCc5tVFevjAk7WBJAxmv) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Drift Away](https://open.spotify.com/album/0b6E1am1qcZmD4bAobfDwc) | 2:52 | 2025-03-04 | 2025-04-12 |
 | [Drifter](https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Drifter](https://open.spotify.com/album/6zi83WWOy4rMmWK5hzCiMi) | 2:04 | 2025-02-18 |  |
-| [Dulcet](https://open.spotify.com/track/7lvWStTudtQ6sy8AW9o1CN) | [Mokusei](https://open.spotify.com/artist/65lB2N7RSIyYSkLyDiFGuu) | [Dulcet](https://open.spotify.com/album/3SOzzSfeGOHvDNla7w5zEN) | 2:15 | 2026-01-08 | 2026-01-29 |
+| [Dulcet](https://open.spotify.com/track/7lvWStTudtQ6sy8AW9o1CN) | [Mokusei](https://open.spotify.com/artist/65lB2N7RSIyYSkLyDiFGuu) | [Dulcet](https://open.spotify.com/album/3SOzzSfeGOHvDNla7w5zEN) | 2:15 | 2026-01-08 |  |
 | [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-02 |  |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |
 | [Earth Song \(Brook\)](https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [Earth Song](https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO) | 3:10 | 2023-04-28 | 2025-02-23 |
@@ -118,7 +118,7 @@
 | [Fluere Ranae](https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL) | [Drishti](https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1) | [Fluere Ranae](https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c) | 2:57 | 2023-06-30 | 2025-10-16 |
 | [Follow the Creek](https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq) | [Credenza](https://open.spotify.com/artist/4ke0i6kG8o2rTxZzoRaoZ5) | [Follow the Creek](https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l) | 2:58 | 2023-04-28 | 2024-10-02 |
 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-03-19 |  |
-| [Forest Exhale](https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Exhale](https://open.spotify.com/album/25p5MmFvybpFouz4u788I3) | 2:23 | 2025-12-17 |  |
+| [Forest Exhale](https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Exhale](https://open.spotify.com/album/25p5MmFvybpFouz4u788I3) | 2:23 | 2025-12-17 | 2026-02-25 |
 | [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2023-04-28 | 2025-05-22 |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2023-04-28 | 2024-10-02 |
 | [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2024-12-04 |  |
@@ -168,7 +168,7 @@
 | [Jangal](https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Jangal](https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx) | 3:22 | 2023-08-11 |  |
 | [Journey](https://open.spotify.com/track/1JOCD6al50iWJDu0AblwPo) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Journey](https://open.spotify.com/album/2pCfZPRgrNQrgJ2TteOUIP) | 3:10 | 2024-12-20 |  |
 | [Key Of Dreams \(Nature\)](https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Key Of Dreams](https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3) | 2:59 | 2023-04-28 | 2025-03-06 |
-| [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 |  |
+| [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 | 2026-02-25 |
 | [Lagoon](https://open.spotify.com/track/7mXIfR2N9mNUhI1ypzm4Qf) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Lagoon](https://open.spotify.com/album/1QryRlE4bklvPidGi30ovp) | 3:00 | 2025-02-10 |  |
 | [Lake Quietude](https://open.spotify.com/track/3gGpRVCJPslykac2T6q0u9) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Lake Quietude](https://open.spotify.com/album/533cM8FSanZTR2SUtcIfjc) | 2:31 | 2025-03-19 |  |
 | [Lapse of Time](https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Lapse of Time](https://open.spotify.com/album/4vOLXGeE4xrCmrtEIqCjVm) | 2:32 | 2023-04-28 | 2025-05-22 |
@@ -279,6 +279,7 @@
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 | 2025-02-13 |
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-02-15 | 2024-04-02 |
 | [Sphagnum](https://open.spotify.com/track/5reTnUgC5FTOA8EsV7nfrE) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Sphagnum](https://open.spotify.com/album/5dV6q8LIdcS2D1MCdYqGOk) | 2:00 | 2026-02-23 |  |
+| [Spirits of the Forest](https://open.spotify.com/track/7msLXwo8PXqnqgFJd4flKq) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Spirits of the Forest](https://open.spotify.com/album/5i6A1J1ux4zb7XKyOr6ODo) | 2:24 | 2026-02-23 |  |
 | [Spiritual Forest](https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI) | [Bear Jonnes](https://open.spotify.com/artist/2C7SHsx4JHNJ09qz1sjatt) | [Spiritual Forest](https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI) | 2:53 | 2025-04-11 | 2025-10-16 |
 | [Spring Ambience](https://open.spotify.com/track/7qxd1DNmzbFf9YFSwz1kBl) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Spring Ambience](https://open.spotify.com/album/4cIShtTeMzogXfq5e03d73) | 2:31 | 2025-05-16 |  |
 | [Still Meadow](https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Still Meadow](https://open.spotify.com/album/4A9oX0bimFi9jrIbMKXonL) | 2:36 | 2026-01-08 |  |

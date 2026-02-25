@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Fred & Fabrício, U2, Hugo Henrique com Ana Castela, Mc Don Juan, Manu e muito mais!
 
-17,294 songs - 36 day 15 hr 31 min
+17,295 songs - 36 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3374,7 +3374,7 @@
 | [complicated](https://open.spotify.com/track/4J65QmTZvsq9SCvuY8ej3W) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [complicated](https://open.spotify.com/album/0ktZQAbl5PPYU9UOXoJ0aM) | 2:12 | 2023-02-24 | 2023-03-03 |
 | [Comprei um Paredão](https://open.spotify.com/track/4CEXCFW6Zazov8A5FnWqL6) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Comprei um Paredão](https://open.spotify.com/album/1qN0dx8iv00JHSxEuMJu2G) | 2:31 | 2025-01-24 | 2025-02-01 |
 | [Compton Brasil](https://open.spotify.com/track/2oREOLfcHFrj7k9leuRZsh) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Compton Brasil](https://open.spotify.com/album/2TCNSz7BPIYf2ECMLxbfxI) | 4:15 | 2022-12-02 | 2022-12-10 |
-| [COMUM](https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Murilo Barua Silva](https://open.spotify.com/artist/66ovAZ6xL4UmyQ2zX22tXw), [Kyu](https://open.spotify.com/artist/47x0E5z39Me6o8rJ1o4wc9) | [COMUM](https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi) | 3:04 | 2026-02-20 |  |
+| [COMUM](https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V) | [COMUM](https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi) | 3:04 | 2026-02-20 |  |
 | [Comunicado \- Ao Vivo](https://open.spotify.com/track/1IJHafRsjHj31xANA9243n) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Comunicado \(Ao Vivo\)](https://open.spotify.com/album/27cNbwcW22pNXcJIaASn2S) | 3:11 | 2024-03-29 | 2024-04-06 |
 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Comunicação Falhou \(Ao Vivo\)](https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm) | 3:00 | 2022-04-22 | 2022-04-29 |
 | [Comunista Elegante](https://open.spotify.com/track/07WWwzmVHoEMgcbuDo8P0N) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Comunista Elegante](https://open.spotify.com/album/2ymyTpa0K8XX8XjCAWpZf8) | 2:45 | 2022-04-29 | 2022-05-07 |
@@ -16941,6 +16941,7 @@
 | [Whisky Vagabund0 \- Ao Vivo](https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:33 | 2023-03-17 | 2023-03-25 |
 | [WHISTLE](https://open.spotify.com/track/2g0lcbepYzcfts6khNOUpL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [WHISTLE](https://open.spotify.com/album/76oXPkkbhtHmG0UkuZZqDW) | 2:11 | 2025-01-17 | 2025-01-25 |
 | [White cat](https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [White cat](https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ) | 3:22 | 2025-07-25 | 2025-08-02 |
+| [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 | 2026-02-24 |  |
 | [White Glove](https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:30 | 2023-12-01 | 2023-12-09 |
 | [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-20 | 2024-09-28 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-19 | 2024-07-27 |

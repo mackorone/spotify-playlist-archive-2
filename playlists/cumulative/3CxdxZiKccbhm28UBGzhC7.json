@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Social Disguises",
+        "url": "https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG"
+      },
+      "artists": [
+        {
+          "name": "The Enemy",
+          "url": "https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/2rIIbUK6hOdpojv37cnbYr"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },

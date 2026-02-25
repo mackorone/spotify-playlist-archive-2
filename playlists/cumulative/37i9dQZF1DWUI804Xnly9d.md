@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-620 songs - 1 day 10 hr 42 min
+621 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 | 2023-12-26 | 2024-01-05 |
 | [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 | 2024-01-04 |
 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Gup Shup](https://open.spotify.com/artist/7MaM4ydtuHdPZ9OyowpRzR) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 | 2025-06-06 |  |
-| [BERUKHI](https://open.spotify.com/track/0gqGFRHkJe7GQiM27WK8Du) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [BERUKHI](https://open.spotify.com/album/3boFPzadTWozEURysiWHID) | 2:46 | 2025-07-02 |  |
+| [BERUKHI](https://open.spotify.com/track/0gqGFRHkJe7GQiM27WK8Du) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [BERUKHI](https://open.spotify.com/album/3boFPzadTWozEURysiWHID) | 2:46 | 2025-07-02 | 2026-02-25 |
 | [Betabiyaan](https://open.spotify.com/track/7pv3jYk70LbTsKOhYzqOWo) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO) | [Betabiyaan](https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4) | 3:22 | 2024-03-31 | 2024-04-30 |
 | [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 | 2023-06-27 | 2024-02-02 |
 | [Bezubaan \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/4PuaOJVMEmYLMObIHZQ5UX) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Taab](https://open.spotify.com/artist/2zDvtopPWBRwNBkH4KNowY) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 4:45 | 2025-09-26 | 2025-11-12 |
@@ -415,6 +415,7 @@
 | [Pal Yeh Mere](https://open.spotify.com/track/6q19ONhVoUr00oUiMbmEsA) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [I Want To Talk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LTOhhU25vqLZSgutnGD74) | 3:02 | 2024-11-14 | 2025-02-15 |
 | [Panchi](https://open.spotify.com/track/1YMbppfdFjeEFaeAwMwzuK) | [Junoo](https://open.spotify.com/artist/6kn3V4aLbqDDEgVZlRMoph), [Hitika Sharma](https://open.spotify.com/artist/2Pp8Fl2T7yCAe2FDQ3tl44), [Sunny](https://open.spotify.com/artist/7BGVCQBQVSbadM4IJMr06b) | [Panchi](https://open.spotify.com/album/6aHWbt2H7UxxhXa8AWcHeV) | 4:07 | 2023-06-30 | 2023-10-10 |
 | [Panchii](https://open.spotify.com/track/61v9NMnW3ssoI0RkW8Cghu) | [Akshay \- Ninaad](https://open.spotify.com/artist/3T3CqgjgFXbag2RS5JNq5X) | [Panchii](https://open.spotify.com/album/15dguOp3WQC16Gw7bD0jV4) | 3:24 | 2024-09-20 | 2025-03-01 |
+| [par ab kya?](https://open.spotify.com/track/5DkBFgvF1ECLLwB0ykfRiS) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [par ab kya?](https://open.spotify.com/album/7Knpd0IXoLvUSXSqtdkdZQ) | 4:30 | 2026-02-24 |  |
 | [Parchayi](https://open.spotify.com/track/7pbJeC3SaRg7M5K5UeiH4S) | [Jay Thakkar](https://open.spotify.com/artist/0Ti6N35iFeOgYf5gVSXUSQ) | [Parchayi](https://open.spotify.com/album/607A7YVNEGHj1sVeTZFDOL) | 3:13 | 2024-07-08 | 2024-08-03 |
 | [Parinda](https://open.spotify.com/track/37iaU5dRe1Iq4eWQSikR44) | [Hemang](https://open.spotify.com/artist/0Mcoqh0ZKmp41Apx7sKyfa), [IgnitedPandits](https://open.spotify.com/artist/2e3uP4XqRv0TKYL2flzFf7) | [Parinda](https://open.spotify.com/album/6lVQmXaB2jLY9xI28zJfN6) | 3:02 | 2024-02-09 | 2024-03-12 |
 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 | 2023-07-07 | 2023-07-15 |

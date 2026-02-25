@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-355 songs - 19 hr 52 min
+356 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Algo en Tu Manera de Actuar](https://open.spotify.com/track/1ELDTs0rLA7WRNGonS8OwQ) | [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM), [Landeau](https://open.spotify.com/artist/0otWBEumpSn8AuuEA2ckEO) | [Algo en Tu Manera de Actuar](https://open.spotify.com/album/4TVYEYJAf4CT2NIPjY9x8x) | 2:51 | 2025-11-01 | 2025-12-01 |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-24 | 2026-01-15 |
 | [All In](https://open.spotify.com/track/663hZ5d086UY6QZUCwmGFU) | [Drip Label](https://open.spotify.com/artist/4aR0chhEdjyxu9y9JkCqXR) | [All In](https://open.spotify.com/album/2VYG35zYIpbRF9YQPjXXeG) | 3:12 | 2025-11-10 | 2025-12-01 |
+| [Almost Home](https://open.spotify.com/track/0aVnuMnp7Cwf6iQ5XWbwkA) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 5:22 | 2026-02-24 |  |
 | [Along the Road](https://open.spotify.com/track/7v1etJXp32nRfRsBnHTllE) | [K!ko](https://open.spotify.com/artist/2a7EXQxuh8s60Yws9pksh1) | [Along the Road](https://open.spotify.com/album/4psrRJPnDTu04JfCQPwUtH) | 2:31 | 2025-11-08 | 2025-12-01 |
 | [Altar](https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y) | [Fiebre de las Montañas Rocosas](https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM) | [Altar](https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE) | 3:42 | 2026-01-19 | 2026-02-21 |
 | [Always](https://open.spotify.com/track/3GQiYPybaCU1oZonN8kCQ2) | [Encore](https://open.spotify.com/artist/74q62Ut63aFckyhGf1nirq) | [Always](https://open.spotify.com/album/7qxOiUgM02BM2L2QkFrYlT) | 3:36 | 2025-11-08 | 2025-12-01 |

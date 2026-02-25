@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545 likes - 165 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 546 likes - 165 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 77 | [Breach \(Walk Alone\)](https://open.spotify.com/track/3X3Go0oPCDC88Rexjt5Npa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Breach \(Walk Alone\)](https://open.spotify.com/album/2ovvPpqXt4dj2OABryLIKy) | 2:58 |
 | 78 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 |
 | 79 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
-| 80 | [Meaning of Life](https://open.spotify.com/track/6YWStBSFmmeE5TZJmlUfhB) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:51 |
-| 81 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
+| 80 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
+| 81 | [Meaning of Life](https://open.spotify.com/track/6YWStBSFmmeE5TZJmlUfhB) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:51 |
 | 82 | [Young & Stupid](https://open.spotify.com/track/26a1ih91NiFLHgJo4Tk2Dw) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Young & Stupid](https://open.spotify.com/album/6ev3uzvc1OqixkGvNC82gN) | 3:06 |
 | 83 | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/track/4xYzcWOLM685vCa5AkJXe9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/album/7mxEr6CfzmRQN3c7PoAQIP) | 3:01 |
 | 84 | [Brighter Days \(feat\. Paul Janeway of St\. Paul & The Broken Bones\)](https://open.spotify.com/track/0OYXEBF7zantAzZdHuSkXI) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paul Janeway of St\. Paul & The Broken Bones](https://open.spotify.com/artist/3LXppAFXdbOtym6ZRajha7) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:56 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 89 | [Doll House](https://open.spotify.com/track/6U8ckPIrR0xi2a4BdtHDJk) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:11 |
 | 90 | [Sad Eyes](https://open.spotify.com/track/0qkkoL0bQBBWe4JU1NWcYt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:10 |
 | 91 | [NoLo](https://open.spotify.com/track/5tR4MFnmZKLjY5ccrSPyki) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Raceday](https://open.spotify.com/album/2KhYLcC6aBcnBfjD8N0FWA) | 4:25 |
-| 92 | [Almost Famous](https://open.spotify.com/track/5fbeWfU4fnLobWibtLTzdQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Almost Famous](https://open.spotify.com/album/0FUNt6SqzP3tPUDB4d8p0s) | 3:32 |
-| 93 | [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 92 | [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 93 | [Almost Famous](https://open.spotify.com/track/5fbeWfU4fnLobWibtLTzdQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Almost Famous](https://open.spotify.com/album/0FUNt6SqzP3tPUDB4d8p0s) | 3:32 |
 | 94 | [Boomerang](https://open.spotify.com/track/7EFXzio24ra2XJLuL1yCkk) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:49 |
 | 95 | [better alone](https://open.spotify.com/track/1m43PeB6kOKy4LYt75iOwB) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 4:31 |
 | 96 | [Superpower](https://open.spotify.com/track/0yRzqM7uTC2B2yvvmeqwft) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:10 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 112 | [Day Drinking \(feat\. Heymous Molly\)](https://open.spotify.com/track/3GfuzCkO8ufIvEA56DVV52) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Heymous Molly](https://open.spotify.com/artist/5M2gxYpF3uzcsyifR9WEgE) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:08 |
 | 113 | [Woman](https://open.spotify.com/track/6PJuKJ0bamILUakPbkSbmu) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:19 |
 | 114 | [Grace](https://open.spotify.com/track/27u6HHwplM68JWLiGUYoaW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
-| 115 | [Emotional](https://open.spotify.com/track/2pNQc7ivtCoOwEGJ04AwzW) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Emotional](https://open.spotify.com/album/2BtLQEQdQZr0pIrNJ50puP) | 3:51 |
-| 116 | [Tell Me Twice](https://open.spotify.com/track/6CNF9QXnGiiYKAVVK2Cq91) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Tell Me Twice](https://open.spotify.com/album/32JyPkgX8mKS5uL5szgL5D) | 4:26 |
+| 115 | [Tell Me Twice](https://open.spotify.com/track/6CNF9QXnGiiYKAVVK2Cq91) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Tell Me Twice](https://open.spotify.com/album/32JyPkgX8mKS5uL5szgL5D) | 4:26 |
+| 116 | [Emotional](https://open.spotify.com/track/2pNQc7ivtCoOwEGJ04AwzW) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Emotional](https://open.spotify.com/album/2BtLQEQdQZr0pIrNJ50puP) | 3:51 |
 | 117 | [Unfinished](https://open.spotify.com/track/2pOds6Kh8EFPgJj12UmPKR) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:53 |
 | 118 | [2 AM \(feat\. Lykke Li\)](https://open.spotify.com/track/5PfxsAZ3KT29lZQ1lO5KRm) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:18 |
 | 119 | [Late Night Prelude](https://open.spotify.com/track/0mGXLwtTjzuTcARIr1pPQg) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 1:29 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 164 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 165 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `AcKeKgAAAAAbXCeAmZDhwzZVp2R8i9YH`
+Snapshot ID: `AcKjygAAAABZ46A1ZmMNTKI7XkQ11lGo`

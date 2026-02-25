@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 349463,
+  "num_followers": 349495,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAARh8voCpxrELAtUkKobWvZ",
+  "snapshot_id": "aZuYgAAAAAB5lIth6CpwrBjXseUrvoGa",
   "tracks": [
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Termino Con Lo Nuestro",
-        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 217409,
-      "name": "Termino Con Lo Nuestro",
-      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 166038,
       "name": "En Fin",
       "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Termino Con Lo Nuestro",
+        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 217409,
+      "name": "Termino Con Lo Nuestro",
+      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
     },
     {
       "added_at": null,

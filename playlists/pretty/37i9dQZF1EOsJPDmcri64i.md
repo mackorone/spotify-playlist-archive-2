@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOsJPDmcri64i.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOsJPDmcri64i.md) - [plain]
 | 8 | [Ocean \(feat\. Khalid\)](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ocean \(feat\. Khalid\)](https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH) | 3:36 |
 | 9 | [Khalid: A lot of relationships we surround ourselves with are temporary](https://open.spotify.com/episode/4rNWK6dbVJLI7NtsvIolcw) | [The Come Up Show](https://open.spotify.com/show/2GawG4tWysGNLSyzlMmfNF) | [The Come Up Show](https://open.spotify.com/album/2GawG4tWysGNLSyzlMmfNF) | 20:02 |
 | 10 | [Follow Your Fire](https://open.spotify.com/track/5s9ZfQasBGM8YLNAhXx7or) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Follow Your Fire](https://open.spotify.com/album/0MB9m8qnEKKw0E9dXNHG0j) | 3:58 |
-| 11 | [Kyle Meredith With..\. Kodaline](https://open.spotify.com/episode/50Vt8rDvVe07EbqEDR3Q0F) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 22:51 |
+| 11 | [Kyle Meredith With..\. Kodaline](https://open.spotify.com/episode/50Vt8rDvVe07EbqEDR3Q0F) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 24:17 |
 | 12 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [FRIENDS KEEP SECRETS](https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ) | 2:50 |
 | 13 | [Halsey Explains It All: Inside Her New Album and Much More](https://open.spotify.com/episode/6X1gAVoQastrlSDWndPfQs) | [Rolling Stone All Access](https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx) | [Rolling Stone All Access](https://open.spotify.com/album/0jCfnXfdYhwIM2I4x7SxZx) | 49:10 |
 | 14 | [Done for Me \(feat\. Kehlani\)](https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 160079,
+  "num_followers": 160387,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-02-20 05:45:35",
       "album": {
+        "name": "Raees (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD"
+      },
+      "artists": [
+        {
+          "name": "Pawni Pandey",
+          "url": "https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX"
+        }
+      ],
+      "duration_ms": 306582,
+      "name": "Laila Main Laila",
+      "url": "https://open.spotify.com/track/0eNiqkazTEYJJ8fMRPyJx8"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
         "name": "Makhna (From \"Drive\")",
         "url": "https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 183000,
       "name": "Makhna - From \"Drive\"",
       "url": "https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
-        "name": "Raees (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD"
-      },
-      "artists": [
-        {
-          "name": "Pawni Pandey",
-          "url": "https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX"
-        }
-      ],
-      "duration_ms": 306582,
-      "name": "Laila Main Laila",
-      "url": "https://open.spotify.com/track/0eNiqkazTEYJJ8fMRPyJx8"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -543,6 +543,30 @@
     {
       "added_at": "2026-02-20 05:45:35",
       "album": {
+        "name": "Ungli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Anushka Manchanda",
+          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
+        }
+      ],
+      "duration_ms": 223991,
+      "name": "Dance Basanti",
+      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
-        "name": "Ungli (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Anushka Manchanda",
-          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
-        }
-      ],
-      "duration_ms": 223991,
-      "name": "Dance Basanti",
-      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -919,6 +919,34 @@
     {
       "added_at": "2026-02-20 05:45:35",
       "album": {
+        "name": "Paan Ki Dukaan (From \"O' Romeo\")",
+        "url": "https://open.spotify.com/album/6m4lwXygiCmc8PL2XWCZXq"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "duration_ms": 300032,
+      "name": "Paan Ki Dukaan (From \"O' Romeo\")",
+      "url": "https://open.spotify.com/track/6sQXr0uTPDkf2QTXfIrH4K"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
         "name": "Student of the Year (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
       },
@@ -983,34 +1011,6 @@
     {
       "added_at": "2026-02-20 05:45:35",
       "album": {
-        "name": "Paan Ki Dukaan (From \"O' Romeo\")",
-        "url": "https://open.spotify.com/album/6m4lwXygiCmc8PL2XWCZXq"
-      },
-      "artists": [
-        {
-          "name": "Vishal Bhardwaj",
-          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
-        },
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        },
-        {
-          "name": "Rekha Bhardwaj",
-          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        }
-      ],
-      "duration_ms": 300032,
-      "name": "Paan Ki Dukaan (From \"O' Romeo\")",
-      "url": "https://open.spotify.com/track/6sQXr0uTPDkf2QTXfIrH4K"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
         "name": "Dhadak (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 226501,
       "name": "Zingaat",
       "url": "https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
-        "name": "Bad Newz",
-        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba",
-      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -1067,6 +1051,22 @@
       "duration_ms": 164045,
       "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2026-02-20 05:45:35",
       "album": {
-        "name": "Naach Meri Rani (Feat. Nora Fatehi)",
-        "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 212692,
-      "name": "Naach Meri Rani (Feat. Nora Fatehi)",
-      "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
         "name": "Badrinath Ki Dulhania",
         "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 199264,
       "name": "Tamma Tamma Again",
       "url": "https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
+        "name": "Naach Meri Rani (Feat. Nora Fatehi)",
+        "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 212692,
+      "name": "Naach Meri Rani (Feat. Nora Fatehi)",
+      "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -1503,42 +1503,6 @@
     {
       "added_at": "2026-02-20 05:45:35",
       "album": {
-        "name": "Sauda Khara Khara (From \"Good Newwz\")",
-        "url": "https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Sukhbir",
-          "url": "https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ"
-        },
-        {
-          "name": "Dhvani Bhanushali",
-          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Sauda Khara Khara - From \"Good Newwz\"",
-      "url": "https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
         "name": "Nawabzaade",
         "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
       },
@@ -1571,6 +1535,42 @@
       "duration_ms": 261004,
       "name": "Chalti Hai Kya 9 Se 12",
       "url": "https://open.spotify.com/track/06wmFmUzR15wlWpjTYwVTr"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
+        "name": "Sauda Khara Khara (From \"Good Newwz\")",
+        "url": "https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sukhbir",
+          "url": "https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Sauda Khara Khara - From \"Good Newwz\"",
+      "url": "https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -1787,30 +1787,6 @@
     {
       "added_at": "2026-02-20 05:45:35",
       "album": {
-        "name": "Teri Baaton Mein Aisa Uljha Jiya",
-        "url": "https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Neeraj Rajawat",
-          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
-        }
-      ],
-      "duration_ms": 188101,
-      "name": "Laal Peeli Akhiyaan",
-      "url": "https://open.spotify.com/track/1vmxRAeefCwK82NsQOXPtV"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
         "name": "Baghban",
         "url": "https://open.spotify.com/album/6utlWwaPOT6xIaeLOGr9XC"
       },
@@ -1835,6 +1811,30 @@
       "duration_ms": 339533,
       "name": "Hori Khele Raghuveera",
       "url": "https://open.spotify.com/track/7zrQ2vyyvMfg8fl3XF18MD"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
+        "name": "Teri Baaton Mein Aisa Uljha Jiya",
+        "url": "https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Neeraj Rajawat",
+          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
+        }
+      ],
+      "duration_ms": 188101,
+      "name": "Laal Peeli Akhiyaan",
+      "url": "https://open.spotify.com/track/1vmxRAeefCwK82NsQOXPtV"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -1903,30 +1903,6 @@
       "duration_ms": 182369,
       "name": "Mere Mehboob Mere Sanam",
       "url": "https://open.spotify.com/track/6IDNH740iEiYLzF5tpmUeN"
-    },
-    {
-      "added_at": "2026-02-20 05:45:35",
-      "album": {
-        "name": "Dream Girl 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2oin2DQWtcl3yeYLoH30hu"
-      },
-      "artists": [
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Meet Bros.",
-          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
-        }
-      ],
-      "duration_ms": 309597,
-      "name": "Dil Ka Telephone 2.0 - From \"Dream Girl 2\"",
-      "url": "https://open.spotify.com/track/7lWAgqskL68F5uaDVL1uR9"
     },
     {
       "added_at": "2026-02-20 05:45:35",
@@ -2019,6 +1995,30 @@
       "duration_ms": 208125,
       "name": "Holi Party Mashup 2022",
       "url": "https://open.spotify.com/track/3Th9PItp0evDjAEBZDYGPG"
+    },
+    {
+      "added_at": "2026-02-20 05:45:35",
+      "album": {
+        "name": "Dream Girl 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2oin2DQWtcl3yeYLoH30hu"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        }
+      ],
+      "duration_ms": 309597,
+      "name": "Dil Ka Telephone 2.0 - From \"Dream Girl 2\"",
+      "url": "https://open.spotify.com/track/7lWAgqskL68F5uaDVL1uR9"
     },
     {
       "added_at": "2026-02-20 05:45:35",

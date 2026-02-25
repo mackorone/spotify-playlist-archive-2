@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,225 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,460 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 |
 | 60 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 |
 
-Snapshot ID: `AAAAAHcbXdzT4GXx20qV1g0LSoJXgIs3`
+Snapshot ID: `AAAAAE9Nc0tFhjrzu6Yq1Z5CHMNGHqqD`

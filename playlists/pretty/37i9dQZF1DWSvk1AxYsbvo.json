@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 25878,
+  "num_followers": 25879,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-02-23 05:49:24",
       "album": {
-        "name": "Night air",
-        "url": "https://open.spotify.com/album/0jDPb6oQCU49du0dedRGMG"
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
       "artists": [
         {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 250689,
-      "name": "Night air",
-      "url": "https://open.spotify.com/track/2QExkZJmZYblotcvmoCYy4"
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2026-02-23 05:49:24",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-02-23 05:49:24",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+        "name": "Night air",
+        "url": "https://open.spotify.com/album/0jDPb6oQCU49du0dedRGMG"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
         }
       ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+      "duration_ms": 250689,
+      "name": "Night air",
+      "url": "https://open.spotify.com/track/2QExkZJmZYblotcvmoCYy4"
     },
     {
       "added_at": "2026-02-23 05:49:24",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-02-23 05:49:24",
       "album": {
-        "name": "Night, Snow",
-        "url": "https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk"
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
       "artists": [
         {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
         }
       ],
-      "duration_ms": 229625,
-      "name": "Night, Snow",
-      "url": "https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki"
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2026-02-23 05:49:24",
@@ -675,34 +675,18 @@
     {
       "added_at": "2026-02-23 05:49:24",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+        "name": "Night, Snow",
+        "url": "https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk"
       },
       "artists": [
         {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2026-02-23 05:49:24",
-      "album": {
-        "name": "A Walk (The Last 10 Years X J_ust)",
-        "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "A Walk (The Last 10 Years X J_ust)",
-      "url": "https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU"
+      "duration_ms": 229625,
+      "name": "Night, Snow",
+      "url": "https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki"
     },
     {
       "added_at": "2026-02-23 05:49:24",
@@ -719,6 +703,22 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2026-02-23 05:49:24",
+      "album": {
+        "name": "A Walk (The Last 10 Years X J_ust)",
+        "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "A Walk (The Last 10 Years X J_ust)",
+      "url": "https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU"
     },
     {
       "added_at": "2026-02-23 05:49:24",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-02-23 05:49:24",
       "album": {
-        "name": "Echo (feat .JUKJAE)",
-        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        },
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Echo (feat. JUKJAE)",
-      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
-    },
-    {
-      "added_at": "2026-02-23 05:49:24",
-      "album": {
         "name": "summer youth",
         "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
       },
@@ -779,18 +759,22 @@
     {
       "added_at": "2026-02-23 05:49:24",
       "album": {
-        "name": "ONGI (Warmth)",
-        "url": "https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD"
+        "name": "Echo (feat .JUKJAE)",
+        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
       "artists": [
         {
-          "name": "Kim Boogyeong",
-          "url": "https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs"
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        },
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
-      "duration_ms": 292276,
-      "name": "ONGI (Warmth)",
-      "url": "https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG"
+      "duration_ms": 192586,
+      "name": "Echo (feat. JUKJAE)",
+      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
     },
     {
       "added_at": "2026-02-23 05:49:24",
@@ -823,6 +807,22 @@
       "duration_ms": 183824,
       "name": "When It\u2019s Cold",
       "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2026-02-23 05:49:24",
+      "album": {
+        "name": "ONGI (Warmth)",
+        "url": "https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD"
+      },
+      "artists": [
+        {
+          "name": "Kim Boogyeong",
+          "url": "https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs"
+        }
+      ],
+      "duration_ms": 292276,
+      "name": "ONGI (Warmth)",
+      "url": "https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG"
     },
     {
       "added_at": "2026-02-23 05:49:24",

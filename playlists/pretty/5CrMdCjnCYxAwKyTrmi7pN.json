@@ -1,12 +1,12 @@
 {
   "description": "Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...",
-  "num_followers": 128638,
+  "num_followers": 128623,
   "original_name": "Winter Vibes 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA7q3JEgw/R9rbV/lgiYqY/FRJktE53",
+  "snapshot_id": "AAA7rTxh8tshbJnI97YfJtSXKHxdPNsP",
   "tracks": [
     {
       "added_at": "2026-02-13 10:22:25",
@@ -147,8 +147,8 @@
     {
       "added_at": "2026-02-13 10:22:25",
       "album": {
-        "name": "Talk To You (ft. Elton John)",
-        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+        "name": "Rein Me In (with Olivia Dean) [Live at London Stadium] [Extended Intro Version]",
+        "url": "https://open.spotify.com/album/217vf9PyKMExLgDughPYl6"
       },
       "artists": [
         {
@@ -156,13 +156,13 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         },
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 317040,
-      "name": "Talk To You (ft. Elton John)",
-      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6"
     },
     {
       "added_at": "2026-02-13 10:22:25",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-02-13 10:22:25",
       "album": {
+        "name": "Talk To You (ft. Elton John)",
+        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 317040,
+      "name": "Talk To You (ft. Elton John)",
+      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
+    {
+      "added_at": "2026-02-13 10:22:25",
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 149669,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
-    },
-    {
-      "added_at": "2026-02-13 10:22:25",
-      "album": {
-        "name": "Rein Me In (with Olivia Dean) [Live at London Stadium] [Extended Intro Version]",
-        "url": "https://open.spotify.com/album/217vf9PyKMExLgDughPYl6"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6"
     },
     {
       "added_at": "2026-02-13 10:22:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 46 songs - 2 hr 59 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 47 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 44 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 |
 | 45 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 |
 | 46 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 |
+| 47 | [Like a River in a Storm](https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U), [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Like a River in a Storm](https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg) | 3:13 |
 
-Snapshot ID: `AAAj9GNRC9fbC/zVaUhGbqsss9i4OuHv`
+Snapshot ID: `AAAj9Tj9tq09j8XjFauVIzq1JNKurkMe`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAADVHe/Z/EdqwEFOlYpd5r0v",
+  "snapshot_id": "aZuYgAAAAABA2gdJrRa3eJGJc11mu4qL",
   "tracks": [
     {
       "added_at": null,
@@ -679,50 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zaystreet",
-        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 204605,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 142277,
-      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
-      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Bricks 2 \u2013 Mixtape",
         "url": "https://open.spotify.com/album/3JNEc9m9mgHGvomUSXa295"
       },
@@ -747,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Lane Juugin",
-        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
       "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 266489,
-      "name": "Made It",
-      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
+      "duration_ms": 142277,
+      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
+      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
     },
     {
       "added_at": null,
@@ -783,6 +743,46 @@
       "duration_ms": 248926,
       "name": "Dope Talk (feat. 2 Chainz & Young Scooter)",
       "url": "https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zaystreet",
+        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 204605,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Lane Juugin",
+        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 266489,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
     },
     {
       "added_at": null,

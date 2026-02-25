@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW?si=w\-fNzqCCSpWSvolvGB5PXQ">rjtheweirdo</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,692 likes - 177 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,701 likes - 177 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 84 | [KITCHEN](https://open.spotify.com/track/07ECj4QjYbLPBAWowA3o4y) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:33 |
 | 85 | [CAN'T FIND HER](https://open.spotify.com/track/2lOgVpqPPfaK4I0ukHByzr) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [CAN'T FIND HER](https://open.spotify.com/album/3zGGzKPucZ6Zuhvg4n13xL) | 2:03 |
 | 86 | [Fire](https://open.spotify.com/track/2NqLPkS0YMgyHeSGE3voiQ) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Fire&Smoke](https://open.spotify.com/album/6N9LE0bNFcT54QXOBqXv1X) | 3:36 |
-| 87 | [NATURAL PASSION](https://open.spotify.com/track/4B24nf82gLJubxSTo179id) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [NATURAL PASSION](https://open.spotify.com/album/0Zk2o6b2ciSRARzrdVHtW2) | 3:33 |
+| 87 | [NATURAL PASSION.](https://open.spotify.com/track/4B24nf82gLJubxSTo179id) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [NATURAL PASSION.](https://open.spotify.com/album/0Zk2o6b2ciSRARzrdVHtW2) | 3:33 |
 | 88 | [I Like It](https://open.spotify.com/track/6tVyb4lWgXAUJLrIudW2qg) | [Mantha](https://open.spotify.com/artist/46w8ppLshcbQr7RqZoFaW5) | [I Like It](https://open.spotify.com/album/69HPZLtOY4OystD8w79h5X) | 3:12 |
 | 89 | [Same Ole Dreams](https://open.spotify.com/track/5tfbPQ9xEeLgMXsA6KmCBP) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [Same Ole Dreams](https://open.spotify.com/album/3VccZZ3U1bTrpGpbNvYIfi) | 2:44 |
 | 90 | [Daffodils](https://open.spotify.com/track/3mAocGGRQHRBVtUFPIql7Q) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Daffodils](https://open.spotify.com/album/7KzCGQcttmzULuurDD9VlF) | 3:16 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 176 | [Keeper](https://open.spotify.com/track/2gb8nz0dk0pYSEoR1NMeSm) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Keeper](https://open.spotify.com/album/16R8fQHebbHRtKAUWpEWp7) | 2:22 |
 | 177 | [Take It Slow](https://open.spotify.com/track/1E0C0qP1ZgIxboC6KnRShJ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Are You Bored Yet?](https://open.spotify.com/album/5cQnXNogeOsQhyYMesRS4O) | 3:00 |
 
-Snapshot ID: `AAAAALrFAm1EEU/Ubf3R+V26zbQdltiL`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

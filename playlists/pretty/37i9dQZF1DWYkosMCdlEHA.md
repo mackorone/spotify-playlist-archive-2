@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,994 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,012 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 27 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 |
 | 28 | [Desde as Estrelas \- Acústico](https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Segue em Frente](https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3) | 4:10 |
 | 29 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
-| 30 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
-| 31 | [Serenou/Nosso Mundo \- Acoustic Sessions](https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn) | [Yeti Reggae Club](https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs) | [Serenou/Nosso Mundo \(Acoustic Sessions\)](https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ) | 3:41 |
+| 30 | [Serenou/Nosso Mundo \- Acoustic Sessions](https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn) | [Yeti Reggae Club](https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs) | [Serenou/Nosso Mundo \(Acoustic Sessions\)](https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ) | 3:41 |
+| 31 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
 | 32 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
 | 33 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 |
 | 34 | [Não é Sério \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 4:17 |

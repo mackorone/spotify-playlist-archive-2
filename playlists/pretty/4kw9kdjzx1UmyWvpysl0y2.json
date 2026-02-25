@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124287,
+  "num_followers": 124283,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVJijIOtQw9HHyYplT8tmLNHt5aVE9",
+  "snapshot_id": "AAAVJ5MVU19zFp9os+tNO+e/uhwP7jEF",
   "tracks": [
+    {
+      "added_at": "2026-02-24 15:32:27",
+      "album": {
+        "name": "SUPERCAR (Euro Bounce Mix)",
+        "url": "https://open.spotify.com/album/36aTMYgNTmvp0M3MUDhGkH"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU"
+        }
+      ],
+      "duration_ms": 153914,
+      "name": "SUPERCAR - Euro Bounce Mix",
+      "url": "https://open.spotify.com/track/17ARBqx7x6vjDdvG27nzgJ"
+    },
     {
       "added_at": "2026-02-23 15:48:15",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,631 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,635 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 11 | [Ein farfar i livet](https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 3:45 |
 | 12 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 |
 | 13 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 |
-| 14 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 |
-| 15 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 |
+| 14 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 |
+| 15 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 |
 | 16 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
 | 17 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 |
 | 18 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 39 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 |
 | 40 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
 | 41 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 |
-| 42 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
-| 43 | [Ringdans](https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ringdans](https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A) | 3:32 |
-| 44 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
+| 42 | [Ringdans](https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ringdans](https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A) | 3:32 |
+| 43 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
+| 44 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
 | 45 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
 | 46 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 |
 | 47 | [Ramler mot hverandre](https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Ramler mot hverandre](https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118 likes - 197 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120 likes - 197 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 37 | [Don't Change](https://open.spotify.com/track/5GGEJhZ5xjbU7UhSlipuoq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don't Change](https://open.spotify.com/album/5rlKJhkECAntycMYdPqe5v) | 2:56 |
 | 38 | [vicious](https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [vicious](https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti) | 3:02 |
 | 39 | [Take You](https://open.spotify.com/track/4PXOSe2WbmFhmJDiqrDw6W) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:40 |
-| 40 | [Taking Me Back](https://open.spotify.com/track/6A9mMKHYdeUJGvQDKChC0C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:14 |
-| 41 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
+| 40 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
+| 41 | [Taking Me Back](https://open.spotify.com/track/6A9mMKHYdeUJGvQDKChC0C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:14 |
 | 42 | [Follow Me \(feat\. Jason Derulo\)](https://open.spotify.com/track/5nUJym1qItTzwWx2zfSxUb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [United We Are](https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3) | 3:19 |
 | 43 | [On My Life](https://open.spotify.com/track/6izJLwK6uGMJNQaRLFPO3H) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:59 |
 | 44 | [Deep End \(feat\. JHart\) \- Eden Prince Remix](https://open.spotify.com/track/4rgtPGf9Vp2aWiM0NooJvE) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Deep End \(feat\. JHart\) \[Remixes\]](https://open.spotify.com/album/7DTzhs8jGE5KN04HVEag6B) | 3:28 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcKeKgAAAACggAOBhpQ5ATg3BZ0BjdrI`
+Snapshot ID: `AcKjygAAAACZuMY1ZhJLSEqfDTSRiTF8`

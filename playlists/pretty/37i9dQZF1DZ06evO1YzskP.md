@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,131 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,150 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 33 | [Cupido](https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cupido](https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY) | 2:46 |
 | 34 | [La Belikada](https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw) | 2:33 |
 | 35 | [Ante la gente](https://open.spotify.com/track/3X10K4WsoLqqbrMomStv4W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 3:49 |
-| 36 | [Mi pareja en turno](https://open.spotify.com/track/4jCmraVktEXNCeEcDtOGZE) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mi pareja en turno](https://open.spotify.com/album/2I4Ikw1PoEUEhrGZ0qnfWI) | 3:07 |
-| 37 | [Sal De Tu Casa](https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bateando Duro](https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh) | 2:26 |
+| 36 | [Sal De Tu Casa](https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bateando Duro](https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh) | 2:26 |
+| 37 | [Mi pareja en turno](https://open.spotify.com/track/4jCmraVktEXNCeEcDtOGZE) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mi pareja en turno](https://open.spotify.com/album/2I4Ikw1PoEUEhrGZ0qnfWI) | 3:07 |
 | 38 | [No Voy Con Rodeos](https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:47 |
 | 39 | [Mariposas](https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 2:11 |
 | 40 | [Apenas Es Martes](https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 |
 | 50 | [Somos Mayiza](https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW) | 3:12 |
 
-Snapshot ID: `aZpHAAAAAADtMO1gP426xnIFo0D7v2Ah`
+Snapshot ID: `aZuYgAAAAADHhg2vCaBjBYk4NraNOXKu`

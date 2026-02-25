@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 16609,
+  "num_followers": 16614,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Chinese Restaurant",
-        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
-      },
-      "artists": [
-        {
-          "name": "Krisma",
-          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "C.Rock",
-      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
-    },
-    {
       "added_at": "2022-03-18 05:36:55",
       "album": {
         "name": "Osa Polar",
@@ -875,6 +859,22 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Chinese Restaurant",
+        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
+      },
+      "artists": [
+        {
+          "name": "Krisma",
+          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
+        }
+      ],
+      "duration_ms": 329786,
+      "name": "C.Rock",
+      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
-        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 646960,
-      "name": "Pass The Hatchet, I Think I'm Goodkind",
-      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 141160,
       "name": "Hei\u00dfe Lippen",
       "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
+        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 646960,
+      "name": "Pass The Hatchet, I Think I'm Goodkind",
+      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1167,6 +1167,42 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+      },
+      "artists": [
+        {
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "La D\u00fcsseldorf",
+      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Panther Rotate",
+        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "duration_ms": 309200,
+      "name": "Don't Blow Experiment",
+      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
         "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
@@ -1197,26 +1233,6 @@
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Panther Rotate",
-        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        },
-        {
-          "name": "Osees",
-          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
-        }
-      ],
-      "duration_ms": 309200,
-      "name": "Don't Blow Experiment",
-      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
-    },
-    {
       "added_at": "2022-01-20 20:59:43",
       "album": {
         "name": "Ecdysis!",
@@ -1233,26 +1249,10 @@
       "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "La D\u00fcsseldorf",
-      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
-    },
-    {
-      "added_at": "2022-08-19 02:50:25",
-      "album": {
-        "name": "El Veh\u00edculo de las Transformaciones",
-        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 352542,
-      "name": "El Veh\u00edculo de las Transformaciones",
-      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2023-02-17 02:03:26",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Minami Deutsch",
+        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 414222,
+      "name": "Sunrise, Sunset",
+      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Wunderbar",
         "url": "https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X"
       },
@@ -1311,6 +1327,22 @@
       "duration_ms": 520850,
       "name": "Himmelblau",
       "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
+    },
+    {
+      "added_at": "2022-08-19 02:50:25",
+      "album": {
+        "name": "El Veh\u00edculo de las Transformaciones",
+        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 352542,
+      "name": "El Veh\u00edculo de las Transformaciones",
+      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1331,22 +1363,6 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Minami Deutsch",
-        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 414222,
-      "name": "Sunrise, Sunset",
-      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1381,22 +1397,6 @@
       "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
     },
     {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
-      },
-      "artists": [
-        {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Radar, Vol. 1",
@@ -1427,6 +1427,22 @@
       "duration_ms": 392320,
       "name": "Tonband Laufspur",
       "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Feather Float",
+        "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
+      },
+      "artists": [
+        {
+          "name": "OOIOO",
+          "url": "https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe"
+        }
+      ],
+      "duration_ms": 465066,
+      "name": "Be Sure To Loop",
+      "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Feather Float",
-        "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
+        "name": "Lost Worker Bee - EP",
+        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
       },
       "artists": [
         {
-          "name": "OOIOO",
-          "url": "https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe"
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Be Sure To Loop",
-      "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
+      "duration_ms": 387383,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -1515,38 +1531,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lost Worker Bee - EP",
-        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 387383,
-      "name": "Roll Call",
-      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Plank!",
-        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
-      },
-      "artists": [
-        {
-          "name": "Plank!",
-          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
-        }
-      ],
-      "duration_ms": 276026,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
         "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
@@ -1559,22 +1543,6 @@
       "duration_ms": 787133,
       "name": "Die lange Gerade",
       "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Silver Apples of the Moon",
-        "url": "https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR"
-      },
-      "artists": [
-        {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
-        }
-      ],
-      "duration_ms": 319560,
-      "name": "If You Miss",
-      "url": "https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1595,6 +1563,54 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Plank!",
+        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
+      },
+      "artists": [
+        {
+          "name": "Plank!",
+          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
+        }
+      ],
+      "duration_ms": 276026,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Silver Apples of the Moon",
+        "url": "https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR"
+      },
+      "artists": [
+        {
+          "name": "Laika",
+          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+        }
+      ],
+      "duration_ms": 319560,
+      "name": "If You Miss",
+      "url": "https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw"
+    },
+    {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Blurt + Singles",
         "url": "https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 411653,
       "name": "Trees",
       "url": "https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Vol. One",
-        "url": "https://open.spotify.com/album/3oTHbe3UsgjOdI2QTpfQhw"
-      },
-      "artists": [
-        {
-          "name": "Echoboy",
-          "url": "https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6"
-        }
-      ],
-      "duration_ms": 304173,
-      "name": "Kit and Holly",
-      "url": "https://open.spotify.com/track/76trKReLczdWPVRfKsJIcb"
     }
   ],
   "unique_name": "Krautrock",

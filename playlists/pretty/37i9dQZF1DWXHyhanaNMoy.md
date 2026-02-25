@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Bokoesam & Bryan Mg
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,119 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,125 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

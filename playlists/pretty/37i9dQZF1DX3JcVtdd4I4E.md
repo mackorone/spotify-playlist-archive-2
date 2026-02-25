@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,888 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,889 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 28 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 29 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 |
 | 30 | [All I Want](https://open.spotify.com/track/0nrBYMziJMKR7u3ylc1iSE) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:09 |
-| 31 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 |
-| 32 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 |
+| 31 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 |
+| 32 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 |
 | 33 | [Elevator Eyes](https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Elevator Eyes](https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ) | 2:58 |
-| 34 | [Marameo](https://open.spotify.com/track/29uL3fef86r156Qsy00WeY) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo](https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7) | 2:28 |
-| 35 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 |
+| 34 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 |
+| 35 | [Marameo](https://open.spotify.com/track/29uL3fef86r156Qsy00WeY) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo](https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7) | 2:28 |
 | 36 | [Borderline](https://open.spotify.com/track/14C1wNCWXW9KZgQHCPCbWe) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/3NJJbO7tp4poBxC7x0eoOl) | 2:54 |
 | 37 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 |
 | 38 | [Strawberry Dream](https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV) | 3:11 |
-| 39 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
-| 40 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
+| 39 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
+| 40 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
 | 41 | [Bad Bitch](https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Bad Bitch](https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ) | 2:57 |
 | 42 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
 | 43 | [Buffalo Stance](https://open.spotify.com/track/1cz1jiZlsUlKbHAkJZ2Pec) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Buffalo Stance](https://open.spotify.com/album/2PgI6x9bRitaXcU2Omh1HQ) | 5:07 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 50 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
 | 51 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
 | 52 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
-| 53 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
-| 54 | [Beautiful Woman](https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:33 |
+| 53 | [Beautiful Woman](https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:33 |
+| 54 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
 | 55 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 56 | [Do Good Be Better](https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Do Good Be Better](https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ) | 2:42 |
 | 57 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |

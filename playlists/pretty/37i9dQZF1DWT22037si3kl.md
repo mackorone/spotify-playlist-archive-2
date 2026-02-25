@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,452 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,463 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

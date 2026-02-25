@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABD7cfUSwidivDH2wJeQLlw",
+  "snapshot_id": "aZuYgAAAAAD7xKPUnNFlwiU3GChfemCa",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In It With You",
-        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 192202,
-      "name": "In It With You",
-      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
+      "duration_ms": 215960,
+      "name": "What's Your Flava? - Radio Edit",
+      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
     },
     {
       "added_at": null,
@@ -339,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+        "name": "In It With You",
+        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 215960,
-      "name": "What's Your Flava? - Radio Edit",
-      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
+      "duration_ms": 192202,
+      "name": "In It With You",
+      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 241293,
       "name": "Woman Trouble (Radio Edit)",
       "url": "https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Ain't Giving Up",
-      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 214884,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signed Sealed Delivered",
-        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trust Me",
         "url": "https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 250146,
       "name": "This Is the Girl (with Kano)",
       "url": "https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Signed Sealed Delivered",
+        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 173244,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Commitment Pt. 2",
         "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 173244,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
     },
     {
       "added_at": null,

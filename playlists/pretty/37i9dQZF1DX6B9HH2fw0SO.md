@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > The Indie highlights of 2015\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,368 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,393 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 36 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
 | 37 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 38 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 |
-| 39 | [Meet Me In The Woods](https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:22 |
-| 40 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
-| 41 | [Firefly](https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:48 |
-| 42 | [What Kind Of Man](https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:36 |
+| 39 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
+| 40 | [Firefly](https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:48 |
+| 41 | [What Kind Of Man](https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:36 |
+| 42 | [Meet Me In The Woods](https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:22 |
 | 43 | [Dopamine](https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:44 |
 | 44 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
 | 45 | [Put a Flower in Your Pocket](https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Yours, Dreamily,](https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA) | 3:55 |

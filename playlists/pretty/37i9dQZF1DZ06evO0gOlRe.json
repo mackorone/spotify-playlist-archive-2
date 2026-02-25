@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 36166,
+  "num_followers": 36169,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAAjyFUc6ncvQ+SVC2eLfMH",
+  "snapshot_id": "aZuYgAAAAAAFMCmkqZvDKHQhpChC7GSA",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "if you only knew",
-        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
+        "name": "Every Lifetime",
+        "url": "https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 162146,
-      "name": "if you only knew",
-      "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+      "duration_ms": 161885,
+      "name": "Every Lifetime",
+      "url": "https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3"
     },
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "if you only knew",
+        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "if you only knew",
+      "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wrong Way",
         "url": "https://open.spotify.com/album/7ezbuwRqByOoFxJbs9G7dm"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 177026,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/0FXcLWA1NO6MxAe9yiK3oo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Every Lifetime",
-        "url": "https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 161885,
-      "name": "Every Lifetime",
-      "url": "https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "birthday cake (duet)",
-        "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        },
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "birthday cake - duet",
-      "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Would You Lie",
         "url": "https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 214647,
       "name": "Would You Lie",
       "url": "https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "birthday cake (duet)",
+        "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "birthday cake - duet",
+      "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "when you love someone",
+        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "when you love someone",
+      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORIGIN (Deluxe)",
         "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 187675,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "when you love someone",
-        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "when you love someone",
-      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "back to you",
-        "url": "https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 169921,
-      "name": "back to you",
-      "url": "https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if you only knew",
         "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 167586,
       "name": "october",
       "url": "https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "back to you",
+        "url": "https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 169921,
+      "name": "back to you",
+      "url": "https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55"
     },
     {
       "added_at": null,

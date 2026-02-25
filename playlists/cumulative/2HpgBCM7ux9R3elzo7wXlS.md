@@ -4,7 +4,7 @@
 
 > All of it
 
-1,149 songs - 2 day 22 hr 31 min
+1,150 songs - 2 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 | 2025-07-16 |  |
 | [Kids See Ghosts](https://open.spotify.com/track/2I3dW2dCBZAJGj5X21E53k) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 4:05 | 2025-06-02 |  |
 | [Kids with Guns](https://open.spotify.com/track/0eEgMbSzOHmkOeVuNC3E0k) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:45 | 2025-09-28 |  |
+| [Kiev](https://open.spotify.com/track/51aFFAg11GhQkgEWPnlwsS) | [Renaissance](https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf) | [Prologue](https://open.spotify.com/album/4sIXQwVVGsvXcRDhrlHP0X) | 7:38 | 2026-02-24 |  |
 | [Killer](https://open.spotify.com/track/21YiaS85ngOoYT773cMFlW) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.2 \-Good Night Morioh Cho\- Music by Yugo Kanno](https://open.spotify.com/album/6EjSwMnJ4X9QEbyxJJoKiT) | 3:03 | 2025-06-02 |  |
 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 | 2025-06-02 |  |
 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 | 2025-06-02 |  |

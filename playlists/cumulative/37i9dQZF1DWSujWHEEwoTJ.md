@@ -2,9 +2,9 @@
 
 ### [Así Se Baila en Sonora](https://open.spotify.com/playlist/37i9dQZF1DWSujWHEEwoTJ)
 
-> rolitas chilas para chirotear y pegar un bailadón con Contacto Norte y Javier Rosas
+> rolitas chilas para chirotear y pegar un bailadón con Contacto Norte y Tony Aguirre.
 
-189 songs - 10 hr 4 min
+191 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 | 2022-01-20 | 2026-01-15 |
 | [Cumbia del Sol \- En Vivo](https://open.spotify.com/track/1pjaMBzCmfsAJCAHtw106f) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:55 | 2026-01-15 |  |
 | [Cumbia Morena](https://open.spotify.com/track/40DoqPKKYnpzdiI9ifIOei) | [La Concentracion](https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG) | [20 Éxitos de Lujo, Vol\. 1](https://open.spotify.com/album/55dCws3WoXiuADY7cclzeI) | 3:19 | 2026-01-15 |  |
-| [Cánchame](https://open.spotify.com/track/6MrGtN8xCX8C5G2J4IzCJy) | [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s) | [Cánchame](https://open.spotify.com/album/07rAKmmx0P2jfaNVkCyQvu) | 3:25 | 2026-01-15 |  |
+| [Cánchame](https://open.spotify.com/track/6MrGtN8xCX8C5G2J4IzCJy) | [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s) | [Cánchame](https://open.spotify.com/album/07rAKmmx0P2jfaNVkCyQvu) | 3:25 | 2026-01-15 | 2026-02-25 |
 | [Cómo Me Duele](https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:39 | 2022-01-20 | 2026-01-15 |
 | [De Fiesta](https://open.spotify.com/track/6zaMhOdbrNLuUcTlRGcOhx) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [De Fiesta](https://open.spotify.com/album/17Kx1C9ptX8kbwiiVKw66S) | 2:50 | 2022-01-20 | 2023-02-01 |
 | [De Lunes A Viernes](https://open.spotify.com/track/4ZLdYf8PwRSnsBeLESPio9) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/6UATeZf50WEtzrp4ZMFCoc) | 2:33 | 2023-04-14 | 2024-04-19 |
@@ -137,6 +137,7 @@
 | [Me Dicen el Coyote \- Live](https://open.spotify.com/track/3jGETrKu7jooC0FPfMRc6d) | [Pepe Garza](https://open.spotify.com/artist/0KwMypY6oQFgD1XhiBiQD5) | [Bohemios de Afición en Vivo Desde Garibaldi](https://open.spotify.com/album/5Twco2xZSWI6Sivuhqoqn5) | 3:04 | 2023-01-30 | 2024-03-28 |
 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 | 2022-01-20 | 2026-01-15 |
 | [Me Va, Me Va \(En Vivo\)](https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:17 | 2026-01-15 |  |
+| [Me Voy al Amanecer](https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Me Voy al Amanecer](https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr) | 3:22 | 2026-02-24 |  |
 | [Medley Apache \(En Vivo\)](https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 11:49 | 2026-01-15 |  |
 | [Mi Gusto Es](https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Era Cab \- El Viejo](https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu) | 2:33 | 2022-01-20 | 2024-04-19 |
 | [Mi Gusto Es](https://open.spotify.com/track/5iJNb87XU4xodNITsyR2PR) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 2:33 | 2022-01-20 | 2026-01-15 |
@@ -145,6 +146,7 @@
 | [Mil Heridas](https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Mil Heridas](https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk) | 3:47 | 2023-01-30 | 2024-03-28 |
 | [Nery](https://open.spotify.com/track/7alpHXNCW67UeqVboWwzq8) | [Grupo La Concentracion](https://open.spotify.com/artist/5XXhD6bi6xzejMSdHajcJQ) | [Tema De La Concentración](https://open.spotify.com/album/5EcWszM2afSFeHY8lbt4JU) | 2:16 | 2026-01-15 |  |
 | [Nieves De Enero](https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 | 2023-01-30 | 2026-01-15 |
+| [No Hay Beatles](https://open.spotify.com/track/0rYkRUMCzGB8lj28vPi4SQ) | [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Ritmo Caliente](https://open.spotify.com/album/6uKwfkLUQLTI4p81GcMQQh) | 2:47 | 2026-02-24 |  |
 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 | 2023-01-30 | 2026-01-15 |
 | [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/track/2w6pRC9ywVbHG1BFXOvd1t) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Beto Guzman](https://open.spotify.com/artist/6tq31zQs5K8TRzjyyZY0W8) | [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/album/72quJ2zGWeKnLmipKNZTUZ) | 4:43 | 2024-10-23 | 2026-01-15 |
 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2023-01-30 | 2026-01-15 |
@@ -195,7 +197,7 @@
 | [Viva el Amor](https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw) | [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Viva el Amor](https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF) | 3:28 | 2026-01-15 |  |
 | [Y Como Quieres Que Te Quiera](https://open.spotify.com/track/0lupD4hTJaH9h3SHMGymIK) | [Fabian Gomez](https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3) | [Y Como Quieres Que Te Quiera?](https://open.spotify.com/album/6zGj3iA3V82YD3Eb9I6Bj1) | 3:00 | 2022-01-20 | 2026-01-15 |
 | [Y Me Besa](https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:41 | 2022-01-20 | 2026-01-15 |
-| [Ya No Hay Beatles \- En Vivo](https://open.spotify.com/track/4r1rVtg5MrVPTVt3iP1Gnj) | [Grupo La Chisspa](https://open.spotify.com/artist/6h9YWtI5lP78mkysDJU8JV) | [En Vivo ! Sobra ¡](https://open.spotify.com/album/3D8ALvbPY6fy7OOQ6Heolb) | 3:12 | 2026-01-15 |  |
+| [Ya No Hay Beatles \- En Vivo](https://open.spotify.com/track/4r1rVtg5MrVPTVt3iP1Gnj) | [Grupo La Chisspa](https://open.spotify.com/artist/6h9YWtI5lP78mkysDJU8JV) | [En Vivo ! Sobra ¡](https://open.spotify.com/album/3D8ALvbPY6fy7OOQ6Heolb) | 3:12 | 2026-01-15 | 2026-02-25 |
 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 | 2023-01-30 | 2026-01-15 |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

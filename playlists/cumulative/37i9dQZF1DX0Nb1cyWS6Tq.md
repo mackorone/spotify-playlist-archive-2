@@ -2,7 +2,7 @@
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Release the bats..\. The Cure on cover.
+> Bela Lugosi's Dead..\. Bauhaus on cover.
 
 306 songs - 22 hr 55 min
 
@@ -98,7 +98,7 @@
 | [Fell in Love with a Mermaid](https://open.spotify.com/track/5f7LcNx09lzvvRYQx4Dkt3) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Fell in Love with a Mermaid](https://open.spotify.com/album/1AFRlFvmQOVgbuL9V52xat) | 3:31 | 2022-06-03 | 2022-07-01 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7abc6Xc7EVLFmSzPVli4u7) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Fimmine Fimmine](https://open.spotify.com/album/6deZe9K7HL6s5GqptuXQWM) | 4:39 | 2022-04-01 | 2022-05-07 |
 | [Flowers](https://open.spotify.com/track/64M5ClXAgxTxmujhWN75XY) | [Rozz Williams and Gitane D...](https://open.spotify.com/artist/2yZHZ21tq76N2oc3G4zScF) | [Dream Home Heartache](https://open.spotify.com/album/3gJiXAaXhHgInF3spF1d3m) | 6:07 | 2021-10-15 | 2022-07-08 |
-| [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 | 2021-10-15 | 2026-02-21 |
+| [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 | 2021-10-15 |  |
 | [For Her Light](https://open.spotify.com/track/2bdlaYYLaXJIguKSSS63Lz) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/08udU6yfPDCUmNXfByjwtE) | 3:01 | 2021-10-15 | 2022-07-29 |
 | [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 | 2021-10-15 | 2023-11-21 |
 | [From Her to Eternity \- 2009 Remastered Version](https://open.spotify.com/track/7nAx6FMrysqM88U48kc6i9) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 5:35 | 2021-10-15 | 2022-07-20 |
@@ -182,7 +182,7 @@
 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 | 2021-10-15 | 2024-04-19 |
 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 | 2021-10-15 |  |
 | [Mr Clarinet](https://open.spotify.com/track/2zNjck6Vtrfn6rLqlSjVij) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Hee Haw](https://open.spotify.com/album/6ospyfDSkoyS7wrBIpzN38) | 3:43 | 2021-10-15 | 2022-07-29 |
-| [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 | 2022-08-09 |  |
+| [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 | 2022-08-09 | 2026-02-25 |
 | [Nag, Nag, Nag](https://open.spotify.com/track/5KwcUvb8PYj690XQ5K06ld) | [Cabaret Voltaire](https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe) | [The Living Legends](https://open.spotify.com/album/2GStT6GQ5HtjeZcCQJWdYh) | 4:41 | 2021-10-15 | 2022-04-17 |
 | [New Liberty](https://open.spotify.com/track/1aPmHyd7NDfugpIzgZ3Opx) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Fuse](https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw) | 3:08 | 2024-08-19 | 2024-11-13 |
 | [Nick The Stripper](https://open.spotify.com/track/5Oxdn1XWn1Gvreq0aTLNh8) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 3:54 | 2021-10-15 | 2022-04-21 |

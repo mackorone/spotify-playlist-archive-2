@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov,  MC Davo y EMJAY en portada. ",
-  "num_followers": 979297,
+  "num_followers": 979266,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-16 20:07:27",
       "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
-    },
-    {
-      "added_at": "2026-01-16 20:07:27",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2026-01-16 20:07:27",
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2026-01-16 20:07:27",
@@ -1695,26 +1695,30 @@
     {
       "added_at": "2026-01-16 20:07:27",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
       },
       "artists": [
         {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         },
         {
-          "name": "Lena Campos",
-          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         },
         {
-          "name": "Moy Yos",
-          "url": "https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        },
+        {
+          "name": "Dean Fraser",
+          "url": "https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R"
         }
       ],
-      "duration_ms": 192939,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
+      "duration_ms": 266279,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
     }
   ],
   "unique_name": "La + Chingona",

@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 465369,
+  "num_followers": 465529,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Tu \u00e9s Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -663,26 +663,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Agnus Dei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A"
+        "name": "Fogo em Teus Olhos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ"
       },
       "artists": [
         {
-          "name": "NOVO CANTO",
-          "url": "https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB"
+          "name": "Anna Clara Rocha",
+          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
         },
         {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 356470,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
+      "duration_ms": 463720,
+      "name": "Fogo em Teus Olhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/12x0NIXpYNjwIZtXd2cuc7"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -735,22 +731,26 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Fogo em Teus Olhos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ"
+        "name": "Agnus Dei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A"
       },
       "artists": [
         {
-          "name": "Anna Clara Rocha",
-          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
+          "name": "NOVO CANTO",
+          "url": "https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
         }
       ],
-      "duration_ms": 463720,
-      "name": "Fogo em Teus Olhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/12x0NIXpYNjwIZtXd2cuc7"
+      "duration_ms": 356470,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -923,22 +923,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vODlNGVD511iYGipXthzk"
       },
       "artists": [
         {
           "name": "Fernandinho",
           "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 412747,
-      "name": "Brasa Viva - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
+      "duration_ms": 294457,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rY3TNiZAvSZoIcxniDROl"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vODlNGVD511iYGipXthzk"
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
       "artists": [
         {
           "name": "Fernandinho",
           "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 294457,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rY3TNiZAvSZoIcxniDROl"
+      "duration_ms": 412747,
+      "name": "Brasa Viva - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "\u00c9 Sobre Ele (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 354250,
-      "name": "A Melhor Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Depend\u00eancia",
         "url": "https://open.spotify.com/album/27IMNSc4inXM1sdSBIOHdd"
       },
@@ -1451,18 +1435,34 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+        "name": "\u00c9 Sobre Ele (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+      "duration_ms": 354250,
+      "name": "A Melhor Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1seJyynjfAZdCLIe6NVxLF"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 377647,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7jeZoPKb83tyeEREUmeZhC"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1seJyynjfAZdCLIe6NVxLF"
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
       },
       "artists": [
         {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 377647,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7jeZoPKb83tyeEREUmeZhC"
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1531,22 +1531,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Boa Nova (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4MG0VfO2xxcO0LBIP5AuAj"
+        "name": "Me Aceita de Volta",
+        "url": "https://open.spotify.com/album/40g7pZn4kFW3zyk7tQNWRs"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         }
       ],
-      "duration_ms": 457692,
-      "name": "Boa Nova - Ao Vivo",
-      "url": "https://open.spotify.com/track/0nnAYyAtG03COOAdaYds6r"
+      "duration_ms": 229947,
+      "name": "Me Aceita de Volta",
+      "url": "https://open.spotify.com/track/0rJAQc6vA1BSZmjvRk3B1W"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1563,6 +1559,26 @@
       "duration_ms": 231730,
       "name": "Respira Bem Fundo - Ao Vivo",
       "url": "https://open.spotify.com/track/5Ym8ZEdJ4B6cbypqQYPcTG"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Boa Nova (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4MG0VfO2xxcO0LBIP5AuAj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 457692,
+      "name": "Boa Nova - Ao Vivo",
+      "url": "https://open.spotify.com/track/0nnAYyAtG03COOAdaYds6r"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1603,22 +1619,6 @@
       "duration_ms": 413965,
       "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
       "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Me Aceita de Volta",
-        "url": "https://open.spotify.com/album/40g7pZn4kFW3zyk7tQNWRs"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 229947,
-      "name": "Me Aceita de Volta",
-      "url": "https://open.spotify.com/track/0rJAQc6vA1BSZmjvRk3B1W"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "O Senhor, n\u00e3o os \u00eddolos",
+        "url": "https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        }
+      ],
+      "duration_ms": 618060,
+      "name": "O Senhor, n\u00e3o os \u00eddolos",
+      "url": "https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Teus Altares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4VUyhWsEBtbEWYLLoYDLRH"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 497272,
       "name": "Teus Altares - Ao Vivo",
       "url": "https://open.spotify.com/track/0iN5UdqsMdOV1ODLrTYyLT"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "O Senhor, n\u00e3o os \u00eddolos",
-        "url": "https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk"
-      },
-      "artists": [
-        {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
-        }
-      ],
-      "duration_ms": 618060,
-      "name": "O Senhor, n\u00e3o os \u00eddolos",
-      "url": "https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "C\u00e2ntico de Mois\u00e9s",
-        "url": "https://open.spotify.com/album/0GED76A2YQfIgUOR368kRf"
+        "name": "Equil\u00edbrio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 279609,
-      "name": "C\u00e2ntico de Mois\u00e9s",
-      "url": "https://open.spotify.com/track/3aV5VcZEBU6NrHif4fnOiy"
+      "duration_ms": 296466,
+      "name": "Equil\u00edbrio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Equil\u00edbrio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
+        "name": "C\u00e2ntico de Mois\u00e9s",
+        "url": "https://open.spotify.com/album/0GED76A2YQfIgUOR368kRf"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 296466,
-      "name": "Equil\u00edbrio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
+      "duration_ms": 279609,
+      "name": "C\u00e2ntico de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/3aV5VcZEBU6NrHif4fnOiy"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "O Todo Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/30pY9er0htgnhkdiKuTkmg"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        }
-      ],
-      "duration_ms": 261453,
-      "name": "O Todo Poderoso (Ao Vivo)",
-      "url": "https://open.spotify.com/track/53nvToiOVlcQdKpaWyv683"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Deus de Abra\u00e3o (Live In S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/63qOxZOU9MEZJACXYH0LSf"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 277305,
       "name": "Deus de Abra\u00e3o (Live In S\u00e3o Paulo)",
       "url": "https://open.spotify.com/track/7fHCcoBowjPyUdTotvWV04"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "O Todo Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/30pY9er0htgnhkdiKuTkmg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        }
+      ],
+      "duration_ms": 261453,
+      "name": "O Todo Poderoso (Ao Vivo)",
+      "url": "https://open.spotify.com/track/53nvToiOVlcQdKpaWyv683"
     },
     {
       "added_at": "2026-01-08 18:41:25",

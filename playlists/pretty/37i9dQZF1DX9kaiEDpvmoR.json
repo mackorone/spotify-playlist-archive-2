@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93800,
+  "num_followers": 93796,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "All These Years",
+        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "jaywalking",
         "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 300360,
       "name": "Losin' Kind - Nebraska Outtakes",
       "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "All These Years",
-        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -355,6 +355,22 @@
       "duration_ms": 249626,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/2xPiro8t2RPPxjkLvg0kHo"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 190584,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -427,6 +443,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Black Swans",
+        "url": "https://open.spotify.com/album/6qE48M1cEdAVoBmG7pgC8g"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 206929,
+      "name": "Black Swans",
+      "url": "https://open.spotify.com/track/3emMZ39WW0DykmzabtBMPi"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "Forevers",
         "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
       },
@@ -455,22 +487,6 @@
       "duration_ms": 214712,
       "name": "Older",
       "url": "https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 190584,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -539,18 +555,18 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Black Swans",
-        "url": "https://open.spotify.com/album/6qE48M1cEdAVoBmG7pgC8g"
+        "name": "Svindlande h\u00f6jder",
+        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
       "artists": [
         {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 206929,
-      "name": "Black Swans",
-      "url": "https://open.spotify.com/track/3emMZ39WW0DykmzabtBMPi"
+      "duration_ms": 255386,
+      "name": "Svindlande h\u00f6jder",
+      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -591,22 +607,6 @@
       "duration_ms": 317160,
       "name": "Mother's Love Conquers All",
       "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "Svindlande h\u00f6jder",
-        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 255386,
-      "name": "Svindlande h\u00f6jder",
-      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 269520,
-      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Skebokvarnsv. 209 (Deluxe Version)",
         "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213115,
       "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
       "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 269520,
+      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Henrys gitarr",
+        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Henrys gitarr",
+      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "Stardust / The Whole Woman",
         "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Henrys gitarr",
-        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Henrys gitarr",
-      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "ICONIC EP",
         "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
       },
@@ -1147,38 +1147,6 @@
       "duration_ms": 158133,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "Emilie's Song (From the TV series \"Tordyveln flyger i skymningen\")",
-        "url": "https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 264496,
-      "name": "Emilie's Song - From the TV series \"Tordyveln flyger i skymningen\"",
-      "url": "https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
-      },
-      "artists": [
-        {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Emilie's Song (From the TV series \"Tordyveln flyger i skymningen\")",
+        "url": "https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 264496,
+      "name": "Emilie's Song - From the TV series \"Tordyveln flyger i skymningen\"",
+      "url": "https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "N\u00e4r \u00e4nglar d\u00f6r",
         "url": "https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Sjung Sjung",
+        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+      },
+      "artists": [
+        {
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Sjung Sjung",
+      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "Happier Now",
         "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 157500,
       "name": "Happier Now",
       "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "M\u00e5nen",
+        "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 159329,
+      "name": "M\u00e5nen",
+      "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1331,38 +1347,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Benjamin (From the TV series 'Etter Benjamin')",
-        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Benjamin - From the TV series 'Etter Benjamin'",
-      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "M\u00e5nen",
-        "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 159329,
-      "name": "M\u00e5nen",
-      "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7beHonKtFevWLNsVaMd3CS"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 167093,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Benjamin (From the TV series 'Etter Benjamin')",
+        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Benjamin - From the TV series 'Etter Benjamin'",
+      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Sliperiet Sessions (Live)",
-        "url": "https://open.spotify.com/album/2tcTCKeOyGH9psxxoQrvGe"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Anita - Live",
-      "url": "https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Sk\u00f6ldpadds\u00f6n",
         "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 255250,
       "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
       "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Sliperiet Sessions (Live)",
+        "url": "https://open.spotify.com/album/2tcTCKeOyGH9psxxoQrvGe"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Anita - Live",
+      "url": "https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO"
     },
     {
       "added_at": "2026-02-19 23:00:51",

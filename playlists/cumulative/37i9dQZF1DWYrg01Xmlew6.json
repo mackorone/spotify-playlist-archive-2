@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 136331,
       "name": "GAMECHANGER",
       "url": "https://open.spotify.com/track/7E0K8hQhsg6Wk6tw619awh"
@@ -5220,6 +5220,24 @@
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
+    },
+    {
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227321,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
     },
     {
       "album": {

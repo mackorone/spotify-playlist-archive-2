@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 697531,
+  "num_followers": 697599,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
+        "name": "COLOGNE",
+        "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "COLOGNE",
-        "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "COLOGNE",
-      "url": "https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
+        "name": "Sciall\u00e0",
+        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 256393,
+      "name": "Sciall\u00e0",
+      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
         "name": "Waiting So Long",
         "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 234140,
       "name": "Waiting So Long",
       "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Sciall\u00e0",
-        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 256393,
-      "name": "Sciall\u00e0",
-      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 195944,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -947,6 +963,22 @@
       "duration_ms": 284886,
       "name": "Fresh - House of Prayers Poolside Edit",
       "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -971,38 +1003,6 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 195944,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1043,26 +1043,18 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM"
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Max Chapman",
-          "url": "https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5"
-        },
-        {
-          "name": "Mischief",
-          "url": "https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX"
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
         }
       ],
-      "duration_ms": 201496,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1083,18 +1075,26 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM"
       },
       "artists": [
         {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Max Chapman",
+          "url": "https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5"
+        },
+        {
+          "name": "Mischief",
+          "url": "https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX"
         }
       ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+      "duration_ms": 201496,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1415,26 +1435,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Papooz & Friends",
-        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Hugo Hamlet",
-          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
-        }
-      ],
-      "duration_ms": 165707,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "Marlboro Sounds",
         "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
       },
@@ -1447,26 +1447,6 @@
       "duration_ms": 363620,
       "name": "Marlboro Sounds",
       "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1487,18 +1467,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+        "name": "Papooz & Friends",
+        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Hugo Hamlet",
+          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
         }
       ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+      "duration_ms": 165707,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1519,6 +1503,22 @@
       "duration_ms": 166875,
       "name": "Promises",
       "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "If You Need Me",
         "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
       },
@@ -2047,22 +2031,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
       },
@@ -2079,6 +2047,38 @@
       "duration_ms": 226929,
       "name": "So High",
       "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 237716,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
         "name": "Deal With Love",
         "url": "https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8"
       },
@@ -2303,38 +2319,18 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos"
       },
       "artists": [
         {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
         }
       ],
-      "duration_ms": 237716,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "DANGEROUS (So Dare Me)",
-        "url": "https://open.spotify.com/album/7aHwznZ9zCFXvpTthz2BqH"
-      },
-      "artists": [
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        },
-        {
-          "name": "Les Bisous",
-          "url": "https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "DANGEROUS (So Dare Me)",
-      "url": "https://open.spotify.com/track/1OZ9eQn7mSVQaKCKEzx5n2"
+      "duration_ms": 205312,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2363,18 +2359,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos"
+        "name": "DANGEROUS (So Dare Me)",
+        "url": "https://open.spotify.com/album/7aHwznZ9zCFXvpTthz2BqH"
       },
       "artists": [
         {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        },
+        {
+          "name": "Les Bisous",
+          "url": "https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW"
         }
       ],
-      "duration_ms": 205312,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP"
+      "duration_ms": 177560,
+      "name": "DANGEROUS (So Dare Me)",
+      "url": "https://open.spotify.com/track/1OZ9eQn7mSVQaKCKEzx5n2"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2399,22 +2399,26 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Maybe In Another Life",
-        "url": "https://open.spotify.com/album/5FkZt02jeeDcZXjHukmpIG"
+        "name": "Turn Up The Love (Roosevelt Remix)",
+        "url": "https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1"
       },
       "artists": [
         {
-          "name": "lovetempo",
-          "url": "https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         },
         {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 219781,
-      "name": "Maybe In Another Life - Bosq Sunset Boogie Mix",
-      "url": "https://open.spotify.com/track/1MgedSTahfRlJnlYYzknSq"
+      "duration_ms": 225083,
+      "name": "Turn Up The Love - Roosevelt Remix",
+      "url": "https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI"
     }
   ],
   "unique_name": "Poolside Disco",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Showing Teeth",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: DIESECT",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 251290,
       "name": "A FAWN FLAYED",
       "url": "https://open.spotify.com/track/0vDbGpxHMlZ4XEZfCKZDXt"
+    },
+    {
+      "album": {
+        "name": "A League of Their Own",
+        "url": "https://open.spotify.com/album/3FUDl4SDj4EEAK6KDnquj7"
+      },
+      "artists": [
+        {
+          "name": "SELF CHECKOUT",
+          "url": "https://open.spotify.com/artist/5MowzXawPPjyDDZpswcbZj"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198636,
+      "name": "A League of Their Own",
+      "url": "https://open.spotify.com/track/1FDNd4ufOs34fvRVkNqIz0"
     },
     {
       "album": {
@@ -544,6 +562,24 @@
       "duration_ms": 219980,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/01rXJih3Ukak7SipqoPvH5"
+    },
+    {
+      "album": {
+        "name": "Anywhere But Here",
+        "url": "https://open.spotify.com/album/5fixRDMNxDv5L58J8jhEpG"
+      },
+      "artists": [
+        {
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200558,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
     },
     {
       "album": {
@@ -4022,7 +4058,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 150320,
       "name": "ENJOY THA SHOW",
       "url": "https://open.spotify.com/track/1Booi5UCbqmAT90XYqBvlq"
@@ -4872,7 +4908,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 183829,
       "name": "FRACTURED",
       "url": "https://open.spotify.com/track/4MCCpfDaNdyzaLrTh9pXxY"
@@ -7204,7 +7240,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 183882,
       "name": "LADDER CLIMBER",
       "url": "https://open.spotify.com/track/0THbi4xIW7C6NsJAcENapE"
@@ -8623,6 +8659,24 @@
     },
     {
       "album": {
+        "name": "HIDE FROM THE LIGHT",
+        "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
+      },
+      "artists": [
+        {
+          "name": "DIESECT",
+          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198924,
+      "name": "NO HOME LEFT TO FIND",
+      "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
+    },
+    {
+      "album": {
         "name": "NO LIES.",
         "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
       },
@@ -8952,7 +9006,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 173250,
       "name": "Offensive Defence - Redux",
       "url": "https://open.spotify.com/track/5K9F3JTUvFC7T3cwapSj3T"
@@ -10492,6 +10546,24 @@
       "duration_ms": 167611,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL"
+    },
+    {
+      "album": {
+        "name": "Exposition",
+        "url": "https://open.spotify.com/album/2H2qC5WCSzfq3coCjCJCjM"
+      },
+      "artists": [
+        {
+          "name": "Foreword",
+          "url": "https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182984,
+      "name": "Self-Immolate",
+      "url": "https://open.spotify.com/track/2wrtiKxQ8Q4aazZwlecWWl"
     },
     {
       "album": {

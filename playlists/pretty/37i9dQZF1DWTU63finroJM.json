@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: wane",
-  "num_followers": 84594,
+  "num_followers": 84659,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
+        "name": "Ohaguro",
+        "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Ohaguro",
+      "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
         "name": "COMPASS",
         "url": "https://open.spotify.com/album/3W5YJ52rQ6HyJ8aPRCut56"
       },
@@ -123,22 +139,6 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "Ohaguro",
-        "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Ohaguro",
-      "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
         "name": "I WILL.",
         "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
       },
@@ -151,26 +151,6 @@
       "duration_ms": 171391,
       "name": "World At My Feet",
       "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
-        "name": "London Massive",
-        "url": "https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        }
-      ],
-      "duration_ms": 125087,
-      "name": "London Massive",
-      "url": "https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT"
     },
     {
       "added_at": "2026-02-13 14:00:26",
@@ -207,6 +187,26 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
+        "name": "London Massive",
+        "url": "https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "duration_ms": 125087,
+      "name": "London Massive",
+      "url": "https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
         "name": "\u3075\u308f\u8f2a",
         "url": "https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "i see red",
-        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 176138,
-      "name": "i see red",
-      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 148567,
       "name": "DIY",
       "url": "https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "i see red",
+        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 176138,
+      "name": "i see red",
+      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
     },
     {
       "added_at": "2026-02-13 14:00:26",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V"
     },
     {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
-        "name": "To The Sandals",
-        "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 248932,
-      "name": "To The Sandals",
-      "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
-    },
-    {
       "added_at": "2026-02-20 14:23:08",
       "album": {
         "name": "Goodbye (If You Call That Gone)",
@@ -363,6 +347,22 @@
       "duration_ms": 216732,
       "name": "Last Man On Earth",
       "url": "https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "To The Sandals",
+        "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 248932,
+      "name": "To The Sandals",
+      "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
     },
     {
       "added_at": "2026-02-13 14:00:26",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
+        "name": "Dil Se",
+        "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
+      },
+      "artists": [
+        {
+          "name": "Yawar Abdal",
+          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
+        }
+      ],
+      "duration_ms": 257518,
+      "name": "Dil Se",
+      "url": "https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
         "name": "Everything\u2019s Built To Last",
         "url": "https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "Dil Se",
-        "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
+        "name": "EL FUNAO",
+        "url": "https://open.spotify.com/album/1wZB8YmbN89NHZlDWbJjZ9"
       },
       "artists": [
         {
-          "name": "Yawar Abdal",
-          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
+          "name": "UNIVERSE",
+          "url": "https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV"
         }
       ],
-      "duration_ms": 257518,
-      "name": "Dil Se",
-      "url": "https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY"
+      "duration_ms": 114375,
+      "name": "EL FUNAO",
+      "url": "https://open.spotify.com/track/1LNR9lc3291dwiFrCEarzG"
     },
     {
       "added_at": "2026-02-13 14:00:26",
@@ -435,22 +451,6 @@
       "duration_ms": 152066,
       "name": "Precious",
       "url": "https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
-        "name": "EL FUNAO",
-        "url": "https://open.spotify.com/album/1wZB8YmbN89NHZlDWbJjZ9"
-      },
-      "artists": [
-        {
-          "name": "UNIVERSE",
-          "url": "https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "EL FUNAO",
-      "url": "https://open.spotify.com/track/1LNR9lc3291dwiFrCEarzG"
     },
     {
       "added_at": "2026-02-13 14:00:26",

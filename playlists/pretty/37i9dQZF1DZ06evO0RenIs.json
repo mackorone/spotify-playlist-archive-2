@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAQSBwAlfKewpdUE8J82utl",
+  "snapshot_id": "aZuYgAAAAACNscmaxz/bv7q01FFu+E9T",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+        "name": "Artefact (feat. Le\u00f3n Larregui)",
+        "url": "https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L"
       },
       "artists": [
         {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 220720,
-      "name": "One Time Too Many",
-      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
+      "duration_ms": 201586,
+      "name": "Artefact (feat. Le\u00f3n Larregui)",
+      "url": "https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv"
     },
     {
       "added_at": null,
@@ -311,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artefact (feat. Le\u00f3n Larregui)",
-        "url": "https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 201586,
-      "name": "Artefact (feat. Le\u00f3n Larregui)",
-      "url": "https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv"
+      "duration_ms": 220720,
+      "name": "One Time Too Many",
+      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Consolation Prizes",
-      "url": "https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN"
+      "duration_ms": 223240,
+      "name": "Telefono",
+      "url": "https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Telefono",
-      "url": "https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY"
+      "duration_ms": 196253,
+      "name": "Consolation Prizes",
+      "url": "https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 172040,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Tuttifrutti",
-      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Winter Solstice (Braxe + Falcon Remix)",
         "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/6vkCxZIAutOwR3JKAvqLL7"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 301373,
       "name": "North",
       "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/6vkCxZIAutOwR3JKAvqLL7"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 302026,
-      "name": "Identical",
-      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
       "artists": [
         {
@@ -616,9 +600,25 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 300533,
-      "name": "Honeymoon",
-      "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
+      "duration_ms": 302026,
+      "name": "Identical",
+      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like that",
+        "url": "https://open.spotify.com/album/7vWL0BcIYUfb5qpbeWuHnj"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 63080,
+      "name": "Diet of the Heart",
+      "url": "https://open.spotify.com/track/3GxrYdbGWP7v5oAHAEIYWz"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
       "duration_ms": 293226,
       "name": "Bourgeois",
       "url": "https://open.spotify.com/track/394RDQPrHMS7EFSODaVn62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Season 2",
-      "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
     },
     {
       "added_at": null,
@@ -680,9 +664,25 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
+      "duration_ms": 300533,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Season 2",
+      "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
       "duration_ms": 196813,
       "name": "Rally",
       "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 169800,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Never Been Like that",
-        "url": "https://open.spotify.com/album/7vWL0BcIYUfb5qpbeWuHnj"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 63080,
-      "name": "Diet of the Heart",
-      "url": "https://open.spotify.com/track/3GxrYdbGWP7v5oAHAEIYWz"
     },
     {
       "added_at": null,

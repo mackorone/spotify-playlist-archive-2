@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,542 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,573 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 35 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
 | 36 | [Sobrenome \- Ao vivo](https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Sobrenome \(Ao Vivo\)](https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB) | 3:12 |
 | 37 | [Cê Tá Preparada \- Ao Vivo](https://open.spotify.com/track/1tYJnXtKLoWVIL4lZOouQG) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cê Tá Preparada \(Ao Vivo\)](https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy) | 3:33 |
-| 38 | [É natural \(Participação especial de Bruno Cardoso\) \- Ao vivo](https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Bruno Cardoso](https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:27 |
+| 38 | [Até que enfim \- Ao vivo](https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Chão de estrelas \(Ao vivo\)](https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun) | 3:44 |
 | 39 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 |
 | 40 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
 | 41 | [Final De Tarde](https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Nos Arcos da Lapa](https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi) | 3:57 |
 | 42 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
-| 43 | [Até que enfim \- Ao vivo](https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Chão de estrelas \(Ao vivo\)](https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun) | 3:44 |
+| 43 | [É natural \(Participação especial de Bruno Cardoso\) \- Ao vivo](https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Bruno Cardoso](https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:27 |
 | 44 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
 | 45 | [Tchau Brigado \- Ao Vivo](https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Tchau Brigado \(Ao Vivo\)](https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy) | 2:43 |
 | 46 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |

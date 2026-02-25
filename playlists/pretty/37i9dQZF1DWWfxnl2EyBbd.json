@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 366284,
+  "num_followers": 366318,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-12-02 13:30:12",
       "album": {
-        "name": "Conversations in the Night",
-        "url": "https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE"
-      },
-      "artists": [
-        {
-          "name": "Luca Armone",
-          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
-        }
-      ],
-      "duration_ms": 167621,
-      "name": "Conversations in the Night",
-      "url": "https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq"
-    },
-    {
-      "added_at": "2025-12-02 13:30:12",
-      "album": {
         "name": "Slowly Moving Forward",
         "url": "https://open.spotify.com/album/09xYUcUWDC5UEHY9JKFKVy"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 151921,
       "name": "Slowly Moving Forward",
       "url": "https://open.spotify.com/track/6Fd6aiIghztXABZu3yyMIi"
+    },
+    {
+      "added_at": "2025-12-02 13:30:12",
+      "album": {
+        "name": "Conversations in the Night",
+        "url": "https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "duration_ms": 167621,
+      "name": "Conversations in the Night",
+      "url": "https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq"
     },
     {
       "added_at": "2025-12-02 13:30:12",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-12-02 13:30:12",
       "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh"
-      },
-      "artists": [
-        {
-          "name": "A. Mayven",
-          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
-        }
-      ],
-      "duration_ms": 142977,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1"
-    },
-    {
-      "added_at": "2025-12-02 13:30:12",
-      "album": {
         "name": "in bloom",
         "url": "https://open.spotify.com/album/1AbaoCmTtSjSB77bQjGlRq"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 124538,
       "name": "in bloom",
       "url": "https://open.spotify.com/track/2HD8hrsF93st2QU00boQea"
+    },
+    {
+      "added_at": "2025-12-02 13:30:12",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh"
+      },
+      "artists": [
+        {
+          "name": "A. Mayven",
+          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
+        }
+      ],
+      "duration_ms": 142977,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1"
     },
     {
       "added_at": "2025-12-02 13:30:12",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-12-02 13:30:12",
       "album": {
-        "name": "Something Together",
-        "url": "https://open.spotify.com/album/06YCoRHgr6ELtFWEvAmRe8"
-      },
-      "artists": [
-        {
-          "name": "Joseph Cole",
-          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
-        }
-      ],
-      "duration_ms": 129786,
-      "name": "Something Together",
-      "url": "https://open.spotify.com/track/3XM6cWuevb7PGBEZSiQfEx"
-    },
-    {
-      "added_at": "2025-12-02 13:30:12",
-      "album": {
         "name": "Fading Away",
         "url": "https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 167270,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj"
+    },
+    {
+      "added_at": "2025-12-02 13:30:12",
+      "album": {
+        "name": "Something Together",
+        "url": "https://open.spotify.com/album/06YCoRHgr6ELtFWEvAmRe8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cole",
+          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
+        }
+      ],
+      "duration_ms": 129786,
+      "name": "Something Together",
+      "url": "https://open.spotify.com/track/3XM6cWuevb7PGBEZSiQfEx"
     },
     {
       "added_at": "2025-12-02 13:30:12",
@@ -939,8 +939,8 @@
     {
       "added_at": "2025-12-02 13:30:12",
       "album": {
-        "name": "promenade",
-        "url": "https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb"
+        "name": "Evening Stillness",
+        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
         }
       ],
-      "duration_ms": 163566,
-      "name": "promenade",
-      "url": "https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR"
+      "duration_ms": 198437,
+      "name": "Evening Stillness",
+      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
     },
     {
       "added_at": "2025-12-02 13:30:12",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2025-12-02 13:30:12",
       "album": {
-        "name": "Evening Stillness",
-        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
+        "name": "promenade",
+        "url": "https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
         }
       ],
-      "duration_ms": 198437,
-      "name": "Evening Stillness",
-      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
+      "duration_ms": 163566,
+      "name": "promenade",
+      "url": "https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR"
     },
     {
       "added_at": "2025-12-02 13:30:12",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-12-02 13:30:12",
       "album": {
-        "name": "A Clear Sky",
-        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
-      },
-      "artists": [
-        {
-          "name": "Leah Lambert",
-          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "A clear sky",
-      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
-    },
-    {
-      "added_at": "2025-12-02 13:30:12",
-      "album": {
         "name": "Peace is overrated",
         "url": "https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 172573,
       "name": "Peace is overrated",
       "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
+    },
+    {
+      "added_at": "2025-12-02 13:30:12",
+      "album": {
+        "name": "A Clear Sky",
+        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "A clear sky",
+      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
     },
     {
       "added_at": "2025-12-02 13:30:12",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-02 13:30:12",
       "album": {
-        "name": "Slumber",
-        "url": "https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq"
-      },
-      "artists": [
-        {
-          "name": "Art Beckett",
-          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
-        }
-      ],
-      "duration_ms": 168553,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq"
-    },
-    {
-      "added_at": "2025-12-02 13:30:12",
-      "album": {
         "name": "Be Quiet",
         "url": "https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 170133,
       "name": "Be Quiet",
       "url": "https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p"
+    },
+    {
+      "added_at": "2025-12-02 13:30:12",
+      "album": {
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "duration_ms": 168553,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq"
     },
     {
       "added_at": "2025-12-02 13:30:12",

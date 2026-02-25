@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,707 likes - 144 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,758 likes - 144 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 24 | [Awakening](https://open.spotify.com/track/5rH5Z27SXGNkSZ0L5WZRBz) | [Knut Avenstroup Haugen](https://open.spotify.com/artist/5tGhfbvLZoyaM8GwORmL2k), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Dune: Awakening \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7ywGD6818xlYT3tawU95Hi) | 1:36 |
 | 25 | [Main Theme \- Stars At Our Backs](https://open.spotify.com/track/3VomNp1WeieuPtn5GgvozR) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/1bk8xnCCB0qZ4LRzUaHJPi) | 4:31 |
 | 26 | [J\-E\-N\-O\-V\-A \-誕生\- \- FF7 Rebirth OST Ver.](https://open.spotify.com/track/0gaTZvg2lb52sJMlQfygoP) | [植松 伸夫](https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW), [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv) | [FINAL FANTASY VII REBIRTH Original Soundtrack](https://open.spotify.com/album/5xjdN0ta4RP1iH9zT2zwKU) | 6:33 |
-| 27 | [Live Gloriously \- \(Main Theme\)](https://open.spotify.com/track/1UKBBP1dKjZHYMKVREIrC5) | [Christopher Tin](https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2) | [Sid Meier's Civilization VII \(Original Game Soundtrack\)](https://open.spotify.com/album/17m1NgqYE9s4b2MYAdu0hA) | 4:50 |
+| 27 | [Live Gloriously \(Main Theme\)](https://open.spotify.com/track/1UKBBP1dKjZHYMKVREIrC5) | [Christopher Tin](https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2) | [Sid Meier's Civilization VII \(Original Game Soundtrack\)](https://open.spotify.com/album/17m1NgqYE9s4b2MYAdu0hA) | 4:50 |
 | 28 | [The Great Circle](https://open.spotify.com/track/4HhoYdEsI9r7eqTjOTkL08) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Indiana Jones and the Great Circle \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4JtrVfBk94Sc7fhuafVNQT) | 5:07 |
 | 29 | [Mirage Theme \- From Assassin's Creed Mirage](https://open.spotify.com/track/17D3bYY9JJJjH1TUAruBJr) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Mirage Theme \(From Assassin's Creed Mirage\)](https://open.spotify.com/album/5zqIzGbR9wAkZFSLRkndlK) | 3:32 |
 | 30 | [God of War II \- Main Titles](https://open.spotify.com/track/4Ga0jNG9Pm5g6x1whprPQd) | [Gerard Marino](https://open.spotify.com/artist/7xZsnJ0ry5xKWJg0AjP9rC) | [God of War II \(Original Video Game Soundtrack\)](https://open.spotify.com/album/17K3q2htUlMsSflM3XZxlw) | 2:55 |

@@ -4,7 +4,7 @@
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 30 min
+85 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [I Am Yours](https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:58 | 2023-03-10 | 2025-09-05 |
 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 | 2023-03-10 |  |
 | [Inevitable](https://open.spotify.com/track/7l4u4dXMdXo88bq7pgbmgo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 2:40 | 2024-06-12 | 2024-06-22 |
-| [Interlude \#2](https://open.spotify.com/track/2gP165raFMuizgrUh5ymNG) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 0:53 | 2025-10-05 |  |
+| [Inherited](https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:08 | 2026-02-25 |  |
+| [Interlude \#2](https://open.spotify.com/track/2gP165raFMuizgrUh5ymNG) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 0:53 | 2025-10-05 | 2026-02-25 |
 | [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 | 2023-03-10 |  |
 | [Kaleidoscope Jesus](https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:54 | 2024-06-23 |  |
 | [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 | 2025-08-03 |  |

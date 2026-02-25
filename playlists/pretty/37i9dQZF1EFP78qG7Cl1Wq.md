@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,115 likes - 250 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,116 likes - 250 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 65 | [SWING \(feat\. Normani & Davido\)](https://open.spotify.com/track/5KDfDLEaGAQ2uyuzsWByVa) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 5:03 |
 | 66 | [Take It To The Top \(Becky G & Ayra Starr\)](https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:05 |
 | 67 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
-| 68 | [Rendezvous](https://open.spotify.com/track/157MAS9dxMKcYTvISq6hie) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:56 |
-| 69 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 |
+| 68 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 |
+| 69 | [Rendezvous](https://open.spotify.com/track/157MAS9dxMKcYTvISq6hie) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:56 |
 | 70 | [2 Places](https://open.spotify.com/track/3LJT5LFqEW0FxULZtdWOOS) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \(Deluxe Edition\)](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 3:01 |
 | 71 | [Ref](https://open.spotify.com/track/6hWHiqL9pFnfgbSAxxnfwm) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 3:14 |
 | 72 | [Coffee](https://open.spotify.com/track/6jShoT9pQam6vzsJzKkevB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \(Deluxe Edition\)](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 4:09 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 181 | [Afraid To Fall](https://open.spotify.com/track/0YlyEicyEhlWU1z6rKrWqT) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
 | 182 | [Let Me Help You](https://open.spotify.com/track/3LiHCDh5fNDpZx7iPgwgsv) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:54 |
 | 183 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 |
-| 184 | [Nevermind](https://open.spotify.com/track/2VxJAEJff8YpPkr5q1sLK5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:43 |
-| 185 | [Fall Tonight](https://open.spotify.com/track/7oEyT5yydRhkVrOkCEg5OA) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/21ms8XR8PMEquIH9aQSuGb) | 3:08 |
+| 184 | [Fall Tonight](https://open.spotify.com/track/7oEyT5yydRhkVrOkCEg5OA) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/21ms8XR8PMEquIH9aQSuGb) | 3:08 |
+| 185 | [Nevermind](https://open.spotify.com/track/2VxJAEJff8YpPkr5q1sLK5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:43 |
 | 186 | [What Can I Say \- Interlude](https://open.spotify.com/track/0osC0o9ffcCqlAG0Clypds) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:30 |
 | 187 | [Last Words](https://open.spotify.com/track/5jl4mrAV1rEm384440ZAib) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:47 |
 | 188 | [Fuck It Tho](https://open.spotify.com/track/10Jg6KU0rNPM6n4sS2BhpD) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/3ApKQgytJiUVlYSPwSqfOF) | 3:14 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 249 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 250 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcKeSAAAAACTZ6j5RptCjli/RZVVSNyt`
+Snapshot ID: `AcKjygAAAACMQKAwiT0VU1adaa5wQmjH`

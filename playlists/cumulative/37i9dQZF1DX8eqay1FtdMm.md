@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Tei \(테이\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-639 songs - 1 day 17 hr 48 min
+640 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Blank](https://open.spotify.com/track/2OyX69J0H3ZaO3irKbcemY) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/7xSPokUlRKABb78sL7WRsm) | 3:12 | 2022-03-29 | 2022-06-10 |
 | [blue lagoon](https://open.spotify.com/track/6biXLR6erSRv6PtgTt3Nd9) | [KISSXS](https://open.spotify.com/artist/2WaoJEyJIJ08YWyu7IJAOI) | [blue lagoon](https://open.spotify.com/album/2J4f8XpnORZvKOxqRmWQfx) | 3:37 | 2022-03-24 | 2022-04-18 |
 | [Blue Sky](https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [Blue Sky](https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp) | 3:26 | 2022-07-25 | 2022-07-28 |
-| [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-20 |  |
+| [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-20 | 2026-02-25 |
 | [BMK \- v o K a l \(EN\)](https://open.spotify.com/track/2aBxzp16WH2Kx8wtLQelGz) | [BMK](https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8) | [BMK voKal Audio Liner](https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv) | 0:03 | 2023-12-01 |  |
 | [BMK \- v o K a l \(KR\)](https://open.spotify.com/track/4am0xob1HUamJ3T3TcIAe3) | [BMK](https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8) | [BMK voKal Audio Liner](https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv) | 0:03 | 2023-12-01 |  |
 | [Boy in time \- HUI Solo](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:38 | 2021-12-20 | 2022-06-13 |
@@ -558,6 +558,7 @@
 | [We Are Broken Up](https://open.spotify.com/track/5B2Ly3nOWf6MCb5yRxBX9O) | [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [We Are Broken Up](https://open.spotify.com/album/4N43CJ7mRyOu38sw4f4ioh) | 3:27 | 2022-08-18 | 2022-10-06 |
 | [We Should've Been Friends](https://open.spotify.com/track/6UHNQXx91lUEULQty8XgJR) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [We Should've Been Friends](https://open.spotify.com/album/1hV0jEXi9ZEtwSoUkv1wgv) | 4:31 | 2022-04-21 | 2022-06-28 |
 | [What If](https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [What If](https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR) | 4:32 | 2023-05-03 | 2023-07-12 |
+| [What Love Is](https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [What Love Is \(Positively Yours X Huh Gak\) \[Original Soundtrack\]](https://open.spotify.com/album/0vNd9d5KtDFOOQN0nGJB4F) | 3:04 | 2026-02-23 |  |
 | [What's Not To Love](https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih) | [L \(INFINITE\)](https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV) | [24/7](https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6) | 3:26 | 2024-08-09 | 2024-10-13 |
 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 | 2023-12-01 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 | 2025-04-30 | 2025-05-14 |

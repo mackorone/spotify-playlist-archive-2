@@ -16784,7 +16784,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
@@ -17226,7 +17226,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 186000,
       "name": "Let Alone The One You Love",
       "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
@@ -32732,7 +32732,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
@@ -34098,6 +34098,24 @@
       "duration_ms": 183613,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

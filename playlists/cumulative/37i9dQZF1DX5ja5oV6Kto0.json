@@ -10143,6 +10143,32 @@
     },
     {
       "album": {
+        "name": "Elementary 2",
+        "url": "https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y"
+      },
+      "artists": [
+        {
+          "name": "Rhedi",
+          "url": "https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI"
+        },
+        {
+          "name": "Chiddy Bang",
+          "url": "https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU"
+        },
+        {
+          "name": "Young Chux",
+          "url": "https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164204,
+      "name": "Late Adolescence",
+      "url": "https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac"
+    },
+    {
+      "album": {
         "name": "Roadman and Folks",
         "url": "https://open.spotify.com/album/3gZJDhBIWDDAcJHmcbUomZ"
       },
@@ -16540,7 +16566,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 155744,
       "name": "Shigege",
       "url": "https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu"

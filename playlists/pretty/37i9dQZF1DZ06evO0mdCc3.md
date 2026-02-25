@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,941 likes - 42 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,948 likes - 42 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 41 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
 | 42 | [Witch Hunt](https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:58 |
 
-Snapshot ID: `aZpHAAAAAAAr/JXVN/MipFgMaYlpx8fl`
+Snapshot ID: `aZuYgAAAAABtmbUB/49oXr+7pQfaEHAQ`

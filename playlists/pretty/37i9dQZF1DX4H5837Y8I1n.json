@@ -1,13 +1,41 @@
 {
   "description": "Work out to these high energy numbers! \nCover : Ram Charan",
-  "num_followers": 102803,
+  "num_followers": 102866,
   "original_name": "Telugu Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5masspjTxBO/LfVOE+8ymP96AT",
+  "snapshot_id": "AAAAAGs8MbvJ59/rVhoR+oNtqaq6CBAx",
   "tracks": [
+    {
+      "added_at": "2026-02-24 14:38:25",
+      "album": {
+        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Arjun Chandy",
+          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 286917,
+      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
+    },
     {
       "added_at": "2022-01-05 09:39:29",
       "album": {
@@ -67,22 +95,6 @@
       "duration_ms": 258161,
       "name": "Jayaho Janatha",
       "url": "https://open.spotify.com/track/4fo2Q4iPc9DDI1eS7sIHIh"
-    },
-    {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha Nikitha Gandhi",
-          "url": "https://open.spotify.com/artist/19E4xoxZc5p7LULBsmnQiO"
-        }
-      ],
-      "duration_ms": 194829,
-      "name": "Neethoney Dance",
-      "url": "https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ"
     },
     {
       "added_at": "2025-12-02 10:01:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,932 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,965 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 51 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
 | 52 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP) | 3:53 |
 | 53 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
-| 54 | [Gardeners Rest](https://open.spotify.com/track/2TZHu7OhhJOIGgbhmy07Jd) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI) | [Gardeners Rest](https://open.spotify.com/album/4TnueZBqcDAUHRzLXcAEWN) | 2:56 |
-| 55 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
+| 54 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
+| 55 | [Gardeners Rest](https://open.spotify.com/track/2TZHu7OhhJOIGgbhmy07Jd) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI) | [Gardeners Rest](https://open.spotify.com/album/4TnueZBqcDAUHRzLXcAEWN) | 2:56 |
 | 56 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
 | 57 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
 | 58 | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m) | 4:15 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 64 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 65 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 66 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
-| 67 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
-| 68 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
+| 67 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
+| 68 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
 | 69 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
 | 70 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
 | 71 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |

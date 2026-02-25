@@ -1,6 +1,6 @@
 {
   "description": "alternative meets electronic.",
-  "num_followers": 494217,
+  "num_followers": 494242,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -687,26 +703,6 @@
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
-        "name": "Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO",
-        "url": "https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 313344,
-      "name": "\u00bf (feat. Halsey)",
-      "url": "https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -731,6 +727,26 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
+        "name": "Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO",
+        "url": "https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 313344,
+      "name": "\u00bf (feat. Halsey)",
+      "url": "https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
         "name": "YES MOM",
         "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 162364,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
       },
       "artists": [
         {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+      "duration_ms": 178920,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "RAT WARS",
-        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "ASHAMED",
-      "url": "https://open.spotify.com/track/2olEwF2igUG4f2eooVChni"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
         "name": "BODY BAG",
         "url": "https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 186666,
       "name": "BODY BAG",
       "url": "https://open.spotify.com/track/63f24av3B364sOS3oXoGL0"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
+        "name": "RAT WARS",
+        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "ASHAMED",
+      "url": "https://open.spotify.com/track/2olEwF2igUG4f2eooVChni"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1047,6 +1047,22 @@
       "duration_ms": 131200,
       "name": "Animals",
       "url": "https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
+        "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "BE QUIET AND DRIVE (FAR AWAY)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1127,8 +1143,8 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+        "name": "ORDINARY LOSS",
+        "url": "https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6"
       },
       "artists": [
         {
@@ -1136,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 187189,
-      "name": "BE QUIET AND DRIVE (FAR AWAY)",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+      "duration_ms": 233807,
+      "name": "ORDINARY LOSS",
+      "url": "https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1235,22 +1251,6 @@
       "duration_ms": 209500,
       "name": "MY DEMONS",
       "url": "https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
-        "name": "ORDINARY LOSS",
-        "url": "https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 233807,
-      "name": "ORDINARY LOSS",
-      "url": "https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
+        "name": "S.O.A.G.",
+        "url": "https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "S.O.A.G.",
+      "url": "https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
@@ -1511,6 +1527,22 @@
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
+        "name": "EYEBLEACH.",
+        "url": "https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 106646,
+      "name": "so wrong (so right!)",
+      "url": "https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "EYEBLEACH.",
-        "url": "https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 106646,
-      "name": "so wrong (so right!)",
-      "url": "https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 158973,
       "name": "Again",
       "url": "https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
-        "name": "S.O.A.G.",
-        "url": "https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "S.O.A.G.",
-      "url": "https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz"
     },
     {
       "added_at": "2026-02-06 17:06:41",

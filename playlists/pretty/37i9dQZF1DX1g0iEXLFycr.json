@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1071137,
+  "num_followers": 1071126,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 198066,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 325266,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6IH6co1QUS7uXoyPDv0rIr"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 181772,
       "name": "Busy Earnin'",
       "url": "https://open.spotify.com/track/3g86N0SqyfxEVNMHlmW3RE"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 325266,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
     },
     {
       "added_at": "2024-03-22 16:40:22",

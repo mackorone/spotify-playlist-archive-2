@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Tainy, Rauw Alejandro & JHAYCO, Justin Quiles & Lenny Tavarez, Blessd & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,407 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,415 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

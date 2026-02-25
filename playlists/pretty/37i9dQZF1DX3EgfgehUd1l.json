@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 177257,
+  "num_followers": 177259,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "30th Anniversary Collection",
+        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
+      },
+      "artists": [
+        {
+          "name": "michael holliday",
+          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
+        }
+      ],
+      "duration_ms": 135826,
+      "name": "The Story of My Life",
+      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Radio Gold - Cliff Richard And The Shadows",
         "url": "https://open.spotify.com/album/57M65RmmlmYha7Q2J54IJ4"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 156793,
       "name": "Living Doll",
       "url": "https://open.spotify.com/track/2OqzR7I7GF19T2qPrbmYQC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "30th Anniversary Collection",
-        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
       },
       "artists": [
         {
-          "name": "michael holliday",
-          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 135826,
-      "name": "The Story of My Life",
-      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Guaglione",
-        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
-      },
-      "artists": [
-        {
-          "name": "Marino Marini",
-          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Come prima",
-      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 155066,
       "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
       "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Guaglione",
+        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
+      },
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Come prima",
+      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All the Greatest Hits Ever Made, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 178284,
-      "name": "Rock and Roll Waltz - Remastered",
-      "url": "https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Oh Baby! Best Of Volume 1 1951-1954",
         "url": "https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 127386,
       "name": "I Get So Lonely (When I Dream About You)",
       "url": "https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "All the Greatest Hits Ever Made, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Rock and Roll Waltz - Remastered",
+      "url": "https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd"
     },
     {
       "added_at": "2023-10-17 16:18:55",

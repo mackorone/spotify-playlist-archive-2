@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1053345,
+  "num_followers": 1053298,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Wishbone",
         "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 234228,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "DON\u2019T YOU SEE ME TRYING?",
         "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 213887,
       "name": "DON\u2019T YOU SEE ME TRYING?",
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Kiss It Kiss It",
-      "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 167096,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Kiss It Kiss It",
+      "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Tough Luck",
         "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 158696,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 158696,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 176427,
-      "name": "Saddle Again",
-      "url": "https://open.spotify.com/track/0lD78Oo18JztVRHK8GyFXR"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 165107,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 176427,
+      "name": "Saddle Again",
+      "url": "https://open.spotify.com/track/0lD78Oo18JztVRHK8GyFXR"
     },
     {
       "added_at": "2026-02-12 23:00:22",

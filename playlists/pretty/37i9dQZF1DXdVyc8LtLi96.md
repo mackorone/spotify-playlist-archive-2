@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,581 likes - 210 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,549 likes - 210 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 209 | [Drift Away](https://open.spotify.com/track/5f79zre6pvb8XifuMBG7fk) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Drift Away](https://open.spotify.com/album/3wOFfNETbCuQUJ5fFJGjdk) | 2:33 |
 | 210 | [Point of View](https://open.spotify.com/track/3ZzOr8m5EjFoXMah705Kk2) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Point of View](https://open.spotify.com/album/20GrGDlErhsCRGZDN2UOlu) | 2:21 |
 
-Snapshot ID: `AAAAAGhbDsnbd1xBJW5UqorP2CnIPbOt`
+Snapshot ID: `AAAAAFfT9iF2OtgcHi6BX8lTKcdTrtFx`

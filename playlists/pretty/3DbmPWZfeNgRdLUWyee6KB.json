@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1276,
+  "num_followers": 1281,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQw/q3s+3WN+mAHZsmFEmUXo0kcD0+",
+  "snapshot_id": "AAAQyYISLaYMyJDg+5CEaQ9VMn3Zx3oJ",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2639,6 +2639,110 @@
       "duration_ms": 113454,
       "name": "Del Uno al Diez",
       "url": "https://open.spotify.com/track/4iG7xg9J2N99rtW4pkkz4p"
+    },
+    {
+      "added_at": "2026-02-24 08:27:47",
+      "album": {
+        "name": "Of All The Things I've Said",
+        "url": "https://open.spotify.com/album/6sQzWyFp09Tm6Tl6rb1Z6E"
+      },
+      "artists": [
+        {
+          "name": "Austin-Tucker",
+          "url": "https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq"
+        }
+      ],
+      "duration_ms": 244368,
+      "name": "Of All The Things I've Said",
+      "url": "https://open.spotify.com/track/4q2joDEEnPyOKJ28BFGX7a"
+    },
+    {
+      "added_at": "2026-02-24 08:28:29",
+      "album": {
+        "name": "In the Rain",
+        "url": "https://open.spotify.com/album/7dtUQxnDwg3rrQioBDRW0K"
+      },
+      "artists": [
+        {
+          "name": "Tyell",
+          "url": "https://open.spotify.com/artist/3vn1K9sRLk08d2DV2A6Y2B"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/2UxTpgqN3i6IRuJCNEnBWZ"
+    },
+    {
+      "added_at": "2026-02-24 08:28:36",
+      "album": {
+        "name": "The Good Old Days (A Rock 'N' Roll Story)",
+        "url": "https://open.spotify.com/album/5cGl6Se6BNFjkuBarUWsOw"
+      },
+      "artists": [
+        {
+          "name": "Douglas & The World",
+          "url": "https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV"
+        }
+      ],
+      "duration_ms": 484520,
+      "name": "The Pink Burger Bar (Part 2)",
+      "url": "https://open.spotify.com/track/7IX0NcCDjMc3zqkNAHkw1O"
+    },
+    {
+      "added_at": "2026-02-24 08:28:40",
+      "album": {
+        "name": "The Pink Burger Bar Part 1 (Live)",
+        "url": "https://open.spotify.com/album/1ha0hQ0qBFnnCAi6tzdWmY"
+      },
+      "artists": [
+        {
+          "name": "Douglas & The World",
+          "url": "https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV"
+        },
+        {
+          "name": "Cool Banana",
+          "url": "https://open.spotify.com/artist/3tIcxAObVuYpR4e13MbMQZ"
+        }
+      ],
+      "duration_ms": 161122,
+      "name": "The Pink Burger Bar Part 1 - Live",
+      "url": "https://open.spotify.com/track/1fQjUPXzIhec1KRHTt4tNP"
+    },
+    {
+      "added_at": "2026-02-24 08:29:07",
+      "album": {
+        "name": "Il Blues del Giorno Triste",
+        "url": "https://open.spotify.com/album/5Mfpd99yQEZL9GWspbrjg8"
+      },
+      "artists": [
+        {
+          "name": "Giofly",
+          "url": "https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Il Blues del Giorno Triste",
+      "url": "https://open.spotify.com/track/2YFJOwCkphwbWvVZy6tqIN"
+    },
+    {
+      "added_at": "2026-02-24 08:29:22",
+      "album": {
+        "name": "The Process",
+        "url": "https://open.spotify.com/album/0KqDqn5H9VBrBFe9izp6zo"
+      },
+      "artists": [
+        {
+          "name": "t-WIN",
+          "url": "https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s"
+        },
+        {
+          "name": "Crisisbeatzz",
+          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
+        }
+      ],
+      "duration_ms": 218067,
+      "name": "The Process",
+      "url": "https://open.spotify.com/track/6qJ5OA70ILvgAIrfsMYKbJ"
     }
   ],
   "unique_name": "New Indie Music",

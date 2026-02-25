@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,462 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,467 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 50 | [Baila Baila](https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Kings of Günter](https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY), [Immer Hansi](https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH) | [Baila Baila](https://open.spotify.com/album/2evbu0IbU1p0uzcx7g0WBF) | 2:30 |
 
-Snapshot ID: `MS+5QAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTENGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

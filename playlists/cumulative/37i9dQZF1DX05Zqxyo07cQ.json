@@ -7191,6 +7191,24 @@
     },
     {
       "album": {
+        "name": "Hoshikuzu no Michi",
+        "url": "https://open.spotify.com/album/7nrMcC2QXVlGqmj2TX7Gbq"
+      },
+      "artists": [
+        {
+          "name": "Juliette Laveaux",
+          "url": "https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128333,
+      "name": "Hoshikuzu no Michi",
+      "url": "https://open.spotify.com/track/7cqjOWkvm8Nav61IckL5fi"
+    },
+    {
+      "album": {
         "name": "Houd me vast",
         "url": "https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh"
       },
@@ -8984,7 +9002,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 154607,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4eCVHeQIMNzd6LTQABHVYE"
@@ -9312,6 +9330,24 @@
       "duration_ms": 189500,
       "name": "Marimosa",
       "url": "https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO"
+    },
+    {
+      "album": {
+        "name": "Matte Dreams",
+        "url": "https://open.spotify.com/album/48MhnWcgtQOKDC4IXhYSq6"
+      },
+      "artists": [
+        {
+          "name": "Aemilune",
+          "url": "https://open.spotify.com/artist/1WMy5EVJKar2JzCjAPv8m9"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Matte Dreams",
+      "url": "https://open.spotify.com/track/2S9nxEBURjnZ6JCcol3qJO"
     },
     {
       "album": {
@@ -10064,7 +10100,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 174983,
       "name": "Myriad Calm",
       "url": "https://open.spotify.com/track/0REjyvDIwTTIydfZNxqL7y"

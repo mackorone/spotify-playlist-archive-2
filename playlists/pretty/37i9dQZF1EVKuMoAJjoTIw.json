@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a> and more",
   "num_followers": 0,
   "original_name": "Moody Mix",
   "owner": {
@@ -11,8 +11,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 300683,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
       },
       "artists": [
         {
@@ -20,41 +36,25 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "I've Seen It",
-      "url": "https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF"
+      "duration_ms": 226035,
+      "name": "MIENTRAS DUERMES",
+      "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
     },
     {
       "added_at": null,

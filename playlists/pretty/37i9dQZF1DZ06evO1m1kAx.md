@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,066 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,069 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 17 | [Ole](https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Freestyle](https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:51 |
 | 18 | [Higher \(Spiritual Healing\) \[feat\. Huma Lara\]](https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:55 |
 | 19 | [E Be Like Say](https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:46 |
-| 20 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
-| 21 | [Trouble](https://open.spotify.com/track/716irYdOvfRgpu3HeelScT) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:43 |
+| 20 | [Trouble](https://open.spotify.com/track/716irYdOvfRgpu3HeelScT) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:43 |
+| 21 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
 | 22 | [Target You \(feat\. Syemca\)](https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Syemca](https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:04 |
 | 23 | [No Shakin](https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:31 |
 | 24 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 |
 | 50 | [Mad Over Hills](https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Mad Over Hills](https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH) | 2:34 |
 
-Snapshot ID: `aZpHAAAAAACHc1/u46D9FYjgcMwf/ihu`
+Snapshot ID: `aZuYgAAAAABLyVenKc/SREycSoqeG9WA`

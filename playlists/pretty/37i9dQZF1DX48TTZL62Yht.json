@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Don Toliver",
-  "num_followers": 506088,
+  "num_followers": 506079,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -123,6 +107,22 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "Bodies (with JID)",
         "url": "https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3"
       },
@@ -139,6 +139,22 @@
       "duration_ms": 178708,
       "name": "Bodies (with JID)",
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -163,22 +179,6 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
       },
@@ -199,18 +199,18 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -255,6 +255,54 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
+        "name": "The Largest",
+        "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 132266,
+      "name": "The Largest",
+      "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -279,22 +327,6 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "The Largest",
-        "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 132266,
-      "name": "The Largest",
-      "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -311,38 +343,6 @@
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "HIGHEST IN THE ROOM",
-        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "HIGHEST IN THE ROOM",
-      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -575,22 +595,18 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+      "duration_ms": 90760,
+      "name": "on one tonight",
+      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -683,22 +699,6 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 90760,
-      "name": "on one tonight",
-      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -763,6 +779,42 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -791,58 +843,6 @@
       "duration_ms": 132832,
       "name": "Martin & Gina",
       "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Runnin",
-      "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "FWU",
         "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 171000,
       "name": "FWU",
       "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ring Ring Ring",
-      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 133331,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "BAND4BAND (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -1315,26 +1335,6 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "BAND4BAND (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "BAND4BAND (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
       },
@@ -1351,6 +1351,26 @@
       "duration_ms": 192693,
       "name": "Embarrassed (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -1407,22 +1427,6 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "Glockoma 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -1435,6 +1439,22 @@
       "duration_ms": 156578,
       "name": "Tyler Herro",
       "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -1471,26 +1491,6 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "CAN'T RUSH GREATNESS",
-        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "GBP (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
+    },
+    {
+      "added_at": "2026-02-18 18:17:15",
+      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -1775,8 +1795,8 @@
     {
       "added_at": "2026-02-18 18:17:15",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
       "artists": [
         {
@@ -1784,9 +1804,9 @@
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2026-02-18 18:17:15",
@@ -1803,26 +1823,6 @@
       "duration_ms": 164747,
       "name": "Hello Miss Johnson",
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
-    },
-    {
-      "added_at": "2026-02-18 18:17:15",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 167977,
-      "name": "Forever (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "added_at": "2026-02-18 18:17:15",

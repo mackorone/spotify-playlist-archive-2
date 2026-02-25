@@ -9067,6 +9067,24 @@
     },
     {
       "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331914,
+      "name": "Skrting On The Surface",
+      "url": "https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp"
+    },
+    {
+      "album": {
         "name": "Maladroit",
         "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },

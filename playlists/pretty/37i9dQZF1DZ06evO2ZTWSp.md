@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,237 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,216 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 27 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 | 28 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
 | 29 | [Soulmate](https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
-| 30 | [CRASHOUT](https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:55 |
+| 30 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
 | 31 | [BOP IT!](https://open.spotify.com/track/6sCQYWvTIOIinEgO1d1JJV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE STILL HURTS FROM SMILING](https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2) | 1:43 |
 | 32 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 33 | [Exactly How I Feel \(feat\. Gucci Mane\)](https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:23 |
-| 34 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
+| 34 | [CRASHOUT](https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:55 |
 | 35 | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL) | 3:17 |
 | 36 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
 | 37 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 |
 | 50 | [Coldplay](https://open.spotify.com/track/2GpCh34HpurCeyeHvSe8To) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:55 |
 
-Snapshot ID: `aZpHAAAAAADMAbEQ72QqKZeU770yFmEX`
+Snapshot ID: `aZuYgAAAAAAmqnd0AEI6fF+1UHrGtgfE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,303 likes - 47 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,323 likes - 47 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 18 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 |
 | 19 | [MAYBE I'M WRONG](https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:22 |
 | 20 | [GIRLS](https://open.spotify.com/track/3Fra5SMXXDTSRXVoDf8Xwd) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:32 |
-| 21 | [Reminds Me Of You](https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Reminds Me Of You](https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI) | 2:38 |
-| 22 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |
+| 21 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |
+| 22 | [Reminds Me Of You](https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Reminds Me Of You](https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI) | 2:38 |
 | 23 | [NEVER CAME BACK](https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 2:57 |
 | 24 | [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 |
 | 25 | [ALWAYS DO](https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:31 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 46 | [Speak](https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:02 |
 | 47 | [Let Her Go](https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Let Her Go](https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY) | 2:02 |
 
-Snapshot ID: `aZpHAAAAAACvDasmjSfMO6wsa3J7OYv8`
+Snapshot ID: `aZuYgAAAAABgaPCs/I1hEJ2kUumMoVdg`

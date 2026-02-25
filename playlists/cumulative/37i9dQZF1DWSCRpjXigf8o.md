@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-652 songs - 1 day 15 hr 29 min
+653 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 | 2025-09-05 |  |
 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-18 | 2023-06-21 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-10-20 | 2025-09-06 |
+| [Merlot](https://open.spotify.com/track/0ZU4i08whFwyU3N84TZqFv) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [STVN](https://open.spotify.com/artist/68RZFsJF2BEa9tva4Ll0uE) | [Merlot](https://open.spotify.com/album/6KphorluMyxNdcJPYD0Ld8) | 2:45 | 2026-02-19 |  |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-05-18 | 2023-09-02 |
 | [Midsummer Mansion](https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [the gates](https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu) | 4:22 | 2026-01-29 |  |
 | [Million Billion Trillion](https://open.spotify.com/track/5Mj2za2W4PZ3NDN3d1NYdR) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Million Billion Trillion](https://open.spotify.com/album/4KLGFwlKcIoBiJDGNxPwh1) | 2:35 | 2024-07-12 | 2025-07-31 |
@@ -595,7 +596,7 @@
 | [デザイナーズマンション](https://open.spotify.com/track/0f6tHt4AjDkpbLHS3lnu1a) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [SUKIMASWITCH 20th Anniversary Tribute Album『みんなのスキマスイッチ』](https://open.spotify.com/album/5sVfcsT0j9S6Um1TG2PQKw) | 2:22 | 2024-05-30 | 2024-07-13 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-21 |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 | 2024-01-10 |
-| [ネイルの島](https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9) | 3:41 | 2025-09-29 |  |
+| [ネイルの島](https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9) | 3:41 | 2025-09-29 | 2026-02-25 |
 | [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 | 2023-11-01 |
 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 | 2025-09-05 |  |
 | [ハローソング](https://open.spotify.com/track/07FLYYBSqru9qs5hFlMa2N) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [ハローソング](https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9) | 2:56 | 2023-07-20 | 2023-08-02 |

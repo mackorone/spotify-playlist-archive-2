@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,139 songs - 2 day 14 hr 35 min
+1,140 songs - 2 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [Honestly](https://open.spotify.com/track/7uW2sLxLjNgQJHa71LGVGr) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/3VJ491AjnQygF0lcuiRD5D) | 3:26 | 2021-11-17 | 2022-07-27 |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-04-18 | 2026-01-03 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-06-09 |  |
-| [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-18 |  |
+| [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-18 | 2026-02-25 |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2023-11-04 |  |
 | [How It’s Done](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:56 | 2025-07-04 |  |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-21 | 2025-12-10 |
@@ -803,6 +803,7 @@
 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 | 2021-11-17 | 2023-03-11 |
 | [REAL YOU](https://open.spotify.com/track/3ax3sc1Rn99YbjyKT0HALS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2021-11-17 | 2022-04-20 |
 | [REALLY \- KR Ver.](https://open.spotify.com/track/7AWtaOSb7cgi16wJr3mkuf) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/4l87mak80qeOiZwXM5bRuM) | 3:17 | 2021-11-17 | 2022-07-27 |
+| [Really Like You](https://open.spotify.com/track/3entdIWiOuQfcXIkJEABsV) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:17 | 2026-02-20 |  |
 | [REALLY REALLY](https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:23 | 2021-11-17 | 2022-07-28 |
 | [REALLY REALLY](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:23 | 2022-07-08 | 2024-04-19 |
 | [REALLY REALLY \- KR ver.](https://open.spotify.com/track/4Ve8XzRxQcAMyFWgqITHFk) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/4mvbi1jkr0RaEMA2QucYPv) | 3:23 | 2021-11-17 | 2022-07-29 |

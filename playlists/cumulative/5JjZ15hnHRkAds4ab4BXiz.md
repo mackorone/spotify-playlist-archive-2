@@ -4,7 +4,7 @@
 
 > 
 
-721 songs - 1 day 21 hr 12 min
+722 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Simple Pages](https://open.spotify.com/track/0oTeJt9aDvLv5lNt1ZnMxr) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:56 | 2024-03-10 |  |
 | [Sitting on a Fence](https://open.spotify.com/track/4rerj81rIsfASQYH7rtLcB) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [London 0 Hull 4](https://open.spotify.com/album/4BNELxLJPRYIEOiYGPAET9) | 2:57 | 2024-04-07 |  |
 | [Skeleton](https://open.spotify.com/track/147fFC2gtiRMw9KMmhxVgP) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Little Thoughts \- EP](https://open.spotify.com/album/4rdldUL6CaQB4mXVqyA32i) | 3:16 | 2025-12-14 |  |
+| [Skrting On The Surface](https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:31 | 2026-02-24 |  |
 | [Slave](https://open.spotify.com/track/2puGRTU4wKLn6sPF5eUzmR) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:53 | 2024-04-10 | 2024-04-22 |
 | [Slob](https://open.spotify.com/track/5dK5UBnOnmdf68I7qinfD9) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 3:08 | 2024-04-09 |  |
 | [Smile](https://open.spotify.com/track/3dYi32XQ9mVplNKDcWp59K) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:38 | 2024-03-10 |  |

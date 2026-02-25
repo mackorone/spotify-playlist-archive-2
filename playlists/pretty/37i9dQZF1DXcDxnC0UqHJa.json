@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 445678,
+  "num_followers": 445643,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "Covers, Vol. 1",
         "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
@@ -803,26 +819,6 @@
       "duration_ms": 206796,
       "name": "The Safety Dance",
       "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Let Down",
-        "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        },
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -847,6 +843,26 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "Let Down",
+        "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        },
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "By Your Side / Landslide",
         "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 266000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1167,30 +1167,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "The Covers",
-        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Tyler Cain",
-          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
-        },
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 196537,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1211,6 +1187,30 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "The Covers",
+        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Tyler Cain",
+          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 196537,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Concrete And Barbed Wire",
         "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 193274,
       "name": "Concrete And Barbed Wire",
       "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+        "name": "i'm not okay",
+        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+      "duration_ms": 174773,
+      "name": "i'm not okay",
+      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1623,18 +1623,34 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "i'm not okay",
-        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 174773,
-      "name": "i'm not okay",
-      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Wednesday (Extended Edition)",
+        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 336222,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1655,22 +1671,6 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Wednesday (Extended Edition)",
-        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 336222,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "Driver 8",
         "url": "https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 215449,
       "name": "Driver 8",
       "url": "https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Look At Miss Ohio",
-        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
         }
       ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
+      "duration_ms": 194251,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8"
     }
   ],
   "unique_name": "Folksy Covers",

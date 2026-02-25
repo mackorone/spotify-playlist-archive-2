@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 329353,
+  "num_followers": 329330,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Jogo do Amor",
+        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
+      },
+      "artists": [
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "duration_ms": 144039,
+      "name": "Jogo do Amor",
+      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 277125,
       "name": "Cheia de Manias - Ao Vivo",
       "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Jogo do Amor",
-        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
-      },
-      "artists": [
-        {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
-        }
-      ],
-      "duration_ms": 144039,
-      "name": "Jogo do Amor",
-      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Cobertor de Orelha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 156921,
+      "name": "Cobertor de Orelha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/3TgRfu57g7p1rrmLs6X3Dv"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 179933,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/2cV8V9eV79HWJHD4jNQHqq"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Cobertor de Orelha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 156921,
-      "name": "Cobertor de Orelha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Eu Mere\u00e7o Ser Feliz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0RKJklVj9ftrifuRNwVLaI"
+        "name": "Deixa Eu Te Fazer Feliz",
+        "url": "https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X"
       },
       "artists": [
         {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
         }
       ],
-      "duration_ms": 194090,
-      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1lHJDa7IGCYwjf10VcmvFb"
+      "duration_ms": 161287,
+      "name": "Deixa Eu Te Fazer Feliz",
+      "url": "https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1211,22 +1215,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Deixa Eu Te Fazer Feliz",
-        "url": "https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X"
+        "name": "Eu Mere\u00e7o Ser Feliz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0RKJklVj9ftrifuRNwVLaI"
       },
       "artists": [
         {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
         }
       ],
-      "duration_ms": 161287,
-      "name": "Deixa Eu Te Fazer Feliz",
-      "url": "https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ"
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lHJDa7IGCYwjf10VcmvFb"
     },
     {
       "added_at": "2023-01-17 01:33:36",

@@ -623,6 +623,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 399400,
+      "name": "They Didn't Know",
+      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "Choirmaster",
         "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+        "name": "Trin-i-tee 5:7",
+        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
       },
       "artists": [
         {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
         }
       ],
-      "duration_ms": 399400,
-      "name": "They Didn't Know",
-      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
+      "duration_ms": 308000,
+      "name": "Mary Don't You Weep",
+      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -671,22 +687,6 @@
       "duration_ms": 277533,
       "name": "Blood Medley",
       "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "Trin-i-tee 5:7",
-        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
-      },
-      "artists": [
-        {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Mary Don't You Weep",
-      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "My Tribute",
         "url": "https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 300800,
       "name": "Take Me Back (feat. Kirk Franklin & Kelontae Gavin)",
       "url": "https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2025-04-06 05:34:41",

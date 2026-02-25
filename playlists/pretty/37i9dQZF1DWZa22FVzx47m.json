@@ -1,6 +1,6 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 437527,
+  "num_followers": 437601,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 254240,
       "name": "Antolog\u00eda",
       "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Flores De Alquiler",
         "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 269080,
       "name": "Algo M\u00e1s",
       "url": "https://open.spotify.com/track/3bJBWsVNUJ3hOIO6lQUKCj"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -867,8 +867,8 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -947,8 +947,8 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
         }
       ],
-      "duration_ms": 402133,
-      "name": "Historia de Taxi",
-      "url": "https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5"
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
       "artists": [
         {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
+      "duration_ms": 402133,
+      "name": "Historia de Taxi",
+      "url": "https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+      "duration_ms": 213573,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1351,6 +1335,22 @@
       "duration_ms": 210186,
       "name": "A Puro Dolor - Balada",
       "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
     },
     {
       "added_at": "2025-10-25 02:09:46",

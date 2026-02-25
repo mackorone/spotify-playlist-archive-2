@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,100 songs - 9 day 2 hr 4 min
+4,101 songs - 9 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1853,6 +1853,7 @@
 | [It's Not Easy](https://open.spotify.com/track/5cXsZsmfnvCZrOBho1ADw0) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [It's Not Easy](https://open.spotify.com/album/7v6wg5ij0ZXY569zI2rJed) | 2:32 | 2025-07-26 |  |
 | [It's Not Funny](https://open.spotify.com/track/1a4efIOC48Bfu4jS58xt4b) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [It's Not Funny](https://open.spotify.com/album/2C0ZOwDRgWKv7jFCRIJeSt) | 3:45 | 2025-04-30 |  |
 | [it's only time](https://open.spotify.com/track/5cElRmTggpOvFoPS3vFb8d) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 4:38 | 2025-09-15 |  |
+| [It's You](https://open.spotify.com/track/6PTEYjeE9e1jXbBHKZeYdH) | [Umang Mehta](https://open.spotify.com/artist/1zKJLTBdEXNsdHiIAH6Th2) | [It's You](https://open.spotify.com/album/3kbxJm5NAgNQAw3a6GVXpk) | 3:55 | 2026-02-24 |  |
 | [its only time \- 2023 Remastered Version](https://open.spotify.com/track/6kXRQNQtRR7Uqjs0N7DJI5) | [yogyety](https://open.spotify.com/artist/7FBPTQ69WVgYB0T9PbhO4z) | [found the lost sound \(2023 Remastered Version\)](https://open.spotify.com/album/3IMW0NXkqYoSy2UHOYy0Ta) | 4:38 | 2026-02-01 |  |
 | [I’m a weirdo](https://open.spotify.com/track/0fVd4sOBk7H7reZgH7NNpY) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [I’m a weirdo](https://open.spotify.com/album/5ZpGS7wY5tYvHVF2e304MJ) | 4:55 | 2025-12-15 |  |
 | [J Love](https://open.spotify.com/track/4lt94VXCQxaRureDYrXIac) | [2dipicche](https://open.spotify.com/artist/3tT2cUXPIsX2EEpbA783Js), [XXIII](https://open.spotify.com/artist/5MwBCwneq4hlNDaABQeO0i) | [J Love](https://open.spotify.com/album/5Diffw2WYL7jXVmi9J2Rqv) | 2:58 | 2025-02-05 |  |

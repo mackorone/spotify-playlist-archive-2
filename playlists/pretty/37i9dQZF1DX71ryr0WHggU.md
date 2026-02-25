@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71ryr0WHggU.md) - [plain]
 
 > Let's go out out 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,679 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,687 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71ryr0WHggU.md) - [plain]
 | 52 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |
 | 53 | [Dance The Night](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:56 |
 | 54 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
-| 55 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
-| 56 | [Praise You](https://open.spotify.com/track/1FS21kclHQ2vVi3U1ZxETc) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN) | 5:24 |
+| 55 | [Praise You](https://open.spotify.com/track/1FS21kclHQ2vVi3U1ZxETc) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN) | 5:24 |
+| 56 | [212](https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 3:24 |
 | 57 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
-| 58 | [212](https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 3:24 |
+| 58 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 59 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 60 | [Untouched](https://open.spotify.com/track/40bm28QcJT5My540ymSQ2y) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 4:15 |
 | 61 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 |

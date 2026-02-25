@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,819 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,820 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 28 | [Balancê](https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:08 |
 | 29 | [Meia Lua Inteira](https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Minha Historia](https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR) | 3:42 |
 | 30 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
-| 31 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
-| 32 | [Clareiamô](https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Anavitória Canta Para Foliões De Bloco, Foliões De Avenida E Não Foliões Também](https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi) | 3:46 |
+| 31 | [Clareiamô](https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Anavitória Canta Para Foliões De Bloco, Foliões De Avenida E Não Foliões Também](https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi) | 3:46 |
+| 32 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
 | 33 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
 | 34 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 |
 | 35 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |

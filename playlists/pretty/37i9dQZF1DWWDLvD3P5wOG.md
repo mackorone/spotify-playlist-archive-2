@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,251 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,398 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 5 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |
 | 6 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 7 | [No Games](https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF) | [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [No Games](https://open.spotify.com/album/4cmmzdFqEHTqH13hKRuGJK) | 3:08 |
-| 8 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
-| 9 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
+| 8 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
+| 9 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
 | 10 | [Pon de Replay](https://open.spotify.com/track/3U3Ff8ZvL6oEu1r98gCCWW) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 4:06 |
 | 11 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
-| 12 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
+| 12 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:34 |
 | 13 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 |
 | 14 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
 | 15 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 58 | [Gyal You A Party Animal \- Remix](https://open.spotify.com/track/0Rj2yNpEvXOl8yn9UOuIRs) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Gyal You A Party Animal \(Remix\)](https://open.spotify.com/album/5z2c6YpV0jFcPCsvUN2h6J) | 3:44 |
 | 59 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 |
 | 60 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
-| 61 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 |
-| 62 | [Dude](https://open.spotify.com/track/5XWjx5tHMsOI7BZh8wjeSu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [From Kingston To King Of The Dancehall: A Collection Of Dancehall Favorites](https://open.spotify.com/album/3DFVychHEHSGoVtzuFP2cQ) | 4:14 |
+| 61 | [Dude](https://open.spotify.com/track/5XWjx5tHMsOI7BZh8wjeSu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [From Kingston To King Of The Dancehall: A Collection Of Dancehall Favorites](https://open.spotify.com/album/3DFVychHEHSGoVtzuFP2cQ) | 4:14 |
+| 62 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 |
 | 63 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
 | 64 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
 | 65 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |

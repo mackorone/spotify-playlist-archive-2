@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,352 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,398 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 43 | [El Jefe De La Sierra](https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Árbol](https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT) | 3:38 |
 | 44 | [La Gran Noche](https://open.spotify.com/track/1A1J6knUAtu0FgY1GeqyfU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 3:11 |
 | 45 | [El Virus Del Amor](https://open.spotify.com/track/3YWK9RTqPBfAvI2Xjk9wrU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Virus Del Amor](https://open.spotify.com/album/0zPdPmQSaEvZQt4PvllaJB) | 3:29 |
-| 46 | [El Regreso Del Chapo](https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:11 |
-| 47 | [El Heredero](https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Los Mas Buscados](https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh) | 3:26 |
+| 46 | [El Heredero](https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Los Mas Buscados](https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh) | 3:26 |
+| 47 | [El Regreso Del Chapo](https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:11 |
 | 48 | [Secuestro De Amor \(En Vivo\)](https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 3:42 |
 | 49 | [El Chavo](https://open.spotify.com/track/1j8X26U42cDQpxcjCk8IiI) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time Season Two "Los Implacables"](https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh) | 3:41 |
 | 50 | [La Ley 57](https://open.spotify.com/track/3wxad5m0PZVNpVFxV0XzGD) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:01 |
 
-Snapshot ID: `aZpHAAAAAACZGku8ZDrtcQXFetCZeL30`
+Snapshot ID: `aZuYgAAAAABQ4CGoowldfct0HXo1SqnW`

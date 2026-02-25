@@ -1,13 +1,29 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Showing Teeth",
-  "num_followers": 31558,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: DIESECT",
+  "num_followers": 31587,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHsyns+40mJsMT5PiCmKUZI/GvAM",
+  "snapshot_id": "AAAAAKZ/5EihwQSftmRIP5ZEwKfuZbY2",
   "tracks": [
+    {
+      "added_at": "2026-02-25 00:00:07",
+      "album": {
+        "name": "HIDE FROM THE LIGHT",
+        "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
+      },
+      "artists": [
+        {
+          "name": "DIESECT",
+          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+        }
+      ],
+      "duration_ms": 198924,
+      "name": "NO HOME LEFT TO FIND",
+      "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
+    },
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 192966,
       "name": "Rip",
       "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
+    },
+    {
+      "added_at": "2026-02-25 00:00:07",
+      "album": {
+        "name": "Anywhere But Here",
+        "url": "https://open.spotify.com/album/5fixRDMNxDv5L58J8jhEpG"
+      },
+      "artists": [
+        {
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
+        }
+      ],
+      "duration_ms": 200558,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
     },
     {
+      "added_at": "2026-02-25 00:00:07",
+      "album": {
+        "name": "Exposition",
+        "url": "https://open.spotify.com/album/2H2qC5WCSzfq3coCjCJCjM"
+      },
+      "artists": [
+        {
+          "name": "Foreword",
+          "url": "https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY"
+        }
+      ],
+      "duration_ms": 182984,
+      "name": "Self-Immolate",
+      "url": "https://open.spotify.com/track/2wrtiKxQ8Q4aazZwlecWWl"
+    },
+    {
       "added_at": "2026-02-18 05:00:29",
       "album": {
         "name": "thorns",
@@ -55,6 +103,38 @@
       "duration_ms": 151285,
       "name": "thorns",
       "url": "https://open.spotify.com/track/6UxGXtVucF6wYINmQLnolY"
+    },
+    {
+      "added_at": "2026-02-25 00:00:07",
+      "album": {
+        "name": "A League of Their Own",
+        "url": "https://open.spotify.com/album/3FUDl4SDj4EEAK6KDnquj7"
+      },
+      "artists": [
+        {
+          "name": "SELF CHECKOUT",
+          "url": "https://open.spotify.com/artist/5MowzXawPPjyDDZpswcbZj"
+        }
+      ],
+      "duration_ms": 198636,
+      "name": "A League of Their Own",
+      "url": "https://open.spotify.com/track/1FDNd4ufOs34fvRVkNqIz0"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Death Crown",
+        "url": "https://open.spotify.com/album/3fHUzfvi2IcilNWF8EJrK1"
+      },
+      "artists": [
+        {
+          "name": "Sun Eater",
+          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Death Crown",
+      "url": "https://open.spotify.com/track/1l3aAtHncaAiSlf9XixDqn"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -75,18 +155,18 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Death Crown",
-        "url": "https://open.spotify.com/album/3fHUzfvi2IcilNWF8EJrK1"
+        "name": "poison",
+        "url": "https://open.spotify.com/album/2XMim5dAsDEPseFWvin9q8"
       },
       "artists": [
         {
-          "name": "Sun Eater",
-          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+          "name": "Houses We Die In",
+          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
         }
       ],
-      "duration_ms": 215013,
-      "name": "Death Crown",
-      "url": "https://open.spotify.com/track/1l3aAtHncaAiSlf9XixDqn"
+      "duration_ms": 245451,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -123,42 +203,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Dying Son",
-        "url": "https://open.spotify.com/album/14e7Th4blXvtD9WULa3UbA"
-      },
-      "artists": [
-        {
-          "name": "Odd Palace",
-          "url": "https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV"
-        },
-        {
-          "name": "vianova",
-          "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Dying Son",
-      "url": "https://open.spotify.com/track/0PrFpMByl3SoBNx8GwgGDz"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "poison",
-        "url": "https://open.spotify.com/album/2XMim5dAsDEPseFWvin9q8"
-      },
-      "artists": [
-        {
-          "name": "Houses We Die In",
-          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
-        }
-      ],
-      "duration_ms": 245451,
-      "name": "poison",
-      "url": "https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "Mental",
         "url": "https://open.spotify.com/album/0oBFhSHSZFgZ2tuEHEGVIs"
       },
@@ -171,22 +215,6 @@
       "duration_ms": 249639,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "SUPERSONIC",
-        "url": "https://open.spotify.com/album/10jecRuNiflwS8xc8kWLb7"
-      },
-      "artists": [
-        {
-          "name": "SOULSLEEP",
-          "url": "https://open.spotify.com/artist/3Sq9MmzOatcbubUEwnmX54"
-        }
-      ],
-      "duration_ms": 191801,
-      "name": "SUPERSONIC",
-      "url": "https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -221,36 +249,60 @@
       "url": "https://open.spotify.com/track/6Jix6cYFQwVtxsq2Z689sJ"
     },
     {
-      "added_at": "2026-02-11 05:00:09",
+      "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E"
+        "name": "SUPERSONIC",
+        "url": "https://open.spotify.com/album/10jecRuNiflwS8xc8kWLb7"
       },
       "artists": [
         {
-          "name": "Artifact",
-          "url": "https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv"
+          "name": "SOULSLEEP",
+          "url": "https://open.spotify.com/artist/3Sq9MmzOatcbubUEwnmX54"
         }
       ],
-      "duration_ms": 269564,
-      "name": "Atrophy",
-      "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
+      "duration_ms": 191801,
+      "name": "SUPERSONIC",
+      "url": "https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC"
     },
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "WEAPONEYES",
-        "url": "https://open.spotify.com/album/4FIyjLdvXLo4a6JXQEo8rj"
+        "name": "Dying Son",
+        "url": "https://open.spotify.com/album/14e7Th4blXvtD9WULa3UbA"
       },
       "artists": [
         {
-          "name": "ORCA",
-          "url": "https://open.spotify.com/artist/4mPA9pn28vkxnG3ASVbLt4"
+          "name": "Odd Palace",
+          "url": "https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV"
+        },
+        {
+          "name": "vianova",
+          "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
         }
       ],
-      "duration_ms": 203294,
-      "name": "WEAPONEYES",
-      "url": "https://open.spotify.com/track/2rmehG4gb9ISOf8wSFItLE"
+      "duration_ms": 254722,
+      "name": "Dying Son",
+      "url": "https://open.spotify.com/track/0PrFpMByl3SoBNx8GwgGDz"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Lilith & Esther",
+        "url": "https://open.spotify.com/album/0bx1k8st8W0DLLJBsCo9jB"
+      },
+      "artists": [
+        {
+          "name": "Mallavora",
+          "url": "https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY"
+        },
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Lilith & Esther",
+      "url": "https://open.spotify.com/track/47AOYMwSZIIn3CTKbHvMYf"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -271,18 +323,18 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/1ofi80yL10ySLhxCzEcCqH"
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E"
       },
       "artists": [
         {
-          "name": "Out Of Vision",
-          "url": "https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58"
+          "name": "Artifact",
+          "url": "https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/1pRVJFsmMQfr4ihhJESXZE"
+      "duration_ms": 269564,
+      "name": "Atrophy",
+      "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -307,6 +359,102 @@
       "duration_ms": 183121,
       "name": "MUTE WITNESS",
       "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "WEAPONEYES",
+        "url": "https://open.spotify.com/album/4FIyjLdvXLo4a6JXQEo8rj"
+      },
+      "artists": [
+        {
+          "name": "ORCA",
+          "url": "https://open.spotify.com/artist/4mPA9pn28vkxnG3ASVbLt4"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "WEAPONEYES",
+      "url": "https://open.spotify.com/track/2rmehG4gb9ISOf8wSFItLE"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Modern Affliction",
+        "url": "https://open.spotify.com/album/2SzITScMtl2XUHpRj5vQah"
+      },
+      "artists": [
+        {
+          "name": "Cut Short",
+          "url": "https://open.spotify.com/artist/5Xgr1ntsFfSigqgpcoqRnn"
+        }
+      ],
+      "duration_ms": 296157,
+      "name": "Modern Affliction",
+      "url": "https://open.spotify.com/track/0FgDM9IMI0vk0sAGk5Ztqx"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Emulator",
+        "url": "https://open.spotify.com/album/3RnESC1wExGVmLXWAkjdem"
+      },
+      "artists": [
+        {
+          "name": "Flatwounds",
+          "url": "https://open.spotify.com/artist/6AK2oY9yLixWsafASkLKtz"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Emulator",
+      "url": "https://open.spotify.com/track/684SXwWxyTuXI6tV2MdU7A"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/00JpGF76Xlf0tqecm15eUq"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/0o1BStfHxwG0Hg4ohbWMB5"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Bygones",
+        "url": "https://open.spotify.com/album/43obAFCaeoql2ZCpJtmpys"
+      },
+      "artists": [
+        {
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
+        }
+      ],
+      "duration_ms": 257464,
+      "name": "Bygones",
+      "url": "https://open.spotify.com/track/0vrR41iXxyHgCOG47yFKuC"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/1ofi80yL10ySLhxCzEcCqH"
+      },
+      "artists": [
+        {
+          "name": "Out Of Vision",
+          "url": "https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/1pRVJFsmMQfr4ihhJESXZE"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -343,22 +491,42 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Lilith & Esther",
-        "url": "https://open.spotify.com/album/0bx1k8st8W0DLLJBsCo9jB"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0Qo83xvu8gFUB0Jwq3eaYd"
       },
       "artists": [
         {
-          "name": "Mallavora",
-          "url": "https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY"
-        },
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+          "name": "Vilamoura",
+          "url": "https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH"
         }
       ],
-      "duration_ms": 192714,
-      "name": "Lilith & Esther",
-      "url": "https://open.spotify.com/track/47AOYMwSZIIn3CTKbHvMYf"
+      "duration_ms": 233472,
+      "name": "Spirited Away",
+      "url": "https://open.spotify.com/track/3LgP0r3cK0XHSE4zogKtHu"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "DEAD STARS",
+        "url": "https://open.spotify.com/album/6tPBPuLXzLGuS1V1UPOCoO"
+      },
+      "artists": [
+        {
+          "name": "Cloudsight",
+          "url": "https://open.spotify.com/artist/1KolhhZm1SOVLBxFDT56bx"
+        },
+        {
+          "name": "ADAM ON EARTH",
+          "url": "https://open.spotify.com/artist/4M3WL2gwGr5CeUGdklBGZa"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 216518,
+      "name": "DEAD STARS",
+      "url": "https://open.spotify.com/track/4uUczhrvo33iG48n4iGmDA"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -375,22 +543,6 @@
       "duration_ms": 119529,
       "name": "Tower 7",
       "url": "https://open.spotify.com/track/2meQdN9hseaGfjmsRtsVoy"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Modern Affliction",
-        "url": "https://open.spotify.com/album/2SzITScMtl2XUHpRj5vQah"
-      },
-      "artists": [
-        {
-          "name": "Cut Short",
-          "url": "https://open.spotify.com/artist/5Xgr1ntsFfSigqgpcoqRnn"
-        }
-      ],
-      "duration_ms": 296157,
-      "name": "Modern Affliction",
-      "url": "https://open.spotify.com/track/0FgDM9IMI0vk0sAGk5Ztqx"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -447,22 +599,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Emulator",
-        "url": "https://open.spotify.com/album/3RnESC1wExGVmLXWAkjdem"
-      },
-      "artists": [
-        {
-          "name": "Flatwounds",
-          "url": "https://open.spotify.com/artist/6AK2oY9yLixWsafASkLKtz"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Emulator",
-      "url": "https://open.spotify.com/track/684SXwWxyTuXI6tV2MdU7A"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "A Place For Those Who Suffer, Alone",
         "url": "https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd"
       },
@@ -495,22 +631,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Erased",
-        "url": "https://open.spotify.com/album/00JpGF76Xlf0tqecm15eUq"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Erased",
-      "url": "https://open.spotify.com/track/0o1BStfHxwG0Hg4ohbWMB5"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "The Weapon Pt. II",
         "url": "https://open.spotify.com/album/77O2A0v7aanzerQ0fsyrbQ"
       },
@@ -523,22 +643,6 @@
       "duration_ms": 197853,
       "name": "The Weapon Pt. II",
       "url": "https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Bygones",
-        "url": "https://open.spotify.com/album/43obAFCaeoql2ZCpJtmpys"
-      },
-      "artists": [
-        {
-          "name": "Night Rider",
-          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
-        }
-      ],
-      "duration_ms": 257464,
-      "name": "Bygones",
-      "url": "https://open.spotify.com/track/0vrR41iXxyHgCOG47yFKuC"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -579,22 +683,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0Qo83xvu8gFUB0Jwq3eaYd"
-      },
-      "artists": [
-        {
-          "name": "Vilamoura",
-          "url": "https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH"
-        }
-      ],
-      "duration_ms": 233472,
-      "name": "Spirited Away",
-      "url": "https://open.spotify.com/track/3LgP0r3cK0XHSE4zogKtHu"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "She's Had Enough",
         "url": "https://open.spotify.com/album/26bxp91QjlP4zrZnGyZ47G"
       },
@@ -607,22 +695,6 @@
       "duration_ms": 289706,
       "name": "She's Had Enough",
       "url": "https://open.spotify.com/track/7ADbNNzzIBZupfq5KYYjiF"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "ENJOY THA SHOW",
-        "url": "https://open.spotify.com/album/0jHerjMBxVqINqU7HW7s9G"
-      },
-      "artists": [
-        {
-          "name": "UnityTX",
-          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "ENJOY THA SHOW",
-      "url": "https://open.spotify.com/track/1Booi5UCbqmAT90XYqBvlq"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -767,78 +839,6 @@
       "duration_ms": 493320,
       "name": "No Such Place",
       "url": "https://open.spotify.com/track/7Md9eysoLuV8EwOUF4RcAR"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "YOU LIE (Extended Truth)",
-        "url": "https://open.spotify.com/album/0T561pdQQwBFM2Xo5EWRnA"
-      },
-      "artists": [
-        {
-          "name": "GAI \u8344",
-          "url": "https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org"
-        }
-      ],
-      "duration_ms": 183882,
-      "name": "LADDER CLIMBER",
-      "url": "https://open.spotify.com/track/0THbi4xIW7C6NsJAcENapE"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Offensive Defence (Redux)",
-        "url": "https://open.spotify.com/album/3obGLUDxyR4TP93rSdskIs"
-      },
-      "artists": [
-        {
-          "name": "Die Gemeente",
-          "url": "https://open.spotify.com/artist/2hPR6DfqgSUDhpVjjdc5RA"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "Offensive Defence - Redux",
-      "url": "https://open.spotify.com/track/5K9F3JTUvFC7T3cwapSj3T"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "FRACTURED",
-        "url": "https://open.spotify.com/album/2pz6hJvFV9KuFXTZHoeLT0"
-      },
-      "artists": [
-        {
-          "name": "HATE COMPLEX",
-          "url": "https://open.spotify.com/artist/3SIYNloSpWWpXF4mFKyrhe"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "FRACTURED",
-      "url": "https://open.spotify.com/track/4MCCpfDaNdyzaLrTh9pXxY"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "DEAD STARS",
-        "url": "https://open.spotify.com/album/6tPBPuLXzLGuS1V1UPOCoO"
-      },
-      "artists": [
-        {
-          "name": "Cloudsight",
-          "url": "https://open.spotify.com/artist/1KolhhZm1SOVLBxFDT56bx"
-        },
-        {
-          "name": "ADAM ON EARTH",
-          "url": "https://open.spotify.com/artist/4M3WL2gwGr5CeUGdklBGZa"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 216518,
-      "name": "DEAD STARS",
-      "url": "https://open.spotify.com/track/4uUczhrvo33iG48n4iGmDA"
     }
   ],
   "unique_name": "Fresh Finds Heavy",

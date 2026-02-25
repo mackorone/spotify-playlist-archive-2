@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 101101,
+  "num_followers": 101170,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd"
     },
     {
+      "added_at": "2024-02-12 05:31:53",
+      "album": {
+        "name": "Happy Days",
+        "url": "https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "O My Friend",
+      "url": "https://open.spotify.com/track/2dM6gB1xw3afy3iovxFcfk"
+    },
+    {
       "added_at": "2024-11-19 12:29:42",
       "album": {
         "name": "Pranam Kanna (Female Version) [From \"Love Reddy\"]",
@@ -471,22 +487,6 @@
       "duration_ms": 166115,
       "name": "Pranam Kanna (Female Version) [From \"Love Reddy\"]",
       "url": "https://open.spotify.com/track/5z9S8CqOtorQRdqygHemDn"
-    },
-    {
-      "added_at": "2024-02-12 05:31:53",
-      "album": {
-        "name": "Happy Days",
-        "url": "https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "O My Friend",
-      "url": "https://open.spotify.com/track/2dM6gB1xw3afy3iovxFcfk"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -953,6 +953,26 @@
       "url": "https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u"
     },
     {
+      "added_at": "2026-02-20 08:00:30",
+      "album": {
+        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 244010,
+      "name": "Nee Kanti Lo Na - From \"Hey Balwanth\"",
+      "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
+    },
+    {
       "added_at": "2022-09-02 08:32:31",
       "album": {
         "name": "Nuvvu Nenu Prema",
@@ -971,30 +991,6 @@
       "duration_ms": 354368,
       "name": "Preminche Premava",
       "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Gentleman",
-        "url": "https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Padmalatha",
-          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
-        },
-        {
-          "name": "Malavika (U.S)",
-          "url": "https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC"
-        }
-      ],
-      "duration_ms": 267571,
-      "name": "Chali Gaali Chuudduu",
-      "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
     }
   ],
   "unique_name": "Mellow Telugu",

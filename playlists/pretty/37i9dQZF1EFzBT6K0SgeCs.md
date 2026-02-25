@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,660 likes - 139 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,661 likes - 139 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 64 | [I Lost a Friend](https://open.spotify.com/track/3XwTKOAP8Syq2GAcKBCAmN) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:57 |
 | 65 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 66 | [GOLDWING](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:31 |
-| 67 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 |
-| 68 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 |
+| 67 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 |
+| 68 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 |
 | 69 | [Everybody Dies](https://open.spotify.com/track/5jhBwnqzNNrENXnYrAdoCe) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:26 |
 | 70 | [Not My Responsibility](https://open.spotify.com/track/4T2zre0jqstNJ5Gt0WG9lz) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:47 |
 | 71 | [OverHeated](https://open.spotify.com/track/5uSG6fUPRaehaV820zcpsK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:34 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 92 | [Heaven](https://open.spotify.com/track/5rUfUCTCWPWOWkx5zN081i) | [jsthebg](https://open.spotify.com/artist/5ONZgilB1BdnWtMfDITKSD) | [Heaven](https://open.spotify.com/album/6SpOIcNPfOeTAkvmE2JQNB) | 3:42 |
 | 93 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 |
 | 94 | [The Kids Are All Dying](https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:47 |
-| 95 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
-| 96 | [Lotus Eater](https://open.spotify.com/track/2E1C3NlPA0AfmiFJE4MTXT) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:51 |
+| 95 | [Lotus Eater](https://open.spotify.com/track/2E1C3NlPA0AfmiFJE4MTXT) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:51 |
+| 96 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
 | 97 | [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 |
 | 98 | [i still say goodnight](https://open.spotify.com/track/2RwpoqhsYOZSGsF69KqjwP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:08 |
 | 99 | [I'm In Love Without You](https://open.spotify.com/track/5AXItJqlvPuIZCrlkb6FrE) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [I'm In Love Without You](https://open.spotify.com/album/0WzLYRTY30yBDVS74QtRg4) | 3:21 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 138 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 | 139 | [Where the Poison Is \(16\-Bit FINNEAS Emulation\)](https://open.spotify.com/track/0SjugAYwjDRwSTVLcJpTtE) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [The Impossible Game Soundtrack, Vol\. 50](https://open.spotify.com/album/7JwSu9PDWyIejIoFanQSJu) | 3:09 |
 
-Snapshot ID: `AcKeKgAAAADvjYJNnsfaMZS03jRoJka6`
+Snapshot ID: `AcKjygAAAADr7lq0KqfAret8rj4CQTkh`

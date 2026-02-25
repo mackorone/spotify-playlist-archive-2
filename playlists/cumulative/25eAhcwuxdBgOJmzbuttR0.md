@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-421 songs - 1 day 4 hr 53 min
+422 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 | 2025-07-16 |  |
 | [Redlined](https://open.spotify.com/track/6syVm5S71Wj7IrqcupFidR) | [erikas invitation](https://open.spotify.com/artist/395gAKwrv9y7cwSOIcWDXk) | [Redlined](https://open.spotify.com/album/2BJeApv4NiZ4SfSvzlkVGT) | 4:53 | 2025-09-27 |  |
 | [Revenga](https://open.spotify.com/track/577mOFb1LAvSANIUZ4mbQ7) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 3:48 | 2023-03-28 |  |
+| [Revolt](https://open.spotify.com/track/5lUK1RAl9eVGxIgyAxWrEK) | [Wild Fire](https://open.spotify.com/artist/1w7LG2iZbPYsrPwINoRV3E) | [Revolt](https://open.spotify.com/album/06kio3GTv2iQAsZq68MC4x) | 4:56 | 2026-02-24 |  |
 | [Rickets](https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 2:42 | 2023-06-27 |  |
 | [Ride The Lightning \(Remastered\)](https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:36 | 2023-03-28 |  |
 | [Ride The Wave](https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:53 | 2025-03-25 |  |

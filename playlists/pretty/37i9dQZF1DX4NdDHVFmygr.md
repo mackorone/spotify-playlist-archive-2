@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,332 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,475 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 |
-| 2 | [Lalla Mennana](https://open.spotify.com/track/74rFUc4KZDPKrtD5YG2G4Q) | [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [Lalla Mennana](https://open.spotify.com/album/7uJvaQeSr6MSx4fZ1p2W7k) | 2:25 |
-| 3 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 4 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
-| 5 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
+| 2 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
+| 3 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
+| 4 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
+| 5 | [Lalla Mennana](https://open.spotify.com/track/74rFUc4KZDPKrtD5YG2G4Q) | [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [Lalla Mennana](https://open.spotify.com/album/7uJvaQeSr6MSx4fZ1p2W7k) | 2:25 |
 | 6 | [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 |
 | 7 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
 | 8 | [Blati](https://open.spotify.com/track/4l58OohLgIY6vMAABsjG1t) | [NovaQueen](https://open.spotify.com/artist/6YYhmFoGalGnK51QReSoVE) | [Blati](https://open.spotify.com/album/2k14r77YeNBGF00ZzgH2BK) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
 | 50 | [Chkoun Ntiya](https://open.spotify.com/track/6xH01d8YetZfuRCSlPCymQ) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [Chkoun Ntiya](https://open.spotify.com/album/0i2NCxG20ngXCFWdEqso6n) | 3:37 |
 
-Snapshot ID: `AAAAAC3Yq5pmr+tsYjWkF/T2NcAUWm2n`
+Snapshot ID: `AAAAAKLkle9dGub6Pz5s8IX8Ric6SIEN`

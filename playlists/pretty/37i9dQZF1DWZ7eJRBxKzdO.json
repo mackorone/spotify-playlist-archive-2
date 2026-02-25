@@ -1,6 +1,6 @@
 {
   "description": "the summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 1884229,
+  "num_followers": 1884071,
   "original_name": "Summer Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
         "name": "Edge of Desire",
         "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -387,30 +387,6 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
-        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
-        },
-        {
-          "name": "Bobby Harvey",
-          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
-        }
-      ],
-      "duration_ms": 120578,
-      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
         "name": "Think About Us",
         "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        }
+      ],
+      "duration_ms": 120578,
+      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 221448,
-      "name": "Dirty Cash (Money Talks)",
-      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "duration_ms": 221448,
+      "name": "Dirty Cash (Money Talks)",
+      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -675,6 +675,26 @@
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -763,26 +783,6 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
-        "name": "Just The Way You Are",
-        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -951,18 +967,22 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+        "name": "Pool (Gravagerz Version)",
+        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        },
+        {
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
         }
       ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+      "duration_ms": 125178,
+      "name": "Pool - Gravagerz Version",
+      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -987,26 +1007,6 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
-        "name": "Pool (Gravagerz Version)",
-        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        },
-        {
-          "name": "kiki wera",
-          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Pool - Gravagerz Version",
-      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
-        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
-        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
-      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 165714,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
         "name": "A New Day (feat. Celine Dion)",
         "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 159120,
       "name": "Forever",
       "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -1923,46 +1923,6 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
-        "name": "light years (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 220978,
-      "name": "light years (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
-        "name": "Love Songs (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Love Songs (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1987,6 +1947,46 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Love Songs (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Love Songs (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "light years (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 220978,
+      "name": "light years (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
       "added_at": "2026-01-30 05:00:40",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2026-01-30 05:00:40",
       "album": {
-        "name": "Back It Up",
-        "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        }
-      ],
-      "duration_ms": 156398,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
-    },
-    {
-      "added_at": "2026-01-30 05:00:40",
-      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 169534,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 156398,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
     },
     {
       "added_at": "2026-01-30 05:00:40",

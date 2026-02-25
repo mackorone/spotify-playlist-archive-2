@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 
 > Que comience la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,370 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 7 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 8 | [25 Horas](https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [25 Horas](https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr) | 4:07 |
 | 9 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
-| 10 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
-| 11 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
+| 10 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
+| 11 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
 | 12 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 13 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 14 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
-| 15 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
-| 16 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
+| 15 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
+| 16 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 17 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
 | 18 | [OTLP](https://open.spotify.com/track/2I0sc3YbC9UdiWGiQ40AST) | [Yari M](https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf) | [Momentos](https://open.spotify.com/album/05mwN2Yt9c7xo96FkuvjG3) | 2:18 |
 | 19 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 32 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
 | 33 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 |
 | 34 | [Esta Pegao](https://open.spotify.com/track/7f698P4uIhoNM4E3XkgvL3) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 4:44 |
-| 35 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
-| 36 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
+| 35 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
+| 36 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
 | 37 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 |
 | 38 | [La Faldita](https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi y Su Cocoband](https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL) | 3:50 |
 | 39 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |

@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: ITZY\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-515 songs - 1 day 3 hr 44 min
+518 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [BIRTHDAY](https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx) | 3:05 | 2021-11-21 | 2022-07-29 |
 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 | 2022-07-07 | 2022-08-28 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-29 | 2023-06-16 |
+| [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 | 2026-02-25 |  |
 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-18 | 2023-08-26 |
 | [Blossom Flower](https://open.spotify.com/track/7IJdSAtU6GS3AzvvSmvgUs) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Blossom Flower](https://open.spotify.com/album/4CKtim3edPtjSJVbz5SQbF) | 3:47 | 2021-11-21 | 2022-04-21 |
 | [Blue](https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Four Seasons](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) | 3:32 | 2021-11-21 | 2024-06-23 |
@@ -354,7 +355,7 @@
 | [Rain](https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [Rain](https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4) | 3:36 | 2021-11-21 | 2022-07-29 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-11-21 | 2022-03-08 |
 | [Real Love](https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s) | 3:21 | 2022-03-29 | 2022-07-29 |
-| [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-02-03 |  |
+| [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-02-03 | 2026-02-25 |
 | [Recipe](https://open.spotify.com/track/683e2IQpgWP6SKiSWtLujd) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Recipe](https://open.spotify.com/album/75WsF8joEggF8yKaR5dCqV) | 2:50 | 2021-11-21 | 2022-05-08 |
 | [Red Lipstick \(feat\. Yoonmirae\)](https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:07 | 2021-11-21 | 2022-07-29 |
 | [Red Sun \- Remix](https://open.spotify.com/track/7bxYAZcTh7QJ3KpV4vOjte) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 4:15 | 2022-05-31 | 2022-07-24 |
@@ -369,6 +370,7 @@
 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 | 2024-04-19 |
 | [Roomie](https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Roomie](https://open.spotify.com/album/0XIFtmJyxwfYFzTxzq4ILi) | 3:52 | 2021-11-21 | 2022-06-14 |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-11 | 2023-03-29 |
+| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-02-25 |  |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-08-02 |
 | [Run to you](https://open.spotify.com/track/63E8IANcukGDGqHXwhsTiI) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Run to you](https://open.spotify.com/album/66LpaVbTu9g0myP35R123C) | 3:14 | 2022-03-22 | 2022-04-20 |
 | [Run to you](https://open.spotify.com/track/3iB8EwIDGGF7LMIiBqsKip) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [\#10](https://open.spotify.com/album/5PcKDTett30v0zZfO7nF5E) | 4:09 | 2022-03-29 | 2022-04-21 |
@@ -422,7 +424,7 @@
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-02-06 | 2025-04-12 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 |  |
-| [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 |  |
+| [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 | 2026-02-25 |
 | [SWICY](https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-29 | 2025-06-17 |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-02 | 2025-04-04 |
 | [Take My Hand](https://open.spotify.com/track/0T1OJqhF2ihqavFfxbiOO8) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Take My Hand](https://open.spotify.com/album/0bIJnz9JqrGqOKr8DCN6N5) | 3:18 | 2021-11-21 | 2022-07-17 |
@@ -455,7 +457,8 @@
 | [Trip 여행](https://open.spotify.com/track/78iqyVhGvzdGL1WUflBpAl) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Trip 여행](https://open.spotify.com/album/2tjGAzAg63GYTpn73Jyxdi) | 3:47 | 2021-11-21 | 2022-07-24 |
 | [Trouble](https://open.spotify.com/track/6Addtv72IK02MBRDYvOY07) | [Azer](https://open.spotify.com/artist/1PezbflKZup3T95LnAQ0vg) | [Trouble](https://open.spotify.com/album/2azFNJDJLIN8I19woiWfE9) | 3:32 | 2022-07-06 | 2022-07-28 |
 | [Trouble? TRAVEL!](https://open.spotify.com/track/6A3J47xL9B4EFAjQ79YX52) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Trouble? TRAVEL!](https://open.spotify.com/album/07FQYMZJFk9t3jpZ8fDQAA) | 3:53 | 2022-06-20 | 2022-07-28 |
-| [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 |  |
+| [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 | 2026-02-25 |
+| [TUNNEL VISION](https://open.spotify.com/track/7InUGlO9nGHcrirzOcQzzT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1lKcgfG0pvj8fXbLmYgNeo) | 3:05 | 2026-02-25 |  |
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2021-11-21 | 2022-11-13 |
 | [U & ME \- Between you and me \(feat\. Woozys, Seohyun\)](https://open.spotify.com/track/7CP73ItjVwzcxsglLg4chS) | [Lee Huiwon](https://open.spotify.com/artist/6ljBqPNyt9OdGwpE131fUb), [Woozys](https://open.spotify.com/artist/5erC3leT81a1HPi1Qq1DVS), [Seohyun](https://open.spotify.com/artist/27fleokzKuIZuOy672JUVT) | [U & ME \- Between you and me \(feat\. Woozys, Seohyun\)](https://open.spotify.com/album/5Frc02M16SoklchfkSamAD) | 3:30 | 2021-11-21 | 2022-06-10 |
 | [UFO \(ATTENT!ON\)](https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [&Our Vibe](https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF) | 2:39 | 2026-01-14 | 2026-01-28 |

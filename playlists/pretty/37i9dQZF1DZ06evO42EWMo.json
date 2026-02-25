@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1199008,
+  "num_followers": 1199045,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAGqNhwbOSUd6xVhxUQk+qD",
+  "snapshot_id": "aZuYgAAAAABNCHqgQSq+lcMzXWrwxM3M",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 155413,
-      "name": "Love Is A Losing Game",
-      "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
+      "duration_ms": 214946,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw"
+      "duration_ms": 155413,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
     },
     {
       "added_at": null,

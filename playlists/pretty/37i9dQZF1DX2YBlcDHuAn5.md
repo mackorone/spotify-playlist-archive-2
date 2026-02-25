@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,875 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,872 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 25 | [Catch A Rainbow](https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Catch A Rainbow](https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB) | 2:34 |
 | 26 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:59 |
 | 27 | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8) | 3:18 |
-| 28 | [Three O'Clock Blues](https://open.spotify.com/track/39YH9qL3tHtIJLBLXZyMhO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Three O'Clock Blues](https://open.spotify.com/album/1d7909NAqNLO7JvzcDpuOA) | 3:20 |
-| 29 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
+| 28 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
+| 29 | [Three O'Clock Blues](https://open.spotify.com/track/39YH9qL3tHtIJLBLXZyMhO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Three O'Clock Blues](https://open.spotify.com/album/1d7909NAqNLO7JvzcDpuOA) | 3:20 |
 | 30 | [BP Love](https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy) | [Jessica Allossery](https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob), [The Butterfly Room](https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA) | [BP Love](https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2) | 2:06 |
 | 31 | [A Beautiful Life](https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [A Beautiful Life](https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8) | 3:16 |
 | 32 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 |
 | 50 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
 
-Snapshot ID: `AAAAAAPApFvGYMU3V966AzlY6DY49Zrd`
+Snapshot ID: `AAAAAJ5/qyaquOHDw/ZhhLNR2FSgFEQV`

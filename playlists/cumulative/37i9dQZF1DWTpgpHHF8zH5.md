@@ -4,11 +4,11 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata ✨
 
-521 songs - 1 day 3 hr 15 min
+522 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-12-21 |  |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-12-21 | 2026-02-25 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-22 | 2023-07-15 |
 | [2step \(feat\. Ultimo\)](https://open.spotify.com/track/7mxEWcW3A0jULs64ckyq9k) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [2step \(feat\. Ultimo\)](https://open.spotify.com/album/3TDdlYSrE5WuOTiuyr9tTl) | 2:34 | 2022-05-06 | 2022-07-29 |
 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 | 2025-07-15 | 2025-09-05 |
@@ -422,6 +422,7 @@
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-19 | 2022-11-13 |
 | [Spicy Margarita](https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER) | 2:34 | 2024-01-29 | 2024-03-09 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-15 | 2024-02-17 |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-02-24 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2022-05-06 | 2022-10-28 |
 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2022-05-30 | 2024-06-17 |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2024-11-15 |  |

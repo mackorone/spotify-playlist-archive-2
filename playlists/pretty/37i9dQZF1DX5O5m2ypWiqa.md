@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,990,528 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,990,716 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 88 | [Un Rinconcito en el Cielo](https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Homenaje A Ramon Ayala](https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4) | 3:35 |
 | 89 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
 | 90 | [Juanita \(Flor De Walamo\)](https://open.spotify.com/track/242lyf8OjxomhjLpeas75s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:22 |
-| 91 | [El Peor De Tus Antojos \(En Vivo\)](https://open.spotify.com/track/3zBfCSSH3q5P7Kvzn1V8nt) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 3:48 |
-| 92 | [Palabra de Hombre](https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Palabra de Hombre](https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb) | 3:16 |
+| 91 | [Palabra de Hombre](https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Palabra de Hombre](https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb) | 3:16 |
+| 92 | [El Peor De Tus Antojos \(En Vivo\)](https://open.spotify.com/track/3zBfCSSH3q5P7Kvzn1V8nt) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 3:48 |
 | 93 | [Número Equivocado](https://open.spotify.com/track/6ypGxyKu6JsPp5v8QMy4hl) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sólo Contigo \(Deluxe Edition\)](https://open.spotify.com/album/2kIwM1LMZ81j2op2tKsbQM) | 3:23 |
 | 94 | [¿Dónde Estas Presumida?](https://open.spotify.com/track/7ogYqVSJhPbaBWXZG2jo9m) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Pistear, Pistear](https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0) | 3:33 |
 | 95 | [Me equivoqué](https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:25 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 144 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |
 | 145 | [La Cuichi](https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p) | [Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/artist/7sDRPHDNEOmnPgyfYWUITM) | [Me Gusta Todo De Ti](https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO) | 2:00 |
 | 146 | [Broche de Oro](https://open.spotify.com/track/35oKShiPehjQg7y1iTIQ0E) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/0zo3LNmIZJr5BeQujgCB2Y) | 3:36 |
-| 147 | [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 |
-| 148 | [Mi Enemigo El Amor](https://open.spotify.com/track/3YLZE6B8KTT0kYHL3ovVwA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6ZNWvaqKZSS9JLSmkC2Iop) | 3:52 |
-| 149 | [¿Por Qué Terminamos?](https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18) | 3:00 |
+| 147 | [¿Por Qué Terminamos?](https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18) | 3:00 |
+| 148 | [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 |
+| 149 | [Mi Enemigo El Amor](https://open.spotify.com/track/3YLZE6B8KTT0kYHL3ovVwA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6ZNWvaqKZSS9JLSmkC2Iop) | 3:52 |
 | 150 | [Una Noche Mas Contigo](https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Exitos De Mariano Barba](https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp) | 4:10 |
 
 Snapshot ID: `AAAAABWuWZRSMmneZIQPNsiwgXp1QmSd`

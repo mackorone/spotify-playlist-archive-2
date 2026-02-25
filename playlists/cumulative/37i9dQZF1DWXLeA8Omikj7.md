@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,166 songs - 3 day 13 hr 27 min
+1,168 songs - 3 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 | 2022-09-09 | 2024-04-19 |
 | [Dust](https://open.spotify.com/track/79srzZz9HB7l9MJjWlHPvD) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Dust](https://open.spotify.com/album/6RurZxObPerofRLmbWeb1o) | 3:32 | 2020-11-23 | 2022-07-29 |
 | [Eagle 12'](https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [Eagle 12'](https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i) | 2:20 | 2025-02-12 | 2025-05-17 |
+| [Earth Moves \- Hidden Spheres Remix](https://open.spotify.com/track/3srHdKr4OnHfpjOC5jsz1O) | [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W), [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Thresholds \(Remixes\)](https://open.spotify.com/album/6lh2WYmXhiXbur8oH7Bsmg) | 6:34 | 2026-02-13 |  |
 | [Ease Up](https://open.spotify.com/track/0yl3LjwqrGAlkmFMUdBGHa) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Hunger / Ease Up](https://open.spotify.com/album/4mSE14gwpR49d3z1yYLThW) | 2:00 | 2020-10-19 | 2020-10-22 |
 | [EASY PREY \- yeule & Kin Leonn Remix](https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:31 | 2023-03-18 | 2023-06-17 |
 | [Ebb and Flow](https://open.spotify.com/track/74xxZoxsTlQv3wG6woxh4h) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 4:46 | 2019-07-25 | 2020-10-21 |
@@ -333,6 +334,7 @@
 | [Eye Flow Wide](https://open.spotify.com/track/7JryfaXQFOYTw8Z1tMXxyH) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Eye Flow Wide](https://open.spotify.com/album/7KWsdVqUb22QuIkCg7ix6D) | 5:28 | 2021-09-03 | 2022-04-17 |
 | [F/A\-18 \- Christina Vantzou Remix](https://open.spotify.com/track/5CYmmyRuJ8yMVDpndcep6G) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Martina Lussi](https://open.spotify.com/artist/5I7g34E3X0XvTT2WPpHkke) | [F/A\-18](https://open.spotify.com/album/6kS5XBa7gjjKltChuC5v2S) | 4:22 | 2025-02-14 | 2025-08-19 |
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-04-29 | 2025-02-14 |
+| [Faith \(Vox Mix\)](https://open.spotify.com/track/4mD2H5p7Oz8AXP2EiG1OZv) | [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM), [René Löwe](https://open.spotify.com/artist/3aTAuv2BDyKfuO35yYlraf) | [Faith](https://open.spotify.com/album/6SelIi7wqc9TwN44diRhaM) | 8:56 | 2026-02-13 |  |
 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 | 2025-08-28 | 2026-02-14 |
 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 | 2020-10-22 | 2024-05-24 |
 | [Fall Into Oblivion](https://open.spotify.com/track/7eIIV93xHU6odccCn9WU4A) | [Quantec](https://open.spotify.com/artist/1hjNDDzz7GzmceHSWgWdck) | [Cauldron Subsidence](https://open.spotify.com/album/183YlFZ9H0uHv60lP49lod) | 6:22 | 2025-08-28 |  |
@@ -629,7 +631,7 @@
 | [Mirrors](https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Mirrors](https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY) | 3:45 | 2023-07-07 | 2023-09-20 |
 | [Missing the Moon](https://open.spotify.com/track/2JvbaCFEHS8aaakQ92xWmz) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Missing the Moon](https://open.spotify.com/album/1hNTKdVUzEhglYbukbndok) | 3:32 | 2023-03-03 | 2023-05-27 |
 | [ML3A](https://open.spotify.com/track/1o9DkWP5zph0hi09OdsiLi) | [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq), [Pilo](https://open.spotify.com/artist/7wyxqLCu88yJqDCl2EfESr) | [In Fragments](https://open.spotify.com/album/7IPytA4ux0ldE6LcsU3fwt) | 2:27 | 2020-08-26 | 2020-10-22 |
-| [Mockingbird](https://open.spotify.com/track/6BNPuxL7wzw6QZSBNGtwsD) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Mockingbird](https://open.spotify.com/album/1Dg8JaCDUih4uz63KlHQVX) | 5:02 | 2026-02-13 |  |
+| [Mockingbird](https://open.spotify.com/track/6BNPuxL7wzw6QZSBNGtwsD) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Mockingbird](https://open.spotify.com/album/1Dg8JaCDUih4uz63KlHQVX) | 5:02 | 2026-02-13 | 2026-02-25 |
 | [Mollie \(hear your name\)](https://open.spotify.com/track/4RK8ACIo6MlEv8WyMIoxOa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:01 | 2023-03-24 | 2024-06-14 |
 | [Moment](https://open.spotify.com/track/5qVwiIw05xLv3IwTtqdd5S) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Two Fold Pt\. 2](https://open.spotify.com/album/6WAm1Z7pv03iivo9jCMePQ) | 3:12 | 2019-05-26\* | 2020-08-26 |
 | [Moments](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Moments](https://open.spotify.com/album/29h6YzXV7UUXJRdpnQaJ9P) | 3:20 | 2019-05-26\* | 2020-10-21 |
@@ -1166,7 +1168,7 @@
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [Yip, Yip, Yip](https://open.spotify.com/track/0Jdoa0h7JwqZIxuRbddFAD) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Yip, Yip, Yip](https://open.spotify.com/album/0rk3qC18ghOoB7M4ge5kyO) | 2:03 | 2024-02-12 | 2024-05-09 |
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 |  |
-| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 |  |
+| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 | 2026-02-25 |
 | [Yūrei](https://open.spotify.com/track/0WGzvQMqARePYxra8qZgOr) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Polychrome Swim](https://open.spotify.com/album/5BdjVQkPnr10XILcaiVwhi) | 3:58 | 2020-11-13 | 2022-04-16 |
 | [zero hour contract](https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [emo\_ecstasy\_everything](https://open.spotify.com/album/5Z7spMFDZwAAQsNhS16gV8) | 4:12 | 2020-10-28 | 2022-06-22 |
 | [zin2 test5](https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 2:39 | 2023-07-28 | 2023-10-14 |

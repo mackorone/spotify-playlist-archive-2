@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,284 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,318 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 2 | [A Sudden Change](https://open.spotify.com/track/3jcLMVueI71Vr1IS9LHLEU) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [A Sudden Change](https://open.spotify.com/album/7osoP3C0IrtpOyz2Zouike) | 2:48 |
 | 3 | [I'm Safe with You](https://open.spotify.com/track/2GlF8jXAeJXy30Fz7xnHTY) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [I'm Safe with You](https://open.spotify.com/album/151qGQLppGbygpN7utgNj8) | 2:27 |
 | 4 | [It's in the Details](https://open.spotify.com/track/5keTw2OzVACky7ElLZG9BV) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [It's in the Details](https://open.spotify.com/album/0Iid18lx8DrhR5UUZuk0mB) | 2:34 |
-| 5 | [Conversations in the Night](https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Conversations in the Night](https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE) | 2:47 |
-| 6 | [Slowly Moving Forward](https://open.spotify.com/track/6Fd6aiIghztXABZu3yyMIi) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Slowly Moving Forward](https://open.spotify.com/album/09xYUcUWDC5UEHY9JKFKVy) | 2:31 |
+| 5 | [Slowly Moving Forward](https://open.spotify.com/track/6Fd6aiIghztXABZu3yyMIi) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Slowly Moving Forward](https://open.spotify.com/album/09xYUcUWDC5UEHY9JKFKVy) | 2:31 |
+| 6 | [Conversations in the Night](https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Conversations in the Night](https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE) | 2:47 |
 | 7 | [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 |
 | 8 | [The Opposite Corner](https://open.spotify.com/track/676hef7iLF9stIZAYifYfz) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [The Opposite Corner](https://open.spotify.com/album/3wjvtmCqr1rEHAOfyUgls0) | 2:38 |
 | 9 | [Be Mine](https://open.spotify.com/track/3tPUKFwVYYA71e1rOlwIDb) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [Be Mine](https://open.spotify.com/album/42F6ToeNoU8B0P0hKLIutt) | 3:02 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 31 | [Midnight Promises](https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Midnight Promises](https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI) | 2:35 |
 | 32 | [Marais Morning](https://open.spotify.com/track/6GSgdG0O4OqlcNHAdnXHdO) | [James Auren](https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ) | [Marais Morning](https://open.spotify.com/album/0O7kC4qvVPPSxYcgHBBsnN) | 3:26 |
 | 33 | [Brooklyn Lights](https://open.spotify.com/track/6QZ8YKI12M3YxAI83hpERc) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [Brooklyn Lights](https://open.spotify.com/album/6D64hYWbeTBlzuy8BZmVda) | 2:13 |
-| 34 | [Vortex](https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1) | [A\. Mayven](https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU) | [Vortex](https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh) | 2:22 |
-| 35 | [in bloom](https://open.spotify.com/track/2HD8hrsF93st2QU00boQea) | [Hans DeGeer](https://open.spotify.com/artist/3r7uTBA2KM7UeghyK1jUye) | [in bloom](https://open.spotify.com/album/1AbaoCmTtSjSB77bQjGlRq) | 2:04 |
+| 34 | [in bloom](https://open.spotify.com/track/2HD8hrsF93st2QU00boQea) | [Hans DeGeer](https://open.spotify.com/artist/3r7uTBA2KM7UeghyK1jUye) | [in bloom](https://open.spotify.com/album/1AbaoCmTtSjSB77bQjGlRq) | 2:04 |
+| 35 | [Vortex](https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1) | [A\. Mayven](https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU) | [Vortex](https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh) | 2:22 |
 | 36 | [Another Time](https://open.spotify.com/track/7lk8jlre48y3teEbgRvrMT) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Another Time](https://open.spotify.com/album/29YgohxjdhM07KLY8PGGsI) | 1:21 |
 | 37 | [At Joe's](https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [At Joe's](https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma) | 2:26 |
 | 38 | [A Second To None](https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I) | [Jacob Concord](https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi) | [A Second To None](https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8) | 2:54 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 47 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 |
 | 48 | [Quite a dilemma](https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Quite a dilemma](https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI) | 2:55 |
 | 49 | [A Phonecall Away](https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [A Phonecall Away](https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD) | 2:32 |
-| 50 | [Something Together](https://open.spotify.com/track/3XM6cWuevb7PGBEZSiQfEx) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Something Together](https://open.spotify.com/album/06YCoRHgr6ELtFWEvAmRe8) | 2:09 |
-| 51 | [Fading Away](https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Fading Away](https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET) | 2:47 |
+| 50 | [Fading Away](https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Fading Away](https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET) | 2:47 |
+| 51 | [Something Together](https://open.spotify.com/track/3XM6cWuevb7PGBEZSiQfEx) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Something Together](https://open.spotify.com/album/06YCoRHgr6ELtFWEvAmRe8) | 2:09 |
 | 52 | [Seat for Two](https://open.spotify.com/track/1OfaNgaWjSA9HiedH84LPE) | [Suwonah Nolja](https://open.spotify.com/artist/1HFudkZUUEr5MiMSsPng4B) | [Seat for Two](https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5) | 2:38 |
 | 53 | [More than love](https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [More than love](https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m) | 2:53 |
 | 54 | [A Trip Down Memory Lane](https://open.spotify.com/track/5vu73iGAuH5Lm5TYnEG46U) | [Nicola Gisin](https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s) | [A Trip Down Memory Lane](https://open.spotify.com/album/5imUoAQsH4jj4sBpG4oG5c) | 3:22 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 56 | [At The Core](https://open.spotify.com/track/6T5aKm6NU1JGdhYe4dqRVT) | [Luke Marantz](https://open.spotify.com/artist/0TDN86diVFoP3zBNOBg1nP) | [At The Core](https://open.spotify.com/album/37eEka6JOchS6lvRD1k9VF) | 3:10 |
 | 57 | [Downtown](https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [Downtown](https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B) | 2:36 |
 | 58 | [Leave Us Fonder](https://open.spotify.com/track/3LjHn0yHI37EQryp4DSnRe) | [Yuffin Joah](https://open.spotify.com/artist/33XuwZaY3Ku1OgM4f5xwz8) | [Leave Us Fonder](https://open.spotify.com/album/3vc6MOXMp1pOyo37yWSkbO) | 2:05 |
-| 59 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
+| 59 | [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 |
 | 60 | [Another sunset](https://open.spotify.com/track/5O0WWwQUYGm1DEO9floJoB) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Another sunset](https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo) | 2:58 |
 | 61 | [My Periscope](https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [My Periscope](https://open.spotify.com/album/2lG9d8CAcQ7vxoubAjnazb) | 2:23 |
 | 62 | [Fading Skies](https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Fading Skies](https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0) | 2:18 |
 | 63 | [It's Probably True](https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [It's Probably True](https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7) | 2:52 |
-| 64 | [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 |
+| 64 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
 | 65 | [Time to Go Home](https://open.spotify.com/track/7CygJxe6oFIuwdWw8eadq5) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Time to Go Home](https://open.spotify.com/album/0Bsg4sc3NLfWk0KJN4q8Tu) | 3:21 |
-| 66 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
-| 67 | [Peace is overrated](https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Peace is overrated](https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i) | 2:52 |
+| 66 | [Peace is overrated](https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Peace is overrated](https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i) | 2:52 |
+| 67 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
 | 68 | [Let's Take a Chance](https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc) | [Wiz Senega](https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP) | [Let's Take a Chance](https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA) | 2:47 |
 | 69 | [Bewitched](https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Bewitched](https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ) | 2:39 |
 | 70 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 95 | [Maybe Next Week](https://open.spotify.com/track/3hJvvzM5Db68F7nvySa3eP) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Maybe Next Week](https://open.spotify.com/album/4S13x0lSNQI1eeVHDUK24l) | 2:30 |
 | 96 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
 | 97 | [I miss your laughter](https://open.spotify.com/track/7J43Mh4UvelypkEw3VfzAp) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [I miss your laughter](https://open.spotify.com/album/0pAU1cL8tBWrwH65s1NLe7) | 2:39 |
-| 98 | [Slumber](https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Slumber](https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq) | 2:48 |
-| 99 | [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 |
+| 98 | [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 |
+| 99 | [Slumber](https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Slumber](https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq) | 2:48 |
 | 100 | [Evening Letters](https://open.spotify.com/track/0LZ13UhgAnFD8JEwLzZFfk) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Evening Letters](https://open.spotify.com/album/7Bnduv8rtBLVFPKf6uN3nZ) | 2:18 |
 
 Snapshot ID: `AAAAAEuIw+NdegFAxIdMiYJgaY6lxWni`

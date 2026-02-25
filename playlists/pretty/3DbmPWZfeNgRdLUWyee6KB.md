@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,276 likes - 157 songs - 8 hr 48 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,281 likes - 163 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 155 | [Hi, Mr\. President \- Rock Version](https://open.spotify.com/track/6RlHAU6gVXyz7prY6J9Fin) | [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Hi, Mr\. President](https://open.spotify.com/album/3fSzwDSrsvwLRb1I9gKvQg) | 4:16 |
 | 156 | [Fire Fire](https://open.spotify.com/track/5kocHOL5zvOMxyi5ajD95W) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Odd Creations](https://open.spotify.com/album/7ywm5pYJfnPdnK7cC1owlx) | 2:22 |
 | 157 | [Del Uno al Diez](https://open.spotify.com/track/4iG7xg9J2N99rtW4pkkz4p) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE) | [Del Uno al Diez](https://open.spotify.com/album/008hskOXrpcZJnR28Qwizk) | 1:53 |
+| 158 | [Of All The Things I've Said](https://open.spotify.com/track/4q2joDEEnPyOKJ28BFGX7a) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Of All The Things I've Said](https://open.spotify.com/album/6sQzWyFp09Tm6Tl6rb1Z6E) | 4:04 |
+| 159 | [In the Rain](https://open.spotify.com/track/2UxTpgqN3i6IRuJCNEnBWZ) | [Tyell](https://open.spotify.com/artist/3vn1K9sRLk08d2DV2A6Y2B) | [In the Rain](https://open.spotify.com/album/7dtUQxnDwg3rrQioBDRW0K) | 4:26 |
+| 160 | [The Pink Burger Bar \(Part 2\)](https://open.spotify.com/track/7IX0NcCDjMc3zqkNAHkw1O) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV) | [The Good Old Days \(A Rock 'N' Roll Story\)](https://open.spotify.com/album/5cGl6Se6BNFjkuBarUWsOw) | 8:04 |
+| 161 | [The Pink Burger Bar Part 1 \- Live](https://open.spotify.com/track/1fQjUPXzIhec1KRHTt4tNP) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV), [Cool Banana](https://open.spotify.com/artist/3tIcxAObVuYpR4e13MbMQZ) | [The Pink Burger Bar Part 1 \(Live\)](https://open.spotify.com/album/1ha0hQ0qBFnnCAi6tzdWmY) | 2:41 |
+| 162 | [Il Blues del Giorno Triste](https://open.spotify.com/track/2YFJOwCkphwbWvVZy6tqIN) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Il Blues del Giorno Triste](https://open.spotify.com/album/5Mfpd99yQEZL9GWspbrjg8) | 3:16 |
+| 163 | [The Process](https://open.spotify.com/track/6qJ5OA70ILvgAIrfsMYKbJ) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [The Process](https://open.spotify.com/album/0KqDqn5H9VBrBFe9izp6zo) | 3:38 |
 
-Snapshot ID: `AAAQw/q3s+3WN+mAHZsmFEmUXo0kcD0+`
+Snapshot ID: `AAAQyYISLaYMyJDg+5CEaQ9VMn3Zx3oJ`

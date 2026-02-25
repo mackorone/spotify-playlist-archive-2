@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,044 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,069 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 48 | [Perfect Stranger](https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:17 |
 | 49 | [Love Is Wicked](https://open.spotify.com/track/5kEfk2sb4xoEvk2zWbTGpt) | [Brick & Lace](https://open.spotify.com/artist/42zM1Af1Wgt8ftcda1sJxW) | [Love Is Wicked](https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x) | 3:42 |
 | 50 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 |
-| 51 | [Manos Al Aire](https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:29 |
+| 51 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
 | 52 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
-| 53 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 |
-| 54 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
+| 53 | [Manos Al Aire](https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:29 |
+| 54 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 |
 | 55 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:52 |
 | 56 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 57 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 77 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
 | 78 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
 | 79 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
-| 80 | [Mama Do \(Uh Oh, Uh Oh\)](https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
-| 81 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
+| 80 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
+| 81 | [Mama Do \(Uh Oh, Uh Oh\)](https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
 | 82 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 83 | [Time to Run](https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M) | 5:23 |
 | 84 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 92 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
 | 93 | [Fingers Crossed](https://open.spotify.com/track/7f0SiAYG8XjOoQyfGvgbLA) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:23 |
 | 94 | [Good Day](https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:26 |
-| 95 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
-| 96 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
-| 97 | [Celeste](https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste](https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb) | 3:23 |
+| 95 | [Celeste](https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste](https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb) | 3:23 |
+| 96 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
+| 97 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
 | 98 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
 | 99 | [Perfect Someone](https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:39 |
 | 100 | [Ring Pop](https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Ring Pop](https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH) | 2:26 |

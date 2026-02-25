@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Anna\-My & Adrian Lux
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,533 likes - 111 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,537 likes - 111 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 75 | [For My People](https://open.spotify.com/track/25b2Ftcple4DAIyQ3V0mPF) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [For My People](https://open.spotify.com/album/6zKsrSQATcRO6ZHd3ZdoZD) | 3:25 |
 | 76 | [Slutstation](https://open.spotify.com/track/5R3PpMa02eDT0Sah2REbNm) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [No Home EP](https://open.spotify.com/album/2dIQrcZ4ouHlnURfOtO8lg) | 7:52 |
 | 77 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
-| 78 | [Badda Man](https://open.spotify.com/track/0MzIpme2HSyHfNfldoAEuu) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Untouchable](https://open.spotify.com/album/5T01lHPgunwlU5ua2oLgTq) | 2:17 |
+| 78 | [Badda Man](https://open.spotify.com/track/0MzIpme2HSyHfNfldoAEuu) | [Malóne Morez](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Untouchable](https://open.spotify.com/album/5T01lHPgunwlU5ua2oLgTq) | 2:17 |
 | 79 | [LA NOCHE](https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ANITA B QUEEN](https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf) | [LA NOCHE](https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv) | 3:32 |
 | 80 | [Lose My Mind](https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Lose My Mind](https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c) | 3:19 |
 | 81 | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ) | 3:18 |

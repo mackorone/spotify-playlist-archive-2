@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-169 songs - 10 hr 33 min
+170 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Canyons](https://open.spotify.com/track/1NiGcE5wYngPZhF68MZI6l) | [Terrestrials](https://open.spotify.com/artist/0IgtGoVVy0B7ZdqwLIkKCW) | [Iridescent](https://open.spotify.com/album/55jRuQeHf0XDZub51E3aVv) | 3:17 | 2025-11-03 | 2025-12-28 |
 | [Captive Hearts](https://open.spotify.com/track/2qT1OQRMtqnudkY6YVRaVl) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Captive Hearts](https://open.spotify.com/album/3K73HEZUnPYch0Koa9kOvG) | 4:36 | 2025-12-23 | 2026-01-21 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-05 |  |
+| [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 | 2026-02-24 |  |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-09-08 |  |
 | [Comeback](https://open.spotify.com/track/7HU5o7PS2iWtSFQNmc42Ol) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 4:08 | 2026-01-22 | 2026-02-23 |
 | [Commute](https://open.spotify.com/track/66y8r4BeEnyb9ecsWdfNGj) | [Rude Mood](https://open.spotify.com/artist/6aqqzC1X5ylqLgKd2FdgSV) | [Commute](https://open.spotify.com/album/3yRDfvTfroHpvCfOpOJT9n) | 3:56 | 2026-01-24 | 2026-02-23 |

@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,743 songs - 13 day 9 hr 3 min
+5,746 songs - 13 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Black Magic](https://open.spotify.com/track/4lbKunBAYECY3e0OPVNqHR) | [Arielle Diba](https://open.spotify.com/artist/1wjwAZ5HV4p4G9atYKqbMG) | [Black Magic](https://open.spotify.com/album/6gYrQQRTylSFZi2D65hw0W) | 3:24 | 2023-12-14 | 2023-12-22 |
 | [Blackbird](https://open.spotify.com/track/3xYosaleOoOjwZ5v8Ltzte) | [Doug Walther](https://open.spotify.com/artist/1KFQ2dbapzFnzTBP3wSqAS) | [Sit Back and Try to Relax](https://open.spotify.com/album/5r4L4jNpqoaxRGJDRElqxZ) | 2:04 | 2022-12-16 | 2023-01-07 |
 | [blackjack](https://open.spotify.com/track/1BGBVg76Xbp6Tukir110dD) | [Lyndon Enow](https://open.spotify.com/artist/0Kbe33sOyWEoDt8SwEfrPS) | [blackjack](https://open.spotify.com/album/5noSK1S4VQQQVh6yGMAwaW) | 3:15 | 2021-10-23 | 2021-11-09 |
+| [BLACKSHEEP](https://open.spotify.com/track/5USJ6dYt7G0LJLb6IEnoSw) | [RICHARD MOROSE](https://open.spotify.com/artist/1mBA3qB0gWttEDgV2u8FKK) | [BLACKSHEEP](https://open.spotify.com/album/4UlMSDBe7dOX1uC1FKibG6) | 2:18 | 2026-02-24 |  |
 | [Blackstone](https://open.spotify.com/track/0GiY8zyuG7ga5oGKmg495I) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Songs from Under a Guava Tree](https://open.spotify.com/album/3b7v3JO5Hw2tMbPWVkXKOu) | 4:17 | 2020-01-04 | 2020-01-14 |
 | [Blades](https://open.spotify.com/track/77F6ryVdeVe0ZabzhpCad2) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:41 | 2023-11-08 | 2023-12-30 |
 | [Blame](https://open.spotify.com/track/1LIBhSk77UxJFcRm0hSAUn) | [Frannk Whitte](https://open.spotify.com/artist/7z8FlI7aFeNqXIkm2mDCtB), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Blame](https://open.spotify.com/album/3WNgj7d0mIUhoimLxUXGFB) | 2:55 | 2023-07-08 | 2023-07-29 |
@@ -3118,6 +3119,7 @@
 | [Marlboro Man](https://open.spotify.com/track/3Oh65kNgVezqIUCHd7EKiQ) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Marlboro Man](https://open.spotify.com/album/0VcVOHmCyjFtbGuYu649fr) | 3:20 | 2024-06-20 | 2024-07-02 |
 | [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/3MyoPEPdJbaIKRyuk8zTj2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Piano & A Microphone 1983](https://open.spotify.com/album/6gbmDvcU1JDPy1niL6YFJY) | 4:42 | 2021-08-28 | 2021-09-11 |
 | [Mary, Mary](https://open.spotify.com/track/4uDXW5l6Hrc6EfSrBQ6yTN) | [Ellis Paul](https://open.spotify.com/artist/6zbmVVtvsmXRGWGgfjlE35) | [City of Silver Dreams](https://open.spotify.com/album/3sI0EFiLsEsDu2iifoceRX) | 3:21 | 2019-11-28 | 2019-12-11 |
+| [Mas Que Nada \- Rio Night Latin Mix\- \- feat\. Gracinha Leporace & Black Prez](https://open.spotify.com/track/7gAMtAbqEW6xS6OOzGtC4Y) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7), [Thaís Motta](https://open.spotify.com/artist/5Pdu4ZgtoYa8QY92N7sX5J), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [Mas Que Nada / Bajune Tobeta \- Sergio Mendes Tribute \-](https://open.spotify.com/album/02dtLGYfGanHzRc5jd9Gsg) | 3:09 | 2026-02-24 |  |
 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-21 | 2022-07-07 |
 | [Mastapiece](https://open.spotify.com/track/19eXUrp36r6CEDHWQESwjV) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Mastapiece](https://open.spotify.com/album/3sVrGffE8YcDwpYOggsJwr) | 2:58 | 2020-09-02 | 2020-09-16 |
 | [Master Plan](https://open.spotify.com/track/56gla6LtUbsb028XQapRaP) | [Looms](https://open.spotify.com/artist/41krEbvNbWoB5pnCiOBOb5) | [The Way Up](https://open.spotify.com/album/6HNMFBhlaK7PAc69z71bpv) | 3:06 | 2023-08-05 | 2023-08-28 |
@@ -4814,6 +4816,7 @@
 | [Talk About It](https://open.spotify.com/track/5kDScRmwuoaj80H0xKUZ5S) | [ADINAH VINE](https://open.spotify.com/artist/3l52uxa2NAkAIvqC1Qjke2) | [Talk About It](https://open.spotify.com/album/5tvxEEt8n6Z5K43B6L0GBp) | 2:22 | 2024-10-20 | 2024-11-02 |
 | [Talk About It](https://open.spotify.com/track/2mMbYe7kd4YnTDnwP28Ght) | [Miyamoto](https://open.spotify.com/artist/5CF46SR2u5iy00KXQRZqYt) | [Talk About It](https://open.spotify.com/album/5dIYPDaQpW7Iu1rZA9QoXK) | 3:02 | 2021-12-31 | 2022-01-15 |
 | [Talk And Give](https://open.spotify.com/track/0bBMZbuPGpdzuGA52Eywqj) | [Júsef René](https://open.spotify.com/artist/6ZdIUy4nrwQ7KxZQX8804L), [Khaja](https://open.spotify.com/artist/7xvJ01VveC2vr3XZpfHTHm) | [Talk And Give](https://open.spotify.com/album/0xEISW2qpJKDxsKS2Y7a9e) | 2:21 | 2025-10-02 | 2025-10-14 |
+| [Talk To Johnny](https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Talk To Johnny](https://open.spotify.com/album/2tDKMJJsVZ0dhZh2AcFnFZ) | 2:43 | 2026-02-24 |  |
 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 | 2024-03-24 | 2024-08-13 |
 | [TALK TO YOU](https://open.spotify.com/track/0U2trRp7HndAG6rm1179B1) | [N!CO](https://open.spotify.com/artist/7r9Tb0zhwFqULO8MnivMve) | [TALK TO YOU](https://open.spotify.com/album/6hi4A2IxZoQbFi0ZeOLaFs) | 3:29 | 2024-12-20 | 2025-01-01 |
 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 | 2025-08-21 | 2025-09-02 |

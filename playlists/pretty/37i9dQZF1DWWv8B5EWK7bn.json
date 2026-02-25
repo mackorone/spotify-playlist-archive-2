@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 206316,
+  "num_followers": 206332,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "D\u00cdA",
         "url": "https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 203620,
       "name": "I WANT TO BE BETTER",
       "url": "https://open.spotify.com/track/6qDUtM6TrV0IFg3nMmXeIQ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Follow The Light",
         "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 273897,
       "name": "Deux Paradis",
       "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "All Through The Day",
-        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "All Through The Day",
-      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1067,18 +1067,50 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Vallahi Yok / Kirik Cam",
-        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
+        "name": "Modern Meta Physic",
+        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
       },
       "artists": [
         {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
         }
       ],
-      "duration_ms": 277810,
-      "name": "Vallahi Yok",
-      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+      "duration_ms": 321509,
+      "name": "Art Today",
+      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1103,50 +1135,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+        "name": "Vallahi Yok / Kirik Cam",
+        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Modern Meta Physic",
-        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 321509,
-      "name": "Art Today",
-      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "True Luck",
         "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
-        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
       "artists": [
         {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 154910,
-      "name": "I'VE BEEN EVIL",
-      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
+        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
       },
       "artists": [
         {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+      "duration_ms": 154910,
+      "name": "I'VE BEEN EVIL",
+      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1263,6 +1247,22 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
       },
       "artists": [
         {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
       },
       "artists": [
         {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Pearlies",
-        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
-      },
-      "artists": [
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "The Presence",
-      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "P.O.N",
         "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Pearlies",
+        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
       "added_at": "2025-11-18 17:38:22",

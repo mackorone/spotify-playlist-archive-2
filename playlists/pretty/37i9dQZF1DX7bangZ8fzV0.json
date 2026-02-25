@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Leah",
-  "num_followers": 142379,
+  "num_followers": 142413,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Hier Waar Ek Nou Is",
-        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
+        "name": "Swaartekrag",
+        "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
       },
       "artists": [
         {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Koue Hande",
-      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
+      "duration_ms": 178021,
+      "name": "Lenie Blou",
+      "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -255,18 +255,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Swaartekrag",
-        "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
+        "name": "Francois Van Coke",
+        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
       },
       "artists": [
         {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
         }
       ],
-      "duration_ms": 178021,
-      "name": "Lenie Blou",
-      "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
+      "duration_ms": 246401,
+      "name": "Toe Vind Ek Jou",
+      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -287,22 +291,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Francois Van Coke",
-        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
+        "name": "Roeper",
+        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
         }
       ],
-      "duration_ms": 246401,
-      "name": "Toe Vind Ek Jou",
-      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
+      "duration_ms": 228440,
+      "name": "Sal Jy Bly",
+      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -327,18 +327,38 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Roeper",
-        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
+        "name": "Hier Waar Ek Nou Is",
+        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
       },
       "artists": [
         {
-          "name": "Theuns Jordaan",
-          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Sal Jy Bly",
-      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
+      "duration_ms": 270000,
+      "name": "Koue Hande",
+      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Dagdrome in Suburbia",
+        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Dagdrome in Suburbia",
+      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -375,26 +395,6 @@
       "duration_ms": 183729,
       "name": "Rowwe Bliksem",
       "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
-        "name": "Dagdrome in Suburbia",
-        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Dagdrome in Suburbia",
-      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Spontaan",
-        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
+        "name": "Boomhuis",
+        "url": "https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4"
       },
       "artists": [
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
         }
       ],
-      "duration_ms": 178146,
-      "name": "Keeza",
-      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
+      "duration_ms": 216795,
+      "name": "Vuur Op Die Water",
+      "url": "https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Boomhuis",
-        "url": "https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4"
+        "name": "Spontaan",
+        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
       },
       "artists": [
         {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 216795,
-      "name": "Vuur Op Die Water",
-      "url": "https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r"
+      "duration_ms": 178146,
+      "name": "Keeza",
+      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Belowe",
-        "url": "https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 216923,
-      "name": "Belowe",
-      "url": "https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Sterre",
         "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 213461,
       "name": "Sterre",
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Belowe",
+        "url": "https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "Belowe",
+      "url": "https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Yskas Skuif",
-        "url": "https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 204335,
-      "name": "Yskas Skuif",
-      "url": "https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Sonsak In Die Vrystaat",
         "url": "https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 264935,
       "name": "Sonsak In Die Vrystaat",
       "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        }
+      ],
+      "duration_ms": 161242,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Naam",
-        "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
+        "name": "Yskas Skuif",
+        "url": "https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ"
       },
       "artists": [
         {
-          "name": "ONS",
-          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
         }
       ],
-      "duration_ms": 161242,
-      "name": "Naam",
-      "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
+      "duration_ms": 204335,
+      "name": "Yskas Skuif",
+      "url": "https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
+        "name": "Die Lot",
+        "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Bosveldterapie",
+      "url": "https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
         "name": "Hart soos 'n Hilux",
         "url": "https://open.spotify.com/album/5p2LWBsu5tiu0O8Of4fvqR"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 192567,
       "name": "Vlerke",
       "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
-        "name": "Die Lot",
-        "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Bosveldterapie",
-      "url": "https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Wil Jy Bly",
-        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 187391,
-      "name": "Wil Jy Bly",
-      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "NIE M\u00d4RE NIE NOU",
         "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 158680,
       "name": "NIE M\u00d4RE NIE NOU",
       "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Wil Jy Bly",
+        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 187391,
+      "name": "Wil Jy Bly",
+      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
+        "name": "Carina",
+        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 196208,
+      "name": "Carina",
+      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
         "name": "Shut Up & Soen My",
         "url": "https://open.spotify.com/album/2nGlSHYxK3nHVx4nTlGw4d"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 192676,
       "name": "Shut Up & Soen My",
       "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
-        "name": "Carina",
-        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 196208,
-      "name": "Carina",
-      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Diepseeduiker 17",
-        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
+        "name": "Dik Stukke",
+        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
       },
       "artists": [
         {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
         }
       ],
-      "duration_ms": 165149,
-      "name": "Diepseeduiker 17",
-      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+      "duration_ms": 187611,
+      "name": "Dik Stukke",
+      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
     }
   ],
   "unique_name": "Afrikaanse Hits",

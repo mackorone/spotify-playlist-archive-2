@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,821 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,829 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 25 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
 | 26 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 |
 | 27 | [Cowpoke](https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t) | 3:12 |
-| 28 | [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 |
-| 29 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
+| 28 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
+| 29 | [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 |
 | 30 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 |
 | 31 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
 | 32 | [Jolene](https://open.spotify.com/track/0oOY4xChdxmGgpyQrY2FBz) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/0YWVOgUZl59PurjohaioRw) | 4:10 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 43 | [Windows Are Rolled Down](https://open.spotify.com/track/1umKFpJdXDtquGCz4oBVDJ) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 3:57 |
 | 44 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 45 | [Thoroughfare](https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 9:27 |
-| 46 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
-| 47 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
-| 48 | [On The Red River](https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:41 |
-| 49 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
+| 46 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
+| 47 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
+| 48 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
+| 49 | [On The Red River](https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:41 |
 | 50 | [The Frost](https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 51 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
 | 52 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 57 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 58 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
 | 59 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 |
-| 60 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 |
-| 61 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 |
+| 60 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 |
+| 61 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 |
 | 62 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
 | 63 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
 | 64 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta de las canciones pop con Juan Carlos Bodoque y Tulio Trivi\u00f1o!",
-  "num_followers": 245061,
+  "num_followers": 245060,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-10 06:00:38",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2025-10-10 06:00:38",
-      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": "2025-10-10 06:00:38",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2025-10-10 06:00:38",
@@ -787,6 +767,26 @@
       "duration_ms": 189333,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
+    },
+    {
+      "added_at": "2025-10-10 06:00:38",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2025-10-10 06:00:38",
@@ -839,6 +839,30 @@
     {
       "added_at": "2025-10-10 06:00:38",
       "album": {
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2025-10-10 06:00:38",
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -851,22 +875,6 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2025-10-10 06:00:38",
-      "album": {
-        "name": "Smash Mouth",
-        "url": "https://open.spotify.com/album/7KZkFAtkse1rKL9HdFTCuh"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "I'm A Believer",
-      "url": "https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40"
     }
   ],
   "unique_name": "Pop para Ni\u00f1os",

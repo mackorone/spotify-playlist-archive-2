@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,878 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,879 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 32 | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX) | 3:04 |
 | 33 | [After the rain](https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Law and The City, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5jw9rhuN8Obf3JXzDvtYER) | 3:27 |
 | 34 | [While You're Sleeping, I Am](https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:41 |
-| 35 | [Night air](https://open.spotify.com/track/2QExkZJmZYblotcvmoCYy4) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Night air](https://open.spotify.com/album/0jDPb6oQCU49du0dedRGMG) | 4:10 |
+| 35 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 36 | [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 |
-| 37 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
+| 37 | [Night air](https://open.spotify.com/track/2QExkZJmZYblotcvmoCYy4) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Night air](https://open.spotify.com/album/0jDPb6oQCU49du0dedRGMG) | 4:10 |
 | 38 | [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 |
-| 39 | [Night, Snow](https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Night, Snow](https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk) | 3:49 |
+| 39 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 40 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |
-| 41 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
-| 42 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 |
-| 43 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
+| 41 | [Night, Snow](https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Night, Snow](https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk) | 3:49 |
+| 42 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
+| 43 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 |
 | 44 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
-| 45 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
-| 46 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
-| 47 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 |
-| 48 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
-| 49 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
+| 45 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
+| 46 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
+| 47 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
+| 48 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
+| 49 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 |
 | 50 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
 
 Snapshot ID: `AAAAAGiQ+hJgy+J1PynzTkni3AwG6XIc`

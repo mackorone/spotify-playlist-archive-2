@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 125673,
+  "num_followers": 125682,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAiVs8tqxubVH/GLLv9UG6B",
+  "snapshot_id": "aZuYgAAAAABsSqdvygHF6EO5ZfaWClsH",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1G1Hqkn18MubbXBvN8tY0g"
+      },
+      "artists": [
+        {
+          "name": "Haywire 617",
+          "url": "https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu"
+        },
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "NEW ENGLAND FOREVER",
+      "url": "https://open.spotify.com/track/7GTDi9XB4eyzeHSVR286XM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -335,22 +355,6 @@
       "duration_ms": 168840,
       "name": "Captain Kelly's Kitchen",
       "url": "https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 155642,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
     },
     {
       "added_at": null,
@@ -375,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 177887,
       "name": "Barroom Hero",
       "url": "https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New England Forever",
-        "url": "https://open.spotify.com/album/1G1Hqkn18MubbXBvN8tY0g"
-      },
-      "artists": [
-        {
-          "name": "Haywire 617",
-          "url": "https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu"
-        },
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "NEW ENGLAND FOREVER",
-      "url": "https://open.spotify.com/track/7GTDi9XB4eyzeHSVR286XM"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Boys on the Docks",
-      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 167866,
       "name": "The Gauntlet",
       "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Boys on the Docks",
+      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 109134,
-      "name": "Cadence To Arms",
-      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -548,9 +548,25 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 334226,
-      "name": "Kiss Me I'm #!@'faced",
-      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
+      "duration_ms": 171026,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 231655,
+      "name": "Queen Of Suffolk County",
+      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 231655,
-      "name": "Queen Of Suffolk County",
-      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+      "duration_ms": 334226,
+      "name": "Kiss Me I'm #!@'faced",
+      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
     },
     {
       "added_at": null,

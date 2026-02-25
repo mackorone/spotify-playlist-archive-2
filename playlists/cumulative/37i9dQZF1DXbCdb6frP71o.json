@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 150372,
       "name": "Allah Hu Allah (Slowed)",
       "url": "https://open.spotify.com/track/4EtSg9oIHSAhdWPYGbFkQO"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 210000,
       "name": "Dar-e-Mustafa",
       "url": "https://open.spotify.com/track/44ltiU6dgzdThPoZ7NtOMW"
@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Kabay Ki Ronaq Kabay Ka Manzar (Slow Version)",
+        "url": "https://open.spotify.com/album/6ZXtfoxJf71kExxSNM0j12"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Mustafa Qadri",
+          "url": "https://open.spotify.com/artist/1UVX7ro5CZLkL8fQDUfAGL"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463795,
+      "name": "Kabay Ki Ronaq Kabay Ka Manzar - Slow Version",
+      "url": "https://open.spotify.com/track/5ixaMOqpANMV4OAfSUoLd7"
+    },
+    {
+      "album": {
         "name": "Kabe Ki Ronak (Slowed+Reverab)",
         "url": "https://open.spotify.com/album/4o4gq8NxlVm7EBXabhgWg0"
       },
@@ -924,6 +942,36 @@
       "duration_ms": 349615,
       "name": "Kardo Karam",
       "url": "https://open.spotify.com/track/5MznqLWNL6gkiC7Uql7FMc"
+    },
+    {
+      "album": {
+        "name": "KARNA KARAM",
+        "url": "https://open.spotify.com/album/249rkx6SRpH95p0CDKbnFX"
+      },
+      "artists": [
+        {
+          "name": "Irfan Chaudhry",
+          "url": "https://open.spotify.com/artist/3BCacLuCEKASleh8MYGFyv"
+        },
+        {
+          "name": "Ali Wadood",
+          "url": "https://open.spotify.com/artist/6HBKqeTzVEOka9wjh7GPz2"
+        },
+        {
+          "name": "Umair Hassan",
+          "url": "https://open.spotify.com/artist/30P32oUNN1jFMARg5j7QVe"
+        },
+        {
+          "name": "Bilal Wajid",
+          "url": "https://open.spotify.com/artist/4rZh8wJxSXwqVexVVulZBS"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366000,
+      "name": "KARNA KARAM",
+      "url": "https://open.spotify.com/track/3BoGbEzh8CFUVH5UVK28S7"
     },
     {
       "album": {
@@ -1086,7 +1134,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 442777,
       "name": "Lamyati Nazeero Kafi Nazarin",
       "url": "https://open.spotify.com/track/4Ro9g1K81Xn2JzbvTJCxLR"
@@ -1183,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/6V01tOcRJ6TUoAsCZ4oiE2"
+      },
+      "artists": [
+        {
+          "name": "Chand Tara Orchestra",
+          "url": "https://open.spotify.com/artist/4l3l1A9UpJVYOYvZUIUCqs"
+        },
+        {
+          "name": "Babar Sheikh",
+          "url": "https://open.spotify.com/artist/612v0d7eq6UfREmJtoyWsT"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366968,
+      "name": "Makki Madani",
+      "url": "https://open.spotify.com/track/1HK1dCxnwwPaaiOqvHvQra"
+    },
+    {
+      "album": {
         "name": "Marhaba (Naat)",
         "url": "https://open.spotify.com/album/7LrVw2uyi76oW3GuWLanVD"
       },
@@ -1256,6 +1326,24 @@
       "duration_ms": 194285,
       "name": "Maula Ya Salli Wa Sallim - Qasida Burda Sharif",
       "url": "https://open.spotify.com/track/7HVLB8gT9rmgPcVTdDDsul"
+    },
+    {
+      "album": {
+        "name": "Medley Naat",
+        "url": "https://open.spotify.com/album/4WqnREZsa536LSYVprOfOd"
+      },
+      "artists": [
+        {
+          "name": "Qari Shahid Mehmood Qadri",
+          "url": "https://open.spotify.com/artist/66MpxEjVbcxMJBuEhVO5Ku"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 619534,
+      "name": "Medley Naat",
+      "url": "https://open.spotify.com/track/1MU7M8yJz1r2UeeEEmg3kS"
     },
     {
       "album": {
@@ -1702,7 +1790,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 368165,
       "name": "Qasida Burda Sharif",
       "url": "https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS"
@@ -1976,7 +2064,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 324012,
       "name": "Tala'al Badru Alayna",
       "url": "https://open.spotify.com/track/2e11Cx6qOKWtWPl2WScOSf"
@@ -2052,7 +2140,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 388133,
       "name": "Tere Rang Rang",
       "url": "https://open.spotify.com/track/5nfT5lpnN49MHbvEREXrHf"
@@ -2110,6 +2198,28 @@
       "duration_ms": 265346,
       "name": "The Way of the Tears",
       "url": "https://open.spotify.com/track/3AptfCpuLZ9shA1sAluj7w"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Shiraz Uppal",
+          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+        },
+        {
+          "name": "Rafaqat Ali Khan",
+          "url": "https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522500,
+      "name": "Tu Kuja Man Kuja",
+      "url": "https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL"
     },
     {
       "album": {
@@ -2384,7 +2494,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 523722,
       "name": "Zahe Muqaddar Huzoor-e-Haq Se",
       "url": "https://open.spotify.com/track/2dU2xQWjxbzpBICGW5uJZw"

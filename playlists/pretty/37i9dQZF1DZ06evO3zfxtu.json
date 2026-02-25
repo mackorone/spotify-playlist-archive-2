@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAD7sBS/SzRsEJUwUGgRcS4Y",
+  "snapshot_id": "aZuYgAAAAAA/XWB46Wvrvv/oj73L4ssn",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100GANG",
-        "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
       },
       "artists": [
         {
@@ -680,17 +680,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         },
         {
-          "name": "Hitmakerchinx",
-          "url": "https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD"
+          "name": "Ching",
+          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
         }
       ],
-      "duration_ms": 147096,
-      "name": "100GANG",
-      "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
+      "duration_ms": 155452,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STATIC",
-        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
+        "name": "100GANG",
+        "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
       },
       "artists": [
         {
@@ -728,17 +728,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Ching",
-          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
+          "name": "Hitmakerchinx",
+          "url": "https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD"
         }
       ],
-      "duration_ms": 155452,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
+      "duration_ms": 147096,
+      "name": "100GANG",
+      "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
     },
     {
       "added_at": null,
@@ -783,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "please.",
-        "url": "https://open.spotify.com/album/3Z7S7yzklJNj07PVZHTp8Z"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Haviah Mighty",
-          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
-        },
-        {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
-        }
-      ],
-      "duration_ms": 164507,
-      "name": "please.",
-      "url": "https://open.spotify.com/track/5PepejmElIdDfY66jFnEJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices (feat. Najja)",
         "url": "https://open.spotify.com/album/5M8TOMmrqLaAbJIL6AR3YE"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 206888,
       "name": "Voices (feat. Najja)",
       "url": "https://open.spotify.com/track/0yZ7BOopH03rkVyny1XlpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "please.",
+        "url": "https://open.spotify.com/album/3Z7S7yzklJNj07PVZHTp8Z"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "duration_ms": 164507,
+      "name": "please.",
+      "url": "https://open.spotify.com/track/5PepejmElIdDfY66jFnEJP"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/7Es7WKNjbtvC4SngCwo6b7"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/2ijWBJVyDGifalWaAuexVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG MON",
         "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
       },
@@ -959,30 +939,6 @@
       "duration_ms": 140204,
       "name": "BIG MON",
       "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAQX",
-        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "BTK Villeion",
-          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "RAQX",
-      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
     },
     {
       "added_at": null,
@@ -1011,6 +967,50 @@
       "duration_ms": 196666,
       "name": "WOKE B",
       "url": "https://open.spotify.com/track/0jKxzLfyK2gLds4PvkSdJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAQX",
+        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "BTK Villeion",
+          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "RAQX",
+      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/7Es7WKNjbtvC4SngCwo6b7"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/2ijWBJVyDGifalWaAuexVA"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HYPE HOP 003",
         "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 203520,
       "name": "THE CURE",
       "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
     }
   ],
   "unique_name": "This Is Eva Shaw",

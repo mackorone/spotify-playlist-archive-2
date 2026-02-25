@@ -103,22 +103,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Sankofa",
-        "url": "https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf"
-      },
-      "artists": [
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        }
-      ],
-      "duration_ms": 284165,
-      "name": "Vila Bela",
-      "url": "https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Deixa",
         "url": "https://open.spotify.com/album/6Z5mTNFF8JrMNAiUoIVPZZ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 318674,
       "name": "Deixa - Ao Vivo",
       "url": "https://open.spotify.com/track/06urYdNnVIzkCaYOS05Hrv"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Sankofa",
+        "url": "https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        }
+      ],
+      "duration_ms": 284165,
+      "name": "Vila Bela",
+      "url": "https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -255,26 +255,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Sess\u00f5es Selo Sesc #7: Jo\u00e3o Donato + Projeto Coisa Fina",
-        "url": "https://open.spotify.com/album/0JM3ipLsc4OhCGknNlvPrg"
+        "name": "Encontro",
+        "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
       },
       "artists": [
         {
-          "name": "Sess\u00f5es Selo Sesc",
-          "url": "https://open.spotify.com/artist/5UAhmzty3dTzxnMzn1aWuU"
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
         },
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Projeto Coisa Fina",
-          "url": "https://open.spotify.com/artist/5Z2qOOW5avsLNKfcoYzpMf"
+          "name": "Ivan Vilela",
+          "url": "https://open.spotify.com/artist/4Bt3JkryrujFrIJQKIPsrp"
         }
       ],
-      "duration_ms": 349525,
-      "name": "Emori\u00f4 - Live",
-      "url": "https://open.spotify.com/track/4e8HAVbyiqpBs2MbCOwoyc"
+      "duration_ms": 511760,
+      "name": "Sert\u00e3o",
+      "url": "https://open.spotify.com/track/3Z5j1r3OEWnv1cL8krW9AI"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -295,22 +291,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Encontro",
-        "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
+        "name": "Sess\u00f5es Selo Sesc #7: Jo\u00e3o Donato + Projeto Coisa Fina",
+        "url": "https://open.spotify.com/album/0JM3ipLsc4OhCGknNlvPrg"
       },
       "artists": [
         {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+          "name": "Sess\u00f5es Selo Sesc",
+          "url": "https://open.spotify.com/artist/5UAhmzty3dTzxnMzn1aWuU"
         },
         {
-          "name": "Ivan Vilela",
-          "url": "https://open.spotify.com/artist/4Bt3JkryrujFrIJQKIPsrp"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Projeto Coisa Fina",
+          "url": "https://open.spotify.com/artist/5Z2qOOW5avsLNKfcoYzpMf"
         }
       ],
-      "duration_ms": 511760,
-      "name": "Sert\u00e3o",
-      "url": "https://open.spotify.com/track/3Z5j1r3OEWnv1cL8krW9AI"
+      "duration_ms": 349525,
+      "name": "Emori\u00f4 - Live",
+      "url": "https://open.spotify.com/track/4e8HAVbyiqpBs2MbCOwoyc"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1011,34 +1011,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Pro Carnaval Voltar",
-        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
-      },
-      "artists": [
-        {
-          "name": "Oran Etkin",
-          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        }
-      ],
-      "duration_ms": 481925,
-      "name": "Pro Carnaval Voltar",
-      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7HjEJgEOH5yFNPLERzLOMg"
       },
@@ -1071,6 +1043,34 @@
       "duration_ms": 266538,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/53wgkplpSRXUvtW3YQscTc"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Pro Carnaval Voltar",
+        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
+      },
+      "artists": [
+        {
+          "name": "Oran Etkin",
+          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        }
+      ],
+      "duration_ms": 481925,
+      "name": "Pro Carnaval Voltar",
+      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Experimento 1",
-        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
-      },
-      "artists": [
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        }
-      ],
-      "duration_ms": 576170,
-      "name": "Experimento 1",
-      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Plural",
         "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
       },
@@ -1287,30 +1263,6 @@
       "duration_ms": 492946,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Factotum",
-        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Ballest\u00e9",
-          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
-        },
-        {
-          "name": "Emile Saubole",
-          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
-        },
-        {
-          "name": "Pablo Arruda",
-          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
-        }
-      ],
-      "duration_ms": 396106,
-      "name": "Factotum",
-      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1339,6 +1291,54 @@
       "duration_ms": 457386,
       "name": "When the Answer Is a Question",
       "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Experimento 1",
+        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
+      },
+      "artists": [
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        }
+      ],
+      "duration_ms": 576170,
+      "name": "Experimento 1",
+      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Factotum",
+        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Ballest\u00e9",
+          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
+        },
+        {
+          "name": "Emile Saubole",
+          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
+        },
+        {
+          "name": "Pablo Arruda",
+          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "Factotum",
+      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
-      },
-      "artists": [
-        {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
-        }
-      ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Funktastic",
         "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 355961,
       "name": "Funktastic",
       "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Reluzente",
         "url": "https://open.spotify.com/album/0UMAqQoehHKQvNiptLXdO0"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 322602,
       "name": "Reluzente",
       "url": "https://open.spotify.com/track/0tGm68QkTE0ridWhHZkQoo"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Domingo 27/09",
-        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
-      },
-      "artists": [
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Edu Ribeiro Trio",
-          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
-        }
-      ],
-      "duration_ms": 502746,
-      "name": "Domingo 27/09",
-      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Mirada Pervertida (Bossa Guitar)",
         "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 218174,
       "name": "Nadie Tiene El Alma Pura",
       "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Domingo 27/09",
+        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Edu Ribeiro Trio",
+          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
+        }
+      ],
+      "duration_ms": 502746,
+      "name": "Domingo 27/09",
+      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Cinepoesia: Samba do \u00c1rvore",
-        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Freire",
-          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
-        }
-      ],
-      "duration_ms": 163169,
-      "name": "Cinepoesia: Samba do \u00c1rvore",
-      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Entroncamento",
         "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 253167,
       "name": "Nos Dias de Hoje",
       "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Cinepoesia: Samba do \u00c1rvore",
+        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Freire",
+          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Cinepoesia: Samba do \u00c1rvore",
+      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
     },
     {
       "added_at": "2025-09-19 14:12:16",

@@ -5111,6 +5111,28 @@
     },
     {
       "album": {
+        "name": "Thresholds (Remixes)",
+        "url": "https://open.spotify.com/album/6lh2WYmXhiXbur8oH7Bsmg"
+      },
+      "artists": [
+        {
+          "name": "Francis Harris",
+          "url": "https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W"
+        },
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394653,
+      "name": "Earth Moves - Hidden Spheres Remix",
+      "url": "https://open.spotify.com/track/3srHdKr4OnHfpjOC5jsz1O"
+    },
+    {
+      "album": {
         "name": "Hunger / Ease Up",
         "url": "https://open.spotify.com/album/4mSE14gwpR49d3z1yYLThW"
       },
@@ -6160,6 +6182,28 @@
       "duration_ms": 309000,
       "name": "Faisal (London Bridge Station)",
       "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6SelIi7wqc9TwN44diRhaM"
+      },
+      "artists": [
+        {
+          "name": "Paul St. Hilaire",
+          "url": "https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM"
+        },
+        {
+          "name": "Ren\u00e9 L\u00f6we",
+          "url": "https://open.spotify.com/artist/3aTAuv2BDyKfuO35yYlraf"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536906,
+      "name": "Faith (Vox Mix)",
+      "url": "https://open.spotify.com/track/4mD2H5p7Oz8AXP2EiG1OZv"
     },
     {
       "album": {
@@ -11766,7 +11810,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 302532,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/6BNPuxL7wzw6QZSBNGtwsD"
@@ -21964,7 +22008,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 160000,
       "name": "Yu",
       "url": "https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q"

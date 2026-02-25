@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,610,109 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,610,412 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 11 | [The Lost Soul Down \- Slowed & Reverb](https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down \(Slowed & Reverb\)](https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk) | 4:01 |
 | 12 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
 | 13 | [Sleepwalker \- Slowed](https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Sleepwalker \(Slowed\)](https://open.spotify.com/album/2EAUAqdIVckKAPCCT0hAQg) | 4:18 |
-| 14 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
-| 15 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
-| 16 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
+| 14 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
+| 15 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
+| 16 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
 | 17 | [HEAVENLY JUMPSTYLE \- Slowed](https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l) | [TWXNY](https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI), [Sxilwix](https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v), [INNXCENCE](https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc) | [HEAVENLY JUMPSTYLE](https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl) | 2:08 |
 | 18 | [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 |
 | 19 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 47 | [MONTAGEM \- PR FUNK \- Slowed & Reveerb](https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI) | 1:23 |
 | 48 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 |
 | 49 | [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 |
-| 50 | [Love Game \- Slowed](https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game \(Slowed\)](https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4) | 2:37 |
+| 50 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 
 Snapshot ID: `AAAAAGpDgckGU2TwS/3Klq5/G8Odd84u`

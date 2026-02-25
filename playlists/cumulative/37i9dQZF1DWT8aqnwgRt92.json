@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Ayakashi Ayashi",
+        "url": "https://open.spotify.com/album/73Phji7bwOPzrRBuJUmTT4"
+      },
+      "artists": [
+        {
+          "name": "Kashitaro Ito",
+          "url": "https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Ayakashi Ayashi",
+      "url": "https://open.spotify.com/track/2vfd3ns0FMTAA3iCzwcs6Z"
+    },
+    {
+      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG"
       },
@@ -3906,6 +3924,24 @@
       "duration_ms": 250173,
       "name": "Chasing destiny",
       "url": "https://open.spotify.com/track/2jePpIWARbuy860PvrJxui"
+    },
+    {
+      "album": {
+        "name": "Studio Ghibli Tribute Album \"Ghibli o Utau Two\"",
+        "url": "https://open.spotify.com/album/1EPdcmDRVgbh6LLlxcznqW"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "Chikyugi",
+      "url": "https://open.spotify.com/track/0r9hjiS3SFcQexMwIvLW7Q"
     },
     {
       "album": {
@@ -8042,7 +8078,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 279000,
       "name": "Go the Route",
       "url": "https://open.spotify.com/track/4nZNsG6aqOhlS0v9G6js7t"
@@ -10562,7 +10598,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 309906,
       "name": "innocent starter -MUSEUM STYLE-",
       "url": "https://open.spotify.com/track/5oF2YjRC7u2V0aPY4USGRQ"
@@ -14200,6 +14236,32 @@
       "duration_ms": 234846,
       "name": "MELODEA",
       "url": "https://open.spotify.com/track/7kOY5aTH0AYA8V9bQpjjVe"
+    },
+    {
+      "album": {
+        "name": "Mercury and the Honest Dorothy",
+        "url": "https://open.spotify.com/album/5Q5oNXzACuFWFbSSzGdWFi"
+      },
+      "artists": [
+        {
+          "name": "\u521d\u661f\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr"
+        },
+        {
+          "name": "\u5927\u6fa4\u3081\u3044",
+          "url": "https://open.spotify.com/artist/0lvb0ZZdemijDmgxh1W1jJ"
+        },
+        {
+          "name": "\u82b1\u6d77\u4f51\u82bd",
+          "url": "https://open.spotify.com/artist/0EPcSoJwzUaREV8OMBSSN3"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197472,
+      "name": "Mercury and the Honest Dorothy",
+      "url": "https://open.spotify.com/track/5oiYN6WfH1u7A97ZjNqFDl"
     },
     {
       "album": {
@@ -22343,6 +22405,24 @@
     },
     {
       "album": {
+        "name": "Make it(TV Animation \"The Easygoing Lord's Fun Territory Defense\" Ending Theme)",
+        "url": "https://open.spotify.com/album/6hWZtVW2gwR4XAYqG0Ve0a"
+      },
+      "artists": [
+        {
+          "name": "Nonoka Obuchi",
+          "url": "https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "SweetRoom823",
+      "url": "https://open.spotify.com/track/3Wc1R6rAzUckbu6PosRolt"
+    },
+    {
+      "album": {
         "name": "TABOO NIGHT XXXX",
         "url": "https://open.spotify.com/album/27it7d9jdTh0Gilg4GZsps"
       },
@@ -23350,7 +23430,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 249933,
       "name": "ToCoda",
       "url": "https://open.spotify.com/track/4f2SfaHXsTsFWx53eUjZsD"
@@ -23390,7 +23470,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 332466,
       "name": "Tokei",
       "url": "https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE"
@@ -24162,6 +24242,24 @@
       "duration_ms": 171831,
       "name": "UNBREAKABLE",
       "url": "https://open.spotify.com/track/6ADm4DCsnNeNfd2rFQO2iW"
+    },
+    {
+      "album": {
+        "name": "Unchain My Heart",
+        "url": "https://open.spotify.com/album/6TP5UqhCipwsgHQCggzF1m"
+      },
+      "artists": [
+        {
+          "name": "\u52a9\u5ddd\u771f\u8535",
+          "url": "https://open.spotify.com/artist/3YOcoyf6YDFCmTc7T29rha"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Unchain My Heart",
+      "url": "https://open.spotify.com/track/5jTGd5IrklxcK5cLBe6b4R"
     },
     {
       "album": {
@@ -30926,7 +31024,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 274700,
       "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30e9\u30d6",
       "url": "https://open.spotify.com/track/6Tqe2wGYOVJ9SN7FKYObif"
@@ -34914,7 +35012,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 229293,
       "name": "\u30d5\u30a1\u30f3\u30ad\u30fc\u30b9\u30d1\u30a4\u30b9",
       "url": "https://open.spotify.com/track/5BI855e9lQdjDpikTRQyKP"
@@ -35084,6 +35182,24 @@
       "duration_ms": 210369,
       "name": "\u30d5\u30e9\u30c3\u30b7\u30e5\u30d0\u30c3\u30af",
       "url": "https://open.spotify.com/track/7mohgpGIPJJFnu4htjKQ8G"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30eb\u30dc\u30b3",
+        "url": "https://open.spotify.com/album/5c3vPtqXPktqI3mtZOc83C"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173292,
+      "name": "\u30d5\u30eb\u30dc\u30b3",
+      "url": "https://open.spotify.com/track/1gVV83GEtLV50vTzEMx4cJ"
     },
     {
       "album": {
@@ -38654,7 +38770,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 215000,
       "name": "\u541b\u306f",
       "url": "https://open.spotify.com/track/5gs7OG3UE70LlPTUqXw4Px"
@@ -45916,7 +46032,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 236573,
       "name": "\u967d\u708e",
       "url": "https://open.spotify.com/track/5O8lo4aHWDMIBAIzxpTCHX"
@@ -46454,6 +46570,24 @@
       "duration_ms": 272466,
       "name": "\u98a8\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306e\u3086\u304f\u3048 - from CrosSing",
+        "url": "https://open.spotify.com/album/0elDQ19Kzj8mWzx5fQmfML"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u585a\u4f73\u7e54",
+          "url": "https://open.spotify.com/artist/7DNrt1OR5Dv7YNcpDmn5fD"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269407,
+      "name": "\u98a8\u306e\u3086\u304f\u3048 - from CrosSing",
+      "url": "https://open.spotify.com/track/4Ed4O9ETPQOCU9kD7gkZFT"
     },
     {
       "album": {

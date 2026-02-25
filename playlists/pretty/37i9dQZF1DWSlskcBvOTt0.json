@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 581806,
+  "num_followers": 581876,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Hit the Ground",
-        "url": "https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV"
+        "name": "A Gira",
+        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
       },
       "artists": [
         {
-          "name": "Texture",
-          "url": "https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e"
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
         }
       ],
-      "duration_ms": 145696,
-      "name": "Hit the Ground",
-      "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
+      "duration_ms": 152325,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "A Gira",
-        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
+        "name": "Hit the Ground",
+        "url": "https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV"
       },
       "artists": [
         {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+          "name": "Texture",
+          "url": "https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e"
         }
       ],
-      "duration_ms": 152325,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
+      "duration_ms": 145696,
+      "name": "Hit the Ground",
+      "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n"
       },
@@ -1287,6 +1311,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/4ySrNFGuhu4uJfFLwxAq7v"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 220322,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/6M8cnLqv9XJBb9XTxMdwn5"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "take me (to the sunrise)",
         "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
       },
@@ -1303,46 +1343,6 @@
       "duration_ms": 226829,
       "name": "take me (to the sunrise)",
       "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Back To Life",
-        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Samm (BE)",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "The Answer",
-        "url": "https://open.spotify.com/album/4ySrNFGuhu4uJfFLwxAq7v"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 220322,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/6M8cnLqv9XJBb9XTxMdwn5"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1495,6 +1495,30 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
+      },
+      "artists": [
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "good guy mikesh",
+          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 222956,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Give It All",
         "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
       },
@@ -1551,30 +1575,6 @@
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "One And Only",
-        "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
-      },
-      "artists": [
-        {
-          "name": "Reznik",
-          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
-        },
-        {
-          "name": "good guy mikesh",
-          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 222956,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Je t'attends",
-        "url": "https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "Shahin Shantiaei",
-          "url": "https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Je t'attends",
-      "url": "https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 207804,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Je t'attends",
+        "url": "https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Shahin Shantiaei",
+          "url": "https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Je t'attends",
+      "url": "https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1804,7 +1804,7 @@
       },
       "artists": [
         {
-          "name": "Gennaro",
+          "name": "GENNARO",
           "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
         }
       ],
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
-        }
-      ],
-      "duration_ms": 244391,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Feel The Love",
         "url": "https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 183016,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "duration_ms": 244391,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
-      },
-      "artists": [
-        {
-          "name": "AV\u00d6",
-          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
-        },
-        {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
-        }
-      ],
-      "duration_ms": 195371,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN"
       },
@@ -2359,6 +2339,26 @@
       "duration_ms": 154000,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
+      },
+      "artists": [
+        {
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+        },
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        }
+      ],
+      "duration_ms": 195371,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2467,6 +2467,50 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Back On 74 (Rework)",
+        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        },
+        {
+          "name": "Arper",
+          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+        }
+      ],
+      "duration_ms": 340160,
+      "name": "Back On 74 - Rework",
+      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Kumeleli",
+        "url": "https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Zamna Soundsystem",
+          "url": "https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG"
+        },
+        {
+          "name": "Oluhle",
+          "url": "https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT"
+        }
+      ],
+      "duration_ms": 324155,
+      "name": "Kumeleli",
+      "url": "https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/4iPr6vfBSTzI3ksPdReHbQ"
       },
@@ -2519,46 +2563,18 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Back On 74 (Rework)",
-        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
       },
       "artists": [
         {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        },
-        {
-          "name": "Arper",
-          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
         }
       ],
-      "duration_ms": 340160,
-      "name": "Back On 74 - Rework",
-      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Kumeleli",
-        "url": "https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Zamna Soundsystem",
-          "url": "https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG"
-        },
-        {
-          "name": "Oluhle",
-          "url": "https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT"
-        }
-      ],
-      "duration_ms": 324155,
-      "name": "Kumeleli",
-      "url": "https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb"
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2575,22 +2591,6 @@
       "duration_ms": 209538,
       "name": "i can't make you love me",
       "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
-      },
-      "artists": [
-        {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2659,6 +2659,26 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Hold It (feat. ZenTola)",
         "url": "https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW"
       },
@@ -2683,42 +2703,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
         }
       ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
-        "url": "https://open.spotify.com/album/4d4QfJ0qQGdQe1SZVXDech"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        }
-      ],
-      "duration_ms": 275208,
-      "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
-      "url": "https://open.spotify.com/track/3iDRa9vD0TunjvYzcVcRSC"
+      "duration_ms": 165500,
+      "name": "Kuwe",
+      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
     }
   ],
   "unique_name": "Tantra",

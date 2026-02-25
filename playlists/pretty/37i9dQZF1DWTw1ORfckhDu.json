@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104860,
+  "num_followers": 104857,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,22 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "No Haav No Love",
-        "url": "https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF"
+        "name": "et mill\u00e4\u00e4n saa",
+        "url": "https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs"
       },
       "artists": [
         {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
         }
       ],
-      "duration_ms": 197141,
-      "name": "No Haav No Love",
-      "url": "https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF"
+      "duration_ms": 174000,
+      "name": "et mill\u00e4\u00e4n saa",
+      "url": "https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL"
     },
     {
       "added_at": "2026-02-19 22:00:21",
@@ -371,22 +375,18 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "et mill\u00e4\u00e4n saa",
-        "url": "https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs"
+        "name": "No Haav No Love",
+        "url": "https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF"
       },
       "artists": [
         {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        },
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 174000,
-      "name": "et mill\u00e4\u00e4n saa",
-      "url": "https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL"
+      "duration_ms": 197141,
+      "name": "No Haav No Love",
+      "url": "https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF"
     },
     {
       "added_at": "2026-02-19 22:00:21",
@@ -659,8 +659,8 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "Toimitusjohtaja",
-        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+        "name": "Sit Ku Mul On Muija",
+        "url": "https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
         }
       ],
-      "duration_ms": 165438,
-      "name": "Toimitusjohtaja",
-      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+      "duration_ms": 136617,
+      "name": "Sit Ku Mul On Muija",
+      "url": "https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i"
     },
     {
       "added_at": "2026-02-19 22:00:21",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "Make Trap Great Again",
-        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Tykk\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
-    },
-    {
-      "added_at": "2026-02-19 22:00:21",
-      "album": {
         "name": "LADABOIS",
         "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
       },
@@ -751,8 +735,24 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "Sit Ku Mul On Muija",
-        "url": "https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl"
+        "name": "Make Trap Great Again",
+        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Tykk\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
+    },
+    {
+      "added_at": "2026-02-19 22:00:21",
+      "album": {
+        "name": "Toimitusjohtaja",
+        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
         }
       ],
-      "duration_ms": 136617,
-      "name": "Sit Ku Mul On Muija",
-      "url": "https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i"
+      "duration_ms": 165438,
+      "name": "Toimitusjohtaja",
+      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
     },
     {
       "added_at": "2026-02-19 22:00:21",

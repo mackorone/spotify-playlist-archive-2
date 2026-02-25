@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,435 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,452 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 33 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 |
 | 34 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 35 | [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 |
-| 36 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
-| 37 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
+| 36 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
+| 37 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
 | 38 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |
 | 39 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
 | 40 | [Love Me Tender](https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl) | [August Ken](https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5) | [Love Me Tender](https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw) | 2:00 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 74 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
 | 75 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
 | 76 | [Warm](https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Warm](https://open.spotify.com/album/2FcAyZf7Ack86ExG4yMh23) | 3:32 |
-| 77 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 |
-| 78 | [Nocturne](https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Nocturne](https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1) | 3:01 |
+| 77 | [Nocturne](https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Nocturne](https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1) | 3:01 |
+| 78 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 |
 | 79 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 |
 | 80 | [Impromptu](https://open.spotify.com/track/1oKOIu35J9znIA7JbtVlTK) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Impromptu](https://open.spotify.com/album/3FLWbNwSwVSII9yOJV8NjL) | 2:24 |
 | 81 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 |

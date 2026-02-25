@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,869 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,861 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 17 | [Severed](https://open.spotify.com/track/38psZM2gA6UWA7rqqgOjGL) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [I'll Be Your Girl](https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6) | 4:03 |
 | 18 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 19 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
-| 20 | [Olympians](https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 3:58 |
-| 21 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
+| 20 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
+| 21 | [Olympians](https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 3:58 |
 | 22 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
 | 23 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 24 | [Lemonade](https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Lemonade](https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB) | 3:40 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 26 | [What Feels Like Eternity](https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:37 |
 | 27 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
 | 28 | [Paraphernalia](https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx) | 4:23 |
-| 29 | [I Come from the Mountain](https://open.spotify.com/track/2eKcMyjRqXwVh8OeR9wZKt) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:28 |
-| 30 | [Lo/Hi](https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Lo/Hi](https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply) | 2:57 |
+| 29 | [Lo/Hi](https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Lo/Hi](https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply) | 2:57 |
+| 30 | [I Come from the Mountain](https://open.spotify.com/track/2eKcMyjRqXwVh8OeR9wZKt) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:28 |
 | 31 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 32 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
-| 33 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
-| 34 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
+| 33 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
+| 34 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 35 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 36 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 |
 | 37 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |

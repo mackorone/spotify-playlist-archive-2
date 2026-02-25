@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > The Indie highlights of 2017\. Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,173 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,171 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 38 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 |
 | 39 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 40 | [I Dare You](https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:53 |
-| 41 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
-| 42 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 |
+| 41 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 |
+| 42 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
 | 43 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 |
 | 44 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
 | 45 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 53 | [So Tied Up](https://open.spotify.com/track/3msS7xaelR4Oa0n7IwHkgF) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:09 |
 | 54 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
 | 55 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
-| 56 | [Oh Devil](https://open.spotify.com/track/3TBHYzTPw0Hv05hCAtTJG0) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Plural](https://open.spotify.com/album/38TessTymDbaYtY3A6bm3b) | 3:37 |
-| 57 | [You're Somebody Else](https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3) | 3:38 |
-| 58 | [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 |
-| 59 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 |
+| 56 | [You're Somebody Else](https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3) | 3:38 |
+| 57 | [Oh Devil](https://open.spotify.com/track/3TBHYzTPw0Hv05hCAtTJG0) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Plural](https://open.spotify.com/album/38TessTymDbaYtY3A6bm3b) | 3:37 |
+| 58 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 |
+| 59 | [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 |
 | 60 | [Fangs](https://open.spotify.com/track/6T7xC3rDjOCkMkvcFVdu6Z) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Fangs](https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv) | 3:54 |
 | 61 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 |
 | 62 | [Want You Back](https://open.spotify.com/track/2ixswrurtpfZHrx406eGgw) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something To Tell You](https://open.spotify.com/album/3EFSOzgqaOQqJCMAMMn4Cl) | 3:52 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 95 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 |
 | 96 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 |
 | 97 | [Slip Away](https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4) | 2:45 |
-| 98 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
-| 99 | [Retrospect \- Single Version](https://open.spotify.com/track/1YlOdKPa0LBTqOnFAxWPLQ) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Retrospect](https://open.spotify.com/album/7od5erHuDrLwWySdecKpcJ) | 3:24 |
+| 98 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
+| 99 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
 | 100 | [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 2:15 |
 
 Snapshot ID: `AAAAADUoqS6nlHnI7fBq7SmlnZ3wmttI`

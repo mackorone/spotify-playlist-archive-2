@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,822 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,893 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 50 | [Show Me Love \- EDX Remix / Radio Edit](https://open.spotify.com/track/6PkzXU8dlwtfrwyTlUyVnv) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Show Me Love \(EDX Remix / Radio Edit\)](https://open.spotify.com/album/6i0e9955UWeADYG0ZsXBiP) | 3:00 |
 | 51 | [The Only Way Is Up](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:18 |
 | 52 | [Next to Me](https://open.spotify.com/track/6ZixfeFT8V0Nle1rMZAekY) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Next To Me](https://open.spotify.com/album/4I46tkai1n6ZlPUw8YCp5h) | 3:22 |
-| 53 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
-| 54 | [Gonna Love Ya](https://open.spotify.com/track/1rDETmcizen79JghAEm1Se) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:35 |
+| 53 | [Gonna Love Ya](https://open.spotify.com/track/1rDETmcizen79JghAEm1Se) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:35 |
+| 54 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
 | 55 | [Reality](https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Reality](https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx) | 2:39 |
 | 56 | [Closer](https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 4:30 |
 | 57 | [Samsara \(feat\. Emila\)](https://open.spotify.com/track/6oJflQkp7lFXOQce4wPTAW) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Emila](https://open.spotify.com/artist/3AlnY6JafbuFhod8D3Lo8l) | [Samsara \(feat\. Emila\)](https://open.spotify.com/album/4rKrPkq8zi6jKmuLdzpNY2) | 3:31 |

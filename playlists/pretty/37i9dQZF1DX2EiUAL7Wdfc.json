@@ -1,6 +1,6 @@
 {
   "description": "Los temas que se convertir\u00e1n en himnos.",
-  "num_followers": 583948,
+  "num_followers": 584133,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "El Amante",
-      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "Comernos",
-        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Comernos",
-      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 221653,
       "name": "Me Niego (feat. Ozuna & Wisin)",
       "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "Comernos",
+        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Comernos",
+      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
+        "name": "Andas En Mi Cabeza",
+        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Andas En Mi Cabeza",
+      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
-        "name": "Andas En Mi Cabeza",
-        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Andas En Mi Cabeza",
-      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 360960,
       "name": "Pa M\u00ed (Remix)",
       "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
     },
     {
       "added_at": "2025-11-03 09:03:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,496 likes - 346 songs - 21 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,498 likes - 346 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 152 | [All Loved Up](https://open.spotify.com/track/6914ZWSnIGPlQkNgQldTmT) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 3:30 |
 | 153 | [Fallen Fruit](https://open.spotify.com/track/5iUnomffoLeQsdlY2k5TDU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:58 |
 | 154 | [Better Life](https://open.spotify.com/track/2Ok3BkZ7qcSfFCm67HSGCM) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:20 |
-| 155 | [Stop Making This Hurt](https://open.spotify.com/track/7fRCD4vVNpCy91Y3zxNMUl) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:19 |
-| 156 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 155 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 156 | [Stop Making This Hurt](https://open.spotify.com/track/7fRCD4vVNpCy91Y3zxNMUl) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:19 |
 | 157 | [Dance Till We Die](https://open.spotify.com/track/6TZitk9QD7531Jl1TT7TeH) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:03 |
 | 158 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 |
 | 159 | [AAAHH MEN!](https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:13 |
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 172 | [The Man with the Axe](https://open.spotify.com/track/2mP9lPo7pv9k2HTVutEisM) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 4:15 |
 | 173 | [Take Me Dancing \(feat\. SZA\)](https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:44 |
 | 174 | [Be Calm](https://open.spotify.com/track/1mItgKNZhABGsy7hRHHkIR) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:09 |
-| 175 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 |
-| 176 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
+| 175 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
+| 176 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 |
 | 177 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 |
 | 178 | [Judah Smith Interlude](https://open.spotify.com/track/4fFqFgMDP9lY8tqEoArFGq) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:36 |
 | 179 | [Partridge](https://open.spotify.com/track/4iBtktPvH4yfS5LR6oAQT1) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:13 |
@@ -208,8 +208,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 198 | [March March](https://open.spotify.com/track/3TCQaTVKBHYMBPVx1sTB8v) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:53 |
 | 199 | [Pills](https://open.spotify.com/track/6jcKQzA6fxIrof4AlrojG1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:40 |
 | 200 | [Walking The Dog](https://open.spotify.com/track/1lLJ6dT1CcyheZZyr7gJy4) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:39 |
-| 201 | [Shadow](https://open.spotify.com/track/21BrL78LaCFPx572SYolGo) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:51 |
-| 202 | [Helen of Troy \- Bonus Track](https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 2:51 |
+| 201 | [Helen of Troy \- Bonus Track](https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 2:51 |
+| 202 | [Shadow](https://open.spotify.com/track/21BrL78LaCFPx572SYolGo) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:51 |
 | 203 | [Julianna Calm Down](https://open.spotify.com/track/7rzwt8DCdheGEWjxGXc38a) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:46 |
 | 204 | [Texas Man](https://open.spotify.com/track/6fDAGY50m6cnVBY8aUTi9d) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:44 |
 | 205 | [Crumble](https://open.spotify.com/track/3ls9lmPJ7xROR2VL5Kv1Gz) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:07 |
@@ -330,8 +330,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 320 | [The Speedway Motor Racers Club](https://open.spotify.com/track/4yqWA8A12MvyCPgFmJw4Pu) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 3:22 |
 | 321 | [A Magazine](https://open.spotify.com/track/7siUJ5l3kD1pt5hwj3hoiI) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 5:12 |
 | 322 | [DO OVER](https://open.spotify.com/track/5QsvwpZpAFZr3mZSiUfyJz) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:31 |
-| 323 | [Leave You Traveling](https://open.spotify.com/track/3nq49Y5nIXR6Tj0WcIDuTp) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 3:47 |
-| 324 | [What the Fuck \- Live](https://open.spotify.com/track/57C1sRLazYPpOl9HAWuU7H) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Before Shane Went to Bangkok: FUN\. LIVE in the USA](https://open.spotify.com/album/5RXUNQwcgpWLFUqhvwoY8F) | 6:42 |
+| 323 | [What the Fuck \- Live](https://open.spotify.com/track/57C1sRLazYPpOl9HAWuU7H) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Before Shane Went to Bangkok: FUN\. LIVE in the USA](https://open.spotify.com/album/5RXUNQwcgpWLFUqhvwoY8F) | 6:42 |
+| 324 | [Leave You Traveling](https://open.spotify.com/track/3nq49Y5nIXR6Tj0WcIDuTp) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 3:47 |
 | 325 | [Women I Belong To](https://open.spotify.com/track/5EB32M1Ka37HvJNogfGEYd) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 6:20 |
 | 326 | [TO YOUR FACE](https://open.spotify.com/track/5z9miNnG1h6rnMzP72w6oj) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 |
 | 327 | [Road Song](https://open.spotify.com/track/78zye186L9Mh094jpJ8ewa) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:31 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 345 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 346 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AcKeKgAAAACAx8NfL9vHQ2GE/65vNjJ4`
+Snapshot ID: `AcKjygAAAABX5wgiRGVN38R9fDnLwMit`

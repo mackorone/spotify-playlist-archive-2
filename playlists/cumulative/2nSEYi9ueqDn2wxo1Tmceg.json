@@ -8209,6 +8209,24 @@
     },
     {
       "album": {
+        "name": "DISCOMBOBULATED",
+        "url": "https://open.spotify.com/album/5NCdUrtZGteLXKRppy83EN"
+      },
+      "artists": [
+        {
+          "name": "Hen Ogledd",
+          "url": "https://open.spotify.com/artist/1nw6dQQptzvEQ5GtC6HGe4"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261573,
+      "name": "End of the rhythm",
+      "url": "https://open.spotify.com/track/6hKx1KhvS5TjzbxBclrMJQ"
+    },
+    {
+      "album": {
         "name": "Endless Rain",
         "url": "https://open.spotify.com/album/37G9jNIbXIQd96MhK2IqXp"
       },
@@ -16066,6 +16084,24 @@
       "duration_ms": 251866,
       "name": "Lamplighter",
       "url": "https://open.spotify.com/track/39MmCDEKqaf70bPxzCOTAD"
+    },
+    {
+      "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110758,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
     },
     {
       "album": {

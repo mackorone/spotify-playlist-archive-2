@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Banda MS y Xavi en portada ",
-  "num_followers": 829189,
+  "num_followers": 829214,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
-        "name": "triston",
-        "url": "https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
         "name": "Poema",
         "url": "https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194018,
       "name": "Poema",
       "url": "https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
+        "name": "triston",
+        "url": "https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
-        "name": "ESPEJO",
-        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "ESPEJO",
-      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
         "name": "Sin Fin",
         "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 172157,
       "name": "Sin Fin",
       "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
+        "name": "ESPEJO",
+        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "ESPEJO",
+      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
-        "name": "OTRO DESMADRE",
-        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 182061,
-      "name": "OTRO DESMADRE",
-      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 189512,
       "name": "Si T\u00fa Me Vieras",
       "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
+        "name": "OTRO DESMADRE",
+        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 182061,
+      "name": "OTRO DESMADRE",
+      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
-        "name": "300 Noches",
-        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "300 Noches",
-      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
         "name": "Me Est\u00e1 Doliendo",
         "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 202941,
       "name": "Me Est\u00e1 Doliendo",
       "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
+        "name": "300 Noches",
+        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "300 Noches",
+      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
+        "name": "IMU",
+        "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 139734,
+      "name": "IMU",
+      "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
         "name": "NOTYPE (feat. Angely2k) [Remix]",
         "url": "https://open.spotify.com/album/1PhC7c3yvUy2fV7t7vzBDI"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 162003,
       "name": "NOTYPE (feat. Angely2k) - Remix",
       "url": "https://open.spotify.com/track/5ER0JA9dl4vq8rj0zYsTNp"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
-        "name": "IMU",
-        "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
-        },
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 139734,
-      "name": "IMU",
-      "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
         "name": "CASI T\u00da",
         "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 157927,
       "name": "CASI T\u00da",
       "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
     },
     {
       "added_at": "2026-02-20 06:00:33",

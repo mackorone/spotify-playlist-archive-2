@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,259 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,265 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,18 +31,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 21 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 22 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 |
 | 23 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
-| 24 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
-| 25 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
+| 24 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
+| 25 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 26 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 |
 | 27 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
 | 28 | [夏の影](https://open.spotify.com/track/3hp4ZggkNMsre9cutCSnLK) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [夏の影](https://open.spotify.com/album/3kvf1IGbcVYzN5nGnExNx9) | 4:07 |
 | 29 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
-| 30 | [プレイシック](https://open.spotify.com/track/4HWJSaMneOtNkFOrD1LU0c) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [プレイシック](https://open.spotify.com/album/1T9P3sm0nH06nRL9IUFap9) | 3:55 |
+| 30 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 |
 | 31 | [コトノハ \- Kotonoha](https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [コトノハ \- Kotonoha](https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ) | 3:59 |
 | 32 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
 | 33 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 |
 | 34 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |
-| 35 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 |
+| 35 | [プレイシック](https://open.spotify.com/track/4HWJSaMneOtNkFOrD1LU0c) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [プレイシック](https://open.spotify.com/album/1T9P3sm0nH06nRL9IUFap9) | 3:55 |
 | 36 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
 | 37 | [三文小説](https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [三文小説](https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G) | 4:40 |
 | 38 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 |

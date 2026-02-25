@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,010 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,199 likes - 39 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 37 | [Neta](https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:59 |
 | 38 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 39 | [Seca Tus Lagrimas](https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 1:56 |
-| 40 | [El F](https://open.spotify.com/track/04QX4SHRnYuMj5PffvG0dA) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 4:09 |
 
-Snapshot ID: `aZpHAAAAAAAJPCsCkW3UDq8BM7mriwrt`
+Snapshot ID: `aZuYgAAAAAAWNioazz4xM8HKz/iOyPJq`

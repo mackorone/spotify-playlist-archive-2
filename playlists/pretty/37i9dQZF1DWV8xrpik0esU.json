@@ -1,6 +1,6 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 1053292,
+  "num_followers": 1053320,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
         "name": "The Singles 86-98",
         "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 258133,
-      "name": "Always Be My Baby",
-      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 258133,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Great Expectations",
-        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
-      },
-      "artists": [
-        {
-          "name": "Tasmin Archer",
-          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Sleeping Satellite",
-      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 367333,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+      },
+      "artists": [
+        {
+          "name": "Tasmin Archer",
+          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Sleeping Satellite",
+      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
         "name": "'N Sync UK Version",
         "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 209400,
       "name": "Tearin' up My Heart - Radio Edit",
       "url": "https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Toni Braxton",
-        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
         {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 269173,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV"
+      "duration_ms": 251160,
+      "name": "The Power of Good-Bye",
+      "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
     }
   ],
   "unique_name": "Easy 90s",

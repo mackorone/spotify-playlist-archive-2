@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105757,
+  "num_followers": 105751,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
-        "name": "Dream As One (from Avatar: Fire and Ash)",
-        "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 199876,
-      "name": "Dream As One - from Avatar: Fire and Ash",
-      "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
         "name": "Lucky Again",
         "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
+        "name": "Dream As One (from Avatar: Fire and Ash)",
+        "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 199876,
+      "name": "Dream As One - from Avatar: Fire and Ash",
+      "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 147142,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -699,22 +715,6 @@
       "duration_ms": 188386,
       "name": "Gut Punch",
       "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
-        "name": "Give Me Something (for Arknights Endfield)",
-        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 162789,
-      "name": "Give Me Something (for Arknights Endfield)",
-      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
         "name": "I Had a Dream She Took My Hand",
         "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 220291,
       "name": "I Had a Dream She Took My Hand",
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
+        "name": "Give Me Something (for Arknights Endfield)",
+        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 162789,
+      "name": "Give Me Something (for Arknights Endfield)",
+      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
+        "name": "miss u 2 (with Leon Thomas)",
+        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 148404,
+      "name": "miss u 2 (with Leon Thomas)",
+      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
         "name": "YEBO",
         "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
       },
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
-        "name": "miss u 2 (with Leon Thomas)",
-        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 148404,
-      "name": "miss u 2 (with Leon Thomas)",
-      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
       },
@@ -1055,26 +1055,6 @@
       "duration_ms": 253350,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
-        "name": "ICEY..FEISTY",
-        "url": "https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "..FEISTY",
-      "url": "https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -1099,18 +1079,22 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
-        "name": "BACK WHEN YOU WERE MINE",
-        "url": "https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k"
+        "name": "ICEY..FEISTY",
+        "url": "https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 161346,
-      "name": "BACK WHEN YOU WERE MINE",
-      "url": "https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT"
+      "duration_ms": 171764,
+      "name": "..FEISTY",
+      "url": "https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
+        "name": "BACK WHEN YOU WERE MINE",
+        "url": "https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "BACK WHEN YOU WERE MINE",
+      "url": "https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
         "name": "L.U.C.K.Y",
         "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
+        "name": "Begge To",
+        "url": "https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 186439,
+      "name": "Begge To",
+      "url": "https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -1163,22 +1179,6 @@
       "duration_ms": 229346,
       "name": "Over (feat. Tom Odell)",
       "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
-        "name": "Begge To",
-        "url": "https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 186439,
-      "name": "Begge To",
-      "url": "https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
         "name": "jeg tror jeg elsker dig for evigt",
         "url": "https://open.spotify.com/album/16t5Ewp0D7rDDQZBlcNevX"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 176680,
       "name": "Lyse N\u00e6tter",
       "url": "https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
-        "name": "nothing on u",
-        "url": "https://open.spotify.com/album/1wFBpYVbwHqhSOUuym7kTf"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 121161,
-      "name": "nothing on u",
-      "url": "https://open.spotify.com/track/1LluuPK8V8UaJ4Q3TQVfzQ"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
+        "name": "nothing on u",
+        "url": "https://open.spotify.com/album/1wFBpYVbwHqhSOUuym7kTf"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 121161,
+      "name": "nothing on u",
+      "url": "https://open.spotify.com/track/1LluuPK8V8UaJ4Q3TQVfzQ"
+    },
+    {
+      "added_at": "2026-02-20 07:50:21",
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/5map5mUcTARef4QIKuj8Hf"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2026-02-20 07:50:21",
       "album": {
-        "name": "Who's That Calling?",
-        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+        "name": "1000 Timer",
+        "url": "https://open.spotify.com/album/1JxyEWSSQzWN74U21qG0Eg"
       },
       "artists": [
         {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
         }
       ],
-      "duration_ms": 196156,
-      "name": "Who's That Calling?",
-      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+      "duration_ms": 190561,
+      "name": "1000 Timer",
+      "url": "https://open.spotify.com/track/4xCGb24w2tsJxSLy1cgrBJ"
     },
     {
       "added_at": "2026-02-20 07:50:21",
@@ -1371,22 +1387,6 @@
       "duration_ms": 174750,
       "name": "Nyhavn (feat. Ella Augusta)",
       "url": "https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd"
-    },
-    {
-      "added_at": "2026-02-20 07:50:21",
-      "album": {
-        "name": "Thinking \u2018bout You",
-        "url": "https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 140586,
-      "name": "Thinking \u2018bout You",
-      "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
     }
   ],
   "unique_name": "De nye",

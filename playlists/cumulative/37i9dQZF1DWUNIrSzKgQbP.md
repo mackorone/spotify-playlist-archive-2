@@ -4,7 +4,7 @@
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-863 songs - 2 day 5 hr 58 min
+864 songs - 2 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,6 +840,7 @@
 | [willow](https://open.spotify.com/track/2gVhfX2Gy1T9kDuS9azrF7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 3:34 | 2024-08-28 | 2025-12-09 |
 | [Winter Birds](https://open.spotify.com/track/1ZKgCgtSN3tMLcfKap6NFb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 6:18 | 2022-12-21 | 2024-03-16 |
 | [Winter Birds](https://open.spotify.com/track/4q8PA5nJG8fdbMdJMlPNdK) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in The Grain \(Standard DMD\)](https://open.spotify.com/album/2sOE2ErQdW8Az2I6IC6Py3) | 6:19 | 2024-12-17 | 2025-03-21 |
+| [Winter Song](https://open.spotify.com/track/0iVV5rM3s0n93UjOY4eedW) | [Dean Johnson](https://open.spotify.com/artist/4EIdxKX5DkSd7DQhtmY5DN) | [I Hope We Can Still Be Friends](https://open.spotify.com/album/6b8ypwW1SFVz8gZ4MWzzBc) | 3:19 | 2026-02-24 |  |
 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2022-12-21 | 2023-03-16 |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-12-20 | 2023-12-16 |
 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 | 2022-06-07 | 2022-09-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,439 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,464 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 10 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 11 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
 | 12 | [Destiny](https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 4:53 |
-| 13 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
+| 13 | [Black Out Days](https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 3:47 |
 | 14 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
-| 15 | [Black Out Days](https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 3:47 |
+| 15 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 16 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
 | 17 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
 | 18 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 37 | [California Girls](https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [California Girls](https://open.spotify.com/album/4U5EFFFsaynpAmTG6DS2MQ) | 3:36 |
 | 38 | [Gimme Some](https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Easier](https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B) | 5:08 |
 | 39 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
-| 40 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 |
-| 41 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
+| 40 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
+| 41 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 |
 | 42 | [Get Away](https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:30 |
-| 43 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
-| 44 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
+| 43 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
+| 44 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
 | 45 | [All Night](https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Love Songs: Part Two](https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG) | 4:54 |
 | 46 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
 | 47 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 62 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 63 | [New Theory](https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 2:48 |
 | 64 | [Julia](https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 3:15 |
-| 65 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
-| 66 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
+| 65 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
+| 66 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
 | 67 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
 | 68 | [Be a Body](https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:20 |
 | 69 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 |

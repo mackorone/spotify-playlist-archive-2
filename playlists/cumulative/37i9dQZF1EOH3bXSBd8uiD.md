@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 10 hr 32 min
+21 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:36 | 2020-11-27 |  |
 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2020-11-27 |  |
 | [Jaden Smith](https://open.spotify.com/episode/7rzHpSNNGZiTAzH6udUCe7) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/show/4JHRWijaDsdLCYje4qx9gb) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/album/4JHRWijaDsdLCYje4qx9gb) | 40:09 | 2020-11-27 |  |
-| [Kyle Meredith With..\. Jeremy Zucker](https://open.spotify.com/episode/2KoMXoWY0dp2lhQDF3tBCy) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 20:41 | 2020-11-27 |  |
+| [Kyle Meredith With..\. Jeremy Zucker](https://open.spotify.com/episode/2KoMXoWY0dp2lhQDF3tBCy) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 22:06 | 2020-11-27 |  |
 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 | 2020-11-27 |  |
 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 | 2020-11-27 |  |
 | [not ur friend](https://open.spotify.com/track/5T9S5x5hEOvgGKWysm683a) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [not ur friend](https://open.spotify.com/album/6DmXViJkaMpvIJnQTohJXJ) | 2:54 | 2020-11-27 |  |

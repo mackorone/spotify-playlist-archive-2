@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: RICKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,883 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,891 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 43 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 44 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 45 | [Sonde](https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Pretoria](https://open.spotify.com/album/6tUxIx5RMSyZhZjKBMWr66) | 4:12 |
-| 46 | [Noorderlig](https://open.spotify.com/track/0A8LsxXyzdpFlkRQoChoUo) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Noorderlig](https://open.spotify.com/album/3sNkWwLJrdkiDsIBMTdEus) | 4:33 |
-| 47 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
+| 46 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
+| 47 | [Noorderlig](https://open.spotify.com/track/0A8LsxXyzdpFlkRQoChoUo) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Noorderlig](https://open.spotify.com/album/3sNkWwLJrdkiDsIBMTdEus) | 4:33 |
 | 48 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
-| 49 | [I'm Afraid of Americans](https://open.spotify.com/track/2llxtfarQAta5xhYZsq6EA) | [JaeXlynne](https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz) | [I'm Afraid of Americans](https://open.spotify.com/album/2xRVDJuLOXOpfpkcvZMgCa) | 4:39 |
-| 50 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 49 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 50 | [I'm Afraid of Americans](https://open.spotify.com/track/2llxtfarQAta5xhYZsq6EA) | [JaeXlynne](https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz) | [I'm Afraid of Americans](https://open.spotify.com/album/2xRVDJuLOXOpfpkcvZMgCa) | 4:39 |
 
 Snapshot ID: `AAAAAJnmGLuL/2hAW/raaL/AOptstU/K`

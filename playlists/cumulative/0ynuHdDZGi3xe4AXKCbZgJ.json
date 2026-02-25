@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/4283oJOD3hPCAoyc3P5irz"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166306,
+      "name": "Orphans",
+      "url": "https://open.spotify.com/track/4OhCZOe1g2Dv1RribKsIKK"
+    },
+    {
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },

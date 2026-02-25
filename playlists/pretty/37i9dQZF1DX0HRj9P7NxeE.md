@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748,057 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,036 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 34 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 35 | [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 |
 | 36 | [Shake Dat Ass \(Twerk Song\)](https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Too Slippery](https://open.spotify.com/album/3ESmtTRJZkIjPShkV48tdL) | 3:17 |
-| 37 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |
-| 38 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 |
+| 37 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 |
+| 38 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |
 | 39 | [All Dere \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:56 |
 | 40 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
 | 41 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |

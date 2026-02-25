@@ -3857,6 +3857,36 @@
     },
     {
       "album": {
+        "name": "Hustle and Flow",
+        "url": "https://open.spotify.com/album/19qd6ZxRRq4zEtAVU81s1w"
+      },
+      "artists": [
+        {
+          "name": "JkashMurkum",
+          "url": "https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C"
+        },
+        {
+          "name": "Blanko Fatts",
+          "url": "https://open.spotify.com/artist/7KuXAmWmnFy3VfIKSlkyzM"
+        },
+        {
+          "name": "JACKO",
+          "url": "https://open.spotify.com/artist/3OC8FcvekGzR2bB8Pyf2v8"
+        },
+        {
+          "name": "SASSY GMG",
+          "url": "https://open.spotify.com/artist/052TXoeWdC9wy5rJbfATR0"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Hustle and Flow",
+      "url": "https://open.spotify.com/track/1H9Dx5LQNxrzphL9GxoLJz"
+    },
+    {
+      "album": {
         "name": "i am Alright",
         "url": "https://open.spotify.com/album/1QRciiuZNMK9OZmAmtRo62"
       },
@@ -5404,6 +5434,24 @@
       "duration_ms": 190592,
       "name": "My Legacy",
       "url": "https://open.spotify.com/track/5EDSPYRpA7L4AJP5foKQaY"
+    },
+    {
+      "album": {
+        "name": "My Mind Is a Void",
+        "url": "https://open.spotify.com/album/7vDLJdt0tdllXZ6ZDINQb6"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194129,
+      "name": "My Mind Is a Void",
+      "url": "https://open.spotify.com/track/0K1cYIykoKhDbYF3WHXNKT"
     },
     {
       "album": {
@@ -7658,6 +7706,24 @@
       "duration_ms": 195739,
       "name": "sometimes",
       "url": "https://open.spotify.com/track/1jIZtvTDNoorr4zuPNXu3F"
+    },
+    {
+      "album": {
+        "name": "Somos M\u00e1s De Lo Que Vemos",
+        "url": "https://open.spotify.com/album/4zaI6x7L57L5AG20p3CuDu"
+      },
+      "artists": [
+        {
+          "name": "Adam Ashrei",
+          "url": "https://open.spotify.com/artist/3YYTIWbnarG9IperSoNsfT"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303730,
+      "name": "Somos M\u00e1s De Lo Que Vemos",
+      "url": "https://open.spotify.com/track/7g86Hmc1LGJPWqZUDe7EK3"
     },
     {
       "album": {

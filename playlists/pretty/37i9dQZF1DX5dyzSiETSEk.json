@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 575859,
+  "num_followers": 575827,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2026-01-05 20:12:51",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-01-05 20:12:51",
       "album": {
-        "name": "silent treatment",
-        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 142030,
-      "name": "silent treatment",
-      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
-    },
-    {
-      "added_at": "2026-01-05 20:12:51",
-      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 276066,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
+    },
+    {
+      "added_at": "2026-01-05 20:12:51",
+      "album": {
+        "name": "silent treatment",
+        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 142030,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
     },
     {
       "added_at": "2026-01-05 20:12:51",

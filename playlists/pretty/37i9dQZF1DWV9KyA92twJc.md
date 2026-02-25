@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: יובל רפאל
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,788 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,790 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 19 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 20 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 21 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
-| 22 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
-| 23 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
+| 22 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
+| 23 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 24 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
 | 25 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 26 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 94 | [קשר בתקצורת](https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Haim Moshe](https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:29 |
 | 95 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
 | 96 | [במקום בו אני גר](https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [אורית טשומה](https://open.spotify.com/artist/0X36xboo0vsPER5eeULxle), [אברהם לגסה](https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt) | [אה וואו](https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs) | 4:16 |
-| 97 | [היי אהובה](https://open.spotify.com/track/5WTyArd4ylPYTAifaqKDyM) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [היי אהובה](https://open.spotify.com/album/5am6d33LlJu2GhvsLEIVLE) | 2:50 |
-| 98 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
+| 97 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
+| 98 | [היי אהובה](https://open.spotify.com/track/5WTyArd4ylPYTAifaqKDyM) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [היי אהובה](https://open.spotify.com/album/5am6d33LlJu2GhvsLEIVLE) | 2:50 |
 | 99 | [מה יבוא](https://open.spotify.com/track/5JU5xtaUvWXK5IkyUIFd03) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [מה יבוא](https://open.spotify.com/album/0BGH0loFudBYXf13fjYb1O) | 2:31 |
-| 100 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
+| 100 | [ראש הממשלה](https://open.spotify.com/track/64X7IM9ZENFkjZDOVGnxCh) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [ראש הממשלה](https://open.spotify.com/album/7cyRJlBeNv6sUo8i6V1tV2) | 2:43 |
 
 Snapshot ID: `AAAAAGrPLw0accbHSMGOL4VR1n3V74hI`

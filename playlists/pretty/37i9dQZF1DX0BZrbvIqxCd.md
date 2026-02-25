@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,409 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,404 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 78 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
 | 79 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 |
 | 80 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
-| 81 | [Bad Habits](https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 2:53 |
-| 82 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
+| 81 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
+| 82 | [Bad Habits](https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 2:53 |
 | 83 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
 | 84 | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB) | 3:27 |
 | 85 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 93 | [Worry Seed](https://open.spotify.com/track/3yWbedbZB6qp7FALvp4Q7C) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Piecing It Together](https://open.spotify.com/album/2OWssmFogmnwTnzynsTNcC) | 2:48 |
 | 94 | [Placement](https://open.spotify.com/track/3ZmYRJVR8NZAVg7X4zt4eb) | [Letdown](https://open.spotify.com/artist/65Fz4UMimsdL2ktdDOLpej) | [The Bottom](https://open.spotify.com/album/1YZf6wnBIwkvZzNkNTa4ZC) | 3:02 |
 | 95 | [Better Off](https://open.spotify.com/track/0iYL1bvagzsI2Wfxp3Io7U) | [7 Minutes In Heaven](https://open.spotify.com/artist/64wpPiaEfYzgOVjm6vd5XH) | [Symmetry](https://open.spotify.com/album/3FUKruL6t3Ie0DIhzD1AbF) | 3:15 |
-| 96 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
-| 97 | [We're Not Alright](https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:55 |
+| 96 | [We're Not Alright](https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:55 |
+| 97 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
 | 98 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
-| 99 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 |
-| 100 | [Strangers](https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Unfamiliar \(Deluxe Edition\)](https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo) | 3:44 |
+| 99 | [Strangers](https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Unfamiliar \(Deluxe Edition\)](https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo) | 3:44 |
+| 100 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 |
 
 Snapshot ID: `AAAAAF4rc3ONyghTBMV2P/QloRX+Lphc`

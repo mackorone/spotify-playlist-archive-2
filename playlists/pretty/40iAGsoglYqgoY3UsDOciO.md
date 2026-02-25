@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 628 likes - 495 songs - 23 hr 53 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 629 likes - 498 songs - 1 day 0 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -503,5 +503,8 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 493 | [Hide](https://open.spotify.com/track/14O8lIabKFhjaOPCV0JcGC) | [findaway](https://open.spotify.com/artist/0ODp7XLz2ZrZ9HyF0T9Dex), [Solvyr](https://open.spotify.com/artist/6G8g5qGssjLY5scNZxozqP) | [Hide](https://open.spotify.com/album/7rkK0OiNoz2SDIlmp6y0bA) | 2:14 |
 | 494 | [isolation](https://open.spotify.com/track/3itNxvXBcwjGG2lpqaj753) | [JkashMurkum](https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C) | [isolation](https://open.spotify.com/album/3KoW0bbAAzZlHaSx2KLiPc) | 3:28 |
 | 495 | [Control](https://open.spotify.com/track/5nFzYj3ZjY0BcdhsjRVmVc) | [Raptor](https://open.spotify.com/artist/2Lh18EDnkLyFCq2HlOU5z5) | [Control](https://open.spotify.com/album/7GUJ5vxHDZfUFLEwMpu75l) | 3:28 |
+| 496 | [Somos Más De Lo Que Vemos](https://open.spotify.com/track/7g86Hmc1LGJPWqZUDe7EK3) | [Adam Ashrei](https://open.spotify.com/artist/3YYTIWbnarG9IperSoNsfT) | [Somos Más De Lo Que Vemos](https://open.spotify.com/album/4zaI6x7L57L5AG20p3CuDu) | 5:03 |
+| 497 | [Hustle and Flow](https://open.spotify.com/track/1H9Dx5LQNxrzphL9GxoLJz) | [JkashMurkum](https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C), [Blanko Fatts](https://open.spotify.com/artist/7KuXAmWmnFy3VfIKSlkyzM), [JACKO](https://open.spotify.com/artist/3OC8FcvekGzR2bB8Pyf2v8), [SASSY GMG](https://open.spotify.com/artist/052TXoeWdC9wy5rJbfATR0) | [Hustle and Flow](https://open.spotify.com/album/19qd6ZxRRq4zEtAVU81s1w) | 3:10 |
+| 498 | [My Mind Is a Void](https://open.spotify.com/track/0K1cYIykoKhDbYF3WHXNKT) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [My Mind Is a Void](https://open.spotify.com/album/7vDLJdt0tdllXZ6ZDINQb6) | 3:14 |
 
-Snapshot ID: `AAABj8KbDNUo/4DlzOGukqr4kGiEoCyg`
+Snapshot ID: `AAABkkjTWkIZK7/8ceWKZu8aBXB8DC+A`

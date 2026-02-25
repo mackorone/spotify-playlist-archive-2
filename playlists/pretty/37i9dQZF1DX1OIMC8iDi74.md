@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 👑 with TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,231 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,189 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 86 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 |
 | 87 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
 | 88 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
-| 89 | [MOVE LIKE THAT](https://open.spotify.com/track/72W9jWYJUHu6fGXE3ptqrd) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [MOVE LIKE THAT](https://open.spotify.com/album/0bZDX8qgA2ukz4ijC6iw6b) | 2:20 |
-| 90 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 89 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 90 | [MOVE LIKE THAT](https://open.spotify.com/track/72W9jWYJUHu6fGXE3ptqrd) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [MOVE LIKE THAT](https://open.spotify.com/album/0bZDX8qgA2ukz4ijC6iw6b) | 2:20 |
 | 91 | [Sirens](https://open.spotify.com/track/5Em5UrJqGc5dshy1xQh9L0) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:18 |
 | 92 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 93 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 |

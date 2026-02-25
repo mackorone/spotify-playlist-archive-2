@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 
 > cuando te pienso, siempre miro las estrellas y ninguna brilla como tu 😈 Linea Personal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,465 likes - 74 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,532 likes - 74 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

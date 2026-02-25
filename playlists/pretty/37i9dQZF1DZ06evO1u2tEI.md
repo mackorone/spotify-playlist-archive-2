@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,935 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,951 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 4 | [Miss Misery](https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO \(Deluxe Edition\)](https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM) | 3:12 |
 | 5 | [Say Yes](https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:19 |
 | 6 | [Everything Reminds Me Of Her](https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:37 |
-| 7 | [New Monkey \(Keys\)](https://open.spotify.com/track/5P44YuzqlGwIYI1L2JaH2t) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 0:41 |
-| 8 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
+| 7 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
+| 8 | [New Monkey \(Keys\)](https://open.spotify.com/track/5P44YuzqlGwIYI1L2JaH2t) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 0:41 |
 | 9 | [Angeles](https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:57 |
 | 10 | [Somebody That I Used To Know](https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:09 |
 | 11 | [A Fond Farewell](https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 3:58 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 25 | [Christian Brothers](https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo), [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Heaven Adores You Soundtrack](https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M) | 5:00 |
 | 26 | [Junk Bond Trader](https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:49 |
 | 27 | [I Didn't Understand](https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 2:17 |
-| 28 | [No Name \#1](https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:03 |
-| 29 | [The Biggest Lie](https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:39 |
+| 28 | [The Biggest Lie](https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:39 |
+| 29 | [No Name \#1](https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:03 |
 | 30 | [Going Nowhere](https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:51 |
 | 31 | [Baby Britain](https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:13 |
 | 32 | [Rose Parade](https://open.spotify.com/track/6x4gmilRgCyOkPQU3TZXQo) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 3:28 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 47 | [I Don't Think I'm Ever Gonna Figure It Out \- Remixed / Remastered](https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 1:57 |
 | 48 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:45 |
 
-Snapshot ID: `aZpHAAAAAABr5RU3nq174QKVVVpoUOvw`
+Snapshot ID: `aZuYgAAAAAABcNs+STab63Qwea6gCvgW`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Trending rn. Cover:Bad Bunny",
+  "description": "Trending rn. ",
   "name": "Internet Famous",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 109826,
       "name": "Appraisal",
       "url": "https://open.spotify.com/track/01lI217l9g8yjVDt2bsI6u"
@@ -1541,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF"
       },
@@ -1636,7 +1658,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 152000,
       "name": "Awolowo - Remix",
       "url": "https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO"
@@ -3413,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190015,
+      "name": "Brother Brother",
+      "url": "https://open.spotify.com/track/373hf6crYkOHIIeTV9MQ7u"
+    },
+    {
+      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -3428,7 +3468,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
@@ -3742,7 +3782,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -4442,7 +4482,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
@@ -5290,7 +5330,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 180618,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6nakOk3dhUInYi7UqOCFTs"
@@ -5462,7 +5502,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 133966,
       "name": "disco",
       "url": "https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5"
@@ -5898,7 +5938,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -7630,7 +7670,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 225500,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
@@ -8416,7 +8456,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 166601,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/2MCMoWWhsuslO8NBRAfHR0"
@@ -8730,7 +8770,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 185000,
       "name": "Hope & Love",
       "url": "https://open.spotify.com/track/0UVcJBW1VTyZdatMIIZDSm"
@@ -8752,6 +8792,28 @@
       "duration_ms": 138750,
       "name": "HOV",
       "url": "https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x"
+    },
+    {
+      "album": {
+        "name": "How Are You (My Friend)",
+        "url": "https://open.spotify.com/album/4jOfiQIweBTyAFLXv7PwuP"
+      },
+      "artists": [
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "How Are You (My Friend)",
+      "url": "https://open.spotify.com/track/6gWU9TLg13jxp9zKIxOFDk"
     },
     {
       "album": {
@@ -8880,6 +8942,32 @@
       "duration_ms": 284386,
       "name": "I Don't Fuck With You",
       "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
+    },
+    {
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278571,
+      "name": "I Got A Friend (feat. Mayorkun & Sho Madjozi)",
+      "url": "https://open.spotify.com/track/5i9aozAI1B6RGzurSP1vas"
     },
     {
       "album": {
@@ -9793,6 +9881,28 @@
     },
     {
       "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
+    },
+    {
+      "album": {
         "name": "King of Queens",
         "url": "https://open.spotify.com/album/474pSDiz0qTrfF1rlTpDxy"
       },
@@ -10645,6 +10755,24 @@
     },
     {
       "album": {
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -11476,7 +11604,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 176159,
       "name": "Love",
       "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
@@ -11556,7 +11684,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -12114,6 +12242,36 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "album": {
+        "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
+        "url": "https://open.spotify.com/album/5sXKmGAemtZ1kuAbdeJdEB"
+      },
+      "artists": [
+        {
+          "name": "Mulest Vankay",
+          "url": "https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Slyzza Rsa",
+          "url": "https://open.spotify.com/artist/61w0RQ0wzRDoEocR0IR4v2"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441830,
+      "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
+      "url": "https://open.spotify.com/track/1lrAlFWcmIyDEo3a0VvPYo"
     },
     {
       "album": {
@@ -15600,7 +15758,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -16048,7 +16206,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -16350,7 +16508,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
@@ -17638,7 +17796,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 202012,
       "name": "Soso - Remix",
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
@@ -17932,7 +18090,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 173714,
       "name": "Strut",
       "url": "https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc"
@@ -18838,7 +18996,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -20180,7 +20338,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 103728,
       "name": "We The Best",
       "url": "https://open.spotify.com/track/0kEZrXq0fOzNQYXYto9G9v"
@@ -20443,6 +20601,24 @@
     },
     {
       "album": {
+        "name": "Blues for My Mother",
+        "url": "https://open.spotify.com/album/5hqbAhnBouMVxTMGKTQyrS"
+      },
+      "artists": [
+        {
+          "name": "Sipho Gumede",
+          "url": "https://open.spotify.com/artist/70qTlM4lQsyQKSX6ZG56mn"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284653,
+      "name": "When Days Are Dark, Friends Are Few",
+      "url": "https://open.spotify.com/track/24srb45xXaK0sflmHB3mF0"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
       },
@@ -20490,7 +20666,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -20868,7 +21044,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 136036,
       "name": "With You (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
@@ -21330,7 +21506,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 172127,
       "name": "Yo Perreo Sola",
       "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
@@ -21406,6 +21582,24 @@
       "duration_ms": 135057,
       "name": "you cheated, i cheated too",
       "url": "https://open.spotify.com/track/59WglUODah5Gaby1bqGCft"
+    },
+    {
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/5xEfTvJm1WvxaSEo4XSbEs"
     },
     {
       "album": {

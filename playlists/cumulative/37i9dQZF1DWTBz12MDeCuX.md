@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Isabel LaRosa
 
-3,262 songs - 6 day 8 hr 8 min
+3,263 songs - 6 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2435,7 +2435,7 @@
 | [schwarzer toyota](https://open.spotify.com/track/6zV5WGrUYlR2i4AiaKfrKN) | [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV), [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [schwarzer toyota](https://open.spotify.com/album/3jqLPA1NJbCGkZIBLNaW1k) | 1:56 | 2024-02-08 | 2024-04-10 |
 | [schweigen uns an\_v3](https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [schweigen uns an\_v3](https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc) | 2:21 | 2024-09-16 | 2024-10-11 |
 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 | 2023-12-21 | 2023-12-30 |
-| [Schwerelos](https://open.spotify.com/track/6hbgJx5bLDPCiPwtmGJ3Mg) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Schwerelos](https://open.spotify.com/album/2IIxth00avlTaggjtYeXpK) | 2:38 | 2026-01-29 |  |
+| [Schwerelos](https://open.spotify.com/track/6hbgJx5bLDPCiPwtmGJ3Mg) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Schwerelos](https://open.spotify.com/album/2IIxth00avlTaggjtYeXpK) | 2:38 | 2026-01-29 | 2026-02-25 |
 | [Schweres Herz](https://open.spotify.com/track/4eFADNMl1CVtar4AWE3Ugm) | [flowerboii](https://open.spotify.com/artist/5aKVNeiiEzFHZHKiPx5X9p), [BLVTH](https://open.spotify.com/artist/4blNBKcFhLQ0rhwAe4JQ1e) | [Schweres Herz](https://open.spotify.com/album/6FuI8AVLz1mQ5SlqWmnPUV) | 2:07 | 2024-10-10 | 2024-10-25 |
 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 | 2023-02-16 | 2023-03-28 |
 | [SchwippSchwapp](https://open.spotify.com/track/2BfeKcPnZaqA1KRR0kgejS) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [SchwippSchwapp](https://open.spotify.com/album/63vum5eeRhs9EDkyVEH9kg) | 3:10 | 2023-06-08 | 2023-08-04 |
@@ -3083,6 +3083,7 @@
 | [wenn du springst.](https://open.spotify.com/track/0SHaqJubo0sr2HP8ovYxTq) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [wenn du springst.](https://open.spotify.com/album/07uXQwIroRv0Up1qO7Xu5b) | 2:56 | 2026-02-12 |  |
 | [Wenn du weinst](https://open.spotify.com/track/4P3DSLxQLg0il3pEBKsPTJ) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Wenn du weinst / Einmal verliebt \(Outro\)](https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas) | 3:22 | 2023-11-30 | 2024-01-26 |
 | [WENN ICH KÖNNTE](https://open.spotify.com/track/7CKTMGXC49FnMPoD2bBxjx) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe), [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM) | [WENN ICH KÖNNTE](https://open.spotify.com/album/04DRSNN9bzA2k7P912ZC4c) | 2:09 | 2023-05-18 | 2023-06-30 |
+| [WENN ICH NÜCHTERN WÄR](https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [WENN ICH NÜCHTERN WÄR](https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa) | 2:16 | 2026-02-24 |  |
 | [Wenn ich tanz](https://open.spotify.com/track/6manz9cSmcEufbEknYWV6a) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Wenn ich tanz](https://open.spotify.com/album/1qxXxQq35rB8iUGIh4DBZ6) | 3:30 | 2026-01-29 |  |
 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 | 2026-01-15 |  |
 | [Wenn nichts von nichts kommt](https://open.spotify.com/track/00Jct5EKWewKIVdLZX9Kl2) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Wenn nichts von nichts kommt](https://open.spotify.com/album/46bMQ81dlrfU3sRfGuNECZ) | 4:34 | 2024-12-12 | 2025-02-21 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15668,
+  "num_followers": 15674,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -483,38 +483,6 @@
     {
       "added_at": "2026-02-20 04:59:20",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
-    },
-    {
-      "added_at": "2026-02-20 04:59:20",
-      "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
-    },
-    {
-      "added_at": "2026-02-20 04:59:20",
-      "album": {
         "name": "Namorar (Remix)",
         "url": "https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 226319,
       "name": "Namorar - Remix",
       "url": "https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn"
+    },
+    {
+      "added_at": "2026-02-20 04:59:20",
+      "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
+    },
+    {
+      "added_at": "2026-02-20 04:59:20",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
     },
     {
       "added_at": "2026-02-20 04:59:20",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-02-20 04:59:20",
       "album": {
-        "name": "R-A-B-I-A",
-        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 185210,
-      "name": "No me opongo",
-      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
-    },
-    {
-      "added_at": "2026-02-20 04:59:20",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2026-02-20 04:59:20",
+      "album": {
+        "name": "R-A-B-I-A",
+        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 185210,
+      "name": "No me opongo",
+      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     },
     {
       "added_at": "2026-02-20 04:59:20",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-20 04:59:20",
       "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
-    },
-    {
-      "added_at": "2026-02-20 04:59:20",
-      "album": {
         "name": "ni una foto",
         "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 192385,
       "name": "ni una foto",
       "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2026-02-20 04:59:20",
+      "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-02-20 04:59:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-20 04:59:20",
       "album": {
-        "name": "Sol Y Lluvia",
-        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
-    },
-    {
-      "added_at": "2026-02-20 04:59:20",
-      "album": {
         "name": "Mudanza",
         "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 212178,
       "name": "Mudanza",
       "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
+    },
+    {
+      "added_at": "2026-02-20 04:59:20",
+      "album": {
+        "name": "Sol Y Lluvia",
+        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
     },
     {
       "added_at": "2026-02-20 04:59:20",

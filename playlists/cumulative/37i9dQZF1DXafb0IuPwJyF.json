@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover:\u3061\u3083\u3093\u307f\u306a",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -596,6 +596,24 @@
       "duration_ms": 244537,
       "name": "Akatoki Reload",
       "url": "https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r"
+    },
+    {
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152319,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
     },
     {
       "album": {
@@ -2732,10 +2750,28 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 192994,
       "name": "Cold Night",
       "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
+    },
+    {
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Cold Night",
+      "url": "https://open.spotify.com/track/79wd94vXLJngCwTAVtzYvr"
     },
     {
       "album": {
@@ -9598,7 +9634,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 260176,
       "name": "Ma Boyz (feat. MIKADO, G-k.i.d & Tete)",
       "url": "https://open.spotify.com/track/2nSqvCkifA52BQLkhsZagy"
@@ -11694,7 +11730,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 173633,
       "name": "NON STOP",
       "url": "https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA"
@@ -17710,7 +17746,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 193749,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/6IV9MKVGRlKHcECMKG7obQ"
@@ -22580,7 +22616,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 248874,
       "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
       "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
@@ -24471,6 +24507,24 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30e9\u30fc\u30d1\u30b9",
+        "url": "https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u30db\u30ec\u30bf\u30cf\u30ec\u30bf",
+      "url": "https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5"
+    },
+    {
+      "album": {
         "name": "\u30db\u30ef\u30a4\u30c8\u30ad\u30b9",
         "url": "https://open.spotify.com/album/6cHRZiDktZjUR4LUT0q3jf"
       },
@@ -25500,6 +25554,24 @@
       "duration_ms": 252560,
       "name": "\u30f4\u30a1\u30a4\u30aa\u30ec\u30c3\u30c8",
       "url": "https://open.spotify.com/track/4zBGOhGzIBDENTh2tgRl9Z"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u79d2",
+        "url": "https://open.spotify.com/album/5iWFBoiNfiDjTpj8C4Mg6E"
+      },
+      "artists": [
+        {
+          "name": "SixTONES",
+          "url": "https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235026,
+      "name": "\u4e00\u79d2",
+      "url": "https://open.spotify.com/track/1jzBL9oiCg4qaZbazOxBQ8"
     },
     {
       "album": {
@@ -26736,7 +26808,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "\u547c\u3073\u58f0",
       "url": "https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY"

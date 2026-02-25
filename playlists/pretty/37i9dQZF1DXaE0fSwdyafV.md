@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,472 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,493 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 23 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
 | 24 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 25 | [The Ballad of the Witches' Road \(Sacred Chant Version\)](https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg) | [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Sasheer Zamata](https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ), [Ali Ahn](https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X), [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944), [Debra Jo Rupp](https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo), [Agatha All Along \- Cast](https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 3:17 |
-| 26 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
-| 27 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
+| 26 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
+| 27 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
 | 28 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
 | 29 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
 | 30 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 68 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
 | 69 | [Witch](https://open.spotify.com/track/65hzDZbjAZpJZZf3diITpP) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [Ray Guns Are Not Just The Future](https://open.spotify.com/album/4ETVvsILHTLUHGYe3SSpgu) | 3:54 |
 | 70 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
-| 71 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
-| 72 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
+| 71 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
+| 72 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
 | 73 | [Crystals](https://open.spotify.com/track/4nnHOJqInr9r8c7RxuiT9j) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:03 |
 | 74 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
 | 75 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |

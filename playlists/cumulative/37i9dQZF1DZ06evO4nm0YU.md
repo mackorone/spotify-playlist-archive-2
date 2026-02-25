@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-88 songs - 8 hr 6 min
+89 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Un Amor De La Calle](https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:24 | 2022-09-08 | 2025-10-12 |
 | [Un Amor De La Calle](https://open.spotify.com/track/6zfdqSCVV0e5Pbmsc2wyao) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:24 | 2025-10-12 |  |
 | [Vamos A Reír Un Poco](https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 7:35 | 2022-09-08 | 2025-10-25 |
-| [Vamos A Reír Un Poco](https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [A Man And His Music: La Voz](https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H) | 7:39 | 2025-10-25 |  |
+| [Vamos A Reír Un Poco](https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [A Man And His Music: La Voz](https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H) | 7:39 | 2025-10-25 | 2026-02-25 |
+| [Vamos a Reír un Poco \- Remastered 2024](https://open.spotify.com/track/6cXCkEgFfXZEEAxqmCAcnm) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende \(Remastered 2024\)](https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb) | 7:34 | 2026-02-25 |  |
 | [Vigilante](https://open.spotify.com/track/1kPeSeHc9Hqo7gf6tcJEoM) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 12:26 | 2022-09-22 | 2022-09-25 |
 | [¿De Qué Tamaño Es Tu Amor?](https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 3:33 | 2022-09-08 |  |
 | [Él Son](https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 6:06 | 2025-06-10 |  |

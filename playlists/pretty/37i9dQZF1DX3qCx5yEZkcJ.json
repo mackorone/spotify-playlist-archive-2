@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1477189,
+  "num_followers": 1477139,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 262846,
+      "name": "It's Ok, B U",
+      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
         "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
         "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 181931,
       "name": "Yosei",
       "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
-        "name": "It's Ok, B U",
-        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 262846,
-      "name": "It's Ok, B U",
-      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
         "name": "Next to Nothing (Instrumental)",
         "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 124200,
       "name": "Dersen Cafe",
       "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "Tarde Invernal",
-        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
-      },
-      "artists": [
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        },
-        {
-          "name": "Fourth Dogma",
-          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
-        }
-      ],
-      "duration_ms": 142004,
-      "name": "Tarde Invernal",
-      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "A Kid From Yerevan (Instrumental)",
         "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
       },
@@ -1043,18 +1023,22 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
+        "name": "Tarde Invernal",
+        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
       },
       "artists": [
         {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        },
+        {
+          "name": "Fourth Dogma",
+          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
         }
       ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+      "duration_ms": 142004,
+      "name": "Tarde Invernal",
+      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -1071,6 +1055,22 @@
       "duration_ms": 140714,
       "name": "busking",
       "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/2Egb08QJgAFtk3SwQvrPeI"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 165189,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+      },
+      "artists": [
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "Night Step",
         "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
@@ -1435,26 +1419,18 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "reminisce",
-        "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
       "artists": [
         {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        },
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        },
-        {
-          "name": "Kzyboost",
-          "url": "https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 169074,
-      "name": "reminisce",
-      "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -1475,6 +1451,22 @@
       "duration_ms": 212000,
       "name": "Colibri",
       "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
     },
     {
       "added_at": "2026-02-10 00:22:29",

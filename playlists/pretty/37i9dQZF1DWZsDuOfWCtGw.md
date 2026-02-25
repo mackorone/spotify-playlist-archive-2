@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 
 > The hottest house tracks we had on repeat in 2024\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,648 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,641 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 29 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
 | 30 | [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:48 |
 | 31 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 |
-| 32 | [So Good \- Heat Mix](https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5) | [Gennaro](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Good \(Heat Mix\)](https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW) | 4:00 |
+| 32 | [So Good \- Heat Mix](https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Good \(Heat Mix\)](https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW) | 4:00 |
 | 33 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
 | 34 | [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 |
 | 35 | [Boost Up](https://open.spotify.com/track/4xKLgLnQm2wQFUqAYb6UUM) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/3hIRS3btdz7f35jvVihCUt) | 3:31 |

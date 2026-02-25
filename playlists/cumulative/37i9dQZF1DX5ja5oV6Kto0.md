@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zaylevelten
 
-1,018 songs - 2 day 1 hr 20 min
+1,019 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Last Call](https://open.spotify.com/track/4vASmHoLBcndZfYv3vvBLH) | [RBJ](https://open.spotify.com/artist/3TgEQwGpMbs5mGx4coPViP), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Last Call](https://open.spotify.com/album/3nqUm4ybg7MEcr8DEBBQ4B) | 3:21 | 2024-03-29 | 2024-07-05 |
 | [Last Thing](https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf) | 2:42 | 2023-04-27 | 2023-06-24 |
 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 | 2023-06-23 | 2024-02-16 |
+| [Late Adolescence](https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU), [Young Chux](https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb) | [Elementary 2](https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y) | 2:44 | 2026-02-20 |  |
 | [Late Night On Lokko Street](https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Roadman and Folks](https://open.spotify.com/album/3gZJDhBIWDDAcJHmcbUomZ) | 4:00 | 2023-12-01 | 2024-01-05 |
 | [Lavender](https://open.spotify.com/track/2zFmInJW8nn2O8hJRpgt0O) | [aloe.401](https://open.spotify.com/artist/0hCbj8C1be4UO4iFhzXtF6), [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Truvi](https://open.spotify.com/artist/1N8Iu7UNyNLPkpzdXClOvj) | [Lavender](https://open.spotify.com/album/2BkuqqT7CCE6ZZpKe3tp31) | 3:10 | 2022-01-27 | 2022-03-12 |
 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 | 2023-09-14 | 2024-04-26 |
@@ -804,7 +805,7 @@
 | [SHE WAAN](https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [SHE WAAN](https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh) | 3:50 | 2023-12-01 | 2024-06-07 |
 | [SHEGE](https://open.spotify.com/track/3XeQnvXkAXX6LVErx2F0vw) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [SHEGE](https://open.spotify.com/album/7ynX70WRFESVn0SSQR9iaH) | 2:16 | 2023-10-06 | 2023-11-24 |
 | [Shhhhet!](https://open.spotify.com/track/06CtBZYVp1KKnMJZsKqAjK) | [Makama](https://open.spotify.com/artist/7bCkjQmnjF6zkOrFXDKW9s) | [Shhhhet!](https://open.spotify.com/album/2BRPR8jwsht7tGCm7KPcCp) | 1:55 | 2024-05-24 | 2024-09-20 |
-| [Shigege](https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Shigege](https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl) | 2:35 | 2026-01-09 |  |
+| [Shigege](https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Shigege](https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl) | 2:35 | 2026-01-09 | 2026-02-25 |
 | [Shining \(feat\. Tay Iwar & Zlatan\)](https://open.spotify.com/track/5YRTadZ4cj2kxzEG2UcS28) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 3:40 | 2021-09-16 | 2022-03-12 |
 | [Should We Try](https://open.spotify.com/track/5SLGCYDB44nVPKRQf1jJHj) | [David Bolton](https://open.spotify.com/artist/4rpPz9ZDWhFXcMKnkGF7CG) | [Should We Try](https://open.spotify.com/album/2lhXDm1QXyIpXVeEOAGxNQ) | 3:45 | 2022-01-13 | 2022-02-04 |
 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 | 2023-02-09 | 2024-01-26 |

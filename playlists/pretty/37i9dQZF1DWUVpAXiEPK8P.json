@@ -1,6 +1,6 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4116394,
+  "num_followers": 4116240,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "HIGHEST IN THE ROOM",
-        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "HIGHEST IN THE ROOM",
-      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 185946,
       "name": "DNA.",
       "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -607,30 +607,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
-      "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -675,6 +651,30 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
-        "name": "Still Sleep?",
-        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -743,22 +727,18 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "BLAME IT ON BABY",
-        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
         }
       ],
-      "duration_ms": 181733,
-      "name": "ROCKSTAR (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -779,6 +759,42 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -807,22 +823,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 167915,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -883,22 +867,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 234693,
       "name": "King Kunta",
       "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -931,6 +915,22 @@
       "duration_ms": 232466,
       "name": "Carry Out (Featuring Justin Timberlake)",
       "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
       "added_at": "2025-09-05 11:40:44",

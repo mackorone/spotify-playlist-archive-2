@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580,236 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,109 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 15 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 16 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 17 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 |
-| 18 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 |
-| 19 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
+| 18 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
+| 19 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 |
 | 20 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 21 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
 | 22 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |

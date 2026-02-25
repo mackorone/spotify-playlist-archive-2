@@ -2,7 +2,7 @@
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: SUD
+> 100% Pinoy hits from your favorite artists!
 
 199 songs - 14 hr 9 min
 

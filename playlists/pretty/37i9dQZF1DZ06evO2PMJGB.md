@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,089 likes - 46 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,087 likes - 46 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 36 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 |
 | 37 | [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 |
 | 38 | [Carta ao Tom 74](https://open.spotify.com/track/4zkEPGEg0k40aFpUDlX47g) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 2:34 |
-| 39 | [NOT Ü](https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [NOT Ü](https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk) | 2:19 |
-| 40 | [Saudade](https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Saudade](https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm) | 2:47 |
+| 39 | [Saudade](https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Saudade](https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm) | 2:47 |
+| 40 | [NOT Ü](https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [NOT Ü](https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk) | 2:19 |
 | 41 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 |
 | 42 | [Águas de Março](https://open.spotify.com/track/0MHySawcjVkAcxHdsyI6o1) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 3:03 |
 | 43 | [Olhos Castanhos](https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Olhos Castanhos](https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh) | 3:25 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 45 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
 | 46 | [Calling Me](https://open.spotify.com/track/0y5E23MHzuHs4vkBC9p170) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:42 |
 
-Snapshot ID: `aZpHAAAAAAAMIwkzIMd3nxFomRWMPTpK`
+Snapshot ID: `aZuYgAAAAADTsLyi1maX693A0H9W0Dgl`

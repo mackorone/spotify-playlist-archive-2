@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: pedro lanches, YMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,972 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,880 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 429241,
+  "num_followers": 429249,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fandermole",
-          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Oraci\u00f3n del remanso",
-      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
         "name": "Destilar",
         "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 264053,
       "name": "Cu\u00eddame",
       "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 291008,
-      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
         "name": "Oye Mi Amor",
         "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 195346,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 291008,
+      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 245968,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
         "name": "El Amor en Mi Vida",
         "url": "https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 245968,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
         "name": "Isita Querida De Un Lado",
         "url": "https://open.spotify.com/album/6SjJqb3AwyxVC2UfqhGmBW"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "b\u00fascame otra vez",
-        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 298226,
-      "name": "b\u00fascame otra vez",
-      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 182764,
       "name": "D\u00cdA DEL AMOR",
       "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
+        "name": "b\u00fascame otra vez",
+        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "b\u00fascame otra vez",
+      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
     },
     {
       "added_at": "2026-02-11 18:50:14",

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-972 songs - 1 day 22 hr 36 min
+974 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Homelands](https://open.spotify.com/track/3Vl7cwxOxYhpgDDpFv7mG7) | [Staffa Iona](https://open.spotify.com/artist/4kWKLcO6SD1mOa5KHsI5Mw) | [Homelands](https://open.spotify.com/album/02mAAZSknW3RNscrlOl89i) | 3:00 | 2023-03-23 | 2024-01-18 |
 | [Hope Revived](https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Hope Revived](https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih) | 2:43 | 2025-11-12 | 2026-01-25 |
 | [Hopeful](https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Hopeful](https://open.spotify.com/album/1u7Xlr1lUkCBPyiE2U6Z7n) | 2:42 | 2023-03-23 | 2024-01-18 |
+| [Hoshikuzu no Michi](https://open.spotify.com/track/7cqjOWkvm8Nav61IckL5fi) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Hoshikuzu no Michi](https://open.spotify.com/album/7nrMcC2QXVlGqmj2TX7Gbq) | 2:08 | 2026-01-27 |  |
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-03-23 | 2024-05-05 |
 | [Hue](https://open.spotify.com/track/0mndpCHKhI3DOiLl46BQai) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Hue](https://open.spotify.com/album/3HDk7a49Sb28um15lvBhN0) | 3:09 | 2024-02-08 | 2024-08-07 |
@@ -506,7 +507,7 @@
 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 | 2023-03-23 | 2023-05-06 |
 | [Lowlit](https://open.spotify.com/track/7eqFzunTpMeG6GrkcvQC2o) | [Arctilok](https://open.spotify.com/artist/40mS9P51UfvhIamB24wx91) | [Lowlit](https://open.spotify.com/album/0PvjZ14CXC0UAK7Iixo6PW) | 2:36 | 2026-01-27 |  |
 | [Lucenor](https://open.spotify.com/track/5jrgFpfGWfZwPIDiWPtTYl) | [Moktar Debous](https://open.spotify.com/artist/5gWsUOTIaNIIeyOaxfxA91) | [Lucenor](https://open.spotify.com/album/1KhtbKhWWA7MYaRfZFZ1AV) | 2:26 | 2026-01-27 |  |
-| [Lucidity](https://open.spotify.com/track/4eCVHeQIMNzd6LTQABHVYE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Lucidity](https://open.spotify.com/album/6haBGLYkEAozj08quqeStB) | 2:34 | 2025-12-03 |  |
+| [Lucidity](https://open.spotify.com/track/4eCVHeQIMNzd6LTQABHVYE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Lucidity](https://open.spotify.com/album/6haBGLYkEAozj08quqeStB) | 2:34 | 2025-12-03 | 2026-02-25 |
 | [Lueur Douce](https://open.spotify.com/track/2sVWZpQoXINyHwERzoR7Xi) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Lueur Douce](https://open.spotify.com/album/4wmfSjubmk2BXI6kJmJqmA) | 2:57 | 2025-11-12 | 2026-01-15 |
 | [Lumina](https://open.spotify.com/track/091cKGIgsRDItpOtzfaNLR) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Lumina](https://open.spotify.com/album/4bzO0UHbEjjQzMs1ErcDZY) | 2:12 | 2025-12-17 |  |
 | [Lumination](https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Lumination](https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l) | 3:27 | 2024-05-04 | 2024-06-19 |
@@ -525,6 +526,7 @@
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-03-06 | 2025-03-30 |
 | [Marbre D’aube](https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Marbre D’aube](https://open.spotify.com/album/5GenEVsZz4Ek38mVczOPtv) | 3:18 | 2025-02-04 | 2026-01-15 |
 | [Marimosa](https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Marimosa](https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB) | 3:09 | 2024-01-17 | 2025-01-09 |
+| [Matte Dreams](https://open.spotify.com/track/2S9nxEBURjnZ6JCcol3qJO) | [Aemilune](https://open.spotify.com/artist/1WMy5EVJKar2JzCjAPv8m9) | [Matte Dreams](https://open.spotify.com/album/48MhnWcgtQOKDC4IXhYSq6) | 2:27 | 2026-01-27 |  |
 | [Mauve](https://open.spotify.com/track/3tc3x8wNTJJoceu7vvATJC) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Mauve](https://open.spotify.com/album/7yVG1QAybAc5uBn3ekVoOo) | 2:27 | 2025-09-23 | 2026-01-15 |
 | [Me and the Stars](https://open.spotify.com/track/3tQH5jtcy2iXBLv34SJ6WR) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Me and the Stars](https://open.spotify.com/album/10R1HL4Y4cVXE3w5p4BW1X) | 2:08 | 2025-03-19 | 2025-04-30 |
 | [Meandering Stream](https://open.spotify.com/track/0e5Ipazb2ofxVoEe3Xxcjl) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Meandering Stream](https://open.spotify.com/album/1ShreZhKFKSAqGjrKioYJT) | 2:59 | 2024-03-06 | 2024-03-21 |
@@ -566,7 +568,7 @@
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2023-03-23 | 2024-01-18 |
 | [My Path](https://open.spotify.com/track/2fps9Ph2M4czjrvy7AGkst) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [My Path](https://open.spotify.com/album/7ijv9Srpi6oinJwubwsukq) | 3:05 | 2025-12-17 |  |
 | [Myriad](https://open.spotify.com/track/4zW4yUJtrt37ZXod5wrUit) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Quietude](https://open.spotify.com/album/00MHMxmwPIYmAmErAFpg6w) | 3:05 | 2023-07-14 | 2024-06-21 |
-| [Myriad Calm](https://open.spotify.com/track/0REjyvDIwTTIydfZNxqL7y) | [Noyadest](https://open.spotify.com/artist/0uS9dY982xT5wrD3iwwHk9) | [Myriad Calm](https://open.spotify.com/album/6u37Dyp2RqpfGnRgaTkvLd) | 2:54 | 2025-09-23 |  |
+| [Myriad Calm](https://open.spotify.com/track/0REjyvDIwTTIydfZNxqL7y) | [Noyadest](https://open.spotify.com/artist/0uS9dY982xT5wrD3iwwHk9) | [Myriad Calm](https://open.spotify.com/album/6u37Dyp2RqpfGnRgaTkvLd) | 2:54 | 2025-09-23 | 2026-02-25 |
 | [Mångata](https://open.spotify.com/track/4TPp6xOTaRNv7AmDQG9oc8) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Mångata](https://open.spotify.com/album/30Vq6qtcwda6feJPc2FFEe) | 2:26 | 2023-03-23 | 2023-05-06 |
 | [Nama](https://open.spotify.com/track/1ZIf3ofUdgbREs5ll2f8OI) | [Fjordyn](https://open.spotify.com/artist/2Fx9aKfhce3ziCJlAgM58w) | [Nama](https://open.spotify.com/album/1l2Fw3pQEqhvhrIwTClehd) | 2:59 | 2024-03-06 | 2025-02-23 |
 | [Naten e mire](https://open.spotify.com/track/6uTgcVdZs17V0Fy5PX2O54) | [Leala Samuel](https://open.spotify.com/artist/0dGuCZr0FuXukEBvHY5rXO) | [Naten e mire](https://open.spotify.com/album/43K1omqGhTg3N2T2mBarty) | 3:26 | 2023-03-23 | 2024-02-09 |

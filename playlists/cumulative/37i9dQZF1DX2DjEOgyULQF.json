@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds.",
+  "description": "Ambient with the soothing sounds of water, rain and birds. ",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 135750,
       "name": "Dulcet",
       "url": "https://open.spotify.com/track/7lvWStTudtQ6sy8AW9o1CN"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 143844,
       "name": "Forest Exhale",
       "url": "https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 164000,
       "name": "Kitsilano",
       "url": "https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR"
@@ -4888,6 +4888,24 @@
       "duration_ms": 120776,
       "name": "Sphagnum",
       "url": "https://open.spotify.com/track/5reTnUgC5FTOA8EsV7nfrE"
+    },
+    {
+      "album": {
+        "name": "Spirits of the Forest",
+        "url": "https://open.spotify.com/album/5i6A1J1ux4zb7XKyOr6ODo"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Spirits of the Forest",
+      "url": "https://open.spotify.com/track/7msLXwo8PXqnqgFJd4flKq"
     },
     {
       "album": {

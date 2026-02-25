@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,086 songs - 5 day 1 hr 58 min
+2,091 songs - 5 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [Hourglass](https://open.spotify.com/track/4hiw9GuI3QyLB1DedjA2mF) | [Stefano Nardon](https://open.spotify.com/artist/0KEWjwnCfRfmaialCXQU9T), [Stefano Cosi](https://open.spotify.com/artist/3HKuC0ZcDcMV9ZMXoXhgBQ) | [eclipse](https://open.spotify.com/album/4UDUorFNNFkUTV88YyuPlz) | 4:51 | 2025-06-13 |  |
 | [How Far Would You Go](https://open.spotify.com/track/1PuRP4Benkj8qUxGBoeuu0) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [How Far Would You Go](https://open.spotify.com/album/6gMrQJhZQFUGmxzK5D8CPY) | 3:35 | 2025-08-07 |  |
 | [How I Am](https://open.spotify.com/track/77ehwJZ5hbprBy0jLIuf6E) | [Theo Kidd](https://open.spotify.com/artist/0lubPEGRQhr11oNhcBQJx9) | [Songs From My Bedroom \(Pt\. II\)](https://open.spotify.com/album/3UQ5EMNAtzZt106X7YQGky) | 2:09 | 2025-05-08 |  |
+| [How It Hurts to Be Alone \(Edm\)](https://open.spotify.com/track/2gdOXXLIfYxlDtQ5AKvQ8y) | [Liu Marks](https://open.spotify.com/artist/0V93twsNChTw8nVXNxW0fq) | [The Cowboy](https://open.spotify.com/album/6buUDssabwFkCt6C5In0cL) | 3:59 | 2026-02-24 |  |
 | [How Much Did You Know](https://open.spotify.com/track/4pWlCugXuot5ctYdZTbVeb) | [No Thanks, Man](https://open.spotify.com/artist/1kaNvcQhW3D4yyuZv6lclL) | [How Much Did You Know](https://open.spotify.com/album/1NrSCAPEIDnuIh5NYloQvk) | 2:55 | 2025-08-05 |  |
 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 | 2025-10-09 |  |
 | [Howler](https://open.spotify.com/track/6WZwVY8WGvR4d33IOtpP1Q) | [Newbridge](https://open.spotify.com/artist/4oK0n4XsTRe1G3JBSlT6g1) | [Howler](https://open.spotify.com/album/2IaOG7H0CA4wOPYG25a1kb) | 4:05 | 2025-01-29 |  |
@@ -1084,6 +1085,7 @@
 | [Love Suffers](https://open.spotify.com/track/66tvVHvTXsyPruwkTKwpJH) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [Love Suffers](https://open.spotify.com/album/5UcvWevNz5tel94hK8IREG) | 5:14 | 2025-06-30 |  |
 | [Love Suffers \(Instrumental\)](https://open.spotify.com/track/4HrFB1FhijjDGj3okWwjww) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [Love Suffers \(Instrumental\)](https://open.spotify.com/album/50yMVtXj8s5dLwC8zAHrCB) | 5:14 | 2025-01-27 |  |
 | [Love you more](https://open.spotify.com/track/7dWHy51g8AfSriEUMhgvQK) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [feel.](https://open.spotify.com/album/78G8iIuBhxtyWsr8KjsrKZ) | 3:42 | 2026-01-21 |  |
+| [Loved You Well](https://open.spotify.com/track/726B5SsK89Kb35fjLnUAbJ) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Loved You Well](https://open.spotify.com/album/3yGEUH53gDIEIpTfRDpU1N) | 4:02 | 2026-02-24 |  |
 | [Lover's Game](https://open.spotify.com/track/0nbj8x49JplenOZzUiracb) | [ALRIGHT](https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx) | [Lover's Game](https://open.spotify.com/album/26KIGw2WIrB5WTsmuJwP87) | 4:00 | 2024-06-03 |  |
 | [Low Tide](https://open.spotify.com/track/3UVpq4l3oNB7mXpXWoaOIl) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Low Tide](https://open.spotify.com/album/7kTNISEnoRqqheNNXZGniR) | 3:51 | 2024-12-10 |  |
 | [Low Tunes](https://open.spotify.com/track/23DrNNsMB8xFrTBaAQEltU) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Low Tunes](https://open.spotify.com/album/4PTagxqpncAXeNmMCt8K0o) | 2:42 | 2025-02-04 |  |
@@ -1114,6 +1116,7 @@
 | [Maybe](https://open.spotify.com/track/2Brs3vCPWbxtioPxxGraW3) | [Beth Dumonteil](https://open.spotify.com/artist/1yduCyP0NhDCabY4WkQrjZ) | [Maybe](https://open.spotify.com/album/6OjoGF8tXzENIDz5Fzu7J6) | 3:15 | 2024-11-14 |  |
 | [Maybe In Time](https://open.spotify.com/track/0f0UkueTh7Oh1KAiDCScMh) | [Baltic Jazz Recordings](https://open.spotify.com/artist/1FZXNDQT6H3YSeMSgivXSQ), [Smith & Liddle](https://open.spotify.com/artist/0MlUUtv1t9IJ7T8814Vr2s) | [Maybe In Time](https://open.spotify.com/album/6tWSVwLuNfP8veoVKAIZ5g) | 4:04 | 2025-07-25 |  |
 | [Mayr Im Anneman](https://open.spotify.com/track/7flJ0wU3RapL5rlWNKtyRs) | [Vicken Tarpinian](https://open.spotify.com/artist/0CrY2b6GMeFhyZ8cjXGaeI) | [Veratarts](https://open.spotify.com/album/3dfCQXQZf951Pg20XZXx8E) | 4:33 | 2024-06-07 |  |
+| [Maywell](https://open.spotify.com/track/5YAK7c9Azk9DUfoDBfjNNc) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [I Can Dream](https://open.spotify.com/album/79T68idWo8fapNq659HB0a) | 4:25 | 2026-02-24 |  |
 | [Me Deixará \- 2025 Remastered Version](https://open.spotify.com/track/121Zp2kQ8FFbDNVH798E3H) | [Kalladdo](https://open.spotify.com/artist/6eTon8TkEBWSvu2lB0DThJ) | [Me Deixará \(2025 Remastered Version\)](https://open.spotify.com/album/7MXFqxDRh3G1QMEN7TRxzy) | 3:33 | 2025-07-09 |  |
 | [Me quieres?](https://open.spotify.com/track/4NB1CewuM5oGn7rPOpoaLm) | [Isac nenetl](https://open.spotify.com/artist/1EsJ4C49eqQ8boMeoDh5qx) | [Me quieres?](https://open.spotify.com/album/0iyg0BsRpcCP6GSJl0Chqo) | 2:22 | 2025-05-22 |  |
 | [Me Rindo](https://open.spotify.com/track/59ybEfqarnEh0pfcZK7QEa) | [Yahweh Worship](https://open.spotify.com/artist/3xqXPOU1GSJYv6COwRZh6W) | [Me Rindo](https://open.spotify.com/album/07WiEqQdI6I4eeWTnYPRkU) | 7:15 | 2025-03-21 |  |
@@ -1543,6 +1546,7 @@
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [SIGNAL](https://open.spotify.com/track/1scY92IE3buNrumx98oo0D) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x) | [SIGNAL](https://open.spotify.com/album/4yNteoGYTmkCxi7As03vN1) | 1:56 | 2025-02-06 |  |
 | [Silence Is the Answer](https://open.spotify.com/track/2LKrGpQzZE6odJ2QLRTkrJ) | [Copale](https://open.spotify.com/artist/4wbKZ7VGvHmsKngVGShLWt) | [Silence Is the Answer](https://open.spotify.com/album/7aBuRyaP3K9Mm8360IdwHz) | 4:47 | 2025-04-14 |  |
+| [Silent Departure \- Country Version](https://open.spotify.com/track/70fjjwV8CGasRj6EL007wf) | [M.Carmo](https://open.spotify.com/artist/6ybvTwiGRflWIe2V9iOAFm) | [Silent Departure \(Country Version\)](https://open.spotify.com/album/49k3d24AEDz9TpdwwAC1lV) | 3:11 | 2026-02-24 |  |
 | [Silly Lies](https://open.spotify.com/track/4iDNiH18xwIN4MrqO28TRS) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Silly Lies](https://open.spotify.com/album/3h4J8G4wai8ysFMls4JkVr) | 3:12 | 2025-04-22 |  |
 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 | 2025-05-08 |  |
 | [Silverspoon Sunday](https://open.spotify.com/track/4WuIcBLg3nTRsB9mSoTPBb) | [goodheart](https://open.spotify.com/artist/7GNrRq2FgTzvU4lgKNMpf1) | [Blue and Other Colours](https://open.spotify.com/album/2NoZC82xdjX54ZqToyyT39) | 3:03 | 2025-07-16 |  |
@@ -1693,6 +1697,7 @@
 | [Take Me There](https://open.spotify.com/track/6lLdMVygxpwDFiBJflcBkB) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Take Me There](https://open.spotify.com/album/350IdZvMxWnzkNYhMPDwrc) | 3:19 | 2025-07-13 |  |
 | [Take Me To Tokyo](https://open.spotify.com/track/46ETLAtTmWr2zkz7D9ajdE) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Take Me To Tokyo](https://open.spotify.com/album/04fiuTKsxc3qWAwbszoFik) | 3:04 | 2025-03-26 |  |
 | [Take My Land](https://open.spotify.com/track/5KvZWUV8NcV8hNGBM2r4cV) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 4:04 | 2024-08-19 |  |
+| [Take Time \(Acoustic Version\)](https://open.spotify.com/track/3BFTuAtiUkqBB7NITQVjsL) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Take Time \(Acoustic Version\)](https://open.spotify.com/album/23cmjxtWjwfsd6WUMc07pc) | 2:33 | 2026-02-24 |  |
 | [Take your time](https://open.spotify.com/track/3PRVb66rBX6vzTIaf1tShk) | [Rei Luiz](https://open.spotify.com/artist/0riT29BvCgCamxH6TXqzvJ) | [Heart, soul and machine](https://open.spotify.com/album/0DUSZVFOuwOuOgG8nttJRN) | 2:30 | 2024-12-17 |  |
 | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/track/1uzCL7XoZ6bwg3vkUrbRpC) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/album/30hSDxBhr4JnFry1yPCHZm) | 3:39 | 2024-07-12 |  |
 | [TALVEZ](https://open.spotify.com/track/1MP4OuWiTnOWF5wHzkV6hZ) | [ETEFEEL](https://open.spotify.com/artist/0FmEehEkAsZNczuIjkYwjB) | [TALVEZ](https://open.spotify.com/album/07U3TPfxrvyKD8UL9YRgjw) | 4:03 | 2025-02-04 |  |

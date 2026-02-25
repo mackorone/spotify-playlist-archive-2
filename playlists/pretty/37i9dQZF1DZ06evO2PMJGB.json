@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265089,
+  "num_followers": 265087,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAMIwkzIMd3nxFomRWMPTpK",
+  "snapshot_id": "aZuYgAAAAADTsLyi1maX693A0H9W0Dgl",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 167122,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT \u00dc",
         "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 139322,
       "name": "NOT \u00dc",
       "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 167122,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
     },
     {
       "added_at": null,

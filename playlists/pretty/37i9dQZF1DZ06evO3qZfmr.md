@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,432 likes - 41 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,492 likes - 41 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,28 +13,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 3 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 |
 | 4 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 |
 | 5 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
-| 6 | [Wonder](https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wonder](https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC) | 3:42 |
-| 7 | [Wedding Dress](https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:50 |
+| 6 | [Wedding Dress](https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:50 |
+| 7 | [Wonder](https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wonder](https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC) | 3:42 |
 | 8 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 |
 | 9 | [Beautiful Things](https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Beautiful Things](https://open.spotify.com/album/1vIdJxr4T63IHA5ex4rHEv) | 3:55 |
-| 10 | [Break It Right Back](https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:34 |
-| 11 | [Stupid](https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:21 |
+| 10 | [Who Hurt You?](https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:54 |
+| 11 | [Break It Right Back](https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:34 |
 | 12 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 |
 | 13 | [Cloud 9](https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh) | 3:33 |
-| 14 | [Bless Your Heart](https://open.spotify.com/track/0R7mbF0KQERtpLaTuugWZg) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 2:43 |
-| 15 | [Who Hurt You?](https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:54 |
+| 14 | [Stupid](https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:21 |
+| 15 | [Bless Your Heart](https://open.spotify.com/track/0R7mbF0KQERtpLaTuugWZg) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 2:43 |
 | 16 | [Mama I Lied](https://open.spotify.com/track/6v9i26kpd5HeRx2XYjG3fp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:27 |
 | 17 | [Hair Salon](https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:44 |
-| 18 | [Sleep on My Side](https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:08 |
-| 19 | [Convincing](https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:57 |
+| 18 | [Convincing](https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:57 |
+| 19 | [Sleep on My Side](https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:08 |
 | 20 | [Indifferent](https://open.spotify.com/track/2uUfFZdKQkUoFHFYTbjvgb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 2:56 |
 | 21 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 |
-| 22 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 |
-| 23 | [Change of Heart](https://open.spotify.com/track/037wvykTRvc8meNo5IAxkz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 |
+| 22 | [Change of Heart](https://open.spotify.com/track/037wvykTRvc8meNo5IAxkz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 |
+| 23 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 |
 | 24 | [I Know You](https://open.spotify.com/track/70E8PmfBWR18u3NJfw63Qh) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 2:40 |
 | 25 | [Fix You Too \(feat\. Kameron Marlowe\)](https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:19 |
-| 26 | [Georgia Girl](https://open.spotify.com/track/7Hk5WvZzinaWXfJ1M6Knsf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:37 |
-| 27 | [I Only Miss You \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 4:05 |
+| 26 | [I Only Miss You \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 4:05 |
+| 27 | [Georgia Girl](https://open.spotify.com/track/7Hk5WvZzinaWXfJ1M6Knsf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:37 |
 | 28 | [Third Time's the Charm](https://open.spotify.com/track/3cHudlaM9wXHnk83WLlzBA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:51 |
 | 29 | [Who's Your Daddy?](https://open.spotify.com/track/5i1UlApqcoXQqbGST2Q3pb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Who's Your Daddy?](https://open.spotify.com/album/7q4S10v6Ja96voiKGL0fUm) | 3:08 |
 | 30 | [What Are You Listening To?](https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [What Are You Listening To?](https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx) | 4:11 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 40 | [Something in the Whiskey](https://open.spotify.com/track/6cF9cMJ70NKWN7Db7cAp9p) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Something in the Whiskey](https://open.spotify.com/album/23D8bKKH3aDkBWkU6oIR19) | 2:58 |
 | 41 | [Keep the Flowers](https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:57 |
 
-Snapshot ID: `aZpHAAAAAAAxz6imcIv+jcZseNiES12U`
+Snapshot ID: `aZuYgAAAAAD5FBfwVZ72tjOE+bJaFY/2`

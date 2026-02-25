@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5902,
+  "num_followers": 5903,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAADaqLjTQ8gKbS8MnJA/m67M",
+  "snapshot_id": "aZuYgAAAAACDsOIB22nvuK/PkFwbCA5o",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/3ikNIUzsRLbG8jpsZUkilH"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 162058,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/5GhAOp2A9gtQ2wkezEVE5n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 273283,
       "name": "Not Moved",
       "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/3ikNIUzsRLbG8jpsZUkilH"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 162058,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/5GhAOp2A9gtQ2wkezEVE5n"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 302438,
-      "name": "Your Presence Is Heaven",
-      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
+      "duration_ms": 256872,
+      "name": "2Cor 5:7",
+      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 256872,
-      "name": "2Cor 5:7",
-      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+      "duration_ms": 302438,
+      "name": "Your Presence Is Heaven",
+      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Your Name be Glorified Worship Medley",
-        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1046673,
-      "name": "Let Your Name be Glorified Worship Medley",
-      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take It All (Live)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Your Name be Glorified Worship Medley",
+        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1046673,
+      "name": "Let Your Name be Glorified Worship Medley",
+      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Great is Your Faithfulness",
         "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
+      "duration_ms": 169687,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
+      "duration_ms": 190500,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
     },
     {
       "added_at": null,

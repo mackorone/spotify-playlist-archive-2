@@ -4,7 +4,7 @@
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-144 songs - 11 hr 6 min
+145 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lost In The Humming Air \- 2005 Digital Remaster](https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:21 | 2022-05-29 |  |
 | [Mars and the Artist \(after Cy Twombly\)](https://open.spotify.com/track/6eMNszDeDRUFbRlghDs1P5) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 1:46 | 2023-12-13 | 2024-04-26 |
 | [Memory Gongs](https://open.spotify.com/track/1AIAZEGLCQ4Y6oSnsjqOYD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 7:27 | 2022-05-29 | 2022-10-13 |
+| [Missing Person](https://open.spotify.com/track/4SC2PFSWMBFsKIeiowe05u) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:35 | 2026-02-25 |  |
 | [Momentary Architecture](https://open.spotify.com/track/24MQNO07DSZeDjfBmkb1rT) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 1:40 | 2022-06-05 | 2022-10-29 |
 | [Momentary Architecture](https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:40 | 2022-10-28 | 2025-09-06 |
 | [My Monochrome Vision](https://open.spotify.com/track/4jqzqCkC2odbTQzObwB6sl) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:44 | 2024-03-12 | 2024-04-04 |
@@ -92,7 +93,7 @@
 | [November Day](https://open.spotify.com/track/1YEm5zawJWKWwTCbLqTy8p) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Another Flower](https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv) | 3:53 | 2022-05-30 | 2024-10-28 |
 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 | 2022-05-29 |  |
 | [Ooze Out And Away, Onehow](https://open.spotify.com/track/157RVHlboS0mum8aCu0WBp) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:41 | 2022-05-30 |  |
-| [Outside, Silence](https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:25 | 2022-06-02 |  |
+| [Outside, Silence](https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:25 | 2022-06-02 | 2026-02-25 |
 | [Poem: Wings](https://open.spotify.com/track/189q6zRiaLFn7ohmubP3xm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 0:37 | 2024-06-08 | 2024-07-22 |
 | [Porcelain Ginger \- 2013 Remaster](https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:58 | 2023-12-15 | 2025-01-29 |
 | [Radiant City](https://open.spotify.com/track/0Z5oEza6OKWhXJBVnlCWzl) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 4:53 | 2022-05-29 |  |

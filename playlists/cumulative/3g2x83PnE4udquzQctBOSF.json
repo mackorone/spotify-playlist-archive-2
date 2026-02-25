@@ -2715,6 +2715,32 @@
     },
     {
       "album": {
+        "name": "Endless Bliss",
+        "url": "https://open.spotify.com/album/2Vde3eMCZfYoM6BjP7WwNz"
+      },
+      "artists": [
+        {
+          "name": "Viaggi Sonori",
+          "url": "https://open.spotify.com/artist/2Rmp2ArNd8rvmEJ3QBNe3Q"
+        },
+        {
+          "name": "Mark Sunrise",
+          "url": "https://open.spotify.com/artist/0OpqRkBzUOzMFT0ilUvOqw"
+        },
+        {
+          "name": "Jolie",
+          "url": "https://open.spotify.com/artist/4h6P5BOsf2pPJQwhderv6Z"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218149,
+      "name": "Endless Bliss",
+      "url": "https://open.spotify.com/track/3MFp3iT64O44kvRuDXlVnN"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/1jEg0Zcl5ydrt9EVXBP1w6"
       },
@@ -7208,6 +7234,24 @@
       "duration_ms": 331875,
       "name": "Roce",
       "url": "https://open.spotify.com/track/68EdmTrrTvdUh1RP32OTsp"
+    },
+    {
+      "album": {
+        "name": "Rock The Casbah (Club Mix)",
+        "url": "https://open.spotify.com/album/3l4PdEXNDiXAQIsTJtAiGc"
+      },
+      "artists": [
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306923,
+      "name": "Rock The Casbah - Club Mix",
+      "url": "https://open.spotify.com/track/22tlePO9GUEXH0cAofRKTH"
     },
     {
       "album": {

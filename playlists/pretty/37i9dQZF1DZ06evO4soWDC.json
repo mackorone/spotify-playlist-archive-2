@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAC98ilY4w6B6CRcym/mp6qF",
+  "snapshot_id": "aZuYgAAAAAC3Un5advWOYXQOwL6fNhYL",
   "tracks": [
     {
       "added_at": null,
@@ -532,41 +532,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Til Forever",
-        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "'Til Forever",
-      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/59UVajW9WnjGIvhShHxRPY"
     },
     {
       "added_at": null,
@@ -587,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Til Forever",
+        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/59UVajW9WnjGIvhShHxRPY"
+      "duration_ms": 160573,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s"
     },
     {
       "added_at": null,

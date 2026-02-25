@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73365,
+  "num_followers": 73361,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 255143,
       "name": "Growing Sideways",
       "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Here's Your Perfect (Acoustic)",
-        "url": "https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 164669,
-      "name": "Here's Your Perfect - Acoustic",
-      "url": "https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Love Adolescent",
         "url": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 263633,
       "name": "The Simple Things",
       "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Here's Your Perfect (Acoustic)",
+        "url": "https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 164669,
+      "name": "Here's Your Perfect - Acoustic",
+      "url": "https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -635,6 +619,22 @@
       "duration_ms": 186660,
       "name": "Use Somebody - Acoustic Version",
       "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Colony of Bees",
-        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Sitting Room",
-      "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Sitting Room",
+      "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 346235,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Two Punks In Love",
         "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 346235,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 193779,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
-        "name": "Running Boy",
-        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "Running Boy",
-      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+        "name": "Running Boy",
+        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+      "duration_ms": 215660,
+      "name": "Running Boy",
+      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1175,6 +1159,22 @@
       "duration_ms": 180545,
       "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
       "url": "https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2026-02-08 16:00:20",

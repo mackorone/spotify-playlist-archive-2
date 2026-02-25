@@ -2,9 +2,9 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. Cover: DC Maxwell
+> The best new music by independent artists and labels\. Cover: Swapmeet
 
-4,443 songs - 10 day 4 hr 54 min
+4,448 songs - 10 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1085,6 +1085,7 @@
 | [Dragonfly](https://open.spotify.com/track/3zuBPTpwfkuZtLDpNgrtY5) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz) | [Earth Radio](https://open.spotify.com/album/5YUeuJItsQgx55RCw7QUyn) | 3:34 | 2023-07-06 | 2023-07-27 |
 | [Drain](https://open.spotify.com/track/1cvsVz5JIiDqw5t1oHn2G0) | [Sunscreen](https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F) | [Drain](https://open.spotify.com/album/6j0TwIkpg5ZxvJ680qh36s) | 4:26 | 2023-09-13 | 2023-09-28 |
 | [Draw the Line](https://open.spotify.com/track/7dt2qvpL4LO1MizChvAFhf) | [Pool House](https://open.spotify.com/artist/1tCQas73x7KX8maY66bLg4) | [Draw the Line](https://open.spotify.com/album/4WRySddW151LXwVSdz4NLT) | 4:06 | 2024-04-08 | 2024-06-19 |
+| [Dream](https://open.spotify.com/track/3A1bMgsYhRWBgWy9E0tgOo) | [Dem Mob](https://open.spotify.com/artist/4aciJpcM8WNsBXP4dQv9yM) | [Dream](https://open.spotify.com/album/5fQz8UwxTyfui4vH6ymIqo) | 3:02 | 2026-02-24 |  |
 | [Dream](https://open.spotify.com/track/4VxImbHmelxZb2fN6tMHzy) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy), [Love Affair](https://open.spotify.com/artist/2WC5FmzvTCMRmIvhkasLok) | [Dream](https://open.spotify.com/album/2IlxpT5fk4X9HtnuRezbrW) | 6:02 | 2023-06-07 | 2023-07-06 |
 | [Dream In A While](https://open.spotify.com/track/4DnbGqeZYhPUTo9q2MGrNd) | [Chutney](https://open.spotify.com/artist/0x6G9fepCzjn26EtxocZDQ) | [Dream In A While](https://open.spotify.com/album/3Ksrefg1SAGIZHUuefRiO5) | 3:33 | 2022-11-16 | 2022-12-01 |
 | [Dream Of Me](https://open.spotify.com/track/6MdylwpBu9ty2Gyx08bnfT) | [Wiri Donna](https://open.spotify.com/artist/5KRlUqqqEnoRLlzmuF9I4L) | [Dream Of Me](https://open.spotify.com/album/0s7H6nW1zSSBmL0Uuarik3) | 2:54 | 2022-05-11 | 2022-06-09 |
@@ -1346,6 +1347,7 @@
 | [Fire](https://open.spotify.com/track/5re6wdFfLITdAOh1XIYh2D) | [Oly Sherman](https://open.spotify.com/artist/5reK8WyX1RXvnRw8J0ZpgE) | [Fire](https://open.spotify.com/album/1DyZ9PWXwow2v8GWLYnbTN) | 5:35 | 2023-03-08 | 2023-04-05 |
 | [Fire](https://open.spotify.com/track/2qBqNbpIjhlT7q307UBbxl) | [Sunshine](https://open.spotify.com/artist/2gqFwTie1K04n78NQl3h7a), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Fire](https://open.spotify.com/album/61frWalBdTbbHagkRig4W0) | 3:22 | 2025-04-01 | 2025-05-14 |
 | [Fire and Ice](https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Fire and Ice](https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB) | 2:20 | 2025-09-30 | 2025-11-12 |
+| [Fire Walk With Me](https://open.spotify.com/track/2V5HAV14bvSUBcBX5PcaFQ) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [Fire Walk With Me](https://open.spotify.com/album/2ZmIAzaZlJcvQfXEwkqy0C) | 2:39 | 2026-02-24 |  |
 | [Fireworks & Lemon Pie](https://open.spotify.com/track/5oV1kM9CmS5DyIIcvb0sG8) | [Winten](https://open.spotify.com/artist/3rZvmwR0HIp5muYvbNkT3x) | [Waving To My Girl](https://open.spotify.com/album/1zugjINHMaB4ESkTQo1v4r) | 4:09 | 2023-08-23 | 2023-09-07 |
 | [First Glance](https://open.spotify.com/track/2IkbE62r0EhLfhIdeeGQzg) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2), [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj) | [First Glance](https://open.spotify.com/album/0nz8Jj4UNPL9CrV3EPRpb5) | 2:48 | 2023-07-12 | 2023-08-10 |
 | [Fixed On You](https://open.spotify.com/track/2UxAa1vwKDM92Bs7F5AAYm) | [Winifred](https://open.spotify.com/artist/0nrIAg6pctHbjP3FyKOvgM) | [Fixed On You](https://open.spotify.com/album/2kfNao6pycNdlguyNyOpUc) | 3:20 | 2022-08-16 | 2022-09-09 |
@@ -1864,6 +1866,7 @@
 | [I Know What You Like](https://open.spotify.com/track/1JXo8BoMj6PeIGKRFliTof) | [Bec Sykes](https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2) | [I Know What You Like](https://open.spotify.com/album/0hJqBuauaUDMGab00UC4CJ) | 3:42 | 2024-08-13 | 2024-09-18 |
 | [I Know Why They’re Screaming](https://open.spotify.com/track/2iEAWfBdyA1Za9TPqAl2Jb) | [Felicity](https://open.spotify.com/artist/54piSANQOPhhndGWqqc1DV) | [I Know Why They’re Screaming](https://open.spotify.com/album/3c3xNJQMdgvOANK5z0FBmi) | 3:03 | 2025-02-18 | 2025-04-02 |
 | [I Know You Know](https://open.spotify.com/track/0S3hujRbJxBSD2TBUAgjs9) | [Barley Passable](https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM) | [I Know You Know](https://open.spotify.com/album/0Qpy2JghuUj2JXwn0Axn81) | 2:42 | 2024-02-22 | 2024-03-22 |
+| [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-02-24 |  |
 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 | 2023-09-06 | 2024-03-02 |
 | [I like to be alone](https://open.spotify.com/track/7ayWQGjDsyQOYkewaPTCNk) | [Mermaidens](https://open.spotify.com/artist/5R7higOEVGXOdv9Uqbn8M8) | [I like to be alone](https://open.spotify.com/album/4TZtYn4Uq7GlbdaSDxHGQI) | 3:47 | 2023-08-30 | 2023-09-14 |
 | [I Like You](https://open.spotify.com/track/0WYerORJMFxEEFztzFsbDB) | [Emily Rink](https://open.spotify.com/artist/65A05MaAQkUbLQm8jVtZHF) | [I Like You](https://open.spotify.com/album/5gI1DVv9UaUiuHGcsZe8YB) | 3:20 | 2023-08-23 | 2023-09-14 |
@@ -3047,6 +3050,7 @@
 | [Portugal](https://open.spotify.com/track/5vT0PoitDmAdKXybsKrsPF) | [MYMA](https://open.spotify.com/artist/6rkLiFPjgyQ5VDm16CNCWX) | [Portugal](https://open.spotify.com/album/1wwn6GFHD95tcLusNILMq9) | 2:05 | 2023-10-19 | 2023-11-16 |
 | [Possessions](https://open.spotify.com/track/18MQxwtR64V6R3z7UqbjU9) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [Possessions](https://open.spotify.com/album/17G8Tn3txv5q5mCv0s5c7n) | 2:41 | 2023-08-09 | 2023-08-31 |
 | [post\-traumatic stress](https://open.spotify.com/track/36UlMEFIqpCzMOQmjK2IL4) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [post\-traumatic stress](https://open.spotify.com/album/70pj9H22oLhKupwGu61zkw) | 2:32 | 2023-11-08 | 2023-11-23 |
+| [Postcard](https://open.spotify.com/track/6lwsb0DsHHeUgM9y0DTvFW) | [Camille Trail](https://open.spotify.com/artist/5sW2cWFuoa25wJhlUoQfRA) | [Postcard](https://open.spotify.com/album/15wqFnPI22eE70wTlxIdA8) | 2:39 | 2026-02-24 |  |
 | [Postcard](https://open.spotify.com/track/2ucMrgOQvBG50hUxMVay63) | [DENNI](https://open.spotify.com/artist/3pmaKSem7OMEW29eeQ2iKO) | [Postcard](https://open.spotify.com/album/3VDYSpWbT4oYN0E4RyZBYl) | 3:09 | 2023-05-17 | 2023-06-08 |
 | [Potential](https://open.spotify.com/track/3qHtB52JP6U4nCRQWZmRI9) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Potential](https://open.spotify.com/album/6wHALvUCNQKWuRJsvHUdUb) | 3:46 | 2022-08-24 | 2022-09-09 |
 | [POUR OUT MY HEART](https://open.spotify.com/track/1aoXmcdugkFBtnLKniyGu0) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [POUR OUT MY HEART](https://open.spotify.com/album/4So0uKxxiyYCw9VplXzGVY) | 2:51 | 2023-08-02 | 2023-08-17 |
@@ -3846,6 +3850,7 @@
 | [The End](https://open.spotify.com/track/00rGgM87QnVkxKBAgDNcNP) | [TANISHA](https://open.spotify.com/artist/5ZrJiyoPJ1n2pkTTb3YyBv) | [The End](https://open.spotify.com/album/7hw1oNza6YIZn2De0NeaIg) | 4:04 | 2023-05-17 | 2023-06-08 |
 | [The Fall](https://open.spotify.com/track/5ObceU2zr8FvgXOOzJeguj) | [Lukae](https://open.spotify.com/artist/0nr5bZCgtf6iFnxuqax6hf), [Jay Kwellyn](https://open.spotify.com/artist/21skaF4DBUGYMxlWPDo7DU) | [The Fall](https://open.spotify.com/album/6ra5iAPKnvCV6bDrnHYpmM) | 5:17 | 2024-06-18 | 2024-07-10 |
 | [The Fall](https://open.spotify.com/track/0MxkgzdaJN9AyQa9Cm6os6) | [ZAN](https://open.spotify.com/artist/19A6vgbXjIfbspMG0TUnsx) | [The Fall](https://open.spotify.com/album/0teGYzxij9PsPbcpaOAj4X) | 3:48 | 2022-09-28 | 2022-11-17 |
+| [THE FUTURE, YOU'LL LOVE IT](https://open.spotify.com/track/5eGisUR8gKRk1hjQUHBK2a) | [dœgægé](https://open.spotify.com/artist/1nzDJPQb3GT8kHt9ryhnIH) | [MARKETING](https://open.spotify.com/album/4Lkd6hIOC8IWpnBWl5BINY) | 4:54 | 2026-02-24 |  |
 | [The Hammock](https://open.spotify.com/track/1iRin5snEGdNEPoBFp98ep) | [Daggy Man](https://open.spotify.com/artist/4nlx8JC05qQU06qyOFo6Kg) | [Make Weep](https://open.spotify.com/album/383jWyq3r7WquU9eHkTOSw) | 3:08 | 2023-11-22 | 2023-11-30 |
 | [The Here And Now](https://open.spotify.com/track/3gdWjWd3pXvtIijQrNWjto) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [The Here And Now](https://open.spotify.com/album/2YGkpwEZmg17X10TH6gJxl) | 3:46 | 2025-03-25 | 2025-05-14 |
 | [The High](https://open.spotify.com/track/0ECkSquRuDEjn0fbmo7y5I) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [The High](https://open.spotify.com/album/0NGiSoVy69K6jLqidcgli5) | 4:55 | 2024-11-12 | 2025-02-19 |

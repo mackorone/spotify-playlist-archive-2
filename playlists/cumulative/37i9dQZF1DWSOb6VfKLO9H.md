@@ -4,7 +4,7 @@
 
 > Alle oude party tunes!
 
-106 songs - 5 hr 22 min
+107 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Djadja](https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 | 2024-07-19 |  |
 | [Do Or Die](https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Goed Teken](https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn) | 3:45 | 2024-07-19 |  |
 | [DomDoen](https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Jonna Fraser](https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10) | [Visionair](https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q) | 2:36 | 2024-07-19 |  |
+| [Dragon Roll](https://open.spotify.com/track/2fCdtNreNptDAZnisSOLpX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Dragon Roll](https://open.spotify.com/album/4C8Gro390C1e2lTIgbprmN) | 2:36 | 2024-07-19 |  |
 | [Drama](https://open.spotify.com/track/7iQKG3ZjRF4EEhUulo514R) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Drama](https://open.spotify.com/album/6dhwuiDlB6pBpCH2yv1iA2) | 2:56 | 2024-07-19 |  |
 | [Dream Girl](https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Dream Girl](https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p) | 2:42 | 2024-07-19 |  |
 | [Energie](https://open.spotify.com/track/1riPE3NCV1OBmSXqpYiMJY) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Rémi](https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx) | 2:45 | 2024-07-19 |  |
@@ -101,7 +102,7 @@
 | [Tempo \(feat\. Sevn Alias, Bko & Boef\)](https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Gouden Plaat](https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY) | 2:44 | 2024-07-19 |  |
 | [Tis Oke Mop](https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Juppige Geintjes](https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE) | 2:57 | 2024-07-19 |  |
 | [Tout Est Bon](https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 2:35 | 2024-07-19 |  |
-| [Type](https://open.spotify.com/track/02oOnxJjamYwKEYJE3i248) | [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa), [Artistic Raw](https://open.spotify.com/artist/2bPh6UXbS7wZ7tyN35kFEG) | [Space](https://open.spotify.com/album/2fylAqEkxgYIyG2poHgQpt) | 2:22 | 2024-07-19 |  |
+| [Type](https://open.spotify.com/track/02oOnxJjamYwKEYJE3i248) | [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa), [Artistic Raw](https://open.spotify.com/artist/2bPh6UXbS7wZ7tyN35kFEG) | [Space](https://open.spotify.com/album/2fylAqEkxgYIyG2poHgQpt) | 2:22 | 2024-07-19 | 2026-02-25 |
 | [Vakantie \(with Jonna Fraser\)](https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Vakantie](https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f) | 2:45 | 2024-07-19 |  |
 | [Van Mij \(feat\. Jandro & Zefanio\)](https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [10](https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO) | 3:24 | 2024-07-19 |  |
 | [Vervloekt](https://open.spotify.com/track/0TSXMqkkZy7yV7jno8Nv4a) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [We Don't Stop](https://open.spotify.com/album/040y4hBxeWnxEXp6Nwoypu) | 2:29 | 2024-07-19 |  |

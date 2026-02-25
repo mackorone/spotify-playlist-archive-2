@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,425 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,474 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Devil Go Away \(feat\. Jelly Roll\)](https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:14 |
 | 50 | [Unlive \- with Yelawolf](https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 
-Snapshot ID: `aZpHAAAAAAB4DSC9Ay5Nv5xsZTyKB0me`
+Snapshot ID: `aZuYgAAAAADyH3Aqt+e01kZRPSIJDLUe`

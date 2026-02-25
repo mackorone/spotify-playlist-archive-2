@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,247 likes - 121 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,263 likes - 121 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 91 | [Ta Sendo](https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Ta Sendo](https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8) | 3:23 |
 | 92 | [Suddenly Funk \- Extended Mix](https://open.spotify.com/track/23wn7WHg4Q3Ez1oPZPcnfj) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Suddenly Funk](https://open.spotify.com/album/1kve1owCmabgAFUDj7heep) | 6:30 |
 | 93 | [EY](https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [EY](https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs) | 2:19 |
-| 94 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Gennaro](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
+| 94 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
 | 95 | [I Just Want You To Smile](https://open.spotify.com/track/26jWskVc8NRVYeP2C3noTv) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [I Just Want You To Smile](https://open.spotify.com/album/2wc2zJZngG1XrRmn9F5kko) | 3:42 |
 | 96 | [No Tears](https://open.spotify.com/track/2luq1362FUJQ3oCKhmOuLR) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [No Tears](https://open.spotify.com/album/75TqcFwNrgVFWKtdqm953M) | 3:37 |
 | 97 | [Oh Please](https://open.spotify.com/track/0SD8haiBbXQqh8qurMYE02) | [SHARE](https://open.spotify.com/artist/2pZu06SDKGidcidZdHBbQO), [Def Eff](https://open.spotify.com/artist/61MEntmcwMLb83bAzwc6dJ) | [Crosstown Rebels present SPIRITS VII](https://open.spotify.com/album/4vxEIpy4J5NtRdbBor3fJf) | 6:06 |

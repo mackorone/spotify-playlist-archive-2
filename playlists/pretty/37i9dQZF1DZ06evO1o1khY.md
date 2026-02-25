@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,517 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,536 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 34 | [Leave the Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/0zP8VSgyYSVqrSXTYTn9Su) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:42 |
 | 35 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 |
 | 36 | [Accent \(feat\. GloRilla\)](https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:19 |
-| 37 | [Special](https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Special](https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B) | 2:31 |
-| 38 | [In Dat Mode](https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:02 |
+| 37 | [In Dat Mode](https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:02 |
+| 38 | [Special](https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Special](https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B) | 2:31 |
 | 39 | [Blessed](https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:36 |
 | 40 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
 | 41 | [Never Need \(feat\. GloRilla & KARRAHBOOO\)](https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Never Need \(feat\. GloRilla & KARRAHBOOO\)](https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |
 | 50 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 |
 
-Snapshot ID: `aZpHAAAAAACJ40cK0eE7w1x4euAXLvaE`
+Snapshot ID: `aZuYgAAAAAAsf7vStbqFeSix8bm679da`

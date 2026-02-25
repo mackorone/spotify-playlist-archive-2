@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,580 likes - 46 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,655 likes - 46 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 8 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 |
 | 9 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |
 | 10 | [Antes de Morirme \- feat\. ROSALÍA](https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9) | 3:19 |
-| 11 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
-| 12 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 |
+| 11 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 |
+| 12 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
 | 13 | [Sexo, Violencia y Llantas](https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:20 |
 | 14 | [Brillo](https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 2:39 |
 | 15 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 45 | [QUE NO SALGA LA LUNA \- Cap.2: Boda](https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 4:29 |
 | 46 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 |
 
-Snapshot ID: `aZpHAAAAAAAoMZ0aJPiTPhkudmwJnNb/`
+Snapshot ID: `aZuYgAAAAADmJW0oIjPhOlLZL7mYopQ4`

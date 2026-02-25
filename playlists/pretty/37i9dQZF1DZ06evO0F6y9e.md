@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100,694 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,875 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 8 | [En Tu Perra Vida](https://open.spotify.com/track/5whWBmGn90pVWhexc88Scc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/3yNcCCNhUhkz9gSpzz1WkI) | 3:58 |
 | 9 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/230KSxk14541umr44W2vCM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669) | 3:09 |
 | 10 | [El Mundo a Tus Pies](https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm) | 2:56 |
-| 11 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 |
-| 12 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
+| 11 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
+| 12 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 |
 | 13 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx) | 3:22 |
 | 14 | [Hubiéramos](https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:49 |
 | 15 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Cómo Pudiste \(En Vivo\)](https://open.spotify.com/track/6qioUHZ4zBU3v9k3lQAJx2) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Desde La Playa, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/34cKEFiNsJI3o0Nl1TB88I) | 3:29 |
 | 50 | [En Realidad \(En Vivo\)](https://open.spotify.com/track/3TTDDA0X7UWMUG5qxJf4uq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [En Realidad \(En Vivo\)](https://open.spotify.com/album/7G1Uu7W0FCmIVqSoDECDnA) | 3:28 |
 
-Snapshot ID: `aZpHAAAAAAAfQ3905rXS7VuhX0Wo90TS`
+Snapshot ID: `aZuYgAAAAACIqqw/1XHRdECTXLCxyVcX`

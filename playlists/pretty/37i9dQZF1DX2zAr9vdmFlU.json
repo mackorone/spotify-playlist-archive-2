@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437266,
+  "num_followers": 437263,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
-        "url": "https://open.spotify.com/album/66McP7Yf7kOAtfgomsNUzu"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Bejuco",
-          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
-        }
-      ],
-      "duration_ms": 191147,
-      "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
-      "url": "https://open.spotify.com/track/0yn2NERsd0Jb0Xf0t7xC7i"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
       },
@@ -591,6 +571,42 @@
       "duration_ms": 180648,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
+        "url": "https://open.spotify.com/album/66McP7Yf7kOAtfgomsNUzu"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Bejuco",
+          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
+        }
+      ],
+      "duration_ms": 191147,
+      "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
+      "url": "https://open.spotify.com/track/0yn2NERsd0Jb0Xf0t7xC7i"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -643,22 +659,6 @@
       "duration_ms": 188070,
       "name": "bossa nova",
       "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 261696,
-      "name": "Mariposas Blancas",
-      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Esperando Verte",
         "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 232853,
       "name": "Esperando Verte",
       "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 261696,
+      "name": "Mariposas Blancas",
+      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Compass",
         "url": "https://open.spotify.com/album/2SJKC7sZ0uS1m43oNarZHA"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 248008,
       "name": "Yo La Vi",
       "url": "https://open.spotify.com/track/3Gc1LdChaPOVxFbGUuW8sq"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
     },
     {
       "added_at": "2026-02-19 18:04:12",

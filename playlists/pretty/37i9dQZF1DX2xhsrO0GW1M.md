@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,825 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,666 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 30 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 |
 | 31 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
 | 32 | [Heavy Cross](https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Heavy Cross](https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR) | 4:02 |
-| 33 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
-| 34 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
+| 33 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
+| 34 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
 | 35 | [Black Moon Rising](https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 3:41 |
 | 36 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 37 | [Alligator](https://open.spotify.com/track/797qMUoU74C6xc45n2vAMK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 3:04 |

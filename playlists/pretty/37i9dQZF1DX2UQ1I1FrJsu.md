@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,545 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,617 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 67 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
 | 68 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
 | 69 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
-| 70 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
-| 71 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 |
+| 70 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 |
+| 71 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 72 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 |
 | 73 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
 | 74 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 86 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 |
 | 87 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
 | 88 | [Ain't Nothing Changed](https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:14 |
-| 89 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
-| 90 | [When We Get By](https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:44 |
+| 89 | [When We Get By](https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:44 |
+| 90 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
 | 91 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 | 92 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 |
 | 93 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |

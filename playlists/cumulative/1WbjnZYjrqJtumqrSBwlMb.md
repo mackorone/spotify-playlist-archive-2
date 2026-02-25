@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,275 songs - 3 day 6 hr 11 min
+1,276 songs - 3 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-01-20 |  |
 | [Back by Popular Demand 1 1](https://open.spotify.com/track/1mkBeCkn7jb8ax2n3HylU7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to](https://open.spotify.com/album/7ucLe0eL8tclCz3FekcYyn) | 1:48 | 2022-08-17 |  |
 | [Back by Popular Demand 1 1 \- unmuffled](https://open.spotify.com/track/3QNBEvoWWdwQ1ai5s4wbPy) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to \(unmuffled\)](https://open.spotify.com/album/1hIumzZ2gdwGRjPkEN1YjV) | 1:48 | 2023-04-23 |  |
-| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2026-02-17 |  |
+| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2026-02-17 | 2026-02-25 |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-10 | 2024-05-20 |
 | [Back Up To Earth](https://open.spotify.com/track/1OOC28cOjTfNd7fsZcbm7o) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:02 | 2021-11-03 |  |
 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-05-29 |  |
@@ -831,6 +831,7 @@
 | [Piledriver Waltz](https://open.spotify.com/track/4Ai0ANRDYwx6mCD4Uty1WS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:23 | 2019-11-03 |  |
 | [Pink as Floyd](https://open.spotify.com/track/03GSskFw5AAKkwlOfiUMpR) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Pink as Floyd / Your Eyes Girl](https://open.spotify.com/album/582BvSmU6StxTJ4PmTR79j) | 4:53 | 2023-09-16 |  |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-12-02 |  |
+| [Play my guitar](https://open.spotify.com/track/2ivXSSVfpv2YUYMqX9x426) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/0zfRCNRF2ya1KZDtgGXUgI) | 3:30 | 2026-02-25 |  |
 | [Please Don’t Wake Me Up](https://open.spotify.com/track/6Oy0oLJUbZC7FTay0OLyGn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:01 | 2021-11-03 |  |
 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 | 2024-05-10 |  |
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2021-12-08 |  |

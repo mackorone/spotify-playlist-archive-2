@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from marguerite, PLK x Theodora, IBE and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,765 likes - 138 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,764 likes - 138 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

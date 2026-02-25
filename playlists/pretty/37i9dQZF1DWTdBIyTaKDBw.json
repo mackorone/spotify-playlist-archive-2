@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 25118,
+  "num_followers": 25143,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Chillhop Essentials Spring 2017",
-        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
-      },
-      "artists": [
-        {
-          "name": "Gyvus",
-          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Koi",
-      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
         "name": "rainy evening",
         "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 108000,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
+        "name": "Chillhop Essentials Spring 2017",
+        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
+      },
+      "artists": [
+        {
+          "name": "Gyvus",
+          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "Koi",
+      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -615,18 +615,22 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
+        "name": "Koto Memories",
+        "url": "https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU"
       },
       "artists": [
         {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        },
+        {
+          "name": "Kyefii",
+          "url": "https://open.spotify.com/artist/6jTxLqHhCNVbodPAJB77Sw"
         }
       ],
-      "duration_ms": 176222,
-      "name": "22 Samurai",
-      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
+      "duration_ms": 139107,
+      "name": "Koto Memories",
+      "url": "https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -647,22 +651,18 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Koto Memories",
-        "url": "https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
       "artists": [
         {
-          "name": "Tibeauthetraveler",
-          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
-        },
-        {
-          "name": "Kyefii",
-          "url": "https://open.spotify.com/artist/6jTxLqHhCNVbodPAJB77Sw"
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
         }
       ],
-      "duration_ms": 139107,
-      "name": "Koto Memories",
-      "url": "https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB"
+      "duration_ms": 176222,
+      "name": "22 Samurai",
+      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
+        "name": "Waiting To Board",
+        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
+      },
+      "artists": [
+        {
+          "name": "vhskid.",
+          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Waiting To Board",
+      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
         "name": "rest & be thankful",
         "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 130677,
       "name": "Egyptian Pools",
       "url": "https://open.spotify.com/track/0apbliJUvsg6R6l126454r"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
-        "name": "Waiting To Board",
-        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
-      },
-      "artists": [
-        {
-          "name": "vhskid.",
-          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Waiting To Board",
-      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 219297,
-      "name": "to reach a person",
-      "url": "https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
-        "name": "Vanishing Journey",
-        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lee",
-          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
-        }
-      ],
-      "duration_ms": 146925,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
         "name": "Maiko",
         "url": "https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 208000,
       "name": "Maiko's Hope",
       "url": "https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 219297,
+      "name": "to reach a person",
+      "url": "https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
+        "name": "Vanishing Journey",
+        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        }
+      ],
+      "duration_ms": 146925,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
         "name": "Kodama",
         "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 186268,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
+        "name": "Mt Fuji",
+        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
+      },
+      "artists": [
+        {
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+        }
+      ],
+      "duration_ms": 116841,
+      "name": "Mt Fuji",
+      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1215,18 +1231,22 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Mt Fuji",
-        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
+        "name": "First Light Of Spring",
+        "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
       },
       "artists": [
         {
-          "name": "lechiffrebeats",
-          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        },
+        {
+          "name": "Coloured Rocks",
+          "url": "https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t"
         }
       ],
-      "duration_ms": 116841,
-      "name": "Mt Fuji",
-      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
+      "duration_ms": 140678,
+      "name": "Jade Temple",
+      "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1259,26 +1279,6 @@
       "duration_ms": 242400,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
-        "name": "First Light Of Spring",
-        "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
-      },
-      "artists": [
-        {
-          "name": "Lenny B",
-          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
-        },
-        {
-          "name": "Coloured Rocks",
-          "url": "https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t"
-        }
-      ],
-      "duration_ms": 140678,
-      "name": "Jade Temple",
-      "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Distant Worlds 4",
-        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
       "artists": [
         {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
         }
       ],
-      "duration_ms": 146144,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
+      "duration_ms": 139095,
+      "name": "Anata",
+      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 139095,
-      "name": "Anata",
-      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
         "name": "Blood Oath",
         "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
       },
@@ -1427,22 +1411,6 @@
       "duration_ms": 195000,
       "name": "Blood Oath",
       "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
-        "name": "Nama",
-        "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Nama",
-      "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1463,6 +1431,38 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
+        "name": "Nama",
+        "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Nama",
+      "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
+        "name": "Distant Worlds 4",
+        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
         "name": "Yamete",
         "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "Hatsukoi",
-      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
         "name": "Torimichi",
         "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 281739,
       "name": "Torimichi",
       "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 167102,
-      "name": "Miss Each Other Because of Love",
-      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 139200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 167102,
+      "name": "Miss Each Other Because of Love",
+      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
     },
     {
       "added_at": "2026-02-20 07:16:12",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-02-20 07:16:12",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Inevitability",
-      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
-    },
-    {
-      "added_at": "2026-02-20 07:16:12",
-      "album": {
         "name": "Beyond the Waves",
         "url": "https://open.spotify.com/album/2JNdOx7Y8ESNTPawE3ATOr"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 170000,
       "name": "Beyond the Waves",
       "url": "https://open.spotify.com/track/6uB4JeqeiGxYn1pswrC7rX"
+    },
+    {
+      "added_at": "2026-02-20 07:16:12",
+      "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Inevitability",
+      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
     },
     {
       "added_at": "2026-02-20 07:16:12",

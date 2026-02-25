@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,848 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,845 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 45 | [Deus Tremendo](https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:08 |
 | 46 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
 | 47 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
-| 48 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 |
-| 49 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
+| 48 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
+| 49 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 |
 | 50 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 |
 
-Snapshot ID: `aZpHAAAAAAAtn/DUzPIvIGqUcPeOsQpE`
+Snapshot ID: `aZuYgAAAAACjIp/KVUnjwQQthplxRVCT`

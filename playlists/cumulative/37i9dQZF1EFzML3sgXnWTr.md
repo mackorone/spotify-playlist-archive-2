@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 3 min
+120 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 | 2025-11-09 |  |
 | [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2025-06-14 | 2025-11-10 |
 | [Non cambia mai](https://open.spotify.com/track/6gmB182UrCJnMHZTrxqUNv) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/70SXCWuJY7sw8EIblrp3iq) | 3:10 | 2023-04-04 | 2024-10-10 |
+| [Non cambia mai](https://open.spotify.com/track/73wVaFK3ObtATKxqojeRxm) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/4m6frJXOfu9fulG7Ey89UJ) | 3:10 | 2026-02-24 |  |
 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 | 2025-07-17 |  |
 | [NUDA](https://open.spotify.com/track/3eLgGwDw3HnlfHR1Ox4LB5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [rosa dei venti](https://open.spotify.com/album/0NGv6zN2X04QkMJH3ooWWR) | 2:37 | 2025-11-26 |  |
 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 | 2022-09-16 |  |

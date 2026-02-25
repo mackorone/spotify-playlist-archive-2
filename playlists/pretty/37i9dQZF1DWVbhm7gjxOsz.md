@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,521 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,573 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,16 +137,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 127 | [La Vida Es Fría](https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Vida Es Fría](https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp) | 3:22 |
 | 128 | [I Want You Back \- Remastered](https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY) | [Don Julian & The Larks](https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y) | [East Side Story Volume 5](https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl) | 3:08 |
 | 129 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
-| 130 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL) | 6:16 |
-| 131 | [Reasons](https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl) | 4:58 |
-| 132 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 |
+| 130 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 |
+| 131 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL) | 6:16 |
+| 132 | [Reasons](https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl) | 4:58 |
 | 133 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 |
 | 134 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
 | 135 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
-| 136 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Dead Presidents Volume II / Music From The Motion Picture](https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB) | 3:53 |
-| 137 | [I'm Still In Love With You](https://open.spotify.com/track/1dF7EdEalTVfJyR6zCv093) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 3:14 |
-| 138 | [Darling Baby](https://open.spotify.com/track/51qGBOwgoMkjoSQtsUiEmf) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Complete Motown Singles, Volume 5: 1965](https://open.spotify.com/album/2KCZeZkFeasjUWc8CylCpb) | 2:35 |
-| 139 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |
+| 136 | [I'm Still In Love With You](https://open.spotify.com/track/1dF7EdEalTVfJyR6zCv093) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 3:14 |
+| 137 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |
+| 138 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Dead Presidents Volume II / Music From The Motion Picture](https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB) | 3:53 |
+| 139 | [Darling Baby](https://open.spotify.com/track/51qGBOwgoMkjoSQtsUiEmf) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Complete Motown Singles, Volume 5: 1965](https://open.spotify.com/album/2KCZeZkFeasjUWc8CylCpb) | 2:35 |
 | 140 | [Float On](https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Float On](https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH) | 11:48 |
 | 141 | [Mujer Mia](https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [SalSoul](https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W) | 4:30 |
 | 142 | [Soon Enough](https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ) | 4:00 |

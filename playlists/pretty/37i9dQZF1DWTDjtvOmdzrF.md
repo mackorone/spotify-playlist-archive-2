@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,822 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,829 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 25 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |
 | 26 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
 | 27 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
-| 28 | [Hitam Putih](https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 4:11 |
-| 29 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
+| 28 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
+| 29 | [Hitam Putih](https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 4:11 |
 | 30 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 31 | [Tresno liyane](https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno liyane](https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE) | 4:50 |
 | 32 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 51 | [Tolong](https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tolong](https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47) | 4:10 |
 | 52 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
 | 53 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
-| 54 | [Saktenane \- Acoustic Version](https://open.spotify.com/track/04smuF7vPy6v2PQSdigGYV) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane \(Acoustic Version\)](https://open.spotify.com/album/23USEM1MKRCLJKVXJtr6qr) | 5:26 |
-| 55 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
-| 56 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
+| 54 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
+| 55 | [Saktenane \- Acoustic Version](https://open.spotify.com/track/04smuF7vPy6v2PQSdigGYV) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane \(Acoustic Version\)](https://open.spotify.com/album/23USEM1MKRCLJKVXJtr6qr) | 5:26 |
+| 56 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
 | 57 | [Menuju Senja](https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:06 |
 | 58 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 |
 | 59 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |

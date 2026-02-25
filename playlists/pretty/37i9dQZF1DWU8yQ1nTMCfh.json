@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 295827,
+  "num_followers": 295802,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Vidas Felices",
-        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Vidas Felices",
-      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Nuestro A\u00f1o",
         "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 171945,
       "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
       "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Vidas Felices",
+        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Vidas Felices",
+      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "qu\u00e9 pasar\u00eda",
-        "url": "https://open.spotify.com/album/13tIQlqfTIxaz1HSl0yUce"
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
       "artists": [
         {
-          "name": "VRSTY",
-          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 193142,
-      "name": "qu\u00e9 pasar\u00eda",
-      "url": "https://open.spotify.com/track/4d05KAL0QGo0ZpVuB4YOv8"
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -847,6 +831,22 @@
       "duration_ms": 179872,
       "name": "TRAS",
       "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "qu\u00e9 pasar\u00eda",
+        "url": "https://open.spotify.com/album/13tIQlqfTIxaz1HSl0yUce"
+      },
+      "artists": [
+        {
+          "name": "VRSTY",
+          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "qu\u00e9 pasar\u00eda",
+      "url": "https://open.spotify.com/track/4d05KAL0QGo0ZpVuB4YOv8"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Brujer\u00eda",
-        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 173747,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 172114,
       "name": "santos inocentes",
       "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Brujer\u00eda",
+        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 173747,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Mirando al techo",
+      "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "El Show Debe Continuar",
         "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Conducci\u00f3n Temeraria",
-        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 214168,
-      "name": "Mirando al techo",
-      "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Adictos",
-        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Adictos",
-      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "El Puesto Es M\u00edo",
         "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 178142,
       "name": "El Puesto Es M\u00edo",
       "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Adictos",
+        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Adictos",
+      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
     },
     {
       "added_at": "2026-02-20 05:00:51",

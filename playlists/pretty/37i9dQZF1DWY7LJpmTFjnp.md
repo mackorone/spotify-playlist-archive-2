@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov,  MC Davo y EMJAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,297 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,266 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 49 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |
 | 50 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 51 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
-| 52 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
-| 53 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 52 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 53 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 54 | [Angustias](https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Angustias](https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh) | 3:02 |
 | 55 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
 | 56 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 97 | [Contra Todo Pronóstico](https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Contra Todo Pronóstico](https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4) | 4:12 |
 | 98 | [Las chingadas ganas de llorar](https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Las chingadas ganas de llorar](https://open.spotify.com/album/6TR5ROAqehRhQDMAeOmqeR) | 3:19 |
 | 99 | [Las Batallas/Rarotonga \- MTV Unplugged](https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:26 |
-| 100 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Lena Campos](https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz), [Moy Yos](https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX) | 3:12 |
+| 100 | [Love Song](https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Dean Fraser](https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R) | [Love Song](https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8) | 4:26 |
 
 Snapshot ID: `AAAAAKqHqjYONdrXzPJ9t1JdmtqwMLsK`

@@ -272,7 +272,7 @@
 | [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 | 2024-02-29 |  |
 | [What We Got ～奇跡はきみと～](https://open.spotify.com/track/6kRoSReUEuhFQCWxTC856f) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [What We Got ～奇跡はきみと～](https://open.spotify.com/album/2CVTjcEig1nc72D3wCeahb) | 3:05 | 2025-06-11 | 2025-09-22 |
 | [WHERE DO WE GO](https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO](https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc) | 2:37 | 2024-09-27 | 2024-10-30 |
-| [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 | 2025-02-07 |  |
+| [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 | 2025-02-07 | 2026-02-25 |
 | [Whole of Flower](https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [Whole of Flower](https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS) | 4:09 | 2025-05-28 | 2025-07-01 |
 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2023-12-30 | 2024-01-18 |
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2023-12-22 | 2024-02-14 |
@@ -483,6 +483,6 @@
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2024-10-26 | 2025-09-19 |
 | [駄叉](https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [駄叉](https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9) | 4:13 | 2024-07-18 | 2024-08-08 |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-22 | 2025-03-11 |
-| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 | 2026-01-15 |
+| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

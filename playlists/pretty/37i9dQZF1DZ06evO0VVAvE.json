@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 9283,
+  "num_followers": 9306,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABanDtz8yD6MDOvGgmduFRN",
+  "snapshot_id": "aZuYgAAAAAAhpNEASYvwrIIkm1PnLm6+",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pay Me",
         "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 127529,
       "name": "Pay Me",
       "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Vicente Calder\u00f3n.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Cervatana.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -9754,6 +9754,24 @@
     {
       "album": {
         "name": "Amigo M\u00edo",
+        "url": "https://open.spotify.com/album/7KhwNPJutT0njTtjWjLbaG"
+      },
+      "artists": [
+        {
+          "name": "Leon Coeur",
+          "url": "https://open.spotify.com/artist/2Ba1UolAMuBTKpfAlHzVM5"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218321,
+      "name": "Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/2pFXuJlP2S94gy30l9Lhg8"
+    },
+    {
+      "album": {
+        "name": "Amigo M\u00edo",
         "url": "https://open.spotify.com/album/0x81eLgRUSflAJfNTarGOB"
       },
       "artists": [
@@ -10384,7 +10402,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 155758,
       "name": "Amor Motorizado",
       "url": "https://open.spotify.com/track/6dJDYcLBm8c6Px2E4c9w83"
@@ -15214,7 +15232,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 154350,
       "name": "Azuuuuuul",
       "url": "https://open.spotify.com/track/4G8f7N3hZGaGMSOmEj0leM"
@@ -32054,7 +32072,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 221469,
       "name": "Cris\u00e1lida",
       "url": "https://open.spotify.com/track/0vDHoq0GjvRF8bYLqwy9q3"
@@ -43000,7 +43018,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 184800,
       "name": "el amor que te he tenido",
       "url": "https://open.spotify.com/track/6fhWoBk6qGysYYYW4bUCK9"
@@ -47078,7 +47096,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 162240,
       "name": "el uno por el otro",
       "url": "https://open.spotify.com/track/2llEdAgdL9Sv1MA7sqkQLJ"
@@ -68101,6 +68119,32 @@
     },
     {
       "album": {
+        "name": "keremos cheles",
+        "url": "https://open.spotify.com/album/6icKMEbm9osYX1SfjgdNzN"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Zango",
+          "url": "https://open.spotify.com/artist/23RDiEFiV2gMYADEUX40db"
+        },
+        {
+          "name": "Invandra",
+          "url": "https://open.spotify.com/artist/4ftKfaIj81n7XQ5RGtQCND"
+        },
+        {
+          "name": "IKEBANA PAT",
+          "url": "https://open.spotify.com/artist/6ENgRzOl5lyD4HavapJ99W"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124425,
+      "name": "keremos cheles",
+      "url": "https://open.spotify.com/track/5jRqai2CuzQ7m5sbfnJ2c6"
+    },
+    {
+      "album": {
         "name": "Keroseno",
         "url": "https://open.spotify.com/album/1jGWo9yAtWRAJzvFA8JsCN"
       },
@@ -73276,7 +73320,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 180166,
       "name": "La Resaca",
       "url": "https://open.spotify.com/track/0jDScV7n4wsoJ64mjF3oo4"
@@ -83736,7 +83780,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 163500,
       "name": "Maneras de cagarla",
       "url": "https://open.spotify.com/track/1xI9CPr9R49YxDZDmmB03B"
@@ -84934,6 +84978,28 @@
       "duration_ms": 165853,
       "name": "Martini 22",
       "url": "https://open.spotify.com/track/31O55FlLCMECS7EJFxcfZB"
+    },
+    {
+      "album": {
+        "name": "MARTIRIO",
+        "url": "https://open.spotify.com/album/35TgBQTxcV3vjoysoSvETg"
+      },
+      "artists": [
+        {
+          "name": "Carmen Lillo",
+          "url": "https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW"
+        },
+        {
+          "name": "CCF",
+          "url": "https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148353,
+      "name": "MARTIRIO",
+      "url": "https://open.spotify.com/track/60vB4eadjfwoC6SFIqnEJ7"
     },
     {
       "album": {
@@ -87568,7 +87634,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 180986,
       "name": "Me tir\u00e9 a un Facha",
       "url": "https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY"
@@ -100886,7 +100952,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 189529,
       "name": "No Quiero Ser Mayor",
       "url": "https://open.spotify.com/track/3wSFGCRqDxjSrDljyJjmbd"
@@ -114013,6 +114079,24 @@
     },
     {
       "album": {
+        "name": "Pladur",
+        "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
+      },
+      "artists": [
+        {
+          "name": "Paco Moreno",
+          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "Pladur",
+      "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
+    },
+    {
+      "album": {
         "name": "PLAN B",
         "url": "https://open.spotify.com/album/6iwW8Awqig6mpQ4IaMBPEo"
       },
@@ -116397,6 +116481,24 @@
     },
     {
       "album": {
+        "name": "Primer Amor",
+        "url": "https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146654,
+      "name": "Primer Amor",
+      "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
+    },
+    {
+      "album": {
         "name": "primera jugada",
         "url": "https://open.spotify.com/album/6qFG2yNF0ila2pcn4WkwPi"
       },
@@ -117084,7 +117186,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 231329,
       "name": "Proxy",
       "url": "https://open.spotify.com/track/3QSGbIWB4yNHiu3eisxp4A"
@@ -121027,6 +121129,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9mame",
+        "url": "https://open.spotify.com/album/5qSlMSaJDLMiHunwvtcuN3"
+      },
+      "artists": [
+        {
+          "name": "Savage Project",
+          "url": "https://open.spotify.com/artist/2Lfz2UXmpLWsRJjB3sRskV"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205363,
+      "name": "Qu\u00e9mame",
+      "url": "https://open.spotify.com/track/0mXdEymTotm6HnqYrJ39vn"
+    },
+    {
+      "album": {
         "name": "qu\u00e9m\u00e1sda.",
         "url": "https://open.spotify.com/album/0KROROj2Hiwqp4AIzDDd5o"
       },
@@ -123094,7 +123214,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 109090,
       "name": "rewind",
       "url": "https://open.spotify.com/track/6nob9pjvUMgZQ2BMmRRbAJ"
@@ -126582,7 +126702,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 186321,
       "name": "santo el cielo (q brilla x n\u00f3s)",
       "url": "https://open.spotify.com/track/7bTlEyHjDXbsryF1V1ciRn"
@@ -132783,6 +132903,24 @@
     },
     {
       "album": {
+        "name": "Solo Un D\u00eda",
+        "url": "https://open.spotify.com/album/0uKabNAmbylJ99yYjqdBoe"
+      },
+      "artists": [
+        {
+          "name": "ron deris",
+          "url": "https://open.spotify.com/artist/14DFX519JNunFcVaKQyVS0"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "Solo Un D\u00eda",
+      "url": "https://open.spotify.com/track/0vnvvLAVBug8ivbIUlOx7A"
+    },
+    {
+      "album": {
         "name": "Solo Una",
         "url": "https://open.spotify.com/album/3skR1J39sW1t6oH9qBhq9I"
       },
@@ -138346,6 +138484,24 @@
       "duration_ms": 96567,
       "name": "Te Ment\u00ed",
       "url": "https://open.spotify.com/track/3dtpgnTz4VyLWwcacdWMZF"
+    },
+    {
+      "album": {
+        "name": "Te ment\u00ed",
+        "url": "https://open.spotify.com/album/7h06V32PKdO17iRXNODj4v"
+      },
+      "artists": [
+        {
+          "name": "Vaho",
+          "url": "https://open.spotify.com/artist/6JmWO5NtRuHGpSI2HfFIA9"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176150,
+      "name": "Te ment\u00ed",
+      "url": "https://open.spotify.com/track/0jdCMJOvnm9sfK04XWi4pW"
     },
     {
       "album": {
@@ -145833,6 +145989,24 @@
     },
     {
       "album": {
+        "name": "tumba",
+        "url": "https://open.spotify.com/album/2jofILb79JclRLaC8weWsA"
+      },
+      "artists": [
+        {
+          "name": "vikini",
+          "url": "https://open.spotify.com/artist/0oKTqP9KUqsfrd4JPEkdWs"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "tumba",
+      "url": "https://open.spotify.com/track/4TZO09kK5STkyZ4mbKQtGp"
+    },
+    {
+      "album": {
         "name": "Tumbaditos",
         "url": "https://open.spotify.com/album/3QfAU33daXkmDiHkXCiFVX"
       },
@@ -148526,6 +148700,24 @@
       "duration_ms": 238182,
       "name": "Un Salto de Fe",
       "url": "https://open.spotify.com/track/0Xlqfc9mBGI5dWx24nd9YT"
+    },
+    {
+      "album": {
+        "name": "un secreto",
+        "url": "https://open.spotify.com/album/4ej9uezRxa3Rs5YreWMUWz"
+      },
+      "artists": [
+        {
+          "name": "Blanca Vergara",
+          "url": "https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147421,
+      "name": "un secreto",
+      "url": "https://open.spotify.com/track/2HFOcVeqjGpe9mkHbHDhD4"
     },
     {
       "album": {

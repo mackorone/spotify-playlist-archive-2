@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1394103,
+  "num_followers": 1394186,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Black Power",
+        "url": "https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0"
+      },
+      "artists": [
+        {
+          "name": "Black Power",
+          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
+        }
+      ],
+      "duration_ms": 267551,
+      "name": "Ya No Me Perteneces",
+      "url": "https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Black Power",
-        "url": "https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0"
-      },
-      "artists": [
-        {
-          "name": "Black Power",
-          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
-        }
-      ],
-      "duration_ms": 267551,
-      "name": "Ya No Me Perteneces",
-      "url": "https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Sigueme",
         "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 202666,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Serie Diamante - 15 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
         }
       ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
+      "duration_ms": 210006,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD"
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
         }
       ],
-      "duration_ms": 210006,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs"
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Cumbias y Bachatas Vol.2",
         "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 277455,
       "name": "Dejame Pensar",
       "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Quedate Con \u00c9l",
-      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Con Musica Del Barrio y Para El Barrio",
         "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 254253,
       "name": "El Baile De San Juan",
       "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Quedate Con \u00c9l",
+      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
     },
     {
       "added_at": "2025-05-16 06:00:15",

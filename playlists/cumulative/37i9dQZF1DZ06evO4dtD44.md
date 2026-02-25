@@ -4,7 +4,7 @@
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 52 min
+69 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,11 +47,12 @@
 | [Isto Aquí O Que É](https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 4:29 | 2026-02-02 |  |
 | [It Might As Well Be Spring \- Live At Carnegie Hall](https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Jazz 'Round Midnight: Bossa Nova](https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY) | 4:24 | 2025-07-20 |  |
 | [Maria Ninguém](https://open.spotify.com/track/14tckhtrOlTwM32xlVGzrv) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:22 | 2026-01-05 | 2026-01-15 |
+| [María Ninguém](https://open.spotify.com/track/20edSKFWj9zQEEbMeJDW6E) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 2:23 | 2026-02-25 |  |
 | [María Ninguém](https://open.spotify.com/track/2YdI6iN91I4KmnUnjrR3VW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 2:23 | 2025-07-20 | 2025-11-06 |
 | [Meditation](https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Summer Night](https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc) | 4:03 | 2025-07-20 |  |
 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 | 2025-07-20 |  |
 | [Nao Vou Pra Casa](https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:56 | 2025-07-20 |  |
-| [O Barquinho](https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:29 | 2025-07-20 |  |
+| [O Barquinho](https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:29 | 2025-07-20 | 2026-02-25 |
 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 | 2025-07-20 |  |
 | [One Note Samba](https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Do the Bossa Nova](https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX) | 3:21 | 2025-07-20 |  |
 | [Palpite Infeliz](https://open.spotify.com/track/41hMxxMGTD38PTN10YMDKR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 3:53 | 2025-07-20 |  |

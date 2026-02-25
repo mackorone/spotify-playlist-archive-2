@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,064 songs - 2 day 21 hr 30 min
+1,065 songs - 2 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,6 +940,7 @@
 | [The Sound Of Confusion](https://open.spotify.com/track/3zUKCWesKho55Jm6e6JPpV) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Taking Drugs To Make Music To Take Drugs To \(Remastered\)](https://open.spotify.com/album/60dj0AVW7k2jFHPPLN6J1X) | 5:54 | 2024-07-09 |  |
 | [The State I'm In](https://open.spotify.com/track/6EVioebGhehJKoNrpn4WK3) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/3MSxGvwpiKePFsygmWT3G9) | 4:57 | 2023-02-19 |  |
 | [The Sweet Science](https://open.spotify.com/track/73bJahLiTR2RAfXd3aNn1p) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 1:55 | 2024-01-15 |  |
+| [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 | 2026-02-24 |  |
 | [The Trail](https://open.spotify.com/track/6YBjT06zsLzaH33nToh2Cb) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 2:55 | 2024-04-07 |  |
 | [The Truth](https://open.spotify.com/track/1Zjjl59MPvGqR5msmQexs3) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [B\-Room \(Deluxe Edition\)](https://open.spotify.com/album/0YfNZx0s2EdfINsSoxqDe8) | 4:26 | 2024-01-01 | 2024-01-06 |
 | [The Universe in a Nutshell](https://open.spotify.com/track/5h19UPuV2Zbe0ERx4nQ0Bx) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 7:53 | 2026-01-01 |  |

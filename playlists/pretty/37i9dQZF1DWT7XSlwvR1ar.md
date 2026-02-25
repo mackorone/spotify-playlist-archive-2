@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,118,778 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,118,701 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 49 | [Another Time](https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Another Time](https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele) | 3:39 |
 | 50 | [Orpheus](https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:13 |
 | 51 | [I Want More](https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 3:32 |
-| 52 | [Not Broken](https://open.spotify.com/track/1QJCkwatMNwqxqgWLY9XTV) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Not Broken](https://open.spotify.com/album/7rHHuPonz8CqGmCf9RHB1n) | 3:22 |
-| 53 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Spanish Villager No\. 3](https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU) | 4:19 |
+| 52 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Spanish Villager No\. 3](https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU) | 4:19 |
+| 53 | [Not Broken](https://open.spotify.com/track/1QJCkwatMNwqxqgWLY9XTV) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Not Broken](https://open.spotify.com/album/7rHHuPonz8CqGmCf9RHB1n) | 3:22 |
 | 54 | [Does This Go Faster?](https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Does This Go Faster?](https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur) | 3:07 |
 | 55 | [Slowly](https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899) | [Slowly](https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7) | 3:37 |
 | 56 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |

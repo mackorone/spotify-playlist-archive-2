@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 835673,
+  "num_followers": 835699,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Seven Days in Sunny June",
-      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me (feat. De La Soul)",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -187,22 +191,18 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me (feat. De La Soul)",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "'Justments",
-        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 229849,
-      "name": "Can We Pretend",
-      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "man oh man !",
         "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 170903,
       "name": "hello !",
       "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 229849,
+      "name": "Can We Pretend",
+      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "strongboi",
         "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 207037,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Miel de Montagne",
         "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 189776,
       "name": "Permis b b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Get On The Otherside",
-        "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Oroza",
-          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
-        },
-        {
-          "name": "Cold Diamond & Mink",
-          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Tomorrow Again",
         "url": "https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 238500,
       "name": "Rock Pools",
       "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Get On The Otherside",
+        "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Oroza",
+          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 226162,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Stunning & Atrocious",
         "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 217047,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1987,22 +1987,18 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "The Road From Memphis (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY"
+        "name": "Solutions",
+        "url": "https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh"
       },
       "artists": [
         {
-          "name": "Booker T. Jones",
-          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
-        },
-        {
-          "name": "Yim Yames",
-          "url": "https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd"
+          "name": "Greenflow",
+          "url": "https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Progress",
-      "url": "https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty"
+      "duration_ms": 278320,
+      "name": "No Other Life Without You",
+      "url": "https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ"
     }
   ],
   "unique_name": "Feel Good Dinner",

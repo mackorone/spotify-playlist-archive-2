@@ -1,13 +1,29 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 264,
+  "num_followers": 265,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIME2zbXqnjUG+dBPP/Ac9FZLxQBuE",
+  "snapshot_id": "AAAIMXCMYpZlNI+yKQw2aElEWSSTajhQ",
   "tracks": [
+    {
+      "added_at": "2026-02-24 08:34:44",
+      "album": {
+        "name": "Way",
+        "url": "https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS"
+      },
+      "artists": [
+        {
+          "name": "Foad Jafari",
+          "url": "https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk"
+        }
+      ],
+      "duration_ms": 167967,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP"
+    },
     {
       "added_at": "2026-02-22 00:42:14",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77858,
+  "num_followers": 77853,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 234445,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 215005,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "al romper la burbuja",
-        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 234445,
-      "name": "pesimista",
-      "url": "https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Raz\u00e3o da Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 346615,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 169546,
       "name": "S\u00f3 Quero Ver",
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Raz\u00e3o da Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X"
-      },
-      "artists": [
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 346615,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "JAZZWOMAN",
+        "url": "https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG"
+      },
+      "artists": [
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 252694,
+      "name": "Transeunte",
+      "url": "https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "O Mundo D\u00e1 Voltas",
         "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 321115,
       "name": "Praia do Futuro",
       "url": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "JAZZWOMAN",
-        "url": "https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG"
-      },
-      "artists": [
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 252694,
-      "name": "Transeunte",
-      "url": "https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt"
     },
     {
       "added_at": "2025-09-17 15:00:09",

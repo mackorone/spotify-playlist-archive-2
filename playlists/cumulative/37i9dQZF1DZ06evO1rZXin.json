@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "35 A\u00f1os de Fiesta",
+        "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156832,
+      "name": "No Sigas Llorando",
+      "url": "https://open.spotify.com/track/3xPqutXnfGurimsUi02CQj"
+    },
+    {
+      "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
       },

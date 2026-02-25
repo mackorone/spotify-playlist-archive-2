@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,777 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,311 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 35 | [Onde Anda Você](https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Bossa Nova Essenciais](https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR) | 2:51 |
 | 36 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
 | 37 | [Por Você \- Ao Vivo](https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Ao Vivo No Rock In Rio](https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T) | 3:35 |
-| 38 | [Quando A Chuva Passar](https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [As Super Novas](https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF) | 4:06 |
+| 38 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
 | 39 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 |
-| 40 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
+| 40 | [Quando A Chuva Passar](https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [As Super Novas](https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF) | 4:06 |
 | 41 | [Espatódea](https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Sim E Não](https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu) | 3:46 |
 | 42 | [Bela Flor](https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:03 |
-| 43 | [Se Eu Não Te Amasse Tanto Assim](https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Ivete Sangalo](https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf) | 4:09 |
+| 43 | [Um certo alguém](https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:33 |
 | 44 | [Beija Eu](https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Silva Canta Marisa](https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz) | 3:15 |
-| 45 | [Um certo alguém](https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:33 |
+| 45 | [Se Eu Não Te Amasse Tanto Assim](https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Ivete Sangalo](https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf) | 4:09 |
 | 46 | [N](https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r) | 3:34 |
 | 47 | [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 |
 | 48 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 72 | [Felicidade](https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 2](https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3) | 4:27 |
 | 73 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 |
 | 74 | [Massagem nas Costas](https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Massagem nas Costas](https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq) | 2:39 |
-| 75 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
-| 76 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 |
+| 75 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 |
+| 76 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 77 | [Insista Em Mim](https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 3:32 |
 | 78 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
 | 79 | [Sem Nome, Mas Com Endereço](https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 99 | [Totalmente Seu](https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:12 |
 | 100 | [Minha Flor Meu Bebê](https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [A Arte De Cazuza](https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi) | 3:06 |
 
-Snapshot ID: `AAAAAEmOZAWnawSz380NE53hH8VFY9/q`
+Snapshot ID: `AAAAAPA/eU+KDTZ0JBoTEd7qhb7XzUXt`

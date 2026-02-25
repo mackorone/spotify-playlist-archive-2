@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211865,
+  "num_followers": 211884,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "You've Already Won (Radio Version)",
-        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 262540,
-      "name": "You've Already Won - Radio Version",
-      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Benjamin William Hastings",
         "url": "https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 237173,
       "name": "That's The Thing About Praise",
       "url": "https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "You've Already Won (Radio Version)",
+        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 262540,
+      "name": "You've Already Won - Radio Version",
+      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Be Close",
-        "url": "https://open.spotify.com/album/7dFq18r3OrKBC1tL6Qu7Wb"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 212455,
-      "name": "Be Close",
-      "url": "https://open.spotify.com/track/6JqvAi5ve8N0jLyn35Dn27"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Marvelous (Live)",
         "url": "https://open.spotify.com/album/7MC0d2DF0kSt5stF1ce58g"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 525690,
       "name": "Marvelous - Live",
       "url": "https://open.spotify.com/track/7yGFqQLgDpHmSetmzyWX94"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Be Close",
+        "url": "https://open.spotify.com/album/7dFq18r3OrKBC1tL6Qu7Wb"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 212455,
+      "name": "Be Close",
+      "url": "https://open.spotify.com/track/6JqvAi5ve8N0jLyn35Dn27"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -639,30 +639,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 316843,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "I Set My Hope On Jesus",
         "url": "https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 255796,
       "name": "I Set My Hope (Hymn For A Deconstructing Friend)",
       "url": "https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 316843,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Won't He Do It",
-        "url": "https://open.spotify.com/album/2Wlq50XwYcYLwq3scFiacV"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "Won't He Do It",
-      "url": "https://open.spotify.com/track/46ZBM9R4bs8utYpAnEBoeI"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 202226,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Won't He Do It",
+        "url": "https://open.spotify.com/album/2Wlq50XwYcYLwq3scFiacV"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "Won't He Do It",
+      "url": "https://open.spotify.com/track/46ZBM9R4bs8utYpAnEBoeI"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 241951,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Hold Together",
         "url": "https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
+        "name": "Fear No More EP",
+        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
       },
       "artists": [
         {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 241951,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1203,22 +1219,6 @@
       "duration_ms": 263635,
       "name": "Nothing Is Impossible - Live In Manila",
       "url": "https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Fear No More EP",
-        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo"
     },
     {
       "added_at": "2025-12-13 23:46:05",

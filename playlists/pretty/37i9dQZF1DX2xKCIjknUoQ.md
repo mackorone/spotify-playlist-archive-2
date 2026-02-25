@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,989 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,011 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 22 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 23 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
 | 24 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
-| 25 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 |
-| 26 | [Ghost](https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h) | 3:08 |
+| 25 | [Ghost](https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h) | 3:08 |
+| 26 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 |
 | 27 | [Je n'veux pas rester sage](https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR) | [Dolly](https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn) | [Dolly \(Edition Deluxe\)](https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y) | 4:43 |
 | 28 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
-| 29 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
-| 30 | [Va y avoir du sport](https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Mario Caltado Jr](https://open.spotify.com/artist/5EAlrYI7AwfWNEveCBpwf5) | [Vegas 76](https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG) | 3:01 |
+| 29 | [Va y avoir du sport](https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Mario Caltado Jr](https://open.spotify.com/artist/5EAlrYI7AwfWNEveCBpwf5) | [Vegas 76](https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG) | 3:01 |
+| 30 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
 | 31 | [Mojo](https://open.spotify.com/track/3XwQ8ks84wlj3YcRyxXrlN) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [îl](https://open.spotify.com/album/3jTF9VlDnWcu4lGbMXRnHI) | 3:16 |
 | 32 | [Stand As One](https://open.spotify.com/track/1RgcWiVrG3QwkqftEvrfBV) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 3:18 |
 | 33 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 47 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
 | 48 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 | 49 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
-| 50 | [Bitch](https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug) | [Plastiscines](https://open.spotify.com/artist/6L3Af26OWMQw1uHTcxTVxP) | [About Love](https://open.spotify.com/album/0hQaUyf3aWK1UqeID5xA7x) | 3:09 |
+| 50 | [Droit Dans Le Soleil](https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu) | [Detroit](https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj) | [Horizons](https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb) | 3:24 |
 
 Snapshot ID: `AAAAAOmERqJYL7RywKR8K0ibzv9C5ixm`

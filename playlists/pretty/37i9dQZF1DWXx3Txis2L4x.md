@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,270 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,322 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 75 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
 | 76 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 77 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 |
-| 78 | [Deep Cuts](https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW) | 4:13 |
-| 79 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
+| 78 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
+| 79 | [Deep Cuts](https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW) | 4:13 |
 | 80 | [Saturday Superhouse](https://open.spotify.com/track/1WRG8FZVdM1lhizxoXRPr3) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Puzzle](https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6) | 3:19 |
 
 Snapshot ID: `AAAAAJqPaMfisH/6efi4ijUVIu4l/iVz`

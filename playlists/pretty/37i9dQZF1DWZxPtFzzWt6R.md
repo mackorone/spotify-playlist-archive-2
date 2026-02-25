@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,748 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,769 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 12 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
 | 13 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
 | 14 | [Tempo de Vitória](https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Tempo de Vitória](https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9) | 3:49 |
-| 15 | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY) | 7:10 |
+| 15 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
 | 16 | [Quem É Como Tu, Senhor?](https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Quem É Como Tu, Senhor?](https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj) | 5:31 |
-| 17 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
-| 18 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
+| 17 | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY) | 7:10 |
+| 18 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
 | 19 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 20 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
 | 21 | [Olha Eu Aqui](https://open.spotify.com/track/4S5zR1JT76yoWLN6uCT67E) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [Olha Eu Aqui](https://open.spotify.com/album/02aqcp4nVGbYoujee8jXSy) | 4:46 |

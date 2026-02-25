@@ -4,7 +4,7 @@
 
 > Dale play y dejá que la música te lleve.
 
-249 songs - 15 hr 41 min
+251 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A rodar mi vida](https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:41 | 2024-08-30 |  |
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-03-22 |  |
 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 | 2023-12-07 |  |
-| [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 | 2023-12-07 |  |
+| [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 | 2023-12-07 | 2026-02-25 |
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2023-12-07 | 2024-08-31 |
 | [Al lado del camino](https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:26 | 2024-08-30 |  |
 | [alguien que yo no es](https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [alguien que yo no es](https://open.spotify.com/album/2mxwzclwG1xq9lh1dLjsFB) | 2:57 | 2025-07-23 | 2025-11-08 |
@@ -70,6 +70,8 @@
 | [Delay](https://open.spotify.com/track/0ObbMeV5I6AkYCsCqf8KxE) | [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [martin allende](https://open.spotify.com/artist/2jKATrLpgygKpgHv4nAweQ), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Delay](https://open.spotify.com/album/78jQPKVdpJ0Sd8Lue7QLR2) | 3:34 | 2025-07-18 | 2025-11-08 |
 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 | 2025-11-07 | 2026-01-15 |
 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 | 2023-12-07 |  |
+| [Deseo](https://open.spotify.com/track/594s1AODSpT9zQpjCfVsDH) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Deseo](https://open.spotify.com/album/0PKVLdgSYioXJ8fShf31E9) | 3:14 | 2026-02-24 |  |
+| [Dispuesto A Morir](https://open.spotify.com/track/67SlD9Piai5B0tHaFaUbbY) | [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p), [Los Asuntos Pendientes](https://open.spotify.com/artist/1IwFwWTYrADJ1S25hJGVrZ) | [Dispuesto A Morir](https://open.spotify.com/album/7wqfqlI6yxRQrjVo7GIG8P) | 3:24 | 2026-02-24 |  |
 | [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 | 2023-12-07 | 2024-08-31 |
 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 | 2023-12-07 |  |
 | [DUMBAI](https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [DUMBAI](https://open.spotify.com/album/32jPIll7NE64gqohc6twQC) | 2:28 | 2024-04-18 | 2024-06-15 |
@@ -202,7 +204,7 @@
 | [Resaca](https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Resaca](https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr) | 3:22 | 2024-02-23 | 2024-03-15 |
 | [REVELACIONES APARTE](https://open.spotify.com/track/5zVysKtBACHlyu7Ovt0Ezi) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 2:52 | 2025-11-28 |  |
 | [Ridículo](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Ridículo](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 | 2025-02-13 | 2025-02-21 |
-| [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 | 2024-08-30 |  |
+| [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 | 2024-08-30 | 2026-02-25 |
 | [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 | 2025-07-18 | 2025-11-08 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-12-07 | 2024-08-31 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2023-12-07 |  |

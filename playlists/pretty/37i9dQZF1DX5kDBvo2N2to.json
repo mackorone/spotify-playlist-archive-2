@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60680,
+  "num_followers": 60679,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 214705,
+      "name": "The Ambition",
+      "url": "https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 214705,
-      "name": "The Ambition",
-      "url": "https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "K\u00e4nslostyrd",
         "url": "https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Han vill ha dig",
-        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 208845,
-      "name": "Han vill ha dig",
-      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "F\u00f6rlora dig l\u00e5ngsamt",
         "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 151093,
       "name": "F\u00f6rlora dig l\u00e5ngsamt",
       "url": "https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Han vill ha dig",
+        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 208845,
+      "name": "Han vill ha dig",
+      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Please Stay",
-        "url": "https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Please Stay",
-      "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Tar mig alltid upp",
         "url": "https://open.spotify.com/album/6YYDsbyNPB8G1HbnsOrKpg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 144573,
       "name": "Tar mig alltid upp",
       "url": "https://open.spotify.com/track/0wDWPM5nK9CSqEKXwMQTWy"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Hall\u00e5",
         "url": "https://open.spotify.com/album/5VLtN2flNziTYXdKwXoBq3"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 195671,
       "name": "Hall\u00e5",
       "url": "https://open.spotify.com/track/0iPHUj2pjSEwNXVGYh3hKK"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
-      },
-      "artists": [
-        {
-          "name": "Bellvie",
-          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Bully",
         "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 213137,
       "name": "Clairvoyant",
       "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
+      },
+      "artists": [
+        {
+          "name": "Bellvie",
+          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Baba Life",
         "url": "https://open.spotify.com/album/6KZ5yRxExqkWqXtZH66Gp8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 181386,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Autonomi",
+        "url": "https://open.spotify.com/album/6FBSEyiDEC1YHH6npGeEiv"
+      },
+      "artists": [
+        {
+          "name": "Dunali",
+          "url": "https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Autonomi",
+      "url": "https://open.spotify.com/track/0SByBQFFm5iFAwOcsgXc3p"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "WHAT\u2019S CUTE ABOUT HELL?",
         "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 211360,
       "name": "Same Kids",
       "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Autonomi",
-        "url": "https://open.spotify.com/album/6FBSEyiDEC1YHH6npGeEiv"
-      },
-      "artists": [
-        {
-          "name": "Dunali",
-          "url": "https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Autonomi",
-      "url": "https://open.spotify.com/track/0SByBQFFm5iFAwOcsgXc3p"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Bromsa",
+        "url": "https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN"
+      },
+      "artists": [
+        {
+          "name": "Joel Nordenberg",
+          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Bromsa",
+      "url": "https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "sunday night",
         "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 199133,
       "name": "Katedral Syndrom",
       "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Bromsa",
-        "url": "https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN"
-      },
-      "artists": [
-        {
-          "name": "Joel Nordenberg",
-          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Bromsa",
-      "url": "https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "...fifteen",
-        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 167050,
-      "name": "...fifteen",
-      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "I want you to be happy",
         "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 165998,
       "name": "I want you to be happy",
       "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "...fifteen",
+        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "...fifteen",
+      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "airbnb",
-        "url": "https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo"
-      },
-      "artists": [
-        {
-          "name": "TANTAN",
-          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
-        }
-      ],
-      "duration_ms": 173759,
-      "name": "airbnb",
-      "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Honor",
         "url": "https://open.spotify.com/album/2fzhx6hqryu0YH1lLoWPPN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 186666,
       "name": "Honor",
       "url": "https://open.spotify.com/track/1o8aY6qCQY3IcvplR3lGW5"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "airbnb",
+        "url": "https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo"
+      },
+      "artists": [
+        {
+          "name": "TANTAN",
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+        }
+      ],
+      "duration_ms": 173759,
+      "name": "airbnb",
+      "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1335,6 +1335,22 @@
       "duration_ms": 180632,
       "name": "Where It Hurts",
       "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Only When In Motion",
+        "url": "https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        }
+      ],
+      "duration_ms": 256720,
+      "name": "Only When In Motion",
+      "url": "https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1383,22 +1399,6 @@
       "duration_ms": 182911,
       "name": "Gr\u00f6n hatt",
       "url": "https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Only When In Motion",
-        "url": "https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB"
-      },
-      "artists": [
-        {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Only When In Motion",
-      "url": "https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m"
     },
     {
       "added_at": "2026-02-19 23:01:01",

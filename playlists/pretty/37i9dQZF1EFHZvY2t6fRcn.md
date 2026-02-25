@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 17 | [Found](https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:06 |
 | 18 | [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/2emtg7AbAMwQSD7MF8uQSg) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Radio Edit\)](https://open.spotify.com/album/0DmsYE70jM3A7RbwNiTAlp) | 3:28 |
 | 19 | [Devil I Know](https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 |
-| 20 | [Things](https://open.spotify.com/track/4wMfUdAxgiJno6flL6VW5r) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Things](https://open.spotify.com/album/5FRzeJ7HhrMjD8TPDFE38j) | 3:06 |
-| 21 | [2 Little 2 Late](https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [2 Little 2 Late](https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF) | 2:51 |
+| 20 | [2 Little 2 Late](https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [2 Little 2 Late](https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF) | 2:51 |
+| 21 | [Things](https://open.spotify.com/track/4wMfUdAxgiJno6flL6VW5r) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Things](https://open.spotify.com/album/5FRzeJ7HhrMjD8TPDFE38j) | 3:06 |
 | 22 | [Two Fux](https://open.spotify.com/track/2V6PZ5ipLEwljx6ux6kGBE) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Two Fux](https://open.spotify.com/album/7khLnq57fzJTFkP1IIFqAy) | 3:26 |
 | 23 | [Look What You're Doing To Me](https://open.spotify.com/track/0tEIWklg5pvkQGvxboLegR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:00 |
 | 24 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 153 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 | 154 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 
-Snapshot ID: `AcKeKgAAAAA8OboFEyuu/Uosy7lDp7gO`
+Snapshot ID: `AcKjygAAAADk8t2zQ2o/6UugTLVDQ2uZ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 501874,
+  "num_followers": 501947,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAADfiVV/xynEoi04+sNEnyPi",
+  "snapshot_id": "aZuYgAAAAABACqzVmq75D9zeX+J3lbvl",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+      "duration_ms": 233128,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/060RNnzoMay3wKJek1faPc"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 233128,
-      "name": "MANTRA",
-      "url": "https://open.spotify.com/track/060RNnzoMay3wKJek1faPc"
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": null,
@@ -624,13 +624,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
         }
       ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
+      "duration_ms": 225338,
+      "name": "d1g_it.core",
+      "url": "https://open.spotify.com/track/7FbFFpUxsepTcogshbsNjD"
     },
     {
       "added_at": null,
@@ -696,17 +696,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        },
-        {
-          "name": "No Spirit",
-          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 162946,
-      "name": "canyoufeelmy<3.tmpx",
-      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
+      "duration_ms": 209611,
+      "name": "followU.bnd",
+      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
     },
     {
       "added_at": null,
@@ -764,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 207982,
-      "name": "losT_404.nll",
-      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
+      "duration_ms": 198246,
+      "name": "koolaid.xxo",
+      "url": "https://open.spotify.com/track/5O1gAdLo5wb7TpYkGNLsCy"
     },
     {
       "added_at": null,
@@ -780,13 +776,17 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "HM Surf",
-          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
         }
       ],
-      "duration_ms": 225338,
-      "name": "d1g_it.core",
-      "url": "https://open.spotify.com/track/7FbFFpUxsepTcogshbsNjD"
+      "duration_ms": 162946,
+      "name": "canyoufeelmy<3.tmpx",
+      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 198246,
-      "name": "koolaid.xxo",
-      "url": "https://open.spotify.com/track/5O1gAdLo5wb7TpYkGNLsCy"
+      "duration_ms": 207982,
+      "name": "losT_404.nll",
+      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

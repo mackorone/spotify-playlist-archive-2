@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,002 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,009 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 51 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 52 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
 | 53 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 |
-| 54 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
-| 55 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
+| 54 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
+| 55 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
 | 56 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
 | 57 | [Not Much](https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Hailaker](https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q) | 4:13 |
 | 58 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 118 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 |
 | 119 | [come on, baby! be a good girl for the camera](https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [come on, baby! be a good girl for the camera](https://open.spotify.com/album/3oj0PDzNlOtVEWy1Rrkzo7) | 4:09 |
 | 120 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
-| 121 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
-| 122 | [if it’s not with you](https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT \(Deluxe\)](https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc) | 2:33 |
+| 121 | [if it’s not with you](https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT \(Deluxe\)](https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc) | 2:33 |
+| 122 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
 | 123 | [Can I Trust You](https://open.spotify.com/track/4T2pumcxU0Kx8PEsP3bXlJ) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Can I Trust You](https://open.spotify.com/album/6vxHdBdkoZgnjGBqXZuulZ) | 3:21 |
-| 124 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
-| 125 | [Crybaby](https://open.spotify.com/track/1Fe51DbsaZeTmLxqnp7eYf) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Crybaby](https://open.spotify.com/album/2zMU4HPuaNTBpWscm9PsXy) | 3:45 |
+| 124 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
+| 125 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 
 Snapshot ID: `AAAAAPtCmZvLhVTSHfkm0rpyFN/Su0JW`

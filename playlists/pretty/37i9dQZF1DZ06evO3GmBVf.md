@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,984 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,026 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 22 | [LEYENDA](https://open.spotify.com/track/5fO5dDgfVypHTU1P71AJgt) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/6ktov4uuTCeQ5HVVqFAupg) | 4:48 |
 | 23 | [Volvió A Amanecer](https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volvió A Amanecer](https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr) | 3:42 |
 | 24 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 |
-| 25 | [Flaco Pesado \(Remix\)](https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Flaco Pesado \(Remix\)](https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg) | 3:47 |
-| 26 | [Abrázame](https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 5:36 |
+| 25 | [Abrázame](https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 5:36 |
+| 26 | [Flaco Pesado \(Remix\)](https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Flaco Pesado \(Remix\)](https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg) | 3:47 |
 | 27 | [No Para](https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Para](https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N) | 3:18 |
 | 28 | [Bueno Pa Lo Malo](https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Bueno Pa Lo Malo](https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt) | 6:39 |
 | 29 | [Ahora Es Diferente](https://open.spotify.com/track/6tST0LckVOXThIgappR0qk) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ahora Es Diferente](https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [No Me Pregunten](https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Me Pregunten](https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu) | 4:10 |
 | 50 | [Una Vida Chola](https://open.spotify.com/track/1v9t8RzawAQQCqVKzJvfrm) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Una Vida Chola](https://open.spotify.com/album/5Gylu5dJvJyUgHBjXSaz2M) | 3:09 |
 
-Snapshot ID: `aZpHAAAAAABzKa9XICpnX0gPijckWfQX`
+Snapshot ID: `aZuYgAAAAACBMiBcvN9M7ZM2qNa4VDyA`

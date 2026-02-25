@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,235 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,207 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 66 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 67 | [River Wider](https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [River Wider](https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD) | 3:15 |
 | 68 | [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 |
-| 69 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
-| 70 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
+| 69 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
+| 70 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
 | 71 | [The Records Were Ours](https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [The Records Were Ours](https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9) | 3:05 |
 | 72 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
 | 73 | [Holster](https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Holster](https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs) | 3:00 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 78 | [Difference Of Opinion](https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Difference Of Opinion](https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI) | 3:40 |
 | 79 | [Suffering](https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Suffering](https://open.spotify.com/album/14eVN7m47S442flao2wtFa) | 3:20 |
 | 80 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
-| 81 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
-| 82 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
-| 83 | [Devil and the Sea](https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [Devil and the Sea](https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs) | 3:38 |
-| 84 | [Way Back](https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Way Back](https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q) | 4:18 |
-| 85 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
+| 81 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
+| 82 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
+| 83 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
+| 84 | [Devil and the Sea](https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [Devil and the Sea](https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs) | 3:38 |
+| 85 | [Way Back](https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Way Back](https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q) | 4:18 |
 | 86 | [Tomorrow](https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Tomorrow](https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI) | 3:30 |
 | 87 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
 | 88 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 91 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 |
 | 92 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 |
 | 93 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 |
-| 94 | [99.9%](https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [99.9%](https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ) | 2:49 |
-| 95 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 3:43 |
+| 94 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 3:43 |
+| 95 | [99.9%](https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [99.9%](https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ) | 2:49 |
 | 96 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 97 | [Heavy Metal Heart](https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 4:32 |
 | 98 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |

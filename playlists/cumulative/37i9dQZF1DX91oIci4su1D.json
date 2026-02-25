@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 203225,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/52QYnyhOTbk9ICVCSQkUBd"
@@ -13360,6 +13360,28 @@
       "duration_ms": 160650,
       "name": "Live For Tonight - Scorz Remix",
       "url": "https://open.spotify.com/track/4RHFjle9srlZWXn7mjEpcj"
+    },
+    {
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6"
+      },
+      "artists": [
+        {
+          "name": "Paul Webster",
+          "url": "https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC"
+        },
+        {
+          "name": "Yasmin Jane",
+          "url": "https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y"
     },
     {
       "album": {

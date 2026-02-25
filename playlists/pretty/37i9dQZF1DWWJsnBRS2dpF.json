@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 68092,
+  "num_followers": 68112,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 200732,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Hit Different",
         "url": "https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 156946,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 200732,
-      "name": "nasty",
-      "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -307,6 +307,26 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "I'm Real (feat. Ja Rule) - Murder Remix",
+      "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
       },
@@ -359,6 +379,26 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "City Girls",
+      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -379,26 +419,6 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "J.Lo",
-        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "I'm Real (feat. Ja Rule) - Murder Remix",
-      "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -463,22 +483,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
       "artists": [
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 230253,
-      "name": "City Girls",
-      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+      "duration_ms": 220963,
+      "name": "Privacy",
+      "url": "https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -547,6 +563,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155090,
+      "name": "What\u2019s New",
+      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Personal Conversation",
         "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
@@ -563,38 +595,6 @@
       "duration_ms": 229773,
       "name": "Faded Pictures",
       "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 220963,
-      "name": "Privacy",
-      "url": "https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155090,
-      "name": "What\u2019s New",
-      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Makin' Good Love",
+      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "F.U.C.K.",
         "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
@@ -787,6 +803,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Butta Love",
+      "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -815,38 +847,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
-      },
-      "artists": [
-        {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Makin' Good Love",
-      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "EVERYTHING IS LOVE",
-        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
-      },
-      "artists": [
-        {
-          "name": "The Carters",
-          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "NICE",
-      "url": "https://open.spotify.com/track/44lusH2vzc4sRAwsooRhPh"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Sailing Soul(s)",
         "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+        "name": "EVERYTHING IS LOVE",
+        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
       },
       "artists": [
         {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
         }
       ],
-      "duration_ms": 296400,
-      "name": "Butta Love",
-      "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
+      "duration_ms": 233680,
+      "name": "NICE",
+      "url": "https://open.spotify.com/track/44lusH2vzc4sRAwsooRhPh"
     },
     {
       "added_at": "2022-10-01 16:21:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,565 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,565 likes - 29 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 26 | [Free Radio Gainesville](https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:34 |
 | 27 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 |
 | 28 | [The Liberation Frequency](https://open.spotify.com/track/2M9ZSHEQVaqdwcKoePiVKe) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [The Liberation Frequency](https://open.spotify.com/album/3CGZ5i3Q8Z5dirnVhm5Zjv) | 4:05 |
-| 29 | [Clean Slate](https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 2:49 |
-| 30 | [Supercollider](https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:49 |
+| 29 | [Supercollider](https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:49 |
 
-Snapshot ID: `aZpHAAAAAAA9Vdd6lvdslHj9lXiWCw30`
+Snapshot ID: `aZuYgAAAAADq/lQjZQXqIgYC4nF3gAOa`

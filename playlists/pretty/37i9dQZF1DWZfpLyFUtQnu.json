@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 109671,
+  "num_followers": 109688,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Love Me, Please Love Me",
-      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "20eme anniversaire",
         "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 200933,
       "name": "Qui saura",
       "url": "https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Loin des yeux",
-        "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
+        "name": "La nuit (Version acoustique)",
+        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
       },
       "artists": [
         {
-          "name": "Boulevard des Airs",
-          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
-        },
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+          "name": "Piedbois",
+          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Allez reste (feat. Vianney)",
-      "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
+      "duration_ms": 231155,
+      "name": "La nuit - Version acoustique",
+      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
     }
   ],
   "unique_name": "Douce France",

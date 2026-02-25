@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 24 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
 | 25 | [Ruin The Friendship](https://open.spotify.com/track/6VcOObtzWB2dopP4dC8G6x) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:53 |
 | 26 | [HeartLess](https://open.spotify.com/track/3rf9vbMO0vuhtB3CDHTjsO) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 2:38 |
-| 27 | [Cruel Intentions](https://open.spotify.com/track/3Lzx6XSjH3ik3ZvigLK1Fb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:12 |
-| 28 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 27 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 28 | [Cruel Intentions](https://open.spotify.com/track/3Lzx6XSjH3ik3ZvigLK1Fb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:12 |
 | 29 | [The Subway Song](https://open.spotify.com/track/4Hd0vNtf1iHFz2B3tAkexY) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 4:01 |
 | 30 | [FUCKBOY](https://open.spotify.com/track/4z6F5S9wbnjXK1JcCViIKM) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/3SWjeSD9WCC3l58LTmKgWU) | 3:10 |
 | 31 | [Tummy Hurts \(feat\. Coco Jones\) \- Remix](https://open.spotify.com/track/3WLW76a7K7krnGyF9s4lIk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:47 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 127 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcKeDAAAAABQUKy+csh0ULyT5V0IHgws`
+Snapshot ID: `AcKjygAAAAABs+MLsK2b4ycHRp7nTmjl`

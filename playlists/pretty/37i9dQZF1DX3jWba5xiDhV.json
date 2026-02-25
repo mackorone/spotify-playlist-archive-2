@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 382935,
+  "num_followers": 383081,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-02-12 23:01:34",
       "album": {
-        "name": "Viewpoint",
-        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
-      },
-      "artists": [
-        {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
-    },
-    {
-      "added_at": "2026-02-12 23:01:34",
-      "album": {
         "name": "The Division",
         "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 396435,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+    },
+    {
+      "added_at": "2026-02-12 23:01:34",
+      "album": {
+        "name": "Viewpoint",
+        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
+      },
+      "artists": [
+        {
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
     },
     {
       "added_at": "2026-02-12 23:01:34",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-12 23:01:34",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
-    },
-    {
-      "added_at": "2026-02-12 23:01:34",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
       },
@@ -851,6 +835,26 @@
     {
       "added_at": "2026-02-12 23:01:34",
       "album": {
+        "name": "Ma quale idea (Myd Remix)",
+        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 219140,
+      "name": "Ma quale idea - Myd Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2026-02-12 23:01:34",
+      "album": {
         "name": "E m\u00f2 e m\u00f2 (Mixed By Erry Remix)",
         "url": "https://open.spotify.com/album/3oEAlLpsfnwQzGWH0kq4HA"
       },
@@ -871,22 +875,18 @@
     {
       "added_at": "2026-02-12 23:01:34",
       "album": {
-        "name": "Ma quale idea (Myd Remix)",
-        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
         }
       ],
-      "duration_ms": 219140,
-      "name": "Ma quale idea - Myd Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+      "duration_ms": 233640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
     },
     {
       "added_at": "2026-02-12 23:01:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-12 23:01:34",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
-    },
-    {
-      "added_at": "2026-02-12 23:01:34",
-      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2026-02-12 23:01:34",
+      "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2026-02-12 23:01:34",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-02-12 23:01:34",
       "album": {
-        "name": "Dancing in the Dark",
-        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
-        }
-      ],
-      "duration_ms": 213207,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
-    },
-    {
-      "added_at": "2026-02-12 23:01:34",
-      "album": {
         "name": "Che Caldo",
         "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 205903,
       "name": "Che Caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
+    },
+    {
+      "added_at": "2026-02-12 23:01:34",
+      "album": {
+        "name": "Dancing in the Dark",
+        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+        }
+      ],
+      "duration_ms": 213207,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
     },
     {
       "added_at": "2026-02-12 23:01:34",

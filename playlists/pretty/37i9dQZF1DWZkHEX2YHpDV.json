@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 443917,
+  "num_followers": 443890,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,38 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 203928,
+      "name": "Kill or be Killed",
+      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Why Would I Watch",
+        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Shhhh! Golf is On",
+      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "The Void",
         "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
       },
@@ -747,34 +779,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Dilworth",
-        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
       "artists": [
         {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 203928,
-      "name": "Kill or be Killed",
-      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Why Would I Watch",
-        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Shhhh! Golf is On",
-      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+      "duration_ms": 162000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -791,22 +807,6 @@
       "duration_ms": 205365,
       "name": "Concrete Closure",
       "url": "https://open.spotify.com/track/3RrWw57zjyJayGbkrGYK5s"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "Common Sense",
-      "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Where I Lay",
         "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 216741,
       "name": "Where I Lay",
       "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "Common Sense",
+      "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Crashing Out",
+        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 215518,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Straight Up (Needy)",
         "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Crashing Out",
-        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 215518,
-      "name": "Crashing Out",
-      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1295,22 +1311,6 @@
       "duration_ms": 170970,
       "name": "Big Al Dente",
       "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 201085,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Island in the Sun",
         "url": "https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 149606,
       "name": "Island in the Sun (feat. Cory Castro of Free Throw)",
       "url": "https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 201085,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 222317,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Forgive (feat. Joe Taylor)",
         "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 193912,
       "name": "Forgive (feat. Joe Taylor)",
       "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2026-01-09 05:00:25",

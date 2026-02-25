@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031 likes - 308 songs - 18 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032 likes - 308 songs - 18 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 187 | [paid my dues \(feat\. Takeoff\)](https://open.spotify.com/track/61TWTSHcrFVgaRr6U4MKBs) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:42 |
 | 188 | [Guns and Roses \(feat\. P!nk\)](https://open.spotify.com/track/0IK8i6kTkS9TKhP1YM6I5a) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 4:28 |
 | 189 | [Fuckin' up the Count](https://open.spotify.com/track/5H0907INfwHs8MnUaDdAv7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/46wJVfjbcZBGZ6Zabex3y9) | 3:21 |
-| 190 | [U Said \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1bi2lHlLhjV5o6aPziHYuu) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Love Songs 4 the Streets 2](https://open.spotify.com/album/3kj9O7YYodmvzwq8ObaWU9) | 2:48 |
-| 191 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
+| 190 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
+| 191 | [U Said \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1bi2lHlLhjV5o6aPziHYuu) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Love Songs 4 the Streets 2](https://open.spotify.com/album/3kj9O7YYodmvzwq8ObaWU9) | 2:48 |
 | 192 | [Black Man in America](https://open.spotify.com/track/5bh3nrXWsRiqBwMU3vbnYK) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:54 |
 | 193 | [Tough Love](https://open.spotify.com/track/1Y96TJIhZCg8gyvOKalieY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:04 |
 | 194 | [We Them Niggas](https://open.spotify.com/track/6tVmHikDrMfdDhSA6ibaXf) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Trials & Tribulations \(Deluxe\)](https://open.spotify.com/album/3x2arZknoNUKSnw5LjJLD3) | 4:04 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 307 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 308 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcKePgAAAABPfckO5XfWBYHNl8ZZwkXd`
+Snapshot ID: `AcKjygAAAAAXpZ4lXFU7QUXr7JwaquVw`

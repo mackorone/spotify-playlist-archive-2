@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,981,670 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,981,526 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 54 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 55 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 56 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
-| 57 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
-| 58 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
+| 57 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
+| 58 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
 | 59 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 60 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
-| 61 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 |
-| 62 | [Red and Neon](https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw) | [Peanut](https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty) | 3:10 |
+| 61 | [Red and Neon](https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw) | [Peanut](https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty) | 3:10 |
+| 62 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 |
 | 63 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 64 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
 | 65 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 86 | [Right on Time \- In Harmony](https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time \(In Harmony\)](https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I) | 3:07 |
 | 87 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 |
 | 88 | [Lie to Me](https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Lie to Me](https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E) | 3:25 |
-| 89 | [Dreamers](https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 3:27 |
-| 90 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
+| 89 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
+| 90 | [Dreamers](https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 3:27 |
 | 91 | [The Voyager](https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:30 |
 | 92 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 93 | [Could’ve Been](https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Ellen](https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0) | 3:25 |

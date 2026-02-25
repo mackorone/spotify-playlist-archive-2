@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I24hF.md) - [plain]
 
 > This is Gigi Perez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,617 likes - 18 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,626 likes - 18 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I24hF.md) - [plain]
 | 17 | [Sally](https://open.spotify.com/track/04hrNRA9fRCWPNf8jjEUBJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:33 |
 | 18 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 |
 
-Snapshot ID: `aZpHAAAAAABVtbvA74EcTr66ssxi980z`
+Snapshot ID: `aZuYgAAAAABa+1pn/+XxvyCf/2tCPraS`

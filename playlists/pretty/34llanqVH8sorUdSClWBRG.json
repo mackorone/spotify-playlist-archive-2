@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAASU/3dwO1J9mXr/5g6/4TsbWbVYI3",
+  "snapshot_id": "AAAASqMqM24HH0uyS2aVCc9GyGP7RQ3T",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -1095,6 +1095,26 @@
       "duration_ms": 154240,
       "name": "In the Shadow of the Western Hills",
       "url": "https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i"
+    },
+    {
+      "added_at": "2026-02-24 05:29:29",
+      "album": {
+        "name": "In Sound Mind - Original Soundtrack",
+        "url": "https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        }
+      ],
+      "duration_ms": 240616,
+      "name": "Bottom of the Pit (feat. Sam Haft)",
+      "url": "https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K"
     }
   ],
   "unique_name": "Diseased",

@@ -2227,6 +2227,28 @@
     },
     {
       "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
+    },
+    {
+      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -2916,7 +2938,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 123854,
       "name": "Money Made Me A Savage - Calabria",
       "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"

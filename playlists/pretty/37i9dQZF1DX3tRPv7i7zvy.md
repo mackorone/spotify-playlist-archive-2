@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,491 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,511 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 21 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
 | 22 | [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 |
 | 23 | [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 |
-| 24 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
+| 24 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 |
 | 25 | [New Beginnings](https://open.spotify.com/track/5Dr9jDP04xqkgHLXBxBuea) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen 2.0.](https://open.spotify.com/album/6uCdKxzbxiu1kqq8T7JLAn) | 3:16 |
-| 26 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 |
+| 26 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
 | 27 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Che Che \(feat\. Asake\)](https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R) | 2:49 |
 | 28 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
 | 29 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 59 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
 | 60 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 |
 
-Snapshot ID: `AAAAAKm76qlQwwToBdMCViOZSALm0cgA`
+Snapshot ID: `AAAAAOU9KUMqlitZk+g1C4Aig5TmxZgI`

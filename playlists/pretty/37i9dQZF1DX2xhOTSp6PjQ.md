@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Ntencane
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,833 likes - 96 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,931 likes - 96 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

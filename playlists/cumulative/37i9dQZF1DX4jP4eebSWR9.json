@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: MERO, Aymen",
+  "description": "50 Hits in einer Playlist! Cover: Twenty One Pilots",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -1558,6 +1558,24 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+    },
+    {
+      "album": {
+        "name": "Drag Path",
+        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Drag Path",
+      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
     },
     {
       "album": {
@@ -5590,7 +5608,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -6208,6 +6226,24 @@
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

@@ -2621,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "A Decade of Destruction",
+        "url": "https://open.spotify.com/album/0KFH39kcCnrev1ZDrEID0c"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192188,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1LObsSST3unPBZ9UF3IQvD"
+    },
+    {
+      "album": {
         "name": "And Justice for None (Deluxe)",
         "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
       },

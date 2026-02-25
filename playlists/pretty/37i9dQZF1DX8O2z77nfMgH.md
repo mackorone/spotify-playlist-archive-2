@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: La Joaqui con Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,734 likes - 64 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,513 likes - 64 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

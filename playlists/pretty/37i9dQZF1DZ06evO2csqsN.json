@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 39597,
+  "num_followers": 39609,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAHIklVI8yLfeHGmy5XvC6f",
+  "snapshot_id": "aZuYgAAAAAD+tFQ2+jDX09lwqoGxYfuZ",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ART (feat. Latto)",
+        "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "ART (feat. Latto)",
+      "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 230646,
       "name": "Go Girl (with Latto & Doja Cat)",
       "url": "https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ART (feat. Latto)",
-        "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "ART (feat. Latto)",
-      "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
         "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 179533,
       "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
       "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mind Yo Business (Feat. Latto)",
-        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "Mind Yo Business (Feat. Latto)",
-      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough (feat. Latto)",
-        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207284,
-      "name": "Can't Get Enough (feat. Latto)",
-      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
         "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 226542,
       "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
       "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough (feat. Latto)",
+        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 207284,
+      "name": "Can't Get Enough (feat. Latto)",
+      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
     },
     {
       "added_at": null,

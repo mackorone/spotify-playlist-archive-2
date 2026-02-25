@@ -642,7 +642,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 261543,
       "name": "El rebano de Gish",
       "url": "https://open.spotify.com/track/4PzLNgrDI2oGbMWDuJHdff"
@@ -668,6 +668,24 @@
       "duration_ms": 62000,
       "name": "Element of the collection (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/4DY6RqybFSyH0uOmYCLluu"
+    },
+    {
+      "album": {
+        "name": "Color of Synergy",
+        "url": "https://open.spotify.com/album/5mz2xITm6fxxC29h3yrR91"
+      },
+      "artists": [
+        {
+          "name": "Mwk",
+          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/6t2Gle6C25cM2Oil2VoA41"
     },
     {
       "album": {
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 199980,
       "name": "MASQ (feat. \u30d5\u30ea\u30e2\u30e1\u30f3)",
       "url": "https://open.spotify.com/track/2qledqaSiczubmSyxvlm8i"
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 219027,
       "name": "Penguin's Detour (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2sWXjNycfK37VTWO0CTAhM"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 210238,
       "name": "showdown",
       "url": "https://open.spotify.com/track/0hxXGGuLs5d6uVVMmvHR6r"
@@ -2410,6 +2428,28 @@
       "duration_ms": 152157,
       "name": "\u304a\u306f\u3088\u3046\u3068\u304a\u3084\u3059\u307f\u306e\u4e0d\u601d\u8b70",
       "url": "https://open.spotify.com/track/1rYugxXyypr2fkynM29tMU"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3084\u3059\u307f\u30aa\u30e9\u30f3\u30b8\u30a7\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/1cSXUU5HhrWGWweNUky6vU"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u64ab\u5bfa",
+          "url": "https://open.spotify.com/artist/5wvPfEco9mG8kzdMnhL3ct"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158457,
+      "name": "\u304a\u3084\u3059\u307f\u30aa\u30e9\u30f3\u30b8\u30a7\u30c3\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5PgUNE6zjB61rsLxy0jE1W"
     },
     {
       "album": {
@@ -4961,6 +5001,28 @@
     },
     {
       "album": {
+        "name": "Grow on...",
+        "url": "https://open.spotify.com/album/5b7qJb5Ih9R0HuoCAGsZxo"
+      },
+      "artists": [
+        {
+          "name": "EO",
+          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "\u30e8\u30ea\u30df\u30c1 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1qKEFIPpmwttUIY5bCFVjP"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30fb\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
         "url": "https://open.spotify.com/album/5TewvPckuryjM12XFKHzKx"
       },
@@ -5290,7 +5352,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 183050,
       "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30fb\u30aa\u30fc\u30eb\u30fb\u30b6\u30c3\u30c8\u30fb\u30b8\u30e3\u30ba",
       "url": "https://open.spotify.com/track/4XclB9qUKnQH0uWY9w7HBf"
@@ -5352,7 +5414,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 224347,
       "name": "\u4e94\u6708\u96e8 (feat. \u82b1\u9688\u5343\u51ac)",
       "url": "https://open.spotify.com/track/1rfKUaBY93Y5U2wVYPMYtO"
@@ -7678,6 +7740,28 @@
       "duration_ms": 142000,
       "name": "\u884c\u9593\u3092\u6cf3\u3050",
       "url": "https://open.spotify.com/track/1ma5MK9VLHFxa3NVS1pc8q"
+    },
+    {
+      "album": {
+        "name": "\u8ab0\u304c\u70ba\u306e\u82f1\u96c4\u8b5a",
+        "url": "https://open.spotify.com/album/0uG413gxbzbTKf94UYwbbF"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "\u6b4c\u611b\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "\u8ab0\u304c\u70ba\u306e\u82f1\u96c4\u8b5a (feat. \u6b4c\u611b\u30e6\u30ad)",
+      "url": "https://open.spotify.com/track/6vqJWuAPenItS9DBLLXRvX"
     },
     {
       "album": {

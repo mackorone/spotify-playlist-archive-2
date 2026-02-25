@@ -4,7 +4,7 @@
 
 > 
 
-905 songs - 2 day 23 hr 5 min
+906 songs - 2 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Las Palé](https://open.spotify.com/track/0VcoW5zySo7DYCt2l5mD2Z) | [Feeling Kréyol](https://open.spotify.com/artist/1e5dRbjFbRHlIOiIWGyFk9) | [Las Palé](https://open.spotify.com/album/3uIYXwWQgMPJkGiOHrt5Vz) | 4:30 | 2022-01-04 |  |
 | [Las Palé](https://open.spotify.com/track/1oLu8jyegvRNUPIxF6NrUe) | [Feeling Kréyol](https://open.spotify.com/artist/1e5dRbjFbRHlIOiIWGyFk9) | [Las Palé](https://open.spotify.com/album/6VltPsQ5oNPab6RBitzfgx) | 4:30 | 2021-04-08 |  |
 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 | 2020-11-16 |  |
+| [Last Train to Lhasa](https://open.spotify.com/track/2Joozdms9UpsRjAUdHP8Fo) | [Banco De Gaia](https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M) | [Last Train to Lhasa \(Special Edition\)](https://open.spotify.com/album/0vFeKmzBsTobxf9WIv61gj) | 11:44 | 2026-02-24 |  |
 | [Latin Parang](https://open.spotify.com/track/1mX92uDiJByVi5tBkzsqQo) | [Colleen Grant](https://open.spotify.com/artist/6AVsopJxwETD8AHPTOZW0X) | [Latin Parang / Parang Jam](https://open.spotify.com/album/3h0rzL44Rzh5s9U65QcsPj) | 6:36 | 2020-09-23 |  |
 | [Lavoura](https://open.spotify.com/track/16UXSqeaeHGhXsc0ZvZ6q6) | [Germannu](https://open.spotify.com/artist/4QyGx9SzqAy8khFKVgW9e2) | [Germannu](https://open.spotify.com/album/4qArY65tK5v8fnVzvLRraw) | 3:33 | 2021-05-05 |  |
 | [Law Konty](https://open.spotify.com/track/5gFJ2ambix570MIyLIy6Bm) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Shara](https://open.spotify.com/album/1xbEYJxzLJVsncqolilQ2o) | 5:04 | 2020-11-18 |  |

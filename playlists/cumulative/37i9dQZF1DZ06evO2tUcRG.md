@@ -4,7 +4,7 @@
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-93 songs - 9 hr 40 min
+94 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Me Lembro \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Lembro \(feat\. Gabriela Rocha\) \[Ao Vivo\]](https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw) | 8:55 | 2023-07-09 | 2024-11-04 |
 | [Me Leva \- Ao Vivo](https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Fernandinho Em Casa \(ao Vivo\)](https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8) | 6:07 | 2023-07-09 |  |
 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 | 2023-07-09 |  |
-| [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 | 2023-07-09 |  |
+| [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 | 2023-07-09 | 2026-02-25 |
+| [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/4CBrbzhvuka2a3gZOm48E8) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 8:40 | 2026-02-25 |  |
 | [Meu Respirar](https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 4:06 | 2024-11-23 |  |
 | [Meu Respirar](https://open.spotify.com/track/4YJHPvqTBfL8l82JYxZbd1) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Respirar](https://open.spotify.com/album/0fGM1NFyaFshTkQAtpRhsG) | 4:06 | 2024-10-17 | 2024-11-14 |
 | [Meu Respirar / Meu Prazer \- Ao Vivo](https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Respirar / Meu Prazer \(Ao Vivo\)](https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I) | 5:23 | 2023-07-09 | 2025-10-18 |

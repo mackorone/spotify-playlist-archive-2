@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,632 likes - 200 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,790 likes - 200 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 199 | [Lighthouses](https://open.spotify.com/track/72Moz20sRemSCeLv0uv7UR) | [Quiet Robot](https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc) | [Lighthouses](https://open.spotify.com/album/3TbfiuSY3PGOtvuvcOkUKx) | 3:03 |
 | 200 | [Places](https://open.spotify.com/track/1iRJz2iWf8HAlWbQ9BV4Fo) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [Places](https://open.spotify.com/album/2U19uunCKFVUeqDclfeZAb) | 2:47 |
 
-Snapshot ID: `AAAAAADLQP6rrx7OVFu0NUgLo3JKMtT8`
+Snapshot ID: `AAAAAGIRv6rL53KoRrHenefJEk1E8tdA`

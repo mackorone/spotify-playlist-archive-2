@@ -1,6 +1,6 @@
 {
   "description": "Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas \ud83c\udf51",
-  "num_followers": 540272,
+  "num_followers": 540283,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "AMARGURA",
+      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -771,22 +787,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "AMARGURA",
-      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 206146,
       "name": "El Bolero",
       "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "SORRY 4 THAT MUCH",
-        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "SORRY 4 THAT MUCH",
-      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Me Lo Merezco",
         "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 172124,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "SORRY 4 THAT MUCH",
+        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "SORRY 4 THAT MUCH",
+      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Gabriela (with Young Miko) [Young Miko Remix]",
-        "url": "https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 198809,
-      "name": "Gabriela (with Young Miko) - Young Miko Remix",
-      "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "Gabriela (with Young Miko) [Young Miko Remix]",
+        "url": "https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 198809,
+      "name": "Gabriela (with Young Miko) - Young Miko Remix",
+      "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
     },
     {
       "added_at": "2026-02-13 18:57:30",

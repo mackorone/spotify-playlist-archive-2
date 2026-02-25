@@ -4,11 +4,12 @@
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-114 songs - 6 hr 8 min
+115 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 | 2025-11-02 |  |
+| [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 | 2025-11-02 | 2026-02-25 |
+| [$extape](https://open.spotify.com/track/5z3r0C8Q3jlbpJRHvLaVk4) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [FX De La Rose](https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3) | 4:04 | 2026-02-25 |  |
 | [1%](https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [1%](https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln) | 3:44 | 2025-12-08 |  |
 | [100 Conmigo](https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 2:31 | 2025-04-06 |  |
 | [100xCiento](https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [100xCiento](https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy) | 3:39 | 2024-04-16 | 2024-06-30 |

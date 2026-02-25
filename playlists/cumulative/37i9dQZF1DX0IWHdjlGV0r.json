@@ -632,7 +632,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 199384,
       "name": "Ballando Con Te",
       "url": "https://open.spotify.com/track/2i80maftqYWVSRst3reXCo"
@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227321,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
+    },
+    {
+      "album": {
         "name": "UFORIA",
         "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
       },
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 154074,
       "name": "NIKITA",
       "url": "https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu"
@@ -4444,7 +4462,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 205720,
       "name": "Soli (Assieme)",
       "url": "https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN"

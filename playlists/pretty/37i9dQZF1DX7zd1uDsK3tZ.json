@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
-  "num_followers": 201476,
+  "num_followers": 201509,
   "original_name": "Sunday Brunch",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 184381,
-      "name": "Sound and Vision - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Low (2017 Remaster)",
+        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 184381,
+      "name": "Sound and Vision - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Station to Station (2016 Remaster)",
-        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 243280,
-      "name": "Golden Years - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "2nd Time Around (Expanded Edition)",
         "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Station to Station (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Golden Years - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
       "artists": [
         {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -979,6 +963,22 @@
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2025-02-14 05:00:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,654 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,663 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 27 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
 | 28 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 29 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
-| 30 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
-| 31 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
+| 30 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
+| 31 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
 | 32 | [Em Không Cần](https://open.spotify.com/track/3M8XPtbFW7xWyz2JmuDcce) | [Hannie](https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs) | [Em Không Cần](https://open.spotify.com/album/4b319VI4xcHsxbXZVQmRgy) | 4:10 |
 | 33 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/3QEDCbKlBdzEaMmdKUJJvu) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/5Goqek0wxqpC9DRTJJnjkK) | 2:32 |
-| 34 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |
+| 34 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |
 | 35 | [Onions](https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Onions](https://open.spotify.com/album/2QbGDADifKwU9DlKwQvK6I) | 3:08 |
-| 36 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |
+| 36 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |
 | 37 | [Lukisan](https://open.spotify.com/track/4JCCxTFPJVyKScKv7AwZcl) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5) | [Lukisan](https://open.spotify.com/album/3qxSIjuljZrg7LEQ8RVema) | 4:15 |
 | 38 | [System](https://open.spotify.com/track/3kPWyMLOMqigwl4p4aJZWa) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:54 |
 | 39 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 51 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 |
 | 52 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 53 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
-| 54 | [Woman Lake](https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:44 |
-| 55 | [IDK](https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 1:57 |
+| 54 | [IDK](https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 1:57 |
+| 55 | [Woman Lake](https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:44 |
 | 56 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
 | 57 | [be careful](https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [be careful](https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr) | 3:23 |
 | 58 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
 | 59 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
-| 60 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
-| 61 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
+| 60 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
+| 61 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
 | 62 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
 | 63 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
 | 64 | [Mona Lisa \(Bang Bang\)](https://open.spotify.com/track/6v1JjezMLHbINEEq4Ch1lU) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Mona Lisa \(Bang Bang\)](https://open.spotify.com/album/735qzpsVhgEYoPjTrnAHSD) | 2:55 |

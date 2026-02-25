@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,926 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,930 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 31 | [Olympus](https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:07 |
 | 32 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 33 | [Wallowa Lake Monster \- Version 2](https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell \(10th Anniversary Edition\)](https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3) | 6:40 |
-| 34 | [How Many](https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Compass Rosa](https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh) | 3:25 |
+| 34 | [Reflexion](https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Reflections](https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21) | 2:57 |
 | 35 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 |
 | 36 | [Javelin \(To Have And To Hold\)](https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 1:52 |
-| 37 | [Reflexion](https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Reflections](https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21) | 2:57 |
-| 38 | [The Hidden River of My Life](https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 4:04 |
+| 37 | [The Hidden River of My Life](https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 4:04 |
+| 38 | [How Many](https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Compass Rosa](https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh) | 3:25 |
 | 39 | [Holland](https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:26 |
 | 40 | [Genuflecting Ghost](https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:32 |
 | 41 | [All the Trees of the Field Will Clap Their Hands](https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 4:14 |
 | 42 | [It’s Your Own Body And Mind](https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 2:27 |
-| 43 | [Enchanting Ghost](https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 3:39 |
-| 44 | [Abraham](https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:33 |
+| 43 | [Abraham](https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:33 |
+| 44 | [Enchanting Ghost](https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 3:39 |
 | 45 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
 | 46 | [Lady Macbeth In Chains](https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:42 |
 | 47 | [Flint \(For the Unemployed and Underpaid\)](https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Size Too Small](https://open.spotify.com/track/2Z3WGXNF3OqaJ3XaAaP10a) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 3:04 |
 | 50 | [Vesuvius](https://open.spotify.com/track/3GWZX3YtldXCdSQqrzGgV5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Age of Adz](https://open.spotify.com/album/4kRMCapj9nEyBWnM0kc9OX) | 5:28 |
 
-Snapshot ID: `aZpHAAAAAABkhYXkikIG0M30Ed6oSkuL`
+Snapshot ID: `aZuYgAAAAAAQrN7p/MP/1kTYrCpKRSnJ`

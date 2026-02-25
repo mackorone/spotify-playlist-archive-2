@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 > Taking it way back! Cover: 2Pac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,994,650 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,995,265 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

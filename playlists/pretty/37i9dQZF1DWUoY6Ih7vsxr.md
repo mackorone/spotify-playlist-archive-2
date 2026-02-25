@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,534 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,641 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 10 | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:52 |
 | 11 | [Trouble Maker](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) | 3:39 |
 | 12 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
-| 13 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 |
-| 14 | [Lucifer](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 |
+| 13 | [Lucifer](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 |
+| 14 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 |
 | 15 | [Mr\. Simple](https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Mr\. Simple \- The 5th Album](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) | 4:01 |
 | 16 | [Mr.Mr.](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Mr\. Mr\. \- The 4th Mini Album](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) | 3:55 |
 | 17 | [MIROTIC](https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo), [YOO YOUNG JIN](https://open.spotify.com/artist/10hnt5byoob9FKHUN8Awfa) | [MIROTIC \- The 4th Album](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) | 3:28 |
-| 18 | [Bad Boy](https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:56 |
-| 19 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 |
+| 18 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 |
+| 19 | [Bad Boy](https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:56 |
 | 20 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
 | 21 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 |
 | 22 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
-| 23 | [내 머리가 나빠서](https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:23 |
-| 24 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
+| 23 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
+| 24 | [내 머리가 나빠서](https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:23 |
 | 25 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 | 26 | [닐리리맘보](https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [BLOCKBUSTER](https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6) | 3:27 |
 | 27 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 37 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
 | 38 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
 | 39 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
-| 40 | [Short Hair](https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Short Hair](https://open.spotify.com/album/5JF8b6GKxOIve0KBuT7pzS) | 3:34 |
-| 41 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
+| 40 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
+| 41 | [Short Hair](https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Short Hair](https://open.spotify.com/album/5JF8b6GKxOIve0KBuT7pzS) | 3:34 |
 | 42 | [Hoot](https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Hoot \- The 3rd Mini Album](https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg) | 3:19 |
 | 43 | [너라고 It's You](https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [너라고 It's You](https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J) | 3:51 |
 | 44 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |

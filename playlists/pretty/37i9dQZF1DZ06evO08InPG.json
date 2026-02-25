@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 62964,
+  "num_followers": 62976,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAC7gC348UpzhlS25DNHa9cZ",
+  "snapshot_id": "aZuYgAAAAABVsPpqLGYxx19j0w7MCSq2",
   "tracks": [
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 370746,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
+      "duration_ms": 304381,
+      "name": "Bastards",
+      "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 304381,
-      "name": "Bastards",
-      "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
+      "duration_ms": 370746,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
     },
     {
       "added_at": null,

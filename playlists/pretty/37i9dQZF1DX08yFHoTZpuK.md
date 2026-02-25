@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,370 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,426 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 44 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
 | 45 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 46 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
-| 47 | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC) | 4:53 |
+| 47 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
 | 48 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
-| 49 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
+| 49 | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC) | 4:53 |
 | 50 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
 
 Snapshot ID: `AAAAAJXcVl8Yzvx4D+TPBsPZP4haeCS1`

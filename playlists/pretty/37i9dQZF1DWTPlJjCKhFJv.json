@@ -1,6 +1,6 @@
 {
   "description": "Don't wait for spring to spruce things up",
-  "num_followers": 32999,
+  "num_followers": 33006,
   "original_name": "Spring Clean",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-06-02 10:09:05",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2025-06-02 10:09:05",
-      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2025-06-02 10:09:05",
       "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 215773,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2025-06-02 10:09:05",
@@ -1023,6 +1007,22 @@
       "duration_ms": 280586,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2025-06-02 10:09:05",
+      "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
     },
     {
       "added_at": "2025-06-02 10:09:05",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-06-02 10:09:05",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
-    },
-    {
-      "added_at": "2025-06-02 10:09:05",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 185186,
       "name": "Tears Dry On Their Own",
       "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
+    },
+    {
+      "added_at": "2025-06-02 10:09:05",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2025-06-02 10:09:05",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-06-02 10:09:05",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2025-06-02 10:09:05",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 301200,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ"
+    },
+    {
+      "added_at": "2025-06-02 10:09:05",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2025-06-02 10:09:05",
@@ -1495,22 +1495,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3"
-    },
-    {
-      "added_at": "2025-06-02 10:09:05",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2025-06-02 10:09:05",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2025-06-02 10:09:05",
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2025-06-02 10:09:05",
+      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-06-02 10:09:05",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
-    },
-    {
-      "added_at": "2025-06-02 10:09:05",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 264546,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+    },
+    {
+      "added_at": "2025-06-02 10:09:05",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
     },
     {
       "added_at": "2025-06-02 10:09:05",

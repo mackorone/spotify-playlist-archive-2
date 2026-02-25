@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,995 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,169 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 3 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 |
 | 4 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 5 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
-| 6 | [First Date](https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 |
-| 7 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
+| 6 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
+| 7 | [First Date](https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 |
 | 8 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 9 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
 | 10 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:25 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 35 | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX) | 3:40 |
 | 36 | [Machine Gun Blues](https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Hard Times And Nursery Rhymes \(Deluxe Edition\)](https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK) | 3:33 |
 | 37 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
-| 38 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
-| 39 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
+| 38 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
+| 39 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
 | 40 | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:19 |
 | 41 | [Shut Up!](https://open.spotify.com/track/2SMYQhVrLA7NRjUxAVghSH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any...](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:02 |
 | 42 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 |
-| 43 | [Nervous Breakdown](https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Nervous Breakdown](https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV) | 2:09 |
-| 44 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
+| 43 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
+| 44 | [Nervous Breakdown](https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Nervous Breakdown](https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV) | 2:09 |
 | 45 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
 | 46 | [I Was Wrong](https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 3:58 |
 | 47 | [Still Waiting](https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 2:40 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 73 | [Sugar Youth](https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 1:54 |
 | 74 | [Failed Imagineer](https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:11 |
 | 75 | [Veteran](https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A Place Called Home](https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi) | 2:45 |
-| 76 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 |
-| 77 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
+| 76 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
+| 77 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 |
 | 78 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
 | 79 | [Wrong Way](https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:16 |
 | 80 | [hollywood sucks//](https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [hollywood sucks//](https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1) | 2:33 |

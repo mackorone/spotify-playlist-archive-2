@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,263 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,416 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 23 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 |
 | 24 | [November Has Come](https://open.spotify.com/track/6lrDckuosGpwEHtm1hHBcf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 2:45 |
 | 25 | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot) | 4:04 |
-| 26 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
-| 27 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The God Of Lying \(feat\. IDLES\)](https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho) | 3:09 |
+| 26 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The God Of Lying \(feat\. IDLES\)](https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho) | 3:09 |
+| 27 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
 | 28 | [Superfast Jellyfish \(feat\. Gruff Rhys and De La Soul\)](https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 2:54 |
 | 29 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 |
 | 30 | [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 |
-| 31 | [Souk Eye](https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:34 |
-| 32 | [Sleeping Powder](https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Sleeping Powder](https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu) | 2:46 |
+| 31 | [Sleeping Powder](https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Sleeping Powder](https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu) | 2:46 |
+| 32 | [Souk Eye](https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:34 |
 | 33 | [DARE](https://open.spotify.com/track/5KITn310R8bC3aZeErFo6S) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Singles Collection 2001\-2011](https://open.spotify.com/album/5cyCeFPqDXC6R9rvx6TO1w) | 3:33 |
 | 34 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 |
 | 35 | [Rock the House](https://open.spotify.com/track/0UQNHlrHiz19Htk7YTLVe5) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
 | 50 | [Re\-Hash](https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:40 |
 
-Snapshot ID: `aZpHAAAAAAB36ON+5JcYWgJtTNw5lfr4`
+Snapshot ID: `aZuYgAAAAAAmMxT/q5FQpbVJQQzRs3Jj`

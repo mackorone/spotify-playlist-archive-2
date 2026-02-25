@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,406 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,377 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 69 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
 | 70 | [Out My Hair](https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 2:57 |
 | 71 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |
-| 72 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
-| 73 | [In The Moment](https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH) | 3:53 |
+| 72 | [In The Moment](https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH) | 3:53 |
+| 73 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 74 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
 | 75 | [Strawberry featuring Rae Khalil](https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Strawberry featuring Rae Khalil](https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib) | 2:43 |
 | 76 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 80 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
 | 81 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
 | 82 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 |
-| 83 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
-| 84 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
+| 83 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
+| 84 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
 | 85 | [LOVE!](https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 1:40 |
 | 86 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 | 87 | [HOWWEFLOW](https://open.spotify.com/track/5R7prQMqnCcwOelkPPH9eM) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [HOWWEFLOW](https://open.spotify.com/album/7CPafRVIO0pXc6WMkKzYnv) | 2:41 |

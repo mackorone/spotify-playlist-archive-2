@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,697 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,760 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 47 | [Que Vuelva](https://open.spotify.com/track/3p80qaEZZnZ96CkhQ7V1dD) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:46 |
 | 48 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 49 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
-| 50 | [Antes de Que Te Vayas](https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Antes de Que Te Vayas](https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0) | 3:25 |
-| 51 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
+| 50 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
+| 51 | [Antes de Que Te Vayas](https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Antes de Que Te Vayas](https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0) | 3:25 |
 | 52 | [Mira Nomas](https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
 | 53 | [Tu Ingratitud](https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Hombre Talentoso](https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af) | 3:33 |
 | 54 | [Si Te Pudiera Mentir](https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:09 |

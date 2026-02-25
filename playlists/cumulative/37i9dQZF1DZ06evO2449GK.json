@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 166733,
       "name": "Terapia de Grupo",
       "url": "https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46"
@@ -1838,6 +1838,24 @@
       "duration_ms": 238813,
       "name": "Una Resaca Mas",
       "url": "https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT"
+    },
+    {
+      "album": {
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "Una Resaca Mas",
+      "url": "https://open.spotify.com/track/60LFqvmgxoncGyBFCLmw9u"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2449GK"

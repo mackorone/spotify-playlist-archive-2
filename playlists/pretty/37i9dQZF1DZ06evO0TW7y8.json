@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 323722,
+  "num_followers": 323728,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABkTWHLuwlqpmDUcVWF5E7n",
+  "snapshot_id": "aZuYgAAAAADMb0TaE1Ph1jNOYYv6C9M6",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "Teenage Fantasy",
+      "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALIK",
         "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
@@ -267,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Over (Remix)",
         "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "Teenage Fantasy",
-      "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 127680,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose Rouge",
-        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 357960,
-      "name": "Rose Rouge",
-      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 237852,
       "name": "Feelings (feat. J Hus)",
       "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rose Rouge",
+        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 357960,
+      "name": "Rose Rouge",
+      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Steal My Joy",
-        "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Reason in Disguise",
-      "url": "https://open.spotify.com/track/0ebJuVgQ6VoS1mc7b713J2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 192800,
       "name": "Greatest Gift (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Can't Steal My Joy",
+        "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Reason in Disguise",
+      "url": "https://open.spotify.com/track/0ebJuVgQ6VoS1mc7b713J2"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 224098,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 224098,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
+      "duration_ms": 166424,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 166424,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 214266,
       "name": "Nice Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/7IWJTrZvS11K1ziaS3JvYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": null,

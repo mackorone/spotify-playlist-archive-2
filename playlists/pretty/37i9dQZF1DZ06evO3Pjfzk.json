@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 107983,
+  "num_followers": 108132,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABE9NRnL1JAjh5bCTFW9FH9",
+  "snapshot_id": "aZuYgAAAAABR9nQ2qDVw9RUX2lf8JP3J",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Middle Of It",
-      "url": "https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Middle Of It",
+      "url": "https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
         "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
@@ -227,26 +227,6 @@
       "duration_ms": 194666,
       "name": "Dirty Looks",
       "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "Would If I Could (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/06x6BAgvOIZGnHQVBoF6US"
     },
     {
       "added_at": null,
@@ -267,6 +247,26 @@
       "duration_ms": 192459,
       "name": "Nosedive (Feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "Would If I Could (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/06x6BAgvOIZGnHQVBoF6US"
     },
     {
       "added_at": null,

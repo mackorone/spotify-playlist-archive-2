@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Phantogram, Mareux, Labyrinth Ear and more",
+  "description": "With Pastel Ghost, Phantogram, Cults and more",
   "name": "Grimes Radio",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "4 Morant (Better Luck Next Time)",
       "url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 164065,
       "name": "Alice",
       "url": "https://open.spotify.com/track/1D2hvzMpIjhSptTvZBCjFU"
@@ -4368,7 +4368,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 147441,
       "name": "Bloom For Me",
       "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
@@ -6008,7 +6008,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
@@ -6546,7 +6546,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 247000,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh"
@@ -6680,7 +6680,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 239706,
       "name": "Colour of Moonlight (Antiochus)",
       "url": "https://open.spotify.com/track/3Kl512JPDDX8XsjagpNxlo"
@@ -7346,7 +7346,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 176640,
       "name": "Crushcrushcrush",
       "url": "https://open.spotify.com/track/6ZCGKyXcGbYc6tdP6unPVY"
@@ -7736,7 +7736,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Dark Beach",
       "url": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
@@ -9576,7 +9576,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 204124,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL"
@@ -10306,7 +10306,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 223226,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5UKj2UGT4AMc1GMLk5S5sw"
@@ -10800,7 +10800,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -11118,7 +11118,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
@@ -13288,7 +13288,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
@@ -14998,7 +14998,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -15382,6 +15382,28 @@
     {
       "album": {
         "name": "Image (Grimes Special)",
+        "url": "https://open.spotify.com/album/7gwHVBqtghzSMjf4yEexDV"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215454,
+      "name": "Image (Grimes Special)",
+      "url": "https://open.spotify.com/track/3Jng2rpIQrSAQPrWYN7ywM"
+    },
+    {
+      "album": {
+        "name": "Image (Grimes Special)",
         "url": "https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji"
       },
       "artists": [
@@ -15396,7 +15418,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 215454,
       "name": "Image - Grimes Special",
       "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
@@ -15818,7 +15840,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 218384,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4t9vB7wIKWE5jIhjcztmmd"
@@ -15908,7 +15930,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 212213,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/7tktCNlB0877dhdPZSRb7T"
@@ -17682,7 +17704,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
@@ -23322,7 +23344,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 241388,
       "name": "Pocky Boy",
       "url": "https://open.spotify.com/track/6Ts2TyVBF6Osom4IV88JNr"
@@ -23874,7 +23896,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 224343,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
@@ -23982,7 +24004,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6kEqKNXFU9p5lXSSab4skH"
@@ -26156,7 +26178,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 208624,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2"
@@ -26590,7 +26612,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH"
@@ -26832,7 +26854,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7"
@@ -28360,7 +28382,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 149090,
       "name": "Stay Ugly",
       "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
@@ -28414,7 +28436,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 201290,
       "name": "Still Goin",
       "url": "https://open.spotify.com/track/61n8IsQQ2HaE0ech0l21oa"
@@ -29156,7 +29178,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 292506,
       "name": "Symphonia IX (My Wait Is U)",
       "url": "https://open.spotify.com/track/76iqrqfj4k7Igq2WoKuTlS"
@@ -29384,7 +29406,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 284613,
       "name": "Tear You Apart",
       "url": "https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi"
@@ -31148,7 +31170,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 207578,
       "name": "Twist The Knife",
       "url": "https://open.spotify.com/track/2KVStewnFKCp6gjREeHRDy"
@@ -31166,7 +31188,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 247547,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/6V0LX0hP1S0qH513CChAKt"
@@ -33788,7 +33810,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"

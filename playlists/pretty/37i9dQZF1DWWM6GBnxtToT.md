@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,668 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,664 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 43 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
 | 44 | [Sweet Melancholy](https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Sweet Melancholy](https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8) | 2:58 |
 | 45 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
-| 46 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
-| 47 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
+| 46 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
+| 47 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
 | 48 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 |
 | 49 | [Highroll](https://open.spotify.com/track/4eaXS4949afO8LgaF4rzZO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Highroll](https://open.spotify.com/album/2Kaxgrdx5WnASCgyIRlII4) | 3:01 |
 | 50 | [Morning Sun](https://open.spotify.com/track/2q8CITaNIKGjvpwAkroCYD) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Morning Sun](https://open.spotify.com/album/0SE40IGBADJ2A8mneCxzWQ) | 3:19 |
 | 51 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
 | 52 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
 | 53 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
-| 54 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
-| 55 | [Eight Hours](https://open.spotify.com/track/0G6I2K2DU70tZkrdVZ3hxZ) | [Fruit Junior](https://open.spotify.com/artist/4qNHQ7M4r3z1jEKUyH8NiN) | [How About This Picture Of A Cat](https://open.spotify.com/album/7es9gg8c5hl6lgy7HsgbgU) | 3:43 |
+| 54 | [Eight Hours](https://open.spotify.com/track/0G6I2K2DU70tZkrdVZ3hxZ) | [Fruit Junior](https://open.spotify.com/artist/4qNHQ7M4r3z1jEKUyH8NiN) | [How About This Picture Of A Cat](https://open.spotify.com/album/7es9gg8c5hl6lgy7HsgbgU) | 3:43 |
+| 55 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
 | 56 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
 | 57 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
 | 58 | [Into the Night](https://open.spotify.com/track/0u1x6HLqZ45r7ekn7mOkTE) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Into the Night](https://open.spotify.com/album/2lvXZ9u0h6wI8vzZ8rdfac) | 2:51 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 67 | [20 Something](https://open.spotify.com/track/3aFgacV2lQUD0RCJHjSN59) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [20 Something](https://open.spotify.com/album/5m4DmHtjFw8UTHKEvcD1qZ) | 4:03 |
 | 68 | [Offshore](https://open.spotify.com/track/73mJ845ZKFOlBKlu90BbBw) | [Gardens of Capri](https://open.spotify.com/artist/5mU6A5otqj6gJZQHuj0Rni) | [We Wake Up In The Garden](https://open.spotify.com/album/5SPss6SH1gMZH7T5KALIUx) | 3:10 |
 | 69 | [1969 \- Conrad](https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [1969 \- Conrad](https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V) | 2:38 |
-| 70 | [Casanova](https://open.spotify.com/track/3MvAbg1lc0SC7Qi1UOvrpg) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Casanova](https://open.spotify.com/album/696HC3UABKkKCfHnZGEhCs) | 2:35 |
-| 71 | [Calm Me Down](https://open.spotify.com/track/2hTeAOEUwcFJATk3c8mUGN) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Calm Me Down](https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk) | 3:05 |
+| 70 | [Calm Me Down](https://open.spotify.com/track/2hTeAOEUwcFJATk3c8mUGN) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Calm Me Down](https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk) | 3:05 |
+| 71 | [Casanova](https://open.spotify.com/track/3MvAbg1lc0SC7Qi1UOvrpg) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Casanova](https://open.spotify.com/album/696HC3UABKkKCfHnZGEhCs) | 2:35 |
 | 72 | [I Float on Your Love](https://open.spotify.com/track/6AWDdRAaK0dgJ3Gst6VT5S) | [Like Lovers](https://open.spotify.com/artist/0puXK77dHMF8fzrgmov6MF) | [Everything All the Time Forever](https://open.spotify.com/album/32QWfCJJKd4CpBngWJyr94) | 4:18 |
 | 73 | [How 2 Dance](https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [How 2 Dance](https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp) | 2:43 |
 | 74 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 79 | [You Are Entering The Human Heart](https://open.spotify.com/track/4BenuknMGlePyfb7VcJinW) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [You Are Entering The Human Heart](https://open.spotify.com/album/3vVoyRVSZHm55WiywJQ6c9) | 3:22 |
 | 80 | [Waiting for a Sign](https://open.spotify.com/track/6cZArZnUd1oNPMX5vFyRSF) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw), [Joe Traxler](https://open.spotify.com/artist/6uKhANzXcfTiGJ9ulZDBno) | [Waiting for a Sign](https://open.spotify.com/album/6wkzOEFkPUQs8DFqmlosVz) | 2:58 |
 | 81 | [Are You OK?](https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/1wLarLGfSpVvudyJE7BiG9) | 4:23 |
-| 82 | [The Canary Inukh](https://open.spotify.com/track/6zXe5eScWYkjQ59bcDETWf) | [Keope](https://open.spotify.com/artist/4PLAd936ZTS6KSJtiSsqDX) | [The Canary Inukh](https://open.spotify.com/album/3R3ClYQ14WTH7jyc1x8TbY) | 3:58 |
+| 82 | [Zeus](https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Zeus](https://open.spotify.com/album/35VinbtlSAyJGLF8lrazez) | 3:18 |
 | 83 | [Take Me Out](https://open.spotify.com/track/3QfDceqmFnYDJi87fwI3lK) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Take Me Out](https://open.spotify.com/album/2YCBz7N0Lrdagv6Fym6a8e) | 4:55 |
-| 84 | [Zeus](https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Zeus](https://open.spotify.com/album/35VinbtlSAyJGLF8lrazez) | 3:18 |
+| 84 | [The Canary Inukh](https://open.spotify.com/track/6zXe5eScWYkjQ59bcDETWf) | [Keope](https://open.spotify.com/artist/4PLAd936ZTS6KSJtiSsqDX) | [The Canary Inukh](https://open.spotify.com/album/3R3ClYQ14WTH7jyc1x8TbY) | 3:58 |
 | 85 | [Lost in the Sound](https://open.spotify.com/track/6Aeig7a9lnvYlwfScbX9Qe) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lost in the Sound](https://open.spotify.com/album/7wEs4j97WKIE3Pq1CnoC7I) | 3:36 |
 | 86 | [Where Do You Go](https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Where Do You Go](https://open.spotify.com/album/7ffU7oeQlFNtNoAk2KI5PS) | 3:22 |
 | 87 | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF) | 3:32 |

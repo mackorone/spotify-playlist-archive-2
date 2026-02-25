@@ -5495,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/06kio3GTv2iQAsZq68MC4x"
+      },
+      "artists": [
+        {
+          "name": "Wild Fire",
+          "url": "https://open.spotify.com/artist/1w7LG2iZbPYsrPwINoRV3E"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296879,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/5lUK1RAl9eVGxIgyAxWrEK"
+    },
+    {
+      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },

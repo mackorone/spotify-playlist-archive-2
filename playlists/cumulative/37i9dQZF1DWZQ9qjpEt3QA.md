@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-162 songs - 10 hr 53 min
+167 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,13 +51,16 @@
 | [Groovin \(feat\. Jue\)](https://open.spotify.com/track/6U3c49IZbXVJopmisWnSnS) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin \(Feat\. Jue\)](https://open.spotify.com/album/6oTEsDbZevj1Q0XJIMPlwk) | 3:22 | 2023-07-06 | 2023-11-17 |
 | [Groovin \(Feat\. Jue\)](https://open.spotify.com/track/3lU74wFGWyiuSCD3ePWwks) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin \(Feat\. Jue\)](https://open.spotify.com/album/0os1fLqjWmaWiEdYik02c0) | 3:22 | 2023-05-18 | 2023-09-03 |
 | [Groovin \(Feat\. Jue\)](https://open.spotify.com/track/27Dw4pJjgbOpGLbDh1lmzZ) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Butterfly](https://open.spotify.com/album/7LOVo2cJQuIcGhcAO62ssb) | 3:24 | 2023-10-19 | 2024-04-19 |
+| [Happy now?](https://open.spotify.com/track/6RwDUPV6pi85CFV0saJqhy) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [line](https://open.spotify.com/album/1gu1o6myP72sB655MR28v7) | 3:43 | 2026-02-24 |  |
 | [Have You Ever](https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Have You Ever](https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv) | 3:52 | 2022-05-26 |  |
 | [Hello Ocean](https://open.spotify.com/track/31f410ElY7WUXOs51HVtmx) | [Rattana](https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL) | [Hello Ocean](https://open.spotify.com/album/4kl4SGRxJut7Lk069v2DPb) | 4:00 | 2022-05-26 |  |
 | [Hey You](https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg) | [Cyndi Seui](https://open.spotify.com/artist/6Vl77bkShN9BMikIfhdHG9) | [Toy Boy](https://open.spotify.com/album/2GlRBipf5fOYz9gSGICgyG) | 3:51 | 2022-05-26 |  |
 | [Hunky Dory](https://open.spotify.com/track/79s8CsG6AxcfPxyLVvlFqf) | [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf), [Monsdim](https://open.spotify.com/artist/4TSyT8NNuZfgzHVAfsnkQv) | [The Noir Scene and The White Sheep Before I Sleep](https://open.spotify.com/album/551bI1L2hl1saZBLyALX0t) | 4:09 | 2022-05-26 |  |
+| [In the Rain](https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG) | 2:48 | 2026-02-24 |  |
 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 | 2022-05-26 |  |
 | [Introvert \(Japanese Version\)](https://open.spotify.com/track/2DM9Vi00JxajM8R5884oZn) | [Millie Snow](https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy) | [Introvert \(Japanese Version\)](https://open.spotify.com/album/1Jutqtpv24e7EeUslttjWz) | 3:40 | 2023-03-16 |  |
 | [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 | 2022-11-16 | 2022-12-09 |
+| [Kiliti](https://open.spotify.com/track/3c65FbKOl1XVNJ9RqHfsgV) | [ALYSON](https://open.spotify.com/artist/0TkeMndS0mrWcPcQzbfIp5) | [DEFINITELY LOVE!](https://open.spotify.com/album/4spalBxZNJGMszMC3QEoXV) | 3:23 | 2026-02-24 |  |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-26 |  |
 | [Lagoon](https://open.spotify.com/track/3NLMY8Wh4hUC32sPANETIA) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Lagoon](https://open.spotify.com/album/2QGfhTS180MI7eSFO0Uc8E) | 4:17 | 2023-02-16 |  |
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-11-16 | 2024-04-19 |
@@ -151,9 +154,11 @@
 | [คิดสิ](https://open.spotify.com/track/2ETNrSPgFzST9bNmUKQzEM) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [คิดสิ](https://open.spotify.com/album/3cl7sIBeKmZwJ0pTMEikLY) | 3:57 | 2023-09-22 |  |
 | [ดาวเคราะห์แคระ](https://open.spotify.com/track/44AUAh9zC1AGDtzfbe14fJ) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [ดาวเคราะห์แคระ](https://open.spotify.com/album/0fUIg0oFj3n4NLywrXNWez) | 4:23 | 2024-01-06 |  |
 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 | 2023-03-09 |  |
+| [พบกันใหม่ \(So Long\)](https://open.spotify.com/track/4IKn1t0eZZzF5mji1vraVI) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 5:14 | 2026-02-24 |  |
 | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/track/4nnqax49cgpwE1be5dZXii) | [Millie Snow](https://open.spotify.com/artist/3LK2WzEzWSUHvqAqfWyDrG) | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/album/7lAuAFSGe6h9Hr7imLn3sC) | 3:40 | 2024-01-06 |  |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/2IuZlsxVbaDpYvfkZyWvnN) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BLISS](https://open.spotify.com/album/4mdc1YH7aJo13ZgvihEkOa) | 4:14 | 2022-05-26 | 2022-11-17 |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/3Qoq9Wi8SYn5gnBSn0FPku) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Bliss](https://open.spotify.com/album/2KIuhe1oMCte5xpN9bmDrS) | 4:14 | 2022-05-26 | 2022-07-29 |
+| [เกี่ยวกันไหม\(You?\)](https://open.spotify.com/track/5PoQpjsj902TmAtCOKVO2A) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เกี่ยวกันไหม\(You?\)](https://open.spotify.com/album/6AG9NhKU4BbY5FnCG0vbYL) | 4:13 | 2026-02-24 |  |
 | [เพื่อนไม่จริง \(Forever Mate\)](https://open.spotify.com/track/05WHgjtWx32x40VmFkLnOd) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 4:34 | 2022-05-26 |  |
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2024-01-06 |  |
 | [โรคแอบชอบ](https://open.spotify.com/track/77yWW5kFvEnOknfGeKSl6I) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [Super Serious](https://open.spotify.com/album/4QCpZmpuRq2ulKKBeHxNfa) | 4:01 | 2022-05-26 | 2024-04-19 |

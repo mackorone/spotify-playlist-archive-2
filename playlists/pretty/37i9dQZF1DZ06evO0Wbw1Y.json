@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAADFDd/xWy6brovGUSBSm57p",
+  "snapshot_id": "aZuYgAAAAABtcaCtW5qGowVPsvRc86/R",
   "tracks": [
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -867,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
       "artists": [
         {
@@ -876,9 +860,25 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 163210,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
     },
     {
       "added_at": null,
@@ -899,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Me Duele",
-        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 233755,
-      "name": "Cu\u00e1nto Me Duele",
-      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+      "duration_ms": 163210,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
     },
     {
       "added_at": null,

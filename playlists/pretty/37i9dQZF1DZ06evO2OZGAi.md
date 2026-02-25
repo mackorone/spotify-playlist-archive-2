@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,033 likes - 45 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,035 likes - 45 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 34 | [Ahora Volaré](https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 2:59 |
 | 35 | [Paz](https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:41 |
 | 36 | [La Ultima Canción\. Ámame \- Bonus Track](https://open.spotify.com/track/2HyeBicZ4LbQmfmTq3bZCQ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG) | 2:37 |
-| 37 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 |
-| 38 | [Ella Es](https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 3:15 |
+| 37 | [Ella Es](https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 3:15 |
+| 38 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 |
 | 39 | [Luz](https://open.spotify.com/track/4SoW3apb8bu1X5DusdV9PO) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5) | 3:30 |
 | 40 | [Salva Mi Mente](https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 4:21 |
-| 41 | [No Me Estoy Quemando](https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 4:13 |
-| 42 | [2020](https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 4:41 |
+| 41 | [2020](https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 4:41 |
+| 42 | [No Me Estoy Quemando](https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 4:13 |
 | 43 | [Dilo por Mí](https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 4:10 |
 | 44 | [Despierten](https://open.spotify.com/track/2N2wRFBbIcjufMpQqIlA8V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 6:14 |
 | 45 | [María](https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 4:04 |
 
-Snapshot ID: `aZpHAAAAAADMTAu8Vz5ovHQ9lAcHB3Va`
+Snapshot ID: `aZuYgAAAAAB1vh4niy5lBvUPwqt+W5Nt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,048 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,083 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 54 | [Manantial De Amor](https://open.spotify.com/track/6oelKj4NvMNsbKOIrEkj2A) | [Ramon Cordero](https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF) | [Manantial De Amor](https://open.spotify.com/album/1ssLLE75PHGsBP3v8mzJ62) | 5:01 |
 | 55 | [Veneno](https://open.spotify.com/track/4RzETuKgwfpRnUoi0TBZOL) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 4:06 |
 | 56 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |
-| 57 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
-| 58 | [Quizas Si, Quizas No \- Bachata Remix](https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Bacha \- Rengue: Lo Mejor De Los Toros Band](https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe) | 4:32 |
+| 57 | [Quizas Si, Quizas No \- Bachata Remix](https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Bacha \- Rengue: Lo Mejor De Los Toros Band](https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe) | 4:32 |
+| 58 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
 | 59 | [Perdoname](https://open.spotify.com/track/3CWgv82JBVeL9KX48BNLmb) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata A Su Tiempo](https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK) | 4:14 |
 | 60 | [Yo Mismo La Vi](https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [En Persona](https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq) | 3:13 |
 | 61 | [Ay hombe](https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Kings of Bachata](https://open.spotify.com/album/6mAyYaAFbwIrw3sFy6MPwB) | 5:02 |
@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 84 | [Solo Sin Ella](https://open.spotify.com/track/5ZYOvhism99dkMEnHf7EZc) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS) | 5:12 |
 | 85 | [Vocales de amor](https://open.spotify.com/track/5guZMseET21n74ZIIOoXD2) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi) | 5:10 |
 | 86 | [Hoy Te Vi Pasar](https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Los 12 Exitos De Kiko Rodriguez](https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn) | 4:12 |
-| 87 | [La Diabla](https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:59 |
+| 87 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
 | 88 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
 | 89 | [Cuando El Amor Se Va](https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mas Bachata](https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW) | 3:55 |
 | 90 | [Te Robaré](https://open.spotify.com/track/3fPMRb2gcFTZcYmR0bXnDc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:39 |
 | 91 | [Yo No Muero en Mi Cama](https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo No Muero en Mi Cama \- Single](https://open.spotify.com/album/6Gw6y33bYmAck07ZPjOu1z) | 4:07 |
-| 92 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
+| 92 | [La Diabla](https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:59 |
 | 93 | [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 |
 | 94 | [Me Voy De Ti](https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS) | 5:44 |
 | 95 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106894,
+  "num_followers": 106902,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAIKp8g4IUgCm+ZoM7wCem9",
+  "snapshot_id": "aZuYgAAAAAD68gY/hBhQycOZOBtiTrvt",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 243201,
-      "name": "Celia",
-      "url": "https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 278253,
       "name": "Vasos Vacios",
       "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 243201,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "C\u00facala",
+      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 358226,
       "name": "El #100",
       "url": "https://open.spotify.com/track/1KtmahhSHKA4iGAIrBi88P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "C\u00facala",
-      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
-      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Az\u00facar Negra",
+        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Amores De Un D\u00eda",
+      "url": "https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Guarachas De La Guarachera",
         "url": "https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 166200,
       "name": "Juancito Trucupey",
       "url": "https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Az\u00facar Negra",
-        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Amores De Un D\u00eda",
-      "url": "https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9"
     }
   ],
   "unique_name": "This Is Celia Cruz",

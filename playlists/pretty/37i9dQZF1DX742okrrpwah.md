@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > marguerite, Dermot Kennedy et PLK x Theodora au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,013 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,993 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

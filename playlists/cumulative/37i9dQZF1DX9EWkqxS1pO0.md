@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Doğa
 
-358 songs - 18 hr 5 min
+359 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Hiç Sevmedim De](https://open.spotify.com/track/7BwBF2GXWfmmstmHlFilsW) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Hiç Sevmedim De](https://open.spotify.com/album/2Mc3fYrXXYtzzcRcShgEEf) | 2:44 | 2025-04-18 | 2025-05-16 |
 | [HİÇ Mİ?](https://open.spotify.com/track/4hcUG6G5C81RXjWBShj6wM) | [Öykü](https://open.spotify.com/artist/4RhGRpWkUswnIi6vHMa0Jr) | [HİÇ Mİ?](https://open.spotify.com/album/4wFdN1fXaF83zbizlgu5eJ) | 2:09 | 2025-07-15 | 2025-09-28 |
 | [iki gözyaşı bir öpücük](https://open.spotify.com/track/6NvjnQCpJ2GfaeR5Lg2iCG) | [Femrez](https://open.spotify.com/artist/3WVQ6qhjYiLIhCcjqlMJdE) | [iki gözyaşı bir öpücük](https://open.spotify.com/album/6x0FDaRmIm1zhOYqqfjjJr) | 3:02 | 2025-09-04 | 2025-10-10 |
+| [ilk](https://open.spotify.com/track/5bqa2T8pBDYO7zimJHONCJ) | [Mert Üçkardeş](https://open.spotify.com/artist/0YyvO3CyEqiwVmNBKtAwj8) | [ilk](https://open.spotify.com/album/0ooHVswDJnvGsT5TbI8CY9) | 3:20 | 2026-02-19 |  |
 | [Işığın Kendisi](https://open.spotify.com/track/7HyH3W2vcx9A4i5BG0EZd7) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Işığın Kendisi](https://open.spotify.com/album/2F9LlyUGEDDFvu4busTwHX) | 3:05 | 2025-03-06 | 2025-04-13 |
 | [İnsan Sanmıştım Seni](https://open.spotify.com/track/4bqX5bfH6Hekw2ufxk0DlA) | [Tuğçe Türker](https://open.spotify.com/artist/6Z8HhuPI82uubrWMs7BymI) | [İnsan Sanmıştım Seni](https://open.spotify.com/album/012t7ZnX1FkafamtZxTwiW) | 2:59 | 2025-05-01 | 2025-07-11 |
 | [İstanbul](https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [İstanbul](https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju) | 2:27 | 2024-10-10 | 2024-12-01 |
@@ -177,7 +178,7 @@
 | [Kalbimdeki Yalan](https://open.spotify.com/track/0Md8mXvHgIH0CULDADlCNS) | [JÖN](https://open.spotify.com/artist/6WCFzb5nBUxM8n4PzAeFFl) | [Kalbimdeki Yalan](https://open.spotify.com/album/4Qyyc8oFggnxKG8nk9ieaL) | 4:00 | 2025-11-06 | 2025-12-12 |
 | [Kalbimden Bi' Parçaydın](https://open.spotify.com/track/06YTnPqciwB921z8Ks0RBo) | [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO) | [Kalbimden Bi' Parçaydın](https://open.spotify.com/album/5UK9Y2p4My2SWMSC7oKuHq) | 2:11 | 2024-06-20 | 2024-08-05 |
 | [Kalbimi Öp \- Akustik](https://open.spotify.com/track/6vPTotkA9b6nUB2LvgFFPx) | [Brek](https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk) | [Kalbimi Öp \(Akustik\)](https://open.spotify.com/album/18YFTdMxHw3ypTftjGIx7N) | 3:20 | 2025-07-03 |  |
-| [Kaldın Aklımda](https://open.spotify.com/track/4tWTKNR2nlj71KDLvD1PGu) | [Merve Günay](https://open.spotify.com/artist/03gZbUZ6v6EMG2FBN8QykJ) | [Kaldın Aklımda](https://open.spotify.com/album/3AMn68wBqf6rgor8LB0LgX) | 2:55 | 2025-12-11 |  |
+| [Kaldın Aklımda](https://open.spotify.com/track/4tWTKNR2nlj71KDLvD1PGu) | [Merve Günay](https://open.spotify.com/artist/03gZbUZ6v6EMG2FBN8QykJ) | [Kaldın Aklımda](https://open.spotify.com/album/3AMn68wBqf6rgor8LB0LgX) | 2:55 | 2025-12-11 | 2026-02-25 |
 | [Kara Orman](https://open.spotify.com/track/18zEyS2y8nnOVgwYMzXU4t) | [Beril Raperin](https://open.spotify.com/artist/7LjdSdCRrPRUEUSy5ChO6G) | [Kara Orman](https://open.spotify.com/album/4kcVYOlmDuK2eHMRMx0Igl) | 3:07 | 2025-01-16 | 2025-01-31 |
 | [Karagözler](https://open.spotify.com/track/72ABqzsSx86xLNo1qi2QSs) | [İzelle](https://open.spotify.com/artist/6WrduelskQhS1vhzcHSnNY) | [Karagözler](https://open.spotify.com/album/6xoVw29QIyslJ1vsaXemT9) | 3:01 | 2024-12-19 | 2025-01-15 |
 | [Karşılıksız Sevda](https://open.spotify.com/track/6p36y8IIj6eqR5YXGjYsUQ) | [Ufukta Delilik Var](https://open.spotify.com/artist/3JkzOdrZ8IHEBlPL1eZJmr) | [Karşılıksız Sevda](https://open.spotify.com/album/4pneY3q9GET92iLr7n6Ns3) | 3:24 | 2025-09-25 | 2026-01-31 |

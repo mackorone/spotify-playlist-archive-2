@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-548 songs - 1 day 7 hr 46 min
+549 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [feel like](https://open.spotify.com/track/4dkgSIjmkRSrMsEi7kcIAV) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [feel like](https://open.spotify.com/album/3rhYVByCH189uTyW4HhmYb) | 2:59 | 2025-05-27 | 2025-06-04 |
 | [feelin'](https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Dungeon](https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe) | 2:55 | 2024-10-09 | 2024-10-23 |
 | [Feelin’ Go\(o\)d](https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Feelin’ Go\(o\)d](https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR) | 4:19 | 2024-07-30 | 2025-04-28 |
-| [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 | 2026-01-14 |  |
+| [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 | 2026-01-14 | 2026-02-25 |
 | [Fix](https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Fix](https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko) | 3:32 | 2025-04-30 | 2025-07-16 |
 | [FLY](https://open.spotify.com/track/69TWjExg7jIsKppVduemkN) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [CARAI](https://open.spotify.com/album/2iMnoiFCOn8mC8eRJtWPqR) | 2:59 | 2024-09-04 | 2024-09-18 |
 | [Friday's High](https://open.spotify.com/track/1UMM7yez5N3ums1cFsAAxY) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Friday's High](https://open.spotify.com/album/5tNVnWBWRvCcZzinIcnRXp) | 3:13 | 2024-01-23 | 2024-02-07 |
@@ -205,6 +205,7 @@
 | [Rainy Driver](https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:48 | 2024-05-14 | 2024-05-24 |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-14 | 2024-10-09 |
 | [replica](https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:13 | 2023-12-03 | 2023-12-13 |
+| [Revival](https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Revival](https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt) | 3:32 | 2026-02-25 |  |
 | [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-01 | 2024-04-03 |
 | [RUN](https://open.spotify.com/track/46RQJRbjYT8MqcLDJHM0iX) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [RUN](https://open.spotify.com/album/202o5K14gZ0UQpAHgfPIe8) | 3:09 | 2023-12-21 | 2024-02-07 |
 | [rundown](https://open.spotify.com/track/5uzBqoiKKn4aYDzhf25yxY) | [yubiori](https://open.spotify.com/artist/5oZhNJP1zUPqUW6RLwneNo) | [yubiori2](https://open.spotify.com/album/2pjf8qgJIIhi6lgbgMSujz) | 3:45 | 2025-07-02 | 2025-07-16 |

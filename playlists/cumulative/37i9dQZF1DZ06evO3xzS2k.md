@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 13 min
+71 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Like Stars In The Firmament](https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:24 | 2023-12-13 |  |
 | [Micha: Those Who Fear Tomorrow](https://open.spotify.com/track/69NyDmiOB8lfgtd1hH3l2S) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Micha: Those Who Fear Tomorrow](https://open.spotify.com/album/6eRY9vIZ4Hciev3sNrzqam) | 4:10 | 2022-09-16 | 2022-11-03 |
 | [Mine Is Clouds](https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 6:15 | 2022-09-16 |  |
+| [never come never morning](https://open.spotify.com/track/4jOknxaxzqmtiw583YTli6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [never come never morning](https://open.spotify.com/album/3KNP2YOHUN7mZ59sfWsQ5U) | 3:39 | 2026-02-25 |  |
 | [Nineteen Ninety Heaven](https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:40 | 2022-09-16 |  |
 | [Our Plague](https://open.spotify.com/track/52GxXiWKYRCy1z8RxGYWiT) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 5:29 | 2024-05-24 | 2024-07-22 |
 | [Pattern After Us \- DOTB B Side](https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:40 | 2022-09-16 | 2025-10-06 |

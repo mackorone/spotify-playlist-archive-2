@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,514 songs - 3 day 16 hr 29 min
+1,515 songs - 3 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/3pSziKVQ331bLbgHYssZxS) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\) \(Remixes\)](https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni) | 3:08 | 2025-06-28 | 2025-07-10 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-19 | 2025-07-15 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 | 2026-02-07 |
+| [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 | 2026-02-24 |  |
 | [BLAME ON ME](https://open.spotify.com/track/5WWaE72aGc9ijguFKiY3yW) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [更好](https://open.spotify.com/album/0FKC566l6cp7gHF0QXe9G3) | 5:49 | 2025-10-02 | 2025-10-05 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-02-06 | 2024-04-20 |
@@ -471,7 +472,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-25 | 2025-12-28 |
 | [JoyRide](https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:37 | 2025-12-09 | 2025-12-21 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-12 |  |
-| [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 | 2025-02-04 |  |
+| [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 | 2025-02-04 | 2026-02-25 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-03 | 2025-09-17 |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2024-06-28 | 2024-09-22 |
 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 | 2025-02-21 | 2025-02-24 |
@@ -591,7 +592,7 @@
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP) | 3:00 | 2023-01-23 | 2023-03-13 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-21 | 2023-01-23 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-05 | 2024-12-03 |
-| [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 | 2026-01-16 | 2026-02-19 |
+| [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 | 2026-01-16 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-05 |
 | [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-16 | 2022-07-18 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-27 | 2021-11-13 |
@@ -1378,7 +1379,7 @@
 | [盡情旋轉](https://open.spotify.com/track/3X52jcMIDlgzN1jqqLRxuM) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [盡情旋轉](https://open.spotify.com/album/4qk6nDEJ6cauHb54YjRmnX) | 4:13 | 2021-12-02 | 2021-12-16 |
 | [相愛就是說了100次對不起](https://open.spotify.com/track/0XycphC58RpvIxvHfCN3hX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [愛是我們必經的辛苦](https://open.spotify.com/album/393Q9l2o8kkGFhtD4kYkav) | 4:24 | 2022-10-12 | 2022-10-20 |
 | [看着我的眼睛说](https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj) | 4:20 | 2025-06-04 | 2025-09-10 |
-| [看着我的眼睛说](https://open.spotify.com/track/7d6eShN6yVeR4Y2Md9uCA4) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1rH94s6Uw5ejDiOO5UjpNi) | 4:20 | 2025-09-10 |  |
+| [看着我的眼睛说](https://open.spotify.com/track/7d6eShN6yVeR4Y2Md9uCA4) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1rH94s6Uw5ejDiOO5UjpNi) | 4:20 | 2025-09-10 | 2026-02-25 |
 | [看着我的眼睛说 \- Live](https://open.spotify.com/track/1cgz7ebMOUWlhrLX8aGp5A) | [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL), [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [天赐的声音第六季 第7期 \(Live）](https://open.spotify.com/album/7yLaKkL28aVE72dRjkt4Nv) | 4:40 | 2025-06-03 | 2025-09-21 |
 | [真心話](https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 4:03 | 2024-01-08 | 2024-02-08 |
 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 | 2021-03-27\* | 2021-10-23 |

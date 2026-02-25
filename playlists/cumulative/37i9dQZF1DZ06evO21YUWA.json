@@ -1534,6 +1534,28 @@
     {
       "album": {
         "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95973,
+      "name": "Missing Person",
+      "url": "https://open.spotify.com/track/4SC2PFSWMBFsKIeiowe05u"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
       },
       "artists": [
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 265453,
       "name": "Outside, Silence",
       "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"

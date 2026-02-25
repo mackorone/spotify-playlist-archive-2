@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194171,
+      "name": "BLACKHOLE",
+      "url": "https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m"
+    },
+    {
+      "album": {
         "name": "blessing in disguise",
         "url": "https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh"
       },
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -6696,6 +6714,24 @@
       "duration_ms": 195480,
       "name": "Rose Blossom",
       "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {
@@ -7688,7 +7724,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 174146,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
@@ -8314,10 +8350,28 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 185000,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1"
+    },
+    {
+      "album": {
+        "name": "TUNNEL VISION",
+        "url": "https://open.spotify.com/album/1lKcgfG0pvj8fXbLmYgNeo"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/7InUGlO9nGHcrirzOcQzzT"
     },
     {
       "album": {

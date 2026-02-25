@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 280779,
+  "num_followers": 280864,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Travelin' Light",
         "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 152000,
-      "name": "I've Got a Crush On You",
-      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -351,6 +335,22 @@
       "duration_ms": 204133,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "I've Got a Crush On You",
+      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -579,18 +579,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+        "name": "Isn't it Romantic: The Standards Album",
+        "url": "https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt"
       },
       "artists": [
         {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+      "duration_ms": 292093,
+      "name": "Over the Rainbow (feat. Ray Charles)",
+      "url": "https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -615,22 +619,18 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Isn't it Romantic: The Standards Album",
-        "url": "https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt"
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
         }
       ],
-      "duration_ms": 292093,
-      "name": "Over the Rainbow (feat. Ray Charles)",
-      "url": "https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq"
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Catching Tales",
-        "url": "https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "I Wanna Be Loved",
         "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 230000,
       "name": "I Wanna Be Loved",
       "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Catching Tales",
+        "url": "https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "12th Avenue",
-        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 277065,
-      "name": "12th Avenue",
-      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "On My Way to You",
         "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 172746,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "12th Avenue",
+        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 277065,
+      "name": "12th Avenue",
+      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
+        "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "duration_ms": 376600,
+      "name": "Dis, quand reviendras-tu ?",
+      "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "The Women Who Raised Me",
         "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 284127,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6ys3DgHClE8mCa4sRx8yDQ"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
-        "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
-      },
-      "artists": [
-        {
-          "name": "Flore Benguigui & The Sensible Notes",
-          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
-        }
-      ],
-      "duration_ms": 376600,
-      "name": "Dis, quand reviendras-tu ?",
-      "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+        "name": "Night at the Movies",
+        "url": "https://open.spotify.com/album/7LbEEwo9BiYcPkb3DCDgDH"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/0a4rlP9h2y4zMl0MU5NmDU"
         }
       ],
-      "duration_ms": 263266,
-      "name": "Do Nothing 'Til You Hear From Me",
-      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
+      "duration_ms": 359093,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0w8RuatcPu2hVCUzkaTEdq"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Do Nothing 'Til You Hear From Me",
+      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Lazy Afternoon",
         "url": "https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 303266,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Night at the Movies",
-        "url": "https://open.spotify.com/album/7LbEEwo9BiYcPkb3DCDgDH"
-      },
-      "artists": [
-        {
-          "name": "Svetlana",
-          "url": "https://open.spotify.com/artist/0a4rlP9h2y4zMl0MU5NmDU"
-        }
-      ],
-      "duration_ms": 359093,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0w8RuatcPu2hVCUzkaTEdq"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Be My Valentine",
-        "url": "https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 216469,
-      "name": "Be My Valentine",
-      "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 207333,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Be My Valentine",
+        "url": "https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 216469,
+      "name": "Be My Valentine",
+      "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2307,6 +2307,30 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "The Sweetest Moments",
+        "url": "https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF"
+      },
+      "artists": [
+        {
+          "name": "Alex Bird",
+          "url": "https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB"
+        },
+        {
+          "name": "The Jazz Mavericks",
+          "url": "https://open.spotify.com/artist/4h5LEfrmdlpbNxjUbvnkBt"
+        },
+        {
+          "name": "Ewen Farncombe",
+          "url": "https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH"
+        }
+      ],
+      "duration_ms": 278898,
+      "name": "The Sweetest Moments",
+      "url": "https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2331,30 +2355,6 @@
       "duration_ms": 393984,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "The Sweetest Moments",
-        "url": "https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF"
-      },
-      "artists": [
-        {
-          "name": "Alex Bird",
-          "url": "https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB"
-        },
-        {
-          "name": "The Jazz Mavericks",
-          "url": "https://open.spotify.com/artist/4h5LEfrmdlpbNxjUbvnkBt"
-        },
-        {
-          "name": "Ewen Farncombe",
-          "url": "https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH"
-        }
-      ],
-      "duration_ms": 278898,
-      "name": "The Sweetest Moments",
-      "url": "https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 293124,
-      "name": "The Streets of Berlin",
-      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Nice Work If You Can Get It",
         "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 205078,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 293124,
+      "name": "The Streets of Berlin",
+      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "There's Only One...",
-        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Thinker and a Fool",
         "url": "https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb"
       },
@@ -2699,6 +2683,38 @@
       "duration_ms": 360973,
       "name": "Thinker and a Fool",
       "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Old Love and New",
+        "url": "https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6"
+      },
+      "artists": [
+        {
+          "name": "Ulita Knaus",
+          "url": "https://open.spotify.com/artist/7kvydoOIVHwhieI8oLrRmT"
+        }
+      ],
+      "duration_ms": 253741,
+      "name": "Old Love and New",
+      "url": "https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "There's Only One...",
+        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2743,22 +2759,6 @@
       "duration_ms": 289902,
       "name": "Duke Ellington's Sound of Love",
       "url": "https://open.spotify.com/track/0pfBWnd4W7AoFA4BawU1GT"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Old Love and New",
-        "url": "https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6"
-      },
-      "artists": [
-        {
-          "name": "Ulita Knaus",
-          "url": "https://open.spotify.com/artist/7kvydoOIVHwhieI8oLrRmT"
-        }
-      ],
-      "duration_ms": 253741,
-      "name": "Old Love and New",
-      "url": "https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x"
     },
     {
       "added_at": "2026-02-09 08:12:01",

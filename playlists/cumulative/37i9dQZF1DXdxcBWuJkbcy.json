@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+    },
+    {
+      "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
@@ -15692,7 +15714,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"

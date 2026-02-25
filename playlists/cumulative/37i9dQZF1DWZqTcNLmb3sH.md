@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Rakkasapuradhol
 
-1,892 songs - 4 day 19 hr 46 min
+1,893 songs - 4 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Hoo Dumbi \(From "Manada Kadalu"\)](https://open.spotify.com/track/5zqb5RrXhjFvtIBPaWmasb) | [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Hoo Dumbi \(From "Manada Kadalu"\)](https://open.spotify.com/album/6LhoqkdQ9EIR0c525uFGdp) | 4:12 | 2025-01-03 | 2025-01-29 |
 | [Hoovamma Hoove \(From "HanuMan"\) \[Kannada\]](https://open.spotify.com/track/5gwAYXSVryzQcDyH0NGPJu) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [Hoovamma Hoove \(From "HanuMan"\) \[Kannada\]](https://open.spotify.com/album/74CPgh3JLyhykLSjkeClS3) | 4:27 | 2024-01-31 | 2024-02-17 |
 | [Hoove Haaridanthe](https://open.spotify.com/track/2SxLem0pOHyc4YUIvWZW69) | [Harsha Uppar](https://open.spotify.com/artist/1mqDmKSRQU5bvew7qa6JMf), [Meghana Kulakarni Joshi](https://open.spotify.com/artist/2sBf72wmgd4KJUpDw5thlq) | [Ombatthane Dikku](https://open.spotify.com/album/5mSoumxlRkVC3EpmpwmgEf) | 1:46 | 2022-02-15 | 2022-04-28 |
+| [Hoovina](https://open.spotify.com/track/4tBcWtckdZbsOyHq3tU0LI) | [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Preetisabeda](https://open.spotify.com/album/3u0PVQxiC9F1WiKcD0nDMi) | 4:13 | 2026-02-24 |  |
 | [Hoovina Angi Thottu](https://open.spotify.com/track/0b2lOX3aKm3P4ZHRc7ww66) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uYOuJ1s0YW8gX8ywilGuW) | 3:23 | 2023-03-08 | 2023-06-10 |
 | [Hoovina Angi Thottu](https://open.spotify.com/track/1ui9KfTcWhqejcl6g8dxGj) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS) | [Hoovina Angi Thottu \(From "Dasara"\) \(Kannada\)](https://open.spotify.com/album/21kopfgytdqAIxoTsY3d1W) | 3:23 | 2023-03-08 | 2023-03-10 |
 | [Hoovina Angi Thottu \(From "Dasara"\)](https://open.spotify.com/track/5Cfhh3d6hVl9rX6VEQUXEZ) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Hoovina Angi Thottu \(From "Dasara"\) \- Single](https://open.spotify.com/album/1H3MQSOiL6feU7On6gBV5U) | 3:23 | 2023-03-08 | 2023-05-03 |

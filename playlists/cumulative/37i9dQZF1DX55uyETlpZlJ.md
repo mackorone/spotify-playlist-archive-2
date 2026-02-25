@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-625 songs - 1 day 11 hr 35 min
+626 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Chanda](https://open.spotify.com/track/3WBenVVe9S0FkVxApthEnJ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Buck](https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Chanda](https://open.spotify.com/album/0XpUURR7bNOYU88nkHNKjx) | 3:26 | 2023-08-21 | 2024-04-19 |
 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 | 2023-08-31 | 2024-03-15 |
 | [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 | 2024-03-06 |
-| [Chill Madale](https://open.spotify.com/track/42ZcXFhPyt4DH9jsELRYWh) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq) | [Chill Madale](https://open.spotify.com/album/23pxYZmTU9sQopSbSJE02w) | 3:40 | 2025-09-29 |  |
+| [Chill Madale](https://open.spotify.com/track/42ZcXFhPyt4DH9jsELRYWh) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq) | [Chill Madale](https://open.spotify.com/album/23pxYZmTU9sQopSbSJE02w) | 3:40 | 2025-09-29 | 2026-02-25 |
 | [Chill Madu Maga](https://open.spotify.com/track/7JncE2mHoMdPipbAVGTeXZ) | [Suprith Nayak Official](https://open.spotify.com/artist/03zw6bTAA8lSfj1wJR8PMn) | [Chill Madu Maga](https://open.spotify.com/album/4aHx6I6Kp3Y2U1788IxFQ8) | 3:00 | 2025-07-07 | 2026-01-15 |
 | [CHINDI MAADU](https://open.spotify.com/track/1t7ETxbjdYeeLwbe6LXxq1) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [CHINDI MAADU](https://open.spotify.com/album/4m69AYEq6wKLWbKoT7KdUW) | 3:22 | 2024-05-06 | 2024-11-14 |
 | [Chinte Bidi \- Enne Hodi](https://open.spotify.com/track/5ialXnx6tJlOlkCC17NfUc) | [Kishan Bijjur](https://open.spotify.com/artist/3S2ZrbffGmeAZgE9yIiDSF), [Creative Scenario](https://open.spotify.com/artist/4Zafxr6sEbqfLOivGNm6iI) | [Chinte Bidi \(Enne Hodi\)](https://open.spotify.com/album/0RyKmpUBNqpxD6CTVEsbSw) | 3:02 | 2025-03-18 | 2025-08-22 |
@@ -263,6 +263,7 @@
 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 | 2023-06-27 | 2024-01-30 |
 | [Kaanade \(feat\. Karna\)](https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Kaanade \(feat\. Karna\)](https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi) | 3:37 | 2023-05-25 | 2023-06-08 |
 | [Kaarana](https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kaarana](https://open.spotify.com/album/1hWbDlBA3wscSNNq6dL8hA) | 2:57 | 2023-11-06 | 2024-06-11 |
+| [Kaas Akkana Magala Nanna Marathaala](https://open.spotify.com/track/3rp5ZDnfjj0Rs5uloDWVpb) | [Shivu Umarani](https://open.spotify.com/artist/1HH53vf29KgjLQIYd7Cu1U) | [Kaas Akkana Magala Nanna Marathaala](https://open.spotify.com/album/64J1pAjlHhxqDBNedgvYsv) | 7:48 | 2026-02-24 |  |
 | [KALEDH HODHE](https://open.spotify.com/track/5IQ37HCYwY7lBryfgZKa6k) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [KALEDH HODHE](https://open.spotify.com/album/27fcdIaX5jfGiPm5lBmQgO) | 1:25 | 2024-03-17 | 2024-08-06 |
 | [Kaledu Hode Nannali](https://open.spotify.com/track/5Tvh0OcPJfmn19sFZmm0Ai) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Ramya Bhat Abhyankar](https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8) | [Kaledu Hode Nannali](https://open.spotify.com/album/4P9IGbUta2mbtLDwxBIsKR) | 5:23 | 2025-03-05 | 2025-08-08 |
 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 | 2022-10-20 | 2023-08-17 |

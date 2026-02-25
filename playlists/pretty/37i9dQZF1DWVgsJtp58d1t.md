@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black History Month! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/DVHX1wMkkSq/">Odeal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,091 likes - 151 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,191 likes - 151 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

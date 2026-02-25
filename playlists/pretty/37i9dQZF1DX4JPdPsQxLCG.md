@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,917 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,912 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 22 | [Where Have All The Good People Gone?](https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:22 |
 | 23 | [Overtime](https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:10 |
 | 24 | [Nowhere With You](https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3) | [Make A Little Noise EP](https://open.spotify.com/album/14mVaClWSmMct9XwQahGb0) | 3:01 |
-| 25 | [Harvest Moon](https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 5:03 |
-| 26 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
+| 25 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
+| 26 | [Harvest Moon](https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 5:03 |
 | 27 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 28 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 |
 | 29 | [You’re Gonna Go Far \(with Brandi Carlile\)](https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:46 |
-| 30 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
-| 31 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
+| 30 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
+| 31 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 32 | [When the Night Feels My Song](https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh) | 3:07 |
 | 33 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 34 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |

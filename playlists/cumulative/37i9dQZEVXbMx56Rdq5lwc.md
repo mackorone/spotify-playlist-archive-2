@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-2,420 songs - 5 day 13 hr 18 min
+2,421 songs - 5 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1815,6 +1815,7 @@
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-29 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 | 2026-02-24 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-11-05 |
+| [Seven \(feat\. Latto\) \(Instrumental\)](https://open.spotify.com/track/2D9mO7arRSeHAEHNVAacaA) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2026-02-24 |  |
 | [Sex Sells](https://open.spotify.com/track/6ShHxD0hoJSXajmcpQ5Ri8) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 4:06 | 2021-05-13 | 2021-05-16 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-07 | 2023-02-26 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 | 2023-03-05 | 2023-03-08 |
@@ -2008,7 +2009,7 @@
 | [TALKING](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [TALKING](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 | 2024-02-15 | 2024-02-17 |
 | [TAMSOJE](https://open.spotify.com/track/7Lme4lZYHQVxtRrI11ZVnQ) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [TAMSOJE](https://open.spotify.com/album/3sddXH1YiXzzfmvTsbE6fG) | 2:38 | 2023-06-10 | 2023-06-28 |
 | [Tarp Amžinybės](https://open.spotify.com/track/2o3vkzNw1PQsnjZOoXwgm0) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Tarp Amžinybės](https://open.spotify.com/album/3OfeO8Wre3RefYK00ZYq8X) | 3:54 | 2021-11-17 | 2021-11-22 |
-| [Tarp Geltonų Rūtų](https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:03 | 2024-06-01 |  |
+| [Tarp Geltonų Rūtų](https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:03 | 2024-06-01 | 2026-02-25 |
 | [Tarsi blogybių nebūtų](https://open.spotify.com/track/4ViZHuabSv7IDBwxBsU3DA) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [Aš sakydamas kursiu](https://open.spotify.com/album/5paQn36dIWkKgmmYFrqipn) | 4:54 | 2023-04-13 | 2023-04-15 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-24 | 2024-11-24 |
 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 | 2022-02-11 | 2022-04-20 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Agapornis",
-  "num_followers": 1138608,
+  "num_followers": 1138485,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 312512,
       "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
         "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 165161,
       "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
       "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Supuestamente",
         "url": "https://open.spotify.com/album/5WgJsoyMhj8zYdRJjSSist"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 154285,
       "name": "Supuestamente",
       "url": "https://open.spotify.com/track/75fbmsSedxEdayE8ytGbDn"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1223,6 +1223,46 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Dame Un Beso",
+        "url": "https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb"
+      },
+      "artists": [
+        {
+          "name": "Uri",
+          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 133483,
+      "name": "Dame Un Beso",
+      "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/2152XeZqBGLWDH7b38M4z1"
       },
@@ -1239,22 +1279,6 @@
       "duration_ms": 124235,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/79qQSrpTk5ctZNOEaqlZr8"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1295,30 +1319,6 @@
       "duration_ms": 156325,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Dame Un Beso",
-        "url": "https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb"
-      },
-      "artists": [
-        {
-          "name": "Uri",
-          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 133483,
-      "name": "Dame Un Beso",
-      "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Notitas Tristes",
         "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 136555,
       "name": "Notitas Tristes",
       "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 176577,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Mi Ex",
         "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
       },
@@ -1887,18 +1903,22 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
+        "name": "Quiero Olvidarte",
+        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
       },
       "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
         {
           "name": "Valen",
           "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
         }
       ],
-      "duration_ms": 176577,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
+      "duration_ms": 206432,
+      "name": "Quiero Olvidarte",
+      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1919,26 +1939,6 @@
       "duration_ms": 136853,
       "name": "NO FUIMOS",
       "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Quiero Olvidarte",
-        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 206432,
-      "name": "Quiero Olvidarte",
-      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
     },
     {
       "added_at": "2026-02-20 03:00:10",

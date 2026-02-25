@@ -2,9 +2,9 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: Henkie T
+> De beste tracks in WS❗️Cover: Lil Kleine
 
-338 songs - 15 hr 21 min
+339 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Don Julio](https://open.spotify.com/track/50xOKdGM8g8aBZoF6eDFb1) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Don Julio](https://open.spotify.com/album/6sdewdfn0oBTIRZewCPT8d) | 2:10 | 2025-11-13 | 2026-02-13 |
 | [Doolhof](https://open.spotify.com/track/0ynjDe416FmCL2grDmj75r) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Doolhof](https://open.spotify.com/album/3FPIq2ubwc17mIJz5l7YvX) | 3:49 | 2025-10-23 | 2025-11-28 |
 | [Dromen Achterna](https://open.spotify.com/track/5pyzmmODTKxN3CAFnQ1lto) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Dromen Achterna](https://open.spotify.com/album/5xEDclHO7NfsaCW4BqpgVz) | 2:32 | 2026-02-12 |  |
-| [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 | 2026-01-16 |  |
+| [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 | 2026-01-16 | 2026-02-25 |
 | [Drugsdealers & Scammers](https://open.spotify.com/track/6MUfZV19IJgXbDEEujlKo4) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Drugsdealers & Scammers](https://open.spotify.com/album/0gf1TRAXRYbKNFWug1ssuz) | 2:34 | 2025-09-18 | 2026-01-06 |
 | [Dun Talkin](https://open.spotify.com/track/7lmzgl8eDytUb9k4ILf6IM) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Dun Talkin](https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj) | 2:16 | 2025-07-17 | 2025-09-19 |
 | [Duracell](https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Duracell](https://open.spotify.com/album/5gvKMvAS0tduRnzlFulKPZ) | 3:02 | 2025-07-17 | 2025-10-31 |
@@ -190,7 +190,7 @@
 | [Mensenschuw](https://open.spotify.com/track/3HzeCBiXznhV1GPq02P6Vp) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Mensenschuw](https://open.spotify.com/album/2SlQxEVOF2zQpqypum8npc) | 2:06 | 2025-08-04 | 2025-09-05 |
 | [Micky van de Ven](https://open.spotify.com/track/3nu6AgVIOB5cZO4X49vred) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Zó Dan \(Deluxe\)](https://open.spotify.com/album/2ZeN7aPktFllZL3jkh9HRg) | 2:23 | 2025-12-11 | 2026-01-15 |
 | [Mijn Meisje](https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [BNT Vol\. 1](https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE) | 2:33 | 2026-02-05 |  |
-| [MILLIES](https://open.spotify.com/track/57XCvqLKEGcHELKgE0dKYl) | [Yenko Forever](https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [MILLIES](https://open.spotify.com/album/3BJQFhp1RtASot1fR0ry3P) | 2:24 | 2026-02-19 |  |
+| [Millies](https://open.spotify.com/track/57XCvqLKEGcHELKgE0dKYl) | [Yenko Forever](https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millies](https://open.spotify.com/album/3BJQFhp1RtASot1fR0ry3P) | 2:24 | 2026-02-19 |  |
 | [Millionaire](https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey) | [LILO](https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millionaire](https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW) | 2:36 | 2025-11-20 |  |
 | [MMMD](https://open.spotify.com/track/3ohwio0OTxbt9TRYoo1tiK) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [MMMD](https://open.spotify.com/album/1RH3Ha8FkNzsW9hmIw2r4h) | 2:47 | 2025-07-17 | 2025-08-05 |
 | [Mobil 1](https://open.spotify.com/track/480RzRw1ZHGk3bdNvV8ou6) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Mobil 1](https://open.spotify.com/album/6wl6Jg6VNNWzhEZZ2SQoXB) | 2:48 | 2026-02-19 |  |
@@ -220,6 +220,7 @@
 | [NO WARNING](https://open.spotify.com/track/3GIHaBBQj5TjxGdsyxYUHo) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [GIOVANNI I](https://open.spotify.com/album/0g71fSW5nHFxPwHuKpcKbv) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [noord](https://open.spotify.com/track/7KqFp0nwYNVgMF8Co3ELGg) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [noord](https://open.spotify.com/album/1hur4aUfZ3azbyF5OVczdk) | 1:57 | 2025-08-14 | 2025-09-05 |
 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 | 2025-07-17 | 2025-09-26 |
+| [OKE](https://open.spotify.com/track/0blCMImJHiB3rKxitkLeEP) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [OKE](https://open.spotify.com/album/4hetmZqSFCsYS4QKYh4jf9) | 2:35 | 2026-02-24 |  |
 | [Omin Love II](https://open.spotify.com/track/4voV8zmnPfn7x9F30g3GER) | [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB) | [Omin Love II](https://open.spotify.com/album/63zfO3SRLHdF39Sfs3LaMq) | 1:56 | 2026-01-29 | 2026-02-20 |
 | [Op & Neer](https://open.spotify.com/track/4HQqyfQzsrU7s82aeIW5dX) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [REGELAAR](https://open.spotify.com/album/0qSvKIR2s0O2BaFcl23tL1) | 2:55 | 2025-12-11 |  |
 | [Op De Set](https://open.spotify.com/track/3QCgxqvjcJJFQJM07Aqv84) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Op De Set](https://open.spotify.com/album/1VvoOYJPvaI94S1aLCTET5) | 2:43 | 2025-07-17 | 2025-08-29 |

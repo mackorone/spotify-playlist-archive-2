@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 128033,
+  "num_followers": 128045,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAA/R65cJZu021r2RIYg0LRR",
+  "snapshot_id": "aZuYgAAAAAC7NqJAsLlP2Ycu6QLC9OYo",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 283747,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MSD",
-        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "MSD",
-      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
     },
     {
       "added_at": null,

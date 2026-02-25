@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,748 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,770 likes - 74 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

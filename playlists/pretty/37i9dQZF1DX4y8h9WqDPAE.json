@@ -1,6 +1,6 @@
 {
   "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Brent Faiyaz",
-  "num_followers": 1376,
+  "num_followers": 1397,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1489,6 +1489,38 @@
       "url": "https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ"
     },
     {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "TWENTIES",
+        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 171955,
+      "name": "TWENTIES",
+      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
+    },
+    {
+      "added_at": "2025-08-15 07:01:34",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 207950,
+      "name": "Another Baby!",
+      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
+    },
+    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "I Did This To Myself",
@@ -1513,38 +1545,6 @@
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
-      "added_at": "2025-08-15 07:01:34",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 207950,
-      "name": "Another Baby!",
-      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "TWENTIES",
-        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171955,
-      "name": "TWENTIES",
-      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
-    },
-    {
       "added_at": "2025-04-18 05:38:39",
       "album": {
         "name": "KISSING IN PUBLIC",
@@ -1559,38 +1559,6 @@
       "duration_ms": 236635,
       "name": "KISSING IN PUBLIC",
       "url": "https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY"
-    },
-    {
-      "added_at": "2025-11-07 06:39:38",
-      "album": {
-        "name": "have to.",
-        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 207023,
-      "name": "have to.",
-      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
-    },
-    {
-      "added_at": "2025-08-08 07:10:20",
-      "album": {
-        "name": "Hue",
-        "url": "https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1609,20 +1577,52 @@
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
-      "added_at": "2026-01-23 07:13:31",
+      "added_at": "2025-08-08 07:10:20",
       "album": {
-        "name": "Death of Love",
-        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+        "name": "Hue",
+        "url": "https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
         }
       ],
-      "duration_ms": 206028,
-      "name": "Death of Love",
-      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+      "duration_ms": 194666,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ"
+    },
+    {
+      "added_at": "2025-11-07 06:39:38",
+      "album": {
+        "name": "have to.",
+        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "have to.",
+      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+    },
+    {
+      "added_at": "2026-02-20 18:30:52",
+      "album": {
+        "name": "Save The Day (From \"Hoppers\")",
+        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Save The Day - From \"Hoppers\"",
+      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
     },
     {
       "added_at": "2025-09-05 04:00:27",
@@ -1641,20 +1641,20 @@
       "url": "https://open.spotify.com/track/0egBqATpcSau87VeLWdZQt"
     },
     {
-      "added_at": "2026-02-20 18:30:52",
+      "added_at": "2026-01-23 07:13:31",
       "album": {
-        "name": "Save The Day (From \"Hoppers\")",
-        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 172333,
-      "name": "Save The Day - From \"Hoppers\"",
-      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1973,22 +1973,6 @@
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
-      "added_at": "2025-10-03 04:48:40",
-      "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Bloom",
@@ -2003,6 +1987,22 @@
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2453,22 +2453,6 @@
       "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
     },
     {
-      "added_at": "2025-09-26 05:27:01",
-      "album": {
-        "name": "out of body",
-        "url": "https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 175414,
-      "name": "out of body",
-      "url": "https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf"
-    },
-    {
       "added_at": "2025-05-30 04:19:50",
       "album": {
         "name": "Oh Lala",
@@ -2487,6 +2471,22 @@
       "duration_ms": 230031,
       "name": "Oh Lala",
       "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
+    },
+    {
+      "added_at": "2025-09-26 05:27:01",
+      "album": {
+        "name": "out of body",
+        "url": "https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 175414,
+      "name": "out of body",
+      "url": "https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf"
     },
     {
       "added_at": "2025-06-06 05:47:14",
@@ -2617,24 +2617,32 @@
       "url": "https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og"
     },
     {
-      "added_at": "2025-11-14 11:13:06",
+      "added_at": "2026-02-20 18:30:52",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/7LD63gHlqbwIzwMo1yQ6SI"
+        "name": "DMC",
+        "url": "https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
         },
         {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 205543,
-      "name": "Let You Go (feat. K CAMP)",
-      "url": "https://open.spotify.com/track/0y0cBVbszayYRR5JGON18y"
+      "duration_ms": 216666,
+      "name": "DMC",
+      "url": "https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic"
     },
     {
       "added_at": "2025-05-30 04:19:50",
@@ -2655,6 +2663,26 @@
       "duration_ms": 171814,
       "name": "PARTY FAVORS (feat. Big Sean)",
       "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
+    },
+    {
+      "added_at": "2025-11-14 11:13:06",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/7LD63gHlqbwIzwMo1yQ6SI"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "duration_ms": 205543,
+      "name": "Let You Go (feat. K CAMP)",
+      "url": "https://open.spotify.com/track/0y0cBVbszayYRR5JGON18y"
     },
     {
       "added_at": "2025-05-30 04:19:50",
@@ -2711,26 +2739,6 @@
       "duration_ms": 232804,
       "name": "Young Rich & In Love - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "MY FACE HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "IRL (FEAT. SZA)",
-      "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
     }
   ],
   "unique_name": "Channel-X",

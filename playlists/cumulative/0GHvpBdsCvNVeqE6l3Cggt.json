@@ -823,6 +823,28 @@
     },
     {
       "album": {
+        "name": "Like a River in a Storm",
+        "url": "https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg"
+      },
+      "artists": [
+        {
+          "name": "LeLore",
+          "url": "https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U"
+        },
+        {
+          "name": "A.C.C.",
+          "url": "https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193123,
+      "name": "Like a River in a Storm",
+      "url": "https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt"
+    },
+    {
+      "album": {
         "name": "Lose Your Head",
         "url": "https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3"
       },

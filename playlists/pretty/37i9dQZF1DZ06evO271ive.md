@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,402 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,419 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 11 | [SWEET SPOT](https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:05 |
 | 12 | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv) | 2:15 |
 | 13 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
-| 14 | [Baller \(with GloRilla, Sexyy Red & Monaleo\)](https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:24 |
-| 15 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
+| 14 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
+| 15 | [Baller \(with GloRilla, Sexyy Red & Monaleo\)](https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:24 |
 | 16 | [Blue Strips \(feat\. Sexyy Red\) \- Remix](https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Blue Strips \(Remix\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so) | 2:13 |
 | 17 | [U My Everything](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
 | 18 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 45 | [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 |
 | 46 | [Don't Trust Em](https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Trust Em](https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV) | 3:30 |
 | 47 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 |
-| 48 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |
-| 49 | [304](https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [304](https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH) | 2:20 |
+| 48 | [304](https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [304](https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH) | 2:20 |
+| 49 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |
 | 50 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 |
 
-Snapshot ID: `aZpHAAAAAAAfHrqfPBdsqfe99uOxYUi4`
+Snapshot ID: `aZuYgAAAAAAg1H/DH0TMKiv302/hQAx5`

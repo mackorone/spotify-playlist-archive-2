@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,736 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,724 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 44 | [Vœux](https://open.spotify.com/track/64MCBEC3CdR6a3OcdNj7dw) | [D'Orion](https://open.spotify.com/artist/0csAQTC43AL7SH64GJtE7d) | [Vœux](https://open.spotify.com/album/7cN18WXKIdsDizCN1Mz1K8) | 3:51 |
 | 45 | [Désolée pour le bruit](https://open.spotify.com/track/7k0Uh7XlKmYZ0cu93Sz08j) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Désolée pour le bruit](https://open.spotify.com/album/6E36XhssJx05xCU79gmSKp) | 3:38 |
 | 46 | [EN ITALIQUE](https://open.spotify.com/track/3j7xrIlhCH26p0VDT7XGgl) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl) | [EN ITALIQUE](https://open.spotify.com/album/0dmZvJ04fKttjKXJlvfMOi) | 2:55 |
-| 47 | [PRINCE](https://open.spotify.com/track/4fYucR7ilEZpJBiupnDeTE) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn), [KZW](https://open.spotify.com/artist/6gwjBErFF43XpzuE1qB35r) | [PRINCE](https://open.spotify.com/album/0ozBxUQ0LfouBBCuAHCDNT) | 3:29 |
+| 47 | [PRINCE](https://open.spotify.com/track/4fYucR7ilEZpJBiupnDeTE) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn), [KZW](https://open.spotify.com/artist/6gwjBErFF43XpzuE1qB35r), [NOWASTE](https://open.spotify.com/artist/2hYPIWvGNBercGgVL1l6MX) | [PRINCE](https://open.spotify.com/album/0ozBxUQ0LfouBBCuAHCDNT) | 3:29 |
 | 48 | [Amber, mon amour](https://open.spotify.com/track/7ERaCkdSRHkNdoTIrSctrT) | [Linda Helende](https://open.spotify.com/artist/2vJG9GaLxkunJSu7oBh5mO) | [Amber, mon amour](https://open.spotify.com/album/6f8StdKADp1sTMLbsGgm9e) | 3:31 |
 | 49 | [Altare](https://open.spotify.com/track/3wHeHgTnHKHvq7p68TzJjU) | [Nani](https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r) | [Altare](https://open.spotify.com/album/6SlTrCCbIhwul7Ot6rdz1U) | 2:34 |
 | 50 | [Oublie\-la](https://open.spotify.com/track/6nYkwViHahN5octmKo7yrE) | [Tallulah](https://open.spotify.com/artist/2enfI1A3N4CyrreGjAUdD3) | [Oublie\-la](https://open.spotify.com/album/5Erfy0Mwusr6XTKQOrloxm) | 2:12 |

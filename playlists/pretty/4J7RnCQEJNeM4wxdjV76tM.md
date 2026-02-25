@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > old asl
 
-[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 659 songs - 1 day 12 hr 11 min
+[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 660 songs - 1 day 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -667,5 +667,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 657 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
 | 658 | [Obsession](https://open.spotify.com/track/1mK4v6sSCbKR2mMAWG2zMy) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:17 |
 | 659 | [The Hellfire Club](https://open.spotify.com/track/41UyHzuAgQSBH1PZngjE73) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Heroine](https://open.spotify.com/album/5v8sXBKPvCrUryqtmZ2r2U) | 5:06 |
+| 660 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
 
-Snapshot ID: `AAAEV6zzCNOr6e8ooHQ/ZMZgZ2OW4g4p`
+Snapshot ID: `AAAEWDKrWVOulYtM+59SyukNV8OmtpPR`

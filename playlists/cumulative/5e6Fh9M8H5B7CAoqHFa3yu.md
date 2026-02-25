@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,893 songs - 4 day 17 hr 24 min
+1,894 songs - 4 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1788,6 +1788,7 @@
 | [Warrior Dub](https://open.spotify.com/track/0MF0rFPKo8l985uFLgQpmL) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:28 | 2024-05-01 |  |
 | [Wasted Time](https://open.spotify.com/track/7oDD9dSHwFwOIUhQfvjGzT) | [STH](https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K) | [Somewhere In Time](https://open.spotify.com/album/29bJwFNO13M6N0rdhV6qFm) | 4:11 | 2026-02-08 |  |
 | [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 | 2025-12-30 |  |
+| [Way](https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Way](https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS) | 2:47 | 2026-02-24 |  |
 | [we ball](https://open.spotify.com/track/7myDvJcijK8Jzh7hKcjQ19) | [ukiyo!](https://open.spotify.com/artist/0gvFPkzigO3d8zneBQGPkQ) | [we ball](https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6) | 1:29 | 2026-01-04 |  |
 | [We Lived \- Radio Edit](https://open.spotify.com/track/6qlzZSpHoDztlEdlPy2YO9) | [Steve Lee Jefferson](https://open.spotify.com/artist/5VPp8TdbjGnTiXl3BxuVpX) | [We Lived \(Radio Edit\)](https://open.spotify.com/album/7hVA74XJrqhbVw5Uhv75H3) | 3:59 | 2025-05-25 |  |
 | [We Rize](https://open.spotify.com/track/0UbGz7ghXaSO0eg4qmr30V) | [Caspa Clark](https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [We Rize](https://open.spotify.com/album/0LsxEYjEh8BWZdjNOi0rPk) | 3:59 | 2025-10-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Mavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,930 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,046 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

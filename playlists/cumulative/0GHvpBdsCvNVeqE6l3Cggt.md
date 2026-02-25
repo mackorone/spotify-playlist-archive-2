@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-92 songs - 5 hr 31 min
+93 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-12-17 | 2026-01-29 |
 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 | 2026-02-23 |  |
 | [Life Your Way](https://open.spotify.com/track/5Pw8oPIkppU49EQbeiucod) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [Life Your Way](https://open.spotify.com/album/0cVUXU3L0dMwDwNnsSUUU7) | 3:20 | 2026-01-12 | 2026-02-22 |
+| [Like a River in a Storm](https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U), [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Like a River in a Storm](https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg) | 3:13 | 2026-02-24 |  |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-07-26 |  |
 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 | 2021-03-29 |  |
 | [Lunar Soul](https://open.spotify.com/track/2JNS1Wvp2Te7qxdoGsibKl) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:39 | 2025-10-13 |  |

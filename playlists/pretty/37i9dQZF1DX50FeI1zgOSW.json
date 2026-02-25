@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18506,
+  "num_followers": 18509,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGIi2Ce4GMfQDrS+8hpub1EhLHxp",
+  "snapshot_id": "AAAAANOnfBKvrrmc8tB54NlmVQwlGgDc",
   "tracks": [
     {
       "added_at": "2026-01-30 04:48:10",
@@ -31,6 +31,26 @@
       "duration_ms": 192984,
       "name": "Paatha Edathila",
       "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
+    },
+    {
+      "added_at": "2026-02-24 10:56:18",
+      "album": {
+        "name": "Kannala Thakatha",
+        "url": "https://open.spotify.com/album/6LmA6UxbxBP763f06TJERt"
+      },
+      "artists": [
+        {
+          "name": "Kirusanth Edman",
+          "url": "https://open.spotify.com/artist/2kbtFqE0UNvkMyyQVDFLTL"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Kannala Thakatha",
+      "url": "https://open.spotify.com/track/3cCGoJrXV5LAS2uuV8CvEh"
     },
     {
       "added_at": "2026-02-10 05:40:58",

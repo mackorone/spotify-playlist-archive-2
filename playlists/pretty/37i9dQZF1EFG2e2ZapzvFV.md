@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,546 likes - 175 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,545 likes - 175 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 35 | [Still Sane](https://open.spotify.com/track/1Lc4lAA1veVkXuh8O8LQif) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 3:08 |
 | 36 | [Million Dollar Bills](https://open.spotify.com/track/2rRyDXEaZwUkr4DHZpAdRS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 2:18 |
 | 37 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
-| 38 | [Safe](https://open.spotify.com/track/12wAQ0HNbJWVrVJA3woXDb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Safe](https://open.spotify.com/album/0qrB9JjkcCjQQK7S1eFrcX) | 3:20 |
-| 39 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
+| 38 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
+| 39 | [Safe](https://open.spotify.com/track/12wAQ0HNbJWVrVJA3woXDb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Safe](https://open.spotify.com/album/0qrB9JjkcCjQQK7S1eFrcX) | 3:20 |
 | 40 | [Your Bones](https://open.spotify.com/track/7zBg6qxuNUz0mBdr85l6ng) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:39 |
 | 41 | [Biting Down](https://open.spotify.com/track/2bQorkqtGzEJatTcD8I1F0) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:33 |
 | 42 | [CHAMPION](https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 2:53 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 174 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 175 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `AcKeDAAAAABHo4UaY+NW4xuYWIHZ7MmN`
+Snapshot ID: `AcKjygAAAABtCqh+8lmiqyLml2TcRwcB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,133 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,107 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 23 | [No Introduction](https://open.spotify.com/track/0zgcef8wT0O27OI2vPGnB9) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:41 |
 | 24 | [Nettles](https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 8:03 |
 | 25 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
-| 26 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 |
-| 27 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |
+| 26 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |
+| 27 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 |
 | 28 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
 | 29 | [BIRDS](https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:26 |
 | 30 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 69 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 70 | [UNDEFEATED](https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 3:22 |
 | 71 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 |
-| 72 | [Diva](https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj) | 4:16 |
-| 73 | [Still Above](https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:28 |
+| 72 | [Still Above](https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:28 |
+| 73 | [Diva](https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj) | 4:16 |
 | 74 | [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 |
 | 75 | [When Will The Love Rain Down](https://open.spotify.com/track/3gb4jKjy2PG4d5N7kl1qe3) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:43 |
 | 76 | [B A D I D E A](https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [B A D I D E A](https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr) | 1:49 |

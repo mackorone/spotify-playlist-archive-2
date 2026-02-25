@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > The Indie highlights of 2011\. Cover: AWOLNATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,685 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,714 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 25 | [Little Black Submarines](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 4:11 |
 | 26 | [Love is a Laserquest](https://open.spotify.com/track/0S6CXA5LpRDX6b4akgrOot) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:11 |
 | 27 | [I Would Do Anything for You](https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:34 |
-| 28 | [Codex](https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:47 |
-| 29 | [Days](https://open.spotify.com/track/5g7uidL6cVNS7GxcCAXa19) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 4:29 |
+| 28 | [Days](https://open.spotify.com/track/5g7uidL6cVNS7GxcCAXa19) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 4:29 |
+| 29 | [Codex](https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:47 |
 | 30 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 |
 | 31 | [Black Treacle](https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:37 |
 | 32 | [Don't Stop \(Color on the Walls\)](https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 2:54 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 36 | [Don't Sit Down 'Cause I've Moved Your Chair](https://open.spotify.com/track/3czdA0j4iaLDJJCoT5D8iP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:03 |
 | 37 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 38 | [Colours](https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:17 |
-| 39 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
-| 40 | [Lights Out, Words Gone](https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 5:01 |
+| 39 | [Lights Out, Words Gone](https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 5:01 |
+| 40 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
 | 41 | [What The Water Gave Me](https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 5:33 |
 | 42 | [Two Against One \(feat\. Jack White\)](https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Rome](https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A) | 2:20 |
 | 43 | [Corinne](https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 3:16 |
-| 44 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
-| 45 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
+| 44 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
+| 45 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
 | 46 | [Itchin' on a Photograph](https://open.spotify.com/track/01nkjRsgpYwtbH94l7y4cg) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:19 |
 | 47 | [Black \(feat\. Norah Jones\)](https://open.spotify.com/track/5H43dazn2x2O9dkDVvaiDS) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Rome](https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A) | 3:31 |
 | 48 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 77249,
+  "num_followers": 77318,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAACYIIGnj2ULOxOTGc1OiT8g",
+  "snapshot_id": "aZuYgAAAAAB0N0BelwOfmgztJ4QSWFC1",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 133002,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 149573,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr.Trouble",
         "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 122000,
       "name": "Mr.Trouble",
       "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 108133,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Run It",
         "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 163626,
       "name": "Who Run It",
       "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Therapy Session",
-      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 130774,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Tried Everything But Therapy (Complete Edition)",
         "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 163314,
       "name": "All Gas No Brakes (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Stepper",
-        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 130774,
-      "name": "Big Stepper",
-      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
     },
     {
       "added_at": null,

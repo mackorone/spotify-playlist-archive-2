@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > Opted out of strife
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,192 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,201 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 12 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 |
 | 13 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 14 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
-| 15 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [Taves](https://open.spotify.com/artist/1oixR4UOmiql5wGohvF4i7) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 |
+| 15 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 |
 | 16 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 |
 | 17 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 |
 | 18 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |

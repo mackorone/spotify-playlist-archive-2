@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,705 likes - 143 songs - 9 hr 8 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,714 likes - 150 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,12 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 141 | [Madhouse Holiday](https://open.spotify.com/track/6zeZvQfCUgngpOLXqrssXs) | [Methody Nightingale](https://open.spotify.com/artist/2V9RL8G3rCcT0n2H0jdpEw) | [Madhouse Holiday](https://open.spotify.com/album/5ZRaOTR2U8al2Gi7UMn1ny) | 6:43 |
 | 142 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 |
 | 143 | [Inmortal Insanity \- Dark Version](https://open.spotify.com/track/7ytTqo21cMuTaioAoT72wI) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Inmortal Insanity \(Dark Version\)](https://open.spotify.com/album/2ok1vKoigVfSOSv86JvEHD) | 3:45 |
+| 144 | [Kings & Queens](https://open.spotify.com/track/3F5WjDztBiHJFCyiomxW1m) | [EsKIL](https://open.spotify.com/artist/2Gcp9We5VZX6XunRvAnXr0), [Starlunge](https://open.spotify.com/artist/3KhGmNhB6fadHcYqPcT2to) | [Kings & Queens](https://open.spotify.com/album/1Km78h7TfdKLZO6FLHAzjQ) | 2:59 |
+| 145 | [Into the Fire](https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [To Love](https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt) | 4:19 |
+| 146 | [Amer](https://open.spotify.com/track/3xOjr3Wu2IOqnhK3v6xIrc) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:20 |
+| 147 | [Tren del Duende](https://open.spotify.com/track/7vWA6eNTUvjQvZx8HtmsId) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [LUME](https://open.spotify.com/artist/6xc8tjyFxxVYmBlp2slFuW) | [Barcaza Boreal Plus Ultra](https://open.spotify.com/album/28JDXeqpl4jxkA6iXv0OK1) | 4:19 |
+| 148 | [All Night Long](https://open.spotify.com/track/6MaZOeeOYizaXQMHJ4odyR) | [Katarina & Her Poor Fellas](https://open.spotify.com/artist/5Wj6JuGomnb8EWEma2yWoU) | [All Night Long](https://open.spotify.com/album/6HMXhjubwIBkJUV9YZxD2H) | 2:43 |
+| 149 | [Hours after midnight](https://open.spotify.com/track/2KXMKguLfPaOBmMHHGQArX) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 5:44 |
+| 150 | [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 |
 
-Snapshot ID: `AAAKoaaWcYOjGsT8XmO1qhoNn9VuJDuC`
+Snapshot ID: `AAAKqDwL1gDvCDrhD9+AugCncvgZjl8S`

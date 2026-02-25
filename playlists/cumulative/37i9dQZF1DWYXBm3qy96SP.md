@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Twenty One Pilots
 
-1,813 songs - 4 day 8 hr 54 min
+1,814 songs - 4 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-25 | 2023-06-09 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 | 2024-05-10 |
 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-04-12 | 2024-04-19 |
-| [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-26 |  |
+| [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-26 | 2026-02-25 |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-03 |  |
 | [Carnavoyeur](https://open.spotify.com/track/11VOYtYJ0Bstb7QOCDDs5e) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Carnavoyeur](https://open.spotify.com/album/2UB1sEIK8wEhikbkcsIcIn) | 3:56 | 2023-06-01 | 2023-06-22 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 | 2025-06-13 |
@@ -720,6 +720,7 @@
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-23 | 2023-07-28 |
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-04 | 2025-05-02 |
 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 | 2023-03-16 | 2023-03-20 |
+| [Hollow](https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hollow](https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up) | 2:56 | 2026-02-19 |  |
 | [Hollywood \(feat\. BESTIES\)](https://open.spotify.com/track/59o9EdS3KILK36hXJErOw6) | [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P), [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [where’s my guitar?](https://open.spotify.com/album/7z72T1V68FtxFS9B0VBM6F) | 2:46 | 2023-11-23 | 2023-12-01 |
 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-04 | 2024-03-01 |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-16 | 2023-04-29 |

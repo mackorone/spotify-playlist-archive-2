@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:5TuV5KauTXLFX1ODD7mEb0\">metro</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:1lnfnJFVIaKY0wWil9MEG4\">filit</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -1286,6 +1286,24 @@
       "duration_ms": 190476,
       "name": "5 METR\u00d3W",
       "url": "https://open.spotify.com/track/1Yp8KtIMikIKHIwSkj5UR5"
+    },
+    {
+      "album": {
+        "name": "5 na 5",
+        "url": "https://open.spotify.com/album/3zHE9623K2VOnKdWfBw8hr"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "5 na 5",
+      "url": "https://open.spotify.com/track/3WfKy7p5htCKxze6z0uxH4"
     },
     {
       "album": {
@@ -23761,6 +23779,24 @@
     },
     {
       "album": {
+        "name": "Jazgot",
+        "url": "https://open.spotify.com/album/5IXLEbKRTNwIfweHLnknIi"
+      },
+      "artists": [
+        {
+          "name": "filit",
+          "url": "https://open.spotify.com/artist/1lnfnJFVIaKY0wWil9MEG4"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186312,
+      "name": "Jazgot",
+      "url": "https://open.spotify.com/track/4v6HuRh3AVHwUFwf2dCKQM"
+    },
+    {
+      "album": {
         "name": "JEALOUSY Z",
         "url": "https://open.spotify.com/album/6OtL8Z21oVaF0b0ulFLMvN"
       },
@@ -36140,7 +36176,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 218507,
       "name": "MUZA DO WINDY",
       "url": "https://open.spotify.com/track/46vlu6xGMfykQLZmabewux"
@@ -40590,6 +40626,32 @@
       "duration_ms": 163500,
       "name": "Nie zranisz",
       "url": "https://open.spotify.com/track/3QxzjikId6DzicejXtxVNF"
+    },
+    {
+      "album": {
+        "name": "nocami, do \u015bwitu",
+        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
+      },
+      "artists": [
+        {
+          "name": "villaz",
+          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
+        },
+        {
+          "name": "stas kropka",
+          "url": "https://open.spotify.com/artist/7mwWs7UzQdHaTvI66p99x1"
+        },
+        {
+          "name": "connorr",
+          "url": "https://open.spotify.com/artist/09kC6DXxyZ9TMr2THWZLyI"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185025,
+      "name": "nie zrozumiesz!",
+      "url": "https://open.spotify.com/track/62w0zy7AVdRHvgOZJM0C1K"
     },
     {
       "album": {
@@ -45396,7 +45458,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 190000,
       "name": "origami (zagn\u0119)",
       "url": "https://open.spotify.com/track/3vTEkL1YUUfnSn4iR3Gqe1"
@@ -54112,7 +54174,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 268941,
       "name": "rom-com",
       "url": "https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n"
@@ -58170,7 +58232,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 242608,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs"
@@ -60318,7 +60380,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 164687,
       "name": "Sweter",
       "url": "https://open.spotify.com/track/6P1F65xIniGDlbtfsIEVZ7"
@@ -64410,6 +64472,24 @@
       "duration_ms": 191000,
       "name": "to nie jestem ja",
       "url": "https://open.spotify.com/track/0BCMqphzXGvjGhARI2rjDU"
+    },
+    {
+      "album": {
+        "name": "To nie m\u00f3j dzie\u0144",
+        "url": "https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "To nie m\u00f3j dzie\u0144",
+      "url": "https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg"
     },
     {
       "album": {
@@ -77640,6 +77720,24 @@
       "duration_ms": 205222,
       "name": "\u0106ma",
       "url": "https://open.spotify.com/track/1NM1BNTamkvNEG7Ak5R1B6"
+    },
+    {
+      "album": {
+        "name": "\u0106ma",
+        "url": "https://open.spotify.com/album/4omkGdQ9dEw8ujpal6Lwx0"
+      },
+      "artists": [
+        {
+          "name": "Meg Mell",
+          "url": "https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240618,
+      "name": "\u0106ma",
+      "url": "https://open.spotify.com/track/6RLLf19sS5M3DUCBLzV1BK"
     },
     {
       "album": {

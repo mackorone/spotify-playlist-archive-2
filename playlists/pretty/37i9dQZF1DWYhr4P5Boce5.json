@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209426,
+  "num_followers": 209433,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -67,18 +67,22 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Man I Was Made to Be",
-        "url": "https://open.spotify.com/album/32LxXkyg4zBtxvS7KhnwTf"
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/40FxlXi5FH0r5q3Wz0F8a1"
       },
       "artists": [
         {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
         }
       ],
-      "duration_ms": 223609,
-      "name": "Man I Was Made to Be",
-      "url": "https://open.spotify.com/track/4fFj0XIZvqJxuE1BsR5Ltd"
+      "duration_ms": 173023,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/5l7n3eYehOySHFCHGevIMz"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -107,22 +111,18 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/40FxlXi5FH0r5q3Wz0F8a1"
+        "name": "Man I Was Made to Be",
+        "url": "https://open.spotify.com/album/32LxXkyg4zBtxvS7KhnwTf"
       },
       "artists": [
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "Dell Mac",
-          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
         }
       ],
-      "duration_ms": 173023,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/5l7n3eYehOySHFCHGevIMz"
+      "duration_ms": 223609,
+      "name": "Man I Was Made to Be",
+      "url": "https://open.spotify.com/track/4fFj0XIZvqJxuE1BsR5Ltd"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
+        "name": "Days of the week freestyle",
+        "url": "https://open.spotify.com/album/2my496LQAuA8mPeKYRUhmn"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Days of the week freestyle",
+      "url": "https://open.spotify.com/track/2tR7J1tJwGWkRyNDRvGrm4"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
-        "name": "Apple Pie",
-        "url": "https://open.spotify.com/album/0pzsGcbv4f3QVvxsPr06YB"
-      },
-      "artists": [
-        {
-          "name": "Ian Austin",
-          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
-        },
-        {
-          "name": "Heather Suzanne",
-          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
-        }
-      ],
-      "duration_ms": 175761,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/0jeTS9DnVzyHLK8H66yLPD"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -803,22 +803,22 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Days of the week freestyle",
-        "url": "https://open.spotify.com/album/2my496LQAuA8mPeKYRUhmn"
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/0pzsGcbv4f3QVvxsPr06YB"
       },
       "artists": [
         {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+          "name": "Ian Austin",
+          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
         },
         {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
         }
       ],
-      "duration_ms": 162935,
-      "name": "Days of the week freestyle",
-      "url": "https://open.spotify.com/track/2tR7J1tJwGWkRyNDRvGrm4"
+      "duration_ms": 175761,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/0jeTS9DnVzyHLK8H66yLPD"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "This Loving",
-        "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "This Loving",
-      "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Febrero",
         "url": "https://open.spotify.com/album/42sFfS9CDDLsfUD2240fCt"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 228005,
       "name": "Febrero",
       "url": "https://open.spotify.com/track/5ex2d6u0Vj03naIEveIhEP"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "This Loving",
+        "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "This Loving",
+      "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Somewhere In Her Dreams",
-        "url": "https://open.spotify.com/album/32B2j9yBBPTYZbPTsvdZ3G"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 256012,
-      "name": "Somewhere In Her Dreams",
-      "url": "https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/7bfETEY3zXmR2c6e6rnaYd"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 212000,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3GWHYf0nPbs962TqBdRyKC"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "Somewhere In Her Dreams",
+        "url": "https://open.spotify.com/album/32B2j9yBBPTYZbPTsvdZ3G"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 256012,
+      "name": "Somewhere In Her Dreams",
+      "url": "https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
       },
       "artists": [
         {
@@ -1212,25 +1212,9 @@
           "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 246093,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
-        "name": "Cortado",
-        "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 160514,
-      "name": "Cortado",
-      "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1255,6 +1239,22 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "Cortado",
+        "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 160514,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
       },
       "artists": [
         {
@@ -1300,9 +1300,9 @@
           "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
+      "duration_ms": 246093,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
         "name": "With Love, Anike",
         "url": "https://open.spotify.com/album/0LHtU4Hcv2OEfW3xaBHX4p"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "PASSIONATE",
-        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
-      },
-      "artists": [
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "PASSIONATE",
-      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Te Quiero Cerca",
         "url": "https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 227661,
       "name": "Te Quiero Cerca",
       "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "PASSIONATE",
+        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 152842,
+      "name": "PASSIONATE",
+      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
     },
     {
       "added_at": "2026-02-13 12:46:19",

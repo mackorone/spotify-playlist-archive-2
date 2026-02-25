@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Baby Keem
 
-617 songs - 1 day 6 hr 57 min
+618 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 | 2022-09-16 | 2023-12-14 |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-06-27 |  |
 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-21 | 2025-05-30 |
+| [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 | 2026-02-24 |  |
 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2025-03-21 |  |
 | [Grapevines \(feat\. Ca$h Khali\)](https://open.spotify.com/track/2WLhUQhk6FXCPm3Gji1C1q) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Ca$h Khali](https://open.spotify.com/artist/0Gs5hrEypi3Ep1UCOfXuSY) | [Grapevines \(feat\. Ca$h Khali\)](https://open.spotify.com/album/2fkroXvwb7DDRiP2fKK0Fr) | 2:36 | 2025-06-20 | 2025-07-18 |
 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-09-18 | 2025-03-07 |

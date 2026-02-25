@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 546943,
+  "num_followers": 546939,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Idlewild South (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Look At Us",
         "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 190080,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Idlewild South (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hebb",
-          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 161960,
       "name": "Under the Boardwalk",
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Natalie Cole Anthology",
         "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 171360,
       "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
       "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "3+3",
-        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 371701,
-      "name": "Summer Breeze, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Chicago 13 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/3zhMFlaM6YZgETDe5TZlim"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 550706,
       "name": "Street Player - 2003 Remaster",
       "url": "https://open.spotify.com/track/1HiaZTm2nGQL4wtnJLPNV0"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 371701,
+      "name": "Summer Breeze, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
         "name": "Up, Up And Away",
         "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 346760,
       "name": "Hotel California (Spanish Mix)",
       "url": "https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2024-07-14 16:19:42",

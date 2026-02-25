@@ -4,7 +4,7 @@
 
 > Previously known as Runaway
 
-27 songs - 1 hr 40 min
+28 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 | 2024-10-31 |  |
 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:45 | 2024-09-16 |  |
 | [Only One Way](https://open.spotify.com/track/21SpIt80LxhJDMclDkmvu5) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 4:01 | 2023-10-30 | 2024-12-10 |
+| [Orphans](https://open.spotify.com/track/4OhCZOe1g2Dv1RribKsIKK) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Rust](https://open.spotify.com/album/4283oJOD3hPCAoyc3P5irz) | 2:46 | 2026-02-24 |  |
 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 | 2023-11-20 |  |
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2024-04-08 |  |
 | [Rootless](https://open.spotify.com/track/6hq1T4AA4QKz9DChBXHmuh) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels \(Deluxe\)](https://open.spotify.com/album/3vcPZf2pYrjqrHNVkPTDVL) | 3:28 | 2025-07-02 |  |

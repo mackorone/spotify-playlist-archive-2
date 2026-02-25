@@ -1,6 +1,6 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1070388,
+  "num_followers": 1070335,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
         "name": "MTV Unplugged. El Libro De Las Mutaciones",
         "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 291117,
       "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
       "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
     },
     {
       "added_at": "2026-02-12 19:18:10",

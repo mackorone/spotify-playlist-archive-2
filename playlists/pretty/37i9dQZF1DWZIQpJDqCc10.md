@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,073 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,196 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 34 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 35 | [I Would Do Anything for You](https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:34 |
 | 36 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 |
-| 37 | [KISS ME](https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:03 |
-| 38 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
+| 37 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
+| 38 | [KISS ME](https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:03 |
 | 39 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 40 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 41 | [The Book of Love](https://open.spotify.com/track/1xulVUlt4ip3iu2EjrV4ZT) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB) | 2:42 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 72 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 |
 | 73 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
 | 74 | [No Cameras](https://open.spotify.com/track/3gIXEyoSDbkMxI5bnltLjq) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 2:47 |
-| 75 | [A Shot in the Arm](https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 4:19 |
+| 75 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
 
 Snapshot ID: `AAAAAOsZjPTTTW/2xwSyCNABc6nJCIHw`

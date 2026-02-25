@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 
 > Ponle actitud a tu comida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,409 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,891 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 28 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
 | 29 | [Rise Above](https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:26 |
 | 30 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
-| 31 | [Revolution](https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:25 |
-| 32 | [I'm The One](https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:15 |
+| 31 | [I'm The One](https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:15 |
+| 32 | [Revolution](https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:25 |
 | 33 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 34 | [Down in the Past](https://open.spotify.com/track/2vx5Dc3Zxtd5yGDlh2pAAz) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Hurricane Bar](https://open.spotify.com/album/1StsgV2Djw49X5zMj5jztP) | 3:58 |
 | 35 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 45 | [Baby Doncha Know](https://open.spotify.com/track/1fJXgomxf78TlFbhCn7GLf) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Baby Doncha Know](https://open.spotify.com/album/2tnm0wnEIxAQ9jL5VS7p15) | 0:56 |
 | 46 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 47 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 |
-| 48 | [Come Out And Play \(Keep ‘Em Separated\)](https://open.spotify.com/track/0Yb5Kfpf3boElZNa61wPdJ) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:17 |
-| 49 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 |
+| 48 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 |
+| 49 | [Come Out And Play \(Keep ‘Em Separated\)](https://open.spotify.com/track/0Yb5Kfpf3boElZNa61wPdJ) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:17 |
 | 50 | [Disconnected](https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Don't Turn Away](https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4) | 3:27 |
 
 Snapshot ID: `AAAAAKj9t1lkWybyW/gAhwBpfbjzpyNv`

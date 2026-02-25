@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,442 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,441 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Pretty \(feat\. Saweetie\)](https://open.spotify.com/track/1ALk8Otxy5aSYUvJeoZtlo) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [CORINIAN](https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW) | 3:32 |
 | 50 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 |
 
-Snapshot ID: `aZpHAAAAAAC0APk1/QCqf6VWoodIEhA/`
+Snapshot ID: `aZuYgAAAAAAKsG5IEcac/U25jMDJEVT/`

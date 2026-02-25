@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "1000 \u00c1nh M\u1eaft",
       "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
@@ -1633,6 +1633,36 @@
     },
     {
       "album": {
+        "name": "Anh T\u00ean L\u00e0",
+        "url": "https://open.spotify.com/album/3rJa2qD50nUyqjtgKtiOb0"
+      },
+      "artists": [
+        {
+          "name": "Anh B\u1eb1ng",
+          "url": "https://open.spotify.com/artist/4GBykvsDgQheUyYel2RHZN"
+        },
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        },
+        {
+          "name": "Nhism",
+          "url": "https://open.spotify.com/artist/6RmxntH1Shuekv6kGDyGaC"
+        },
+        {
+          "name": "Ann Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/3zGXV6fAhn7uW8LtVtrXpM"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Anh T\u00ean L\u00e0",
+      "url": "https://open.spotify.com/track/1MQoZHbCAoL24LRCqLMnS9"
+    },
+    {
+      "album": {
         "name": "Anh T\u1ef1 Do Nh\u01b0ng C\u00f4 \u0110\u01a1n",
         "url": "https://open.spotify.com/album/3bvrwbi7mFIqOa8XvYTA2L"
       },
@@ -1724,7 +1754,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 245750,
       "name": "Anh \u0110\u00e3 Kh\u00f4ng Bi\u1ebft C\u00e1ch Y\u00eau Em",
       "url": "https://open.spotify.com/track/1hPbWyZnUPaeAWbOSKwkXJ"
@@ -10668,7 +10698,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 275820,
       "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n",
       "url": "https://open.spotify.com/track/5SzJs9cwYXdSm9G3xcXuA2"
@@ -10738,7 +10768,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 354782,
       "name": "H\u01b0 kh\u00f4ng",
       "url": "https://open.spotify.com/track/3A9A7mfVDVm3rrS9SMGhg5"
@@ -17368,7 +17398,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
@@ -23630,7 +23660,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -23706,7 +23736,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"

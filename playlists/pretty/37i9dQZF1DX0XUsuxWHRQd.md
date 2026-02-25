@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Baby Keem, Central Cee and Don Toliver.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,786,173 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,785,415 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 149920,
+  "num_followers": 149941,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAACUyaVEb8IgGFz5dmjnflBJ",
+  "snapshot_id": "aZuYgAAAAADNBYEeFXe5uvV7lPus0uX9",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/4XPrEwXIu8UhlggytlSqPr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 332760,
       "name": "Ocean Planet",
       "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/4XPrEwXIu8UhlggytlSqPr"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Wisdom comes",
-      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
+      "duration_ms": 300960,
+      "name": "The link",
+      "url": "https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 300960,
-      "name": "The link",
-      "url": "https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt"
+      "duration_ms": 145173,
+      "name": "Wisdom comes",
+      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
     }
   ],
   "unique_name": "This Is Gojira",

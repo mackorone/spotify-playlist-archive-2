@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,896 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,937 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 110 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
 | 111 | [P FKN R](https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:18 |
 | 112 | [Soy Peor \- Remix](https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Soy Peor Remix](https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM) | 5:15 |
-| 113 | [Caro](https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:49 |
-| 114 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
+| 113 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
+| 114 | [Caro](https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:49 |
 | 115 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
 | 116 | [Sensualidad](https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Sensualidad](https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY) | 4:57 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 61944,
+  "num_followers": 61950,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAGO4JVABXXM9xBAnRwo80P",
+  "snapshot_id": "aZuYgAAAAACm1lMQHT8QjYbVI3dovUbv",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
       },
       "artists": [
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Laura Jane Grace",
-          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/6KmPsYpaZzZBCXPmiVdiCB"
+      "duration_ms": 186600,
+      "name": "Love Me Two Times",
+      "url": "https://open.spotify.com/track/6HVTLhDdLmBabm7dRtIoaC"
     },
     {
       "added_at": null,
@@ -427,18 +419,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
+        "name": "Bad Reputation (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
       },
       "artists": [
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
         }
       ],
-      "duration_ms": 186600,
-      "name": "Love Me Two Times",
-      "url": "https://open.spotify.com/track/6HVTLhDdLmBabm7dRtIoaC"
+      "duration_ms": 191466,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/6KmPsYpaZzZBCXPmiVdiCB"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182413,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
+      "duration_ms": 213666,
+      "name": "Roadrunner",
+      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
     },
     {
       "added_at": null,
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
+        "name": "Mindsets",
+        "url": "https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO"
       },
       "artists": [
         {
@@ -584,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Roadrunner",
-      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
+      "duration_ms": 195280,
+      "name": "If You're Blue",
+      "url": "https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp"
     },
     {
       "added_at": null,
@@ -607,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mindsets",
-        "url": "https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
       },
       "artists": [
         {
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 195280,
-      "name": "If You're Blue",
-      "url": "https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp"
+      "duration_ms": 345000,
+      "name": "Good Music",
+      "url": "https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Fun, Fun, Fun",
-      "url": "https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
       },
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
       },
       "artists": [
         {
@@ -720,25 +736,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 345000,
-      "name": "Good Music",
-      "url": "https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Reputation (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
+        "name": "Bad Reputation (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ"
+      "duration_ms": 250480,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
     },
     {
       "added_at": null,

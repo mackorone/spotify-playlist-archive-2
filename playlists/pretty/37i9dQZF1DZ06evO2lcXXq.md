@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,000 likes - 42 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,008 likes - 42 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 39 | [Come Back Home](https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Back Home](https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP) | 2:59 |
 | 40 | [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 |
 | 41 | [A Place Called Earth](https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:03 |
-| 42 | [Interlude \#2](https://open.spotify.com/track/2gP165raFMuizgrUh5ymNG) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 0:53 |
+| 42 | [Inherited](https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:08 |
 
-Snapshot ID: `aZpHAAAAAABD0MIg6ki37bj4vj1fo149`
+Snapshot ID: `aZuYgAAAAAA/pR6hh84I5O9Y87cbolKX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,830 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,860 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 5 | [Fuiste Mía](https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:11 |
 | 6 | [Tal Como Eres](https://open.spotify.com/track/5B0TN45dJn3j4j92VluShj) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Tal Como Eres](https://open.spotify.com/album/01FH4gwom3VRLqiv5mjztb) | 3:50 |
 | 7 | [Perdóname](https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 3:20 |
-| 8 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
-| 9 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 |
+| 8 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 |
+| 9 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
 | 10 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 |
 | 11 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 |
 | 12 | [Mujer De Piedra](https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:53 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 30 | [Leyenda Caro Quintero](https://open.spotify.com/track/69G9A49eLm8nLx6cCgLsek) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:37 |
 | 31 | [Ando Bien](https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Asi Es la Vida](https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO) | 2:41 |
 | 32 | [Mono Verde](https://open.spotify.com/track/4ME4N9vRZvk29ICuNunlHk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 3:02 |
-| 33 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
-| 34 | [El Comando del Diablo](https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Al Frente y de Frente](https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c) | 2:30 |
+| 33 | [El Comando del Diablo](https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Al Frente y de Frente](https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c) | 2:30 |
+| 34 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
 | 35 | [Amado Carrillo](https://open.spotify.com/track/7pf6MMhKRoKVc7JR6SsTgP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Amado Carrillo](https://open.spotify.com/album/7GpDCavtQXcXwjTJ1R59dE) | 2:59 |
 | 36 | [A La Moda](https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:06 |
 | 37 | [Me Voy](https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [El Ejemplar](https://open.spotify.com/track/5CDt26cBTTD90wyM5oMZ8I) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Ejemplar](https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW) | 2:36 |
 | 50 | [Por Ahí, Por Ahí](https://open.spotify.com/track/2nlSXEs9hETAlXCjZbnNvh) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Por Ahí, Por Ahí](https://open.spotify.com/album/41KOsqoNOP6XhNBtY3yqi8) | 2:37 |
 
-Snapshot ID: `aZpHAAAAAACaDMvgsjmB0AudWwH1s+Vn`
+Snapshot ID: `aZuYgAAAAAB58RQylI2BlW+dVOqdT+AD`

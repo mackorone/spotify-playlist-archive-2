@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,729 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,705 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 38 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 |
 | 39 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
 | 40 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
-| 41 | [Tres Hermanos \[Feat\. Dan Auerbach\]](https://open.spotify.com/track/7CiBrNzJrRDCx0viAECy3e) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:21 |
-| 42 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 |
+| 41 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 |
+| 42 | [Tres Hermanos \[Feat\. Dan Auerbach\]](https://open.spotify.com/track/7CiBrNzJrRDCx0viAECy3e) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:21 |
 | 43 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 44 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
 | 45 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 86 | [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 |
 | 87 | [Is There a Place I Can Go](https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Junkyard Jazz](https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP) | 4:38 |
 | 88 | [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 |
-| 89 | [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 |
-| 90 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
-| 91 | [everybody's baby](https://open.spotify.com/track/4dzjJbuY2mXjpRt7MAHVMv) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [everybody's baby](https://open.spotify.com/album/3TpTQ1JQ3IarLfmUZ4tQmx) | 4:02 |
+| 89 | [everybody's baby](https://open.spotify.com/track/4dzjJbuY2mXjpRt7MAHVMv) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [everybody's baby](https://open.spotify.com/album/3TpTQ1JQ3IarLfmUZ4tQmx) | 4:02 |
+| 90 | [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 |
+| 91 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 92 | [Lemon Garland](https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 3:11 |
 | 93 | [Living in the City is so Beautiful](https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [Fragile Plane: B\-Sides](https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs) | 4:10 |
 | 94 | [If We Make It Through December](https://open.spotify.com/track/2TbmStBMTF3Nhwf7Jullfe) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 2:59 |

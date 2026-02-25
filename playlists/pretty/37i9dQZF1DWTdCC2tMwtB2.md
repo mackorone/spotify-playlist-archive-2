@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,915 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,149 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 42 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 |
 | 43 | [Tu Ru Ruu](https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Ru Ruu](https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG) | 3:05 |
 | 44 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
-| 45 | [Assi Sajna](https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Assi Sajna](https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U) | 3:03 |
+| 45 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
 | 46 | [O Beliya](https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 2:58 |
-| 47 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
+| 47 | [Assi Sajna](https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Assi Sajna](https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U) | 3:03 |
 | 48 | [Khileya](https://open.spotify.com/track/0WvjrHwSrm0ZfhRGje2j2W) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI) | [Khileya](https://open.spotify.com/album/5BZYnWSy80FLmuF0bAzZdf) | 2:43 |
 | 49 | [Lahore](https://open.spotify.com/track/5aw6a4ZzgCe92pV6ODc8vC) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Lahore](https://open.spotify.com/album/6jIvjCJshM306VtQvNep4N) | 3:17 |
 | 50 | [Qismat Badal Di \(From "Yodha"\)](https://open.spotify.com/track/30YqoekCI5XuWys0rD9lLL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Qismat Badal Di \(From "Yodha"\)](https://open.spotify.com/album/0OyxPr9bfW719KqosBiMqu) | 5:09 |

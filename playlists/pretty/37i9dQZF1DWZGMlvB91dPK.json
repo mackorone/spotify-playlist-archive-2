@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3861,
+  "num_followers": 3860,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "eye 2 eye",
-        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Kimera",
-          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "eye 2 eye",
-      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "To Get Fucked Up",
         "url": "https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 249601,
       "name": "To Get Fucked Up",
       "url": "https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "eye 2 eye",
+        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "eye 2 eye",
+      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "INSURGENCIA",
-        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
-      },
-      "artists": [
-        {
-          "name": "Caos.808",
-          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "INSURGENCIA",
-      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "SAM",
         "url": "https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 290002,
       "name": "SAM",
       "url": "https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "INSURGENCIA",
+        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
+      },
+      "artists": [
+        {
+          "name": "Caos.808",
+          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "INSURGENCIA",
+      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
     },
     {
       "added_at": "2025-11-20 17:00:08",

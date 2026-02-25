@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 803166,
+  "num_followers": 803441,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Your Love Is My Drug",
-      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Your Love Is My Drug",
+      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
     },
     {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
       "added_at": "2024-12-13 05:00:35",
       "album": {
         "name": "rosie",
@@ -667,6 +651,22 @@
       "duration_ms": 133113,
       "name": "drinks or coffee",
       "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -865,26 +865,6 @@
       "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
-      "added_at": "2024-11-11 18:08:23",
-      "album": {
-        "name": "Supernova Love",
-        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 199504,
-      "name": "Supernova Love",
-      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
-    },
-    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Love. Angel. Music. Baby. (Deluxe Version)",
@@ -903,6 +883,26 @@
       "duration_ms": 222360,
       "name": "Bubble Pop Electric",
       "url": "https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf"
+    },
+    {
+      "added_at": "2024-11-11 18:08:23",
+      "album": {
+        "name": "Supernova Love",
+        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 199504,
+      "name": "Supernova Love",
+      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Ice Cream (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 232933,
       "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Ice Cream (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
     },
     {
       "added_at": "2024-08-03 15:31:45",

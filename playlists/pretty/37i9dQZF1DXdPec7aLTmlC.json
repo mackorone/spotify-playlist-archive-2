@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6343481,
+  "num_followers": 6343353,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "If We Ever Broke Up",
-        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
-      },
-      "artists": [
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "If We Ever Broke Up",
-      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Jalebi Baby (Tesher x Jason Derulo)",
         "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 169154,
       "name": "Jalebi Baby (Tesher x Jason Derulo)",
       "url": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "2step",
+      "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "2step",
-      "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1855,26 +1855,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
       "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
         {
           "name": "Calvin Harris",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+      "duration_ms": 229604,
+      "name": "I'm Not Here To Make Friends",
+      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
     }
   ],
   "unique_name": "Happy Hits!",

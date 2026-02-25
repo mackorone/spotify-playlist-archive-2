@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,781 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,783 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 37 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 |
 | 38 | [Auld Lang Syne](https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Auld Lang Syne](https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y) | 4:22 |
 | 39 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |
-| 40 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
-| 41 | [Send Me Out Like Autumn](https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR) | [Send Me Out Like Autumn](https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ) | 3:53 |
+| 40 | [Send Me Out Like Autumn](https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR) | [Send Me Out Like Autumn](https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ) | 3:53 |
+| 41 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
 | 42 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 |
 | 43 | [Simple Gifts](https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Simple Gifts](https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg) | 1:12 |
 | 44 | [The Christmas Song](https://open.spotify.com/track/2Ce03QU0b8QO5tQ71Tx61R) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Happier New Year / The Christmas Song](https://open.spotify.com/album/67xMVShPvIgH18AdCP6OCx) | 3:09 |

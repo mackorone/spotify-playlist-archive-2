@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 210906,
       "name": "3 Romances, Op. 11: I. Andante",
       "url": "https://open.spotify.com/track/2UG8jOje2Ug4oUA3H9aPoW"
@@ -172,6 +172,28 @@
       "duration_ms": 276712,
       "name": "3 Romances, Op. 11: III. Moderato",
       "url": "https://open.spotify.com/track/6sTxsqfSTKfCtg5SzbCxwY"
+    },
+    {
+      "album": {
+        "name": "Eternal Clara",
+        "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Carl Schwarz",
+          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343469,
+      "name": "3 Romances, Op. 21: No. 1 in a Minor",
+      "url": "https://open.spotify.com/track/7cvvshWVmVRoRQxRPioFgF"
     },
     {
       "album": {
@@ -894,7 +916,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 393462,
       "name": "Piano Trio in G Minor, Op. 17: III. Andante",
       "url": "https://open.spotify.com/track/7jM8fEZOUvvWRWunRddlcH"
@@ -1346,7 +1368,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 369880,
       "name": "Sonata in G Minor: I. Allegro",
       "url": "https://open.spotify.com/track/7dFWxHqtehbfIr3gKro77j"
@@ -1768,7 +1790,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 79969,
       "name": "\u201cSie Liebten Sich Beide\u201d (Heine)",
       "url": "https://open.spotify.com/track/4WdD7Wq0BhBC8m1VEsNvvS"

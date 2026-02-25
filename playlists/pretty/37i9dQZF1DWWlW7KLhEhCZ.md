@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: FAB GODAMN
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,142 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,132 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 69 | [PASSATEMPO](https://open.spotify.com/track/4IzK7d8qGYbayLCsuFREgM) | [Mutu](https://open.spotify.com/artist/2zaJ5dcTYYWHTeyMV0HeQL), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [ATLETA](https://open.spotify.com/album/3LUjklkB8HEbGYGQ6gGXQ6) | 2:46 |
 | 70 | [TAROT](https://open.spotify.com/track/2kwYuUjR1v4mACFb9fdVmn) | [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Noites em Claro Antes Dos Flash \(Vol.1\)](https://open.spotify.com/album/7lGKWrKUxYyk8CQ97jCCPm) | 2:57 |
 | 71 | [Sete](https://open.spotify.com/track/1tmoqyxKzo7VvkjanAxadT) | [Lelo](https://open.spotify.com/artist/7aIQvpghsvNZpGCSn9XAl6), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sete](https://open.spotify.com/album/1DltE24SgZy7IZCtjNPWdk) | 2:13 |
-| 72 | [COMUM](https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Murilo Barua Silva](https://open.spotify.com/artist/66ovAZ6xL4UmyQ2zX22tXw), [Kyu](https://open.spotify.com/artist/47x0E5z39Me6o8rJ1o4wc9) | [COMUM](https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi) | 3:04 |
+| 72 | [COMUM](https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V) | [COMUM](https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi) | 3:04 |
 | 73 | [AURORA](https://open.spotify.com/track/5v6rdzclNyCO6ZcoNwrFtx) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [AURORA](https://open.spotify.com/album/26ZRnHDIpuA2UuWF9qq3wA) | 1:53 |
 | 74 | [Carnavalesca](https://open.spotify.com/track/75j0nsc6JU9D1a8oVJk57P) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Bena](https://open.spotify.com/artist/7ay8X74qIVNpiJMTwKprCR) | [Carnavalesca](https://open.spotify.com/album/0bMFESoU2mzbZuyWZXmbSO) | 1:54 |
 | 75 | [Lado Safada](https://open.spotify.com/track/1GNTDhxbfQ2e6K6LHcNNV8) | [DT](https://open.spotify.com/artist/5RQK5IiW5PBJJHg0VB7PU8), [thefatobrn](https://open.spotify.com/artist/4D92uMwFhibOJacwevOohK), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Lado Safada](https://open.spotify.com/album/2zytKTD0jvuCLmPFJxHulE) | 2:25 |

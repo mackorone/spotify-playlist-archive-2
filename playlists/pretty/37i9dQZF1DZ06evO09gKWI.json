@@ -1,12 +1,12 @@
 {
   "description": "This is Bivolt. The essential tracks, all in one playlist.",
-  "num_followers": 413,
+  "num_followers": 414,
   "original_name": "This Is Bivolt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAACVTatd8Pi4vfBfG6Ie7fFu",
+  "snapshot_id": "aZuYgAAAAACgamHU8Z44FWVqpLFQCdiI",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Me Salva",
+      "url": "https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Za\u00edra King",
         "url": "https://open.spotify.com/album/443mS5KhlW354vusLtN31W"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 223647,
       "name": "Aquela Paz",
       "url": "https://open.spotify.com/track/2uIk12q1BdBNPTdnHybRmo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bivolt",
-        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Me Salva",
-      "url": "https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olha pra Mim",
+        "url": "https://open.spotify.com/album/5kMOd6mjawcIVx33mQpkOl"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 231363,
+      "name": "Olha pra Mim",
+      "url": "https://open.spotify.com/track/5sR1xWyEayjOvtbHING1Pp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nitro",
         "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olha pra Mim",
-        "url": "https://open.spotify.com/album/5kMOd6mjawcIVx33mQpkOl"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 231363,
-      "name": "Olha pra Mim",
-      "url": "https://open.spotify.com/track/5sR1xWyEayjOvtbHING1Pp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bivolt",
         "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
       },
@@ -511,6 +511,26 @@
       "duration_ms": 188571,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/7oB9m389ePdiZSg0b2sO74"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origens",
+        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
+      },
+      "artists": [
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 195097,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
     },
     {
       "added_at": null,
@@ -563,26 +583,6 @@
       "duration_ms": 137450,
       "name": "Raspa Placa",
       "url": "https://open.spotify.com/track/67vSSq4PsZZksXIWROcghR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Origens",
-        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
-      },
-      "artists": [
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 195097,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
     },
     {
       "added_at": null,
@@ -695,6 +695,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Senta Aqui",
+        "url": "https://open.spotify.com/album/1dBu2lZSOD078KkRc6XLqQ"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Senta Aqui",
+      "url": "https://open.spotify.com/track/4oRfkAIaLWCpdGnbPAywPE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e1 na Quebrada",
         "url": "https://open.spotify.com/album/3963cMjeQJL3N278ax8twb"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 360000,
       "name": "L\u00e1 na Quebrada",
       "url": "https://open.spotify.com/track/30rKkDORVEkgrUTPKMoqfK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Senta Aqui",
-        "url": "https://open.spotify.com/album/1dBu2lZSOD078KkRc6XLqQ"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Senta Aqui",
-      "url": "https://open.spotify.com/track/4oRfkAIaLWCpdGnbPAywPE"
     },
     {
       "added_at": null,
@@ -1027,22 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/3Oyr3gs5oIolpIoZW0TQVi"
+        "name": "Papo Reto",
+        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
       },
       "artists": [
         {
-          "name": "Mr Break",
-          "url": "https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf"
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 269871,
-      "name": "Condi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3uNLAshZcg9ybuceymIln0"
+      "duration_ms": 192499,
+      "name": "Papo Reto",
+      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/3Oyr3gs5oIolpIoZW0TQVi"
+      },
+      "artists": [
+        {
+          "name": "Mr Break",
+          "url": "https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 269871,
+      "name": "Condi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3uNLAshZcg9ybuceymIln0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crypto Reggae",
         "url": "https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj"
       },
@@ -1155,22 +1175,6 @@
       "duration_ms": 182559,
       "name": "Palam Gang",
       "url": "https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vista Loka",
-        "url": "https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "Vista Loka",
-      "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"
     }
   ],
   "unique_name": "This Is Bivolt",

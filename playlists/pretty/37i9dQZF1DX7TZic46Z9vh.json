@@ -1,6 +1,6 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 45869,
+  "num_followers": 45871,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
-        "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
-      },
-      "artists": [
-        {
-          "name": "Los Dug Dug's",
-          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Cambia, Cambia",
-      "url": "https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 3)",
         "url": "https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 154720,
       "name": "Boom! Boom! Boom!",
       "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
+        "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
+      },
+      "artists": [
+        {
+          "name": "Los Dug Dug's",
+          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Cambia, Cambia",
+      "url": "https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "El Ritual",
-        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
-      },
-      "artists": [
-        {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
-        }
-      ],
-      "duration_ms": 234498,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
         "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 149440,
       "name": "Nati Bati Yi",
       "url": "https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
+      },
+      "artists": [
+        {
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+        }
+      ],
+      "duration_ms": 234498,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
     },
     {
       "added_at": "2024-04-05 19:11:35",

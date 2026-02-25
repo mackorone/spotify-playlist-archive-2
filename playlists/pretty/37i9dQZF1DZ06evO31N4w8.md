@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,200 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,215 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 30 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 31 | [¿Y Ahora Que?](https://open.spotify.com/track/222ealJk2LBZ56PX07GuLL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 3:26 |
 | 32 | [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 |
-| 33 | [Una Mujer Como Tú](https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:09 |
-| 34 | [El Golpe Traidor](https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:34 |
+| 33 | [El Golpe Traidor](https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:34 |
+| 34 | [Una Mujer Como Tú](https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:09 |
 | 35 | [Es por Eso Que Te Quiero](https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 3:07 |
 | 36 | [Estabas Tan Linda](https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:42 |
 | 37 | [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Falsa y Mancornadora](https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:51 |
 | 50 | [Aunque Mal Paguen Ellas](https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:42 |
 
-Snapshot ID: `aZpHAAAAAABNkHp97Cl9wHtNsHB8UkYx`
+Snapshot ID: `aZuYgAAAAACkp0i4APDoxEbCshfR/fM4`

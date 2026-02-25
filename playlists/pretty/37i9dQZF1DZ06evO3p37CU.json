@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAB22+qrXAY9j6qKCCkVMA8v",
+  "snapshot_id": "aZuYgAAAAABYjgF+mHvQtlZKCg1F59zy",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 410733,
       "name": "Opium (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 247971,
+      "name": "LIE TO ME",
+      "url": "https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 202500,
       "name": "You Comfort Me",
       "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 247971,
-      "name": "LIE TO ME",
-      "url": "https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Fear No More (Remix)",
+        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "No Fear No More (Remix)",
+      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 196493,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Fear No More (Remix)",
-        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "No Fear No More (Remix)",
-      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 203419,
-      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
-      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 203419,
+      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
+      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
     },
     {
       "added_at": null,

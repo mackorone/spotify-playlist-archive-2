@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 154308,
+  "num_followers": 154336,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 206367,
+      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Esto es Otra Cosa",
         "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 231013,
       "name": "Nueva Temporada",
       "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 206367,
-      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
       },
@@ -719,26 +703,38 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Cartelera",
-        "url": "https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
       },
       "artists": [
         {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "Itz waidi",
-          "url": "https://open.spotify.com/artist/3nWKHkpIooRuZDrxQt2mJt"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 195121,
-      "name": "Cartelera",
-      "url": "https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2"
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Prepararse para la Buena",
+        "url": "https://open.spotify.com/album/7oEHPS2X62dX0izKEwVU65"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        },
+        {
+          "name": "Alex Batista",
+          "url": "https://open.spotify.com/artist/0swJn1dnQPnsuPOGvwjOFx"
+        }
+      ],
+      "duration_ms": 176437,
+      "name": "Prepararse para la Buena",
+      "url": "https://open.spotify.com/track/1FQoR8pCLfPiagLG8YcdQB"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -763,22 +759,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Prepararse para la Buena",
-        "url": "https://open.spotify.com/album/7oEHPS2X62dX0izKEwVU65"
+        "name": "Cartelera",
+        "url": "https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF"
       },
       "artists": [
         {
-          "name": "Germ\u00e1n Barcel\u00f3",
-          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
         },
         {
-          "name": "Alex Batista",
-          "url": "https://open.spotify.com/artist/0swJn1dnQPnsuPOGvwjOFx"
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Itz waidi",
+          "url": "https://open.spotify.com/artist/3nWKHkpIooRuZDrxQt2mJt"
         }
       ],
-      "duration_ms": 176437,
-      "name": "Prepararse para la Buena",
-      "url": "https://open.spotify.com/track/1FQoR8pCLfPiagLG8YcdQB"
+      "duration_ms": 195121,
+      "name": "Cartelera",
+      "url": "https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Para Mi Familia",
-        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 235132,
-      "name": "Para Mi Familia",
-      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Un Gran Dia",
         "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 139428,
       "name": "Un Gran Dia",
       "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Para Mi Familia",
+        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 235132,
+      "name": "Para Mi Familia",
+      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Pero Tengo a Cristo (Remix)",
         "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 221350,
       "name": "Pero Tengo a Cristo - Remix",
       "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Siempre y Nunca",
-        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
-      },
-      "artists": [
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Siempre y Nunca",
-      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Lo Mejor De La Vida (Cumbia Remix)",
         "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
       },
@@ -1423,22 +1403,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Yo Soy Cristiano",
-        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
+        "name": "Siempre y Nunca",
+        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
       "artists": [
         {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
         },
         {
-          "name": "La Cuarta Tribu",
-          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
         }
       ],
-      "duration_ms": 203368,
-      "name": "Yo Soy Cristiano",
-      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
+      "duration_ms": 153786,
+      "name": "Siempre y Nunca",
+      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Yo Soy Cristiano",
+        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        },
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        }
+      ],
+      "duration_ms": 203368,
+      "name": "Yo Soy Cristiano",
+      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "SE\u00d1ALES",
         "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 135737,
       "name": "TE ENCONTRE",
       "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Vers\u00e1til, Vol. 2",
-        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Me Voy Con \u00c9l",
-      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
+        "name": "Vers\u00e1til, Vol. 2",
+        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
       },
       "artists": [
         {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
         }
       ],
-      "duration_ms": 238695,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
+      "duration_ms": 139500,
+      "name": "Me Voy Con \u00c9l",
+      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1555,6 +1539,22 @@
       "duration_ms": 209316,
       "name": "Del Agua Al Cielo",
       "url": "https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "duration_ms": 238695,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "me fui a ser feliz",
-        "url": "https://open.spotify.com/album/2LeMo0agwIm1ihaovI1yMu"
-      },
-      "artists": [
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0HiTJAzjdiNlaeQZwQvgP9"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Fiesta En El Cielo",
         "url": "https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "me fui a ser feliz",
+        "url": "https://open.spotify.com/album/2LeMo0agwIm1ihaovI1yMu"
+      },
+      "artists": [
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0HiTJAzjdiNlaeQZwQvgP9"
     },
     {
       "added_at": "2025-12-12 22:35:42",

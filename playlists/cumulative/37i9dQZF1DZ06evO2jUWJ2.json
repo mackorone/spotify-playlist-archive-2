@@ -163,6 +163,32 @@
     },
     {
       "album": {
+        "name": "SO BE IT",
+        "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394321,
+      "name": "Call God",
+      "url": "https://open.spotify.com/track/59IdtwA4xwAXOq6eID9OE4"
+    },
+    {
+      "album": {
         "name": "Lo Har\u00e1s Otra Vez",
         "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
       },
@@ -1598,7 +1624,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 293702,
       "name": "Vida aos Sepulcros",
       "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"

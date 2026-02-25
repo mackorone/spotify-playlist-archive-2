@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 93982,
+  "num_followers": 94000,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAA+cox8/UAE12k8PJF0ysuV",
+  "snapshot_id": "aZuYgAAAAADtUANwWW/0ka71n4O1t8Fl",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 282696,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Local Motion",
         "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 232160,
       "name": "Warning (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 282696,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Walking in My Shoes",
-      "url": "https://open.spotify.com/track/2LvZ1yfVNjQDUPDVQJy0ZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Me Easy",
         "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Walking in My Shoes",
+      "url": "https://open.spotify.com/track/2LvZ1yfVNjQDUPDVQJy0ZL"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "Moon Palace",
-      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 323068,
       "name": "Old Sunrise",
       "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 176399,
+      "name": "Moon Palace",
+      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Melissa Carper & Theo Lawrence
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,012 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,016 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 64 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
 | 65 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 |
 | 66 | [Goodbye San Antonio, Hello Amsterdam](https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM) | [Garrett T\. Capps](https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv) | [En Los Shadows de San Antone](https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056) | 3:05 |
-| 67 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
-| 68 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 |
+| 67 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 |
+| 68 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
 | 69 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
 | 70 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Love All Night \(Work All Day\)](https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt) | 3:33 |
 | 71 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 78 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
 | 79 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
 | 80 | [Long Haul](https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:01 |
-| 81 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |
-| 82 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
+| 81 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
+| 82 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |
 | 83 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 |
 | 84 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
 | 85 | [Howard Hughes Blues](https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 2:50 |

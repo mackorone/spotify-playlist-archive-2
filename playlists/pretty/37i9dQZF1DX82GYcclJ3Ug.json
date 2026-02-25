@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Alemeda",
-  "num_followers": 1203854,
+  "num_followers": 1203760,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIiCDN6eZchI4gKM5eeGBoew/wbe",
+  "snapshot_id": "AAAAACpOrdJoAo5HwtpSj/2qUYGLsOoe",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:39",
@@ -979,38 +979,6 @@
     {
       "added_at": "2026-02-20 05:00:39",
       "album": {
-        "name": "Cool",
-        "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 158688,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
-        "name": "DON'T BREAK",
-        "url": "https://open.spotify.com/album/3S6npOa9VWV12xCewdMhf3"
-      },
-      "artists": [
-        {
-          "name": "ZEP",
-          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "DON\u2019T BREAK",
-      "url": "https://open.spotify.com/track/2kHzXBf6d59dzm63kUa9xE"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
         "name": "TWICE",
         "url": "https://open.spotify.com/album/29cUGht8DCeDQ9DDTVHlZG"
       },
@@ -1039,22 +1007,6 @@
       "duration_ms": 227798,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/1tMn280xzYU4NdTe0kpPOh"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
-        "name": "Legs In A Snare",
-        "url": "https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H"
-      },
-      "artists": [
-        {
-          "name": "Lip Critic",
-          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
-        }
-      ],
-      "duration_ms": 194538,
-      "name": "Legs In A Snare",
-      "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
     },
     {
       "added_at": "2026-02-20 05:00:39",
@@ -1103,22 +1055,6 @@
     {
       "added_at": "2026-02-20 05:00:39",
       "album": {
-        "name": "DANCE...",
-        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 236041,
-      "name": "DANCE... - Edit",
-      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
         "name": "Fuck It Up (feat. Declan McKenna)",
         "url": "https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP"
       },
@@ -1155,6 +1091,54 @@
     {
       "added_at": "2026-02-20 05:00:39",
       "album": {
+        "name": "REAL ESTATE",
+        "url": "https://open.spotify.com/album/1vFfrvUkFMkS0B46gd0w9h"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "duration_ms": 238669,
+      "name": "REAL ESTATE",
+      "url": "https://open.spotify.com/track/1SCx6sQ9Vme9hjHM3cRfei"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
+        "name": "ASSIGNMENT",
+        "url": "https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c"
+      },
+      "artists": [
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        }
+      ],
+      "duration_ms": 143891,
+      "name": "ASSIGNMENT",
+      "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
+        "name": "STAMPEDE",
+        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "STAMPEDE",
+      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
         "name": "Tongue",
         "url": "https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf"
       },
@@ -1171,6 +1155,26 @@
     {
       "added_at": "2026-02-20 05:00:39",
       "album": {
+        "name": "Site Unseen",
+        "url": "https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 166248,
+      "name": "Site Unseen",
+      "url": "https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
         "name": "Death Punch",
         "url": "https://open.spotify.com/album/7lXuabjE2Qm85E17QZlEWF"
       },
@@ -1183,6 +1187,38 @@
       "duration_ms": 155331,
       "name": "Death Punch",
       "url": "https://open.spotify.com/track/3LCDYEISvX2IRlb2xOxqli"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
+        "name": "Legs In A Snare",
+        "url": "https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "duration_ms": 194538,
+      "name": "Legs In A Snare",
+      "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
+        "name": "Not Around Anymore",
+        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Not Around Anymore",
+      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
     },
     {
       "added_at": "2026-02-20 05:00:39",
@@ -1223,22 +1259,6 @@
     {
       "added_at": "2026-02-20 05:00:39",
       "album": {
-        "name": "Not Around Anymore",
-        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Not Around Anymore",
-      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
         "name": "No Love Lost to Kindness",
         "url": "https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6"
       },
@@ -1255,6 +1275,38 @@
     {
       "added_at": "2026-02-20 05:00:39",
       "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 158688,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
+        "name": "DON'T BREAK",
+        "url": "https://open.spotify.com/album/3S6npOa9VWV12xCewdMhf3"
+      },
+      "artists": [
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "DON\u2019T BREAK",
+      "url": "https://open.spotify.com/track/2kHzXBf6d59dzm63kUa9xE"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
         "name": "In Twos",
         "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
       },
@@ -1267,26 +1319,6 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
-        "name": "Site Unseen",
-        "url": "https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 166248,
-      "name": "Site Unseen",
-      "url": "https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA"
     },
     {
       "added_at": "2026-02-20 05:00:39",
@@ -1339,18 +1371,18 @@
     {
       "added_at": "2026-02-20 05:00:39",
       "album": {
-        "name": "ASSIGNMENT",
-        "url": "https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c"
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
       },
       "artists": [
         {
-          "name": "Power Snatch",
-          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 143891,
-      "name": "ASSIGNMENT",
-      "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
+      "duration_ms": 236041,
+      "name": "DANCE... - Edit",
+      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
     },
     {
       "added_at": "2026-02-20 05:00:39",
@@ -1367,22 +1399,6 @@
       "duration_ms": 185603,
       "name": "for your love",
       "url": "https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
-        "name": "STAMPEDE",
-        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "STAMPEDE",
-      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
     },
     {
       "added_at": "2026-02-20 05:00:39",
@@ -1787,22 +1803,6 @@
       "duration_ms": 225390,
       "name": "Grains Of Sand",
       "url": "https://open.spotify.com/track/5XjL0EcG5pNUWOXM9LnpyO"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
-        "name": "REAL ESTATE",
-        "url": "https://open.spotify.com/album/1vFfrvUkFMkS0B46gd0w9h"
-      },
-      "artists": [
-        {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
-        }
-      ],
-      "duration_ms": 238669,
-      "name": "REAL ESTATE",
-      "url": "https://open.spotify.com/track/1SCx6sQ9Vme9hjHM3cRfei"
     },
     {
       "added_at": "2026-02-20 05:00:39",

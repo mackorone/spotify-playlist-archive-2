@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,394 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,477 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 24 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
 | 25 | [Circles](https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 2:50 |
 | 26 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 |
-| 27 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
-| 28 | [Thoughts from a Balcony](https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey) | 3:05 |
+| 27 | [Thoughts from a Balcony](https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey) | 3:05 |
+| 28 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
 | 29 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 |
 | 30 | [Soulmate](https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:32 |
 | 31 | [Donald Trump](https://open.spotify.com/track/5yzE4vbZgPGEfUegXl8Qzl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/5udEb3kxbEPnD0TUaswA7N) | 2:44 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 41 | [Kool Aid & Frozen Pizza](https://open.spotify.com/track/3932AyOIsoMQwKjFqaSg4R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru) | 2:37 |
 | 42 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 43 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
-| 44 | [Clubhouse](https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:00 |
-| 45 | [Life](https://open.spotify.com/track/3QCO2C8SougLIlfSGqvnHD) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Live From Space](https://open.spotify.com/album/4PIsExpUeEzF6qJcKc95Yb) | 3:15 |
+| 44 | [Life](https://open.spotify.com/track/3QCO2C8SougLIlfSGqvnHD) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Live From Space](https://open.spotify.com/album/4PIsExpUeEzF6qJcKc95Yb) | 3:15 |
+| 45 | [Clubhouse](https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:00 |
 | 46 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 |
 | 47 | [Funeral](https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:43 |
-| 48 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 |
-| 49 | [Cable Box](https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 4:43 |
+| 48 | [Cable Box](https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 4:43 |
+| 49 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 |
 | 50 | [The Mourning After](https://open.spotify.com/track/17u8liQfMVc8WKiTzmdbzq) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey) | 3:08 |
 
-Snapshot ID: `aZpHAAAAAACN+MVS+vi7s1nFs6MA+oOq`
+Snapshot ID: `aZuYgAAAAABY5NC8S+plcWDeC/Q7xMwL`

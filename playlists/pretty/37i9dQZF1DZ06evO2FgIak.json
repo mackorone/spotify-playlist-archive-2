@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 51864,
+  "num_followers": 51869,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAC8KefbvH28BjdxjyhnbJXJ",
+  "snapshot_id": "aZuYgAAAAADVyjma7R17WbaLug32Pso8",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 172059,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "I Feel Like Going Home",
+      "url": "https://open.spotify.com/track/5vGGeS8N3fNCQLzojfP3Qu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 253093,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "I Feel Like Going Home",
-      "url": "https://open.spotify.com/track/5vGGeS8N3fNCQLzojfP3Qu"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 323226,
-      "name": "Sad Sad Day",
-      "url": "https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z"
+      "duration_ms": 183280,
+      "name": "I'm Ready - Single Version",
+      "url": "https://open.spotify.com/track/2NQ8X3rlxQqmGx6oofdQcn"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 183280,
-      "name": "I'm Ready - Single Version",
-      "url": "https://open.spotify.com/track/2NQ8X3rlxQqmGx6oofdQcn"
+      "duration_ms": 323226,
+      "name": "Sad Sad Day",
+      "url": "https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z"
     },
     {
       "added_at": null,
@@ -747,6 +747,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Standing Around Crying - Single Version",
+      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "She Moves Me",
-      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 164293,
       "name": "Walkin' Thru The Park",
       "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Standing Around Crying - Single Version",
-      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
+      "duration_ms": 177213,
+      "name": "She Moves Me",
+      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87770,
+  "num_followers": 87768,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 327296,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Estallados",
         "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 270000,
       "name": "Estallados",
       "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 327296,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 340017,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Dallas",
         "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
+        "name": "Puede Que",
+        "url": "https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw"
       },
       "artists": [
         {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+          "name": "Sismo",
+          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
         }
       ],
-      "duration_ms": 340017,
-      "name": "El Silencio",
-      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
+      "duration_ms": 291140,
+      "name": "Puede Que",
+      "url": "https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -839,22 +855,6 @@
       "duration_ms": 212660,
       "name": "Madre Tierra",
       "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Puede Que",
-        "url": "https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw"
-      },
-      "artists": [
-        {
-          "name": "Sismo",
-          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
-        }
-      ],
-      "duration_ms": 291140,
-      "name": "Puede Que",
-      "url": "https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
+      },
+      "artists": [
+        {
+          "name": "Paraisso",
+          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "Momento de Escapar",
+      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Corriente",
         "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 301863,
       "name": "Corriente",
       "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
-      },
-      "artists": [
-        {
-          "name": "Paraisso",
-          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
-        }
-      ],
-      "duration_ms": 217002,
-      "name": "Momento de Escapar",
-      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -991,22 +991,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Arrebato",
-        "url": "https://open.spotify.com/album/63IQQKH4HLbfLb873peXcR"
+        "name": "Recorrer el Mundo",
+        "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
       },
       "artists": [
         {
-          "name": "La Sociedad de La Sombrilla",
-          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
-        },
-        {
-          "name": "Radio Paila",
-          "url": "https://open.spotify.com/artist/47HKESnnseYRf0JaHZR3E1"
+          "name": "Bonus Trak",
+          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Arrebato",
-      "url": "https://open.spotify.com/track/5TyVM2yYYzCZDx2PATr216"
+      "duration_ms": 178133,
+      "name": "Recorrer el Mundo",
+      "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
     }
   ],
   "unique_name": "Rock Colombia",

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Lekaa, Omah Lay, ODUMODUBLVCK",
-  "num_followers": 636258,
+  "num_followers": 636290,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156696,
+      "name": "Iskolodo",
+      "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 156696,
-      "name": "Iskolodo",
-      "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -359,6 +359,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Gimme Dat",
+        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Gimme Dat (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Body Go (with Tyla)",
         "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
       },
@@ -399,22 +419,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157723,
-      "name": "AMA",
-      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP"
       },
@@ -431,8 +435,24 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Gimme Dat",
-        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157723,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
@@ -440,13 +460,13 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 225500,
-      "name": "Gimme Dat (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -475,18 +495,18 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -511,6 +531,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -531,26 +567,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "DON'T LOVE ME",
         "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -595,6 +595,42 @@
       "duration_ms": 156763,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -675,22 +711,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 159183,
       "name": "Muhammad Ali (Can't Relate)",
       "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Fi Kan We Kan",
+        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159339,
+      "name": "Fi Kan We Kan",
+      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -951,26 +971,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Fi Kan We Kan",
-        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159339,
-      "name": "Fi Kan We Kan",
-      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "alone (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
       },
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -1167,42 +1183,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Toro - A COLORS SHOW",
         "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 194436,
       "name": "Toro - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Tanko (feat. Terry G)",
-        "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "Tanko (feat. Terry G)",
-      "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Tanko (feat. Terry G)",
+        "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "Tanko (feat. Terry G)",
+      "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
     },
     {
       "added_at": "2026-02-20 00:01:30",

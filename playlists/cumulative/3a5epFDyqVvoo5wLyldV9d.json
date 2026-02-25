@@ -7617,6 +7617,24 @@
     },
     {
       "album": {
+        "name": "Last Train to Lhasa (Special Edition)",
+        "url": "https://open.spotify.com/album/0vFeKmzBsTobxf9WIv61gj"
+      },
+      "artists": [
+        {
+          "name": "Banco De Gaia",
+          "url": "https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 704066,
+      "name": "Last Train to Lhasa",
+      "url": "https://open.spotify.com/track/2Joozdms9UpsRjAUdHP8Fo"
+    },
+    {
+      "album": {
         "name": "Latin Parang / Parang Jam",
         "url": "https://open.spotify.com/album/3h0rzL44Rzh5s9U65QcsPj"
       },

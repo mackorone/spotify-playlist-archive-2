@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 163294,
+  "num_followers": 163346,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Bisakah?",
-        "url": "https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        },
-        {
-          "name": "Sammy Simorangkir",
-          "url": "https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq"
-        }
-      ],
-      "duration_ms": 218100,
-      "name": "Bisakah?",
-      "url": "https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Menunggumu Sampai Akhir Hidup",
         "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 260571,
       "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
       "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Bisakah?",
+        "url": "https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        },
+        {
+          "name": "Sammy Simorangkir",
+          "url": "https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq"
+        }
+      ],
+      "duration_ms": 218100,
+      "name": "Bisakah?",
+      "url": "https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Seni Berdamai Dengan Takdir",
         "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 235890,
       "name": "Seni Berdamai Dengan Takdir",
       "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Angin Rindu",
-        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
-      },
-      "artists": [
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 258148,
-      "name": "Angin Rindu",
-      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Kuharap Duka Ini Selamanya",
+        "url": "https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 262338,
+      "name": "Kuharap Duka Ini Selamanya",
+      "url": "https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Teruntuk Jantung",
         "url": "https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 169707,
       "name": "Masa",
       "url": "https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Kuharap Duka Ini Selamanya",
-        "url": "https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 262338,
-      "name": "Kuharap Duka Ini Selamanya",
-      "url": "https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC"
     },
     {
       "added_at": "2026-02-20 05:28:17",

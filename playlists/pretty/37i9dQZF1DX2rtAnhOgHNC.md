@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 
 > Los grandes éxitos de la década pasada, en México\. Carla Morrison en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,319 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,344 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 16 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 |
 | 17 | [Aléjate de Mí](https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:18 |
 | 18 | [Azul](https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 3:14 |
-| 19 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 |
-| 20 | [La De La Mala Suerte](https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:11 |
+| 19 | [La De La Mala Suerte](https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:11 |
+| 20 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 |
 | 21 | [Amor Clandestino](https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Drama Y Luz](https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g) | 4:51 |
 | 22 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
 | 23 | [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 44 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 45 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 46 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
-| 47 | [No Me Voy A Morir](https://open.spotify.com/track/5qTWewFdT4gI0hJet8HKJW) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Sueño Electro I](https://open.spotify.com/album/35O4GLVm6F2fa7uRjYdzK5) | 4:03 |
-| 48 | [El Verdadero Amor Perdona](https://open.spotify.com/track/1PiP8fqO3l5I9wA5RbN0qc) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Drama Y Luz](https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g) | 4:41 |
+| 47 | [El Verdadero Amor Perdona](https://open.spotify.com/track/1PiP8fqO3l5I9wA5RbN0qc) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Drama Y Luz](https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g) | 4:41 |
+| 48 | [No Me Voy A Morir](https://open.spotify.com/track/5qTWewFdT4gI0hJet8HKJW) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Sueño Electro I](https://open.spotify.com/album/35O4GLVm6F2fa7uRjYdzK5) | 4:03 |
 | 49 | [Afortunadamente No Eres Tu](https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Afortunadamente No Eres Tu](https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1) | 3:08 |
 | 50 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 

@@ -122,7 +122,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 150447,
       "name": "1911",
       "url": "https://open.spotify.com/track/0SBI2P0sOKIBnr6cPcojbH"
@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Ama Ama Criminal",
+        "url": "https://open.spotify.com/album/3UGvfG7uhwDxD9wGaYerAg"
+      },
+      "artists": [
+        {
+          "name": "Jassi Ludhar",
+          "url": "https://open.spotify.com/artist/53RbmVDJFrCNt3A8Kjx4Ge"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120727,
+      "name": "Ama Ama Criminal",
+      "url": "https://open.spotify.com/track/53Azg33kikHDGArM1KUNtw"
+    },
+    {
+      "album": {
         "name": "My Name Is Street",
         "url": "https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea"
       },
@@ -2272,6 +2290,28 @@
       "duration_ms": 130735,
       "name": "Bad Fellx",
       "url": "https://open.spotify.com/track/7l7DW3mKJvlb2NqKTsFgqF"
+    },
+    {
+      "album": {
+        "name": "Maula Jatt",
+        "url": "https://open.spotify.com/album/7ow5w4FBYvTWzG5CywLkzp"
+      },
+      "artists": [
+        {
+          "name": "Veer Sandhu",
+          "url": "https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Badal Brood De",
+      "url": "https://open.spotify.com/track/7FlxtnDgRxGKyfio2MPKqP"
     },
     {
       "album": {
@@ -3435,6 +3475,32 @@
     },
     {
       "album": {
+        "name": "4 Flowers",
+        "url": "https://open.spotify.com/album/61QW93GNx9H9nN4eLbL7AG"
+      },
+      "artists": [
+        {
+          "name": "Mr RJ Gautam",
+          "url": "https://open.spotify.com/artist/0lKQsCQVHskG1y6K6dKPsj"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        },
+        {
+          "name": "Beat Boi Deep",
+          "url": "https://open.spotify.com/artist/024zFKsfkByro9RORWasCq"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Born to Live",
+      "url": "https://open.spotify.com/track/5M5B71ibTJQAaObBzi737R"
+    },
+    {
+      "album": {
         "name": "Boss Lady",
         "url": "https://open.spotify.com/album/03deoc0DEBXCBNbeeiZX33"
       },
@@ -3454,6 +3520,28 @@
       "duration_ms": 155000,
       "name": "Boss Lady",
       "url": "https://open.spotify.com/track/7j2mNHjqELEcXz5HhQVda0"
+    },
+    {
+      "album": {
+        "name": "Bossman",
+        "url": "https://open.spotify.com/album/6kH7MQT2RtX7D7h3CV6YPV"
+      },
+      "artists": [
+        {
+          "name": "Sandeep Lubana",
+          "url": "https://open.spotify.com/artist/0b2imyvSJeW2yMpprNbKi3"
+        },
+        {
+          "name": "Asquare",
+          "url": "https://open.spotify.com/artist/2mLHfgM4A6HnZ3LCxBiDxt"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205253,
+      "name": "Bossman",
+      "url": "https://open.spotify.com/track/0kRSoQNwA9JNZ7R3xKqoLK"
     },
     {
       "album": {
@@ -5236,7 +5324,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 151995,
       "name": "Dem Boyz",
       "url": "https://open.spotify.com/track/7hzdbsYaNebpiAcAPSMmK2"
@@ -5756,7 +5844,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 179393,
       "name": "Dixie Road",
       "url": "https://open.spotify.com/track/7qmxsQYEl8CB9IizxE7iF0"
@@ -6535,6 +6623,24 @@
     },
     {
       "album": {
+        "name": "FAFO",
+        "url": "https://open.spotify.com/album/6677iI55PSHpE79hxwQnri"
+      },
+      "artists": [
+        {
+          "name": "G Brar",
+          "url": "https://open.spotify.com/artist/6iz1cneCcR7HrjW2THIK3v"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186737,
+      "name": "FAFO",
+      "url": "https://open.spotify.com/track/4CgpS5Zaj3DTJ4vM2hqBAv"
+    },
+    {
+      "album": {
         "name": "Fairy Tale",
         "url": "https://open.spotify.com/album/6BfbV6JIvO2NN83etDCOQn"
       },
@@ -6624,7 +6730,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 197922,
       "name": "Fate Trials",
       "url": "https://open.spotify.com/track/5ur1BecnPBfCKLLQmPGcmA"
@@ -6694,6 +6800,28 @@
       "duration_ms": 74352,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/43SzHM4FKUvRtw4Nw5AacK"
+    },
+    {
+      "album": {
+        "name": "Fielding",
+        "url": "https://open.spotify.com/album/3GfKHmJaetnb2h78ZlLEGF"
+      },
+      "artists": [
+        {
+          "name": "Sudesh Kumari",
+          "url": "https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X"
+        },
+        {
+          "name": "HAQ",
+          "url": "https://open.spotify.com/artist/3EIIl7NMS0a5Ff04uCxOYe"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149604,
+      "name": "Fielding",
+      "url": "https://open.spotify.com/track/5vKNkrH1UeGN1kWIlWmJ3p"
     },
     {
       "album": {
@@ -7144,6 +7272,24 @@
       "duration_ms": 161357,
       "name": "FRIEND ZONE",
       "url": "https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv"
+    },
+    {
+      "album": {
+        "name": "Front Man",
+        "url": "https://open.spotify.com/album/5haq8jUx4UgbbPRHIrkDfQ"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Jatt",
+          "url": "https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181394,
+      "name": "Front Man",
+      "url": "https://open.spotify.com/track/64MGErTUPVPAHi36PiUguD"
     },
     {
       "album": {
@@ -7998,6 +8144,28 @@
       "duration_ms": 185000,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/1lP0yP0eN5Btj0zjFX72r6"
+    },
+    {
+      "album": {
+        "name": "God Damn",
+        "url": "https://open.spotify.com/album/5HDtemxP0pvEJ7CS6NEXNC"
+      },
+      "artists": [
+        {
+          "name": "Mehra",
+          "url": "https://open.spotify.com/artist/3Ruo5W7U9cRtjJ29zj7oWE"
+        },
+        {
+          "name": "13 Likhari",
+          "url": "https://open.spotify.com/artist/02CHY0S3j3yUFzrRk7eDFW"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191294,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/719qcQsFWLLtuUTh1ji07w"
     },
     {
       "album": {
@@ -9339,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "HUNT",
+        "url": "https://open.spotify.com/album/4elOywqCLZUhZASuDt6P6I"
+      },
+      "artists": [
+        {
+          "name": "Simar Ghai",
+          "url": "https://open.spotify.com/artist/2vP3STguePEahsT3QmMfhr"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167944,
+      "name": "HUNT",
+      "url": "https://open.spotify.com/track/2QBGmcVhHvHK0Sxd0JsrRM"
+    },
+    {
+      "album": {
         "name": "Be The Change",
         "url": "https://open.spotify.com/album/3FSUBDoKXuJnBRqlS9I0Z4"
       },
@@ -9560,7 +9746,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 185992,
       "name": "I'm Your God",
       "url": "https://open.spotify.com/track/27GNuRnf07iuURTPWUxgKx"
@@ -10311,6 +10497,28 @@
     },
     {
       "album": {
+        "name": "Jatt's Level",
+        "url": "https://open.spotify.com/album/79mIQvIcRnNmG5gEUsMHug"
+      },
+      "artists": [
+        {
+          "name": "Roop Hir",
+          "url": "https://open.spotify.com/artist/1Dj496MnTiflZQZVlqbof2"
+        },
+        {
+          "name": "Mahi Ghuman",
+          "url": "https://open.spotify.com/artist/3g4pv8Fs4HLL0JJXLB0ZVg"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252076,
+      "name": "Jatt's Level",
+      "url": "https://open.spotify.com/track/73s9dxqYOw7Ry3I7ABSNr8"
+    },
+    {
+      "album": {
         "name": "Jattan De Munde (JDM)",
         "url": "https://open.spotify.com/album/6FU2WtRGB1dx8f9l0lNZqh"
       },
@@ -10877,6 +11085,42 @@
     },
     {
       "album": {
+        "name": "Kaun Aya",
+        "url": "https://open.spotify.com/album/4pVFzDeJx6Xl0xCo3Lx7P5"
+      },
+      "artists": [
+        {
+          "name": "ISSA G",
+          "url": "https://open.spotify.com/artist/4SuYH4CRMWleBbcTjwhmjV"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94285,
+      "name": "Kaun Aya",
+      "url": "https://open.spotify.com/track/0IcBZmYNKJtcwCFEccrg68"
+    },
+    {
+      "album": {
+        "name": "Keys",
+        "url": "https://open.spotify.com/album/4JlflAey36IQKoGJuQiTCI"
+      },
+      "artists": [
+        {
+          "name": "LEJEND",
+          "url": "https://open.spotify.com/artist/0F3a3uTeRgrTeb3YNW5h10"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176847,
+      "name": "Keys",
+      "url": "https://open.spotify.com/track/1xeT2FjtROlPntOd0FJjYq"
+    },
+    {
+      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/6bxGYHToJZrjLzKA56gITZ"
       },
@@ -11028,6 +11272,28 @@
       "duration_ms": 175909,
       "name": "Kingpin",
       "url": "https://open.spotify.com/track/43qJF4pC5rbLDUgmqWYOKu"
+    },
+    {
+      "album": {
+        "name": "Kinna Tera",
+        "url": "https://open.spotify.com/album/3s52PXAUvWHXc3OG1S3qWK"
+      },
+      "artists": [
+        {
+          "name": "BAD Junkie",
+          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
+        },
+        {
+          "name": "Prakriti Pandey",
+          "url": "https://open.spotify.com/artist/5gyrzC7jLzk6zlZVRwGwdb"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193096,
+      "name": "Kinna Tera",
+      "url": "https://open.spotify.com/track/11Ua3dEO8c0lZQG1yqngtE"
     },
     {
       "album": {
@@ -11420,7 +11686,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 163874,
       "name": "License",
       "url": "https://open.spotify.com/track/3i3ZOu7BUVe7crTTSVQtqn"
@@ -11622,7 +11888,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 139428,
       "name": "Lit",
       "url": "https://open.spotify.com/track/1t6iWDBT0AwsGCxBnkjFRN"
@@ -12680,7 +12946,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 132427,
       "name": "MILAN",
       "url": "https://open.spotify.com/track/2Nx0u5iRPs9yvRWvoK9rd0"
@@ -12768,6 +13034,32 @@
       "duration_ms": 153600,
       "name": "Modern Street",
       "url": "https://open.spotify.com/track/4KJJ0IE7gRhJ5slD6EPC88"
+    },
+    {
+      "album": {
+        "name": "Money Magnet",
+        "url": "https://open.spotify.com/album/34cKzfl5KFQgi3D5PFI2iF"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Sohi",
+          "url": "https://open.spotify.com/artist/4ZuPcTmzv64QazoSJizaxe"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        },
+        {
+          "name": "Husan Galwatti",
+          "url": "https://open.spotify.com/artist/6QYK5wmqsrKJc9NRkDkEq2"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185765,
+      "name": "Money Magnet",
+      "url": "https://open.spotify.com/track/4hGH03vmgACTrkX2UdqwQt"
     },
     {
       "album": {
@@ -15251,6 +15543,24 @@
     },
     {
       "album": {
+        "name": "PINKK",
+        "url": "https://open.spotify.com/album/6HK6xSIzBCWDcztstdWgMh"
+      },
+      "artists": [
+        {
+          "name": "Mukul Verma",
+          "url": "https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124556,
+      "name": "PINKK",
+      "url": "https://open.spotify.com/track/3Q5hiQ5MA1R3JYUTzW8Kb5"
+    },
+    {
+      "album": {
         "name": "Piracy",
         "url": "https://open.spotify.com/album/0aAghNO7DURhcMsLnt3C02"
       },
@@ -16726,7 +17036,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 143989,
       "name": "SARKAR",
       "url": "https://open.spotify.com/track/3fBxEIkrv1smnbPrPpvnLu"
@@ -17207,6 +17517,36 @@
     },
     {
       "album": {
+        "name": "Maula Jatt",
+        "url": "https://open.spotify.com/album/7ow5w4FBYvTWzG5CywLkzp"
+      },
+      "artists": [
+        {
+          "name": "Veer Sandhu",
+          "url": "https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ"
+        },
+        {
+          "name": "Prabh Sangha",
+          "url": "https://open.spotify.com/artist/0diDy1GOImYMwkl2u4jPtM"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "Shelby",
+      "url": "https://open.spotify.com/track/0C1ZqGdC3rA0Oz11hdGV41"
+    },
+    {
+      "album": {
         "name": "Shell Shock",
         "url": "https://open.spotify.com/album/74qUMxiJRLmKo00BTCoP8b"
       },
@@ -17564,7 +17904,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 167500,
       "name": "Siren",
       "url": "https://open.spotify.com/track/3n49nCAdB75Gw35seitxb7"
@@ -17582,7 +17922,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 176000,
       "name": "Six Sense",
       "url": "https://open.spotify.com/track/6k9KlFo5UPPh5vsCSQnGJa"
@@ -17808,7 +18148,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 180000,
       "name": "STAR",
       "url": "https://open.spotify.com/track/1i7zE89EI6ti9lEUNBFSJM"
@@ -17852,7 +18192,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 152783,
       "name": "State Hood",
       "url": "https://open.spotify.com/track/3RK9AhME6lw5xgdsVjSV6o"
@@ -18010,6 +18350,24 @@
       "duration_ms": 174730,
       "name": "Still Rollin",
       "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
+    },
+    {
+      "album": {
+        "name": "Still Same",
+        "url": "https://open.spotify.com/album/0z1v2X4zpEJLAowFFDJTvJ"
+      },
+      "artists": [
+        {
+          "name": "Gurman Gill",
+          "url": "https://open.spotify.com/artist/56WAK4bABVQfz1sElUDJai"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135478,
+      "name": "Still Same",
+      "url": "https://open.spotify.com/track/1CiePOFlAuoE2N30pw2Xmg"
     },
     {
       "album": {
@@ -18396,7 +18754,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 182656,
       "name": "Suspicious",
       "url": "https://open.spotify.com/track/60IcFTKAKV0RqoX0tGRECe"
@@ -18928,7 +19286,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 160625,
       "name": "Thinking",
       "url": "https://open.spotify.com/track/33R3qS9Gsq6ig289ZxiHFx"
@@ -19278,7 +19636,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 230697,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/6AuoNOYumXJeQVOznQePJb"
@@ -20760,7 +21118,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 190016,
       "name": "Winner Mindset",
       "url": "https://open.spotify.com/track/5K1gteACVppVBASoLEutx2"

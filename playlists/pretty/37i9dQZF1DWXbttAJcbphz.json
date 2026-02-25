@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1780249,
+  "num_followers": 1780383,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,22 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
       "added_at": "2025-04-14 20:35:32",
@@ -463,22 +467,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 295920,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -959,6 +959,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 244136,
       "name": "New Flame (feat. Usher & Rick Ross)",
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1049,30 +1049,6 @@
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Kevin McCall",
-          "url": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Deuces (feat. Tyga & Kevin McCall)",
-      "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "OTW",
@@ -1095,6 +1071,30 @@
       "duration_ms": 263013,
       "name": "OTW",
       "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Kevin McCall",
+          "url": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Deuces (feat. Tyga & Kevin McCall)",
+      "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Pour It Up",
-      "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+      "duration_ms": 161200,
+      "name": "Pour It Up",
+      "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1321,6 +1321,22 @@
       "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
     },
     {
+      "added_at": "2022-08-04 19:06:56",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Here I Am (Deluxe Version)",
@@ -1339,22 +1355,6 @@
       "duration_ms": 230560,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
-    },
-    {
-      "added_at": "2022-08-04 19:06:56",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2020-10-02 17:39:19",

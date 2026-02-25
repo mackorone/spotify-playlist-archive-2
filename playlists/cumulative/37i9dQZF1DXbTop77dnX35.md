@@ -4,7 +4,7 @@
 
 > New Music from Ayo Maff, Mavo, Moses Bliss, Verbb, Brent Faiyaz, Nasty C, and more
 
-5,111 songs - 10 day 18 hr 33 min
+5,112 songs - 10 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1757,6 +1757,7 @@
 | [Gone](https://open.spotify.com/track/0zCBuNnMKpn8G2YpTQf31e) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Gone](https://open.spotify.com/album/4k0fSGTnUkUEXlaXdkPE8v) | 2:46 | 2025-04-11 | 2025-04-18 |
 | [Gone 2024](https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Gone 2024](https://open.spotify.com/album/4UbZP8wPSkIq3rG8E5qalB) | 4:10 | 2024-12-20 | 2025-01-10 |
 | [Gone Are The Days](https://open.spotify.com/track/7Gm2hdadKnst6nlpJu14WZ) | [Oba Lurge](https://open.spotify.com/artist/69lTRgtPFwn6PHOmftIvkT), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Gone Are The Days](https://open.spotify.com/album/20XCeNJLiYQPqbLpeqEFnZ) | 3:25 | 2025-05-16 | 2025-05-23 |
+| [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 | 2026-02-24 |  |
 | [Good Girl](https://open.spotify.com/track/478m5v6CKeJFQELorrDnQ7) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Dream Syndrome \(Season 1\)](https://open.spotify.com/album/7uBtJ5fKJhLBK0yXC6KeEU) | 2:45 | 2024-12-06 | 2024-12-13 |
 | [Good Girl \(Evandy Girl\)](https://open.spotify.com/track/0S7PJaI9wUdua6uafHV9Xh) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Good Girl \(Evandy Girl\)](https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo) | 2:09 | 2025-03-14 | 2025-03-21 |
 | [Good Love](https://open.spotify.com/track/30GQHEEu8WLEyCcPM0QuTL) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Good Love](https://open.spotify.com/album/0RpbdimwKYoFufFXi5VvCk) | 3:43 | 2025-07-11 | 2025-07-18 |
@@ -4379,7 +4380,7 @@
 | [Sweet](https://open.spotify.com/track/7KZJy5j67ZufwZcSZUYN9n) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Sweet](https://open.spotify.com/album/0SSyvFnxYVgSeAH7Ltje8e) | 3:05 | 2026-01-02 | 2026-01-15 |
 | [Sweet](https://open.spotify.com/track/7znhEiBAWpIx8WB2G926rh) | [Jeff Akoh](https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Rebel Heart](https://open.spotify.com/album/0GIvO4hp9dnloI43fgwDja) | 2:24 | 2025-09-26 | 2025-10-03 |
 | [Sweet](https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Sweet](https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm) | 2:33 | 2025-05-23 | 2025-05-30 |
-| [Sweet Baby](https://open.spotify.com/track/67EQfnVh7NoTcefV1k0xvF) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sweet Baby](https://open.spotify.com/album/6HpKMrkRl4zxtwLLCsfnCp) | 3:05 | 2026-02-20 |  |
+| [Sweet Baby](https://open.spotify.com/track/67EQfnVh7NoTcefV1k0xvF) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sweet Baby](https://open.spotify.com/album/6HpKMrkRl4zxtwLLCsfnCp) | 3:05 | 2026-02-20 | 2026-02-25 |
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-07 | 2025-03-14 |
 | [Sweet Escape](https://open.spotify.com/track/5AexqVtUzB7tDZSfvLeNTk) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Sweet Escape](https://open.spotify.com/album/5X4OeETIbet38Ne3RErY29) | 2:38 | 2024-06-28 | 2024-07-05 |
 | [Sweet For Joy](https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5) | [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Sweet For Joy](https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7) | 2:45 | 2024-11-15 | 2024-11-22 |

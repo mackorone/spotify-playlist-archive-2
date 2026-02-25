@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date. Updated 23 Feb 14:11 UTC.",
+  "description": "Latest popular single releases. Sorted by release date. Updated 25 Feb 23:11 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -29588,7 +29588,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 224000,
       "name": "Drag Path",
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
@@ -34484,7 +34484,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 219310,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
@@ -45127,6 +45127,24 @@
     },
     {
       "album": {
+        "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
+        "url": "https://open.spotify.com/album/3XKBl8eJQzEddmR2tR1Ww0"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240158,
+      "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
+      "url": "https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en"
+    },
+    {
+      "album": {
         "name": "Heavens Sirens",
         "url": "https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn"
       },
@@ -54289,6 +54307,28 @@
     },
     {
       "album": {
+        "name": "Ivvys Cypher Verse",
+        "url": "https://open.spotify.com/album/3PWQeAi4bDqc9oLwMsJe9b"
+      },
+      "artists": [
+        {
+          "name": "ivvys1",
+          "url": "https://open.spotify.com/artist/1qjqW6fIrbWKKejfol8SkE"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61846,
+      "name": "Ivvys Cypher Verse",
+      "url": "https://open.spotify.com/track/1lVHqr0Oqc25uBhy12UlyW"
+    },
+    {
+      "album": {
         "name": "Ivy",
         "url": "https://open.spotify.com/album/4FcOv4fcM8BGlnWNoJjaCp"
       },
@@ -59258,7 +59298,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 271095,
       "name": "Let's Do It Again!",
       "url": "https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ"
@@ -66688,22 +66728,6 @@
         {
           "name": "Concrete Boys",
           "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Draft Day",
-          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
-        },
-        {
-          "name": "Dc2trill",
-          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
-        },
-        {
-          "name": "Camo!",
-          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
         }
       ],
       "date_added": "2026-02-20",
@@ -74643,6 +74667,24 @@
     },
     {
       "album": {
+        "name": "OLD TECHNOLOGY",
+        "url": "https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159198,
+      "name": "OLD TECHNOLOGY",
+      "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
+    },
+    {
+      "album": {
         "name": "Older (Live in Berlin)",
         "url": "https://open.spotify.com/album/3q5FBTR6kTSPzOQFZtpRQs"
       },
@@ -75444,7 +75486,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 202525,
       "name": "only the best",
       "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
@@ -86794,7 +86836,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 201270,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F"
@@ -91225,6 +91267,28 @@
     },
     {
       "album": {
+        "name": "Sixbill Cypher Verse",
+        "url": "https://open.spotify.com/album/1SQhVLJuDoaF0gRQAeL1NP"
+      },
+      "artists": [
+        {
+          "name": "sixbill",
+          "url": "https://open.spotify.com/artist/56MdwFrWGvYtq9wGACLZCK"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61897,
+      "name": "Sixbill Cypher Verse",
+      "url": "https://open.spotify.com/track/5Nyk4drFu945fDVfXo2hvs"
+    },
+    {
+      "album": {
         "name": "Sixes",
         "url": "https://open.spotify.com/album/5DY63KOixs4heTSJP5FzMS"
       },
@@ -93282,6 +93346,24 @@
       "duration_ms": 169880,
       "name": "Song Cry",
       "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
+    },
+    {
+      "album": {
+        "name": "SONG OF THE SWAMP",
+        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198118,
+      "name": "SONG OF THE SWAMP",
+      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
     },
     {
       "album": {
@@ -96224,6 +96306,24 @@
       "duration_ms": 160000,
       "name": "Strong Because You Are",
       "url": "https://open.spotify.com/track/3qyiGu03ppAuBbUbDHBKU4"
+    },
+    {
+      "album": {
+        "name": "Stronger Together",
+        "url": "https://open.spotify.com/album/1NRVjs2tV4mRk1ZZBNMDjv"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Stronger Together",
+      "url": "https://open.spotify.com/track/0YLp89wt3S5T7FaytJSctH"
     },
     {
       "album": {
@@ -113686,7 +113786,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 234049,
       "name": "White Feather Hawk Tail Deer Hunter",
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"

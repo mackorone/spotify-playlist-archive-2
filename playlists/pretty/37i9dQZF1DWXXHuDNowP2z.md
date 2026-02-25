@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,487 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,541 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 45 | [Pasito Duranguense](https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc) | [El Sube Y Baja](https://open.spotify.com/album/5JRg9iBzGz8l7c8z1u6m3C) | 3:20 |
 | 46 | [El Sandwich](https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:11 |
 | 47 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
-| 48 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 |
-| 49 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
+| 48 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
+| 49 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 |
 | 50 | [El Contagio](https://open.spotify.com/track/1wsPiN2Y0cIvMDbLK8ywkt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:03 |
-| 51 | [Con Zapatos de Tacón](https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:54 |
-| 52 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 |
+| 51 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 |
+| 52 | [Con Zapatos de Tacón](https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:54 |
 | 53 | [Ordeñando la Vaca](https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Endemoniado](https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy) | 2:48 |
 | 54 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
 | 55 | [No Hay Problema](https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:35 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 89 | [Mujer Alegre](https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Mujer Alegre](https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat) | 3:37 |
 | 90 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 |
 | 91 | [El Mariachi](https://open.spotify.com/track/3WQC9J9dG9gljMpKXacCLL) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 3:28 |
-| 92 | [Pequeña Y Frágil](https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [30 Del Recuerdo](https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY) | 2:38 |
-| 93 | [El Comet](https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:42 |
+| 92 | [El Comet](https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:42 |
+| 93 | [Pequeña Y Frágil](https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [30 Del Recuerdo](https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY) | 2:38 |
 | 94 | [Zapateado Encabronado \#3](https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [De Corazon Ranchero](https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV) | 4:27 |
 | 95 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 |
 | 96 | [CARALUNA](https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1) | [CARALUNA](https://open.spotify.com/album/5TY4XLG0oRzjliAbQ8V4cH) | 3:24 |

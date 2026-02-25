@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483842,
+  "num_followers": 483837,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Fish on the Sand",
         "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 129866,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "So Excited",
-        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 240486,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "For The Dreams",
         "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "So Excited",
+        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 240486,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Existential Playboy",
+        "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
+      },
+      "artists": [
+        {
+          "name": "Surf Rock Is Dead",
+          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "always learning not what to do",
+      "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Playful Sins",
         "url": "https://open.spotify.com/album/5LtWxH19vd7sBZUJXzozII"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 171884,
       "name": "Riding the Wind",
       "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Existential Playboy",
-        "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
-      },
-      "artists": [
-        {
-          "name": "Surf Rock Is Dead",
-          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "always learning not what to do",
-      "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "twenty bucks (the friend song)",
-        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
-      },
-      "artists": [
-        {
-          "name": "boxboys",
-          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
-        }
-      ],
-      "duration_ms": 113232,
-      "name": "twenty bucks (the friend song)",
-      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Valley Girl",
         "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 211829,
       "name": "Valley Girl",
       "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "twenty bucks (the friend song)",
+        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "duration_ms": 113232,
+      "name": "twenty bucks (the friend song)",
+      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Sunday Scaries",
-        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 172228,
-      "name": "Sunday Scaries",
-      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Mushroom",
         "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 205974,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 172228,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Middleman / Do The Sloth",
-        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
-      },
-      "artists": [
-        {
-          "name": "Straight Arrows",
-          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
-        }
-      ],
-      "duration_ms": 143947,
-      "name": "Middleman",
-      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Naga Damai",
         "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Middleman / Do The Sloth",
+        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+      },
+      "artists": [
+        {
+          "name": "Straight Arrows",
+          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+        }
+      ],
+      "duration_ms": 143947,
+      "name": "Middleman",
+      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Pacific Ocean",
         "url": "https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 153822,
       "name": "Pacific Ocean",
       "url": "https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1063,22 +1079,6 @@
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2026-01-23 05:00:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. Carlos Rivera y Alejandro Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,817,936 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,818,024 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

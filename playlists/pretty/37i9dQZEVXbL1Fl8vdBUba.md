@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,274 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,285 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 35 | [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 |
 | 36 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
 | 37 | [Cuando No Era Cantante \- Remix](https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Cuando No Era Cantante \(Remix\)](https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ) | 5:27 |
-| 38 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
+| 38 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 39 | [Cuando No Era Cantante](https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/0zIwyKAaSjpEdF13pf1VnK) | 3:31 |
 | 40 | [URUS BLUE](https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 3:27 |
 | 41 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [DIOMEDEZ](https://open.spotify.com/track/6qDTm2QbRSLlSmaUSJE6bF) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [DIOMEDEZ](https://open.spotify.com/album/09RQNQs0rydAfGFXZo53qH) | 3:18 |
 | 50 | [Con el Corazón](https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1) | 3:09 |
 
-Snapshot ID: `MS+5QAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTENGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

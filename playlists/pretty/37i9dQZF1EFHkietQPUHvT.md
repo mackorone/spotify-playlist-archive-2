@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 284 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 29 | [Lion's Den](https://open.spotify.com/track/6MrWgh6TzFSm2MzWEyWHQh) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 3:24 |
 | 30 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
 | 31 | [Bored](https://open.spotify.com/track/4Dh90SQzKOotf1bDD3TMxS) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Bored](https://open.spotify.com/album/2hkbvDGl0ac4XjXTebdRoR) | 2:56 |
-| 32 | [Contagious](https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:55 |
-| 33 | [Dizzy](https://open.spotify.com/track/56f8q8bWmA1w1DyoBHvHvp) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq) | 2:32 |
+| 32 | [Dizzy](https://open.spotify.com/track/56f8q8bWmA1w1DyoBHvHvp) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq) | 2:32 |
+| 33 | [Contagious](https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:55 |
 | 34 | [Haunt Me](https://open.spotify.com/track/0TE4EyLBWUIAPiorLlEB1N) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey \(The Story Continues\)](https://open.spotify.com/album/1nXhV18HsP8vnB8JnNai75) | 2:50 |
 | 35 | [pause](https://open.spotify.com/track/1abgG2jgztGM55dZBAZRHh) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 2:37 |
 | 36 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 43 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 |
 | 44 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
 | 45 | [Knife](https://open.spotify.com/track/53y7CiK02LB3ZzhGf2LaT9) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Knife](https://open.spotify.com/album/7mh0rxhEiJCsDhnSxO32bN) | 3:13 |
-| 46 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
-| 47 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
+| 46 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
+| 47 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
 | 48 | [not around](https://open.spotify.com/track/6GlD9ntcLBrncwEbC72nN0) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:12 |
 | 49 | [Rain](https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Rain](https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr) | 4:08 |
 | 50 | [Already Famous](https://open.spotify.com/track/3hRZwN7ztijzRplL42OFWm) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Already Famous](https://open.spotify.com/album/73ESU5R3U4Bn69eTSSNSgv) | 2:34 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 84 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 85 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AcKeKgAAAADb5dm4JCoQlHFs4l0Nkh7f`
+Snapshot ID: `AcKjygAAAAAzNoBWAmSX9W7wvNkf8dhV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,057 likes - 65 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,084 likes - 65 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,20 +47,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 37 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
 | 38 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
 | 39 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
-| 40 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
-| 41 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
+| 40 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
+| 41 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
 | 42 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
 | 43 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 |
-| 44 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
-| 45 | [Pelas Ruas das Américas](https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt) | [Outros Bárbaros](https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT) | [Pelas Ruas das Américas](https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R) | 3:51 |
+| 44 | [Pelas Ruas das Américas](https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt) | [Outros Bárbaros](https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT) | [Pelas Ruas das Américas](https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R) | 3:51 |
+| 45 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
 | 46 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
 | 47 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
 | 48 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
 | 49 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
 | 50 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 |
 | 51 | [Moletom](https://open.spotify.com/track/6sYEvTZfUFDo9IY02b1DD1) | [Ondastral](https://open.spotify.com/artist/1PLVBYQrlY7TUtoyRspbuV) | [Moletom](https://open.spotify.com/album/5yVc8jYrfoQy007gd3teKt) | 2:53 |
-| 52 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 |
-| 53 | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m) | [Chella](https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a) | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd) | 3:25 |
+| 52 | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m) | [Chella](https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a) | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd) | 3:25 |
+| 53 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 |
 | 54 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 |
 | 55 | [vale nada](https://open.spotify.com/track/7qZpO1kTmzl2NfOHf6FORY) | [Tupi & Os Crocodilos de Marte](https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [vale nada](https://open.spotify.com/album/04CCQjIuuirv55khPHFD8B) | 3:02 |
 | 56 | [Feedback \- Ao Vivo](https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Solo Ma Non Troppo](https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV) | 3:32 |

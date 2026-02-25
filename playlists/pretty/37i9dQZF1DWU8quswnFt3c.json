@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1048161,
+  "num_followers": 1048019,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
-        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
-      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Disco-Tech",
         "url": "https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 199354,
       "name": "Disco-Tech",
       "url": "https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 196285,
+      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 326068,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Fluent",
         "url": "https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 128769,
       "name": "Fluent",
       "url": "https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "SuperDrug",
-        "url": "https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "SuperDrug",
-      "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "\u0424\u0440\u0430\u043d\u0441\u0443\u0430",
         "url": "https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 238052,
       "name": "\u0424\u0440\u0430\u043d\u0441\u0443\u0430",
       "url": "https://open.spotify.com/track/5nxvhdJsVBsmNm7UIWLF4w"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "SuperDrug",
+        "url": "https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "SuperDrug",
+      "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3SL7IUdrQ23Xc0MqyGlGfj"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1uvdsygNOfhOdKBehMl1f2"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "Mirza",
         "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 182666,
       "name": "Mirza",
       "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3SL7IUdrQ23Xc0MqyGlGfj"
-      },
-      "artists": [
-        {
-          "name": "Dobrawa Czocher",
-          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1uvdsygNOfhOdKBehMl1f2"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Looks Like",
-        "url": "https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL"
-      },
-      "artists": [
-        {
-          "name": "Sara Berki",
-          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Looks Like",
-      "url": "https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "High Energy",
         "url": "https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 182000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Looks Like",
+        "url": "https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Looks Like",
+      "url": "https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb"
     }
   ],
   "unique_name": "EQUAL",

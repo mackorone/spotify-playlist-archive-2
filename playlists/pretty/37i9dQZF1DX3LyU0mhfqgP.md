@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: 2charm
+> Songs from LGBTQIA+ artists\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,526 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,482 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
-| 2 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 3 | [Du fick aldrig veta](https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Du fick aldrig veta](https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry) | 2:38 |
-| 4 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
+| 1 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
+| 2 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
+| 3 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
+| 4 | [Du fick aldrig veta](https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Du fick aldrig veta](https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry) | 2:38 |
 | 5 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 |
 | 6 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
 | 7 | [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Kiss Kiss Goodbye](https://open.spotify.com/track/75vL0l01TYI8v5ggVykzo9) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:56 |
 | 50 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 
-Snapshot ID: `AAAAAIfnYWWHsC3vB9QVxWBNKyyPsjx5`
+Snapshot ID: `AAAAAHH+EPewVr/aWmVRb9R/etTTJmRx`

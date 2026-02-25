@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33875,
+  "num_followers": 33872,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPApFvGYMU3V966AzlY6DY49Zrd",
+  "snapshot_id": "AAAAAJ5/qyaquOHDw/ZhhLNR2FSgFEQV",
   "tracks": [
     {
       "added_at": "2026-02-16 23:00:08",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-02-16 23:00:08",
       "album": {
+        "name": "Heartbreak & Roses",
+        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "duration_ms": 354760,
+      "name": "Heartbreak & Roses",
+      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
+    },
+    {
+      "added_at": "2026-02-16 23:00:08",
+      "album": {
         "name": "Three O'Clock Blues",
         "url": "https://open.spotify.com/album/1d7909NAqNLO7JvzcDpuOA"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 200306,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/39YH9qL3tHtIJLBLXZyMhO"
-    },
-    {
-      "added_at": "2026-02-16 23:00:08",
-      "album": {
-        "name": "Heartbreak & Roses",
-        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
-      },
-      "artists": [
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
-        }
-      ],
-      "duration_ms": 354760,
-      "name": "Heartbreak & Roses",
-      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
     },
     {
       "added_at": "2026-02-16 23:00:08",

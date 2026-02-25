@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 444385,
+  "num_followers": 444381,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Facas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 196379,
-      "name": "Facas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Facas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 196379,
+      "name": "Facas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Katinguel\u00ea Na \u00c1rea",
-        "url": "https://open.spotify.com/album/6be252ruiK8KktdALdpNvq"
-      },
-      "artists": [
-        {
-          "name": "Katinguel\u00ea",
-          "url": "https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Inara\u00ed",
-      "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Harmonia do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
+        "name": "Katinguel\u00ea Na \u00c1rea",
+        "url": "https://open.spotify.com/album/6be252ruiK8KktdALdpNvq"
       },
       "artists": [
         {
-          "name": "XANDDY HARMONIA",
-          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+          "name": "Katinguel\u00ea",
+          "url": "https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Desafio - Ao Vivo",
-      "url": "https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B"
+      "duration_ms": 234360,
+      "name": "Inara\u00ed",
+      "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -779,6 +763,22 @@
       "duration_ms": 215400,
       "name": "Marrom Bombom",
       "url": "https://open.spotify.com/track/6JvZyTg7LGjDw0v3LvXjub"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Harmonia do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
+      },
+      "artists": [
+        {
+          "name": "XANDDY HARMONIA",
+          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Desafio - Ao Vivo",
+      "url": "https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 155798,
       "name": "Flores",
       "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Negro Lindo",
-        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
-      },
-      "artists": [
-        {
-          "name": "Parangol\u00e9",
-          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tchubirabirom",
-      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Eu e Voc\u00ea Sempre",
         "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 208173,
       "name": "Me Apaixonei Pela Pessoa Errada",
       "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Negro Lindo",
+        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
+      },
+      "artists": [
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tchubirabirom",
+      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Todo Mundo Gosta - Ao Vivo",
-        "url": "https://open.spotify.com/album/4mzY8dt9I96KhdgYqUcxm5"
-      },
-      "artists": [
-        {
-          "name": "Parangol\u00e9",
-          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Rebolation - Ao Vivo",
-      "url": "https://open.spotify.com/track/2sKJMf3efNnJKt7HlEvzz8"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Temporal (Audio)",
         "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 191933,
       "name": "Pimpolho",
       "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Todo Mundo Gosta - Ao Vivo",
+        "url": "https://open.spotify.com/album/4mzY8dt9I96KhdgYqUcxm5"
+      },
+      "artists": [
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Rebolation - Ao Vivo",
+      "url": "https://open.spotify.com/track/2sKJMf3efNnJKt7HlEvzz8"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "V\u00e1rias Novinhas",
-        "url": "https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "V\u00e1rias Novinhas",
-      "url": "https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
         "url": "https://open.spotify.com/album/4MLicWEL0VWklsLxmNHRaa"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 146346,
       "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
       "url": "https://open.spotify.com/track/5oU2Oa0dIlqTMRSEAnIlY5"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "V\u00e1rias Novinhas",
+        "url": "https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "V\u00e1rias Novinhas",
+      "url": "https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Crush Blogueirinha",
-        "url": "https://open.spotify.com/album/6tSX9lQYB353KrNm08eGeA"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Crush Blogueirinha",
-      "url": "https://open.spotify.com/track/2eyW06Y1JXCJypNibu8wNA"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "A Origem (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 153374,
       "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Crush Blogueirinha",
+        "url": "https://open.spotify.com/album/6tSX9lQYB353KrNm08eGeA"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Crush Blogueirinha",
+      "url": "https://open.spotify.com/track/2eyW06Y1JXCJypNibu8wNA"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Rei da Cacimbinha",
-        "url": "https://open.spotify.com/album/4hNVFhigspLJm5GVT7L80a"
-      },
-      "artists": [
-        {
-          "name": "Rei da Cacimbinha",
-          "url": "https://open.spotify.com/artist/1oYhynFI8ZgMAlYbyttb3f"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "Muri\u00e7oca",
-      "url": "https://open.spotify.com/track/57gfBvTXrBURvvnkR4xaPQ"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/6wEkHIUHNb1kZiV2nCnVoh"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 169986,
       "name": "Bara Bara",
       "url": "https://open.spotify.com/track/2sy6pIiHstUzImrkUXB1K6"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Rei da Cacimbinha",
+        "url": "https://open.spotify.com/album/4hNVFhigspLJm5GVT7L80a"
+      },
+      "artists": [
+        {
+          "name": "Rei da Cacimbinha",
+          "url": "https://open.spotify.com/artist/1oYhynFI8ZgMAlYbyttb3f"
+        }
+      ],
+      "duration_ms": 190573,
+      "name": "Muri\u00e7oca",
+      "url": "https://open.spotify.com/track/57gfBvTXrBURvvnkR4xaPQ"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Devagarinho",
+        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 137045,
+      "name": "Devagarinho",
+      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Sacanagenzinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/4zNaIysl3maMox9VwVLVCu"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 136481,
       "name": "Sacanagenzinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3ugHD1hbqLwHl4ubH72EbU"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Devagarinho",
-        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 137045,
-      "name": "Devagarinho",
-      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
     },
     {
       "added_at": "2022-02-10 18:18:16",

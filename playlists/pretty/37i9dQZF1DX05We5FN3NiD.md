@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > The Indie highlights of 2019\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,571 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,581 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 37 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 |
 | 38 | [Joy](https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:12 |
 | 39 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 |
-| 40 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
-| 41 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 |
+| 40 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 |
+| 41 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 42 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 43 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 |
 | 44 | [Doom Days](https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 2:18 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 49 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
 | 50 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
 | 51 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
-| 52 | [Unbearably White](https://open.spotify.com/track/2FjoCQaBoiEKs3FCvD0HkR) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:40 |
-| 53 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
+| 52 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
+| 53 | [Unbearably White](https://open.spotify.com/track/2FjoCQaBoiEKs3FCvD0HkR) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:40 |
 | 54 | [Salted Caramel Ice Cream](https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 3:30 |
 | 55 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 |
 | 56 | [Sunlight](https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX) | 3:32 |

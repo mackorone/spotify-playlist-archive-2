@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,273 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,311 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 38 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 |
 | 39 | [Jhota](https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Jhota](https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA) | 3:14 |
 | 40 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 |
-| 41 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
-| 42 | [KNL To LHR](https://open.spotify.com/track/7aaGOceIZaUaVGKzU4ZTfP) | [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Sameer](https://open.spotify.com/artist/6GITDzZHqhL9AuVVjHQFG7), [Brown Beats](https://open.spotify.com/artist/5oWrsQDyCV8GKaWikhwPfk) | [KNL To LHR](https://open.spotify.com/album/4eLwKIAxknztWvHmLMVl0x) | 2:23 |
+| 41 | [KNL To LHR](https://open.spotify.com/track/7aaGOceIZaUaVGKzU4ZTfP) | [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Sameer](https://open.spotify.com/artist/6GITDzZHqhL9AuVVjHQFG7), [Brown Beats](https://open.spotify.com/artist/5oWrsQDyCV8GKaWikhwPfk) | [KNL To LHR](https://open.spotify.com/album/4eLwKIAxknztWvHmLMVl0x) | 2:23 |
+| 42 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
 | 43 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
 | 44 | [Jail \(feat\. Pranjal Dahiya\)](https://open.spotify.com/track/5RwdPoK7ZjVNbdxdOqUBUb) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Jail \(feat\. Pranjal Dahiya\)](https://open.spotify.com/album/0WXwgIAdyIW0rkuUTf3pFo) | 3:26 |
 | 45 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 |
 | 50 | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/track/2PnmxUT3UT8EIChBeWR9RG) | [Branded Fouji](https://open.spotify.com/artist/6sbBZPIY51iHNT9Ydt7IMs), [Dopevibe](https://open.spotify.com/artist/16FUi8xdvWrsJH08z9bKKr), [Neeraj Goyat](https://open.spotify.com/artist/23EVnGZSG0LzdeEXJvefda), [Raja Yadav](https://open.spotify.com/artist/1jdSs5vlSStODzBAi30Z6V) | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/album/0em397h6R74n2y5v5JhJyc) | 3:23 |
 
-Snapshot ID: `AAAAANi4k3Oir0E9yPwST3ad8e1tCcjW`
+Snapshot ID: `AAAAAE5snkP7LfwwRSHi/91B5Y5sfHYW`

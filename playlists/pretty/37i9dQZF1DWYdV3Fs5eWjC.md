@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: The Arti$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,044 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,049 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 62 | [chosen](https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:49 |
 | 63 | [RECLUSE](https://open.spotify.com/track/239VipGSNCZXMhEgVei9g3) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RECLUSE](https://open.spotify.com/album/2WUVOvapEN2Kb2lxoHGW14) | 3:51 |
 | 64 | [Lipstick Lover](https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:49 |
-| 65 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
-| 66 | [Sober](https://open.spotify.com/track/4TdNha99Qw51SxsKjTa4nU) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:41 |
-| 67 | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/track/2nvC1iU3ijdzd7DIe5Kc5m) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [SUNRISE](https://open.spotify.com/album/5gj6WhFDfw3vKeiinQRGqh) | 2:56 |
+| 65 | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/track/2nvC1iU3ijdzd7DIe5Kc5m) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [SUNRISE](https://open.spotify.com/album/5gj6WhFDfw3vKeiinQRGqh) | 2:56 |
+| 66 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
+| 67 | [Sober](https://open.spotify.com/track/4TdNha99Qw51SxsKjTa4nU) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:41 |
 | 68 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
-| 69 | [want](https://open.spotify.com/track/7xerCwWpbFpdYfuYCiguAt) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 2:24 |
-| 70 | [Got Her Own](https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:05 |
+| 69 | [Got Her Own](https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:05 |
+| 70 | [want](https://open.spotify.com/track/7xerCwWpbFpdYfuYCiguAt) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 2:24 |
 | 71 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
 | 72 | [Heaven feat\. Tinashe](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
 | 73 | [Nasty](https://open.spotify.com/track/57jnaPSchj34y6k44qVYc3) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Max YB](https://open.spotify.com/artist/1utuqjQ62Vu5Kokk1cY7Jg) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:36 |

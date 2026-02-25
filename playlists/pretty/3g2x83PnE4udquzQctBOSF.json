@@ -1,13 +1,53 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2692,
+  "num_followers": 2693,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARbozMbAjw5CcQ/cC2zYYa1N4Wz2wI",
+  "snapshot_id": "AAARcFEwkfOJtXxbTjATJpbvsBj8yKKF",
   "tracks": [
+    {
+      "added_at": "2026-02-24 13:20:04",
+      "album": {
+        "name": "Endless Bliss",
+        "url": "https://open.spotify.com/album/2Vde3eMCZfYoM6BjP7WwNz"
+      },
+      "artists": [
+        {
+          "name": "Viaggi Sonori",
+          "url": "https://open.spotify.com/artist/2Rmp2ArNd8rvmEJ3QBNe3Q"
+        },
+        {
+          "name": "Mark Sunrise",
+          "url": "https://open.spotify.com/artist/0OpqRkBzUOzMFT0ilUvOqw"
+        },
+        {
+          "name": "Jolie",
+          "url": "https://open.spotify.com/artist/4h6P5BOsf2pPJQwhderv6Z"
+        }
+      ],
+      "duration_ms": 218149,
+      "name": "Endless Bliss",
+      "url": "https://open.spotify.com/track/3MFp3iT64O44kvRuDXlVnN"
+    },
+    {
+      "added_at": "2026-02-24 12:08:47",
+      "album": {
+        "name": "Rock The Casbah (Club Mix)",
+        "url": "https://open.spotify.com/album/3l4PdEXNDiXAQIsTJtAiGc"
+      },
+      "artists": [
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "duration_ms": 306923,
+      "name": "Rock The Casbah - Club Mix",
+      "url": "https://open.spotify.com/track/22tlePO9GUEXH0cAofRKTH"
+    },
     {
       "added_at": "2026-02-23 19:07:45",
       "album": {

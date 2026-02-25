@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33747,
+  "num_followers": 33748,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Milonga Del Fin Del Mundo",
+        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 324720,
+      "name": "Milonga Del Fin Del Mundo",
+      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 187509,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Milonga Del Fin Del Mundo",
-        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 324720,
-      "name": "Milonga Del Fin Del Mundo",
-      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
-      },
-      "artists": [
-        {
-          "name": "Pepi Taveira",
-          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
-        }
-      ],
-      "duration_ms": 389440,
-      "name": "Reuni\u00f3n",
-      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 356723,
       "name": "De Pie",
       "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
+      },
+      "artists": [
+        {
+          "name": "Pepi Taveira",
+          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
+        }
+      ],
+      "duration_ms": 389440,
+      "name": "Reuni\u00f3n",
+      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Rata",
-        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 292572,
       "name": "Creer en las Hojas",
       "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Rata",
+        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Apal\u00e1p!",
         "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 493933,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "En el fondo del mar",
-        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 367797,
-      "name": "En el fondo del mar",
-      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "...Baby One More Time",
         "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 201500,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "En el fondo del mar",
+        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 367797,
+      "name": "En el fondo del mar",
+      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
     },
     {
       "added_at": "2025-04-14 14:58:34",

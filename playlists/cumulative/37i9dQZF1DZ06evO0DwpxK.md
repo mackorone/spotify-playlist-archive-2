@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 53 min
+79 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Encerrados](https://open.spotify.com/track/3bLEc8iw4wZqMFb6MFB7Bg) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:36 | 2023-11-10 | 2024-12-07 |
 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 | 2023-11-10 |  |
 | [fantasmas](https://open.spotify.com/track/16OhThzklXn3xI3iNzcIus) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1vAsU8qdTEo5YzOduO9Uce) | 4:47 | 2025-03-30 | 2026-02-14 |
+| [fantasmas](https://open.spotify.com/track/4mmt6QpIOOn5ySzKWB6qOB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:47 | 2026-02-25 |  |
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2023-12-13 | 2025-03-30 |
 | [Ganas de Verte](https://open.spotify.com/track/0F84fAwNfEGg9ZIJZCf8cE) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:07 | 2023-11-10 | 2025-03-21 |
 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:12 | 2025-12-08 |  |
@@ -82,7 +83,7 @@
 | [Una Vida, Y Ya](https://open.spotify.com/track/5v1LLkuUTtm9Hy6btIPXXn) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Una Vida, Y Ya](https://open.spotify.com/album/4rxU2TZelNYNHYN59cMI10) | 3:31 | 2023-11-10 | 2025-04-14 |
 | [VEGAS](https://open.spotify.com/track/4DOp66dTHPCy2ICXWVkkPE) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:35 | 2025-12-08 |  |
 | [VETIVER Y AMARETTO](https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [VETIVER Y AMARETTO](https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs) | 4:02 | 2025-10-19 | 2026-01-01 |
-| [VETIVER Y AMARETTO](https://open.spotify.com/track/4gcxYsMGTnR73lKbMY6MIg) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:02 | 2026-01-01 |  |
+| [VETIVER Y AMARETTO](https://open.spotify.com/track/4gcxYsMGTnR73lKbMY6MIg) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:02 | 2026-01-01 | 2026-02-25 |
 | [yo x3](https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [yo x3](https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A) | 3:42 | 2023-11-10 | 2025-02-09 |
 | [¿Volver?](https://open.spotify.com/track/0YIJV7HH8MYiKdWQTZcydS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq) | [¿Volver?](https://open.spotify.com/album/0u9IMrvAXTW9FoeQbAFXm0) | 3:45 | 2023-11-10 | 2025-01-06 |
 | [últimamente](https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:49 | 2023-11-10 |  |

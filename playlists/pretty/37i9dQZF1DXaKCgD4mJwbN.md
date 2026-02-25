@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 
 > Puras rolitas pa' empinar el codo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,909 likes - 125 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,025 likes - 125 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 70 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 |
 | 71 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
 | 72 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
-| 73 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
+| 73 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 | 74 | [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 |
-| 75 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
+| 75 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
 | 76 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 77 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
 | 78 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,259 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,289 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 19 | [wokeuplikethis\*](https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:55 |
 | 20 | [Over](https://open.spotify.com/track/08dz3ygXyFur6bL7Au8u8J) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:46 |
 | 21 | [Flex Up \(feat\. Future & Playboi Carti\)](https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil Boat 3.5](https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo) | 2:50 |
-| 22 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 22 | [HBA](https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:32 |
 | 23 | [R.I.P.](https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:12 |
 | 24 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
 | 25 | [Flex](https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 4:00 |
-| 26 | [HBA](https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:32 |
+| 26 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 27 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 |
 | 28 | [Foreign](https://open.spotify.com/track/500l6Cwe40hkPqS7Sf7ufY) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:22 |
 | 29 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 46 | [Fire Your Manager \(feat\. Playboi Carti\)](https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:53 |
 | 47 | [Baguettes in the Face \(feat\. NAV, Playboi Carti & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 2:54 |
 
-Snapshot ID: `aZpHAAAAAAD+BZdziToxpVYaXRyo1bHO`
+Snapshot ID: `aZuYgAAAAACMwew8KrKH3LDMC66IsERW`

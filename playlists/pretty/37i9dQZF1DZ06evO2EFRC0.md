@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,812 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,831 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 49 | [Dios Ha Sido Bueno \- En Vivo desde el Auditorio Nacional](https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Un Corazón \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU) | 1:33 |
 | 50 | [Con Tu sangre](https://open.spotify.com/track/2EoIy20ie1pADLLfVzGiOZ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 6:46 |
 
-Snapshot ID: `aZpHAAAAAACSWmFMyjnScxdJhF628eff`
+Snapshot ID: `aZuYgAAAAAAhitiXWiDwgPu4xKZbYWCT`

@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223318,
+      "name": "Cliffhanger",
+      "url": "https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL"
+    },
+    {
+      "album": {
         "name": "Cold as Ice",
         "url": "https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM"
       },

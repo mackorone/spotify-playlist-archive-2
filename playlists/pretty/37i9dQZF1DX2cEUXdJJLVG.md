@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,607 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,616 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 99 | [Flatlining \- Shamis Remix](https://open.spotify.com/track/07AeQ6h4PTbh3m8Fx89u6i) | [Rilan & The Bombardiers](https://open.spotify.com/artist/1yawxcvEJTTtsz2aX3yruE), [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717) | [Flatlining \- Shamis Remix](https://open.spotify.com/album/6AlwUsiyWlD7j6zdMSQMSO) | 5:24 |
 | 100 | [Shedding](https://open.spotify.com/track/4EzIrPHgxqHbNB3ikyo0io) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Elodie Jeannette](https://open.spotify.com/artist/1S8dJy0rk4PoWBW59sxNXp) | [Shedding](https://open.spotify.com/album/5VkJBbs31x4t480lF7E5WR) | 2:42 |
 
-Snapshot ID: `AAAAAFKEjowpnqJixl2qMQct/Xm9XpLh`
+Snapshot ID: `AAAAALvEyFHBn1d5FvASxnnERUHAP9MW`

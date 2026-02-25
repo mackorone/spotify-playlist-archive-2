@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 07.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 08.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
         "name": "Baccarat",
         "url": "https://open.spotify.com/album/19QZyVt0YSbfplha3kmarF"
       },
@@ -1288,6 +1306,46 @@
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+    },
+    {
+      "album": {
+        "name": "BLN",
+        "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167153,
+      "name": "BLN",
+      "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
+    },
+    {
+      "album": {
+        "name": "BLOCKKIDS",
+        "url": "https://open.spotify.com/album/14hKqYA0CCaPrbtpcMVZBc"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147893,
+      "name": "BLOCKKIDS",
+      "url": "https://open.spotify.com/track/2IzZDG0nsfZD8H9AKi2aPc"
     },
     {
       "album": {
@@ -2284,7 +2342,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
@@ -2458,7 +2516,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
@@ -2676,7 +2734,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 123750,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/2kGMz4gdfrAmZ1H6jR2li8"
@@ -2788,6 +2846,24 @@
       "duration_ms": 101842,
       "name": "Espresso flow",
       "url": "https://open.spotify.com/track/1TLDbhdGX1J4ErYnkbC397"
+    },
+    {
+      "album": {
+        "name": "Lokalpatriot",
+        "url": "https://open.spotify.com/album/41cipwBmzRLLrOEyZ6657Z"
+      },
+      "artists": [
+        {
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Et jitt kei Wood",
+      "url": "https://open.spotify.com/track/6TmFBRcA3nbLgASXmMz7Ch"
     },
     {
       "album": {
@@ -4444,7 +4520,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 157800,
       "name": "KUSURA BAKMA",
       "url": "https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o"
@@ -4598,6 +4674,24 @@
       "duration_ms": 109714,
       "name": "LEBENSLANG",
       "url": "https://open.spotify.com/track/6sRMRDv4gJ3OZECitVH8pc"
+    },
+    {
+      "album": {
+        "name": "Leev Marie",
+        "url": "https://open.spotify.com/album/0GKP1k0w7mYKlhAfEiqc9D"
+      },
+      "artists": [
+        {
+          "name": "Paveier",
+          "url": "https://open.spotify.com/artist/0F3lC4Bfyf7mKrkCiXPAaO"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262240,
+      "name": "Leev Marie",
+      "url": "https://open.spotify.com/track/6te4u5fA8mtW1DYoB9YV4t"
     },
     {
       "album": {
@@ -4812,7 +4906,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
@@ -5044,7 +5138,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -5328,6 +5422,28 @@
       "duration_ms": 139065,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh"
+    },
+    {
+      "album": {
+        "name": "Millieu 26",
+        "url": "https://open.spotify.com/album/0dUuFD6AjukOi2TFrQ60l3"
+      },
+      "artists": [
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138315,
+      "name": "Millieu 26",
+      "url": "https://open.spotify.com/track/4KsQEEgcy7dA1yVGkI2ozm"
     },
     {
       "album": {
@@ -5781,6 +5897,28 @@
     },
     {
       "album": {
+        "name": "Nur Mailbox",
+        "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Nur Mailbox",
+      "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
+    },
+    {
+      "album": {
         "name": "junge ceos 1",
         "url": "https://open.spotify.com/album/5TBmws55nbERqZgYuoY4uB"
       },
@@ -5810,10 +5948,32 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 235301,
       "name": "Oben Unten",
       "url": "https://open.spotify.com/track/5xxbVTbbFGomX8LL3izvpA"
+    },
+    {
+      "album": {
+        "name": "Oben unten (Party Edit)",
+        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4uber",
+          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Oben unten - Party Edit",
+      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
     },
     {
       "album": {
@@ -5970,7 +6130,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 162222,
       "name": "OYE!",
       "url": "https://open.spotify.com/track/3dWUicD478ooh65glDd3OJ"
@@ -6236,6 +6396,24 @@
       "duration_ms": 223213,
       "name": "Polka, Polka, Polka - Single Version",
       "url": "https://open.spotify.com/track/6O0OwJjXAnmrevV7Sadhvx"
+    },
+    {
+      "album": {
+        "name": "Prinzessin",
+        "url": "https://open.spotify.com/album/0STvjCXEhL9eTCSbwUmFE7"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6hner",
+          "url": "https://open.spotify.com/artist/6A9b0JlSJF0KxCddzOTGiA"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "Prinzessin",
+      "url": "https://open.spotify.com/track/6uOVO0ZhvcrcI4b0M34WUq"
     },
     {
       "album": {
@@ -6542,7 +6720,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -6904,7 +7082,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 141067,
       "name": "Schiebedach",
       "url": "https://open.spotify.com/track/1uXGJ0jZ6IBbjN27QDGJpR"
@@ -7800,7 +7978,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 144200,
       "name": "Tash Bolivia",
       "url": "https://open.spotify.com/track/0BB85Wiq8w6jggzWy125TJ"
@@ -8178,7 +8356,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
@@ -8705,6 +8883,28 @@
     },
     {
       "album": {
+        "name": "UZI",
+        "url": "https://open.spotify.com/album/6j5RD6zFJgvcAWksvUZ6hI"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "UZI",
+      "url": "https://open.spotify.com/track/4gAYiVZJiAO72GclV4CHGz"
+    },
+    {
+      "album": {
         "name": "U\u00e7urum",
         "url": "https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu"
       },
@@ -8978,6 +9178,28 @@
       "duration_ms": 164991,
       "name": "Wenn das Liebe ist",
       "url": "https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3"
+    },
+    {
+      "album": {
+        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
     },
     {
       "album": {
@@ -9264,7 +9486,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

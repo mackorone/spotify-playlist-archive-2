@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,635 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,671 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 23 | [Buenos Amigos](https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 4:44 |
 | 24 | [Fuertemente](https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 2:49 |
 | 25 | [Ahora Dile](https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Ven Mi Amor](https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8) | 3:52 |
-| 26 | [Quién Iba A Pensar](https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Quién Iba A Pensar \(Remastered\)](https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs) | 4:00 |
-| 27 | [Como Te Extrano](https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:38 |
+| 26 | [Como Te Extrano](https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:38 |
+| 27 | [Quién Iba A Pensar](https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Quién Iba A Pensar \(Remastered\)](https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs) | 4:00 |
 | 28 | [La Llamada \- 1993 Version](https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:09 |
 | 29 | [Lo Que Yo Tengo](https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [The Voice](https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b) | 3:29 |
 | 30 | [Tejano Megamix \- Long Version](https://open.spotify.com/track/1V8rBKeQAbNwykLUrL4qDh) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC), [Fama](https://open.spotify.com/artist/3mK3I4pAYHDILmtW2DAiPR), [Eddie Gonzalez](https://open.spotify.com/artist/53UIi1CtSze9M18oonJmbD), [Los Palominos](https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe), [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1), [Elida](https://open.spotify.com/artist/2YnBKr5JGMQGUc38Xtxfza), [Avante](https://open.spotify.com/artist/6896baHJeiJoAKbQ85CTeP), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE), [David Marez](https://open.spotify.com/artist/1RXrFi7d58eFQxyWkdbQuq), [Shelly](https://open.spotify.com/artist/5Aab1JpsQWPuJM8Q58La5w), [Lares](https://open.spotify.com/artist/0R4xZB0REyTaiF9F24dZsO) | [Tejano Mix](https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg) | 8:08 |

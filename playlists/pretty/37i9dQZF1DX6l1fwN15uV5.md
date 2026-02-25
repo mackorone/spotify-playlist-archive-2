@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,189 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510,182 likes - 80 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 35 | [Army Dreamers](https://open.spotify.com/track/6OmdWLjlx4BIDGEO8BZlqH) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 2:58 |
 | 36 | [Every Time You Go Away \- Radio Edit](https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:27 |
 | 37 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
-| 38 | [Slave To Love](https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Boys And Girls](https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2) | 4:26 |
-| 39 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 |
+| 38 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 |
+| 39 | [Slave To Love](https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Boys And Girls](https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2) | 4:26 |
 | 40 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 41 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
 | 42 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/1MsBRSbt5dqJSw3RxXtvCM) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 3:18 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 63 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:58 |
 | 64 | [Coming Around Again](https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Coming Around Again](https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc) | 3:38 |
 | 65 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:19 |
-| 66 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
-| 67 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
+| 66 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
+| 67 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
 | 68 | [Orinoco Flow](https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Themes From "Calmi Cuori Appassionati"](https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8) | 4:26 |
 | 69 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
 | 70 | [Together In Electric Dreams \- Remastered 2003 / From "Electric Dreams" Original Motion Picture Soundtrack](https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS) | [Phil Oakey](https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn), [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Philip Oakey & Giorgio Moroder](https://open.spotify.com/album/2VL7fCZeDWVJAWpIhlRoDm) | 3:52 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 74 | [Smooth Operator \- 2011 Remastered](https://open.spotify.com/track/28XDE6yXI6Bp4U3nLSGqzp) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:16 |
 | 75 | [The Power of Love](https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [The Power Of Love: The Best Of Jennifer Rush](https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG) | 4:28 |
 | 76 | [Jealous Guy](https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [The Best Of Roxy Music](https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7) | 4:57 |
-| 77 | [Crazy for You](https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:44 |
-| 78 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
+| 77 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
+| 78 | [Crazy for You](https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:44 |
 | 79 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
 | 80 | [Superwoman](https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz) | [Karyn White](https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F) | [Karyn White](https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F) | 5:47 |
 

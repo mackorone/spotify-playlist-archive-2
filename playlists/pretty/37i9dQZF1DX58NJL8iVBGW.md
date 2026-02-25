@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,461 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,517 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 56 | [Rosie](https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [Small Town Murder Songs \- Original Soundtrack](https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ) | 3:12 |
 | 57 | [Underneath the Blood Moon](https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Underneath the Blood Moon](https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B) | 4:30 |
 | 58 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
-| 59 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
-| 60 | [Where the Enemy Sleeps \(feat\. Lucette\)](https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k) | [Scott Mackay](https://open.spotify.com/artist/2xYS83mlSswjyivp81pukU), [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Twin](https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J) | 3:16 |
+| 59 | [Where the Enemy Sleeps \(feat\. Lucette\)](https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k) | [Scott Mackay](https://open.spotify.com/artist/2xYS83mlSswjyivp81pukU), [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Twin](https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J) | 3:16 |
+| 60 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
 | 61 | [Dead Man's Pocket](https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 2:54 |
 | 62 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 |
 | 63 | [God Of Love](https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [3](https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P) | 3:54 |
 | 64 | [Elizabeth](https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Elizabeth](https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU) | 4:01 |
-| 65 | [Country Blues](https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk) | [Rose's Pawn Shop](https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3) | [Gravity Well](https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB) | 3:23 |
-| 66 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
+| 65 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
+| 66 | [Country Blues](https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk) | [Rose's Pawn Shop](https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3) | [Gravity Well](https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB) | 3:23 |
 | 67 | [How Many Days](https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Ghost Brothers of Darkland County](https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS) | 3:41 |
 | 68 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
 | 69 | [Sun to Sun](https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:04 |

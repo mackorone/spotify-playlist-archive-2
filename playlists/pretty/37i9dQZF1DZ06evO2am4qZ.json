@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABd8kTr115wHivxLCHUOve8",
+  "snapshot_id": "aZuYgAAAAACRAUQqgvcUaK45TdZ/tQDd",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
-        "url": "https://open.spotify.com/album/7kNSP0jOh4pBmKvWNQEHaj"
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Alaya",
+          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
         }
       ],
-      "duration_ms": 189960,
-      "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
-      "url": "https://open.spotify.com/track/6YvzWqCKEUwKIOozTK0x47"
+      "duration_ms": 192697,
+      "name": "Like We",
+      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
     },
     {
       "added_at": null,
@@ -403,26 +403,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
+        "url": "https://open.spotify.com/album/7kNSP0jOh4pBmKvWNQEHaj"
       },
       "artists": [
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Alaya",
-          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
         }
       ],
-      "duration_ms": 192697,
-      "name": "Like We",
-      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+      "duration_ms": 189960,
+      "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
+      "url": "https://open.spotify.com/track/6YvzWqCKEUwKIOozTK0x47"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 262178,
-      "name": "A Ballad for Homegirls (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eenie Meenie",
         "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 262832,
       "name": "Mean Girl (feat. Queen Key & Asian Doll)",
       "url": "https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 262178,
+      "name": "A Ballad for Homegirls (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Olipop",
-      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
+      "duration_ms": 250774,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 250774,
-      "name": "What's Love",
-      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
+      "duration_ms": 104000,
+      "name": "Olipop",
+      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
     },
     {
       "added_at": null,
@@ -963,22 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ms. Out Tonight",
-        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
+        "name": "Sailor Moon (2.0)",
+        "url": "https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz"
       },
       "artists": [
         {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 209577,
-      "name": "Dirty Girl (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
+      "duration_ms": 197123,
+      "name": "Sailor Moon - 2.0",
+      "url": "https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA"
     },
     {
       "added_at": null,

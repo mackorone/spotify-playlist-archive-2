@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,033 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,045 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 23 | [Estilo Malandro](https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:32 |
 | 24 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
 | 25 | [Borracho Gacho \(feat\. Dharius\)](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 |
-| 26 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
-| 27 | [MSD](https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [MSD](https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb) | 2:49 |
+| 26 | [MSD](https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [MSD](https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb) | 2:49 |
+| 27 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
 | 28 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
 | 29 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Estrafalario](https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p) | 2:40 |
 | 30 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [Relax](https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:13 |
 | 50 | [Qué Buen Fiestón](https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 2:49 |
 
-Snapshot ID: `aZpHAAAAAAA/R65cJZu021r2RIYg0LRR`
+Snapshot ID: `aZuYgAAAAAC7NqJAsLlP2Ycu6QLC9OYo`

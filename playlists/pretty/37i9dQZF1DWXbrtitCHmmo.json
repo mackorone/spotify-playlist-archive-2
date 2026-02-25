@@ -1,6 +1,6 @@
 {
   "description": "\u00a1De vuelta a los 2000s con los mejores \u00e9xitos! Paulina Rubio & David Bisbal en portada.",
-  "num_followers": 155041,
+  "num_followers": 155172,
   "original_name": "Fiesta 2000era",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 216786,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-06-07 16:24:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
-        "name": "2000 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
-      },
-      "artists": [
-        {
-          "name": "Chocolate",
-          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Mayonesa",
-      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
+        "name": "2000 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
+      },
+      "artists": [
+        {
+          "name": "Chocolate",
+          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
     },
     {
       "added_at": "2024-06-07 16:24:56",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
-        "name": "Motel",
-        "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
-      },
-      "artists": [
-        {
-          "name": "Motel",
-          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Dime Ven",
-      "url": "https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
         "name": "Un Mundo Diferente",
         "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267106,
       "name": "Color Esperanza",
       "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Dime Ven",
+      "url": "https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk"
     },
     {
       "added_at": "2024-06-07 16:24:56",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "A Quien Le Importa",
+      "url": "https://open.spotify.com/track/0R5da1qbsZ8juxK3Dm8XCw"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
         "name": "Amar es Combatir",
         "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/1TKg3TNK8AN6WSoETpnNnI"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
-        "name": "Una Rosa Blu",
-        "url": "https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/7iKSx0WjzCgYYaM7o1R5CV"
     }
   ],
   "unique_name": "Fiesta 2000era",

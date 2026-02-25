@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,289 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,297 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 49 | [You Can't Stop It](https://open.spotify.com/track/1RZD3Ibynuqkar2uRW0PE8) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:53 |
 | 50 | [I](https://open.spotify.com/track/1Mq96Jbp8dPgJFOvejoK03) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 0:47 |
 
-Snapshot ID: `aZpHAAAAAAAmEp3F9mp5L8BkH1RhDOfi`
+Snapshot ID: `aZuYgAAAAAA/sP1T6imOnbadLcAQuQl+`

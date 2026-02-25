@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > bolsa nova é pra caber 💵 ne?!?! // Emilly Guedes, LAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,160 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,198 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Tentação](https://open.spotify.com/track/2yGHa9nqKpmWrVac0z2pZE) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o) | [Tentação](https://open.spotify.com/album/0Wai4QP0vTnVgo5dZ0DdTS) | 3:25 |
 | 40 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
 | 41 | [Eu Só Tenho Isso \- Bonus Track](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |
-| 42 | [Descarga](https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M) | [Mana Bella](https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Descarga](https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx) | 3:03 |
-| 43 | [Bandida chata](https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [bandida chata \(original\)](https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq) | 3:20 |
+| 42 | [Bandida chata](https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [bandida chata \(original\)](https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq) | 3:20 |
+| 43 | [Descarga](https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M) | [Mana Bella](https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Descarga](https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx) | 3:03 |
 | 44 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
 | 45 | [Uma Palavra](https://open.spotify.com/track/6Xr7f68EcpVcBvSdsf6chq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [Alta Rec](https://open.spotify.com/artist/4S88NckzXHTMwvXw7kY0Ii) | [Uma Palavra](https://open.spotify.com/album/3JHviWUiHa0KjaenAiVZqK) | 2:11 |
 | 46 | [Fulô](https://open.spotify.com/track/6yCGjhu4yi8FVnN3lk1FwJ) | [CRYSTAYLE](https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [gptonosbeats](https://open.spotify.com/artist/3bQ24dwmU7qN9pDapFUGUR), [Enigma](https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ) | [Fulô](https://open.spotify.com/album/2qjW8ftSQ03mVlHlqzRiIq) | 2:28 |

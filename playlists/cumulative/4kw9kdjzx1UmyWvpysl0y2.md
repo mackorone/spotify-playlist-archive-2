@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,179 songs - 2 day 17 hr 50 min
+1,180 songs - 2 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,6 +985,7 @@
 | [Sunrise](https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Sunrise](https://open.spotify.com/album/7FZCcXAeHZR34WCt1w2aBm) | 3:26 | 2025-09-16 | 2025-12-13 |
 | [Sunset Kiss](https://open.spotify.com/track/5R4Ii9nYR4PLmOVlpTwk3C) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Sunset Kiss](https://open.spotify.com/album/02A0ZhFNndBU0oMuqhOBlS) | 1:55 | 2025-10-01 | 2026-01-15 |
 | [SUPERCAR](https://open.spotify.com/track/6pJIgc6lMzltj2f4CZZxkq) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [SUPERCAR](https://open.spotify.com/album/0kUpoKgI8BiH2KqkS8cmnp) | 2:34 | 2026-01-23 |  |
+| [SUPERCAR \- Euro Bounce Mix](https://open.spotify.com/track/17ARBqx7x6vjDdvG27nzgJ) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [SUPERCAR \(Euro Bounce Mix\)](https://open.spotify.com/album/36aTMYgNTmvp0M3MUDhGkH) | 2:33 | 2026-02-24 |  |
 | [SURFACE](https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [SURFACE](https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7) | 2:12 | 2025-06-11 | 2025-09-06 |
 | [Surge](https://open.spotify.com/track/1rBcquk3vLXxSvDl0JSeTY) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Surge](https://open.spotify.com/album/2BgT3BAKshSa5T98Q5rZds) | 3:40 | 2025-04-25 | 2025-07-22 |
 | [Surge \- No Mana Remix](https://open.spotify.com/track/6TrYEKAiC0y71cqplcn0Yy) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Surge \(No Mana Remix\)](https://open.spotify.com/album/6xgYencWHzm6ZKKzUtqPTR) | 3:30 | 2025-06-04 | 2025-08-28 |

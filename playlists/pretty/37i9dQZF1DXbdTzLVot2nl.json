@@ -1,6 +1,6 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 118246,
+  "num_followers": 118255,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+        "name": "Colour By Numbers (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
         }
       ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -415,18 +431,18 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Colour By Numbers (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
       "artists": [
         {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+      "duration_ms": 280586,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -443,22 +459,6 @@
       "duration_ms": 348226,
       "name": "Radio Ga Ga - Remastered 2011",
       "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280586,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 220626,
       "name": "Hungry Like the Wolf - 2009 Remaster",
       "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Seven Wonders - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Freeze Frame",
         "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Seven Wonders - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx"
     },
     {
       "added_at": "2022-06-08 06:25:05",

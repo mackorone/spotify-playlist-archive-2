@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > qué no se apague la lumbre 🍺🔥 con Carin León, Lalo Mora y Eliseo Robles
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,175 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,181 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 21 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Colección De Oro De Antonio Aguilar, Vol\. 5: 1990\-2000](https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy) | 3:07 |
 | 22 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
 | 23 | [Por Qué Nos Dijimos Adiós](https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:23 |
-| 24 | [Rinconcito En El Cielo](https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 3:34 |
-| 25 | [Voy a Pintar Mi Raya](https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 3:46 |
+| 24 | [Voy a Pintar Mi Raya](https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 3:46 |
+| 25 | [Rinconcito En El Cielo](https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 3:34 |
 | 26 | [Busca Otro Amor](https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:15 |
 | 27 | [La Gitanilla](https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 3:08 |
 | 28 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/16240HVz8WRk5I0ddFDLFS) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tu Ya Lo Conoces](https://open.spotify.com/album/7l8sxsHe2YQVuleL1nQN18) | 3:03 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 69 | [Ya la Luna](https://open.spotify.com/track/0sJmbFssvPsTJUkrUyAMkj) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:25 |
 | 70 | [Con Cartitas](https://open.spotify.com/track/1YQInx1RDDFO22FwbWcjey) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 3:22 |
 | 71 | [Mi Tesoro](https://open.spotify.com/track/5Afeci0I2L79n5NGFJ4YkQ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 3:01 |
-| 72 | [Por Alguien \- En Vivo](https://open.spotify.com/track/217KJnIY8u26j5Fn2vcMRj) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Puras Pa' Tomar Vol.1 \(En Vivo\)](https://open.spotify.com/album/03LCGIUYnwjxMEugeG46Xe) | 3:57 |
-| 73 | [Me Cai De La Nube](https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze) | 3:08 |
+| 72 | [Me Cai De La Nube](https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze) | 3:08 |
+| 73 | [Por Alguien \- En Vivo](https://open.spotify.com/track/217KJnIY8u26j5Fn2vcMRj) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Puras Pa' Tomar Vol.1 \(En Vivo\)](https://open.spotify.com/album/03LCGIUYnwjxMEugeG46Xe) | 3:57 |
 | 74 | [Palomas Que Andan Volando](https://open.spotify.com/track/3KHMktUROn4Ac9A6QCNn8L) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [La Migra y Sus Mas Grandes Exitos](https://open.spotify.com/album/0OJFuSgHdlUIAShyoeublv) | 4:11 |
 | 75 | [Una Sola Caída](https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 2:56 |
 

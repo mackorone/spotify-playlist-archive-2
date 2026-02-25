@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -6750,7 +6750,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
@@ -6786,7 +6786,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 414380,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
@@ -7092,7 +7092,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -7136,7 +7136,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -8758,7 +8758,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 226533,
       "name": "FOREVER TU GANTEL",
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
@@ -9294,7 +9294,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 414266,
       "name": "Gitana",
       "url": "https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt"
@@ -17342,7 +17342,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
@@ -18398,6 +18398,24 @@
       "duration_ms": 209492,
       "name": "POR QU\u00c9 SER\u00c1",
       "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264946,
+      "name": "POR SI MA\u00d1ANA NO ESTOY",
+      "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
     },
     {
       "album": {
@@ -21141,6 +21159,24 @@
     },
     {
       "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251360,
+      "name": "SI EST\u00c1S CON ALGUIEN",
+      "url": "https://open.spotify.com/track/7nyk5uxevcijIfl1FlJgmA"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -22878,7 +22914,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -23838,7 +23874,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 302253,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
@@ -24866,7 +24902,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
@@ -25606,7 +25642,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

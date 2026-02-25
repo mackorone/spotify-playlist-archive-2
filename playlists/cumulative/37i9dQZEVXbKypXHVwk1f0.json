@@ -6472,7 +6472,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 221373,
       "name": "COMERNOS",
       "url": "https://open.spotify.com/track/2TYZU0Fvfp5b7gbfqdIAq6"
@@ -9068,7 +9068,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -9338,7 +9338,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 351200,
       "name": "Dulces Sue\u00f1oZzz (+INTERLUDIO)",
       "url": "https://open.spotify.com/track/600Aoatd1rT5bZYZtrguNz"
@@ -9392,7 +9392,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -9840,7 +9840,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
@@ -9906,7 +9906,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 414380,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
@@ -13398,7 +13398,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 414266,
       "name": "Gitana",
       "url": "https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt"
@@ -15878,7 +15878,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -24026,7 +24026,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 240563,
       "name": "OUTRO",
       "url": "https://open.spotify.com/track/3nREMKR9AuM6AikqWwcAUA"
@@ -25192,7 +25192,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
@@ -26484,6 +26484,24 @@
       "duration_ms": 216626,
       "name": "Popurr\u00ed Navide\u00f1o / Estrella De Oriente (De Tierras Lejanas) / Noche De Paz / La Virgen Mar\u00eda / La Tierra M\u00eda",
       "url": "https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW"
+    },
+    {
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
     },
     {
       "album": {
@@ -31374,7 +31392,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 213840,
       "name": "SKY",
       "url": "https://open.spotify.com/track/52eJOGfsKEEkHrfZt6Kl3p"
@@ -32422,7 +32440,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
@@ -37958,7 +37976,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"

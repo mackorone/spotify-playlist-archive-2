@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 673 songs - 1 day 20 hr 1 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 674 songs - 1 day 20 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -675,11 +675,12 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 665 | [Joy Peace Love](https://open.spotify.com/track/3h90xrOdXjyFn5SUpxigvR) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Love Gun 3](https://open.spotify.com/album/05abH0jre9UAK7UW7iQWb1) | 3:39 |
 | 666 | [GODLY \(feat\. Damon Albarn\)](https://open.spotify.com/track/69zR9rUlizT5evNCIIHrTn) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 2:33 |
 | 667 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 668 | [Silent Exchange](https://open.spotify.com/track/5CywEBmK1gLCWb8V5NhS0p) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Small Talk](https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk) | 3:41 |
-| 669 | [I Heard That Noise](https://open.spotify.com/track/7kWg7OPDf0HXdc8I6EcmVk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:20 |
-| 670 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 |
-| 671 | [Poison Cup](https://open.spotify.com/track/6RWw6s0yGwDEslUdAUtRqy) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/15NPy6xq9HcWA8hYrYtObL) | 2:40 |
-| 672 | [Ptolemy](https://open.spotify.com/track/2QNrkTTtwqVr5MeQb3laxY) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [New Excellent Woman](https://open.spotify.com/album/20KjMhrDbR6zpFWnBFehkW) | 5:01 |
-| 673 | [Aerial Shipyards](https://open.spotify.com/track/5gPhDAudtwdZfMZjuflKlz) | [Bruiser and Bicycle](https://open.spotify.com/artist/06ySZdJ1MzvRgjsNHKzAeM) | [Holy Red Wagon](https://open.spotify.com/album/7KInhpkEghVcfp8g9srnkM) | 7:38 |
+| 668 | [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 |
+| 669 | [Silent Exchange](https://open.spotify.com/track/5CywEBmK1gLCWb8V5NhS0p) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Small Talk](https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk) | 3:41 |
+| 670 | [I Heard That Noise](https://open.spotify.com/track/7kWg7OPDf0HXdc8I6EcmVk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:20 |
+| 671 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 |
+| 672 | [Poison Cup](https://open.spotify.com/track/6RWw6s0yGwDEslUdAUtRqy) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/15NPy6xq9HcWA8hYrYtObL) | 2:40 |
+| 673 | [Ptolemy](https://open.spotify.com/track/2QNrkTTtwqVr5MeQb3laxY) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [New Excellent Woman](https://open.spotify.com/album/20KjMhrDbR6zpFWnBFehkW) | 5:01 |
+| 674 | [Aerial Shipyards](https://open.spotify.com/track/5gPhDAudtwdZfMZjuflKlz) | [Bruiser and Bicycle](https://open.spotify.com/artist/06ySZdJ1MzvRgjsNHKzAeM) | [Holy Red Wagon](https://open.spotify.com/album/7KInhpkEghVcfp8g9srnkM) | 7:38 |
 
-Snapshot ID: `AAAIowI6WaMXxdLb5P13lpg6tPCi/WZ2`
+Snapshot ID: `AAAIpbw0wkqel6qiE44NP0kuY4hPx8N6`

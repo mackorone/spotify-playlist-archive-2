@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,586 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,584 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 30 | [Summer in November](https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 3:49 |
 | 31 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
 | 32 | [Julie.](https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:51 |
-| 33 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 |
-| 34 | [When You Know](https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Waves](https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT) | 2:58 |
+| 33 | [When You Know](https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Waves](https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT) | 2:58 |
+| 34 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 |
 | 35 | [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 |
 | 36 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 |
 | 37 | [Waiting in Vain \- Spotify Singles](https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting In Vain \(Spotify Singles\)](https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs) | 4:12 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 74 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 |
 | 75 | [Let Me See Your Phone](https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Let Me See Your Phone](https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4) | 3:22 |
 | 76 | [dumb luck \(Live at VEVO\)](https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Live at VEVO](https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl) | 2:38 |
-| 77 | [Arz Interlude](https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Imperfections](https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm) | 1:50 |
-| 78 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 |
+| 77 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 |
+| 78 | [Arz Interlude](https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Imperfections](https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm) | 1:50 |
 | 79 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
 | 80 | [Falling or flying](https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M) | 3:24 |
 | 81 | [Lovely](https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Lovely](https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876) | 2:53 |

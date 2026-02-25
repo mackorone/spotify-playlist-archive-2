@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-170 songs - 10 hr 38 min
+171 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Top of the World](https://open.spotify.com/track/3XMm6M9Ol6eQh6zKPixpfB) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None](https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC) | 2:42 | 2024-08-28 | 2024-09-08 |
 | [Top Of The World](https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 2:42 | 2022-05-30 |  |
 | [Top of the World](https://open.spotify.com/track/60IMwt4QDGWwFHhWWbrbbD) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 2:42 | 2023-02-18 | 2023-06-07 |
+| [Trouble](https://open.spotify.com/track/1LObsSST3unPBZ9UF3IQvD) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [A Decade of Destruction](https://open.spotify.com/album/0KFH39kcCnrev1ZDrEID0c) | 3:12 | 2026-02-25 |  |
 | [Trouble](https://open.spotify.com/track/6q05Nn2QU91KkGxY0m8vCk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:12 | 2022-05-30 | 2022-08-21 |
 | [Trouble \- 2025 VERSION](https://open.spotify.com/track/4VNIs1pnI2RYxS4Sm1Zmft) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:12 | 2025-11-01 | 2026-02-21 |
 | [Trouble \- Live](https://open.spotify.com/track/7wnvij5JYWNMNJq6k4rfsc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 1\)](https://open.spotify.com/album/695FFcpts92jn4QDbMJPzD) | 3:20 | 2025-07-28 | 2025-10-01 |

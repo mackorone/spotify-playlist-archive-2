@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Gustavo 51
+> Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,139 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,202 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [L'adresse](https://open.spotify.com/track/2JyZg2ZTWewdYavDVETj1I) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [L'adresse](https://open.spotify.com/album/186lJPIiwQ6wsKxIHRtNgN) | 3:03 |
+| 1 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
 | 2 | [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 |
-| 3 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 |
-| 4 | [bohème](https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [bohème](https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS) | 2:54 |
-| 5 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
-| 6 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
-| 7 | [INSOMNIA HOTEL](https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [INSOMNIA HOTEL](https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN) | 2:39 |
+| 3 | [L'adresse](https://open.spotify.com/track/2JyZg2ZTWewdYavDVETj1I) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [L'adresse](https://open.spotify.com/album/186lJPIiwQ6wsKxIHRtNgN) | 3:03 |
+| 4 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 |
+| 5 | [bohème](https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [bohème](https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS) | 2:54 |
+| 6 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
+| 7 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
 | 8 | [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 |
 | 9 | [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 |
-| 10 | [Fat L7al](https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 3:19 |
-| 11 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
+| 10 | [INSOMNIA HOTEL](https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [INSOMNIA HOTEL](https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN) | 2:39 |
+| 11 | [Fat L7al](https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 3:19 |
 | 12 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 |
 | 13 | [Hello Kitty](https://open.spotify.com/track/6gyhZ6bMdy7FDTYCeqgwec) | [LMLTM](https://open.spotify.com/artist/0uKwNVVupedJeBbIuvXBG2), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Just Feel Me](https://open.spotify.com/album/1pGyDBBEYlMOlqeZy2axu0) | 3:01 |
 | 14 | [Cagoulé pt2](https://open.spotify.com/track/3f1GODLf3GYUH6ReHyTrKR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Cagoulé pt2](https://open.spotify.com/album/0G9fkhG7XtdYDSwGVwWWtV) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 |
 | 50 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
 
-Snapshot ID: `AAAAAPJ114q6bG3GtM0IEmub/lE6M0h8`
+Snapshot ID: `AAAAAIRz+Wc5RTWN81M6R8yn1kXLUlie`

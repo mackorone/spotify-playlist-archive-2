@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2147831,
+  "num_followers": 2148172,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/0XHHQWWgSWNCyE3Hfbfy8a"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
       "added_at": "2025-07-03 03:36:52",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
@@ -227,22 +243,6 @@
       "duration_ms": 200680,
       "name": "PERFuMITO NUEVO",
       "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/0a3lhwW1nJ3Ud9Un2kFunh"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2025-07-03 03:36:52",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+        "name": "Wiped Out!",
+        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 226978,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+      "duration_ms": 260163,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
     },
     {
       "added_at": "2025-09-26 04:00:21",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -451,6 +435,38 @@
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -487,6 +503,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -503,22 +535,6 @@
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Wiped Out!",
-        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 260163,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
     },
     {
       "added_at": "2025-07-03 03:36:52",
@@ -593,22 +609,6 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
       "added_at": "2025-09-19 04:00:19",
       "album": {
         "name": "reputation",
@@ -623,22 +623,6 @@
       "duration_ms": 230373,
       "name": "Dress",
       "url": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -659,6 +643,22 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
       "added_at": "2025-07-03 03:36:52",
       "album": {
         "name": "Dummy",
@@ -819,6 +803,22 @@
       "duration_ms": 249040,
       "name": "Often",
       "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -867,6 +867,22 @@
       "duration_ms": 91869,
       "name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 407315,
+      "name": "House Of Balloons / Glass Table Girls",
+      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 407315,
-      "name": "House Of Balloons / Glass Table Girls",
-      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "BABYDOLL",
         "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 196235,
       "name": "BABYDOLL",
       "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "A 20 Something Fuck",
-        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "I Feel Like I'm Drowning",
-      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
       "added_at": "2024-12-27 16:42:57",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "A 20 Something Fuck",
+        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "I Feel Like I'm Drowning",
+      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 212992,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 212992,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1087,6 +1087,22 @@
       "duration_ms": 373306,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137778,
+      "name": "older",
+      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 153294,
       "name": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 137778,
-      "name": "older",
-      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
     },
     {
+      "added_at": "2025-03-21 04:00:37",
+      "album": {
+        "name": "southbound / test drive",
+        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 137923,
+      "name": "southbound",
+      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Frozen",
@@ -1461,10 +1477,10 @@
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
-      "added_at": "2025-03-21 04:00:37",
+      "added_at": "2025-12-25 05:00:09",
       "album": {
-        "name": "southbound / test drive",
-        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
+        "name": "time alone w u",
+        "url": "https://open.spotify.com/album/0hJGN8c6ZDBsYWf2roeBCR"
       },
       "artists": [
         {
@@ -1472,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 137923,
-      "name": "southbound",
-      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
+      "duration_ms": 132000,
+      "name": "time alone w u",
+      "url": "https://open.spotify.com/track/5l8XXqPtwQQ28ThnjaDUh5"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1541,6 +1557,22 @@
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
+      "added_at": "2026-02-03 17:00:46",
+      "album": {
+        "name": "Do I Wanna Know?",
+        "url": "https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Life On Earth - EP",
@@ -1559,22 +1591,6 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
-    },
-    {
-      "added_at": "2026-02-03 17:00:46",
-      "album": {
-        "name": "Do I Wanna Know?",
-        "url": "https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Do I Wanna Know?",
-      "url": "https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
-    },
-    {
-      "added_at": "2025-12-25 05:00:09",
-      "album": {
-        "name": "time alone w u",
-        "url": "https://open.spotify.com/album/0hJGN8c6ZDBsYWf2roeBCR"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "time alone w u",
-      "url": "https://open.spotify.com/track/5l8XXqPtwQQ28ThnjaDUh5"
     },
     {
       "added_at": "2025-11-28 05:00:17",

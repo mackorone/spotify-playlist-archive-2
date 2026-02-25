@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXDaYK299f9T>Cigarettes After Sex</a>, <a href=spotify:playlist:37i9dQZF1EIVIqVkf7wk6q>She & Him</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUFjCG9oFx2k>Gorillaz</a>, <a href=spotify:playlist:37i9dQZF1EIUsZBzQTXbw1>Nadhif Basalamah</a>, <a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,18 +11,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
+      "duration_ms": 222640,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadhif (laman berikutnya)",
+        "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 279649,
+      "name": "kota ini tak sama tanpamu",
+      "url": "https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "added_at": null,
@@ -39,26 +75,6 @@
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "lovely (with Khalid)",
-        "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 200185,
-      "name": "lovely (with Khalid)",
-      "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
     },
     {
       "added_at": null,
@@ -831,26 +847,6 @@
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "She Said (Big Jet Plane)",
-        "url": "https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Queen D",
-          "url": "https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "She Said (Big Jet Plane)",
-      "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
     }
   ],
   "unique_name": "Chill Mix",

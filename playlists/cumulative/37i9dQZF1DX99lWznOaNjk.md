@@ -4,7 +4,7 @@
 
 > Today's biggest and most exciting videos\. Music videos available only on Premium.
 
-27 songs - 1 hr 40 min
+30 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2026-02-20 |  |
 | [like JENNIE](https://open.spotify.com/track/2cYzrDoBQNHuZ1a8gn91Qx) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [like JENNIE](https://open.spotify.com/album/18D8t8yEsudCJfFYIzcEI1) | 3:02 | 2026-02-06 |  |
 | [luther](https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [luther](https://open.spotify.com/album/1015FLq4dfE55BwjmLZnVN) | 5:11 | 2026-02-06 |  |
+| [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2026-02-24 |  |
 | [Manchild](https://open.spotify.com/track/1Qv9uxtqrNIA5zTUSYrWZG) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/7rhJxn2JYBLq4aTWSHxhzN) | 3:56 | 2026-02-06 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2026-02-06 |  |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2026-02-06 |  |
@@ -31,9 +32,11 @@
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-20 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-02-06 |  |
 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2026-02-06 |  |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-02-24 |  |
 | [Sugar On My Tongue](https://open.spotify.com/track/5NUHcOdBIhbq9K2ksWEjhh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Sugar On My Tongue](https://open.spotify.com/album/7vqUPziG3E5XenIIiRoJvQ) | 2:44 | 2026-02-06 |  |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2026-02-06 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Fate of Ophelia](https://open.spotify.com/album/3YJsBUn8u0IAkidpyXM117) | 3:58 | 2026-02-06 |  |
 | [The Subway](https://open.spotify.com/track/0RbjszYqA0gxb5rT4UNnir) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/0snDhg29ivnXm4o4SOyE2K) | 4:31 | 2026-02-06 |  |
+| [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 | 2026-02-24 |  |
 
 \*This playlist was first scraped on 2026-02-08. Prior content cannot be recovered.

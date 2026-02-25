@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,746 likes - 430 songs - 1 day 0 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,754 likes - 430 songs - 1 day 0 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -331,9 +331,9 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 321 | [Factory](https://open.spotify.com/track/5kxQDyHHIifgSvsFH5evR6) | [Suitor](https://open.spotify.com/artist/5lTMfAl2DtVBQLtoOVHxty) | [Factory](https://open.spotify.com/album/64M3lr7feaiPlJmZTBkI8t) | 3:51 |
 | 322 | [Property](https://open.spotify.com/track/50QZ8NSCnWrOhlwrJMFSY0) | [Kathryn Mohr](https://open.spotify.com/artist/2lbUZvIMQVI9unYN34lmOZ) | [Property](https://open.spotify.com/album/4lRQbPpWnQc7ofCEIhiWnU) | 5:08 |
 | 323 | [Is There Any More To This?](https://open.spotify.com/track/6ba9VEnp8p64YqY5jl54rb) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Is There Any More To This?](https://open.spotify.com/album/01HwHipmCq6WdJIS0Wt3bT) | 3:08 |
-| 324 | [Wildly Remote](https://open.spotify.com/track/7u3srRBUTwLdpSTEjIXDSB) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Wildly Remote](https://open.spotify.com/album/24Ne2igk20YPu19oyoLlwJ) | 3:15 |
-| 325 | [Blue Chamber](https://open.spotify.com/track/1xCNUunJxasoyB1oYwr7Aa) | [Lunar Bird](https://open.spotify.com/artist/1nwt0U3LiwXxghKeVvirwL) | [Blue Chamber](https://open.spotify.com/album/1P97vxhdoaMBup9FSrJwzD) | 2:46 |
-| 326 | [Alec](https://open.spotify.com/track/0JbjcLheUj1ZukxG4mSH1j) | [Goldensuns](https://open.spotify.com/artist/00qD0cbhihCnqMboaFKhUt) | [Alec](https://open.spotify.com/album/0507II28AZRFcaNeBE10CO) | 3:02 |
+| 324 | [Blue Chamber](https://open.spotify.com/track/1xCNUunJxasoyB1oYwr7Aa) | [Lunar Bird](https://open.spotify.com/artist/1nwt0U3LiwXxghKeVvirwL) | [Blue Chamber](https://open.spotify.com/album/1P97vxhdoaMBup9FSrJwzD) | 2:46 |
+| 325 | [Alec](https://open.spotify.com/track/0JbjcLheUj1ZukxG4mSH1j) | [Goldensuns](https://open.spotify.com/artist/00qD0cbhihCnqMboaFKhUt) | [Alec](https://open.spotify.com/album/0507II28AZRFcaNeBE10CO) | 3:02 |
+| 326 | [Wildly Remote](https://open.spotify.com/track/7u3srRBUTwLdpSTEjIXDSB) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Wildly Remote](https://open.spotify.com/album/24Ne2igk20YPu19oyoLlwJ) | 3:15 |
 | 327 | [Certain Feelings](https://open.spotify.com/track/51GUTnVaRIWt2TSsEVach7) | [Orca](https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854) | [Ladybird](https://open.spotify.com/album/2aP8CgRojHKMD5e4AaCC2H) | 3:26 |
 | 328 | [Real Sugar](https://open.spotify.com/track/3lGCoOvG6RShNrHax0zULi) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Real Sugar](https://open.spotify.com/album/59Lg6bJ3GokJjcpRdFCEdh) | 2:41 |
 | 329 | [risky](https://open.spotify.com/track/3XD7nknWe9hBsoGXLtJ2S8) | [NOVA ONE](https://open.spotify.com/artist/23AoRz8asmZEYrUd1GpRiS) | [risky](https://open.spotify.com/album/7oYdlDPFlERVVxPFchSI94) | 2:37 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 429 | [Abundance of Power](https://open.spotify.com/track/6iTubsbtWKyCfpvj2T0Cd7) | [Season 2](https://open.spotify.com/artist/6NNLJ1tWGNmek1B62hDtJf) | [Abundance of Power](https://open.spotify.com/album/6HPRYLGzYwtt7cjSw44GKV) | 3:00 |
 | 430 | [Last One Home](https://open.spotify.com/track/1TcqYv9wLbeRgGFrQfviPG) | [Sloe Noon](https://open.spotify.com/artist/7aFg44sQWEwIlVme3S9Ei9) | [Last One Home](https://open.spotify.com/album/1KIFJBY1Kc74RZMFREjVvp) | 2:35 |
 
-Snapshot ID: `AAAwS44h9HGXKyUJTdAcVzj1zuaaPWvm`
+Snapshot ID: `AAAwTUO/Hhfu5KAW5mV3dbRO+aGdOm+y`

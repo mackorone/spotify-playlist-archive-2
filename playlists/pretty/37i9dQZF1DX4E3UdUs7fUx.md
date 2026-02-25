@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,029,329 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,029,065 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 5 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 6 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
 | 7 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 |
-| 8 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |
-| 9 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 |
+| 8 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 |
+| 9 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |
 | 10 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
 | 11 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 12 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-226 songs - 12 hr 56 min
+227 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:04 | 2023-04-04 |  |
 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 | 2022-09-08 |  |
 | [Drifted](https://open.spotify.com/track/58ptTjtCI8ck8759B94NKm) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [North Vol\. 2](https://open.spotify.com/album/2Z61tp4ZUgz1yWrstgqmJM) | 4:10 | 2025-01-09 | 2025-04-12 |
+| [Driftin'](https://open.spotify.com/track/0iWrhzQ4gluIbXiExggZT5) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: Elevators: Act I & II](https://open.spotify.com/album/3S4DGnUhfUpnadVoacbUmW) | 0:49 | 2026-02-24 |  |
 | [Driftin'](https://open.spotify.com/track/3ViHeWphifuEGsSipW3uoz) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:54 | 2022-09-08 | 2023-01-28 |
 | [Driftin'](https://open.spotify.com/track/0dkaNSy8kq97d0FW492jrT) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: Elevators: Act I & II](https://open.spotify.com/album/2RlqdwCaiDJBegO1WbjMrE) | 3:02 | 2023-02-02 | 2026-02-22 |
 | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/track/5eIi76XOUB2SJ1Aev26Zjb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:27 | 2024-10-29 |  |

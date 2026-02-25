@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Social Disguises",
+        "url": "https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG"
+      },
+      "artists": [
+        {
+          "name": "The Enemy",
+          "url": "https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255346,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/6lIqfJzxVkbwzgMYQcemHY"
+    },
+    {
+      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },

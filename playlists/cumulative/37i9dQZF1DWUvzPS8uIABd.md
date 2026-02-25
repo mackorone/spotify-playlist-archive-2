@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-898 songs - 1 day 20 hr 49 min
+899 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Everest](https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Everest](https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx) | 3:04 | 2026-01-01 |  |
 | [Fallin \(pudotaan\)](https://open.spotify.com/track/0h8BI3wpdcyPDo2ne0cLtS) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Fallin \(pudotaan\)](https://open.spotify.com/album/0Fs9D5uhPxDiVElPDdAWA2) | 2:32 | 2024-08-22 | 2024-09-20 |
 | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/track/7gktoRk6XwRkUkAbplkgZ0) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4), [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt) | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/album/6rX7ExQmzcWyuqPdKjZXwA) | 2:57 | 2025-11-14 | 2026-01-15 |
+| [FATHER \(I Will Never Confess\)](https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [FATHER \(I Will Never Confess\)](https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk) | 3:18 | 2026-02-19 |  |
 | [Feel So Good \(Vain elämää kausi 15\) \[feat\. Darude\]](https://open.spotify.com/track/4PAacEAm1uIJR9p0sSSnjM) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN), [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Feel So Good \(Vain elämää kausi 15\) \[feat\. Darude\]](https://open.spotify.com/album/7pjSQS09SD4aDYQDMQQtMS) | 2:37 | 2024-10-10 | 2024-10-18 |
 | [Feimii \- Vain elämää kausi 16](https://open.spotify.com/track/20GW0nfKGoT2kszNFb7pQn) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [Feimii \(Vain elämää kausi 16\)](https://open.spotify.com/album/7JwxdOuw0CbVgLMpQ3wPMx) | 3:24 | 2025-10-09 | 2025-10-17 |
 | [Fobia](https://open.spotify.com/track/4nVUbeIP3ywKHmkQWs76hH) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Fobia](https://open.spotify.com/album/7sBbhbLZNrLGNauoIkG7Qd) | 3:29 | 2024-07-02 | 2024-08-16 |
@@ -899,7 +900,7 @@
 | [Älä anna anteeksi enää](https://open.spotify.com/track/4bOimf8hghu27iLacgamjE) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Älä anna anteeksi enää](https://open.spotify.com/album/6PktOf0RmYJ5T5tGbhow8A) | 2:42 | 2025-04-03 | 2025-04-25 |
 | [Älä koskaan ikinä \(Vain elämää kausi 16\)](https://open.spotify.com/track/1UnlsTeLeI5CHZ6KOhtMEa) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Älä koskaan ikinä \(Vain elämää kausi 16\)](https://open.spotify.com/album/2FSqfjrUfiv7tP1KtIUfs0) | 2:45 | 2025-10-16 | 2025-10-24 |
 | [Älä Lopeta](https://open.spotify.com/track/4jEKDWQ8dVGLhr1ryA9cbl) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Älä Lopeta](https://open.spotify.com/album/5DVOfAcvIHmnDtAcFgsw6b) | 2:23 | 2024-07-02 | 2024-07-05 |
-| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 | 2025-11-06 |  |
+| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 | 2025-11-06 | 2026-02-25 |
 | [Älä rakasta mun rakasta](https://open.spotify.com/track/287Vj7UcE3KgsWr0XS8MPE) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Älä rakasta mun rakasta](https://open.spotify.com/album/4BCl5kzEDehO0upTIFdKjz) | 2:45 | 2025-06-12 | 2025-08-29 |
 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 | 2024-09-05 | 2024-09-27 |
 | [Äärihumala](https://open.spotify.com/track/2ze4bK4ziLcrNlFKzVJ5Ev) | [Lord Est](https://open.spotify.com/artist/1vZsTsBd4VNRtk9gKOeZRu) | [Äärihumala](https://open.spotify.com/album/1PyF3jYoQ1bC1go2z6Bhv1) | 2:40 | 2025-05-01 | 2025-05-16 |

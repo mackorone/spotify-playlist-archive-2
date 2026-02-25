@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-122 songs - 5 hr 57 min
+123 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Muévelo](https://open.spotify.com/track/1ssWsWaHvCgUkV4X4lz1hK) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:16 | 2024-06-18 |  |
 | [Muévelo](https://open.spotify.com/track/2D4j61FujYDb1UMcRIpY5s) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 3:16 | 2024-04-04 | 2024-06-01 |
 | [No Sigas Llorando](https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [No Sigas Llorando](https://open.spotify.com/album/3WFlN0l37hFY6WkXPNNpfD) | 2:36 | 2024-11-03 | 2025-10-20 |
+| [No Sigas Llorando](https://open.spotify.com/track/3xPqutXnfGurimsUi02CQj) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [35 Años de Fiesta](https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6) | 2:36 | 2026-02-25 |  |
 | [No Tengo Dinero](https://open.spotify.com/track/4hgqP8VpweSME8P2m90XkM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:02 | 2022-06-01 | 2023-03-03 |
 | [Oh, Solitario](https://open.spotify.com/track/2Xq6Sp3rBPCh4xlNflkzsF) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:01 | 2022-06-01 | 2024-02-14 |
 | [Oh, Solitario](https://open.spotify.com/track/3RuRYUOr7qZZj7qcoeEwmX) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:05 | 2024-06-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,729 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,722 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,17 +59,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 49 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
 | 50 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
 | 51 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
-| 52 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 |
-| 53 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
-| 54 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
-| 55 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
+| 52 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
+| 53 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 |
+| 54 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
+| 55 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
 | 56 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
 | 57 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
 | 58 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
 | 59 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
-| 60 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
-| 61 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
-| 62 | [Your House](https://open.spotify.com/track/2UBFZaEkeLqEheRGZDccm7) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:47 |
+| 60 | [Your House](https://open.spotify.com/track/2UBFZaEkeLqEheRGZDccm7) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:47 |
+| 61 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
+| 62 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 63 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:37 |
 | 64 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
 | 65 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 90 | [Again](https://open.spotify.com/track/5RjamWdv59INL8YEGUKUO1) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Again](https://open.spotify.com/album/0fqeoihWiRX75Mff3walzT) | 2:35 |
 | 91 | [Quick Escape](https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Quick Escape](https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY) | 4:46 |
 | 92 | [Surf Wax America \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 3:05 |
-| 93 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
-| 94 | [Mercy](https://open.spotify.com/track/4wEKLWQxK9xzwYaWQkgzBj) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [LIGHTBRINGER](https://open.spotify.com/album/51CoENXtQxKfwEfvxRHyDN) | 4:26 |
+| 93 | [Mercy](https://open.spotify.com/track/4wEKLWQxK9xzwYaWQkgzBj) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [LIGHTBRINGER](https://open.spotify.com/album/51CoENXtQxKfwEfvxRHyDN) | 4:26 |
+| 94 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
 | 95 | [Dave's TV](https://open.spotify.com/track/1pWWkiVNNMQaJ1gU0FWKRI) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Dave's TV / Above Snakes](https://open.spotify.com/album/02dkv7ky8DsB4vhOHDcWv9) | 3:47 |
 | 96 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 97 | [Enter Sandman](https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 5:31 |

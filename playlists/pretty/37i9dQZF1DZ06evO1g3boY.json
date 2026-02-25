@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173828,
+  "num_followers": 173840,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAACxoQ3X4hLvk9hIUV6VWa3M",
+  "snapshot_id": "aZuYgAAAAABcslFCuw5H96Vgj2rCdOBV",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 335600,
-      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
-      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9 Tudo Pra Ontem",
         "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 310400,
       "name": "\u00c9 Tudo Pra Ontem",
       "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 335600,
+      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
+      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
     },
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "Thiago Ventura",
-          "url": "https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0"
-        }
-      ],
-      "duration_ms": 292013,
-      "name": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
-      "url": "https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 249373,
       "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "Thiago Ventura",
+          "url": "https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0"
+        }
+      ],
+      "duration_ms": 292013,
+      "name": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
+      "url": "https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD"
     },
     {
       "added_at": null,
@@ -1027,22 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobe junto",
         "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 205440,
       "name": "Sobe junto",
       "url": "https://open.spotify.com/track/67aYew5Aa9CAhSWPzviiGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     },
     {
       "added_at": null,
@@ -1123,26 +1123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sambabook Jorge Arag\u00e3o, Vol. 1",
-        "url": "https://open.spotify.com/album/4CXk1KQ5xeBNJU6Avhwx3f"
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
       },
       "artists": [
         {
-          "name": "Sambabook",
-          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
-        },
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 163893,
-      "name": "Moleque Atrevido",
-      "url": "https://open.spotify.com/track/06C9UczQMHwocZNv2Cv0IV"
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     }
   ],
   "unique_name": "This Is Emicida",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6573,
+  "num_followers": 6578,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAA7WObslJlknH0lquBQDTUZ",
+  "snapshot_id": "aZuYgAAAAAACJ32zP+TA7waEeOGOu+7D",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+      "duration_ms": 481640,
+      "name": "When Will I See You Again / Love Train - Live Medley",
+      "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
     },
     {
       "added_at": null,
@@ -263,26 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 481640,
-      "name": "When Will I See You Again / Love Train - Live Medley",
-      "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heaven I Need",
+        "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 197456,
+      "name": "The Heaven I Need (Backing Track)",
+      "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -479,42 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heaven I Need",
-        "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 197456,
-      "name": "The Heaven I Need (Backing Track)",
-      "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
-      },
-      "artists": [
-        {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 151786,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -527,22 +507,6 @@
       "duration_ms": 244866,
       "name": "Lonelier Are Fools",
       "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -567,6 +531,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Get Your Love Back",
+      "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Get Your Love Back",
-      "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look in My Eyes",
-        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 157773,
-      "name": "Look in My Eyes",
-      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
+      "duration_ms": 163626,
+      "name": "Free Ride - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
     },
     {
       "added_at": null,
@@ -671,38 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Will I See You Again (Re-Recorded / Remastered)",
-        "url": "https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 203119,
-      "name": "T.S.O.P. (The Sound Of Philadelphia) (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Three Degrees Live",
-        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Free Ride - Live at Bailey's, London, England - 1975",
-      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Roulette Years",
         "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
@@ -719,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
       "artists": [
         {
@@ -728,25 +696,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silvester 70er Hits",
-        "url": "https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "Love the One Your With",
-      "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"
+      "duration_ms": 157773,
+      "name": "Look in My Eyes",
+      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
     },
     {
       "added_at": null,
@@ -767,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -783,6 +751,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silvester 70er Hits",
+        "url": "https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "Love the One Your With",
+      "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Will I See You Again (Re-Recorded / Remastered)",
+        "url": "https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 203119,
+      "name": "T.S.O.P. (The Sound Of Philadelphia) (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 187066,
       "name": "Loving Cup",
       "url": "https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uplifting Soul Classics",
-        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "There's So Much Love All Around Me",
-      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 346800,
       "name": "Magic In The Air",
       "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uplifting Soul Classics",
+        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "There's So Much Love All Around Me",
+      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
     }
   ],
   "unique_name": "This Is The Three Degrees",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Pop to fuel your gaming\. Cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,305 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,354 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 83 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 |
 | 84 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 |
 | 85 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
-| 86 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
-| 87 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [HIVE](https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A) | 2:13 |
+| 86 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [HIVE](https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A) | 2:13 |
+| 87 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
 | 88 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |
 | 89 | [CRAZY \(English ver.\)](https://open.spotify.com/track/69MMbwpvp5I9QTIzJeinpe) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 |
 | 90 | [Supernova](https://open.spotify.com/track/58b0gBwBVjQfbbCU4xIvoy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/49kUtQMJo7Am9UuLuN1MuB) | 2:58 |
-| 91 | [Kissing Someone Else](https://open.spotify.com/track/3mUAcYWoIerwT5v9GppuKo) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Heaven's Just A Flight](https://open.spotify.com/album/74XAANgs1sgl5VmiDxJLd6) | 3:46 |
-| 92 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 |
+| 91 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 |
+| 92 | [Kissing Someone Else](https://open.spotify.com/track/3mUAcYWoIerwT5v9GppuKo) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Heaven's Just A Flight](https://open.spotify.com/album/74XAANgs1sgl5VmiDxJLd6) | 3:46 |
 | 93 | [Secret Quest](https://open.spotify.com/track/6c1O24cKJUobRYCUcTsoOw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Pokémon \| Secret Quest \(Original Soundtrack\)](https://open.spotify.com/album/5R9Sb1iPJzh9kfShyNTTjm) | 3:30 |
 | 94 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 |
 | 95 | [All At Once](https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 2:34 |

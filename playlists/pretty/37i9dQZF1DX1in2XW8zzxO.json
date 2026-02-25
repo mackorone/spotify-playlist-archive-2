@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 97836,
+  "num_followers": 97873,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,30 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "Mopepe",
+        "url": "https://open.spotify.com/album/1n4lYZEGlftSGg9pXpbHjQ"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Tango Supreme",
+          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
+        }
+      ],
+      "duration_ms": 272033,
+      "name": "Mopepe",
+      "url": "https://open.spotify.com/track/41JAaLs2uJB2JZoabE5jnO"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "Hamba Kanje (feat. LeeMcKrazy)",
         "url": "https://open.spotify.com/album/3hJTA361imvPpqRrWBLVHQ"
       },
@@ -527,6 +551,62 @@
       "duration_ms": 308789,
       "name": "Hamba Kanje (feat. LeeMcKrazy)",
       "url": "https://open.spotify.com/track/2GUCK9glnfH55qpmULt9w8"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "TSAKO PITORI",
+        "url": "https://open.spotify.com/album/3HD2SIKgXESHomVKjLA5LH"
+      },
+      "artists": [
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Sia_TheBee",
+          "url": "https://open.spotify.com/artist/67251zPa3CwjUPl7tZAmtB"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "BigBaller_Ceo",
+          "url": "https://open.spotify.com/artist/4lQGYXmayFYVFeZYEU8zla"
+        },
+        {
+          "name": "Dimphowadiwave",
+          "url": "https://open.spotify.com/artist/7duqTrU4Kh1fwu9spt3W19"
+        }
+      ],
+      "duration_ms": 220518,
+      "name": "Wadi wave from Ghana",
+      "url": "https://open.spotify.com/track/6VV3PMcOUXksNX7RYN5yp1"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Mr Big Flexa",
+        "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "duration_ms": 250671,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -583,54 +663,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Mr Big Flexa",
-        "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
-      },
-      "artists": [
-        {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi"
-        },
-        {
-          "name": "Ma Gang Official",
-          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
-        }
-      ],
-      "duration_ms": 250671,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Mopepe",
-        "url": "https://open.spotify.com/album/1n4lYZEGlftSGg9pXpbHjQ"
-      },
-      "artists": [
-        {
-          "name": "Bukzin Keyz",
-          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
-        },
-        {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
-        },
-        {
-          "name": "Tango Supreme",
-          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
-        }
-      ],
-      "duration_ms": 272033,
-      "name": "Mopepe",
-      "url": "https://open.spotify.com/track/41JAaLs2uJB2JZoabE5jnO"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Selema (Po Po)",
         "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
       },
@@ -651,38 +683,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "TSAKO PITORI",
-        "url": "https://open.spotify.com/album/3HD2SIKgXESHomVKjLA5LH"
-      },
-      "artists": [
-        {
-          "name": "Myztro",
-          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
-        },
-        {
-          "name": "Sia_TheBee",
-          "url": "https://open.spotify.com/artist/67251zPa3CwjUPl7tZAmtB"
-        },
-        {
-          "name": "Shaunmusiq",
-          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
-        },
-        {
-          "name": "BigBaller_Ceo",
-          "url": "https://open.spotify.com/artist/4lQGYXmayFYVFeZYEU8zla"
-        },
-        {
-          "name": "Dimphowadiwave",
-          "url": "https://open.spotify.com/artist/7duqTrU4Kh1fwu9spt3W19"
-        }
-      ],
-      "duration_ms": 220518,
-      "name": "Wadi wave from Ghana",
-      "url": "https://open.spotify.com/track/6VV3PMcOUXksNX7RYN5yp1"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "The Legacy EP King of Barcadi",
         "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 290041,
       "name": "6 foot 7 Foot - Remix",
       "url": "https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Uyavala",
+        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        }
+      ],
+      "duration_ms": 348357,
+      "name": "Uyavala",
+      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -723,26 +743,6 @@
       "duration_ms": 458761,
       "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
       "url": "https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Uyavala",
-        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
-      },
-      "artists": [
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
-        }
-      ],
-      "duration_ms": 348357,
-      "name": "Uyavala",
-      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
     },
     {
       "added_at": "2026-02-20 01:43:11",

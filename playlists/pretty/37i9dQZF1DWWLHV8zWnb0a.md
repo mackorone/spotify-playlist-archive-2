@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,247 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,307 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 21 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
 | 22 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
 | 23 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
-| 24 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
-| 25 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
+| 24 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
+| 25 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
 | 26 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |
 | 27 | [1979 \- Remastered 2012](https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:26 |
 | 28 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 61 | [Anarchy](https://open.spotify.com/track/0VC1EpCNjQRGWtxabI7fK6) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 5:34 |
 | 62 | [Stop!](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 |
 | 63 | [Descent](https://open.spotify.com/track/2EGBaThHoA6PUAjktFIBRy) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 4:36 |
-| 64 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
-| 65 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
+| 64 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
+| 65 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
 | 66 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
 | 67 | [Nobody but You](https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Songs For Drella](https://open.spotify.com/album/4Nyu5zVDr4XV6QOBCqdTrk) | 3:45 |
 | 68 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 |

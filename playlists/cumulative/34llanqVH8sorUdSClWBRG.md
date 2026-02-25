@@ -4,7 +4,7 @@
 
 > Mental illness
 
-68 songs - 3 hr 46 min
+69 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Always Tired](https://open.spotify.com/track/5gRJEKibCgEHT0EyTzCCNN) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Always Tired](https://open.spotify.com/album/1uwuVHWQtLlheh6WxKnjDP) | 3:03 | 2024-02-19 |  |
 | [Am I Awake?](https://open.spotify.com/track/5ZuFa017ebD1p6aU9zHTnT) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Idlewild: A Compilation](https://open.spotify.com/album/6oySHdG0nQzH5Belcm0fQi) | 3:03 | 2023-03-26 |  |
 | [Answering the Phone\* \- Bonus Track](https://open.spotify.com/track/2rvhsOudGG9vRRo5xikTlq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:28 | 2024-12-07 |  |
+| [Bottom of the Pit \(feat\. Sam Haft\)](https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [In Sound Mind \- Original Soundtrack](https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr) | 4:00 | 2026-02-24 |  |
 | [Cash Machine](https://open.spotify.com/track/3aYphK1HrpzYbuBLz8PH6l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:56 | 2024-03-28 |  |
 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 | 2024-01-17 |  |
 | [Cradles](https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5) | 3:29 | 2024-10-09 |  |

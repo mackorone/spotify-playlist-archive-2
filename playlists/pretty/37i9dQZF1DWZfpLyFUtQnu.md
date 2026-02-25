@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,671 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,688 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 17 | [Couleur menthe à l'eau](https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Happy Birthday](https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA) | 3:30 |
 | 18 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 |
 | 19 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 |
-| 20 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
-| 21 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
+| 20 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
+| 21 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 22 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
 | 23 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
 | 24 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 72 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 | 73 | [À toutes les filles](https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq), [Félix Gray](https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h) | [Best of](https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq) | 4:14 |
 | 74 | [L’Épine](https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:57 |
-| 75 | [Allez reste \(feat\. Vianney\)](https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Loin des yeux](https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil) | 2:47 |
+| 75 | [La nuit \- Version acoustique](https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA) | [Piedbois](https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea) | [La nuit \(Version acoustique\)](https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S) | 3:51 |
 
 Snapshot ID: `AAAAAJyKZB6G/hP8b9MjpZX9779myDWY`

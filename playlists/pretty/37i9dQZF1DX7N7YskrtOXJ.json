@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 123717,
+  "num_followers": 123741,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -847,18 +847,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
       "artists": [
         {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
         }
       ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -911,22 +915,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
         }
       ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Onda Nueva",
-        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "Una Copita M\u00e1s",
-      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 224560,
       "name": "Chiquilla Bonita",
       "url": "https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Onda Nueva",
+        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Una Copita M\u00e1s",
+      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Moral Distra\u00edda",
-        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 190600,
       "name": "Ritmo Loco",
       "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Moral Distra\u00edda",
+        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Late Que Late",
-        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
-      },
-      "artists": [
-        {
-          "name": "Sonora Malec\u00f3n",
-          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Melosa",
-      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/54yV9x0FxfEVmZPwPysUOo"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Afrorumba Chilenera",
-        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+        "name": "Late Que Late",
+        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
       },
       "artists": [
         {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+          "name": "Sonora Malec\u00f3n",
+          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
         }
       ],
-      "duration_ms": 209173,
-      "name": "Callejero",
-      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
+      "duration_ms": 186293,
+      "name": "Melosa",
+      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1703,6 +1687,22 @@
       "duration_ms": 171400,
       "name": "Sigo Enamorado de Ti",
       "url": "https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
     },
     {
       "added_at": "2025-11-20 11:23:04",

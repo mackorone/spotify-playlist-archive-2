@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
 
-[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,215 likes - 64 songs - 3 hr 21 min
+[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,225 likes - 64 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

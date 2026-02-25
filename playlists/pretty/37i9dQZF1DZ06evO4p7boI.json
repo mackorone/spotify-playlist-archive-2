@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96055,
+  "num_followers": 96056,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAABGacl42G6imjKf0gi6vORi",
+  "snapshot_id": "aZuYgAAAAACuegN18A5fXUMUQ9HefLGj",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 155086,
+      "name": "Vetement Socks",
+      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -531,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 155086,
-      "name": "Vetement Socks",
-      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
+      "duration_ms": 208880,
+      "name": "UNLIMITED (FT PLAYBOI CARTI)",
+      "url": "https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV"
     },
     {
       "added_at": null,
@@ -571,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 208880,
-      "name": "UNLIMITED (FT PLAYBOI CARTI)",
-      "url": "https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV"
+      "duration_ms": 145121,
+      "name": "Friends & Family",
+      "url": "https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO"
     },
     {
       "added_at": null,
@@ -607,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
       },
       "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 145121,
-      "name": "Friends & Family",
-      "url": "https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO"
+      "duration_ms": 194680,
+      "name": "Wolves (with NAV)",
+      "url": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 169786,
       "name": "Hit",
       "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Wolves (with NAV)",
-      "url": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fell In Love (2016)",
-        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Fell In Love (2016)",
-      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fell In Love (2016)",
+        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Fell In Love (2016)",
+      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 242586,
       "name": "TTD",
       "url": "https://open.spotify.com/track/32tOBDCwd8bKn0gfOAdsbx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 156518,
+      "name": "Make It Right Back",
+      "url": "https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
       "duration_ms": 259472,
       "name": "The Man (2015)",
       "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 156518,
-      "name": "Make It Right Back",
-      "url": "https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI"
     },
     {
       "added_at": null,

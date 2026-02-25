@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 267571,
       "name": "Chali Gaali Chuudduu",
       "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
@@ -782,6 +782,28 @@
       "duration_ms": 294115,
       "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt"
+    },
+    {
+      "album": {
+        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244010,
+      "name": "Nee Kanti Lo Na - From \"Hey Balwanth\"",
+      "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
     },
     {
       "album": {

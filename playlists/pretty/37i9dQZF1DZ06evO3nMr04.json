@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1446716,
+  "num_followers": 1446914,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAACLxc7DYpbvzx/6EgjgE2Le",
+  "snapshot_id": "aZuYgAAAAAARBaH23b/cXbvPqE739cfI",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 267520,
       "name": "Run This Town",
       "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
     },
     {
       "added_at": null,
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 264334,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -475,6 +475,26 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 351946,
+      "name": "Devil In A New Dress",
+      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
       "added_at": null,
@@ -527,26 +547,6 @@
       "duration_ms": 323962,
       "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 351946,
-      "name": "Devil In A New Dress",
-      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
       "added_at": null,
@@ -628,13 +628,21 @@
       },
       "artists": [
         {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Jesus Walks",
-      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+      "duration_ms": 316053,
+      "name": "Slow Jamz",
+      "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
     },
     {
       "added_at": null,
@@ -700,21 +708,13 @@
       },
       "artists": [
         {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        },
-        {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 316053,
-      "name": "Slow Jamz",
-      "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+      "duration_ms": 156091,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 156091,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Silva Bumpa
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,695 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,709 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 25 | [Feels Like](https://open.spotify.com/track/43m82UNzbK17KIqHLJwZlT) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [MHITR: The Album](https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO) | 2:27 |
 | 26 | [EUPHORIA](https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [EUPHORIA](https://open.spotify.com/album/6VR8RfG0xsWxZHGFpb0PVL) | 2:29 |
 | 27 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
-| 28 | [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 |
-| 29 | [Piece Of My Soul](https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Piece Of My Soul](https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso) | 2:42 |
+| 28 | [Piece Of My Soul](https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Piece Of My Soul](https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso) | 2:42 |
+| 29 | [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 |
 | 30 | [ALL 2 U](https://open.spotify.com/track/3Fkrn3vvdYIyZxmRjQGIBr) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [ALL 2 U](https://open.spotify.com/album/33taQZFQEoXg4mUbg8Jbhw) | 2:38 |
 | 31 | [XTZY](https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr) | [FULLCLIP](https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [XTZY](https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo) | 2:47 |
 | 32 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 34 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
 | 35 | [Motion Sickness](https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Motion Sickness](https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8) | 3:20 |
 | 36 | [Jump Higher](https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [Jump Higher](https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw) | 2:56 |
-| 37 | [Supa Smoov \- Bumpa's Xtra Smoov Mix](https://open.spotify.com/track/3qcZkQELHhpYTMYWPM1BT7) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Supa Smoov \(Bumpa's Xtra Smoov Mix\)](https://open.spotify.com/album/0S1uf6gfZYHzSjkhHcsSWf) | 2:43 |
-| 38 | [Driving Me Crazy](https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG) | [Lewis Taylor](https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR) | [Driving Me Crazy](https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej) | 2:48 |
+| 37 | [Driving Me Crazy](https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG) | [Lewis Taylor](https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR) | [Driving Me Crazy](https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej) | 2:48 |
+| 38 | [Supa Smoov \- Bumpa's Xtra Smoov Mix](https://open.spotify.com/track/3qcZkQELHhpYTMYWPM1BT7) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Supa Smoov \(Bumpa's Xtra Smoov Mix\)](https://open.spotify.com/album/0S1uf6gfZYHzSjkhHcsSWf) | 2:43 |
 | 39 | [Energy](https://open.spotify.com/track/4Rup2FGULitq264vd0necv) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Energy](https://open.spotify.com/album/4xJX8f7uAR9T2Z72QHKpHo) | 3:29 |
 | 40 | [Swings](https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Swings](https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk) | 2:21 |
 | 41 | [Sober](https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Sober](https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb) | 3:35 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 63 | [Draw a Line](https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Draw a Line](https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH) | 3:25 |
 | 64 | [Swept Away](https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Swept Away](https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8) | 2:47 |
 | 65 | [Feels Like](https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Bebi](https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg) | [Feels Like](https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3) | 3:23 |
-| 66 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
-| 67 | [Melon](https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Melon](https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3) | 3:27 |
+| 66 | [Melon](https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Melon](https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3) | 3:27 |
+| 67 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
 | 68 | [Better Me](https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv) | [Lug](https://open.spotify.com/artist/69gtMRCV4FBL9yKEHQyDhB) | [Better Me](https://open.spotify.com/album/6YWeyPk6ZiOHsBdAi0FuCK) | 2:24 |
-| 69 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
-| 70 | [Straight From The Underground](https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Straight From The Underground](https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX) | 3:13 |
+| 69 | [Rain](https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Rain](https://open.spotify.com/album/3vZEyzRYGl5hxPtYShZkaU) | 2:50 |
+| 70 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
 
 Snapshot ID: `AAAAAHTxBnLrRQGRdBtL62MFBFhJZoYq`

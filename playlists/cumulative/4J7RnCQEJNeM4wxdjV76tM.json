@@ -10519,6 +10519,24 @@
     },
     {
       "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "Stop And Stare",
+      "url": "https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M"
+    },
+    {
+      "album": {
         "name": "The Wolf of Grape Street",
         "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
       },

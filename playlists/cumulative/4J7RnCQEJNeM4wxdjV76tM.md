@@ -4,7 +4,7 @@
 
 > old asl
 
-660 songs - 1 day 12 hr 17 min
+661 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Still Spice Talkin](https://open.spotify.com/track/5FnkVKNUpkrdbgl5uOhqeT) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Grindhard E](https://open.spotify.com/artist/0WoQRQa0ucPpOH2eMsfluM) | [Still Spice Talkin](https://open.spotify.com/album/5q4rJcEV5a1xRNJxYIyU8h) | 2:20 | 2022-04-12 |  |
 | [Still Think About You](https://open.spotify.com/track/2FTeQQ5Rg9tBpgpTF5mnhE) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 4:06 | 2023-10-03 |  |
 | [Still Will](https://open.spotify.com/track/0Bb0WyZw1xfEMbehZ5GOKd) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 1:51 | 2022-12-30 |  |
+| [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 | 2026-02-25 |  |
 | [Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml) | 3:39 | 2022-01-09 |  |
 | [Summers Over Interlude](https://open.spotify.com/track/3ppVO2tyWRRznNmONvt7Se) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 1:46 | 2023-08-23 |  |
 | [Sunday](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:31 | 2023-09-14 |  |

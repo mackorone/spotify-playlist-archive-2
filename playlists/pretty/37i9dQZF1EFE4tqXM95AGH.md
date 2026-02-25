@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,379 likes - 185 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,380 likes - 185 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 70 | [Cool](https://open.spotify.com/track/4Ab4qiJwF34AREVIpjiBeF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:34 |
 | 71 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
 | 72 | [Telephone Busy](https://open.spotify.com/track/2JgwHnrqubIzSSlwVlu9mY) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:15 |
-| 73 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
-| 74 | [How To Stay With You](https://open.spotify.com/track/6P7b7UciZ4Q4sbujF4QcrO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:16 |
+| 73 | [How To Stay With You](https://open.spotify.com/track/6P7b7UciZ4Q4sbujF4QcrO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:16 |
+| 74 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
 | 75 | [Ignore Me](https://open.spotify.com/track/3vbFzGrrAmeWK1cXz2PkuC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:13 |
 | 76 | [10/10](https://open.spotify.com/track/0s2vC5MwdoLvQ8PdNBjUGX) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:06 |
 | 77 | [It Even Rains In LA](https://open.spotify.com/track/5bZncPtqBgaIEtaFaH60Sg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:35 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 92 | [Science](https://open.spotify.com/track/4E5BoPxABSbi6Tkhaz2uzi) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:55 |
 | 93 | [Man Up](https://open.spotify.com/track/1YKOm06nQc83UXXG4ubrjo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 2:48 |
 | 94 | [Love of My Life](https://open.spotify.com/track/3o6dtVImjXolMR9EVwzJOG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:11 |
-| 95 | [The Other Side](https://open.spotify.com/track/1GbrJXEPkBb492q2t5mtRC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Other Side \(From "Sierra Burgess Is a Loser"\)](https://open.spotify.com/album/6PMDxho9YZstxzVxOLkVaY) | 2:59 |
-| 96 | [DeathByDevotion](https://open.spotify.com/track/79oIHHPKpgAWMSxGZU0lQa) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [DeathByDevotion](https://open.spotify.com/album/3GukAKxHvoWMo1lbM9csAs) | 3:16 |
+| 95 | [DeathByDevotion](https://open.spotify.com/track/79oIHHPKpgAWMSxGZU0lQa) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [DeathByDevotion](https://open.spotify.com/album/3GukAKxHvoWMo1lbM9csAs) | 3:16 |
+| 96 | [The Other Side](https://open.spotify.com/track/1GbrJXEPkBb492q2t5mtRC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Other Side \(From "Sierra Burgess Is a Loser"\)](https://open.spotify.com/album/6PMDxho9YZstxzVxOLkVaY) | 2:59 |
 | 97 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
 | 98 | [Workin On It](https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:34 |
 | 99 | [Lie for Love](https://open.spotify.com/track/6MrYbA2BABupgYu3eONu7G) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:05 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 184 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 185 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcKeKgAAAACiGc4BW5ErxVh47Rwc0Bpy`
+Snapshot ID: `AcKjygAAAACFOBPd4JQVn29Qs7V0SYW/`

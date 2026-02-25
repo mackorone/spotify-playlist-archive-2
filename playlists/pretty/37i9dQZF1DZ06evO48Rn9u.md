@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,079 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,090 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 37 | [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 |
 | 38 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 |
 | 39 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
-| 40 | [Keep It To Yourself](https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:16 |
-| 41 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
+| 40 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
+| 41 | [Keep It To Yourself](https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:16 |
 | 42 | [Superbloom \(feat\. Leon Bridges\)](https://open.spotify.com/track/7FSHsMrNTP7umpgVHuR7IS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:02 |
 | 43 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 |
-| 44 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 |
-| 45 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 |
+| 44 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 |
+| 45 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 |
 | 46 | [Drive Away](https://open.spotify.com/track/5tw8ebBDTShqoCDzfIpZEo) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Eternal Reach](https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61) | 4:34 |
 | 47 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 |
 | 48 | [waves \(feat\. Kacey Musgraves\) \- Remix](https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:06 |
 | 49 | [Perfection \(feat\. Tiny Habits\)](https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:56 |
 | 50 | [Step Off](https://open.spotify.com/track/5XolYC560U2AD6YJUemw2G) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:02 |
 
-Snapshot ID: `aZpHAAAAAACx5R5aIF+8gY71gxwJjUuL`
+Snapshot ID: `aZuYgAAAAACbQnRCOxSU5JzCnCiucTbg`

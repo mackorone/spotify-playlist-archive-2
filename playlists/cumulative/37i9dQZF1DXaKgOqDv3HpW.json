@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 210072,
       "name": "A Free Mind",
       "url": "https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 161885,
       "name": "Choices",
       "url": "https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX"
@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Euonia",
+        "url": "https://open.spotify.com/album/4JgxrxkH8lJxuQ39ABtVIX"
+      },
+      "artists": [
+        {
+          "name": "isp\u00edritu",
+          "url": "https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "Euonia",
+      "url": "https://open.spotify.com/track/7e0nlUqJ2MENpnZwkKnR8o"
+    },
+    {
+      "album": {
         "name": "Euphorbia",
         "url": "https://open.spotify.com/album/7EeOiU8Qqo3S2W50EmlecQ"
       },
@@ -3105,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/00JcCy6bQnrm8RHqOriEZ2"
+      },
+      "artists": [
+        {
+          "name": "Tenzing Mind",
+          "url": "https://open.spotify.com/artist/4BQEmuLxo6oX3gZUgH3i6D"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143054,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/3tef9cmW0prggrC8MyfJ79"
+    },
+    {
+      "album": {
         "name": "Haze",
         "url": "https://open.spotify.com/album/1D9Ik1SIjR9YVi8BeY8JQr"
       },
@@ -3134,7 +3170,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 169105,
       "name": "Healing",
       "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
@@ -3224,7 +3260,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 156949,
       "name": "Hope For Tomorrow",
       "url": "https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs"
@@ -3404,7 +3440,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 179222,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF"
@@ -3620,7 +3656,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 231529,
       "name": "Kaleidoscopes",
       "url": "https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou"
@@ -5748,7 +5784,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 142285,
       "name": "Ritualer",
       "url": "https://open.spotify.com/track/0WzlQIFD0Qi8QeTbAjshZA"
@@ -5802,7 +5838,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 138857,
       "name": "R\u00eaves",
       "url": "https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH"
@@ -5964,7 +6000,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 158459,
       "name": "Scintilla",
       "url": "https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW"
@@ -6342,7 +6378,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 221793,
       "name": "Small Letters",
       "url": "https://open.spotify.com/track/3wygfnm7RIzxc8gsoGINeI"
@@ -6940,6 +6976,24 @@
       "duration_ms": 200000,
       "name": "Theologus",
       "url": "https://open.spotify.com/track/3RvwXY7RhoEGhM76ctJedG"
+    },
+    {
+      "album": {
+        "name": "those parting clouds",
+        "url": "https://open.spotify.com/album/6TNwne3pNliKJaIIkS9EFj"
+      },
+      "artists": [
+        {
+          "name": "Celestros",
+          "url": "https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175041,
+      "name": "those parting clouds",
+      "url": "https://open.spotify.com/track/27UX3Qxx9FOY7SiCEfzAaL"
     },
     {
       "album": {
@@ -7872,7 +7926,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 204600,
       "name": "\u00d6gonblick",
       "url": "https://open.spotify.com/track/0mxy9AngPGUYN14vvO1Ppw"

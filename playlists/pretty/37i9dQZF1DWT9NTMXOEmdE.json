@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 479426,
+  "num_followers": 479378,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,18 @@
     {
       "added_at": "2025-11-12 03:53:35",
       "album": {
-        "name": "Killin' It Girl (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 148714,
-      "name": "Killin' It Girl (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2025-11-12 03:53:35",
@@ -219,18 +215,22 @@
     {
       "added_at": "2025-11-12 03:53:35",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
     },
     {
       "added_at": "2025-11-12 03:53:35",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-11-12 03:53:35",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2025-11-12 03:53:35",
-      "album": {
         "name": "Feel It (From \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 157974,
       "name": "Feel It (From \u201cInvincible\u201d)",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "added_at": "2025-11-12 03:53:35",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2025-11-12 03:53:35",

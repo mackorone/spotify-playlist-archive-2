@@ -7366,7 +7366,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 213960,
       "name": "EL MUNDO SE VA A ACABAR",
       "url": "https://open.spotify.com/track/6SkbzQSYMJzrmmDBEvbh0S"
@@ -8298,7 +8298,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8370,7 +8370,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -12512,7 +12512,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -15258,7 +15258,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -15374,7 +15374,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 226035,
       "name": "MIENTRAS DUERMES",
       "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
@@ -19324,6 +19324,24 @@
       "duration_ms": 242908,
       "name": "PONTE NASTY",
       "url": "https://open.spotify.com/track/1cNJ9ODOJF8b6AjhzoYdkv"
+    },
+    {
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
     },
     {
       "album": {
@@ -25988,7 +26006,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 199253,
       "name": "VAMOaCOCHI",
       "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"

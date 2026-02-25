@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 
 > The hottest in hip\-hop, R&B and Afrobeats\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,308 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,309 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 42 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
 | 43 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
 | 44 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 |
-| 45 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
-| 46 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 |
-| 47 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
+| 45 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 |
+| 46 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
+| 47 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 48 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
 | 49 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
 | 50 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |

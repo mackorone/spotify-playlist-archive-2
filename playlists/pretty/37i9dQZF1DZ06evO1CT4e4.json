@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10490,
+  "num_followers": 10493,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAB+4e38o1mWlq7TnC5nAR8d",
+  "snapshot_id": "aZuYgAAAAABmeokqq3CHFFqFi3G0tT8J",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 87173,
+      "name": "F\u00fcr Anna Maria",
+      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 185240,
       "name": "Alleluia-Tropus",
       "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 87173,
-      "name": "F\u00fcr Anna Maria",
-      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 449386,
-      "name": "Littlemore Tractus",
-      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
+      "duration_ms": 177626,
+      "name": "Veni creator",
+      "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
       "duration_ms": 97693,
       "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
       "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Hymn to a Great City",
-      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,
@@ -739,6 +719,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Kanon Pokajanen: Kondakion",
+      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -760,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Veni creator",
-      "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
+      "duration_ms": 449386,
+      "name": "Littlemore Tractus",
+      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
     },
     {
       "added_at": null,
@@ -787,26 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
       "artists": [
         {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Kanon Pokajanen: Kondakion",
-      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
+      "duration_ms": 224160,
+      "name": "Hymn to a Great City",
+      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 304053,
-      "name": "Pari intervallo (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Choral Music",
         "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 161026,
       "name": "Morning Star",
       "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 304053,
+      "name": "Pari intervallo (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
-      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -999,22 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
       "artists": [
         {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         },
         {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 148946,
-      "name": "P\u00e4rt: P\u00e4rt: F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
+      "duration_ms": 194480,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
+      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
     },
     {
       "added_at": null,
@@ -1043,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "P\u00e4rt: P\u00e4rt: F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Kanon Pokajanen",
         "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
       },
@@ -1067,8 +1067,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silentium",
-        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
+        "name": "Echoes of Time",
+        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
       },
       "artists": [
         {
@@ -1076,37 +1076,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Camerata RCO",
-          "url": "https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Vater Unser (Arr. for trombone & string ensemble)",
-      "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+          "name": "Lisa Batiashvili",
+          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
         },
         {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
         }
       ],
-      "duration_ms": 300360,
-      "name": "Summa",
-      "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
+      "duration_ms": 621160,
+      "name": "Spiegel im Spiegel",
+      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
     },
     {
       "added_at": null,
@@ -1135,8 +1115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes of Time",
-        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
       "artists": [
         {
@@ -1144,17 +1124,37 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Lisa Batiashvili",
-          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
         }
       ],
-      "duration_ms": 621160,
-      "name": "Spiegel im Spiegel",
-      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
+      "duration_ms": 300360,
+      "name": "Summa",
+      "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Camerata RCO",
+          "url": "https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Vater Unser (Arr. for trombone & string ensemble)",
+      "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
     },
     {
       "added_at": null,

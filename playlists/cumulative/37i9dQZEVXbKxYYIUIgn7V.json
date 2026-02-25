@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 151457,
       "name": "A New Day Has Come",
       "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
@@ -2462,6 +2462,28 @@
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/49Wr6GxDzD0sLh3oedD84E"
+      },
+      "artists": [
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        },
+        {
+          "name": "Lena Schaur",
+          "url": "https://open.spotify.com/artist/5wcDwiaP6GfRuIlJUzMylh"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154277,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u"
     },
     {
       "album": {
@@ -13962,7 +13984,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 164186,
       "name": "Du bist toll",
       "url": "https://open.spotify.com/track/6qdnFE7DmhNyXOuDKhtA0X"
@@ -15102,7 +15124,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 123750,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/2kGMz4gdfrAmZ1H6jR2li8"
@@ -21227,6 +21249,24 @@
     },
     {
       "album": {
+        "name": "Are You Real?",
+        "url": "https://open.spotify.com/album/1iPFzT2uinjvbAYWm9HwA4"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148330,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52"
+    },
+    {
+      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -22909,6 +22949,24 @@
     },
     {
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "album": {
         "name": "Hoodie Hoodie",
         "url": "https://open.spotify.com/album/07nqKfyRqerchwCYjHMzrX"
       },
@@ -24562,7 +24620,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 140075,
       "name": "Ich gelobe",
       "url": "https://open.spotify.com/track/7FcWenOAPahprwMxjS9qyE"
@@ -26848,7 +26906,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 193884,
       "name": "Karnevalsmaus",
       "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
@@ -33403,6 +33461,24 @@
     },
     {
       "album": {
+        "name": "Midnight On My Mind",
+        "url": "https://open.spotify.com/album/4ohrHConAk6wulyykEqegp"
+      },
+      "artists": [
+        {
+          "name": "MANSA",
+          "url": "https://open.spotify.com/artist/6i2ssO4LVLEFlyn2EMLmKF"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Midnight On My Mind",
+      "url": "https://open.spotify.com/track/7sgW3NDrARhwIa7z9CNlyw"
+    },
+    {
+      "album": {
         "name": "Miku",
         "url": "https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL"
       },
@@ -35190,7 +35266,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 150830,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/1EAYKOlvTs4jNUpTKg0IBR"
@@ -35212,7 +35288,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -37366,7 +37442,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 172439,
       "name": "Ohne Gummi pudern",
       "url": "https://open.spotify.com/track/4sIL1XRz76D0OXgOW1Vq9J"
@@ -37962,7 +38038,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -43406,7 +43482,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 226666,
       "name": "Secondhand (feat. Rema)",
       "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
@@ -43620,6 +43696,28 @@
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "album": {
+        "name": "Servas Mauna",
+        "url": "https://open.spotify.com/album/5cQaWaNzvszcGvQumldJOs"
+      },
+      "artists": [
+        {
+          "name": "Die Niachtn",
+          "url": "https://open.spotify.com/artist/1ZZPtPx3NBm3RLSJBVEjK6"
+        },
+        {
+          "name": "Wiesa Buam",
+          "url": "https://open.spotify.com/artist/4rAn6HxP0v74Qj7Ml2Oo2W"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Servas Mauna",
+      "url": "https://open.spotify.com/track/3U0ls9phSSIwHFTUcEbcE4"
     },
     {
       "album": {
@@ -43848,6 +43946,28 @@
       "duration_ms": 157714,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax"
+    },
+    {
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/3Le92yIYhH4EepJyqfOpcX"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8:lab",
+          "url": "https://open.spotify.com/artist/14HsByUX40hG0DvFDVT8pa"
+        },
+        {
+          "name": "Anuuk",
+          "url": "https://open.spotify.com/artist/6lULQJpvALVdy8p35hnHXv"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136292,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5dMnARA9qb0aXnOQHwf1C6"
     },
     {
       "album": {
@@ -45358,6 +45478,24 @@
       "duration_ms": 154105,
       "name": "someone new",
       "url": "https://open.spotify.com/track/6zMRujuaXHPtVTaMibKb4j"
+    },
+    {
+      "album": {
+        "name": "Decorate",
+        "url": "https://open.spotify.com/album/6x6UkYPf9ZV3uEVSoTBqZP"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180582,
+      "name": "Someone Out Of Town",
+      "url": "https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb"
     },
     {
       "album": {
@@ -47848,6 +47986,24 @@
       "duration_ms": 185172,
       "name": "TANZNEID",
       "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
+    },
+    {
+      "album": {
+        "name": "TANZSCHEIN",
+        "url": "https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix"
+      },
+      "artists": [
+        {
+          "name": "COSM\u00d3",
+          "url": "https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162548,
+      "name": "TANZSCHEIN",
+      "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
     },
     {
       "album": {
@@ -50384,6 +50540,10 @@
         {
           "name": "Bearn",
           "url": "https://open.spotify.com/artist/65W5I2tJzuSiZra9HeTW1V"
+        },
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
         }
       ],
       "date_added": "2026-02-18",
@@ -50402,6 +50562,10 @@
         {
           "name": "Bearn",
           "url": "https://open.spotify.com/artist/65W5I2tJzuSiZra9HeTW1V"
+        },
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
         }
       ],
       "date_added": "2026-02-22",
@@ -53338,6 +53502,24 @@
       "duration_ms": 224479,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"
+    },
+    {
+      "album": {
+        "name": "We Are Not Just One Thing",
+        "url": "https://open.spotify.com/album/3gPus3JO33S1HeMVaEbtpQ"
+      },
+      "artists": [
+        {
+          "name": "Bamlak Werner",
+          "url": "https://open.spotify.com/artist/66S3bEkuivwKgmJogCxmfQ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163233,
+      "name": "We Are Not Just One Thing",
+      "url": "https://open.spotify.com/track/2BoyH5W16jM3WTa3oYzNYZ"
     },
     {
       "album": {
@@ -56486,7 +56668,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 190723,
       "name": "Your Side",
       "url": "https://open.spotify.com/track/2joT5Z8PWlgyerpLWqkdeB"

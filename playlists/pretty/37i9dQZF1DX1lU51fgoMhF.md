@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: DAYOUNG\(다영\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,067 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,083 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 43 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 |
 | 44 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 |
 | 45 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
-| 46 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
+| 46 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 |
 | 47 | [Not For Sale](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:01 |
-| 48 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 |
+| 48 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
 | 49 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 |
 | 50 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 |
 | 51 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 63 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 64 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 |
 | 65 | [SWEAT](https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG) | 3:11 |
-| 66 | [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 |
-| 67 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 |
+| 66 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 |
+| 67 | [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 |
 | 68 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 |
 | 69 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 |
 | 70 | [Wait](https://open.spotify.com/track/564FztYymI6tdSy7hV8nYS) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Wait](https://open.spotify.com/album/7go94B223sIXz4t1g8kZ2N) | 2:53 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 94 | [SLAM DUNK](https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm) | 2:57 |
 | 95 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 |
 | 96 | [MOONLIGHT](https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [MOONLIGHT](https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch) | 2:41 |
-| 97 | [WAVE](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3 : One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 |
-| 98 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 |
+| 97 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 |
+| 98 | [WAVE](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3 : One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 |
 | 99 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 |
-| 100 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
+| 100 | [One of Those Nights](https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:10 |
 
 Snapshot ID: `AAAAAO555rFnAYZFieeipd1IlUdRfv99`

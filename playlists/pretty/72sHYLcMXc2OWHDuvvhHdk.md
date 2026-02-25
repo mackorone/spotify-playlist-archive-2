@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 560 likes - 2,342 songs - 5 day 16 hr 50 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 561 likes - 2,348 songs - 5 day 17 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2350,5 +2350,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2340 | [Foggy Window](https://open.spotify.com/track/6U68EHD34b3aRJ6hrWJe9a) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 2:56 |
 | 2341 | [I'm in the Wrong](https://open.spotify.com/track/4N91QvnV89c8nwQyaxxYDD) | [Big Cat Season](https://open.spotify.com/artist/3wAnCn7fodWUCpxhovBb6S) | [\(Summer\)](https://open.spotify.com/album/5XM67PJwXpQSeS4tt4fkho) | 4:06 |
 | 2342 | [Crush](https://open.spotify.com/track/02SdEM0St5vODiPaQgv8l0) | [Jake Moralez](https://open.spotify.com/artist/4PwNxhWQEr9Na1sVQqP1ru), [Lizi Aquilina](https://open.spotify.com/artist/7FRZbXjxvEqWDZzu6ho7WY) | [Crush](https://open.spotify.com/album/4t9snIQLi3Ngsr8diTf4n2) | 3:27 |
+| 2343 | [Take Time \(Acoustic Version\)](https://open.spotify.com/track/3BFTuAtiUkqBB7NITQVjsL) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Take Time \(Acoustic Version\)](https://open.spotify.com/album/23cmjxtWjwfsd6WUMc07pc) | 2:33 |
+| 2344 | [Silent Departure \- Country Version](https://open.spotify.com/track/70fjjwV8CGasRj6EL007wf) | [M.Carmo](https://open.spotify.com/artist/6ybvTwiGRflWIe2V9iOAFm) | [Silent Departure \(Country Version\)](https://open.spotify.com/album/49k3d24AEDz9TpdwwAC1lV) | 3:11 |
+| 2345 | [Flying Saucer Working Party](https://open.spotify.com/track/5TJ7q2osT9OlGFoCvFtXJr) | [Lee Switzer\-Woolf](https://open.spotify.com/artist/39FQMAp2C86W7yagW3n43h) | [Flying Saucer Working Party](https://open.spotify.com/album/6Qppmu0vF6mFP3dlHoySoD) | 3:37 |
+| 2346 | [Loved You Well](https://open.spotify.com/track/726B5SsK89Kb35fjLnUAbJ) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Loved You Well](https://open.spotify.com/album/3yGEUH53gDIEIpTfRDpU1N) | 4:02 |
+| 2347 | [Maywell](https://open.spotify.com/track/5YAK7c9Azk9DUfoDBfjNNc) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [I Can Dream](https://open.spotify.com/album/79T68idWo8fapNq659HB0a) | 4:25 |
+| 2348 | [How It Hurts to Be Alone \(Edm\)](https://open.spotify.com/track/2gdOXXLIfYxlDtQ5AKvQ8y) | [Liu Marks](https://open.spotify.com/artist/0V93twsNChTw8nVXNxW0fq) | [The Cowboy](https://open.spotify.com/album/6buUDssabwFkCt6C5In0cL) | 3:59 |
 
-Snapshot ID: `AAAJvb+ze2Rj7dc5mKV+WRmfaRSW8Ter`
+Snapshot ID: `AAAJw6mPeNZZj/Oef3y3akDReTOlrNc5`

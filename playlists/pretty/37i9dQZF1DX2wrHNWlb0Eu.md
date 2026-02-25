@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,148 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,154 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 22 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
 | 23 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
 | 24 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
-| 25 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 |
-| 26 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
+| 25 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
+| 26 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 |
 | 27 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 |
 | 28 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
 | 29 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 59 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
 | 60 | [ฉลามชอบงับคุณ](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [BONNADOL](https://open.spotify.com/artist/0Gz7SYuSXPIxjWhCUe7W7g), [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ฉลามชอบงับคุณ](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
 | 61 | [ภูเขาบังเส้นผม \(Hide you\) feat\. TWOPEE](https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ภูเขาบังเส้นผม \(Hide you\)](https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr) | 3:39 |
-| 62 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
-| 63 | [FOLLOWERS](https://open.spotify.com/track/5lyB7wS4hQhK0FeFLJWfpQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แพ้ทุกที \(LOOPER\), FOLLOWERS](https://open.spotify.com/album/7igqgnplrOHmu0UoB95pMA) | 3:14 |
+| 62 | [FOLLOWERS](https://open.spotify.com/track/5lyB7wS4hQhK0FeFLJWfpQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แพ้ทุกที \(LOOPER\), FOLLOWERS](https://open.spotify.com/album/7igqgnplrOHmu0UoB95pMA) | 3:14 |
+| 63 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
 | 64 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 |
 | 65 | [1001 \(You're Lovely\)](https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt) | 3:14 |
 | 66 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 87 | [หวง \(You're Mine\)](https://open.spotify.com/track/5t2958ghc1UIUovv1pqMl3) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง \(You're Mine\)](https://open.spotify.com/album/4oWwhDTfbza1oR6DXlkFSH) | 3:36 |
 | 88 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 |
 | 89 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \- Single](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 |
-| 90 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 |
-| 91 | [ยิ้มมา](https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ยิ้มมา](https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0) | 2:52 |
-| 92 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
+| 90 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
+| 91 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 |
+| 92 | [ยิ้มมา](https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ยิ้มมา](https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0) | 2:52 |
 | 93 | [Extraordinary](https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG) | 4:01 |
 | 94 | [มันคือความรัก](https://open.spotify.com/track/0teSa2LZFYcmJsWL3OQJXJ) | [Mr.Lazy](https://open.spotify.com/artist/0SxUEXqsDkjeDZRy60KZ8j), [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [White Music White Hits Album](https://open.spotify.com/album/1DY8ltrJojDtTVVEYVPHgh) | 3:28 |
 | 95 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\) \- Single](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 |

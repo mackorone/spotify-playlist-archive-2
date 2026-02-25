@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,656 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,635 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 72 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
 | 73 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 |
 | 74 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
-| 75 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
-| 76 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 |
+| 75 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 |
+| 76 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
 | 77 | [Own It \(feat\. Ed Sheeran & Burna Boy\)](https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:36 |
 | 78 | [Runnin' \(Lose It All\)](https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Arrow Benjamin](https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj) | [Runnin' \(Lose It All\)](https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP) | 3:33 |
 | 79 | [The Man](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 4:15 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 84 | [Dance with Me Tonight](https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [In Case You Didn't Know](https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve) | 3:22 |
 | 85 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
 | 86 | [Hold Back The River](https://open.spotify.com/track/72FNf7DAlWLmuHiLTBcNHY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 3:58 |
-| 87 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
-| 88 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
+| 87 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
+| 88 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
 | 89 | [LDN](https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:10 |
 | 90 | [Welcome To New York \(Taylor's Version\)](https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:32 |
 | 91 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:47 |

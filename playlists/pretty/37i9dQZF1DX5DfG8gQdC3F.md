@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Megan Moroney, Lana Del Rey, NAV & Young Thug, Twenty One Pilots, WILLOW and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,666 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,620 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

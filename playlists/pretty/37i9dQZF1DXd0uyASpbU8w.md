@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  Zee Nxumalo, Mr JazziQ, WILLOW, Nasty C and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,093 likes - 72 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,174 likes - 72 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 31 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 32 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
 | 33 | [Fine Shit](https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Fine Shit](https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw) | 1:53 |
-| 34 | [uMakhelwane \(feat\. Ciniso & Pale Moloi\)](https://open.spotify.com/track/4GitIfvxLhMBYnlyCKiQWr) | [Sami'Kay](https://open.spotify.com/artist/7zlPsI1JA3iBmLOZIlLRQ7), [Misokuhle](https://open.spotify.com/artist/7ch05S0MB1zfGB50F7PRCL), [MSA](https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI), [Ciniso](https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw), [Pale Moloi](https://open.spotify.com/artist/5AnIWCYRZDFZKBv2n2yXUP) | [uMakhelwane \(feat\. Ciniso & Pale Moloi\)](https://open.spotify.com/album/6HeaV8iUeKUg6dqYfJ9a66) | 5:57 |
+| 34 | [uMakhelwane \(feat\. Ciniso & Pale Moloi\)](https://open.spotify.com/track/4GitIfvxLhMBYnlyCKiQWr) | [Sami'Kay](https://open.spotify.com/artist/2yEEBnhmaCfuxOMtU2m0bU), [Misokuhle](https://open.spotify.com/artist/7ch05S0MB1zfGB50F7PRCL), [MSA](https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI), [Ciniso](https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw), [Pale Moloi](https://open.spotify.com/artist/5AnIWCYRZDFZKBv2n2yXUP) | [uMakhelwane \(feat\. Ciniso & Pale Moloi\)](https://open.spotify.com/album/6HeaV8iUeKUg6dqYfJ9a66) | 5:57 |
 | 35 | [Sgidla Vah \(feat\. Thatohatsi & Tracy\)](https://open.spotify.com/track/5jhi6CdcMRhxt0Nddhndk6) | [ShakaMan YKTV](https://open.spotify.com/artist/726PC2ajNUnuZW1sRD6is1), [Bongza](https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG), [Mluusician](https://open.spotify.com/artist/7uNPGhyPtFpwvmSP3tTiaE), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Tracy](https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze) | [Sgidla Vah \(feat\. Thatohatsi & Tracy\)](https://open.spotify.com/album/0iUeW7iti0nXNfejLEC8NX) | 7:17 |
 | 36 | [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 |
 | 37 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |

@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 339478,
+  "num_followers": 339534,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "24Hrs.",
-        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
-      },
-      "artists": [
-        {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Tropics 1",
         "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 208831,
       "name": "Oso",
       "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "24Hrs.",
+        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
+      },
+      "artists": [
+        {
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "made in taiwan",
-        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
-      },
-      "artists": [
-        {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
-        }
-      ],
-      "duration_ms": 182190,
-      "name": "made in taiwan",
-      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Exit simulation",
         "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 104337,
       "name": "Procedurally Generated Corridor",
       "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "made in taiwan",
+        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+      },
+      "artists": [
+        {
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+        }
+      ],
+      "duration_ms": 182190,
+      "name": "made in taiwan",
+      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Street Smarts",
-        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
-      },
-      "artists": [
-        {
-          "name": "VHS LOGOS",
-          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "Telefunken",
-      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u9752\u6625\u306e\u4f11\u6687",
         "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 263592,
       "name": "\u9752\u6625\u306e\u4f11\u6687",
       "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Street Smarts",
+        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+      },
+      "artists": [
+        {
+          "name": "VHS LOGOS",
+          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "Telefunken",
+      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 91593,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Glass Mind",
         "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 219428,
       "name": "Glass Mind",
       "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 91593,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj"
-      },
-      "artists": [
-        {
-          "name": "luxury elite",
-          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
-        }
-      ],
-      "duration_ms": 106581,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Sports",
         "url": "https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og"
       },
@@ -1527,22 +1511,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Cry Again",
-        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        },
-        {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+          "name": "luxury elite",
+          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
         }
       ],
-      "duration_ms": 182192,
-      "name": "Cry Again",
-      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
+      "duration_ms": 106581,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Buy Now",
+        "url": "https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah"
+      },
+      "artists": [
+        {
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+        }
+      ],
+      "duration_ms": 227827,
+      "name": "Sneakers for Men",
+      "url": "https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1571,18 +1567,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Buy Now",
-        "url": "https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah"
+        "name": "Cry Again",
+        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
       },
       "artists": [
         {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
         }
       ],
-      "duration_ms": 227827,
-      "name": "Sneakers for Men",
-      "url": "https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF"
+      "duration_ms": 182192,
+      "name": "Cry Again",
+      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "The 33rd Split",
-        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
+        "name": "Twin Elegance",
+        "url": "https://open.spotify.com/album/4fIFny0pMaHkfMfwi4t21t"
       },
       "artists": [
         {
-          "name": "King Quartz",
-          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
-        },
-        {
-          "name": "VCRheadaches",
-          "url": "https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI"
+          "name": "Lost Traveler \u30ed\u30b9\u30c8",
+          "url": "https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Vcrheadaches - Purge",
-      "url": "https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT"
+      "duration_ms": 175804,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0R6sHfthUWXUwzPjhrV39z"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1703,6 +1699,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "The 33rd Split",
+        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
+      },
+      "artists": [
+        {
+          "name": "King Quartz",
+          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
+        },
+        {
+          "name": "VCRheadaches",
+          "url": "https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Vcrheadaches - Purge",
+      "url": "https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Fever Dream (slowed + reverb)",
         "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 232000,
       "name": "Fever Dream - slowed + reverb",
       "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Twin Elegance",
-        "url": "https://open.spotify.com/album/4fIFny0pMaHkfMfwi4t21t"
-      },
-      "artists": [
-        {
-          "name": "Lost Traveler \u30ed\u30b9\u30c8",
-          "url": "https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/0R6sHfthUWXUwzPjhrV39z"
     }
   ],
   "unique_name": "vaporwave",

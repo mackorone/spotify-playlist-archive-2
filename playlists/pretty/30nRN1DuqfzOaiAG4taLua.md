@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 
 > 
 
-[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 19 likes - 63 songs - 3 hr 27 min
+[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 20 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

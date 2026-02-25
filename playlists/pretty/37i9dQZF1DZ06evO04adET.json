@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 845242,
+  "num_followers": 845323,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAa+Ot2DYgppaKyMdskg1um",
+  "snapshot_id": "aZuYgAAAAAD6yc3d0+usRbsRiPT0hNVT",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Nuevo Yo",
         "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 221553,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": null,
@@ -667,46 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Tipo Gatsby",
-      "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/6Y9DeC4Z9R9scRPg7r11pl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -727,6 +687,46 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/6Y9DeC4Z9R9scRPg7r11pl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Tipo Gatsby",
+      "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
     },
     {
       "added_at": null,

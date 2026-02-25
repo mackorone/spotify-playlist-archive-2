@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,734 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,779 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 32 | [Telephone Mani Pol](https://open.spotify.com/track/6gGfcvpyTSM8G1Vf5xUGYW) | [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Indian](https://open.spotify.com/album/7IIRC6m8rRU0qQUHo0BmR4) | 6:14 |
 | 33 | [En Kadhale](https://open.spotify.com/track/1NyK6HEYrFuA6nNwEaCOai) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Noel James](https://open.spotify.com/artist/2rp7t72puDdjCwrA3WjJOk) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 6:00 |
 | 34 | [Nila Kaaigiradhu\(Male Version\)](https://open.spotify.com/track/5M4z4zaSIeSCC3wUa3nQKq) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Indira](https://open.spotify.com/album/0WA88rP1L6ZbZOYjv4dAqt) | 4:15 |
-| 35 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
-| 36 | [Thayya Thayya](https://open.spotify.com/track/6otKKnSdVkg0OYGdJIK9NM) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Subha](https://open.spotify.com/artist/1wLg8vfE4nshGpjohoeXeQ) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 6:49 |
+| 35 | [Thayya Thayya](https://open.spotify.com/track/6otKKnSdVkg0OYGdJIK9NM) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Subha](https://open.spotify.com/artist/1wLg8vfE4nshGpjohoeXeQ) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 6:49 |
+| 36 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
 | 37 | [Nenjinile](https://open.spotify.com/track/4mKiuyytbYITuoeF19MvSG) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 5:02 |
 | 38 | [Maargazhi Poovea](https://open.spotify.com/track/1BsUz93KmwBdR7GI2tWJCe) | [Shobha Shanker](https://open.spotify.com/artist/5Ep3klpu2IgTQJLqsmEHQ0) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 6:19 |
 | 39 | [Uyire Uyire](https://open.spotify.com/track/0hUGQUSf8YcHdOnQG9AFth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 7:14 |

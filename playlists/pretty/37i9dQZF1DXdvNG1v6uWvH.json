@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Lana Del Rey og m\u00f6rgum fleiri!",
-  "num_followers": 9600,
+  "num_followers": 9599,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
         "name": "Flames (feat. Bandit)",
         "url": "https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 176066,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
+      "duration_ms": 279160,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -427,18 +443,18 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
+        "name": "Dooset Daram",
+        "url": "https://open.spotify.com/album/6pPgMuKTMlP3RjUoWOpK2n"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Meira Omar",
+          "url": "https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c"
         }
       ],
-      "duration_ms": 279160,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
+      "duration_ms": 177760,
+      "name": "Dooset Daram",
+      "url": "https://open.spotify.com/track/1IEgoHovZYbhwpk9LiTK9Z"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -491,22 +507,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Dooset Daram",
-        "url": "https://open.spotify.com/album/6pPgMuKTMlP3RjUoWOpK2n"
-      },
-      "artists": [
-        {
-          "name": "Meira Omar",
-          "url": "https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "Dooset Daram",
-      "url": "https://open.spotify.com/track/1IEgoHovZYbhwpk9LiTK9Z"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "Confessions: An Unexpected Turn of Events",
         "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 202525,
       "name": "only the best",
       "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0Lc6hXuzMbcK4Lw0NsLjwH"
+      },
+      "artists": [
+        {
+          "name": "Cimberly",
+          "url": "https://open.spotify.com/artist/3Hkf2U4n32v1n6o6MLVXCD"
+        }
+      ],
+      "duration_ms": 167883,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/1ENWPMBX8mf4kyCpony4ut"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/0Lc6hXuzMbcK4Lw0NsLjwH"
-      },
-      "artists": [
-        {
-          "name": "Cimberly",
-          "url": "https://open.spotify.com/artist/3Hkf2U4n32v1n6o6MLVXCD"
-        }
-      ],
-      "duration_ms": 167883,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/1ENWPMBX8mf4kyCpony4ut"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "YDH",
-        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 197043,
-      "name": "YDH",
-      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "THEO",
         "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 147018,
       "name": "THEO",
       "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "YDH",
+        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 197043,
+      "name": "YDH",
+      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Eternal martyr",
-        "url": "https://open.spotify.com/album/6vokIDV1jHNJZR6KU0rCp8"
-      },
-      "artists": [
-        {
-          "name": "K\u00ebkht Ar\u00e4kh",
-          "url": "https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Eternal martyr",
-      "url": "https://open.spotify.com/track/1eFlgteVBxHpbDy2b5iJuM"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "You Don't Get That",
         "url": "https://open.spotify.com/album/5Fl1fiWipozX23QTIi0hmd"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 135692,
       "name": "You Don't Get That",
       "url": "https://open.spotify.com/track/3CxH2LyvDzK9RIbObU4yx7"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Eternal martyr",
+        "url": "https://open.spotify.com/album/6vokIDV1jHNJZR6KU0rCp8"
+      },
+      "artists": [
+        {
+          "name": "K\u00ebkht Ar\u00e4kh",
+          "url": "https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Eternal martyr",
+      "url": "https://open.spotify.com/track/1eFlgteVBxHpbDy2b5iJuM"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Du gamla du fria",
-        "url": "https://open.spotify.com/album/3h9a83yPFXMS7IX8TpTsxq"
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/5mJVYqxiTdW3To07GPicSr"
       },
       "artists": [
         {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
         }
       ],
-      "duration_ms": 126036,
-      "name": "Du gamla du fria",
-      "url": "https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx"
+      "duration_ms": 171573,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2WqlA3WSTkXW9ao4pn1PS7"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
+        "name": "Du gamla du fria",
+        "url": "https://open.spotify.com/album/3h9a83yPFXMS7IX8TpTsxq"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+        }
+      ],
+      "duration_ms": 126036,
+      "name": "Du gamla du fria",
+      "url": "https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
         "name": "Stay 4 U",
         "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 184444,
       "name": "Stay 4 U",
       "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/5mJVYqxiTdW3To07GPicSr"
-      },
-      "artists": [
-        {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2WqlA3WSTkXW9ao4pn1PS7"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1015,22 +1015,6 @@
       "duration_ms": 160941,
       "name": "Tro p\u00e5 en \u00e4ngel",
       "url": "https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
-        "name": "broken paradise",
-        "url": "https://open.spotify.com/album/2lIuWlIWooFwWvPqL2JZem"
-      },
-      "artists": [
-        {
-          "name": "Graham Lake",
-          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
-        }
-      ],
-      "duration_ms": 242659,
-      "name": "broken paradise",
-      "url": "https://open.spotify.com/track/2dnBqp1fbuxotdW31xddUj"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
+        "name": "broken paradise",
+        "url": "https://open.spotify.com/album/2lIuWlIWooFwWvPqL2JZem"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "duration_ms": 242659,
+      "name": "broken paradise",
+      "url": "https://open.spotify.com/track/2dnBqp1fbuxotdW31xddUj"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
         "name": "PLATS",
         "url": "https://open.spotify.com/album/7q2xccEnfyxpd0Qu3yGFFG"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "4 Life",
-        "url": "https://open.spotify.com/album/556uChxrKSkbCM36RsVDYZ"
-      },
-      "artists": [
-        {
-          "name": "Adam Olenius",
-          "url": "https://open.spotify.com/artist/5DQhpvhBgqdbDOojAxkIPO"
-        }
-      ],
-      "duration_ms": 200822,
-      "name": "Vattenf\u00e4rger",
-      "url": "https://open.spotify.com/track/4FrBT02npZcRSGidUBEEBt"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "Die for you",
         "url": "https://open.spotify.com/album/0pY5InO2K9DwyhJOA2924q"
       },
@@ -1115,6 +1099,38 @@
       "duration_ms": 175500,
       "name": "Die for you",
       "url": "https://open.spotify.com/track/7JcHHEKQUnr7EZR0GAdneV"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "F\u00f6dd i G\u00e4vle",
+        "url": "https://open.spotify.com/album/2vC9ENn7GqKUYXaRhj3BxI"
+      },
+      "artists": [
+        {
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+        }
+      ],
+      "duration_ms": 174871,
+      "name": "F\u00f6dd i G\u00e4vle",
+      "url": "https://open.spotify.com/track/6jqkhohvJNvxUvfxnY4JfL"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "4 Life",
+        "url": "https://open.spotify.com/album/556uChxrKSkbCM36RsVDYZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Olenius",
+          "url": "https://open.spotify.com/artist/5DQhpvhBgqdbDOojAxkIPO"
+        }
+      ],
+      "duration_ms": 200822,
+      "name": "Vattenf\u00e4rger",
+      "url": "https://open.spotify.com/track/4FrBT02npZcRSGidUBEEBt"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1143,38 +1159,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "F\u00f6dd i G\u00e4vle",
-        "url": "https://open.spotify.com/album/2vC9ENn7GqKUYXaRhj3BxI"
-      },
-      "artists": [
-        {
-          "name": "Di Leva",
-          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
-        }
-      ],
-      "duration_ms": 174871,
-      "name": "F\u00f6dd i G\u00e4vle",
-      "url": "https://open.spotify.com/track/6jqkhohvJNvxUvfxnY4JfL"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA"
-      },
-      "artists": [
-        {
-          "name": "Parana",
-          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1GQJUqQcUVwGU8NgCPywvL"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "333 dance songs",
         "url": "https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l"
       },
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Travel Back In Time",
-        "url": "https://open.spotify.com/album/7pq40qm2F3rwVCQMj7IDre"
-      },
-      "artists": [
-        {
-          "name": "Club 8",
-          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
-        }
-      ],
-      "duration_ms": 122506,
-      "name": "Travel Back In Time",
-      "url": "https://open.spotify.com/track/2EURJ5geRwuforZQ88U75t"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "Sista Rosen",
         "url": "https://open.spotify.com/album/2BMs3826uLJ31y7vsBy2Wu"
       },
@@ -1223,6 +1191,22 @@
       "duration_ms": 155116,
       "name": "Sista Rosen",
       "url": "https://open.spotify.com/track/4GNgOx6XsN77ptsKCu7gsR"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA"
+      },
+      "artists": [
+        {
+          "name": "Parana",
+          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1GQJUqQcUVwGU8NgCPywvL"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1243,6 +1227,22 @@
       "duration_ms": 159069,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/78pBedhixcXbzOpvNWELWB"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Travel Back In Time",
+        "url": "https://open.spotify.com/album/7pq40qm2F3rwVCQMj7IDre"
+      },
+      "artists": [
+        {
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+        }
+      ],
+      "duration_ms": 122506,
+      "name": "Travel Back In Time",
+      "url": "https://open.spotify.com/track/2EURJ5geRwuforZQ88U75t"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/7K4jfjnvCKw0sQfFOlty8A"
-      },
-      "artists": [
-        {
-          "name": "Pom Femme",
-          "url": "https://open.spotify.com/artist/7Fq7iZTu4VF5SQwtdsGOd0"
-        }
-      ],
-      "duration_ms": 148397,
-      "name": "Sunny Side Up",
-      "url": "https://open.spotify.com/track/4TxXVwQ0Wpvq17fGQEGSdG"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "wash away",
         "url": "https://open.spotify.com/album/2tslN1LJt5kcegF8hmlAbB"
       },
@@ -1347,22 +1331,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "My Hearts Desire",
-        "url": "https://open.spotify.com/album/3FfmN7WDXAM5vCPlOek2dn"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        }
-      ],
-      "duration_ms": 229986,
-      "name": "My Hearts Desire",
-      "url": "https://open.spotify.com/track/5XNEgSL9Wy9PTk44kAqHRJ"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/7hbq1Cv6vYpqu7zGgMTF08"
       },
@@ -1375,6 +1343,38 @@
       "duration_ms": 210870,
       "name": "Human",
       "url": "https://open.spotify.com/track/4KgWT5tlBEGlbaCRLW8XEV"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/7K4jfjnvCKw0sQfFOlty8A"
+      },
+      "artists": [
+        {
+          "name": "Pom Femme",
+          "url": "https://open.spotify.com/artist/7Fq7iZTu4VF5SQwtdsGOd0"
+        }
+      ],
+      "duration_ms": 148397,
+      "name": "Sunny Side Up",
+      "url": "https://open.spotify.com/track/4TxXVwQ0Wpvq17fGQEGSdG"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "My Hearts Desire",
+        "url": "https://open.spotify.com/album/3FfmN7WDXAM5vCPlOek2dn"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        }
+      ],
+      "duration_ms": 229986,
+      "name": "My Hearts Desire",
+      "url": "https://open.spotify.com/track/5XNEgSL9Wy9PTk44kAqHRJ"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1411,50 +1411,18 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Mina formativa \u00e5r",
-        "url": "https://open.spotify.com/album/6aB0Lh8laPN56weinkWR4E"
+        "name": "Disappearing Act",
+        "url": "https://open.spotify.com/album/6Vbl7WVGUDYJ8FAjaVPPmd"
       },
       "artists": [
         {
-          "name": "Svart Tulpan",
-          "url": "https://open.spotify.com/artist/1WHTAoT9Bd80O0ywsVVr8u"
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Mina formativa \u00e5r",
-      "url": "https://open.spotify.com/track/2lDbl3HOKhKZkLh54BwSMw"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
-        "name": "ode",
-        "url": "https://open.spotify.com/album/7p9QwUgJtABhqDuxsOz3XJ"
-      },
-      "artists": [
-        {
-          "name": "grasior",
-          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "ode",
-      "url": "https://open.spotify.com/track/6quU6GhPVcamMQAiGaVJOK"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
-        "name": "Alpe d'Huez",
-        "url": "https://open.spotify.com/album/5eg1oWNksfFWJwdyONqMCZ"
-      },
-      "artists": [
-        {
-          "name": "Tabloid",
-          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
-        }
-      ],
-      "duration_ms": 258707,
-      "name": "Alpe d'Huez",
-      "url": "https://open.spotify.com/track/6J37PtbLdD3A8emxljY1jq"
+      "duration_ms": 172560,
+      "name": "Disappearing Act",
+      "url": "https://open.spotify.com/track/2ej09G17zFHfLApPhrmG7n"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1475,18 +1443,50 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Disappearing Act",
-        "url": "https://open.spotify.com/album/6Vbl7WVGUDYJ8FAjaVPPmd"
+        "name": "ode",
+        "url": "https://open.spotify.com/album/7p9QwUgJtABhqDuxsOz3XJ"
       },
       "artists": [
         {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+          "name": "grasior",
+          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
         }
       ],
-      "duration_ms": 172560,
-      "name": "Disappearing Act",
-      "url": "https://open.spotify.com/track/2ej09G17zFHfLApPhrmG7n"
+      "duration_ms": 174857,
+      "name": "ode",
+      "url": "https://open.spotify.com/track/6quU6GhPVcamMQAiGaVJOK"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Mina formativa \u00e5r",
+        "url": "https://open.spotify.com/album/6aB0Lh8laPN56weinkWR4E"
+      },
+      "artists": [
+        {
+          "name": "Svart Tulpan",
+          "url": "https://open.spotify.com/artist/1WHTAoT9Bd80O0ywsVVr8u"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Mina formativa \u00e5r",
+      "url": "https://open.spotify.com/track/2lDbl3HOKhKZkLh54BwSMw"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Alpe d'Huez",
+        "url": "https://open.spotify.com/album/5eg1oWNksfFWJwdyONqMCZ"
+      },
+      "artists": [
+        {
+          "name": "Tabloid",
+          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
+        }
+      ],
+      "duration_ms": 258707,
+      "name": "Alpe d'Huez",
+      "url": "https://open.spotify.com/track/6J37PtbLdD3A8emxljY1jq"
     },
     {
       "added_at": "2026-02-20 00:00:13",

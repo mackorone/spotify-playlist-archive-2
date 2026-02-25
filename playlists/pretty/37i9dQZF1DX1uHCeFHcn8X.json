@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2010s. ",
-  "num_followers": 1576282,
+  "num_followers": 1576673,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Versace on the Floor",
-      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "See You Again (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 229525,
       "name": "See You Again (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Versace on the Floor",
+      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "I Fall Apart",
-      "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 223346,
+      "name": "I Fall Apart",
+      "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 183000,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Suncity",
-        "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 229319,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 210863,
       "name": "Forever",
       "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Suncity",
+        "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 229319,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Nick Jonas X2",
-        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Nick Jonas X2",
+        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329649,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Last Year Was Complicated",
         "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 234213,
       "name": "Close",
       "url": "https://open.spotify.com/track/3lSDIJ2abCrOdDJ6pshUap"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329649,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Me Before You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 261079,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Me Before You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 261079,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "EX",
-      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 234106,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Big Plans",
-        "url": "https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "What Am I",
-      "url": "https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "RIP Indo Hisashi",
         "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 195501,
       "name": "Narcissist (feat. The 1975)",
       "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Big Plans",
+        "url": "https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3315,22 +3315,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Singular Act II",
-        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 164708,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Lie To Me (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
       },
@@ -3347,6 +3331,22 @@
       "duration_ms": 149877,
       "name": "Lie To Me (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 164708,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3983,22 +3983,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 180167,
-      "name": "Passport Home",
-      "url": "https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "In the Shape of a Dream",
         "url": "https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz"
       },
@@ -4015,6 +3999,22 @@
       "duration_ms": 189786,
       "name": "Stay With Me (feat. Jeremy Zucker)",
       "url": "https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 180167,
+      "name": "Passport Home",
+      "url": "https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj"
     },
     {
       "added_at": "2024-07-15 19:36:11",

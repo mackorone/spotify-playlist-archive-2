@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,268 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,281 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 34 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
 | 35 | [Ramblin' Rose](https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:47 |
 | 36 | [Let's Fall In Love](https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:48 |
-| 37 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
-| 38 | [Around The World \- Remastered](https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable Nat King Cole Sings The Great Songs](https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ) | 2:34 |
-| 39 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
+| 37 | [Around The World \- Remastered](https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable Nat King Cole Sings The Great Songs](https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ) | 2:34 |
+| 38 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
+| 39 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
 | 40 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 41 | [Walkin' My Baby Back Home](https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:38 |
 | 42 | [Walkin' My Baby Back Home](https://open.spotify.com/track/4HI45rr7RtHDxuR1sy63x9) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Still Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/5DoaC07Tzl170xtqz0f2oU) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [Aquellos Ojos Verdes](https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:13 |
 | 50 | [That's All \- Remastered](https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:59 |
 
-Snapshot ID: `aZpHAAAAAADa4RgB0NCFPdPnjecfB6WY`
+Snapshot ID: `aZuYgAAAAADrCcDArRTg5hwxJ23txyv0`

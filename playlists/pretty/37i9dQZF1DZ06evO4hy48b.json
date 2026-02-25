@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 232866,
+  "num_followers": 232916,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAD2+OebU0Zh8Y8pl6b81yEi",
+  "snapshot_id": "aZuYgAAAAADynMEG7kqwf1kfgfw5MpF0",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Planes",
-        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
         },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "mariposas",
-        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
+        "name": "En Tus Planes",
+        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
       },
       "artists": [
         {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 154000,
-      "name": "mariposas",
-      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "2 Extra\u00f1os",
-      "url": "https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Coche",
         "url": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 125080,
       "name": "En El Coche",
       "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "2 Extra\u00f1os",
+      "url": "https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd"
     },
     {
       "added_at": null,

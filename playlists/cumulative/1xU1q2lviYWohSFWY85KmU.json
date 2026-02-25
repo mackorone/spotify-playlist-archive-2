@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Dummy-B",
+        "url": "https://open.spotify.com/album/58MMamfa84imRDpmXXi2kg"
+      },
+      "artists": [
+        {
+          "name": "\u9326",
+          "url": "https://open.spotify.com/artist/1N9Blca28xu05WclOgklN4"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238518,
+      "name": "Dummy-B (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1hdek0ZKXZ6W14RPGDV83I"
+    },
+    {
+      "album": {
         "name": "EMBLEM",
         "url": "https://open.spotify.com/album/1vGdK8TYS4yeKAFaBQdNkf"
       },
@@ -799,6 +817,28 @@
     },
     {
       "album": {
+        "name": "BLACK LiST",
+        "url": "https://open.spotify.com/album/59uVsK3DzT3nBZYCCr2luW"
+      },
+      "artists": [
+        {
+          "name": "\u66f8\u5e97\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/2xUC9RhmZ0w9djd9uuPTCD"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "LiMBO (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/3x952dcVO0JCAfI8Ol0caz"
+    },
+    {
+      "album": {
         "name": "Love You",
         "url": "https://open.spotify.com/album/6vxUDSrnah2JkQtNfBnPDh"
       },
@@ -974,7 +1014,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 238106,
       "name": "NEVERTHELESS",
       "url": "https://open.spotify.com/track/1ACbP7IbL7U2NYs3GwBbQN"
@@ -2955,6 +2995,28 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30cb\u30de\u30fc\u30ec\u30fb\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+        "url": "https://open.spotify.com/album/2DXOXDOLvYaLxDTUPAeSaR"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30de\u30ae\u30b7\u30b3\u30fc\u30b8",
+          "url": "https://open.spotify.com/artist/1qHX4qNXPDGWLQKXAkxFbZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "\u30a2\u30cb\u30de\u30fc\u30ec\u30fb\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4bt1wPsxlpx1pnUJGeaGVw"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30d5\u30bf\u30fc\u30a8\u30dd\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/6oGtJXqDToo36TuXGBHvTO"
       },
@@ -3496,6 +3558,28 @@
       "duration_ms": 151752,
       "name": "\u30ab\u30a4\u30b3",
       "url": "https://open.spotify.com/track/6Srgvq9ryPxhr2coAYl7RZ"
+    },
+    {
+      "album": {
+        "name": "i)",
+        "url": "https://open.spotify.com/album/5EbfxrrbRxXKfLZd2vFCMO"
+      },
+      "artists": [
+        {
+          "name": "99piano",
+          "url": "https://open.spotify.com/artist/27jmc8RAcdZ6emKIWR3gLL"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149361,
+      "name": "\u30ab\u30eb\u30c1\u30e3\u30ec\u30d9\u30ea\u30f3\u30b0 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/09rDpd8cJ7dwMqXTT1jaSa"
     },
     {
       "album": {
@@ -4560,7 +4644,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 179625,
       "name": "\u30c8\u30ea\u30ab\u30d6\u30c8 (feat. \u5bae\u821e\u30e2\u30ab&\u68b5\u305d\u3088\u304e)",
       "url": "https://open.spotify.com/track/3RacTNy1OoRlWWcrX350sB"
@@ -5072,7 +5156,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 227250,
       "name": "\u30d0\u30e9\u30fc\u30c9\u306b\u306a\u308c\u306a\u3044\u7656\u306b (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/39Hq47kWp2I17m6guuh9ZD"
@@ -5800,7 +5884,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 191186,
       "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u30ac\u30fc\u30eb (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/04fDCoZ2A2Hzwc6TSUd2eU"
@@ -7482,7 +7566,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 163693,
       "name": "\u611b\u8ff7\u30a8\u30ec\u30b8\u30fc (Reloaded)",
       "url": "https://open.spotify.com/track/2wGXFbY7uHhsnj69MNpR2q"
@@ -9194,6 +9278,28 @@
       "duration_ms": 233300,
       "name": "\u99c6\u3051\u308b (feat. \u53cc\u8449\u6e4a\u97f3)",
       "url": "https://open.spotify.com/track/45HRdWz5Lsj8M9HBKBdfq0"
+    },
+    {
+      "album": {
+        "name": "\u3042\u308a\u3042\u307e\u308b\u4e0d\u5e78",
+        "url": "https://open.spotify.com/album/2c9tQI0kW8uxiDjNP4zZBL"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142442,
+      "name": "\u9a19\u3057\u305f\u3093\u3060\u306d (feat. KAITO)",
+      "url": "https://open.spotify.com/track/5V3LSzFCPnijdid5AxUqvM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,829 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,829 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 39 | [A Minute, a Day, No More](https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 5:21 |
 | 40 | [Arabesque 3 \- 2013 Remaster](https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 2:39 |
 | 41 | [So Many Short Years Ago](https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:43 |
-| 42 | [Rosetti Noise/Chrystal Garden And A Coda](https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 14:19 |
-| 43 | [Adult](https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:03 |
-| 44 | [Arabesque 2 \- 2013 Remaster](https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 3:00 |
+| 42 | [Adult](https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:03 |
+| 43 | [Rosetti Noise/Chrystal Garden And A Coda](https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 14:19 |
+| 44 | [Rue Casimir Delavigne \(For Daniel Lentz\) \- 2013 Remaster](https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 5:23 |
 | 45 | [Deva C](https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:51 |
-| 46 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
-| 47 | [Spoken Roses](https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 6:20 |
-| 48 | [Rue Casimir Delavigne \(For Daniel Lentz\) \- 2013 Remaster](https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 5:23 |
+| 46 | [Spoken Roses](https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 6:20 |
+| 47 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
+| 48 | [Arabesque 2 \- 2013 Remaster](https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 3:00 |
 | 49 | [Let Us Go Into The House Of The Lord/Butterfly Sunday](https://open.spotify.com/track/4z5mBEeCOoWqqbK8rOwDN1) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 6:22 |
-| 50 | [Outside, Silence](https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:25 |
+| 50 | [Missing Person](https://open.spotify.com/track/4SC2PFSWMBFsKIeiowe05u) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:35 |
 
-Snapshot ID: `aZpHAAAAAAAAWe9NJUKWfhY3Qnd2lQxh`
+Snapshot ID: `aZuYgAAAAABSuvuc1W4RtUDivNu1VgvB`

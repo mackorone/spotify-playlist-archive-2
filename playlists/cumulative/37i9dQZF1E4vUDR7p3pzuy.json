@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 209536,
       "name": "A song for the broken",
       "url": "https://open.spotify.com/track/0DMPMjuPkq7jfRuqpgNYXx"
@@ -374,6 +374,28 @@
       "duration_ms": 228000,
       "name": "All-Inclusive",
       "url": "https://open.spotify.com/track/5a2DObmVugouqxO7UM7A2R"
+    },
+    {
+      "album": {
+        "name": "Altostratus 26",
+        "url": "https://open.spotify.com/album/6AcJedElU5BzLJVrbmJkWs"
+      },
+      "artists": [
+        {
+          "name": "Antonis Vlavo",
+          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
+        },
+        {
+          "name": "Dimi De San",
+          "url": "https://open.spotify.com/artist/36z49zlZxwuFOoYUO0HZHX"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271597,
+      "name": "Altostratus 26",
+      "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
     },
     {
       "album": {
@@ -540,7 +562,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 188153,
       "name": "Back to you",
       "url": "https://open.spotify.com/track/3iaos6zwFU2K8g5xRK4IqM"
@@ -620,7 +642,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 307858,
       "name": "Behind the Door",
       "url": "https://open.spotify.com/track/4kfNnwIw1qbJRBg6UACmNd"
@@ -700,7 +722,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -740,7 +762,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 293142,
       "name": "Black Death Party",
       "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
@@ -1022,7 +1044,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 206896,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/6zOTd6Pahvwas06vzXh3Dr"
@@ -1318,7 +1340,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1502,7 +1524,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 198391,
       "name": "Cut Me Loose",
       "url": "https://open.spotify.com/track/4u1SCkmOp9hWkG7cX8FCjp"
@@ -1622,6 +1644,24 @@
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
+    },
+    {
+      "album": {
+        "name": "Dark City",
+        "url": "https://open.spotify.com/album/1wzS4vwKO9nnSn6gucuzqa"
+      },
+      "artists": [
+        {
+          "name": "Tower of Silence",
+          "url": "https://open.spotify.com/artist/2nMzAysuwhOPwmsjLNCvHU"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241972,
+      "name": "Dark City",
+      "url": "https://open.spotify.com/track/0Gp2X1eYk64a0pst7Vfuru"
     },
     {
       "album": {
@@ -1850,7 +1890,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1980,7 +2020,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -2070,7 +2110,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 171827,
       "name": "Exile",
       "url": "https://open.spotify.com/track/5yK2EfLfwOxs7r9yNvovra"
@@ -2150,6 +2190,24 @@
       "duration_ms": 215111,
       "name": "Fake",
       "url": "https://open.spotify.com/track/2sG0oQlo5rCbssIEHHNBPs"
+    },
+    {
+      "album": {
+        "name": "Fake Love (Rock Remix)",
+        "url": "https://open.spotify.com/album/6ZdwBWP7u77F4ABowo4c30"
+      },
+      "artists": [
+        {
+          "name": "Shirley Callaghan",
+          "url": "https://open.spotify.com/artist/3u5t7C7C9MhRj2jm6IoiIt"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238437,
+      "name": "Fake Love - Rock Remix",
+      "url": "https://open.spotify.com/track/1ljd5NB7YLcUBMiA5f3eEF"
     },
     {
       "album": {
@@ -3144,7 +3202,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -3198,7 +3256,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 387527,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
@@ -4562,7 +4620,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -4692,7 +4750,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -5766,7 +5824,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -6280,7 +6338,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -6464,7 +6522,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 378375,
       "name": "Succubus",
       "url": "https://open.spotify.com/track/5fJQ6sOlhFSGr3k3Rb3B0g"
@@ -7032,7 +7090,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 233045,
       "name": "They Don't Care (About You)",
       "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
@@ -7328,7 +7386,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 142785,
       "name": "Truth Behind The Lies",
       "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
@@ -7364,7 +7422,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Twisted Feeling",
       "url": "https://open.spotify.com/track/2LbzsDiAt1qzZCchx8ZT7G"
@@ -7592,7 +7650,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 253127,
       "name": "Victim Of God - Monomorte Remix",
       "url": "https://open.spotify.com/track/0oLRZNdA4vyNqlLIrssLcF"
@@ -7784,7 +7842,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Weaponry",
       "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"
@@ -7900,7 +7958,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

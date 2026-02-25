@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10304,
+  "num_followers": 10305,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAAEwRKFKMKmliz1edWHJzLL",
+  "snapshot_id": "aZuYgAAAAAACprcjukDNuIE61Y+d5Yc2",
   "tracks": [
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
+      "duration_ms": 196075,
+      "name": "El Libro de los Dioses",
+      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 196075,
-      "name": "El Libro de los Dioses",
-      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
+      "duration_ms": 192946,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+        "name": "Homenaje a Los Invasores",
+        "url": "https://open.spotify.com/album/77cenBu4ilcCyiu4iARvrG"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 200150,
-      "name": "Para la Reina",
-      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
+      "duration_ms": 196140,
+      "name": "Eslabon por Eslabon",
+      "url": "https://open.spotify.com/track/4TAJnxpLy9BBJSVk9K76RI"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

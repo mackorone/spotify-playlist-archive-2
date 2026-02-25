@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1476394,
+  "num_followers": 1476538,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -175,30 +175,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
-        },
-        {
-          "name": "Bobby Harvey",
-          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
-        }
-      ],
-      "duration_ms": 120578,
-      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Think About Us",
         "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        }
+      ],
+      "duration_ms": 120578,
+      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -519,18 +535,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+        "name": "Release The Pressure",
+        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+      "duration_ms": 203668,
+      "name": "Release The Pressure",
+      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -551,26 +571,6 @@
       "duration_ms": 147307,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Release The Pressure",
-        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 203668,
-      "name": "Release The Pressure",
-      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -767,6 +767,38 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Makina Time",
+        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "duration_ms": 130090,
+      "name": "Makina Time",
+      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Makina Time",
-        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "Dj Konik",
-          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        }
-      ],
-      "duration_ms": 130090,
-      "name": "Makina Time",
-      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "light years (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 220978,
       "name": "light years (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "crystallized (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 217646,
-      "name": "crystallized (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "crystallized (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 217646,
+      "name": "crystallized (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/22RXS7iEQ1RYMfY97xlUhp"
-      },
-      "artists": [
-        {
-          "name": "FEZZO",
-          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
-        }
-      ],
-      "duration_ms": 138020,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
         "url": "https://open.spotify.com/album/4otUqw6jN2D4yGQwOjgEGV"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/22RXS7iEQ1RYMfY97xlUhp"
+      },
+      "artists": [
+        {
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
+        }
+      ],
+      "duration_ms": 138020,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Bar Song (Tipsy Techno)",
         "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
       },
@@ -1875,26 +1895,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Control Of Me (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 195291,
-      "name": "Control Of Me (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "No Room For A Saint (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
       },
@@ -1915,6 +1915,26 @@
       "duration_ms": 236128,
       "name": "No Room For A Saint (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Control Of Me (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Control Of Me (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1959,46 +1979,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Pick Up The Phone",
-        "url": "https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 211510,
-      "name": "Pick Up The Phone",
-      "url": "https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Loco Loco",
-        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Loco Loco",
-      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
         "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
@@ -2019,6 +1999,26 @@
       "duration_ms": 145777,
       "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
       "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Pick Up The Phone",
+        "url": "https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 211510,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc"
     },
     {
       "added_at": "2026-02-20 05:00:40",

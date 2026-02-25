@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166092,
+  "num_followers": 166088,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "One Last Tear",
+        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "One Last Tear",
+      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Love The Pussy",
         "url": "https://open.spotify.com/album/0tn1oF9SYkoUTCOrSfksv1"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 243428,
       "name": "Love The Pussy",
       "url": "https://open.spotify.com/track/41uy43i5APqm3sSbg4c1mB"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "One Last Tear",
-        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 140232,
-      "name": "One Last Tear",
-      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "The Speaker",
-        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "The Speaker",
-      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 203720,
       "name": "Step Back (Break Remix)",
       "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "The Speaker",
+        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "The Speaker",
+      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Feel The Pulse",
+        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "Feel The Pulse",
+      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
       },
@@ -943,18 +959,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Feel The Pulse",
-        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+        "name": "Big Enough Reason",
+        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 200028,
-      "name": "Feel The Pulse",
-      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
+      "duration_ms": 205500,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -975,26 +995,6 @@
       "duration_ms": 143610,
       "name": "Rowdy (BLAOW!)",
       "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Big Enough Reason",
-        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Bad Like We",
         "url": "https://open.spotify.com/album/5C0XFFqgELRXBmEZoPMJge"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 209142,
       "name": "Bad Like We",
       "url": "https://open.spotify.com/track/6ssBXWgW8GaUfDfOzne2tS"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Simulation",
+        "url": "https://open.spotify.com/album/6pvsEbFpaEyUpcfU3HGqLd"
+      },
+      "artists": [
+        {
+          "name": "T95",
+          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Simulation",
+      "url": "https://open.spotify.com/track/6xnBre4gfp3CiOazJ44IMy"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Bigger Amount",
         "url": "https://open.spotify.com/album/7mv0hUdMKkBMdCdZkIohcL"
       },
@@ -1675,22 +1695,18 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Simulation",
-        "url": "https://open.spotify.com/album/6pvsEbFpaEyUpcfU3HGqLd"
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/5F1ysE3pHEVff0KT3c0YfN"
       },
       "artists": [
         {
-          "name": "T95",
-          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Simulation",
-      "url": "https://open.spotify.com/track/6xnBre4gfp3CiOazJ44IMy"
+      "duration_ms": 228186,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/4zKfzNTHGTI60A5FcykRKU"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1731,22 +1747,6 @@
       "duration_ms": 182068,
       "name": "TEK (feat.Killa P)",
       "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Senses",
-        "url": "https://open.spotify.com/album/5F1ysE3pHEVff0KT3c0YfN"
-      },
-      "artists": [
-        {
-          "name": "BAKEY",
-          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Senses",
-      "url": "https://open.spotify.com/track/4zKfzNTHGTI60A5FcykRKU"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1879,22 +1879,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "RUDEBOI",
-        "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
       },
       "artists": [
         {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
         },
         {
-          "name": "Deadline",
-          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
         }
       ],
-      "duration_ms": 204342,
-      "name": "RUDEBOI",
-      "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
+      "duration_ms": 200423,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1935,22 +1935,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+        "name": "RUDEBOI",
+        "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
       },
       "artists": [
         {
-          "name": "AC13",
-          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
         },
         {
-          "name": "Ragdoll",
-          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+          "name": "Deadline",
+          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
         }
       ],
-      "duration_ms": 200423,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
+      "duration_ms": 204342,
+      "name": "RUDEBOI",
+      "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
     },
     {
       "added_at": "2026-02-13 00:00:18",

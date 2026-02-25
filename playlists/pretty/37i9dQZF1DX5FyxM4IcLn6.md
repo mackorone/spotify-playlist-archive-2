@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,829 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,847 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 23 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 24 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 25 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 26 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 |
-| 27 | [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 |
+| 26 | [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 |
+| 27 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 |
 | 28 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
 | 29 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
 | 30 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 57 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
 | 58 | [Me Pasa \(Piscis\)](https://open.spotify.com/track/63ZVyUi9weRwuMf1QsbDnY) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl) | 3:21 |
 | 59 | [A Song To Sing](https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [A Song To Sing](https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd) | 2:59 |
-| 60 | [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 |
-| 61 | [Rio](https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:08 |
+| 60 | [Rio](https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:08 |
+| 61 | [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 |
 | 62 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 63 | [I Lied to You](https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 5:14 |
 | 64 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |

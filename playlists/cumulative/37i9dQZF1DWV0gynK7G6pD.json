@@ -9293,7 +9293,7 @@
     },
     {
       "album": {
-        "name": "Schumann, C.: 3 Romances, Op. 22: III. Leidenschaftlich schnell",
+        "name": "Clara Schumann: 3 Romances, Op. 22: III. Leidenschaftlich schnell",
         "url": "https://open.spotify.com/album/64p3QHn8t0gkLfv62DDSk1"
       },
       "artists": [
@@ -42641,32 +42641,6 @@
     },
     {
       "album": {
-        "name": "Duality / Zimmermann, Va\u0148hal - Bassoon Concertos",
-        "url": "https://open.spotify.com/album/0p94VuBD6p1RpQ4XsdIcPc"
-      },
-      "artists": [
-        {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
-        },
-        {
-          "name": "Risonanza Praga",
-          "url": "https://open.spotify.com/artist/0tKCrnrIPnpCH5Wku9Vvvp"
-        },
-        {
-          "name": "Ond\u0159ej \u0160indel\u00e1\u0159",
-          "url": "https://open.spotify.com/artist/73u36OX9Wa8CjEdfuJkRMB"
-        }
-      ],
-      "date_added": "2026-02-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 547733,
-      "name": "Bassoon Concerto",
-      "url": "https://open.spotify.com/track/1M8dPdOyBwvXAvS8roXEgK"
-    },
-    {
-      "album": {
         "name": "Vivaldi: Bassoon Concerto in A Minor, RV 497",
         "url": "https://open.spotify.com/album/10YwV0J01zTZzLDG8SqfR4"
       },
@@ -42824,6 +42798,32 @@
       "duration_ms": 399000,
       "name": "Bassoon Concerto in B-Flat Major, KV 191: I. Allegro",
       "url": "https://open.spotify.com/track/3pxw3f4v6ZefinjHJkMVLH"
+    },
+    {
+      "album": {
+        "name": "Duality / Zimmermann, Va\u0148hal - Bassoon Concertos",
+        "url": "https://open.spotify.com/album/0p94VuBD6p1RpQ4XsdIcPc"
+      },
+      "artists": [
+        {
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+        },
+        {
+          "name": "Risonanza Praga",
+          "url": "https://open.spotify.com/artist/0tKCrnrIPnpCH5Wku9Vvvp"
+        },
+        {
+          "name": "Ond\u0159ej \u0160indel\u00e1\u0159",
+          "url": "https://open.spotify.com/artist/73u36OX9Wa8CjEdfuJkRMB"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547733,
+      "name": "Bassoon Concerto in C major \u2013 II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/1M8dPdOyBwvXAvS8roXEgK"
     },
     {
       "album": {

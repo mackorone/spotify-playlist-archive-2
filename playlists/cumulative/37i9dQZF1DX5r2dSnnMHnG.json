@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 209626,
       "name": "Marry ME",
       "url": "https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp"
@@ -2127,6 +2127,28 @@
     },
     {
       "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        },
+        {
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
+    },
+    {
+      "album": {
         "name": "Really Like You",
         "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
       },
@@ -2178,6 +2200,24 @@
       "duration_ms": 187092,
       "name": "Rooftop - 2020 Remarstered",
       "url": "https://open.spotify.com/track/4qBw3STtDaxGPJ4KidKwLe"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
     },
     {
       "album": {
@@ -2542,7 +2582,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 183645,
       "name": "Spring illusion",
       "url": "https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn"

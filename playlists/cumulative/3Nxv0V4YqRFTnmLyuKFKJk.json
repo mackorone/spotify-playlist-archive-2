@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "The 21 Project",
+        "url": "https://open.spotify.com/album/34CxcAYNmdugoNQZq2Bl3Z"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "21",
+      "url": "https://open.spotify.com/track/6dHNYfLox0XUIC9HLmkSFX"
+    },
+    {
+      "album": {
         "name": "Midnight Gasoline",
         "url": "https://open.spotify.com/album/1HmFOh5zrgQLu6BcyIFlOD"
       },
@@ -2347,6 +2365,28 @@
     },
     {
       "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        },
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "Everybody's Got Somebody but Me (feat. Jason Mraz) - Encore",
+      "url": "https://open.spotify.com/track/0spRhrdp5a0qHBzcYwtFIX"
+    },
+    {
+      "album": {
         "name": "Everything About You",
         "url": "https://open.spotify.com/album/7cgNpGMqPPEz35gSyla2L0"
       },
@@ -3992,6 +4032,24 @@
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "album": {
+        "name": "Storyline",
+        "url": "https://open.spotify.com/album/0HSfuPAX1K9L5ekfcNIWuM"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/2B5ey0F0QtFKNIR48vfvNJ"
     },
     {
       "album": {
@@ -5846,6 +5904,24 @@
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
+    },
+    {
+      "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/4Y9Sdh2CMerGmcchsmiHzo"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216529,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/5nuaEcx1SjyPssfmZzFbdl"
     },
     {
       "album": {
@@ -8020,7 +8096,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-25",
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0f1svjHSiaCJif6noKKVHa"
@@ -8038,7 +8114,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"

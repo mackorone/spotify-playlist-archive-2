@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Kenny Whitmire, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,220 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,255 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

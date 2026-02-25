@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Gabriel Fredette
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,368 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,371 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 55 | [Oublier encore](https://open.spotify.com/track/5EQ6C8Vsf07tLViGKvZ4nK) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Oublier encore](https://open.spotify.com/album/7iBfcEwa9oigXuvMn06Gsd) | 2:41 |
 | 56 | [REGARDE LENTEMENT](https://open.spotify.com/track/41nfxYO5X2RGh6ktgmnLWN) | [Eaubad](https://open.spotify.com/artist/462pDEWX9S9AleYYpieZWq) | [REGARDE LENTEMENT](https://open.spotify.com/album/3SYKNVNPs2NAhCc2spipnH) | 2:20 |
 | 57 | [À l'extérieur](https://open.spotify.com/track/0hOkufMfnnufkzvQDLt71P) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [À l'extérieur](https://open.spotify.com/album/4OJzgZuB058ItklTtThsCz) | 2:33 |
-| 58 | [L’etang](https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town \(Deluxe\)](https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4) | 5:16 |
+| 58 | [L’étang](https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town \(Deluxe\)](https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4) | 5:16 |
 | 59 | [Tourisme](https://open.spotify.com/track/4wVZ0CDlKtSt05ztiOqplg) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Tourisme](https://open.spotify.com/album/50dLClesSVQO0ni2RIStOp) | 3:31 |
 | 60 | [Des montagnes de toi](https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Des montagnes de toi](https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe) | 3:01 |
 | 61 | [Valse à Demi](https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN), [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Valse à Demi](https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR) | 2:42 |

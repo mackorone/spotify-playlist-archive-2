@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 
 > The numb flavor of depression
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 29 songs - 1 hr 40 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,6 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 | 27 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 |
 | 28 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 |
 | 29 | [Burning Pile](https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 4:22 |
+| 30 | [Bottom of the Pit \(feat\. Sam Haft\)](https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [In Sound Mind \- Original Soundtrack](https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr) | 4:00 |
 
-Snapshot ID: `AAAAKZNANfJ5DjInkQLSaBG1zNrjlZjn`
+Snapshot ID: `AAAAKlwkErKrG8XDEsUezke0sUn9caWN`

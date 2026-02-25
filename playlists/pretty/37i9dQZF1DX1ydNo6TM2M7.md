@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our 2025 setlists\. Featuring Chloé Caillet & Luke Alessi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,387 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,390 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 54 | [spontaneous combustion!](https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [spontaneous combustion!](https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B) | 5:42 |
 | 55 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 |
 | 56 | [Versatile](https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Versatile](https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0) | 3:14 |
-| 57 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Gennaro](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
+| 57 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
 | 58 | [Business](https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8), [cu.rve](https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32) | [Business](https://open.spotify.com/album/27AIBRCAd2OxJLnuVGpLTY) | 4:51 |
 | 59 | [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw) | [DumitrEscu](https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ) | [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh) | 2:55 |
 | 60 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 175886,
+  "num_followers": 175913,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 272826,
-      "name": "Tengo Todo Excepto a Ti",
-      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Flores De Alquiler",
         "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -587,6 +587,26 @@
       "duration_ms": 211373,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -619,26 +639,6 @@
       "duration_ms": 203226,
       "name": "Noviembre Sin Ti",
       "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -807,22 +807,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -875,8 +875,8 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -955,8 +955,8 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Esta Es Mi Vida",
         "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 222626,
       "name": "Espacio sideral",
       "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Amor prohibido",
         "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236453,
       "name": "Yo no te pido la luna (Non voglio mica la luna)",
       "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2020-10-24 04:53:42",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZpHAAAAAAA0e2xSu7sE6TuyjOSJi+1T",
+  "snapshot_id": "aZuYgAAAAAAnFZy5tCLv7xbfI9M0phEM",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rollin' and Tumblin'",
-        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 208110,
-      "name": "Rollin\u2019 and Tumblin\u2019",
-      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 175960,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rollin' and Tumblin'",
+        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 208110,
+      "name": "Rollin\u2019 and Tumblin\u2019",
+      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' against a Stone",
-        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 199013,
-      "name": "You Can't Be Told",
-      "url": "https://open.spotify.com/track/4eyuMz45Anhq0w6QrLARae"
+      "duration_ms": 314320,
+      "name": "Pushin\u2019 Against A Stone",
+      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
     },
     {
       "added_at": null,

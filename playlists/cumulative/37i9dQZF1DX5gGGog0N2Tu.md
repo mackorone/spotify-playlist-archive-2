@@ -4,7 +4,7 @@
 
 > ladies grab your drinks 🍸
 
-588 songs - 1 day 9 hr 8 min
+589 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-27 | 2024-07-10 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-27 | 2025-05-19 |
 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 | 2025-09-09 | 2025-11-07 |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-02-24 |  |
 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 | 2025-01-08 | 2025-05-19 |
 | [Stolen Dance](https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1iCwsK0jUzBPQx7XEpumbz) | 5:13 | 2025-05-18 | 2025-12-02 |
 | [Strip That Down](https://open.spotify.com/track/4Ro98RCK90oHqqSZUnTFq5) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Strip That Down](https://open.spotify.com/album/4PrFFsJ2WAD46IXNdfx2dx) | 3:24 | 2024-10-19 | 2025-01-09 |
@@ -503,7 +504,7 @@
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-10-03 | 2024-10-18 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2025-01-02 | 2025-05-19 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-27 |  |
-| [Te Boté \- Remix](https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Boté \(Remix\)](https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL) | 6:57 | 2026-02-19 |  |
+| [Te Boté \- Remix](https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Boté \(Remix\)](https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL) | 6:57 | 2026-02-19 | 2026-02-25 |
 | [Tears on the dancefloor](https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Tears on the dancefloor](https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj) | 2:53 | 2024-08-22 | 2024-10-04 |
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-06-27 | 2024-07-10 |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2026-02-04 |  |

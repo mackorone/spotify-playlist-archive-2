@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,392 likes - 50 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,389 likes - 50 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 35 | [O Leão E A Igreja \(feat\. Nívea Soares\) \- Ao Vivo](https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto no Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT) | 4:27 |
 | 36 | [Glória & Honra](https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:25 |
 | 37 | [Eu Cantarei](https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ao Rei](https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO) | 4:04 |
-| 38 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
-| 39 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 |
+| 38 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 |
+| 39 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
 | 40 | [Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 13:10 |
 | 41 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Grande é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9) | 6:53 |
 | 42 | [Sangue de Jesus](https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sangue de Jesus](https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Rio \- Ao Vivo](https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio \(Ao Vivo\)](https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc) | 8:31 |
 | 50 | [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 |
 
-Snapshot ID: `aZpHAAAAAADoNSvXASrvEh0AFrerVO7A`
+Snapshot ID: `aZuYgAAAAADL0KHskawSPdsJ1/yX5E2m`

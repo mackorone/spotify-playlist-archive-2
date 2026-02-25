@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 398494,
+  "num_followers": 398551,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Low Season",
-        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Around The Sun",
-      "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Low Season",
+        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Around The Sun",
+      "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 212633,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Hell Freezes Over (Remaster 2018)",
-        "url": "https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "Learn To Be Still",
-      "url": "https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Quick Hands",
         "url": "https://open.spotify.com/album/0CDO8xzg9Ke3k9og3g8BYq"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 203466,
       "name": "Quick Hands",
       "url": "https://open.spotify.com/track/6HCf9COkucXMcnqxJ1hfP0"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Hell Freezes Over (Remaster 2018)",
+        "url": "https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "Learn To Be Still",
+      "url": "https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Turning Onto You (HNNY Remix)",
-        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        },
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Turning Onto You - HNNY Remix",
-      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Sunshine In The Room",
         "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 182955,
       "name": "Sunshine In The Room (feat. Jon Batiste)",
       "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Turning Onto You (HNNY Remix)",
+        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        },
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Turning Onto You - HNNY Remix",
+      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Tales Of America (The Second Coming)",
-        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Lebanon",
-      "url": "https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 144901,
       "name": "Back on the Road",
       "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Tales Of America (The Second Coming)",
+        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Lebanon",
+      "url": "https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "The Weather (acoustic-ish & Gospel Reprise)",
         "url": "https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 163821,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Picture This",
-        "url": "https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "95",
-      "url": "https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Picture This",
+        "url": "https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "95",
+      "url": "https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Heartbreak Hits",
-        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
+        "name": "Queen of Silver Linings",
+        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
       "artists": [
         {
-          "name": "Theo Katzman",
-          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
         }
       ],
-      "duration_ms": 221508,
-      "name": "Good to Be Alone",
-      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
+      "duration_ms": 212964,
+      "name": "Queen of Silver Linings",
+      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Queen of Silver Linings",
-        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
+        "name": "Heartbreak Hits",
+        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
       },
       "artists": [
         {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
         }
       ],
-      "duration_ms": 212964,
-      "name": "Queen of Silver Linings",
-      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+      "duration_ms": 221508,
+      "name": "Good to Be Alone",
+      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2183,38 +2183,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD"
       },
@@ -2231,6 +2199,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "Summer Somewhere",
         "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 183413,
       "name": "Summer Somewhere",
       "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Under The Sun - Acoustic",
+      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Under The Sun - Acoustic",
-      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Collected Works, Pt. 1",
         "url": "https://open.spotify.com/album/7FLJhAH5zqpDyo5558LTs1"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 270272,
       "name": "Living Breathing",
       "url": "https://open.spotify.com/track/1LrDEp7vTkzj1sbrhwGs0Q"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Songs From The Ashes (PT. 1)",
+        "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 282802,
+      "name": "Nobody Opened The Door",
+      "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2707,22 +2707,6 @@
       "duration_ms": 161088,
       "name": "Starting To Get To You",
       "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Songs From The Ashes (PT. 1)",
-        "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 282802,
-      "name": "Nobody Opened The Door",
-      "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2775,6 +2759,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "Yours in the Morning",
         "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
       },
@@ -2823,6 +2823,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 190057,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui"
       },
@@ -2839,18 +2855,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+        "name": "The Wire (Alternate Version)",
+        "url": "https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 190057,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+      "duration_ms": 221063,
+      "name": "The Wire - Alternate Version",
+      "url": "https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2883,22 +2899,6 @@
       "duration_ms": 200127,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "The Wire (Alternate Version)",
-        "url": "https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 221063,
-      "name": "The Wire - Alternate Version",
-      "url": "https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -3071,22 +3071,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Come To The Beach (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y"
-      },
-      "artists": [
-        {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Come To The Beach - Acoustic Version",
-      "url": "https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -3099,6 +3083,22 @@
       "duration_ms": 169226,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Come To The Beach (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Come To The Beach - Acoustic Version",
+      "url": "https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -3287,6 +3287,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Never Gonna Change",
+        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
+      },
+      "artists": [
+        {
+          "name": "Kate York",
+          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Never Gonna Change",
+      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "Peach Sky",
         "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
       },
@@ -3303,34 +3319,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Way to the Way",
-        "url": "https://open.spotify.com/album/3CWgExtidV8MWBaSbwo29M"
+        "name": "I Don't Wanna Dance (Piano Version)",
+        "url": "https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5"
       },
       "artists": [
         {
-          "name": "Kevin Paris",
-          "url": "https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd"
+          "name": "Ellysse Mason",
+          "url": "https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN"
         }
       ],
-      "duration_ms": 254545,
-      "name": "Way to the Way",
-      "url": "https://open.spotify.com/track/2LU6SdGdA3faORkSDY6tw6"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Never Gonna Change",
-        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
-      },
-      "artists": [
-        {
-          "name": "Kate York",
-          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Never Gonna Change",
-      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
+      "duration_ms": 255272,
+      "name": "I Don't Wanna Dance - Piano Version",
+      "url": "https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6"
     }
   ],
   "unique_name": "Morning Coffee",

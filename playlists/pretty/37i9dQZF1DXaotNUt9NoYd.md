@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,482 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,506 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 43 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
 | 44 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 45 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
-| 46 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
-| 47 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
+| 46 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
+| 47 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
 | 48 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 49 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
 | 50 | [Spirits](https://open.spotify.com/track/7183jbbu97ZBhqkswLCIoi) | [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN), [Massage Therapy Music](https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P), [Spa Relaxation](https://open.spotify.com/artist/3zDIu6wCHnyEtTHbQ1JKmB) | [Relaxing SPA & YOGA Moments](https://open.spotify.com/album/24o2VCBFB9p4LpQ2ZG8jkC) | 1:45 |
