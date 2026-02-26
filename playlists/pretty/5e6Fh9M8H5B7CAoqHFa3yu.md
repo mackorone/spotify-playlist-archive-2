@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 265 likes - 1,960 songs - 4 day 21 hr 31 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 266 likes - 1,961 songs - 4 day 21 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1968,5 +1968,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1958 | [Ещё вчера](https://open.spotify.com/track/3oEnRkfBvcDogSQhOpVYWB) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Ещё вчера](https://open.spotify.com/album/154tkH9dGGq42QMywGfwBN) | 4:09 |
 | 1959 | [PERMANECEREI](https://open.spotify.com/track/0IKBvGNQBQZyYRFMnjdbtc) | [THOMÉ TRSH](https://open.spotify.com/artist/4WUHMC7ygoxYZgIrhZyrsl) | [QUANTOS PASSOS ATÉ AQUI?](https://open.spotify.com/album/5mLf0aYzCGXPAT0qdQdN43) | 2:58 |
 | 1960 | [Aquariana \- Acoustic](https://open.spotify.com/track/4wUyQVIIx8Hhn64Eznn8jc) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Aquariana \(Acoustic\)](https://open.spotify.com/album/2UN5i8OhabZ5xJYncO71j2) | 3:35 |
+| 1961 | [I Find More](https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS) | [Laurie Larson](https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M) | [I Find More](https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX) | 3:06 |
 
-Snapshot ID: `AAAIMXCMYpZlNI+yKQw2aElEWSSTajhQ`
+Snapshot ID: `AAAIMgrey/3a880Yufni1lFkRT9VniSA`

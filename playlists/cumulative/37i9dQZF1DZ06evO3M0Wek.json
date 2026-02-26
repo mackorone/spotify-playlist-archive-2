@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 294666,
       "name": "I Like It Heavy",
       "url": "https://open.spotify.com/track/6cIZP8nszUUtkwbxEW6wBN"
@@ -1288,6 +1288,24 @@
       "duration_ms": 217572,
       "name": "WATCH OUT!",
       "url": "https://open.spotify.com/track/3U4pOVUBotrEwil5pPAK4r"
+    },
+    {
+      "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "What Sober Couldn't Say",
+      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
     },
     {
       "album": {

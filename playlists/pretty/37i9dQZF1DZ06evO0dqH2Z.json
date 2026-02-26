@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4547,
+  "num_followers": 4548,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADOjpF0EnTZriWTppGw+JHT",
+  "snapshot_id": "aZzqAAAAAADxIhohW8cZg4Ft6vsA+g3N",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Shut",
-        "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Eyes Shut",
-      "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "name": "Eyes Shut",
+        "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 121933,
-      "name": "Coil/Recoil",
-      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+      "duration_ms": 165466,
+      "name": "Eyes Shut",
+      "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
       "duration_ms": 189578,
       "name": "Lemon Mouth",
       "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balance and Composure & Tigers Jaw Split",
         "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 169840,
       "name": "Dent",
       "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 128520,
       "name": "Fake Death",
       "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,

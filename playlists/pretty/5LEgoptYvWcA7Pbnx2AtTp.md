@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 180 songs - 10 hr 22 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 179 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,6 +187,5 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 177 | [Murders](https://open.spotify.com/track/0AFydkgl5Creero3gNjqvF) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 3:42 |
 | 178 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 |
 | 179 | [Threw It On The Ground](https://open.spotify.com/track/0IaR6HCEObaHxA52i0fdKU) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:38 |
-| 180 | [Charlie's Inferno](https://open.spotify.com/track/6mjtuSfqwMmvtvocsgT8xu) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/4sXc1Um0c1BMee1T4T70G7) | 3:44 |
 
-Snapshot ID: `AAAA/Z7fR7e4DLy6+qrTqc3KM2ThnOKZ`
+Snapshot ID: `AAAA/rnUcXwLkbppX59Ey9PCOnJxz4co`

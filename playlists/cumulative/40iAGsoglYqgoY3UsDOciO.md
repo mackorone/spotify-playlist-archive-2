@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-498 songs - 1 day 0 hr 4 min
+500 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Criteria](https://open.spotify.com/track/3j0SCXX9MhdSxYpdFAlJms) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 1:45 | 2023-07-26 |  |
 | [Crunch Time](https://open.spotify.com/track/1zs08Z4WOWrBLXFOMmoEHl) | [Kershey](https://open.spotify.com/artist/5PXnOMWHxDzYxQucJp4bq8) | [Crunch Time](https://open.spotify.com/album/01vdh0IeFJRK2awZeuP04Q) | 2:24 | 2026-02-11 |  |
 | [CUORE DI GHIACCIO](https://open.spotify.com/track/1r88vtpM65rQ9FNkOmfW1Z) | [F1NIN](https://open.spotify.com/artist/2pEkdA1xF9Zc0gp0oUX2K3) | [CUORE DI GHIACCIO](https://open.spotify.com/album/18pNKBNJe0sFWPUs3gvlIs) | 2:25 | 2024-10-02 |  |
+| [Cycles](https://open.spotify.com/track/38bi05yCUFyHLU08QEMc50) | [Teknik](https://open.spotify.com/artist/7xGB1yPO2EpkMKpk9RHn9v), [MISTER GREEN](https://open.spotify.com/artist/3NgAIGpRDPOe6ZGPhQNRD2) | [Cycles](https://open.spotify.com/album/2F26U2YH5YBXWciFyKxhmw) | 2:40 | 2026-02-25 |  |
 | [D in da A](https://open.spotify.com/track/2N8YelMa5lSCBycq1hhuZK) | [D.loading](https://open.spotify.com/artist/5ogOlBGV3hK3AD8ZJXOpl9) | [D in Da A](https://open.spotify.com/album/09EFjsbE4gXYn6I8qgTc2r) | 2:37 | 2026-01-28 |  |
 | [Dark Objects](https://open.spotify.com/track/7LAQ2KdUEzv0o0JqKjdmKg) | [Idol Talk](https://open.spotify.com/artist/4Zywk3Dn7UZ2peYgMp1Yhh) | [Allure](https://open.spotify.com/album/7A1CxgVowMWVBneKC3DjzT) | 3:11 | 2025-04-24 |  |
 | [Darling](https://open.spotify.com/track/68jjJ7ppDTlQSgEbc1H1D5) | [SiceVinci](https://open.spotify.com/artist/6KVM2iuQV0axEKj6bOE6Xu) | [TEMPTATION.](https://open.spotify.com/album/2E99pGr4KPQZAMzrT4qFC0) | 2:05 | 2024-09-08 |  |
@@ -262,6 +263,7 @@
 | [Microphone Guardians](https://open.spotify.com/track/2AOuqZTBTDtzlrmuwxqYLm) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH), [Jak Hellington](https://open.spotify.com/artist/0dIfS1J8VpEb80tcfA3aEN), [Kid Vishis](https://open.spotify.com/artist/3J3bqhNAKIJlFosbr0nFY1) | [Microphone Guardians](https://open.spotify.com/album/6tqpkD5YBJwrkQA9ZfrMvz) | 2:48 | 2024-06-14 |  |
 | [Midnight Madness](https://open.spotify.com/track/7JIIvW2MQheYIffYNMwqlY) | [Izzy TheAdvocate](https://open.spotify.com/artist/5P6MjFxBijXHcGl11wnF6F), [Basically](https://open.spotify.com/artist/3Trh3koi8aNgHkb91XZ62n) | [Road to Gotham 2](https://open.spotify.com/album/0XE7XDYDiaTQV5itDV0u7b) | 3:05 | 2024-06-11 |  |
 | [Millimeter from Breakin'](https://open.spotify.com/track/5qbcx5BznWu1jiwMjRFJ1H) | [HXN](https://open.spotify.com/artist/7tJX5rskc8orHwU1Zx1aWZ) | [Sub\-Level](https://open.spotify.com/album/6dHO7raGffFCFlOHLbJtUd) | 3:48 | 2026-01-20 |  |
+| [Mind Racing](https://open.spotify.com/track/0R5z5TGaGrt92LNRdT2pUR) | [Only1Krook](https://open.spotify.com/artist/0Aq2lOPzjhehPyGY3YGWDC) | [V1oneKrook](https://open.spotify.com/album/2E3GlytM8U0bgMT1bgWSeZ) | 2:26 | 2026-02-25 |  |
 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 | 2026-01-28 |  |
 | [miracle child](https://open.spotify.com/track/6SBMJWybyWyC4feGwpprbG) | [m4py](https://open.spotify.com/artist/7dNCWOA4XyIeqTwa7dFsyu) | [miracle child](https://open.spotify.com/album/61mQVKQEkOBq3bgkrx8uSd) | 2:27 | 2024-08-06 |  |
 | [Moment of Truth](https://open.spotify.com/track/3Y1yPRugBkAsBeP9piuFEG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:59 | 2023-07-26 |  |

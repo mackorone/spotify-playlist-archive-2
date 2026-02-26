@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483837,
+  "num_followers": 483821,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 231950,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Out Of Here",
-        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 151838,
-      "name": "Out Of Here",
-      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "I AM NOT SO TALL",
         "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 151838,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
     },
     {
       "added_at": "2026-01-23 05:00:19",

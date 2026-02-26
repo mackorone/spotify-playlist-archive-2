@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Unmask your true love\. Listen to the music from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,693,920 likes - 114 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695,952 likes - 114 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

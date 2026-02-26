@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35372,
+  "num_followers": 35373,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAD9kRwyUcpuAZTYZYRDveRx",
+  "snapshot_id": "aZzqAAAAAABEaQhqpExriLTEeDWK1XXU",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "What A Worthy Name",
+        "url": "https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Landon Wolfe",
+          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
+        }
+      ],
+      "duration_ms": 239211,
+      "name": "Watch Him Work",
+      "url": "https://open.spotify.com/track/6L5z4CiRIrnoNrlB32vQyI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
       },
@@ -519,46 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garment Of Praise",
-        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 299489,
-      "name": "Garment Of Praise",
-      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What A Worthy Name",
-        "url": "https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Landon Wolfe",
-          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
-        }
-      ],
-      "duration_ms": 239211,
-      "name": "Watch Him Work",
-      "url": "https://open.spotify.com/track/6L5z4CiRIrnoNrlB32vQyI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: God Of This City (Live)",
         "url": "https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 305992,
       "name": "God Of This City - Live",
       "url": "https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Garment Of Praise",
+        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 299489,
+      "name": "Garment Of Praise",
+      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
     },
     {
       "added_at": null,

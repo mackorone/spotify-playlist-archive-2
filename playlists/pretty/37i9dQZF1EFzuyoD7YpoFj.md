@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 83 | [High Society](https://open.spotify.com/track/6IZrkrD882aP8of0NNYH89) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 3:56 |
 | 84 | [Once Upon A Time](https://open.spotify.com/track/2TqoZbym3c17aIjsao4rJU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 3:29 |
 | 85 | [Love of My Life](https://open.spotify.com/track/0lPQauqohdW8CzOpc56XJF) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Love Remembers](https://open.spotify.com/album/6AgPMm0r965vD5ehqvpo3f) | 4:14 |
-| 86 | [Public Enemy Number One](https://open.spotify.com/track/0I82oheV2eznrBuvV77Czo) | [Walter Charles](https://open.spotify.com/artist/1CSOISjpvsUqFVaM9z6QTr), [Anything Goes New Broadway Company Orchestra](https://open.spotify.com/artist/0kWHuPyJRJeGeuxiJqZ3Z3) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:37 |
-| 87 | [Close](https://open.spotify.com/track/3BAniQC1QAfZyQjDOjXiqq) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 2:26 |
+| 86 | [Close](https://open.spotify.com/track/3BAniQC1QAfZyQjDOjXiqq) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 2:26 |
+| 87 | [Public Enemy Number One](https://open.spotify.com/track/0I82oheV2eznrBuvV77Czo) | [Walter Charles](https://open.spotify.com/artist/1CSOISjpvsUqFVaM9z6QTr), [Anything Goes New Broadway Company Orchestra](https://open.spotify.com/artist/0kWHuPyJRJeGeuxiJqZ3Z3) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:37 |
 | 88 | [Finale](https://open.spotify.com/track/0dgvAFAHF1XLIKQK8vKixd) | [Anything Goes New Broadway Company](https://open.spotify.com/artist/7bxHjshxURe2o5SoRN2ojF) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:32 |
 | 89 | [Weren't We Fools](https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 |
 | 90 | [There'll Always Be a Lady Fair](https://open.spotify.com/track/5XfdB9AnUQnV4P1nwT6Jjb) | [Ward Billeisen](https://open.spotify.com/artist/00VVo7kMLt2mwG0pSdbQZc), [Josh Franklin](https://open.spotify.com/artist/1FD2wd2Lb37TDJ7Yh8PQB8), [Daniel J\. Edwards](https://open.spotify.com/artist/6mADhrTM8H1GQs9bnrfsNu), [William Ryall](https://open.spotify.com/artist/5j50NR6SOO6LqFPlhJe4m6) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:30 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcKjygAAAADNFKbyI0Dh03GqcbMqLjT+`
+Snapshot ID: `AcKpagAAAADibELwYtJPvuX+osXzwlCu`

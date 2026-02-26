@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,875 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,885 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 29 | [The Water Is Wide \- Live](https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:51 |
 | 30 | [Gracias A La Vida](https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:36 |
 | 31 | [To Bobby](https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:01 |
-| 32 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 |
+| 32 | [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 |
 | 33 | [Joe Hill \- Live](https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:01 |
-| 34 | [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 |
+| 34 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 |
 | 35 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 |
 | 36 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 |
 | 37 | [I Am A Poor Wayfaring Stranger](https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Love Minus Zero/No Limit](https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 2:44 |
 | 50 | [Llego Con Tres Heridas](https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:14 |
 
-Snapshot ID: `aZuYgAAAAACCwaxSMKz6ErY4Ucceulb3`
+Snapshot ID: `aZzqAAAAAADj7gmXKbss1j00RzgMMafH`

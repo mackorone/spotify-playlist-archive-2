@@ -14079,6 +14079,24 @@
     },
     {
       "album": {
+        "name": "I Find More",
+        "url": "https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX"
+      },
+      "artists": [
+        {
+          "name": "Laurie Larson",
+          "url": "https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186425,
+      "name": "I Find More",
+      "url": "https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS"
+    },
+    {
+      "album": {
         "name": "I Give Thanks",
         "url": "https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8"
       },

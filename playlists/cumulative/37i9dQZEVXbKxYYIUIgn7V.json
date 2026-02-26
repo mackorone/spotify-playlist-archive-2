@@ -418,7 +418,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 129882,
       "name": "11 Jecke (Bei 3 ist hier Karneval)",
       "url": "https://open.spotify.com/track/7oZok9vYx223mL1Rrw9a5x"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 129142,
       "name": "Alles kostet Geld (i need a dollar)",
       "url": "https://open.spotify.com/track/1f8TK4Vau9VBROy6HN9H12"
@@ -11184,6 +11184,36 @@
       "duration_ms": 166425,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
+    },
+    {
+      "album": {
+        "name": "Svadba (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6tPlOvC2hIizQ9gsw8XXwh"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d8LA",
+          "url": "https://open.spotify.com/artist/68gnuHIbUorh9qp3yKhqNc"
+        },
+        {
+          "name": "Te\u017eak \u017divot",
+          "url": "https://open.spotify.com/artist/0YWZnu8Ww1c0xitSMEpQaG"
+        },
+        {
+          "name": "JLN",
+          "url": "https://open.spotify.com/artist/15d17D6qvoTRZZVAluGC0U"
+        },
+        {
+          "name": "Mladi Gangster",
+          "url": "https://open.spotify.com/artist/5l72E2sf4uJbkDzQCx0WwC"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96521,
+      "name": "Crvena kola (Emil Zola)",
+      "url": "https://open.spotify.com/track/2WVK7RTY54k9UpPSp6DOoE"
     },
     {
       "album": {
@@ -20198,7 +20228,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 159753,
       "name": "Gute Laune - Party Remix",
       "url": "https://open.spotify.com/track/7oRWSpx40nSgdcmTlWHphX"
@@ -26928,7 +26958,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 203131,
       "name": "Karnevalsmaus (Partyversion)",
       "url": "https://open.spotify.com/track/4C6gWZhTWB1WrBWmhNax48"
@@ -35288,10 +35318,32 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
+    },
+    {
+      "album": {
+        "name": "MY JEALOUSY",
+        "url": "https://open.spotify.com/album/3fsyOktHABDK3dBrjc89NY"
+      },
+      "artists": [
+        {
+          "name": "vivi baby",
+          "url": "https://open.spotify.com/artist/2VEjtfZuEMFeHHc1Zp5L6R"
+        },
+        {
+          "name": "ovg!",
+          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150830,
+      "name": "MY JEALOUSY",
+      "url": "https://open.spotify.com/track/4Rh6Anh8JU6FPI5msHyKW5"
     },
     {
       "album": {
@@ -49596,6 +49648,24 @@
       "duration_ms": 122188,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN"
+    },
+    {
+      "album": {
+        "name": "theclubrock",
+        "url": "https://open.spotify.com/album/59J9iFo4IBt2171rX80Amh"
+      },
+      "artists": [
+        {
+          "name": "Benny Bellson",
+          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122188,
+      "name": "theclubrock",
+      "url": "https://open.spotify.com/track/31SF2unE1SZ51m4O11isG9"
     },
     {
       "album": {

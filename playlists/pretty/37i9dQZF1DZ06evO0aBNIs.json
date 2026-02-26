@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 751910,
+  "num_followers": 751967,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADfFymswpkbBNk/pcvdMqB8",
+  "snapshot_id": "aZzqAAAAAABMwTRGyOjD4/Km8Q2A/vNY",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 187249,
-      "name": "You Broke Me Too (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 187249,
+      "name": "You Broke Me Too (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1T0Dv84b0Za7FoLcoeajgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avril Lavigne (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 267973,
       "name": "Let Me Go (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1T0Dv84b0Za7FoLcoeajgh"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 234138,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avril Lavigne (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 174906,
       "name": "Bad Girl (feat. Marilyn Manson)",
       "url": "https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "The Best Damn Thing",
-      "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avril Lavigne (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 225266,
       "name": "Give You What You Like",
       "url": "https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "The Best Damn Thing",
+      "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
     },
     {
       "added_at": null,

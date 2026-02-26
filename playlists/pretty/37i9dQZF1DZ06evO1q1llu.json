@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 249323,
+  "num_followers": 249337,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABgaPCs/I1hEJ2kUumMoVdg",
+  "snapshot_id": "aZzqAAAAAAAXYC0UH4jFPPK6gxTj8yeD",
   "tracks": [
     {
       "added_at": null,
@@ -179,42 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 232091,
-      "name": "2 Grown (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "JULY",
-      "url": "https://open.spotify.com/track/4sTDD6cM6iQPaLjP9s69iq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -235,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "JULY",
+      "url": "https://open.spotify.com/track/4sTDD6cM6iQPaLjP9s69iq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 169990,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 232091,
+      "name": "2 Grown (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152025,
+      "name": "STICK WITH ME",
+      "url": "https://open.spotify.com/track/3ALRBJsse1uiDIVY7SrRux"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Love Letter To You 5",
         "url": "https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 170053,
       "name": "Wind",
       "url": "https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152025,
-      "name": "STICK WITH ME",
-      "url": "https://open.spotify.com/track/3ALRBJsse1uiDIVY7SrRux"
     },
     {
       "added_at": null,

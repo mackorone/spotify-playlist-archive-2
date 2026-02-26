@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 167268,
+  "num_followers": 167259,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "What Did the Blackbird Say to the Crow",
         "url": "https://open.spotify.com/album/27X6vmJ0YmKi9ydl0aM65m"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 148889,
       "name": "Rain Crow",
       "url": "https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Light At The End of The Day",
-        "url": "https://open.spotify.com/album/02ylR7zt8ePmOSwezznHTo"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Light At The End of The Day",
-      "url": "https://open.spotify.com/track/5VhEJtRZhIv5wQlvIdIdMo"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "How To Grow A Woman From The Ground",
         "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "Light At The End of The Day",
+        "url": "https://open.spotify.com/album/02ylR7zt8ePmOSwezznHTo"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 238893,
+      "name": "Light At The End of The Day",
+      "url": "https://open.spotify.com/track/5VhEJtRZhIv5wQlvIdIdMo"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 256878,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Hubbardville Store",
         "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
       },
@@ -783,38 +767,18 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Working Man Blues",
-        "url": "https://open.spotify.com/album/4Nhgn4wHH4JTjMeN0r8WjJ"
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 158520,
-      "name": "Working Man Blues",
-      "url": "https://open.spotify.com/track/4QDFyUdP0ws9phMzr1HFoV"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Looks Like The End Of The Road",
-        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 220393,
-      "name": "Looks Like The End Of The Road",
-      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
+      "duration_ms": 256878,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -839,6 +803,42 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Looks Like The End Of The Road",
+        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 220393,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Working Man Blues",
+        "url": "https://open.spotify.com/album/4Nhgn4wHH4JTjMeN0r8WjJ"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "Working Man Blues",
+      "url": "https://open.spotify.com/track/4QDFyUdP0ws9phMzr1HFoV"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Wanderers Like Me",
-        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Wanderers Like Me",
-      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 174000,
       "name": "Blue Night",
       "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Wanderers Like Me",
+        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Wanderers Like Me",
+      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Murmurations, Vol. 2",
         "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 279506,
       "name": "Sandhill Cranes",
       "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "Will You Ever Be Mine",
         "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 160471,
       "name": "Heartbreak Train",
       "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Dovetail Cabin",
-        "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Dovetail Cabin",
-      "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "All the Mornings Have an Echo",
         "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
       },
@@ -1627,26 +1611,6 @@
       "duration_ms": 175128,
       "name": "All the Mornings Have an Echo",
       "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Lifetime To Go",
-        "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 259534,
-      "name": "Lifetime to Go",
-      "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1667,22 +1631,38 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Far Away With You",
-        "url": "https://open.spotify.com/album/0DGzXfo9DLJOzhI8iJtLc9"
+        "name": "Dovetail Cabin",
+        "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
       "artists": [
         {
-          "name": "Woody Platt",
-          "url": "https://open.spotify.com/artist/7fWVcDi14a93bylRRHvUp3"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
         }
       ],
-      "duration_ms": 237529,
-      "name": "Toe The Line",
-      "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
+      "duration_ms": 172533,
+      "name": "Dovetail Cabin",
+      "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Lifetime To Go",
+        "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 259534,
+      "name": "Lifetime to Go",
+      "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1723,6 +1703,42 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Far Away With You",
+        "url": "https://open.spotify.com/album/0DGzXfo9DLJOzhI8iJtLc9"
+      },
+      "artists": [
+        {
+          "name": "Woody Platt",
+          "url": "https://open.spotify.com/artist/7fWVcDi14a93bylRRHvUp3"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 237529,
+      "name": "Toe The Line",
+      "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Let It Fall",
+        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
+      },
+      "artists": [
+        {
+          "name": "Tina Adair",
+          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Let It Fall",
+      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "This Sad Song (Single Version) [Live]",
         "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 175946,
       "name": "Big Wheels",
       "url": "https://open.spotify.com/track/0ZLXEtd3zuVXzP3sW2WGXm"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Let It Fall",
-        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
-      },
-      "artists": [
-        {
-          "name": "Tina Adair",
-          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Let It Fall",
-      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
     },
     {
       "added_at": "2026-02-13 05:00:25",

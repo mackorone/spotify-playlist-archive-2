@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Aldo Trujillo en cover.",
-  "num_followers": 820635,
+  "num_followers": 820695,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Dame Amor",
-        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "Dame Amor",
-      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Dame Amor",
+        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "Dame Amor",
+      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "No Eramos Pobres",
-        "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "No Eramos Pobres",
-      "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Cielo Eterno - Spotify Singles",
         "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 244245,
       "name": "Cielo Eterno",
       "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "No Eramos Pobres",
+        "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "No Eramos Pobres",
+      "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Perro Abandonado",
+        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 211198,
+      "name": "Perro Abandonado",
+      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Perro Abandonado",
-        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 211198,
-      "name": "Perro Abandonado",
-      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "CONMIGO",
+        "url": "https://open.spotify.com/album/13JzpgNLqea7qVEGRoSiDh"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 175818,
+      "name": "CONMIGO",
+      "url": "https://open.spotify.com/track/4tqTjLWSw4Tw8cMDeZ7f8t"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Buenas Rachas",
         "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "CONMIGO",
-        "url": "https://open.spotify.com/album/13JzpgNLqea7qVEGRoSiDh"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 175818,
-      "name": "CONMIGO",
-      "url": "https://open.spotify.com/track/4tqTjLWSw4Tw8cMDeZ7f8t"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -2147,26 +2147,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Te Vi Con \u00c9l",
-        "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 187536,
-      "name": "Te Vi Con \u00c9l",
-      "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Don Nadie",
         "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
       },
@@ -2183,6 +2163,26 @@
       "duration_ms": 191259,
       "name": "Don Nadie",
       "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Te Vi Con \u00c9l",
+        "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 187536,
+      "name": "Te Vi Con \u00c9l",
+      "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
     },
     {
       "added_at": "2026-02-13 05:00:40",

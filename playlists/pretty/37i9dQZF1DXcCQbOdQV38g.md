@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,894 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,912 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 35 | [Kadootje](https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Kadootje](https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy) | 2:23 |
 | 36 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 37 | [Sexy Lady](https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Sexy Lady](https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu) | 3:16 |
-| 38 | [Aan het strand van Porto Rico](https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Aan het strand van Porto Rico](https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr) | 3:15 |
-| 39 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
+| 38 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
+| 39 | [Aan het strand van Porto Rico](https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Aan het strand van Porto Rico](https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr) | 3:15 |
 | 40 | [Rendez\-Vous](https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Rendez\-Vous](https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7) | 3:18 |
 | 41 | [Señorita, Meisje van de nacht](https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Señorita, Meisje van de nacht](https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj) | 2:56 |
 | 42 | [Laat Me Lekker Leven](https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Laat Me Lekker Leven](https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q) | 3:11 |

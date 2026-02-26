@@ -2,7 +2,7 @@
 
 ### [Fall Asleep Instantly💤](https://open.spotify.com/playlist/37i9dQZF1DX3WdioUzkg8I)
 
-> Relaxing music and sounds for sleeping.
+> Relaxing ambient piano music to help you fall asleep fast.
 
 338 songs - 15 hr 58 min
 

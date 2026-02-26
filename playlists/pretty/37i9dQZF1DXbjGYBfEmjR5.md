@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,459 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,486 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 41 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
 | 42 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
 | 43 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
-| 44 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
-| 45 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
+| 44 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
+| 45 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
 | 46 | [You Can't Run](https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [You Can't Run](https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf) | 3:21 |
 | 47 | [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 |
 | 48 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 64 | [Brighter Days](https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Brighter Days](https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex) | 2:04 |
 | 65 | [Delicate](https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Delicate](https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg) | 4:11 |
 | 66 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
-| 67 | [Tropical Feeling](https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Tropical Feeling](https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K) | 4:52 |
-| 68 | [Le Knight Club Is Playing at My House](https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Goodbye Future Funk](https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj) | 3:36 |
+| 67 | [Le Knight Club Is Playing at My House](https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Goodbye Future Funk](https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj) | 3:36 |
+| 68 | [Tropical Feeling](https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Tropical Feeling](https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K) | 4:52 |
 | 69 | [Dance Tonite](https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Dance Tonite](https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW) | 3:30 |
 | 70 | [SAILORSATURDAYS](https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC) | [Kokonoku](https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy) | [SAILORSATURDAYS](https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM) | 4:00 |
 | 71 | [Hollywood](https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH) | [LemKuuja](https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX), [ロードスRhodes](https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0) | [CHEESECAKE+](https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO) | 4:19 |

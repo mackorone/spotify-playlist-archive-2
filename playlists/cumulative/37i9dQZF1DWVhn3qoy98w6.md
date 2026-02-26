@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Cervatana.
+> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: CERVATANA.
 
 8,373 songs - 17 day 18 hr 39 min
 

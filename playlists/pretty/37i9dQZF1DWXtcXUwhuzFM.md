@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Isac Elliot..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,392 likes - 91 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,385 likes - 91 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

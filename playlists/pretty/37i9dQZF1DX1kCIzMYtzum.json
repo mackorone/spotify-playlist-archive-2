@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 473195,
+  "num_followers": 473571,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1063,46 +1063,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Chasing Paradise",
-        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 180532,
-      "name": "Chasing Paradise",
-      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/3DwHI74FO3o1lNAdUnDryD"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/4F1KFfkqUWZaEyyoMt3wYF"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
       },
@@ -1127,6 +1087,46 @@
       "duration_ms": 160758,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/3DwHI74FO3o1lNAdUnDryD"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/4F1KFfkqUWZaEyyoMt3wYF"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1503,30 +1523,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
-        }
-      ],
-      "duration_ms": 227735,
-      "name": "\u2060\u2060Butterflies",
-      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -1547,22 +1543,26 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
+      "duration_ms": 227735,
+      "name": "\u2060\u2060Butterflies",
+      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1599,26 +1599,22 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Inside Our Hearts",
-        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         }
       ],
-      "duration_ms": 234086,
-      "name": "Inside Our Hearts",
-      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
+      "duration_ms": 181874,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1647,22 +1643,26 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
+        "name": "Inside Our Hearts",
+        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
+      "duration_ms": 234086,
+      "name": "Inside Our Hearts",
+      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 165276,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4"
       },
@@ -2063,6 +2043,26 @@
       "duration_ms": 150000,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 165276,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
     },
     {
       "added_at": "2026-02-20 05:00:47",

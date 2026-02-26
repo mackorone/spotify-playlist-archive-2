@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Drag Path",
+        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Drag Path",
+      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2ZMGAQ1QyWmirdMQ1KET8o"
       },
@@ -665,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
+    },
+    {
+      "album": {
         "name": "Brighten the Corners: Nicene Creedence Ed.",
         "url": "https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7"
       },
@@ -753,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Clarion",
+        "url": "https://open.spotify.com/album/2gPxxzgdIHdUe9MAivY8Qw"
+      },
+      "artists": [
+        {
+          "name": "Clarion",
+          "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Hello Juliet",
+      "url": "https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX"
+    },
+    {
+      "album": {
         "name": "Those Days Are Gone",
         "url": "https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K"
       },
@@ -818,7 +872,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 223840,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
@@ -1596,7 +1650,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 239600,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
@@ -2484,7 +2538,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 214240,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"

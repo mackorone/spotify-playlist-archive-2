@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,814 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,941 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 49 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 |
 | 50 | [BED \- David Guetta Festival Mix](https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED \(David Guetta Festival Mix\)](https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd) | 3:55 |
 
-Snapshot ID: `aZuYgAAAAABMVrrPo+qkDC9SDnAAfhVL`
+Snapshot ID: `aZzqAAAAAAB7QicqMFONCohUevB2qXhh`

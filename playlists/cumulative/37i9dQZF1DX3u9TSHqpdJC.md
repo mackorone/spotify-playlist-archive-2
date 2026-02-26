@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: EMMA SEE\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: tig3r lewis\. Artwork by Paola Saliby
 
-4,398 songs - 9 day 8 hr 5 min
+4,405 songs - 9 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\(not\) a love song](https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song](https://open.spotify.com/album/1ScCNRdHvkfPOHDaQOIzka) | 2:53 | 2023-05-03 | 2023-07-20 |
 | [\(We're Not\) Together!!!!](https://open.spotify.com/track/5JkfmtZEEMRvgBT6ugXx1v) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [\(We're Not\) Together!!!!](https://open.spotify.com/album/6miLYRRgroNvcp4BWPi6u5) | 3:16 | 2025-08-28 | 2026-01-15 |
 | [\*\*\* TOO BIG TO FAIL \*\*\*](https://open.spotify.com/track/2sEVdDz8JiHTsCMbGhRbGy) | [Ariel](https://open.spotify.com/artist/3N8mYq55TW5bjll52oIUl4) | [TOO BIG TO FAIL \(Act I\)](https://open.spotify.com/album/4zx5950oBZqxzKAGLVwvZy) | 2:57 | 2021-05-20 | 2021-06-18 |
+| [.5 OF ME](https://open.spotify.com/track/3lmznpzLjYggvFY9cVMzbh) | [Juliet Daniel](https://open.spotify.com/artist/4zdPlubDFPnv9nUjXWK6au) | [.5 OF ME](https://open.spotify.com/album/1KPk8XuaL0CXd2Houf9iIJ) | 2:16 | 2026-02-25 |  |
 | [1 2 365 4 Me](https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Kennen's Cassettes](https://open.spotify.com/album/6ex0UfSwjQz35e3ksthUxW) | 2:54 | 2021-02-04 | 2021-03-06 |
 | [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 | 2025-07-25 | 2025-10-09 |
 | [1\-800\-miss\-ur\-guts](https://open.spotify.com/track/7mwt5PimLZUfWcpQr4KzfN) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [1\-800\-miss\-ur\-guts](https://open.spotify.com/album/3caAAT4CmHthRBgCNNrpsG) | 3:03 | 2021-03-11 | 2021-04-08 |
@@ -1313,6 +1314,7 @@
 | [Find A Reason](https://open.spotify.com/track/3kHxBWXqQlXyzy6qV3b1Cl) | [Montgomery](https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4) | [Something To Look Back On](https://open.spotify.com/album/27eJIiIuiYXzY6tfCNWNfN) | 3:54 | 2024-11-06 | 2024-12-05 |
 | [Find My Way](https://open.spotify.com/track/3rW6I80VjSCBMVsPRA64Sn) | [Edwina Van Kuyk](https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7), [Martello](https://open.spotify.com/artist/6afaitzeANsz4WoEj8BkAW) | [Find My Way](https://open.spotify.com/album/4bKr3tiH2v0ugyKJMi2ape) | 3:59 | 2026-01-14 |  |
 | [Finders Keepers](https://open.spotify.com/track/52X12F5DESfemhJtbpjGfo) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Finders Keepers](https://open.spotify.com/album/19Fyr4sDauMfqFUQuYNkFT) | 2:51 | 2020-10-13\* | 2020-12-08 |
+| [Fine](https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Fine](https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh) | 3:21 | 2026-02-25 |  |
 | [Fine](https://open.spotify.com/track/7CjIh26XfyXIeUnjdE3xfM) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Fine](https://open.spotify.com/album/642qyqsuveUZ0U3Mc2W1kS) | 3:29 | 2022-01-26 | 2022-03-03 |
 | [fine](https://open.spotify.com/track/0PoRPfVxQlc78n2Wfo0hpY) | [straws](https://open.spotify.com/artist/49m96oMeUIeUx1OOQVDAzW) | [fine](https://open.spotify.com/album/0ye7K4wROid56MzxBAMhyK) | 1:56 | 2025-09-24 | 2025-12-04 |
 | [Fingers](https://open.spotify.com/track/5IEHHypxL6TaMZhqUfF0vS) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Fingers](https://open.spotify.com/album/2SMhuSaFP9jvpMNy6w4YcT) | 2:36 | 2022-04-27 | 2022-05-26 |
@@ -1919,7 +1921,7 @@
 | [i wanna feel better](https://open.spotify.com/track/2ycmfXzOR1o5ZqIZhhZa0w) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [i wanna feel better](https://open.spotify.com/album/6JchlAUGjlgzKcmUVqZXgI) | 2:49 | 2024-10-23 | 2024-12-05 |
 | [I Wanna Know](https://open.spotify.com/track/0iddD0t5BDTFzFRPK3vVi9) | [3 cities](https://open.spotify.com/artist/7t3CWpZWPCzxhQhXmOFiVd) | [I Wanna Know](https://open.spotify.com/album/60VaqL0cUYvB2gBJ36OMzp) | 2:56 | 2021-09-30 | 2021-11-11 |
 | [I Want To Be In Love](https://open.spotify.com/track/6laL96AyKy6mO14qULP03C) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [I Want To Be In Love](https://open.spotify.com/album/3nKZD2i0fvViTdju2wc6gl) | 2:23 | 2020-11-27 | 2020-12-08 |
-| [I want you to be happy](https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [I want you to be happy](https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu) | 2:45 | 2026-01-14 |  |
+| [I want you to be happy](https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [I want you to be happy](https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu) | 2:45 | 2026-01-14 | 2026-02-26 |
 | [I Want You to Stay](https://open.spotify.com/track/3sxKYeiKLOJF7LZDuXkINr) | [Lillimure](https://open.spotify.com/artist/4nn9ivW8DtP3uYYic9Tsjs) | [I Want You to Stay](https://open.spotify.com/album/2BHAdVwHYTnnTwixuPxURF) | 3:35 | 2025-08-20 | 2025-11-13 |
 | [I Wanted to Keep You](https://open.spotify.com/track/4H5QTP8dcCF43mplpAja28) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [I Wanted to Keep You](https://open.spotify.com/album/1fCPIcTrS1wkX529mzWDWw) | 2:48 | 2021-09-16 | 2022-01-13 |
 | [I Will Let You Go](https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [I Will Let You Go](https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV) | 2:53 | 2024-02-28 | 2024-05-16 |
@@ -2219,6 +2221,7 @@
 | [leave your lova](https://open.spotify.com/track/3foYJGw0DTy0coogZDbi0E) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [leave your lova](https://open.spotify.com/album/3mdhfbNMgvTRn1MPWViZui) | 3:17 | 2024-07-24 | 2024-08-29 |
 | [leaves blow over](https://open.spotify.com/track/1JvuYXjPmT7MGbPLqkG9Yi) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [leaves blow over](https://open.spotify.com/album/724NKGehK9Aqk77HwAgQeo) | 1:30 | 2021-02-04 | 2021-03-06 |
 | [Leaving Me](https://open.spotify.com/track/7mO5NYkPoIgOIjjsfKqMYM) | [Indyah](https://open.spotify.com/artist/5JOPsHUGjo5V5yPDUurZRy) | [Leaving Me](https://open.spotify.com/album/5jcmNaQQTF9a5scSbWZyBy) | 2:51 | 2021-11-11 | 2021-12-01 |
+| [Leaving Me Lonely](https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf) | [tig3r lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Leaving Me Lonely](https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o) | 3:12 | 2026-02-25 |  |
 | [Leaving You \(is Harder Than Being Apart\)](https://open.spotify.com/track/48v6bdvcL2JqHPiIlG2S4N) | [Tess Clare](https://open.spotify.com/artist/0w3V7iEOBeQUDg8xm6NB6L) | [Leaving You \(is Harder Than Being Apart\)](https://open.spotify.com/album/25e6zBC5806omYodyj4zoN) | 2:11 | 2022-04-27 | 2022-05-26 |
 | [Left Unsaid](https://open.spotify.com/track/1yrGI6TsSmBs7Gs0AkXkxG) | [Somitelle](https://open.spotify.com/artist/2om8Z9DT6kNzHd9x6vdmgf) | [Left Unsaid](https://open.spotify.com/album/0YjxfgttYy9Sw8anKKzJcR) | 3:06 | 2022-05-11 | 2022-06-30 |
 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 | 2022-06-08 | 2023-01-12 |
@@ -2291,6 +2294,7 @@
 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 | 2025-10-01 | 2025-12-04 |
 | [Liquid Gold](https://open.spotify.com/track/6qEo04ZheO0MjvriU4f21M) | [L U](https://open.spotify.com/artist/5AHojFQr0J8Ay9MCDdjFXc) | [Liquid Gold](https://open.spotify.com/album/3bhdDVQUR9xudCOMG7sEqw) | 3:04 | 2021-02-17 | 2021-03-18 |
 | [Liquorice](https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j) | [Elle Lexxa](https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve) | [Bubblegum](https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc) | 2:22 | 2022-02-16 | 2022-03-24 |
+| [Listen To Me](https://open.spotify.com/track/2hj1pwxEQDh1Y5Fo9yZZjr) | [Glass Kinsman](https://open.spotify.com/artist/2r6hsDRBak5K0d2FWtgBSx) | [Listen To Me](https://open.spotify.com/album/1HYb34NcCRU2OgOgNxpfoP) | 3:54 | 2026-02-25 |  |
 | [little](https://open.spotify.com/track/7EtmG9Ed29tyrd8g41QEWG) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [little](https://open.spotify.com/album/2iG1xqeEKRSShDaULdaHQ0) | 3:16 | 2020-10-13\* | 2020-11-12 |
 | [Little Bitch](https://open.spotify.com/track/18j6rbvESyVJyVgnkPTPd3) | [JORIE](https://open.spotify.com/artist/3LwKqaLFskUZKhbOQ4Sqve) | [Little Bitch](https://open.spotify.com/album/40oKcNeHuAFapWuXTeNACB) | 2:36 | 2022-04-27 | 2022-05-26 |
 | [little boy](https://open.spotify.com/track/7xe5j7CnB63ejlzg5Y5H9Q) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:46 | 2022-01-19 | 2022-02-24 |
@@ -2704,6 +2708,7 @@
 | [New Friend](https://open.spotify.com/track/5Y2DY2YiTWt1SX4iyYTeKr) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Class Exercises](https://open.spotify.com/album/0IN3qTnurwmmG4Noq0QDQM) | 3:40 | 2021-04-01 | 2021-04-29 |
 | [New Life](https://open.spotify.com/track/4JOKkUKCY95GjTuhYtHfSg) | [Eila](https://open.spotify.com/artist/3QgHVqOGDEvvWFr5fI2DTW), [Alianna](https://open.spotify.com/artist/4BunrsDi4qKwGwtucAVx9T) | [Eila](https://open.spotify.com/album/5qF2uUmuZsP8YXzza4i0d9) | 3:06 | 2022-04-06 | 2022-04-28 |
 | [new year](https://open.spotify.com/track/4DEAjqMsSzlo49dqIGYrHN) | [Matt Hall](https://open.spotify.com/artist/0T7K16td62laqeZKtTyv4e) | [new year](https://open.spotify.com/album/2uuDlHgoHE0jSKDy1IwjNE) | 2:38 | 2021-02-17 | 2021-03-25 |
+| [New Year's Eve](https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [New Year's Eve](https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw) | 2:51 | 2026-02-25 |  |
 | [New York](https://open.spotify.com/track/0hYdZ4x8b3bEbc9Bpn2pQh) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [New York](https://open.spotify.com/album/7bzdQyFdF4kjk6KgjD9R6W) | 2:46 | 2025-05-07 | 2025-06-26 |
 | [Next Chapter](https://open.spotify.com/track/2gVK2Sq3JJf6qR8WtIgWQq) | [Liam Benayon](https://open.spotify.com/artist/4zROkwJW2Zf8SpYCmY4nhR) | [Next Chapter](https://open.spotify.com/album/2AthEJwD90TjA1CKwNZxpw) | 2:16 | 2023-08-30 | 2023-11-16 |
 | [Next Ex](https://open.spotify.com/track/5EWfxatg6wrWvNGvjsfpvb) | [Katie Belle](https://open.spotify.com/artist/7HLN8q74hfXmbPl1uMG6Uz) | [Next Ex](https://open.spotify.com/album/7H8mRQ7pwL5cSTsajNaMYX) | 2:36 | 2022-09-07 | 2022-11-10 |
@@ -3409,6 +3414,7 @@
 | [Sidelines](https://open.spotify.com/track/69Y0yA4nnc3FVsJINPSfIS) | [Jorda Rae](https://open.spotify.com/artist/4MqFNOou44kbZ9GbmBv7gQ) | [Sidelines](https://open.spotify.com/album/1NGqthkIHQkvrrkeUfnipj) | 3:15 | 2023-04-26 | 2023-06-01 |
 | [Sidelines](https://open.spotify.com/track/6wr7WWxnowA0gi8KzRmyUv) | [Olivia Grasso](https://open.spotify.com/artist/6TrnZN5GboB0NfOqzH7PGO) | [Sidelines](https://open.spotify.com/album/5VuTcjebsoDQA9ie3ANPZT) | 2:50 | 2022-05-18 | 2022-06-30 |
 | [Sideways Heart](https://open.spotify.com/track/4siavR0wWCdmj7aikdz2C1) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Sideways Heart](https://open.spotify.com/album/2KG9vyXoAf7ibUtYFccK0F) | 2:43 | 2021-11-19 | 2022-01-13 |
+| [Sign of the Times](https://open.spotify.com/track/1lLj2Sx25r56K18YYfkSW6) | [Internet Cafe](https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6) | [Sign of the Times](https://open.spotify.com/album/61V8sQNNsInhjEzHUp1wBP) | 2:18 | 2026-02-25 |  |
 | [Signs](https://open.spotify.com/track/4uqLhPGyvyDowBxrdyaIzt) | [Alyssa Baker](https://open.spotify.com/artist/6B69HCFm8HCDgGzeAwy1K9) | [Signs](https://open.spotify.com/album/24C9lL1TjTob92JvQ4BuDz) | 3:09 | 2021-03-18 | 2021-04-22 |
 | [Silence](https://open.spotify.com/track/6eEsX5G1K9nQvltTjmpUsK) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Silence](https://open.spotify.com/album/1ZYyJvIHr3TKDDHh8WS2RK) | 1:56 | 2021-08-26 | 2021-09-30 |
 | [Silent Movie](https://open.spotify.com/track/6W85fbQbVmKkEQs1W88vQK) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Silent Movie](https://open.spotify.com/album/1ZeT3LQu8fgK6Qc3BZX3CY) | 2:16 | 2022-04-06 | 2022-04-28 |
@@ -4314,6 +4320,7 @@
 | [Won't Say I Love You](https://open.spotify.com/track/5HJtuj9AZShEWOyBaXO2dh) | [Hannah Trager](https://open.spotify.com/artist/4I6iiEugySXXoOYYmQpgb0) | [Won't Say I Love You](https://open.spotify.com/album/5Oj9jbJKEJwBafgyhmIicT) | 3:24 | 2021-08-05 | 2021-09-24 |
 | [Wonder](https://open.spotify.com/track/1aWaSDGHjvcV3OQcupT7mq) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Wonder](https://open.spotify.com/album/4hK3BiVM1UsQGNvVle14bP) | 3:23 | 2024-09-04 | 2024-10-17 |
 | [Wonder](https://open.spotify.com/track/24qMZ45KjAD71U8j19w7s2) | [Sydney Quiseng](https://open.spotify.com/artist/2T2sNGSPaXdWzNh6lnv6jj) | [Wonder](https://open.spotify.com/album/6po4QSg4GpbtHni10dxkg6) | 4:03 | 2024-10-09 | 2024-12-05 |
+| [Words You Can Twist](https://open.spotify.com/track/6z0lSPxIBSolW21o0BLpIy) | [Ryann Barnes](https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q) | [Words You Can Twist](https://open.spotify.com/album/7xQ4rymxgoj9PmdcEXlGV1) | 2:37 | 2026-02-25 |  |
 | [Work of Art](https://open.spotify.com/track/7vWmhuLuxhE2ZtWDXVNeya) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Work of Art](https://open.spotify.com/album/0vvcn8bAFRfIDylV0nTXZB) | 2:52 | 2020-10-13\* | 2020-10-29 |
 | [Work Out](https://open.spotify.com/track/7brP9v9dpowqD8IMAnEFcg) | [ANNI](https://open.spotify.com/artist/2DMjf1zRMCb3iRLmUUvO9c) | [Work Out](https://open.spotify.com/album/1pUYolHMyjF8gO4M0TcXst) | 2:53 | 2022-06-15 | 2022-07-28 |
 | [World of You](https://open.spotify.com/track/3bQzbPfA6SB4hxtkSEvLBm) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 2:18 | 2022-09-07 | 2022-11-10 |

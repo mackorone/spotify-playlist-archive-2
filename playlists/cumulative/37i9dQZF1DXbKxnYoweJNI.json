@@ -56145,6 +56145,24 @@
     },
     {
       "album": {
+        "name": "\u6709\u4e9b\u8a71\u4f86\u4e0d\u53ca\u8aaa",
+        "url": "https://open.spotify.com/album/2pSDQUKx2QNc6kCwjAoFa5"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u662f\u958e",
+          "url": "https://open.spotify.com/artist/1gjgosK4xDv4S0zGOgcKhH"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "\u6709\u4e9b\u8a71\u4f86\u4e0d\u53ca\u8aaa",
+      "url": "https://open.spotify.com/track/67Gn0Uci4sdJ33OIfmMyf2"
+    },
+    {
+      "album": {
         "name": "\u6709\u4eba\u5728\u7b49",
         "url": "https://open.spotify.com/album/6dxxGhhBB4NfWgDe4wgAm5"
       },

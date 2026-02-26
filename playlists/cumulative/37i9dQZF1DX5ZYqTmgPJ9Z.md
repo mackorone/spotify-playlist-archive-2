@@ -4,7 +4,7 @@
 
 > Grab a drink and let us help you see off the evening.
 
-101 songs - 6 hr 14 min
+102 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Probably Sorry](https://open.spotify.com/track/72VSo5LGhQz24MlULSh2G7) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Probably Sorry](https://open.spotify.com/album/143RT46s3JeoVZR8agkqQu) | 2:45 | 2024-12-17 |  |
 | [Rain](https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:14 | 2024-12-17 |  |
 | [Ready When You Are](https://open.spotify.com/track/6YdWqo5fvo8VXRcELskCfK) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Ready When You Are](https://open.spotify.com/album/47sSqdqjxUwfqhfW6nNpdI) | 2:58 | 2024-12-17 |  |
-| [Reflections \(feat\. José James\)](https://open.spotify.com/track/0zf13KVwxPxlImK4uqW8OU) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Reflections \(feat\. José James\)](https://open.spotify.com/album/3woOAXxKQE920NAyX9BNO6) | 3:44 | 2024-12-17 |  |
+| [Reflections \(feat\. José James\)](https://open.spotify.com/track/0zf13KVwxPxlImK4uqW8OU) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Reflections \(feat\. José James\)](https://open.spotify.com/album/3woOAXxKQE920NAyX9BNO6) | 3:44 | 2024-12-17 | 2026-02-26 |
 | [S3NS](https://open.spotify.com/track/67T58XZZvKtjfzUd8rvedH) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 4:59 | 2024-12-17 |  |
 | [San Francisco](https://open.spotify.com/track/3feeie7zGnbvZhas2XFYtc) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:48 | 2024-12-17 |  |
 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 | 2024-12-17 |  |
@@ -105,6 +105,7 @@
 | [Too Much](https://open.spotify.com/track/0rR0cR9LTMeOewCYWYka3N) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Too Much](https://open.spotify.com/album/5M8EU1wTNTElCDmD22oZs5) | 3:41 | 2024-12-17 |  |
 | [Too Much to Ask](https://open.spotify.com/track/3HZdXuLPyLlSYLImD4z7V8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/0qsZRpvWYP6fkuosOaGo0D) | 3:47 | 2024-12-17 |  |
 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 | 2024-12-17 |  |
+| [Try a Little Tenderness](https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Try a Little Tenderness](https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0) | 3:12 | 2024-12-17 |  |
 | [What Does It Mean](https://open.spotify.com/track/0IN8eaLhkaKDOcskjZy8d4) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [What Does It Mean](https://open.spotify.com/album/1Ydw1TK4gP6zPpnD3qkOKc) | 3:49 | 2024-12-17 |  |
 | [Where Are Your Branches \(Where Is Your Fruit\)](https://open.spotify.com/track/7i8MOdbZoAiUCdathqHMDX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Where Are Your Branches?](https://open.spotify.com/album/4PUdT02OVpltYJhDS8ed51) | 5:28 | 2024-12-17 |  |
 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 | 2024-12-17 |  |

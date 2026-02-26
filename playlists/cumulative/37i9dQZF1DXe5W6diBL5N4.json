@@ -12305,7 +12305,7 @@
     },
     {
       "album": {
-        "name": "0",
+        "name": "[0]",
         "url": "https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H"
       },
       "artists": [
@@ -13344,6 +13344,28 @@
       "duration_ms": 208173,
       "name": "Always",
       "url": "https://open.spotify.com/track/2ZrBWpAAEbvBMHzukKGG0Q"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        },
+        {
+          "name": "SULLYOON",
+          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
     },
     {
       "album": {
@@ -29252,6 +29274,24 @@
       "duration_ms": 242320,
       "name": "Bloom (Come travel with me, Mom? X An Shinae) (Original Soundtrack)",
       "url": "https://open.spotify.com/track/2IIxCbqDit6dDEJ4Ujiy4s"
+    },
+    {
+      "album": {
+        "name": "Bloom hour",
+        "url": "https://open.spotify.com/album/3Jgic38bRcv9eiunNaxv3z"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bloom hour",
+      "url": "https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq"
     },
     {
       "album": {
@@ -53160,6 +53200,24 @@
     {
       "album": {
         "name": "Dear",
+        "url": "https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32"
+      },
+      "artists": [
+        {
+          "name": "Lee Yerin",
+          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi"
+    },
+    {
+      "album": {
+        "name": "Dear",
         "url": "https://open.spotify.com/album/7IT4gHNLHRSJAB1KhtAb7W"
       },
       "artists": [
@@ -68676,7 +68734,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 276472,
       "name": "Etude",
       "url": "https://open.spotify.com/track/6B0jtGawjQ0rvcmKnilpCO"
@@ -68978,6 +69036,24 @@
       "duration_ms": 229586,
       "name": "Even if fate separates us",
       "url": "https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t"
+    },
+    {
+      "album": {
+        "name": "Even if I close my eyes(2026)",
+        "url": "https://open.spotify.com/album/2IwKKYbJDLIofiXMm5bGyB"
+      },
+      "artists": [
+        {
+          "name": "YOON JI HWAN",
+          "url": "https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258495,
+      "name": "Even if I close my eyes(2026)",
+      "url": "https://open.spotify.com/track/5ycoYDBitJeRObprI8VzBA"
     },
     {
       "album": {
@@ -110749,6 +110825,24 @@
     },
     {
       "album": {
+        "name": "I Stay (From \"Ne Zha 2\")",
+        "url": "https://open.spotify.com/album/5Sg3KEZxnqpHH0s98dhFtX"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179625,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/0HPovXCKnZceJv9cdpG8JJ"
+    },
+    {
+      "album": {
         "name": "I Still",
         "url": "https://open.spotify.com/album/6y7LDzFX2JDbYJlqzQ8ZTV"
       },
@@ -127038,7 +127132,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 171000,
       "name": "Kart Racer",
       "url": "https://open.spotify.com/track/1hnpRy9O93jZs9HI51y02u"
@@ -129358,7 +129452,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 149449,
       "name": "Krapow",
       "url": "https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC"
@@ -132456,6 +132550,24 @@
       "duration_ms": 212271,
       "name": "lemon sky",
       "url": "https://open.spotify.com/track/4vTzgA0UUspukDLQHZLBzm"
+    },
+    {
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/0kAjif7lpjnaC2Gw11maRO"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/7lujQQQ13hm1ZC2k5eMMCX"
     },
     {
       "album": {
@@ -141594,7 +141706,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 223478,
       "name": "Love Attack",
       "url": "https://open.spotify.com/track/0cRfZv01W1Zbvn7lKGWOm2"
@@ -151508,7 +151620,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 179000,
       "name": "MAZE",
       "url": "https://open.spotify.com/track/63Ql1n8s6z9lVrYoNpqua3"
@@ -158096,7 +158208,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 280000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/06TTGYJOYEzSw9Nf1erZIB"
@@ -167598,7 +167710,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 194000,
       "name": "No Breakup Ends at Zero",
       "url": "https://open.spotify.com/track/31BG1gpjHIIg9QyJcjgDCT"
@@ -175256,6 +175368,24 @@
       "duration_ms": 244505,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ"
+    },
+    {
+      "album": {
+        "name": "5 centimeters per second X SUNGHO (BOYNEXTDOOR)",
+        "url": "https://open.spotify.com/album/33aSFd3l9ZjAftV9LsOq1m"
+      },
+      "artists": [
+        {
+          "name": "SUNGHO",
+          "url": "https://open.spotify.com/artist/36TC1IlwzK0h0gTKlttCvy"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "One more time, One more chance",
+      "url": "https://open.spotify.com/track/1V6FlzgHwOzTyuoqS87jvT"
     },
     {
       "album": {
@@ -184738,6 +184868,28 @@
       "duration_ms": 222680,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/5zgrqTuqwwFXGodMwANAvV"
+    },
+    {
+      "album": {
+        "name": "6SEOUL",
+        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "PLAYER (feat. Crush)",
+      "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
     },
     {
       "album": {
@@ -233540,7 +233692,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 219006,
       "name": "The Birth of Sarah (Feat. Nam Yeji, Yoon Ji Hye)",
       "url": "https://open.spotify.com/track/4touOBdd9rBrpjRy2wbeZB"
@@ -264865,6 +265017,24 @@
     },
     {
       "album": {
+        "name": "Who I've Become",
+        "url": "https://open.spotify.com/album/7mFAFVgcpV59tAZ6Isy3FZ"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236964,
+      "name": "Who I've Become",
+      "url": "https://open.spotify.com/track/3buxRmvpflSFLLhkXeVcwv"
+    },
+    {
+      "album": {
         "name": "Who knows? : \ub204\uac00 \uc54c\uc558\uaca0\uc5b4?",
         "url": "https://open.spotify.com/album/4aGMdC728SMydnIgC2VSUR"
       },
@@ -272416,7 +272586,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 170000,
       "name": "you",
       "url": "https://open.spotify.com/track/4JxpLXRB3oa1pSDBJ8pVF9"
@@ -274126,7 +274296,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 205000,
       "name": "You know my love",
       "url": "https://open.spotify.com/track/3MUlZZxUggWPxT3U5FxUpd"
@@ -285018,6 +285188,24 @@
       "duration_ms": 217714,
       "name": "\uc0ac\ub791\ud574 \uc918",
       "url": "https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\ub2e4",
+        "url": "https://open.spotify.com/album/3oZ2xjTHAJ1FWtWKEDw2kb"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\ub2e4",
+      "url": "https://open.spotify.com/track/3fIjMrLEe4R0CeOGj1BNqJ"
     },
     {
       "album": {

@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/5pLYv8ZPnql7p8uOfjIXKo"
+      },
+      "artists": [
+        {
+          "name": "Jhey Dottor",
+          "url": "https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169105,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/7zcrv8yoINv4GdPAGUEnmm"
+    },
+    {
+      "album": {
         "name": "Prohibido Amarte",
         "url": "https://open.spotify.com/album/6RFRKjfJnL362fqOSMm10E"
       },
@@ -2062,6 +2080,28 @@
       "duration_ms": 406423,
       "name": "Purgatorio",
       "url": "https://open.spotify.com/track/5VK83qZanFNfjhRGeizUTP"
+    },
+    {
+      "album": {
+        "name": "Pussy",
+        "url": "https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn"
+      },
+      "artists": [
+        {
+          "name": "C4BASS",
+          "url": "https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw"
+        },
+        {
+          "name": "Jhey Dottor",
+          "url": "https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf"
     },
     {
       "album": {

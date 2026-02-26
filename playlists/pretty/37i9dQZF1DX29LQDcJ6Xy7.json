@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 368655,
+  "num_followers": 368723,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "My Life With The Thrill Kill Kult",
-          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "After the Flesh",
-      "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "DEGENERATE",
         "url": "https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 216866,
       "name": "DEGENERATE",
       "url": "https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "After the Flesh",
+      "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Sins Of The Flesh",
-        "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
-      },
-      "artists": [
-        {
-          "name": "Sister Machine Gun",
-          "url": "https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId"
-        }
-      ],
-      "duration_ms": 306426,
-      "name": "Sins of the Flesh",
-      "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Linger Ficken' Good...And Other Barnyard Oddities",
         "url": "https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 337226,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Sins Of The Flesh",
+        "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
+      },
+      "artists": [
+        {
+          "name": "Sister Machine Gun",
+          "url": "https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId"
+        }
+      ],
+      "duration_ms": 306426,
+      "name": "Sins of the Flesh",
+      "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Terapunk",
-        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
-      },
-      "artists": [
-        {
-          "name": "Dope Stars Inc.",
-          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
-        }
-      ],
-      "duration_ms": 238590,
-      "name": "Many Thanks",
-      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Lakes of Flame",
         "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 218203,
       "name": "Lakes of Flame",
       "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Terapunk",
+        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
+      },
+      "artists": [
+        {
+          "name": "Dope Stars Inc.",
+          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
+        }
+      ],
+      "duration_ms": 238590,
+      "name": "Many Thanks",
+      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Prey & Obey",
-        "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
-      },
-      "artists": [
-        {
-          "name": "PIG",
-          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
-        }
-      ],
-      "duration_ms": 286974,
-      "name": "Prey & Obey",
-      "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Omen X",
         "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 206147,
       "name": "Totuus",
       "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Prey & Obey",
+        "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
+      },
+      "artists": [
+        {
+          "name": "PIG",
+          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
+        }
+      ],
+      "duration_ms": 286974,
+      "name": "Prey & Obey",
+      "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
     },
     {
       "added_at": "2025-02-10 19:48:47",

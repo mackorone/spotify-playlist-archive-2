@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, The Guilt, JUST LIZZY and more",
+  "description": "With The Guilt, Rob Harrowven, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 188153,
       "name": "Back to you",
       "url": "https://open.spotify.com/track/3iaos6zwFU2K8g5xRK4IqM"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 206896,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/6zOTd6Pahvwas06vzXh3Dr"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 241972,
       "name": "Dark City",
       "url": "https://open.spotify.com/track/0Gp2X1eYk64a0pst7Vfuru"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1988,6 +1988,24 @@
       "duration_ms": 187607,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/53JRwecCM69WPvzvokpKHy"
+    },
+    {
+      "album": {
+        "name": "Radar Ranger",
+        "url": "https://open.spotify.com/album/6NcWagRWgH9fisACytWlN7"
+      },
+      "artists": [
+        {
+          "name": "The Ramey Memo",
+          "url": "https://open.spotify.com/artist/1zpk6QOCwtN6GWu8G8b6JV"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Electron Echo",
+      "url": "https://open.spotify.com/track/6J9sNFT4cgfHCw2s23L8nJ"
     },
     {
       "album": {
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 137054,
       "name": "Fine & Dandy - Single Edit",
       "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 282511,
       "name": "For You",
       "url": "https://open.spotify.com/track/4uvj7ynX5sOhshwhod8kQ6"
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -4790,6 +4808,24 @@
       "duration_ms": 292800,
       "name": "No Music No Hope",
       "url": "https://open.spotify.com/track/3hDiwWQ2dAzYPq9rPRzvxF"
+    },
+    {
+      "album": {
+        "name": "no thank you",
+        "url": "https://open.spotify.com/album/1XkzZSp2zEabycRxWRX6Rf"
+      },
+      "artists": [
+        {
+          "name": "no thnx",
+          "url": "https://open.spotify.com/artist/6MgpPILG407JHynHhPdd7q"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167830,
+      "name": "no thank you",
+      "url": "https://open.spotify.com/track/5DXHMz3iJWgw8MvfBoakze"
     },
     {
       "album": {
@@ -5107,6 +5143,24 @@
     },
     {
       "album": {
+        "name": "Splash",
+        "url": "https://open.spotify.com/album/5kf99PYVfYFOvyMqkZVGaU"
+      },
+      "artists": [
+        {
+          "name": "The Perjury Revival",
+          "url": "https://open.spotify.com/artist/1xW9We24ylNHAeqiPnDdiw"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105097,
+      "name": "Poison Apples",
+      "url": "https://open.spotify.com/track/7w8MZgEgwbalijZLrlCMK4"
+    },
+    {
+      "album": {
         "name": "Politics of Love",
         "url": "https://open.spotify.com/album/3WaA61bkw9dwRWRjf2i4f2"
       },
@@ -5118,7 +5172,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Politics of Love",
       "url": "https://open.spotify.com/track/6WxM7FGGsL2CZvgZEXmGzw"
@@ -5824,7 +5878,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -6356,7 +6410,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 230164,
       "name": "Split Realities",
       "url": "https://open.spotify.com/track/0G7ro4Mul84jHShHCT9RJ2"
@@ -7090,7 +7144,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 233045,
       "name": "They Don't Care (About You)",
       "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
@@ -7332,7 +7386,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -7606,7 +7660,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -7748,7 +7802,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "War in My Kitchen",
       "url": "https://open.spotify.com/track/1h0fxGZNkSKxOcM2ZgezTv"
@@ -8156,7 +8210,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 148558,
       "name": "You Look So Alive",
       "url": "https://open.spotify.com/track/3gMDGYhdq1W4SBUfM7QEj1"

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 50232,
+  "num_followers": 50239,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 162581,
       "name": "Vampiro Sabanero",
       "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Gran Cacique",
-        "url": "https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ"
-      },
-      "artists": [
-        {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
-        }
-      ],
-      "duration_ms": 192232,
-      "name": "Me Robaron Mi Runa Mula",
-      "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Junchuch",
         "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "El Gran Cacique",
+        "url": "https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ"
+      },
+      "artists": [
+        {
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        }
+      ],
+      "duration_ms": 192232,
+      "name": "Me Robaron Mi Runa Mula",
+      "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Legado: Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
-      },
-      "artists": [
-        {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
-        }
-      ],
-      "duration_ms": 156366,
-      "name": "El Pinochito Saltarin",
-      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Corriente EP",
         "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 231875,
       "name": "Tambor Del Monte",
       "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Legado: Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
+      },
+      "artists": [
+        {
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        }
+      ],
+      "duration_ms": 156366,
+      "name": "El Pinochito Saltarin",
+      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Nuevo Bugalu",
-        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
-      },
-      "artists": [
-        {
-          "name": "Bacalao Men",
-          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Bicicleta Intergalactica",
-      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Cumbia del Metr\u00f3nomo",
         "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 234812,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "El Nuevo Bugalu",
+        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
+      },
+      "artists": [
+        {
+          "name": "Bacalao Men",
+          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Bicicleta Intergalactica",
+      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Para Poderte Olvidar",
-        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
-      },
-      "artists": [
-        {
-          "name": "Qiensave",
-          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
-        }
-      ],
-      "duration_ms": 240823,
-      "name": "Para Poderte Olvidar",
-      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Me Estoy Poniendo Viejo",
         "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 234382,
       "name": "Me Estoy Poniendo Viejo",
       "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Para Poderte Olvidar",
+        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
+      },
+      "artists": [
+        {
+          "name": "Qiensave",
+          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
+        }
+      ],
+      "duration_ms": 240823,
+      "name": "Para Poderte Olvidar",
+      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Me Duele Tu Partida",
-        "url": "https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 192474,
-      "name": "Me Duele Tu Partida",
-      "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Paso Palante",
-        "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 245831,
-      "name": "Paso Palante",
-      "url": "https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "STYNDOUDOU",
         "url": "https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt"
       },
@@ -1303,6 +1271,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Me Duele Tu Partida",
+        "url": "https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 192474,
+      "name": "Me Duele Tu Partida",
+      "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "La Era del GigaHertz",
         "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 306689,
       "name": "La Era del GigaHertz",
       "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Paso Palante",
+        "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 245831,
+      "name": "Paso Palante",
+      "url": "https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
         }
       ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
       },
       "artists": [
         {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
+      "duration_ms": 148360,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 160067,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Porrov\u00eda",
-        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Porrov\u00eda",
-      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Amaru Tribe",
         "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "OVNI Cumbia",
-        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
+        "name": "Porrov\u00eda",
+        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         }
       ],
-      "duration_ms": 226000,
-      "name": "OVNI Cumbia",
-      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
+      "duration_ms": 207000,
+      "name": "Porrov\u00eda",
+      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1591,6 +1575,22 @@
       "duration_ms": 170000,
       "name": "Capricornio: Ven a mi amor",
       "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "OVNI Cumbia",
+        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "OVNI Cumbia",
+      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
     },
     {
       "added_at": "2025-05-19 17:05:09",

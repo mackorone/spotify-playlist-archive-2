@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,159 songs - 4 day 15 hr 55 min
+2,160 songs - 4 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -807,6 +807,7 @@
 | [Himlavalvet](https://open.spotify.com/track/46vGHCzuuYkTQgjo1LfTDb) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2), [Alma Augusta](https://open.spotify.com/artist/6gLUeiwk4tkbg7tJ8xg6ck) | [Noir](https://open.spotify.com/album/63xg12h0P4PtLPHP5FTEKo) | 4:02 | 2024-10-10 | 2024-11-11 |
 | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 | 2026-01-22 |  |
 | [Himlen kan vänta](https://open.spotify.com/track/49YQrm6c4eOrYfzmbYS3jG) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Himlen kan vänta](https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO) | 3:16 | 2022-04-07 | 2022-07-23 |
+| [Himlen är oskyldigt blå](https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Himlen är oskyldigt blå](https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl) | 4:22 | 2026-02-25 |  |
 | [Historier och liv](https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Historier och liv](https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH) | 3:20 | 2023-11-09 | 2024-02-09 |
 | [Hit and Run](https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hit and Run](https://open.spotify.com/album/7xtEVZCtImCqZOFKxwkShR) | 3:10 | 2022-03-10 | 2022-06-08 |
 | [Hit Me Up](https://open.spotify.com/track/4ujGi7FbYuGehdDf92mW4W) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Hit Me Up](https://open.spotify.com/album/36s8qD60OBWulfZUoqtlfj) | 2:28 | 2024-02-08 | 2024-02-16 |
@@ -1242,7 +1243,7 @@
 | [MILK](https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [MILK](https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM) | 3:30 | 2025-07-03 | 2025-09-05 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 | 2024-12-03 |
 | [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-05-08 | 2025-11-05 |
-| [Min bästa vän](https://open.spotify.com/track/5atucBC09Xcl4UAXDbR1l5) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Min bästa vän](https://open.spotify.com/album/5liftySO9bLi3Q9GRIbUJj) | 2:14 | 2025-11-27 |  |
+| [Min bästa vän](https://open.spotify.com/track/5atucBC09Xcl4UAXDbR1l5) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Min bästa vän](https://open.spotify.com/album/5liftySO9bLi3Q9GRIbUJj) | 2:14 | 2025-11-27 | 2026-02-26 |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-08 |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-26 |

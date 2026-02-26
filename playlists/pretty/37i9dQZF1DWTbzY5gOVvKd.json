@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1295705,
+  "num_followers": 1295704,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "Mean To Me",
+        "url": "https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Mean To Me",
+      "url": "https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Catching Tales",
         "url": "https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe"
       },
@@ -503,22 +523,6 @@
       "duration_ms": 192531,
       "name": "My True Love Is You",
       "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -555,22 +559,18 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Mean To Me",
-        "url": "https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK"
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
       },
       "artists": [
         {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Mean To Me",
-      "url": "https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c"
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/2OscS2SfT93gShdb65NGmH"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 217827,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Dear Blossom,",
         "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 278920,
       "name": "You Taught My Heart to Sing",
       "url": "https://open.spotify.com/track/6ZZSi4URY8EIS6xOWkmhdV"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/2OscS2SfT93gShdb65NGmH"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 217827,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An"
     },
     {
       "added_at": "2026-02-20 15:09:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,509 likes - 84 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,512 likes - 84 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 73 | [Singa Paadhai](https://open.spotify.com/track/6MnIJvDd4IohMAc1HvyBay) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Singa Paadhai](https://open.spotify.com/album/5j5dvTjic8X09GVxNDRk4y) | 3:53 |
 | 74 | [Oru Paarva](https://open.spotify.com/track/4UarzRIkmA6JsE8PfTYxWI) | [Kenny Roy](https://open.spotify.com/artist/6fslDBbv64YjU15jafPFbx), [Sam Stephn](https://open.spotify.com/artist/2u4C3tRBOL3WyRi0A4nR1g) | [Oru Paarva](https://open.spotify.com/album/2P1BBlC9hgv1m1nx0u876r) | 2:28 |
 | 75 | [Ooo Penne](https://open.spotify.com/track/0WtiNMikAFmM0qt6pKhP30) | [Aman Sawan](https://open.spotify.com/artist/1tGsnZOMlsDfvesfYj2ecW) | [Ooo Penne](https://open.spotify.com/album/2C4R3FKVwtuVhlvCPI2EmZ) | 3:16 |
-| 76 | [Dinner Kuthu](https://open.spotify.com/track/49S1Y0cmxDUQsIxYauAqfT) | [Reguvin](https://open.spotify.com/artist/01VD6yMTQvKchCHB4wVtbq), [Edwin Thomas](https://open.spotify.com/artist/45aLszOZq8PVo7cFN8Fiau), [Jude Niranjan](https://open.spotify.com/artist/0EZXOWnVL9wfbIAkIzG4cF), [Ragav Krishnan](https://open.spotify.com/artist/037UHtIMYyNjfBJZNDuN8q) | [Dinner Kuthu](https://open.spotify.com/album/3Uk3Zxpxn1ddbg5HvgRHxG) | 3:39 |
+| 76 | [Dinner Kuthu](https://open.spotify.com/track/49S1Y0cmxDUQsIxYauAqfT) | [Reguvin](https://open.spotify.com/artist/0TmlNikhbYpazLXghCt2RB), [Edwin Thomas](https://open.spotify.com/artist/45aLszOZq8PVo7cFN8Fiau), [Jude Niranjan](https://open.spotify.com/artist/0EZXOWnVL9wfbIAkIzG4cF), [Ragav Krishnan](https://open.spotify.com/artist/037UHtIMYyNjfBJZNDuN8q) | [Dinner Kuthu](https://open.spotify.com/album/3Uk3Zxpxn1ddbg5HvgRHxG) | 3:39 |
 | 77 | [Uyire](https://open.spotify.com/track/19WsWmlR4HqakbEwk56N5T) | [Vaishakh Jyothis](https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Sradha Prasannan](https://open.spotify.com/artist/2nRcSH8dnx03gvvizxVGVA) | [Uyire](https://open.spotify.com/album/0y4NfiWN2EyNHlAX5esBZo) | 3:59 |
 | 78 | [Nee Ennai Nerungayile](https://open.spotify.com/track/37QgPDhDSCqXnHjRNNxxB0) | [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP), [Jayaraj Chakravarthy](https://open.spotify.com/artist/1frL5ggVakn0rwLbvnQUIy), [Mohanrajan](https://open.spotify.com/artist/5tSoZKJdiyAz4blPkLLF3X) | [Nee Ennai Nerungayile](https://open.spotify.com/album/07l1pjD3SVRVlVix6RNkdH) | 4:10 |
 | 79 | [Nenjankootu Kulla](https://open.spotify.com/track/0z3hH8PRagiMJAUOkuTvjg) | [Kanav](https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo), [Ashlay JC](https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt), [Rafi Yoke](https://open.spotify.com/artist/6v1svztdRgyILSUhLWN6Xy) | [Nenjankootu Kulla](https://open.spotify.com/album/3y9YrbRN9NQyC0iQYA0zJP) | 3:05 |

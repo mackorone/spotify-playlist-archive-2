@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 137222,
+  "num_followers": 137215,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 311327,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 311327,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Hicimos Crecer un Bosque",
         "url": "https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "no llamaste (Remix)",
         "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+        "name": "Chica Violeta",
+        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
       },
       "artists": [
         {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
         }
       ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+      "duration_ms": 386900,
+      "name": "Chica Violeta",
+      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -695,22 +711,6 @@
       "duration_ms": 181274,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Chica Violeta",
-        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 386900,
-      "name": "Chica Violeta",
-      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
-      },
-      "artists": [
-        {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 140286,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Sue\u00f1o Raro",
-        "url": "https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "Sue\u00f1o Raro",
-      "url": "https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Potra al Piano",
         "url": "https://open.spotify.com/album/39IiI16vrMXz85wT7u5Nyp"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 200163,
       "name": "Te Miento - Al Piano",
       "url": "https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Sue\u00f1o Raro",
+        "url": "https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "Sue\u00f1o Raro",
+      "url": "https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo"
     },
     {
       "added_at": "2025-07-17 22:42:38",

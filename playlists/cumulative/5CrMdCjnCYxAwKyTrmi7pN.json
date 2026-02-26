@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268519,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
+    },
+    {
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
       },

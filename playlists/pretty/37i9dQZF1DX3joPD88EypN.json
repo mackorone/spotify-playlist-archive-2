@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 94641,
+  "num_followers": 94669,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -55,22 +55,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Throw It Away",
-        "url": "https://open.spotify.com/album/6y2crkppjLvyghaqoBvC8h"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 283099,
-      "name": "Throw It Away",
-      "url": "https://open.spotify.com/track/2EsLDWZlJVrEJbKZ3P6DWN"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Flox Gade",
         "url": "https://open.spotify.com/album/4UgOm95xOWuMYpN5cm5yjF"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 184562,
       "name": "Flox Gade",
       "url": "https://open.spotify.com/track/4G7L7Iw2s1zNHU11lj0Jul"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Throw It Away",
+        "url": "https://open.spotify.com/album/6y2crkppjLvyghaqoBvC8h"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 283099,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/2EsLDWZlJVrEJbKZ3P6DWN"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -915,30 +915,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Gefion",
-        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
-      },
-      "artists": [
-        {
-          "name": "Jakob Bro",
-          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
-        },
-        {
-          "name": "Thomas Morgan",
-          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "And They All Came Marching Out Of The Woods",
-      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Oh, Jaco!",
         "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 360769,
       "name": "Oh, Jaco!",
       "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Gefion",
+        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
+      },
+      "artists": [
+        {
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "And They All Came Marching Out Of The Woods",
+      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "As If The Ghost \u2026 Was Me!?",
-        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "As If The Ghost \u2026 Was Me!?",
-      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "tide",
         "url": "https://open.spotify.com/album/2PI9rOUfbuuN7FoQWlAuzG"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 242840,
       "name": "tide",
       "url": "https://open.spotify.com/track/3oL0879uE3RmjqrUNJzae8"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "As If The Ghost \u2026 Was Me!?",
+        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "As If The Ghost \u2026 Was Me!?",
+      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 281855,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Touch of Time",
-        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        }
-      ],
-      "duration_ms": 526520,
-      "name": "Redream",
-      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 336533,
       "name": "Naked Trees",
       "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Touch of Time",
+        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        }
+      ],
+      "duration_ms": 526520,
+      "name": "Redream",
+      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
-      },
-      "artists": [
-        {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 367120,
-      "name": "Remembrance VI",
-      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
+      },
+      "artists": [
+        {
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 367120,
+      "name": "Remembrance VI",
+      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
-      },
-      "artists": [
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        },
-        {
-          "name": "Tommy Smith",
-          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
-        },
-        {
-          "name": "Paolo Vinaccia",
-          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
-        }
-      ],
-      "duration_ms": 335320,
-      "name": "Rossetti",
-      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Komposition VII",
         "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
       },
@@ -1475,38 +1451,6 @@
       "duration_ms": 473721,
       "name": "L\u00e5ngsamt",
       "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1535,6 +1479,62 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
+      },
+      "artists": [
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Tommy Smith",
+          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
+        },
+        {
+          "name": "Paolo Vinaccia",
+          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
+        }
+      ],
+      "duration_ms": 335320,
+      "name": "Rossetti",
+      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "P\u00e5 havets bunn",
+        "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Erland Dahlen",
+          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "P\u00e5 havets bunn",
+      "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1659,26 +1679,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "P\u00e5 havets bunn",
-        "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        },
-        {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "P\u00e5 havets bunn",
-      "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "The Height of the Reeds",
         "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Imaginary Mountains",
-        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
-      },
-      "artists": [
-        {
-          "name": "Aki Rissanen",
-          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Iki Keklik",
-      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4"
       },
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+        "name": "Imaginary Mountains",
+        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
       },
       "artists": [
         {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+          "name": "Aki Rissanen",
+          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
         }
       ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+      "duration_ms": 188706,
+      "name": "Iki Keklik",
+      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1767,6 +1751,22 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
+      },
+      "artists": [
+        {
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+        }
+      ],
+      "duration_ms": 380789,
+      "name": "August",
+      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "1905",
         "url": "https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En"
       },
@@ -1815,18 +1831,26 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
+        "name": "Play!",
+        "url": "https://open.spotify.com/album/47Wpf2GK64iLCQkISlvK9B"
       },
       "artists": [
         {
-          "name": "Alexi Tuomarila",
-          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+          "name": "Henning Ull\u00e9n",
+          "url": "https://open.spotify.com/artist/5jGoaN0eufjXrK4RAikXfC"
+        },
+        {
+          "name": "Mauritz Agnas",
+          "url": "https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P"
+        },
+        {
+          "name": "Nils Agnas",
+          "url": "https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2"
         }
       ],
-      "duration_ms": 380789,
-      "name": "August",
-      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
+      "duration_ms": 251964,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1867,30 +1891,6 @@
       "duration_ms": 356532,
       "name": "Earthbeat - Single Edit",
       "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Play!",
-        "url": "https://open.spotify.com/album/47Wpf2GK64iLCQkISlvK9B"
-      },
-      "artists": [
-        {
-          "name": "Henning Ull\u00e9n",
-          "url": "https://open.spotify.com/artist/5jGoaN0eufjXrK4RAikXfC"
-        },
-        {
-          "name": "Mauritz Agnas",
-          "url": "https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P"
-        },
-        {
-          "name": "Nils Agnas",
-          "url": "https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2"
-        }
-      ],
-      "duration_ms": 251964,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO"
     },
     {
       "added_at": "2026-01-30 09:24:24",

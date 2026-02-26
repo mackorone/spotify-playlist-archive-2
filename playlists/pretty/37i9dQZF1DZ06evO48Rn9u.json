@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACbQnRCOxSU5JzCnCiucTbg",
+  "snapshot_id": "aZzqAAAAAABl7QZf2Em5cPm6x0xyNMqM",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 175472,
+      "name": "Bells & Whistles (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -83,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 175472,
-      "name": "Bells & Whistles (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -219,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
@@ -228,9 +212,25 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 183734,
+      "name": "All Is Found - Kacey Musgraves Version",
+      "url": "https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 183734,
-      "name": "All Is Found - Kacey Musgraves Version",
-      "url": "https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ"
     },
     {
       "added_at": null,
@@ -387,42 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Oh, What A World",
-      "url": "https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost In Translation",
-        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "Lost In Translation",
-      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Hate Music Box",
         "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
@@ -443,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
@@ -452,9 +416,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
+      "duration_ms": 241466,
+      "name": "Oh, What A World",
+      "url": "https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi"
     },
     {
       "added_at": null,
@@ -471,6 +435,42 @@
       "duration_ms": 217880,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue Waves",
-        "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "waves (feat. Kacey Musgraves) - Remix",
-      "url": "https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deeper Well: Deeper into the Well",
         "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 176160,
       "name": "Perfection (feat. Tiny Habits)",
       "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rogue Waves",
+        "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "waves (feat. Kacey Musgraves) - Remix",
+      "url": "https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz"
     },
     {
       "added_at": null,

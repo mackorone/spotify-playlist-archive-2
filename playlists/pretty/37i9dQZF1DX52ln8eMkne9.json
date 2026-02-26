@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 215196,
+  "num_followers": 215226,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Sweet Lorraine",
-      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Way Down Low",
         "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 284426,
       "name": "What Else Can I Do",
       "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Sweet Lorraine",
+      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
+        "name": "nobody cares",
+        "url": "https://open.spotify.com/album/5ItxKy6H9PzuG7gGHxCq71"
+      },
+      "artists": [
+        {
+          "name": "natalie jinju",
+          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "letters to my lover",
+      "url": "https://open.spotify.com/track/4TnM1esvGsvK9XpP88aGNN"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
         "name": "cozy you",
         "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
       },
@@ -491,38 +507,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "My Heart Belongs to Daddy",
-      "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
-        "name": "nobody cares",
-        "url": "https://open.spotify.com/album/5ItxKy6H9PzuG7gGHxCq71"
-      },
-      "artists": [
-        {
-          "name": "natalie jinju",
-          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "letters to my lover",
-      "url": "https://open.spotify.com/track/4TnM1esvGsvK9XpP88aGNN"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 250936,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "My Heart Belongs to Daddy",
+      "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "How Deep Is The Ocean",
-        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 318280,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Lonely Waltz",
         "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194973,
       "name": "Lonely Waltz",
       "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "How Deep Is The Ocean",
+        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 318280,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -839,38 +839,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Sunset In The Blue",
-      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Catching Tales",
         "url": "https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe"
       },
@@ -887,6 +855,22 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 272990,
+      "name": "Sunset In The Blue",
+      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 230493,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Over The Years",
         "url": "https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 449000,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Prisoner of Love",
         "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "\"Moon River\"",
-        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
       "artists": [
         {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
         }
       ],
-      "duration_ms": 172106,
-      "name": "\"Moon River\"",
-      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
+      "duration_ms": 339893,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1303,6 +1287,22 @@
       "duration_ms": 231415,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3iVua8sJTifjJgzZFZbczn"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "\"Moon River\"",
+        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "\"Moon River\"",
+      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Violets for Your Furs",
-        "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
-      },
-      "artists": [
-        {
-          "name": "Jason Fabus",
-          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
-        }
-      ],
-      "duration_ms": 216654,
-      "name": "Violets for Your Furs",
-      "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+        "name": "Violets for Your Furs",
+        "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Jason Fabus",
+          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
         }
       ],
-      "duration_ms": 195133,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
+      "duration_ms": 216654,
+      "name": "Violets for Your Furs",
+      "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1419,22 +1403,18 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
-        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
       "artists": [
         {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 214906,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D"
+      "duration_ms": 195133,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1451,6 +1431,26 @@
       "duration_ms": 222640,
       "name": "Let's Try This Again",
       "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
+        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
+      },
+      "artists": [
+        {
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Grasiela Piasson & Guga Stroeter",
-        "url": "https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4"
-      },
-      "artists": [
-        {
-          "name": "Grasiela Piasson",
-          "url": "https://open.spotify.com/artist/4Pj02WhBGYtttMP4iud5hn"
-        },
-        {
-          "name": "Guga Stroeter",
-          "url": "https://open.spotify.com/artist/6AZWEt3SrpxmPIuzT10RSk"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/7x571g4w2cwwr6A3Dhjtn5"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Perhaps You\u2019ll Wonder Why",
         "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 285306,
       "name": "Perhaps You'll Wonder Why",
       "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "Grasiela Piasson & Guga Stroeter",
+        "url": "https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4"
+      },
+      "artists": [
+        {
+          "name": "Grasiela Piasson",
+          "url": "https://open.spotify.com/artist/4Pj02WhBGYtttMP4iud5hn"
+        },
+        {
+          "name": "Guga Stroeter",
+          "url": "https://open.spotify.com/artist/6AZWEt3SrpxmPIuzT10RSk"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/7x571g4w2cwwr6A3Dhjtn5"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Make It Last",
-        "url": "https://open.spotify.com/album/0SLUNa64lFa7Bb5SN76jRX"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "One Evening in July",
         "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 296720,
       "name": "Happy Little Sunshine Beam",
       "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "Make It Last",
+        "url": "https://open.spotify.com/album/0SLUNa64lFa7Bb5SN76jRX"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Fever: a Peggy Lee Celebration!",
-        "url": "https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 366706,
-      "name": "The Folks Who Live on the Hill",
-      "url": "https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "The Moon and the Sky",
         "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 202000,
       "name": "The Moon and the Sky",
       "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "Fever: a Peggy Lee Celebration!",
+        "url": "https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 366706,
+      "name": "The Folks Who Live on the Hill",
+      "url": "https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -2124,9 +2124,9 @@
           "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 359000,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
+      "duration_ms": 184893,
+      "name": "Sometimes I'm Happy",
+      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -2256,9 +2256,9 @@
           "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Sometimes I'm Happy",
-      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
+      "duration_ms": 359000,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
     },
     {
       "added_at": "2026-02-20 15:09:07",
@@ -2707,22 +2707,6 @@
     {
       "added_at": "2026-02-20 15:09:07",
       "album": {
-        "name": "Lucky to Be Me",
-        "url": "https://open.spotify.com/album/0CRxgAIw7pGHk0YGhnfPxT"
-      },
-      "artists": [
-        {
-          "name": "Anna Gr\u00e9ta",
-          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
-        }
-      ],
-      "duration_ms": 179458,
-      "name": "Lucky to Be Me",
-      "url": "https://open.spotify.com/track/1Aw7w0E9iqGTqlbIjp2IMJ"
-    },
-    {
-      "added_at": "2026-02-20 15:09:07",
-      "album": {
         "name": "Easy Living",
         "url": "https://open.spotify.com/album/49lLd8uoYVBPA8qFtlKqFi"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 163823,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/2tB0GT4kh6NY9F2zqvHXdW"
+    },
+    {
+      "added_at": "2026-02-20 15:09:07",
+      "album": {
+        "name": "Lucky to Be Me",
+        "url": "https://open.spotify.com/album/0CRxgAIw7pGHk0YGhnfPxT"
+      },
+      "artists": [
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
+        }
+      ],
+      "duration_ms": 179458,
+      "name": "Lucky to Be Me",
+      "url": "https://open.spotify.com/track/1Aw7w0E9iqGTqlbIjp2IMJ"
     }
   ],
   "unique_name": "Cozy Jazz",

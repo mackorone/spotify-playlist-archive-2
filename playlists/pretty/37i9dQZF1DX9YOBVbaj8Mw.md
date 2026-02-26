@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,302 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,303 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 28 | [Zaopiekuj się mną](https://open.spotify.com/track/2ARY8GEdjYuyo5FrNnRUYn) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Atlas Iskier](https://open.spotify.com/album/6oi4yuECBxANeBl9Y21AGU) | 4:13 |
 | 29 | [Miłego lata](https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 2:42 |
 | 30 | [Skacz ze mną na bombę](https://open.spotify.com/track/5MvaJfO0ojGBdhHFnu11QN) | [Małpa](https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Na południu bez zmian](https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G) | 3:38 |
-| 31 | [Zima](https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Cudze rady psują mi życie](https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20) | 3:57 |
-| 32 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
+| 31 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
+| 32 | [Zima](https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Cudze rady psują mi życie](https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20) | 3:57 |
 | 33 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 |
 | 34 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
 | 35 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
-| 36 | [Fearflood](https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Instant Rewards](https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm) | 5:58 |
-| 37 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
-| 38 | [Kercelak](https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:12 |
-| 39 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
+| 36 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
+| 37 | [Fearflood](https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Instant Rewards](https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm) | 5:58 |
+| 38 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
+| 39 | [Kercelak](https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:12 |
 | 40 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
 | 41 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
 | 42 | [Lata](https://open.spotify.com/track/1DNRoUTNpJrCQ8GubYLIT7) | [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ), [KOSA](https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4) | [Lata](https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN) | 3:12 |

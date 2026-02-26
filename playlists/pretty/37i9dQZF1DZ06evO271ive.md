@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,419 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,440 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 5 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 6 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 |
 | 7 | [OMG! \(From F1® The Movie\)](https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [OMG! \(From F1® The Movie\)](https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP) | 2:32 |
-| 8 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
-| 9 | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA) | 2:34 |
+| 8 | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA) | 2:34 |
+| 9 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
 | 10 | [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 |
 | 11 | [SWEET SPOT](https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:05 |
 | 12 | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |
 | 50 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 |
 
-Snapshot ID: `aZuYgAAAAAAg1H/DH0TMKiv302/hQAx5`
+Snapshot ID: `aZzqAAAAAACT56peUCVj0TAcOCfbsnIW`

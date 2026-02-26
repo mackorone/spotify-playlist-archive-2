@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 55842,
+  "num_followers": 55840,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -257,7 +257,7 @@
         },
         {
           "name": "Judah Smith",
-          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
+          "url": "https://open.spotify.com/artist/0EoQD7uLccw0iwkTJTzsB9"
         }
       ],
       "duration_ms": 286453,
@@ -381,7 +381,7 @@
         },
         {
           "name": "Judah Smith",
-          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
+          "url": "https://open.spotify.com/artist/0EoQD7uLccw0iwkTJTzsB9"
         }
       ],
       "duration_ms": 212533,
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "Then Sings My Soul",
+        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 337440,
+      "name": "He Didn't Have To Do It",
+      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "Then Sings My Soul",
-        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 337440,
-      "name": "He Didn't Have To Do It",
-      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
     },
     {
       "added_at": "2025-04-06 05:34:41",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170407,
+  "num_followers": 170419,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABCNJa3fpF0cXBNtqLYnMvj",
+  "snapshot_id": "aZzqAAAAAACZ2pr3UuAXQaG9plV6rzJP",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 213160,
       "name": "On a Night Like This",
       "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 300666,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 193666,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Red Blooded Woman",
-      "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 236266,
       "name": "Miss a Thing",
       "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Red Blooded Woman",
+      "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Vegas High",
-      "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
+      "duration_ms": 189586,
+      "name": "Things We Do For Love",
+      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 189586,
-      "name": "Things We Do For Love",
-      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
+      "duration_ms": 213026,
+      "name": "Vegas High",
+      "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
     },
     {
       "added_at": null,

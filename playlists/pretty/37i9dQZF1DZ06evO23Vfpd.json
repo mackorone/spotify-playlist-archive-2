@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 62851,
+  "num_followers": 62875,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACOUPyxfT4tcXG/GWHPJalK",
+  "snapshot_id": "aZzqAAAAAADPmSL1HZaCXSqe4PwZtege",
   "tracks": [
     {
       "added_at": null,
@@ -64,17 +64,21 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 224264,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
+      "duration_ms": 201463,
+      "name": "Last Of My Kind (feat. Paul Cauthen)",
+      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
     },
     {
       "added_at": null,
@@ -140,21 +144,17 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 201463,
-      "name": "Last Of My Kind (feat. Paul Cauthen)",
-      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
+      "duration_ms": 224264,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
+        "name": "Prosperity",
+        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 186147,
-      "name": "More",
-      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
+      "duration_ms": 197877,
+      "name": "Prosperity",
+      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prosperity",
-        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
+        "name": "More",
+        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Prosperity",
-      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
+      "duration_ms": 186147,
+      "name": "More",
+      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
     },
     {
       "added_at": null,

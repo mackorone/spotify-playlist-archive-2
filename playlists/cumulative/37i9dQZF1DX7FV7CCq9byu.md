@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,509 songs - 3 day 5 hr 4 min
+1,510 songs - 3 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-09-19 | 2024-10-25 |
 | [Higher Place](https://open.spotify.com/track/14xFUlSQiS45PpDZ21RP5i) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Higher Place](https://open.spotify.com/album/5HVfLqGAzSoHcIpmzNXZYe) | 2:22 | 2025-07-03 | 2025-09-05 |
 | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Anne Linnet](https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY) | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe) | 2:52 | 2024-08-09 | 2024-09-13 |
+| [Himlen är oskyldigt blå](https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Himlen är oskyldigt blå](https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl) | 4:22 | 2026-02-25 |  |
 | [Hitta någon](https://open.spotify.com/track/4ynlOOjOoEU6mGveaHNJQ8) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hitta någon](https://open.spotify.com/album/4zt7rMMlgz1YMvkSGOzVna) | 2:17 | 2025-05-22 | 2025-07-04 |
 | [Hittat hem](https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Hittat hem](https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE) | 3:04 | 2025-10-16 | 2025-12-12 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-14 | 2025-02-07 |

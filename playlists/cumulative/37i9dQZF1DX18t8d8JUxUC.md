@@ -4,7 +4,7 @@
 
 > This is what folk sounds like en español\. Cover: Andrea Bejar
 
-179 songs - 10 hr 41 min
+180 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Entra en mí](https://open.spotify.com/track/1E6kJOr2ii4JcQxKhYDDwS) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Entra en mí](https://open.spotify.com/album/4IikKsyr0YnGPtIAFaKFKC) | 4:26 | 2023-08-04 | 2023-10-07 |
 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 | 2023-02-24 |  |
 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 | 2024-03-29 |  |
-| [Esta Soledad](https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Esta Soledad](https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo) | 4:14 | 2025-10-24 |  |
+| [Esta Soledad](https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Esta Soledad](https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo) | 4:14 | 2025-10-24 | 2026-02-26 |
 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 | 2023-07-28 |  |
 | [Estuve ahí](https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [El Bosque Finlandés](https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs) | 2:31 | 2023-11-17 | 2025-02-22 |
 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 | 2023-07-28 | 2025-06-28 |
@@ -117,7 +117,7 @@
 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 | 2023-08-18 |  |
 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 | 2023-02-24 |  |
 | [Mística voraz](https://open.spotify.com/track/3Jyzw4QahiLxwYtjtliGg1) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Mística voraz](https://open.spotify.com/album/3Gtv4qcmeryZwxGk8VW1Iy) | 3:40 | 2024-03-29 | 2024-05-20 |
-| [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 | 2023-07-28 |  |
+| [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 | 2023-07-28 | 2026-02-26 |
 | [New Dawn](https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Dusk](https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE) | 3:25 | 2024-02-16 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 | 2023-05-12 |  |
 | [niño](https://open.spotify.com/track/74ELOQx5W7ApUY81hFrVVE) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [niño](https://open.spotify.com/album/4yUa8STeGGk1eOrZNcOtnN) | 3:26 | 2024-03-29 | 2024-07-05 |
@@ -145,7 +145,7 @@
 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 | 2023-02-24 |  |
 | [Recuerdo](https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:29 | 2023-07-28 |  |
 | [Remedios](https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sustancia](https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw) | 4:55 | 2024-01-04 |  |
-| [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 | 2024-06-21 | 2026-02-22 |
+| [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 | 2024-06-21 |  |
 | [Rewind](https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Rewind](https://open.spotify.com/album/3BcDq7RJRxlNHNU5gphQ38) | 2:26 | 2025-09-26 |  |
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2023-04-21 |  |
 | [Sagitario](https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Sagitario](https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E) | 3:21 | 2023-04-14 | 2025-11-15 |
@@ -163,6 +163,7 @@
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2023-02-24 | 2026-02-22 |
 | [Te Lo Debo Contar](https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:56 | 2023-02-24 | 2025-06-28 |
 | [Te Vi Llegar](https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Te Vi Llegar](https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa) | 2:01 | 2024-02-16 | 2025-01-23 |
+| [Todo Es Falso](https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Todo Es Falso](https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83) | 3:36 | 2026-01-30 |  |
 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 | 2024-01-26 | 2024-08-14 |
 | [todos menos yo](https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh) | [Anna García](https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [todos menos yo](https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag) | 3:16 | 2024-01-04 |  |
 | [Tranquilo, Mi Corazón](https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Prenderé Una Velita](https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI) | 3:15 | 2024-04-11 | 2025-01-18 |

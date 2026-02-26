@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1087169,
+  "num_followers": 1087312,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Fast Times At Barrington High",
-        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
-      },
-      "artists": [
-        {
-          "name": "The Academy Is...",
-          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "About a Girl",
-      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 183242,
       "name": "All My Friends Are Nobodies",
       "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
+      },
+      "artists": [
+        {
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Nervous Breakdown",
         "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Party Animals",
-        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
       "artists": [
         {
-          "name": "Turbonegro",
-          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
         }
       ],
-      "duration_ms": 158426,
-      "name": "All My Friends Are Dead",
-      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -743,6 +727,22 @@
       "duration_ms": 238873,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Party Animals",
+        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
+      },
+      "artists": [
+        {
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "All My Friends Are Dead",
+      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "After The Party",
+        "url": "https://open.spotify.com/album/1nzDVfQopF9YBkpPAfUck3"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "After the Party",
+      "url": "https://open.spotify.com/track/3cnD0uH9C0AY4oxmb84gpc"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 124191,
       "name": "SIDEWAYS (with Travis Barker)",
       "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "After The Party",
-        "url": "https://open.spotify.com/album/1nzDVfQopF9YBkpPAfUck3"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "After the Party",
-      "url": "https://open.spotify.com/track/3cnD0uH9C0AY4oxmb84gpc"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
-      },
-      "artists": [
-        {
-          "name": "X",
-          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
-        }
-      ],
-      "duration_ms": 144786,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Rented World",
         "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 184840,
       "name": "I Don't Wanna Be An Asshole Anymore",
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
+      },
+      "artists": [
+        {
+          "name": "X",
+          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+        }
+      ],
+      "duration_ms": 144786,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Victory Lap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
-      },
-      "artists": [
-        {
-          "name": "Propagandhi",
-          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
-        }
-      ],
-      "duration_ms": 131160,
-      "name": "Failed Imagineer",
-      "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "A Place Called Home",
         "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 165800,
       "name": "Veteran",
       "url": "https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "Failed Imagineer",
+      "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "AC/DC CD",
-        "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
-      },
-      "artists": [
-        {
-          "name": "The Chats",
-          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
-        }
-      ],
-      "duration_ms": 103548,
-      "name": "Ac/Dc CD",
-      "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Hello Exile",
         "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 244564,
       "name": "Strain Your Memory",
       "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "AC/DC CD",
+        "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
+      },
+      "artists": [
+        {
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+        }
+      ],
+      "duration_ms": 103548,
+      "name": "Ac/Dc CD",
+      "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Something Green And Leafy This Way Comes",
-        "url": "https://open.spotify.com/album/6C2Wf1yvr3GinoYZhuPow4"
-      },
-      "artists": [
-        {
-          "name": "SNFU",
-          "url": "https://open.spotify.com/artist/47gDsI3zhRtZPGK7Hv3uxm"
-        }
-      ],
-      "duration_ms": 247240,
-      "name": "Painful Reminder",
-      "url": "https://open.spotify.com/track/2OEtxMnhS1quoMaZQUfruh"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "A War Against You",
         "url": "https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 198400,
       "name": "Nothing Can Stop Me",
       "url": "https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Something Green And Leafy This Way Comes",
+        "url": "https://open.spotify.com/album/6C2Wf1yvr3GinoYZhuPow4"
+      },
+      "artists": [
+        {
+          "name": "SNFU",
+          "url": "https://open.spotify.com/artist/47gDsI3zhRtZPGK7Hv3uxm"
+        }
+      ],
+      "duration_ms": 247240,
+      "name": "Painful Reminder",
+      "url": "https://open.spotify.com/track/2OEtxMnhS1quoMaZQUfruh"
     },
     {
       "added_at": "2022-07-26 16:46:12",

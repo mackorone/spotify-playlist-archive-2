@@ -4,7 +4,7 @@
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 24 min
+107 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Fallout](https://open.spotify.com/track/5evWeMP1meoQ6dcMrFFjg4) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 3:18 | 2024-10-25 | 2024-11-17 |
 | [Fear](https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 2:41 | 2022-10-26 | 2025-03-12 |
 | [Follow the Sound of My Voice](https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu) | 5:50 | 2024-03-30 | 2024-05-11 |
-| [Follow the Sound of My Voice](https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 5:50 | 2024-05-11 |  |
+| [Follow the Sound of My Voice](https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 5:50 | 2024-05-11 | 2026-02-26 |
 | [Follow the Sound of My Voice \(OurVinyl Sessions\)](https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 5:38 | 2025-04-20 | 2025-09-04 |
 | [forever, now](https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [forever, now](https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw) | 4:48 | 2023-02-03 | 2024-01-21 |
 | [forever, now](https://open.spotify.com/track/3Nm9x3Y218pXYz0a0hKGn2) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 4:48 | 2024-01-28 | 2024-02-18 |
@@ -111,6 +111,7 @@
 | [Women's Jeans](https://open.spotify.com/track/2GZVO9QH3pN8LTYJyoaix0) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:07 | 2024-04-09 | 2024-05-11 |
 | [Women's Jeans](https://open.spotify.com/track/5UFlZdTUkIMPIcprjw69KG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 3:07 | 2024-10-25 | 2024-10-26 |
 | [You'll Get Yours \(feat\. X Ambassadors\)](https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Atlas Underground Flood](https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6) | 3:08 | 2022-10-26 | 2025-12-11 |
+| [You'll Get Yours \(feat\. X Ambassadors\)](https://open.spotify.com/track/6OabT1njOJomxRv9qhfsz9) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Atlas Underground Flood](https://open.spotify.com/album/3JOmOhRuhZvHT2fyGzKisu) | 3:08 | 2026-02-26 |  |
 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 | 2024-02-17 | 2024-11-03 |
 | [Your Town \(OurVinyl Sessions\)](https://open.spotify.com/track/1vjPsWcTGJmBf7slcjSMul) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 4:52 | 2025-04-01 | 2025-06-27 |
 | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL) | 3:35 | 2022-10-26 |  |

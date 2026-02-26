@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 335937,
+  "num_followers": 336002,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACnCZsNjg1LLERqemOf61st",
+  "snapshot_id": "aZzqAAAAAABuoQAspkfAFBuH6wo1CYgp",
   "tracks": [
     {
       "added_at": null,
@@ -442,19 +442,11 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 264666,
-      "name": "I'm So Paid",
-      "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
+      "duration_ms": 256440,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb"
     },
     {
       "added_at": null,
@@ -526,11 +518,19 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 256440,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb"
+      "duration_ms": 264666,
+      "name": "I'm So Paid",
+      "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
     },
     {
       "added_at": null,
@@ -735,6 +735,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boom Body",
+        "url": "https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Boom Body",
+      "url": "https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
         "url": "https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 262933,
       "name": "Ghetto Story Chapter 3 (feat. Akon)",
       "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boom Body",
-        "url": "https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Boom Body",
-      "url": "https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE"
     },
     {
       "added_at": null,
@@ -863,30 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chop My Money",
-        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "May D",
-          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
-        }
-      ],
-      "duration_ms": 272297,
-      "name": "Chop My Money - Remix",
-      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Konvicted (Complete Edition)",
         "url": "https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq"
       },
@@ -911,6 +887,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chop My Money",
+        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "duration_ms": 272297,
+      "name": "Chop My Money - Remix",
+      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Konvicted",
         "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 209013,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Solte a voz no chuveiro e liberte o cantor dentro de voc\u00ea! ",
-  "num_followers": 945428,
+  "num_followers": 945404,
   "original_name": "Cantando no Chuveiro",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-11-07 18:47:40",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2025-11-07 18:47:40",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "added_at": "2025-11-07 18:47:40",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2025-11-07 18:47:40",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-11-07 18:47:40",
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
-    },
-    {
-      "added_at": "2025-11-07 18:47:40",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 342653,
       "name": "Black",
       "url": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY"
+    },
+    {
+      "added_at": "2025-11-07 18:47:40",
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
     },
     {
       "added_at": "2025-11-07 18:47:40",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-11-07 18:47:40",
       "album": {
+        "name": "Demi",
+        "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
+    },
+    {
+      "added_at": "2025-11-07 18:47:40",
+      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2025-11-07 18:47:40",
       "album": {
-        "name": "Demi",
-        "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2025-11-07 18:47:40",
@@ -707,22 +723,6 @@
       "duration_ms": 217308,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
-    },
-    {
-      "added_at": "2025-11-07 18:47:40",
-      "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2025-11-07 18:47:40",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-11-07 18:47:40",
       "album": {
-        "name": "Trouble Deluxe Edition",
-        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
-    },
-    {
-      "added_at": "2025-11-07 18:47:40",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 235946,
       "name": "Dangerous Woman",
       "url": "https://open.spotify.com/track/3nef5W8jTkXrOKgCu4kmq7"
+    },
+    {
+      "added_at": "2025-11-07 18:47:40",
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
     },
     {
       "added_at": "2025-11-07 18:47:40",

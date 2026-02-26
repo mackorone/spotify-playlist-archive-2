@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,650 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,672 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 37 | [Afkarik](https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX) | [Salim Tarabay](https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq) | [Afkarik](https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW) | 3:42 |
 | 38 | [Wenak](https://open.spotify.com/track/4OLkFHPJsobeRaSe7YU6BG) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Wenak](https://open.spotify.com/album/7FiqZa8hMmvkCuUftjj0br) | 3:00 |
 | 39 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
-| 40 | [Sba7 El Kheir](https://open.spotify.com/track/3QhVq4qQT4mAZl4vYjL8JX) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA) | [Sba7 El Kheir](https://open.spotify.com/album/2dPMIHo7m8vADoZywAyqQK) | 2:39 |
-| 41 | [Shim el Yasmine](https://open.spotify.com/track/1CUZeCu2qMHSteKpFkQD4m) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [Mashrou' Leila](https://open.spotify.com/album/4bOxUbTKHcHrkEJqNjeJir) | 5:09 |
+| 40 | [Shim el Yasmine](https://open.spotify.com/track/1CUZeCu2qMHSteKpFkQD4m) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [Mashrou' Leila](https://open.spotify.com/album/4bOxUbTKHcHrkEJqNjeJir) | 5:09 |
+| 41 | [Sba7 El Kheir](https://open.spotify.com/track/3QhVq4qQT4mAZl4vYjL8JX) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA) | [Sba7 El Kheir](https://open.spotify.com/album/2dPMIHo7m8vADoZywAyqQK) | 2:39 |
 | 42 | [Shou Hal Ayyam \- 2008 Remastered](https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:46 |
 | 43 | [Bala Wala Shi](https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Bala Wala Shi](https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx) | 2:46 |
 | 44 | [Ya Zaman](https://open.spotify.com/track/5V9UYttxpcWXeHNyZRaZPV) | [Mike Massy](https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd) | [Ya Zaman](https://open.spotify.com/album/5xSrFopsZNVGYXaucue8cW) | 4:17 |

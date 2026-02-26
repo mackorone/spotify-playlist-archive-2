@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62743,
+  "num_followers": 62752,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAB/A4ZzLCeWkQL5q6AiRjjz",
+  "snapshot_id": "aZzqAAAAAAAGsK08DzfLK5pzl+wdWLc/",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
+        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
+        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 76293,
-      "name": "Cordeiro de Nan\u00e3",
-      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
+      "duration_ms": 166479,
+      "name": "Rei sem coroa (ao vivo no Sesc)",
+      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
     },
     {
       "added_at": null,
@@ -515,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
-        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 166479,
-      "name": "Rei sem coroa (ao vivo no Sesc)",
-      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
+      "duration_ms": 76293,
+      "name": "Cordeiro de Nan\u00e3",
+      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 397453,
+      "name": "Undi\u00fa",
+      "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz 'Round Midnight: Bossa Nova",
         "url": "https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 264226,
       "name": "It Might As Well Be Spring - Live At Carnegie Hall",
       "url": "https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 397453,
-      "name": "Undi\u00fa",
-      "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 308166,
+      "name": "\u00c9 preciso Perdoar",
+      "url": "https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz / Gilberto \u201876",
         "url": "https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 345851,
       "name": "Aguas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 308166,
-      "name": "\u00c9 preciso Perdoar",
-      "url": "https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC"
     },
     {
       "added_at": null,

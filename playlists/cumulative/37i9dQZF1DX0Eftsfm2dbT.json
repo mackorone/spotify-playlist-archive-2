@@ -47367,6 +47367,32 @@
     },
     {
       "album": {
+        "name": "Soul Quake 3",
+        "url": "https://open.spotify.com/album/11gMNssJtONEGPfsRuPLKg"
+      },
+      "artists": [
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        },
+        {
+          "name": "Senninsho",
+          "url": "https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30ec\u30a2 (feat. \u4ed9\u4eba\u638c & Daichi Yamamoto)",
+      "url": "https://open.spotify.com/track/7nfBh7PkR7sWHO5kk1iPaY"
+    },
+    {
+      "album": {
         "name": "\u30bd\u30fc\u30eb\u3068Soul",
         "url": "https://open.spotify.com/album/3AizpdSBOGiEqkSKGrbGfd"
       },

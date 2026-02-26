@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Marlon Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,218 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,218 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 48 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
 | 49 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
-| 50 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
+| 50 | [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 |
 
 Snapshot ID: `AAAAAF+dEiC4yeuBlkxTjsCa4BZaaqs+`

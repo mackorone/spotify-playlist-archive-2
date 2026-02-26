@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Iseo & Dodosound en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,758 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,783 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 29 | [La Última Carta](https://open.spotify.com/track/2A66FBk36QAMcOychXojNS) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq) | 3:32 |
 | 30 | [Total Hate '95](https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 3:18 |
 | 31 | [Rat Race](https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Too Much Too Young](https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB) | 3:09 |
-| 32 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
-| 33 | [Ranking Full Stop](https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:47 |
+| 32 | [Ranking Full Stop](https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:47 |
+| 33 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 34 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
 | 35 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
 | 36 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 66 | [I Can't Wait](https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:22 |
 | 67 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 | 68 | [Doormat](https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 2:25 |
-| 69 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
-| 70 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 |
+| 69 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 |
+| 70 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
 | 71 | [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 |
 | 72 | [Ruby Cumulous](https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | [Gemini, Her Majesty](https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF) | 4:51 |
 | 73 | [Ska Wars](https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr) | [Capdown](https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb) | [Civil Disobedients](https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs) | 4:11 |

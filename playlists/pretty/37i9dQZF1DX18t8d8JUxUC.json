@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 32742,
+  "num_followers": 32770,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "\u00bfY Si Te Invito?",
-        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u00bfY Si Te Invito?",
-      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 213013,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "\u00bfY Si Te Invito?",
+        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u00bfY Si Te Invito?",
+      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "Como me encanta",
-      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 196333,
       "name": "Found Love",
       "url": "https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "Como me encanta",
+      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Tu Fantasma",
         "url": "https://open.spotify.com/album/0cFzIQagqP392WScfEooRw"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 191198,
       "name": "Tu Fantasma",
       "url": "https://open.spotify.com/track/3RdxaQyDTWu6QmDakA7uTd"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "no me culpes por sentir",
-        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "no me culpes por sentir",
-      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Sustancia",
         "url": "https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "no me culpes por sentir",
+        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "no me culpes por sentir",
+      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Flores Muertas",
-        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
-      },
-      "artists": [
-        {
-          "name": "Tavo Guarneros",
-          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
-        }
-      ],
-      "duration_ms": 328663,
-      "name": "Flores Muertas",
-      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Neblina Sesiones desde el Bosque",
         "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 220765,
       "name": "Canto de Amor - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/33CUljxlbtF0EnAfBU4BDJ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Flores Muertas",
+        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
+      },
+      "artists": [
+        {
+          "name": "Tavo Guarneros",
+          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
+        }
+      ],
+      "duration_ms": 328663,
+      "name": "Flores Muertas",
+      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Una historia que contar",
-        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
-      },
-      "artists": [
-        {
-          "name": "Mateo Falgas",
-          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
-        }
-      ],
-      "duration_ms": 186995,
-      "name": "Una historia que contar",
-      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Escuchado",
         "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 205226,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Una historia que contar",
+        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        }
+      ],
+      "duration_ms": 186995,
+      "name": "Una historia que contar",
+      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1639,8 +1639,8 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Esta Soledad",
-        "url": "https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo"
+        "name": "Todo Es Falso",
+        "url": "https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83"
       },
       "artists": [
         {
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
         }
       ],
-      "duration_ms": 254892,
-      "name": "Esta Soledad",
-      "url": "https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt"
+      "duration_ms": 216271,
+      "name": "Todo Es Falso",
+      "url": "https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Nada Para Ti",
-        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1707,6 +1687,22 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
     }
   ],
   "unique_name": "Latin Folk",

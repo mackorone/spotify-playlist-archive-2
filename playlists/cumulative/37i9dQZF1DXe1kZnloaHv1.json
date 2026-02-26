@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Bangkok (Stay Home)",
+        "url": "https://open.spotify.com/album/2MlNb92GGpOd1K8YoUjBdL"
+      },
+      "artists": [
+        {
+          "name": "BeautyHandsome",
+          "url": "https://open.spotify.com/artist/69C6yc1JWyXPkURqtrTuKO"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247106,
+      "name": "Bangkok (Stay Home)",
+      "url": "https://open.spotify.com/track/0miTePN4yFkOnW67MYUY9h"
+    },
+    {
+      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
@@ -652,10 +670,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 232624,
       "name": "Forever Dumb (feat. SAM KIM)",
       "url": "https://open.spotify.com/track/3V9eMQIX6COtvoRUXLoZe9"
+    },
+    {
+      "album": {
+        "name": "Friday to Monday",
+        "url": "https://open.spotify.com/album/5BnMtaO5tafYL7EwOMBJoW"
+      },
+      "artists": [
+        {
+          "name": "Limit",
+          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182103,
+      "name": "Friday to Monday",
+      "url": "https://open.spotify.com/track/1A9tsKf5PuICz5Q2VuR2SV"
     },
     {
       "album": {
@@ -796,7 +832,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 238697,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS"
@@ -1030,7 +1066,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 214320,
       "name": "It Doesn't Matter",
       "url": "https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P"
@@ -1222,6 +1258,24 @@
       "duration_ms": 159133,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
+    },
+    {
+      "album": {
+        "name": "Layer Cake",
+        "url": "https://open.spotify.com/album/2fBSAIMEYFbPyejoDDEZwz"
+      },
+      "artists": [
+        {
+          "name": "NO_ON",
+          "url": "https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220675,
+      "name": "Long Vacation",
+      "url": "https://open.spotify.com/track/1ms3YLExi6hghQ4bgZtk2j"
     },
     {
       "album": {

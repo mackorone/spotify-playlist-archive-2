@@ -4,7 +4,7 @@
 
 > 
 
-155 songs - 8 hr 4 min
+157 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,9 +113,11 @@
 | [pinky promise](https://open.spotify.com/track/4OIZrD0Q5HjdFSL0FPrAu3) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [WANT 2 BE 3](https://open.spotify.com/album/4IhdgtgY206V0NATs0V694) | 2:00 | 2025-11-10 |  |
 | [Pocket Dialer](https://open.spotify.com/track/5YC7pEmFK6wGSnfJghKNIJ) | [Gold Foil Hum](https://open.spotify.com/artist/2fk3ifpGKFFprX6C863u1Y) | [Character Flaw](https://open.spotify.com/album/4qn26yLrkTT6dSYXe1nlCs) | 3:19 | 2025-11-04 |  |
 | [PRAISE DA LORD!](https://open.spotify.com/track/143RZcpdv4aTY8CoGkyjWl) | [COZE!NE](https://open.spotify.com/artist/7HFc1tkoqLi1lRrhAxGKAq) | [PRAISE DA LORD!](https://open.spotify.com/album/5CdfJUlkYa7khJGFkvkBD8) | 2:28 | 2025-09-15 |  |
+| [Princesa](https://open.spotify.com/track/7zcrv8yoINv4GdPAGUEnmm) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Princesa](https://open.spotify.com/album/5pLYv8ZPnql7p8uOfjIXKo) | 2:49 | 2026-02-25 |  |
 | [Prohibido Amarte](https://open.spotify.com/track/0umfTy07QlGAjaBZAEnKpU) | [Nick Reagan](https://open.spotify.com/artist/3vticimNlMuc4rqZBMlELC) | [Prohibido Amarte](https://open.spotify.com/album/6RFRKjfJnL362fqOSMm10E) | 3:02 | 2025-11-05 |  |
 | [pull up](https://open.spotify.com/track/493d2v5Wk3NVhfRdDbLDZp) | [Thékho](https://open.spotify.com/artist/4lCPqhnzBqohZlfqncjtxl), [saranghae](https://open.spotify.com/artist/7lOWCFSEnzDM8WOlsxy1Yj) | [pull up](https://open.spotify.com/album/7JC48ko5wABisFzZNl6JE6) | 1:50 | 2025-06-22 |  |
 | [Purgatorio](https://open.spotify.com/track/5VK83qZanFNfjhRGeizUTP) | [Denivek](https://open.spotify.com/artist/3yF4wRjfd495MPjjquHKVH) | [International I](https://open.spotify.com/album/4oyD19daykyixpY2E5j1iI) | 6:46 | 2025-08-12 |  |
+| [Pussy](https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf) | [C4BASS](https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw), [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Pussy](https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn) | 2:26 | 2026-02-25 |  |
 | [Que somos¿](https://open.spotify.com/track/0SARdMrIILVY8go5R421YG) | [Marche](https://open.spotify.com/artist/5x8Xce2apfeu5ETjcA0Das) | [Que somos¿](https://open.spotify.com/album/7kQMcWVDuXVW9ZIebJFIRp) | 1:59 | 2025-03-12 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
 | [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 | 2026-02-17 |  |

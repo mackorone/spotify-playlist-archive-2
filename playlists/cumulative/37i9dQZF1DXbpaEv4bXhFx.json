@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 218000,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
@@ -4494,6 +4494,28 @@
       "duration_ms": 196833,
       "name": "Wish Rain (Feat. Jayd, siso)",
       "url": "https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID"
+    },
+    {
+      "album": {
+        "name": "Burn the Memory",
+        "url": "https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW"
+      },
+      "artists": [
+        {
+          "name": "seizetheday",
+          "url": "https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB"
+        },
+        {
+          "name": "EZ Kim",
+          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211061,
+      "name": "With an Umbrella (feat. EZ Kim)",
+      "url": "https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof"
     },
     {
       "album": {

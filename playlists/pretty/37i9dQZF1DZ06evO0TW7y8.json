@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 323728,
+  "num_followers": 323736,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADMb0TaE1Ph1jNOYYv6C9M6",
+  "snapshot_id": "aZzqAAAAAAB5r8ZpsZzbhW3Nq5bG9a2t",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Waving, But Drowning",
-        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 256198,
-      "name": "Loose Ends",
-      "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 204289,
       "name": "Tyrant (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Waving, But Drowning",
+        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 256198,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -279,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
       },
       "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 178586,
-      "name": "Myself (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
+      "duration_ms": 201028,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
     },
     {
       "added_at": null,
@@ -315,6 +295,26 @@
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
     },
     {
       "added_at": null,
@@ -395,26 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
       "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Down For You",
-      "url": "https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A"
+      "duration_ms": 214047,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
     },
     {
       "added_at": null,
@@ -439,18 +431,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
       },
       "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 214047,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
+      "duration_ms": 220000,
+      "name": "Down For You",
+      "url": "https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A"
     },
     {
       "added_at": null,

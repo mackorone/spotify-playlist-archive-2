@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With blazingfairis, Die Mannequin, Alia Syntax and more",
+  "description": "With Die Mannequin, blazingfairis, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 79879,
       "name": "Asphalt Heart",
       "url": "https://open.spotify.com/track/7onWhvLus9aSDVMV8GeIpb"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -870,6 +870,24 @@
       "duration_ms": 191999,
       "name": "Caffeine and Chaos",
       "url": "https://open.spotify.com/track/1gW5d9T0AuhgmckycjCaCt"
+    },
+    {
+      "album": {
+        "name": "THE LOVER: SEETHING",
+        "url": "https://open.spotify.com/album/1Xj1xh91KbyErvc4g9UZUe"
+      },
+      "artists": [
+        {
+          "name": "Stevi Daft",
+          "url": "https://open.spotify.com/artist/79znh3JUR2jtyeYCGxUEUB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163533,
+      "name": "CANARY",
+      "url": "https://open.spotify.com/track/1n27mNE1nt2NdyvatOpyCG"
     },
     {
       "album": {
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 102319,
       "name": "I Just Wanna Fuck",
       "url": "https://open.spotify.com/track/4oU0Yvy5C13aRzJZr9hvRn"
@@ -2668,7 +2686,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -3036,6 +3054,24 @@
       "duration_ms": 127596,
       "name": "Lights Go Low",
       "url": "https://open.spotify.com/track/4CUrqwPPuDRFnzy0gOYzxL"
+    },
+    {
+      "album": {
+        "name": "Lines In The Sand.",
+        "url": "https://open.spotify.com/album/5jM2hV8DhgGMaLzR1ZGtRd"
+      },
+      "artists": [
+        {
+          "name": "Nona Cyrelle",
+          "url": "https://open.spotify.com/artist/6JdeiRL78vfoGEQ8RhBEa0"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171022,
+      "name": "Lines In The Sand.",
+      "url": "https://open.spotify.com/track/64gNh4YdS7LGoOYqAbzwux"
     },
     {
       "album": {
@@ -3266,7 +3302,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 179072,
       "name": "Midnight Inventory",
       "url": "https://open.spotify.com/track/1vHIJfGuhxDKhY5X3cuQrF"
@@ -3356,7 +3392,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -3500,7 +3536,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -3932,7 +3968,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 225440,
       "name": "Phase Transition",
       "url": "https://open.spotify.com/track/5126Zi3wuCY7NwZW8dsJIm"
@@ -4346,7 +4382,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 261405,
       "name": "Shadow Of The Flag",
       "url": "https://open.spotify.com/track/4wsgWgWG3z1UP3DESV5o5k"
@@ -4490,7 +4526,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 130519,
       "name": "Static Tongue",
       "url": "https://open.spotify.com/track/3r5IFbPHHkeTnMmHSBeJ90"
@@ -4508,7 +4544,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -4562,7 +4598,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 153750,
       "name": "Stories Of Virtue",
       "url": "https://open.spotify.com/track/4Npl2rs7MZptFDPIzko4OM"
@@ -4580,7 +4616,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 188628,
       "name": "Strange Affections",
       "url": "https://open.spotify.com/track/5a3Nba16ivRDsA6GrgFNjX"
@@ -4782,7 +4818,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -4800,7 +4836,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -4912,7 +4948,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 169799,
       "name": "Throw it on The Pyre",
       "url": "https://open.spotify.com/track/6zDOTt4G46GR5tsKpo72uA"
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 181913,
       "name": "What Will Santa Bring For You?",
       "url": "https://open.spotify.com/track/7jlM3SxpNeBr5IuCfSPbZD"

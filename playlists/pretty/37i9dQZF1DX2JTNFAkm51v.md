@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5月5日\(火祝\)\~6日\(水祝\)に開催される「KOBE MELLOW CRUISE」公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,662 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,674 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 41 | [Our Style](https://open.spotify.com/track/765pHb1dyOx4VH6A446cwU) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Our Style](https://open.spotify.com/album/7kozsQ3NnkrDJPT4Kw7aim) | 4:02 |
 | 42 | [We Ready](https://open.spotify.com/track/0RL82CsWHHnGxVpsghUbLU) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [We Ready](https://open.spotify.com/album/6zhTFHy2phFYU7sK1Ij0mJ) | 2:17 |
 
-Snapshot ID: `AAAAAEmn0Yzq3BJcrhARh2qFhuP+DrvR`
+Snapshot ID: `AAAAANUIk+tkHDR+of5q5cwF4h2vfJEu`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 349495,
+  "num_followers": 349516,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAB5lIth6CpwrBjXseUrvoGa",
+  "snapshot_id": "aZzqAAAAAAAlJRao4rXUK5bMY/pXjGHb",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los de 100pre",
-        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tronando Ligas",
         "url": "https://open.spotify.com/album/0VZLi5I1MJs3PFRyvgjOEO"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 133205,
       "name": "Tronando Ligas",
       "url": "https://open.spotify.com/track/70fLGCLWTSyuI76dNhQboT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los de 100pre",
+        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 178509,
-      "name": "Somos Arrieros",
-      "url": "https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 178509,
+      "name": "Somos Arrieros",
+      "url": "https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a"
     },
     {
       "added_at": null,

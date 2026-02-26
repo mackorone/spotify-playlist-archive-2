@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: VLADKO\. Artwork: Joy Yamusangie.
 
-1,636 songs - 5 day 7 hr 53 min
+1,637 songs - 5 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Bear Walk](https://open.spotify.com/track/3NeBFr2xBjxH3lfCq1tXp8) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G) | [Bear Walk](https://open.spotify.com/album/57FGFSyKWLebBFlw6MqE5J) | 3:46 | 2022-04-13 | 2022-05-12 |
 | [Beautiful Day](https://open.spotify.com/track/4DQdGqH4aek5FKT6YHIM06) | [TAMMIE](https://open.spotify.com/artist/6jRwwKnIyUB02nBzse5T4B) | [METAMORPHOSIS](https://open.spotify.com/album/0Co7Rd7jsgw51YGrYEIZgN) | 2:33 | 2024-09-18 | 2025-03-20 |
 | [Beautiful Dreamer](https://open.spotify.com/track/3NPzHaUQnWmoSU1cPjnZLT) | [Rory Sturgeon](https://open.spotify.com/artist/7v5gnZba4iB7tjlnZKS1Oo) | [Beautiful Dreamer](https://open.spotify.com/album/3gUd6UI6ra8jUH1kVk7BWa) | 2:53 | 2024-01-24 | 2024-05-02 |
+| [Beautiful Failure by Sunshine](https://open.spotify.com/track/0JMoKncKkhr52FeCmphyfl) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Beautiful Failure by Sunshine](https://open.spotify.com/album/0aJxIdqT8ZpUOgk4dyi3wp) | 3:40 | 2026-02-25 |  |
 | [Beauty & The Bloc](https://open.spotify.com/track/0ZsbE6ZV85uVUugIHAxgKg) | [Werkha](https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0) | [Beauty & The Bloc](https://open.spotify.com/album/2GxZMHiMF80Xlh9f7xvIg4) | 4:07 | 2022-04-06 | 2022-05-05 |
 | [Beauty Doesn't Know What It Looks Like](https://open.spotify.com/track/6F5He29YI85e8MLXVca4JO) | [Sarathy Korwar](https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk) | [Beauty Doesn't Know What It Looks Like / We Won't Go Searching](https://open.spotify.com/album/4aeK30hlYgkGq3cro2UR8x) | 2:56 | 2025-11-05 |  |
 | [Bedroom](https://open.spotify.com/track/4Bl5RKvk1sjDTo2nZLrk8O) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 6:07 | 2023-06-21 | 2023-09-28 |
@@ -1635,7 +1636,7 @@
 | [あ\(A\)](https://open.spotify.com/track/17o9I84MQ9uUkTR3L3RbL9) | [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D), [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [あ\(A\)](https://open.spotify.com/album/4BiXsaMAeccCEPfjVXG9zy) | 4:54 | 2023-03-15 | 2023-05-18 |
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-15 | 2023-05-11 |
 | [りんご追分](https://open.spotify.com/track/3sL2xabTbPg586o5InU6Lt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Ringo Oiwake](https://open.spotify.com/album/24qe2xaBO74gnnDBgOZ3qr) | 4:55 | 2023-08-16 | 2024-01-11 |
-| [アルバムの終わりに](https://open.spotify.com/track/47gBksZY4KVVI7iT2CflKq) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [アルバムの終わりに](https://open.spotify.com/album/43GwfCKDDJjADDLquas4QF) | 2:39 | 2025-11-05 |  |
+| [アルバムの終わりに](https://open.spotify.com/track/47gBksZY4KVVI7iT2CflKq) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [アルバムの終わりに](https://open.spotify.com/album/43GwfCKDDJjADDLquas4QF) | 2:39 | 2025-11-05 | 2026-02-26 |
 | [ターコイズサークル](https://open.spotify.com/track/7A7naf01fa3Z8oXQdB0VeB) | [AKASUSHO RomaN'Chicks](https://open.spotify.com/artist/1rA2HqEIJKJrEvTuaz9NaA) | [海沿いの町 / ターコイズサークル](https://open.spotify.com/album/2LOkXzPvLshDnM8RSeesin) | 5:06 | 2022-06-15 | 2022-07-14 |
 | [万葉 \(Manyou\)](https://open.spotify.com/track/6l0CgdO1LfKNS1NTAUQppx) | [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D), [Maurice Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [万葉 \(Manyou\)](https://open.spotify.com/album/3oheCeChFLNuQlbiAOkH5a) | 4:09 | 2023-02-01 | 2023-03-16 |
 | [具縄](https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [具縄](https://open.spotify.com/album/2KqcYIchslRedPNFe8MPuL) | 5:00 | 2022-10-19 | 2022-11-24 |

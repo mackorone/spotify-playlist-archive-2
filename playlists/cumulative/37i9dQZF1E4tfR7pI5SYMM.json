@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Dystopian X Vision and more",
+  "description": "With Die Oberherren, AlligatorX, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 188082,
       "name": "Beat The Stone",
       "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 251400,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/2f8MBmW7FByHDrSAqI2O2E"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 242008,
       "name": "Call It Out",
       "url": "https://open.spotify.com/track/0oulKyKALyqc4S3ULTmCda"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 283025,
       "name": "Dead End Pyre",
       "url": "https://open.spotify.com/track/6JmweRkqaOhVFrNoQOeM3n"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 222857,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1ACBwGOWhLqstenkrApSBK"
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Grifter",
       "url": "https://open.spotify.com/track/0Phzc8FXpj19ZVdvTmBwep"
@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 235706,
       "name": "Helleluia",
       "url": "https://open.spotify.com/track/3FFLHI0Vj4To1spoXCnDv3"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 267391,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6ddksmWBpvTweONoUz3HZs"
+      },
+      "artists": [
+        {
+          "name": "Lewis Tivey",
+          "url": "https://open.spotify.com/artist/6rMQpa1tR5sI8xGboy8mXR"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259840,
+      "name": "Living The Dream",
+      "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
+    },
+    {
+      "album": {
         "name": "Lonely Man",
         "url": "https://open.spotify.com/album/0aGbPsNgKSrjHnZXepgF3e"
       },
@@ -3748,7 +3766,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 258480,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/1UIlEp367m4nDBJOaOtTjx"
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 326507,
       "name": "mosquito's wing",
       "url": "https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH"
@@ -4192,7 +4210,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 255812,
       "name": "My Elegy",
       "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
@@ -4906,7 +4924,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -6256,7 +6274,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 258147,
       "name": "Tension - 442 Hz",
       "url": "https://open.spotify.com/track/1yUz9pCTAuytgs56FFb1wa"
@@ -6652,7 +6670,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 218000,
       "name": "The Third Son",
       "url": "https://open.spotify.com/track/1FtBT5m5alMadSATu735BJ"
@@ -6844,7 +6862,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 199614,
       "name": "To Kill a Silver Sparrow",
       "url": "https://open.spotify.com/track/08RIklEZ1C1T7xL1A1MqP2"
@@ -6956,7 +6974,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "Toy ! - Single mix",
       "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
@@ -7028,7 +7046,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 142785,
       "name": "Truth Behind The Lies",
       "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
@@ -7724,7 +7742,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 193880,
       "name": "Yes Life",
       "url": "https://open.spotify.com/track/6FWuNBlli4DK29hMLq1J0a"
@@ -7854,7 +7872,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"
@@ -7996,6 +8014,24 @@
       "duration_ms": 390639,
       "name": "\u041b\u044e\u0434\u0438",
       "url": "https://open.spotify.com/track/2ssGplT6wKfeqSo5ng0gYT"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043d\u0456\u0433",
+        "url": "https://open.spotify.com/album/5682QOpMeLCPiNnqbOil34"
+      },
+      "artists": [
+        {
+          "name": "Sudno",
+          "url": "https://open.spotify.com/artist/7ud4BSqYxbum6CEult1m1G"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "\u0421\u043d\u0456\u0433",
+      "url": "https://open.spotify.com/track/7xbOVsqxlzPH3DY8c8Tf8x"
     },
     {
       "album": {

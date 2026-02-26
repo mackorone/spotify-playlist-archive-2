@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,545 songs - 5 day 13 hr 1 min
+2,546 songs - 5 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [En annens problem](https://open.spotify.com/track/1aPMGxwkJ7x6XwzlQfeQ8q) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [En annens problem](https://open.spotify.com/album/0JpEfG23qncxNpVXLKEKK6) | 2:31 | 2026-02-23 |  |
 | [En birra har aldrig](https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En birra har aldrig](https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r) | 2:27 | 2023-12-09 | 2023-12-11 |
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-04 | 2022-06-12 |
-| [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 | 2026-02-14 |  |
+| [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 | 2026-02-14 | 2026-02-26 |
 | [En Shot](https://open.spotify.com/track/3mrOghCXTH1wg1JliCHenY) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [En Shot](https://open.spotify.com/album/2kEYdmpt1rOiQUmlfxPE01) | 2:24 | 2023-02-04 | 2023-07-02 |
 | [En sista chans](https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [En sista chans](https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u) | 3:04 | 2024-08-24 | 2024-08-26 |
 | [En Solskinnsdag](https://open.spotify.com/track/3n3x4saKCr5Y6XTzXXpiM6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [En Solskinnsdag](https://open.spotify.com/album/3NPw9UKNxpe5sr9Z4EpZbB) | 2:28 | 2021-06-07 | 2021-07-25 |
@@ -2480,6 +2480,7 @@
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-26 | 2025-07-31 |
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-12-24 | 2023-12-27 |
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 | 2024-12-25 | 2025-12-27 |
+| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-25 |  |
 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 | 2024-01-06 | 2024-02-13 |
 | [Who the Hell Is Edgar?](https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI), [SALENA](https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt) | [Who the Hell Is Edgar?](https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0) | 2:39 | 2023-05-14 | 2023-05-16 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-10 | 2023-06-25 |

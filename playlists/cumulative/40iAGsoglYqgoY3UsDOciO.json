@@ -1989,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2F26U2YH5YBXWciFyKxhmw"
+      },
+      "artists": [
+        {
+          "name": "Teknik",
+          "url": "https://open.spotify.com/artist/7xGB1yPO2EpkMKpk9RHn9v"
+        },
+        {
+          "name": "MISTER GREEN",
+          "url": "https://open.spotify.com/artist/3NgAIGpRDPOe6ZGPhQNRD2"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/38bi05yCUFyHLU08QEMc50"
+    },
+    {
+      "album": {
         "name": "D in Da A",
         "url": "https://open.spotify.com/album/09EFjsbE4gXYn6I8qgTc2r"
       },
@@ -5098,6 +5120,24 @@
       "duration_ms": 228502,
       "name": "Millimeter from Breakin'",
       "url": "https://open.spotify.com/track/5qbcx5BznWu1jiwMjRFJ1H"
+    },
+    {
+      "album": {
+        "name": "V1oneKrook",
+        "url": "https://open.spotify.com/album/2E3GlytM8U0bgMT1bgWSeZ"
+      },
+      "artists": [
+        {
+          "name": "Only1Krook",
+          "url": "https://open.spotify.com/artist/0Aq2lOPzjhehPyGY3YGWDC"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146430,
+      "name": "Mind Racing",
+      "url": "https://open.spotify.com/track/0R5z5TGaGrt92LNRdT2pUR"
     },
     {
       "album": {

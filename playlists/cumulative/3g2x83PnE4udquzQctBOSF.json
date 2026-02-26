@@ -2697,6 +2697,36 @@
     },
     {
       "album": {
+        "name": "El Mundo (The Cube Guys Mix)",
+        "url": "https://open.spotify.com/album/211GpUDZSpVWGOd47XSaRY"
+      },
+      "artists": [
+        {
+          "name": "Chicca Leaf",
+          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
+        },
+        {
+          "name": "Mess",
+          "url": "https://open.spotify.com/artist/6ZgLX6dxeYh2VCXlZBHp17"
+        },
+        {
+          "name": "Kenzo (ITA)",
+          "url": "https://open.spotify.com/artist/3OCNLDaUydg5VsX811Zod3"
+        },
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121878,
+      "name": "El Mundo - The Cube Guys Radio Edit",
+      "url": "https://open.spotify.com/track/2E95UxSc3sbPymFdUKF2AB"
+    },
+    {
+      "album": {
         "name": "Por Eso Que Me Amas EP",
         "url": "https://open.spotify.com/album/63Nu1PeMnLSvmWGQrcPVlU"
       },

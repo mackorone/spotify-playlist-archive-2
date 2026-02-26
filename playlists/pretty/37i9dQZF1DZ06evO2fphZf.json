@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12542,
+  "num_followers": 12540,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABzvko9H9q2uIa5UySAWKjF",
+  "snapshot_id": "aZzqAAAAAADkl2krI1x5pM/vK/MLJL15",
   "tracks": [
     {
       "added_at": null,
@@ -891,18 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR"
       },
       "artists": [
+        {
+          "name": "Joe Trufant",
+          "url": "https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5"
+        },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
+      "duration_ms": 218754,
+      "name": "Love Songs",
+      "url": "https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

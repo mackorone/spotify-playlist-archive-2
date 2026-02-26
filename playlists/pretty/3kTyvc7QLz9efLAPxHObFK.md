@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,865 songs - 6 day 4 hr 21 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,870 songs - 6 day 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2873,5 +2873,10 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2863 | [Have You Ever Been Mellow](https://open.spotify.com/track/4AwRGHjNRDGWpDV641zMh0) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf) | [Have You Ever Been Mellow](https://open.spotify.com/album/3MA9JknyRz9s3YiS8LE5n2) | 2:09 |
 | 2864 | [Take Control \- Radio Edit](https://open.spotify.com/track/6CXqYbi61b3cLTjkT4g9PH) | [Tomsky](https://open.spotify.com/artist/12NNDc1Q7rwbppTMf8UAif), [KICKCHEEZE](https://open.spotify.com/artist/74iRij50dBHAjnypz4R6bZ) | [Take Control](https://open.spotify.com/album/758mgk6pflztAkRikvjWP3) | 2:59 |
 | 2865 | [WTF?](https://open.spotify.com/track/38op0KfEjOs3n5aMrnyVHu) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Hard Techno The Annual 2026](https://open.spotify.com/album/2jzhQtxp1BbzsxgA1q4SzA) | 3:42 |
+| 2866 | [Die For Me](https://open.spotify.com/track/55u5v2zLr0HHyyN4BvPUk7) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3), [Aalst](https://open.spotify.com/artist/3Zu76XPlKrtaPOJx9AlwtZ) | [Die For Me](https://open.spotify.com/album/6ULE6a9yZsyQRQafsJvX32) | 2:55 |
+| 2867 | [Supernova 2.0](https://open.spotify.com/track/1dFBzqxBEUZ9UDXIyQQz9f) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Supernova 2.0](https://open.spotify.com/album/2g5QdIKbmBBJlwD2kl1mKN) | 2:11 |
+| 2868 | [Magic In The Night](https://open.spotify.com/track/2O25edHQKStPDiFWsPPdoP) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [Magic In The Night](https://open.spotify.com/album/1JtDUpNmdpAFivNZMQhQ2h) | 2:39 |
+| 2869 | [Kiss Me Again](https://open.spotify.com/track/24i2bBK5icpy87VIwBPRr2) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Septum](https://open.spotify.com/artist/5zeN5UUPeAzIZDBtSmjGTl), [Frozen Frog](https://open.spotify.com/artist/4p1LK0iXwOpL02Q1ZBGzKF) | [Kiss Me Again](https://open.spotify.com/album/5PUF5UAMyqLiLuLmSeXVCG) | 2:17 |
+| 2870 | [Bring the Heat](https://open.spotify.com/track/0JDzhB1NYufjkMu6O94TSz) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Shadow Legacy](https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX) | [Bring the Heat](https://open.spotify.com/album/6xCKSOKGAK3eOd34N6V5Pl) | 2:18 |
 
-Snapshot ID: `AAALho440EoSyiD2tr+LvIo7dBg3Pn9g`
+Snapshot ID: `AAALi4WGL7RKz21vShXLsHdp6e1wPEgL`

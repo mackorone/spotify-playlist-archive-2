@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,708 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,712 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 11 | [Lindo Presente](https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:07 |
 | 12 | [Últimos Dias](https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 5:03 |
 | 13 | [Agradeço ao Senhor](https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Agradeço ao Senhor](https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a) | 3:19 |
-| 14 | [Jesus Voltará](https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Jesus Voltará](https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy) | 4:24 |
-| 15 | [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG) | 6:09 |
+| 14 | [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG) | 6:09 |
+| 15 | [Jesus Voltará](https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Jesus Voltará](https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy) | 4:24 |
 | 16 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 |
 | 17 | [Tempo de Deus](https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 5:23 |
 | 18 | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7) | 4:28 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 28 | [A Senha](https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Senha](https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC) | 4:23 |
 | 29 | [Vasos Quebrados](https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:57 |
 | 30 | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 5:13 |
-| 31 | [O Segredo Pra Vencer \(Ao Vivo\)](https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Segredo Pra Vencer \(Ao Vivo\)](https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr) | 4:18 |
-| 32 | [Colhendo Frutos](https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:22 |
+| 31 | [Colhendo Frutos](https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:22 |
+| 32 | [O Segredo Pra Vencer \(Ao Vivo\)](https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Segredo Pra Vencer \(Ao Vivo\)](https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr) | 4:18 |
 | 33 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 |
 | 34 | [Muda o Meu Coração](https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda o Meu Coração](https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3) | 5:09 |
-| 35 | [Reaja](https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Reaja](https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB) | 4:16 |
-| 36 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 |
-| 37 | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/track/0cbFt604EkPvV6yVTPiqSX) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI) | 3:40 |
+| 35 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 |
+| 36 | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/track/0cbFt604EkPvV6yVTPiqSX) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cartas Vivas \(Ao Vivo\)](https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI) | 3:40 |
+| 37 | [Reaja](https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Reaja](https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB) | 4:16 |
 | 38 | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC) | 4:09 |
 | 39 | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe) | 4:09 |
 | 40 | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/album/075EOV324SMWzffd3uO7QX) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
 | 50 | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN) | 4:20 |
 
-Snapshot ID: `aZuYgAAAAAC0LUoiiP/545VAJFL6CQgF`
+Snapshot ID: `aZzqAAAAAACZ/lyTgRw+8wRUSZmGauCH`

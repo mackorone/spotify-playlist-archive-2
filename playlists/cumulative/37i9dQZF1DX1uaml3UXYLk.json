@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Bath House",
+        "url": "https://open.spotify.com/album/2HkxsRdKEndl4k8pFg1nLE"
+      },
+      "artists": [
+        {
+          "name": "Lostlow",
+          "url": "https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184750,
+      "name": "Bath House",
+      "url": "https://open.spotify.com/track/7EkUYJ9xscFH9QPwKHN77g"
+    },
+    {
+      "album": {
         "name": "Cho",
         "url": "https://open.spotify.com/album/3SdoRxeJXEy0GnALHjAI1G"
       },
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 163613,
       "name": "Citrus-sharp",
       "url": "https://open.spotify.com/track/2ZDiNSInO1KOMU54fNRmhu"
@@ -4590,7 +4608,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 160282,
       "name": "Gentle Breeze",
       "url": "https://open.spotify.com/track/3iKe5hp6geXJEmmEdBfXIE"
@@ -7070,7 +7088,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 120000,
       "name": "Lost And Blind",
       "url": "https://open.spotify.com/track/4TwFOkH3iwgGWOube0tK9Q"
@@ -7866,7 +7884,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 157948,
       "name": "Missing Daylight",
       "url": "https://open.spotify.com/track/2B8abTUyycIzH4Taw1r4Je"
@@ -8378,6 +8396,24 @@
       "duration_ms": 205714,
       "name": "never ever ever",
       "url": "https://open.spotify.com/track/2MnxU9rlvV1MLATXGPB6xo"
+    },
+    {
+      "album": {
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/2jD4HF9s0o4omiB2MMUP3f"
+      },
+      "artists": [
+        {
+          "name": "Yasumaru",
+          "url": "https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149237,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/1DKK0d0CiKOeT3dkhiXGQ0"
     },
     {
       "album": {
@@ -9494,7 +9530,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 134000,
       "name": "Pink Sunset",
       "url": "https://open.spotify.com/track/3ecB9IwzbtSK23FwSq4nM2"
@@ -10632,7 +10668,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 162711,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7A6EOHKcpfACJ9KpCKIiRy"
@@ -10902,7 +10938,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 124683,
       "name": "Santal",
       "url": "https://open.spotify.com/track/2EoFGrYbA47rngBl51cLnd"
@@ -12585,6 +12621,24 @@
     },
     {
       "album": {
+        "name": "Sushi",
+        "url": "https://open.spotify.com/album/58NepZnFqNlklKSpbpAmBe"
+      },
+      "artists": [
+        {
+          "name": "Golden After",
+          "url": "https://open.spotify.com/artist/4oWkikhjgTiZX98eSAWT9R"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126942,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/7dV4vTLupVPwiniVh9TnI8"
+    },
+    {
+      "album": {
         "name": "Swerve",
         "url": "https://open.spotify.com/album/6mjJf2GE64QAdr8LQFEznF"
       },
@@ -13512,7 +13566,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 151090,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX"

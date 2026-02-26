@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: にしな
 
-1,452 songs - 3 day 13 hr 4 min
+1,452 songs - 3 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [One Week](https://open.spotify.com/track/5WJee4yzldw2qr4UAS1FE3) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [One Week](https://open.spotify.com/album/7s7QxgCO8l3E3Ifs8L0NrL) | 3:36 | 2025-08-12 | 2025-10-22 |
 | [OOPARTS](https://open.spotify.com/track/2WxK04UTeg0ZkYWaw5DLdm) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [our hope](https://open.spotify.com/album/1ONQrLL5EaVJd34qsM21id) | 5:06 | 2022-05-04 | 2022-06-01 |
 | [Organic Thing](https://open.spotify.com/track/2Kn5I1jYCXpsJJQQkqjc1m) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Organic Thing](https://open.spotify.com/album/2YCD5VfiHxkXSX7Jcgg8Of) | 2:50 | 2025-03-11 | 2025-04-02 |
+| [Osoro \(Heaven\)](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 2:20 | 2026-02-24 |  |
 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-04-11 | 2024-01-10 |
 | [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 | 2023-04-04 | 2023-04-15 |
 | [Our Home](https://open.spotify.com/track/5FghpyYoictAFphQ5Gcp1U) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Beautiful Boy \(Side A\)](https://open.spotify.com/album/7fAcDecrmH6UR8TpTc0CP4) | 3:47 | 2022-07-05 | 2022-07-29 |
@@ -940,7 +941,6 @@
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-02-06 | 2024-03-06 |
 | [touch](https://open.spotify.com/track/2WG6srwUczML0t7Dv1sYwB) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [touch](https://open.spotify.com/album/48pfaNnmIJpOIKRw1sOZEv) | 3:39 | 2022-07-05 | 2022-08-03 |
 | [Toukakanseinoyoru](https://open.spotify.com/track/4MkvoRmOboUayXIj63S7XC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 3:52 | 2023-02-28 | 2023-04-05 |
-| [Track 1](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 0:00 | 2026-02-24 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-11-07 | 2023-11-30 |
 | [Treasure You](https://open.spotify.com/track/04SeXEZGiH1tse4UtyUBmE) | [KIRA](https://open.spotify.com/artist/384MAG8fZLUBFQoO2KgDVG) | [Birthday](https://open.spotify.com/album/0ItyQ5hpzupHOAAsQJjbRe) | 3:54 | 2023-05-02 | 2023-06-07 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-03-07 | 2022-04-06 |

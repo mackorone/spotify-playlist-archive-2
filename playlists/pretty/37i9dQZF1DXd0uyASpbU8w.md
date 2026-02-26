@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  Zee Nxumalo, Mr JazziQ, WILLOW, Nasty C and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,174 likes - 72 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,241 likes - 72 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

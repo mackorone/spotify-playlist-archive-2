@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high!",
-  "num_followers": 637322,
+  "num_followers": 637389,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
         "url": "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 176250,
       "name": "Golden - David Guetta REM/X",
       "url": "https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1535,8 +1535,8 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Dreamin (feat. Daya)",
-        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
+        "name": "No Room For A Saint (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
       },
       "artists": [
         {
@@ -1544,13 +1544,17 @@
           "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 171526,
-      "name": "Dreamin (feat. Daya)",
-      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
+      "duration_ms": 236128,
+      "name": "No Room For A Saint (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1631,8 +1635,8 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "No Room For A Saint (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
+        "name": "Dreamin (feat. Daya)",
+        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
       },
       "artists": [
         {
@@ -1640,17 +1644,13 @@
           "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 236128,
-      "name": "No Room For A Saint (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
+      "duration_ms": 171526,
+      "name": "Dreamin (feat. Daya)",
+      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
       },
@@ -2155,6 +2135,26 @@
       "duration_ms": 201230,
       "name": "System",
       "url": "https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "Entwined",
         "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
       },
@@ -2303,26 +2323,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "All The Things She Said (Culture Shock Version)",
         "url": "https://open.spotify.com/album/4iHVL611SiXiIYtgEJbmRS"
       },
@@ -2339,6 +2339,22 @@
       "duration_ms": 158620,
       "name": "All The Things She Said (Culture Shock Version)",
       "url": "https://open.spotify.com/track/4hp4cs1fKConq0Cmr4luW9"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -2387,22 +2403,6 @@
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Throw Some Ass",
-        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 182423,
-      "name": "Throw Some Ass",
-      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "R U DOWN?",
-        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 139911,
-      "name": "R U DOWN?",
-      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Blessings (Cassian Remix)",
         "url": "https://open.spotify.com/album/5IyXTV39CmbRwp9Xibpwoy"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 248365,
       "name": "Blessings - Cassian Remix",
       "url": "https://open.spotify.com/track/3GpNIq74pzLjdIKplMvSV2"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "R U DOWN?",
+        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 139911,
+      "name": "R U DOWN?",
+      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
     },
     {
       "added_at": "2026-02-13 05:00:25",

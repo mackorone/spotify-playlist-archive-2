@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: CHUNG HA)",
+  "description": "Future K-Pop hits! (Cover: \uc6b0\uc8fc\uc18c\ub140 (WJSN))",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -2846,6 +2846,24 @@
       "duration_ms": 176000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv"
+    },
+    {
+      "album": {
+        "name": "Bloom hour",
+        "url": "https://open.spotify.com/album/3Jgic38bRcv9eiunNaxv3z"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bloom hour",
+      "url": "https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq"
     },
     {
       "album": {
@@ -21418,7 +21436,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 154000,
       "name": "ROCK THE NATION",
       "url": "https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC"

@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 652990,
+  "num_followers": 653050,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
+        "name": "I HATE ME TOO",
+        "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 185569,
+      "name": "I HATE ME TOO",
+      "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
         "name": "Living Proof (with Jelly Roll)",
         "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 218986,
       "name": "Living Proof (with Jelly Roll)",
       "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
-        "name": "I HATE ME TOO",
-        "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 185569,
-      "name": "I HATE ME TOO",
-      "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
+        "name": "If I Know You",
+        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
       },
       "artists": [
         {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
         }
       ],
-      "duration_ms": 288121,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
+      "duration_ms": 163637,
+      "name": "Midnight Dancer",
+      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "If I Know You",
-        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
       },
       "artists": [
         {
-          "name": "Aaron McBee",
-          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
         }
       ],
-      "duration_ms": 163637,
-      "name": "Midnight Dancer",
-      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
+      "duration_ms": 288121,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Blackout Betty",
-      "url": "https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "I Met This Girl",
         "url": "https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 199615,
       "name": "I Met This Girl",
       "url": "https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Blackout Betty",
+      "url": "https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Alexis Texas",
-        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 164441,
-      "name": "Alexis Texas",
-      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Alexis Texas",
+        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 164441,
+      "name": "Alexis Texas",
+      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03"
+        "name": "INSIGNIFICANT OTHER",
+        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 226048,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1"
+      "duration_ms": 207230,
+      "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
+      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
     }
   ],
   "unique_name": "Country Rocks",

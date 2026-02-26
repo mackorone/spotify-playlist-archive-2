@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 419145,
+  "num_followers": 419237,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABXFHHUpf9Ib/OPuCN54Mfk",
+  "snapshot_id": "aZzqAAAAAAB1NgWk/LlrL/GkCUWKXP/G",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
       "artists": [
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 162403,
-      "name": "bloodonmyhands (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/5XEiB0fnWSZpBhE2t7sumF"
+      "duration_ms": 147259,
+      "name": "rubberband",
+      "url": "https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw"
     },
     {
       "added_at": null,
@@ -459,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
       },
       "artists": [
         {
@@ -468,9 +464,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 147259,
-      "name": "rubberband",
-      "url": "https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw"
+      "duration_ms": 173765,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/47fmAJR4rBqOu2c1Vmh73f"
     },
     {
       "added_at": null,

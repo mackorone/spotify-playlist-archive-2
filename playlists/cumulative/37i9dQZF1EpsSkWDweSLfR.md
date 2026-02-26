@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-527 songs - 1 day 5 hr 25 min
+528 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2025-08-30 | 2025-09-18 |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2024-11-24 | 2024-12-10 |
 | [Dress](https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:50 | 2024-09-03 | 2024-09-24 |
+| [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 | 2026-02-25 |  |
 | [Easy](https://open.spotify.com/track/1p7K0GCeGcRexeVApuIKnN) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Hazbin Hotel: Season Two \(Original Soundtrack\)](https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm) | 1:45 | 2025-12-13 | 2025-12-17 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2025-10-02 | 2025-11-11 |
 | [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 | 2025-10-05 | 2025-10-09 |
@@ -172,7 +173,7 @@
 | [Getaway Car](https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:53 | 2024-10-10 | 2024-10-26 |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4q9C30KUZLq6UK4SWhsuoK) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:38 | 2025-04-07 | 2025-07-03 |
 | [girl i’ve always been](https://open.spotify.com/track/0bJAmhSAeMSfsyazOEUVFf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:01 | 2025-04-10 | 2025-04-14 |
-| [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 | 2025-11-16 |  |
+| [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 | 2025-11-16 | 2026-02-26 |
 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 | 2024-06-24 | 2024-07-07 |
 | [Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/39VuC5rYQHAnR6xQwm1WDk) | 3:53 | 2025-06-05 | 2025-08-19 |
 | [Glitch](https://open.spotify.com/track/6RJBrG3VHz2hPITjv88chh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 2:28 | 2025-09-02 | 2025-09-06 |

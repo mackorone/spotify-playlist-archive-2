@@ -4,10 +4,11 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-93 songs - 5 hr 24 min
+98 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Knock At The Door](https://open.spotify.com/track/1STBtZAY8upX61xEtYbkaS) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 5:24 | 2026-02-25 |  |
 | [All Your Time](https://open.spotify.com/track/7GGT3YeGtWxPgcZSG9dqh7) | [Blue Peter](https://open.spotify.com/artist/5qN5HdqAKRaGibFpEmBRlh) | [Falling](https://open.spotify.com/album/1y4awtbaJDMbceQM2JlNr6) | 4:33 | 2025-02-20 |  |
 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 | 2025-01-30 |  |
 | [ana](https://open.spotify.com/track/784vnuhAjKQcuUIKU1H0Oi) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [ana](https://open.spotify.com/album/3hiBB2EWJhnawrKJqe431c) | 3:18 | 2026-02-11 |  |
@@ -40,6 +41,7 @@
 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2025-01-30 |  |
 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 | 2026-01-28 |  |
 | [Heat of the Night](https://open.spotify.com/track/3bx8PIbzTVT9stFbbvAVD1) | [Simplistics](https://open.spotify.com/artist/591Yhaxfo5O2AQjCyltCHi) | [The Lost Masters](https://open.spotify.com/album/6pE7NoJgrgUm8nimxRtJv3) | 3:20 | 2025-02-20 |  |
+| [Hell Is Near](https://open.spotify.com/track/5tuHiLI7CPV1BI9m2Gnlph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 4:08 | 2026-02-25 |  |
 | [Hello Heartbreak](https://open.spotify.com/track/3AuOLgPgdwBzhc7ZMTtNqX) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j), [Sylvia Terry](https://open.spotify.com/artist/2UKiR14OjC3o0aTOBcAQFC) | [Hello Heartbreak](https://open.spotify.com/album/0szuw7EGWTNXofx8VxshMV) | 2:30 | 2025-02-13 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [House of the Rising Sun](https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1) | 3:08 | 2026-02-04 |  |
 | [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2026-02-11 |  |
@@ -67,6 +69,7 @@
 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 | 2025-01-30 |  |
 | [NOBODY](https://open.spotify.com/track/4PcUhNQarvbJQ3Vui6pwep) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [NOBODY](https://open.spotify.com/album/2jqWKUmzUE9xVTqlNqxdyM) | 2:41 | 2026-02-18 |  |
 | [Open Up Your Heart \(And Let The Sun Shine In\)](https://open.spotify.com/track/1Tkx3VJ6aN9EJhTpjSzPE5) | [Stuart Hamblen](https://open.spotify.com/artist/7n8QNNHYcQZwQFzQNNVmwj) | [The Very Best Of](https://open.spotify.com/album/0rAJIWMYuKwRVMYPgbCov6) | 2:36 | 2025-02-27 |  |
+| [Opr](https://open.spotify.com/track/12Ypr3PCVJ2i7Uwz93q1Vl) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Conspiracy Pt.2](https://open.spotify.com/album/3WSHoNpx7QQMcmfm26wksh) | 3:53 | 2026-02-25 |  |
 | [Pas De Deux](https://open.spotify.com/track/6qskGHKvfz9VsvQPza8ouA) | [Paul Thomas Saunders](https://open.spotify.com/artist/2Y3Lw14p4nc60FKWp5q8Ob) | [Figure in a Landscape](https://open.spotify.com/album/5qJbpAwUPlFSWEAB6x8Ee3) | 4:56 | 2026-02-04 |  |
 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 | 2025-01-30 |  |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2026-02-04 |  |
@@ -96,10 +99,12 @@
 | [Teeth](https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:09 | 2025-01-30 |  |
 | [The Elevator](https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:40 | 2025-02-27 |  |
 | [The Wheel](https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:53 | 2025-01-30 |  |
+| [to be seen](https://open.spotify.com/track/0fGzvq8KxJQhsoaX7igKGc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [flush](https://open.spotify.com/album/7kNmlZAS3dhYeuLDjBmI9D) | 3:23 | 2026-02-25 |  |
 | [Turn The TV On](https://open.spotify.com/track/1HQg5OfC2cfVO5Pv9KU0vE) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Turn The TV On](https://open.spotify.com/album/7IjALOKHOTM6RGhhXJFwPF) | 2:59 | 2026-01-28 |  |
 | [Twisted](https://open.spotify.com/track/7iuKztnKTyPLHs5LytIhiK) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Twisted](https://open.spotify.com/album/54uwp0FAQX5MPdG2ez7a1i) | 2:30 | 2025-01-30 |  |
 | [Um Um](https://open.spotify.com/track/19OGSgFYtJZIDgj7auiSvn) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 4:06 | 2025-03-06 |  |
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2025-01-30 |  |
 | [when mama used to sing](https://open.spotify.com/track/25mZEY8ibCCvzUciJ2I3uo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 2:25 | 2025-01-30 |  |
+| [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 | 2026-02-25 |  |
 
 \*This playlist was first scraped on 2025-01-31. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-127 songs - 5 hr 4 min
+128 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [About NMIXX](https://open.spotify.com/track/0Q7eJJUCar0eX0AuZuP76e) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:23 | 2022-11-24 | 2023-08-07 |
 | [About NMIXX](https://open.spotify.com/track/2KzetNBtOhhqy9DE174LAp) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:23 | 2023-07-03 |  |
 | [ADORE U](https://open.spotify.com/track/0mPYjKXaHYMPhtq0hCIkgn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 2:30 | 2025-10-14 |  |
+| [Always](https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Always](https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW) | 3:35 | 2026-02-26 |  |
 | [BEAT BEAT](https://open.spotify.com/track/3P8l7sbL5dxKlS4gcJ1qJI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:48 | 2024-10-08 |  |
 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 | 2025-10-14 |  |
 | [Blue Valentine \(A Cappella Ver.\)](https://open.spotify.com/track/6ZO7KaFkeMbl45q6UpPTBr) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i) | 3:06 | 2025-10-20 |  |

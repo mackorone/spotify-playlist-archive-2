@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Lentes de sol, una gorrita y las rolitas más hot para empezar el finde con Yeyo y Luis Díazz! 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,238 likes - 66 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,214 likes - 66 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

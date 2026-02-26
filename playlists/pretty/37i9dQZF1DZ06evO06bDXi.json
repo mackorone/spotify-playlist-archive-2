@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAjw9VPMJzcS/UajRdth1Te",
+  "snapshot_id": "aZzqAAAAAABk3612dfOzEnkP5odZ/zMg",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaldi: The Four Seasons - Violin Concertos RV 199 \"Il sospetto\", RV 356 & RV 347",
-        "url": "https://open.spotify.com/album/542DjDnA3qBtx8v2GVT6sw"
+        "name": "Works for Two Violins",
+        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
       },
       "artists": [
         {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 202533,
-      "name": "Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: I. Allegro",
-      "url": "https://open.spotify.com/track/4lr6NLlPlD5I3ZCxpg9WAT"
+      "duration_ms": 140626,
+      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
+      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
     },
     {
       "added_at": null,
@@ -423,22 +419,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Works for Two Violins",
-        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
+        "name": "Vivaldi: The Four Seasons - Violin Concertos RV 199 \"Il sospetto\", RV 356 & RV 347",
+        "url": "https://open.spotify.com/album/542DjDnA3qBtx8v2GVT6sw"
       },
       "artists": [
         {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 140626,
-      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
-      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
+      "duration_ms": 202533,
+      "name": "Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: I. Allegro",
+      "url": "https://open.spotify.com/track/4lr6NLlPlD5I3ZCxpg9WAT"
     },
     {
       "added_at": null,
@@ -739,58 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perlman & Zukerman - Duets for Two Violins",
-        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
-      },
-      "artists": [
-        {
-          "name": "Johan Halvorsen",
-          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
-      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinema Serenade",
-        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Black Orpheus: Manha de Carnaval",
-      "url": "https://open.spotify.com/track/7kWPYqfPQUZQiGOz4n9Gfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: \"Double\" Concerto for Two Violins in D minor; Violin Concertos Nos. 1 & 2 [Expanded Edition]",
         "url": "https://open.spotify.com/album/5ei1Nzj3ZmA7CnuXNNOIhX"
       },
@@ -823,6 +771,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cinema Serenade",
+        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Black Orpheus: Manha de Carnaval",
+      "url": "https://open.spotify.com/track/7kWPYqfPQUZQiGOz4n9Gfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perlman & Zukerman - Duets for Two Violins",
+        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
+      },
+      "artists": [
+        {
+          "name": "Johan Halvorsen",
+          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        }
+      ],
+      "duration_ms": 416733,
+      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
+      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kreisler: Collection",
         "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
@@ -839,78 +839,6 @@
       "duration_ms": 184440,
       "name": "Liebesfreud",
       "url": "https://open.spotify.com/track/4bgGnxb4CmEuzOcj3FKH7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paganini: Violin Concerto No.1 / Sarasate: Carmen Fantasy etc.",
-        "url": "https://open.spotify.com/album/2TuE4bck8GYdiXPAiGWTYh"
-      },
-      "artists": [
-        {
-          "name": "Pablo de Sarasate",
-          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Abbey Road Ensemble",
-          "url": "https://open.spotify.com/artist/1C5HAMTwDavVaC1zguCp0g"
-        }
-      ],
-      "duration_ms": 517706,
-      "name": "Sarasate: Zigeunerweisen, Op. 20",
-      "url": "https://open.spotify.com/track/1Owa3Ic2vpcfRCLSqa73NZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "John Williams - Greatest Hits 1969-1999",
-        "url": "https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Main Theme (From \"Schindler's List\")",
-      "url": "https://open.spotify.com/track/0oyL4K4fDTEFUbD9AHSvDc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Confluence (From \"Memoirs of a Geisha\" Soundtrack)",
-      "url": "https://open.spotify.com/track/2UrNvw9b6LKFLGbVVSHHVt"
     },
     {
       "added_at": null,
@@ -939,6 +867,78 @@
       "duration_ms": 608746,
       "name": "Brahms: Violin Concerto in D Major, Op. 77: II. Adagio",
       "url": "https://open.spotify.com/track/62BQmHEIHw9fBqB4jB7Jvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Confluence (From \"Memoirs of a Geisha\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2UrNvw9b6LKFLGbVVSHHVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "John Williams - Greatest Hits 1969-1999",
+        "url": "https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/0oyL4K4fDTEFUbD9AHSvDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: Violin Concerto No.1 / Sarasate: Carmen Fantasy etc.",
+        "url": "https://open.spotify.com/album/2TuE4bck8GYdiXPAiGWTYh"
+      },
+      "artists": [
+        {
+          "name": "Pablo de Sarasate",
+          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Abbey Road Ensemble",
+          "url": "https://open.spotify.com/artist/1C5HAMTwDavVaC1zguCp0g"
+        }
+      ],
+      "duration_ms": 517706,
+      "name": "Sarasate: Zigeunerweisen, Op. 20",
+      "url": "https://open.spotify.com/track/1Owa3Ic2vpcfRCLSqa73NZ"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 100333,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
-      "url": "https://open.spotify.com/track/7pEIKAaZYLyYc81IENw8IQ"
+      "duration_ms": 162773,
+      "name": "Going to School (From \"Memoirs of a Geisha\" Soundtrack)",
+      "url": "https://open.spotify.com/track/7DP0JcrmISMPEioK46hONz"
     },
     {
       "added_at": null,
@@ -1067,46 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 162773,
-      "name": "Going to School (From \"Memoirs of a Geisha\" Soundtrack)",
-      "url": "https://open.spotify.com/track/7DP0JcrmISMPEioK46hONz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Solo Violin Sonatas",
-        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
-      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
+      "duration_ms": 100333,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
+      "url": "https://open.spotify.com/track/7pEIKAaZYLyYc81IENw8IQ"
     },
     {
       "added_at": null,
@@ -1127,6 +1107,30 @@
       "duration_ms": 135000,
       "name": "3 Violin Duets (1996 Digital Remaster): II. Gavotte",
       "url": "https://open.spotify.com/track/0M40vjkiQFs1Vu1tJfEToY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wieniawski: Works for Violin",
+        "url": "https://open.spotify.com/album/3GEpFadKYyhjGitI2szU1p"
+      },
+      "artists": [
+        {
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 272360,
+      "name": "Wieniawski: Scherzo-tarantelle in G Minor, Op. 16",
+      "url": "https://open.spotify.com/track/0yQMA3UgzGgmL7Py3lPFCx"
     },
     {
       "added_at": null,
@@ -1155,26 +1159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wieniawski: Works for Violin",
-        "url": "https://open.spotify.com/album/3GEpFadKYyhjGitI2szU1p"
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
       },
       "artists": [
         {
-          "name": "Henryk Wieniawski",
-          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 272360,
-      "name": "Wieniawski: Scherzo-tarantelle in G Minor, Op. 16",
-      "url": "https://open.spotify.com/track/0yQMA3UgzGgmL7Py3lPFCx"
+      "duration_ms": 210373,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
+      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
     },
     {
       "added_at": null,

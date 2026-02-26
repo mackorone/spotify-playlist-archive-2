@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック　cover: Watson \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,303 songs - 4 day 20 hr 5 min
+2,304 songs - 4 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2141,6 +2141,7 @@
 | [シュビドゥバ](https://open.spotify.com/track/5xYLxhxS7wlB4fuAyDJStS) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4) | [シュビドゥバ](https://open.spotify.com/album/6jYzKCnOp0Jy8mHfvJ26cX) | 3:01 | 2026-02-03 |  |
 | [ショウナンクレイジー](https://open.spotify.com/track/00yosP1WsXVXAuSxo2lhRT) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/5vomvgQUBXwPt4YRHCizmr) | 2:30 | 2024-04-02 | 2024-04-04 |
 | [スーパースター \- Remix](https://open.spotify.com/track/0YnKtT6XBUeEFLujt0h8ok) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [Theタイマンチーズ](https://open.spotify.com/artist/3i9uM0h6SRd3Pjjk98RBiN) | [スーパースター \(Remix\)](https://open.spotify.com/album/0nM7WfidiFr5ihZoq69RGv) | 4:08 | 2024-08-15 | 2024-08-28 |
+| [スーパーレア \(feat\. 仙人掌 & Daichi Yamamoto\)](https://open.spotify.com/track/7nfBh7PkR7sWHO5kk1iPaY) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Soul Quake 3](https://open.spotify.com/album/11gMNssJtONEGPfsRuPLKg) | 2:41 | 2026-02-25 |  |
 | [ソールとSoul](https://open.spotify.com/track/5B2riCpFmUMebY1W9eABPj) | [TKdaKurobuchi](https://open.spotify.com/artist/3YeqRPuVdUg4RbLJkIMrY8), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [ソールとSoul](https://open.spotify.com/album/3AizpdSBOGiEqkSKGrbGfd) | 2:22 | 2023-11-22 | 2023-11-23 |
 | [チェーンが歌う](https://open.spotify.com/track/4BEhFnBkQqEPtk96lXEOgr) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [チェーンが歌う](https://open.spotify.com/album/0QemDOdiQYr6HpvSSRJUH4) | 2:35 | 2025-03-19 | 2025-03-26 |
 | [チャラくないワンナイト](https://open.spotify.com/track/1v9J5QOMejdUCE6oSoUXGo) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [チャラくないワンナイト](https://open.spotify.com/album/7oKEGCLaTgkAhEuqy8s3hZ) | 2:56 | 2024-04-24 | 2024-05-08 |

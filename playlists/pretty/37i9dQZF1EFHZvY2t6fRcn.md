@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 154 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 704 likes - 154 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 79 | [DON'T GO](https://open.spotify.com/track/6MkhaNziqglynUlHoyTyXD) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:27 |
 | 80 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 |
 | 81 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 |
-| 82 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 |
-| 83 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 |
+| 82 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 |
+| 83 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 |
 | 84 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
 | 85 | [Necklace](https://open.spotify.com/track/1rlCBDWf8IOv4Yzq7QQNUD) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 3:32 |
 | 86 | [WhatsInIt4Me](https://open.spotify.com/track/6mjnnbzOvYjlKWIlnT6lff) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [WhatsInIt4Me](https://open.spotify.com/album/7xZDLjNaD5tLuQuJKoUvfF) | 2:15 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 127 | [Back By The Weekend](https://open.spotify.com/track/0MXT2vbV2ZN4xlc42eTfaN) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/7p39ds80ogjiV3fOb8FMDO) | 2:55 |
 | 128 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 |
 | 129 | [THE UNIVERSE](https://open.spotify.com/track/1MsC4r2rLGULtETHuKC0YY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:06 |
-| 130 | [FWMM](https://open.spotify.com/track/32EYQDXyv12fdeOousjeAd) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 3:25 |
-| 131 | [THE LIMIT](https://open.spotify.com/track/6EPvMw1tSW3DLtvY19v4pY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:04 |
+| 130 | [THE LIMIT](https://open.spotify.com/track/6EPvMw1tSW3DLtvY19v4pY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:04 |
+| 131 | [FWMM](https://open.spotify.com/track/32EYQDXyv12fdeOousjeAd) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 3:25 |
 | 132 | [Hot](https://open.spotify.com/track/17NTv6hcvFtARMyxdDXUI5) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:49 |
 | 133 | [Small Talk](https://open.spotify.com/track/1yZ4DgpOllcy8ylgOLGKMy) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:15 |
 | 134 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 153 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 | 154 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 
-Snapshot ID: `AcKjygAAAADk8t2zQ2o/6UugTLVDQ2uZ`
+Snapshot ID: `AcKpagAAAAAvB0e+GAUrLItjo8ZaIWxJ`

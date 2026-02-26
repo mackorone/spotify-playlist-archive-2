@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 5259,
+  "num_followers": 5262,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADhxVW/CsuYR0zvDlHgqDmZ",
+  "snapshot_id": "aZzqAAAAAABZPe9uoP98F/27FQpw9Wig",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 238610,
       "name": "We Need You",
       "url": "https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heavens Are Telling",
-        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 403906,
-      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
-      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Me",
         "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
@@ -719,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+        "name": "The Heavens Are Telling",
+        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+      "duration_ms": 403906,
+      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
+      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
       "duration_ms": 238733,
       "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
       "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
     },
     {
       "added_at": null,
@@ -935,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+        "name": "GRACELAND (Deluxe)",
+        "url": "https://open.spotify.com/album/6nm8tTmroGHi4nxsqcAmPQ"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 209927,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
+      "duration_ms": 334640,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/54IEqN27jsWFRIKstqk9Fg"
     },
     {
       "added_at": null,
@@ -967,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND (Deluxe)",
-        "url": "https://open.spotify.com/album/6nm8tTmroGHi4nxsqcAmPQ"
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 334640,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/54IEqN27jsWFRIKstqk9Fg"
+      "duration_ms": 209927,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Song",
-        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 307960,
-      "name": "All Glory",
-      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
       },
@@ -1051,8 +1031,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Owe You",
-        "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 307960,
+      "name": "All Glory",
+      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 172693,
-      "name": "All I Am",
-      "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
+      "duration_ms": 182533,
+      "name": "Wave Your Banner",
+      "url": "https://open.spotify.com/track/55uc68Rku0EI2lTwvDHhoq"
     },
     {
       "added_at": null,
@@ -1087,8 +1087,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bold Right Life",
-        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+        "name": "I Owe You",
+        "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Wave Your Banner",
-      "url": "https://open.spotify.com/track/55uc68Rku0EI2lTwvDHhoq"
+      "duration_ms": 172693,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
     },
     {
       "added_at": null,
@@ -1119,22 +1119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
       },
       "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 315533,
-      "name": "Somehow (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
+      "duration_ms": 229840,
+      "name": "Praise Him Now",
+      "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

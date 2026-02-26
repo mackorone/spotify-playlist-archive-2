@@ -4,7 +4,7 @@
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-87 songs - 6 hr 3 min
+88 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bailando Con la Muerte](https://open.spotify.com/track/2vkh4fXp3muk6hgOP7luSu) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 6:39 | 2023-11-10 | 2025-06-03 |
 | [Biscochologo](https://open.spotify.com/track/1IGSqwLXLvTGKolG0TvinU) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 5:20 | 2023-11-10 | 2025-06-05 |
 | [Biscochologo](https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C) | 5:20 | 2025-06-05 |  |
-| [Cagapalos](https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [GH](https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:53 | 2025-05-30 |  |
+| [Cagapalos](https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [GH](https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:53 | 2025-05-30 | 2026-02-26 |
 | [Caramelo](https://open.spotify.com/track/4CsFaJKLoZX16bWgpv8Q6P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 4:14 | 2024-03-26 | 2025-03-17 |
 | [Celoso Enfermo](https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 6:44 | 2024-05-15 | 2025-05-18 |
 | [Como Borrar Tus Besos](https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Seguimos Fumando](https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO) | 3:43 | 2023-11-10 |  |
@@ -89,6 +89,7 @@
 | [Si Tuviera una Fortuna](https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:16 | 2023-11-10 | 2025-06-03 |
 | [Solo Mintio](https://open.spotify.com/track/28SOEtquasClOf55g4PA6N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:14 | 2023-11-10 |  |
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2023-11-10 |  |
+| [TOP TOP \(feat\. MC Davo\)](https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [TOP TOP \(feat\. MC Davo\)](https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI) | 6:02 | 2026-02-26 |  |
 | [Troca Mamalona \(feat\. Eme Malafe\)](https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS) | [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Troca Mamalona \(feat\. Eme Malafe\)](https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2) | 3:43 | 2024-07-27 | 2025-04-22 |
 | [Un Minuto](https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Un Minuto](https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9) | 1:00 | 2024-03-03 |  |
 | [Una Madre Llora](https://open.spotify.com/track/6YT9Q9zhziCCy9lCL4NMNw) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Una Madre Llora](https://open.spotify.com/album/0PYFde6TvdgoNlERpFDl4n) | 2:34 | 2023-11-10 | 2023-12-14 |

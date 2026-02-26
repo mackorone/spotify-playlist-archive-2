@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Abdelrahman. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Namak. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Akhir mra andwi 3lik",
       "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 206808,
       "name": "BY NIGHT",
       "url": "https://open.spotify.com/track/5hXkNiIGBafBId7qYdm8Il"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 159025,
       "name": "HBALI",
       "url": "https://open.spotify.com/track/4g7Z4HhwHObaDpWS1waRVQ"
@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 192000,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/7fJmXNZdsKGFF20GqcE8gL"
@@ -4294,7 +4294,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 222812,
       "name": "Lwad Wadi",
       "url": "https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE"
@@ -4356,7 +4356,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 189296,
       "name": "MACHAKIL",
       "url": "https://open.spotify.com/track/7rIdxYO8Xiecb5frtZMqF2"
@@ -5000,6 +5000,24 @@
       "duration_ms": 213600,
       "name": "Motivational Quote",
       "url": "https://open.spotify.com/track/4MhpTyGa1IH01zlFuy99aN"
+    },
+    {
+      "album": {
+        "name": "MOUKA",
+        "url": "https://open.spotify.com/album/5dZ6vjmnu2I1TPBBFXOlgi"
+      },
+      "artists": [
+        {
+          "name": "AyeLee",
+          "url": "https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161167,
+      "name": "MOUKA",
+      "url": "https://open.spotify.com/track/4hAmFaqmjlpx5guTASQzAJ"
     },
     {
       "album": {
@@ -8396,7 +8414,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 172721,
       "name": "Zaymat",
       "url": "https://open.spotify.com/track/47OlWN8ccCht8FVRWJJSOR"

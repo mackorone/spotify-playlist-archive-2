@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 洪佩瑜 \(Pei\-Yu Hung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,546 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,558 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [It's My Turn（电视剧《轧戏》破茧曲）](https://open.spotify.com/track/26iHGnBRdggfQzKWZ5MEEZ) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [It's My Turn（电视剧《轧戏》破茧曲）](https://open.spotify.com/album/5NHtVIREjAnkGZn7uV4IAi) | 3:10 |
 | 50 | [I Need You](https://open.spotify.com/track/5Y4hnt7Bhb8wEHaFiMe7wM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [I Need You](https://open.spotify.com/album/70DwTJKNdP3KNrYrb6N7gh) | 3:27 |
 
-Snapshot ID: `AAAAAEYK7QNdSmQanGgNrsBSYe4EzR8S`
+Snapshot ID: `AAAAALGSJB1aUHOs82VLL1ZP2dxK9QsC`

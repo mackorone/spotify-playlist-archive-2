@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,733 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,753 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 17 | [Where Is My Mind?](https://open.spotify.com/track/7u8NZWQCATJSAKLMAPyEEw) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL) | [Where Is My Mind?](https://open.spotify.com/album/3mHDu2a1vXj5MxenG0rL0O) | 2:34 |
 | 18 | [Waves Of Silence](https://open.spotify.com/track/4x5Qpwgl85O8k7YHecpFYM) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Waves Of Silence](https://open.spotify.com/album/4TLl8qxwa6TleRRz8dXQLc) | 3:46 |
 | 19 | [Messy](https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Messy](https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6) | 4:22 |
-| 20 | [Kumeleli](https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Zamna Soundsystem](https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT) | [Kumeleli](https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z) | 5:24 |
+| 20 | [Kumeleli](https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [zss](https://open.spotify.com/artist/0997972c1IG9I5mtbb4oHe), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT) | [Kumeleli](https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z) | 5:24 |
 | 21 | [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 |
 | 22 | [Bate Forte](https://open.spotify.com/track/5JtgGyGIt2gthKjO8YI7Es) | [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa), [Barka](https://open.spotify.com/artist/7Fi2btFUsAr8bbZ1BzpIac) | [Bate Forte](https://open.spotify.com/album/0SrGCY80zvrjTLDUaPxIw2) | 3:52 |
 | 23 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |

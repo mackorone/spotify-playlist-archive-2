@@ -6980,12 +6980,12 @@
       },
       "artists": [
         {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
           "name": "Kompany",
           "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
         }
       ],
       "date_added": "2026-02-06",

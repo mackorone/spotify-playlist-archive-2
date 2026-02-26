@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 밍기뉴 \(Mingginyu\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 예빛 \(Yebit\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-659 songs - 1 day 14 hr 46 min
+661 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [40 Something](https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [40 Something / Those Unready Years](https://open.spotify.com/album/0FS5czCk4kQGqovOzd9qTg) | 4:07 | 2025-12-04 | 2026-01-27 |
 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 | 2024-10-16 |  |
 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 | 2024-08-22 | 2024-09-04 |
-| [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 | 2026-02-25 |
+| [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 |  |
 | [91](https://open.spotify.com/track/6VtUPmVBAJopwwMWImn252) | [지지](https://open.spotify.com/artist/1KMV5fnQtl2BbKNeQjhoqh) | [The long night is](https://open.spotify.com/album/7AhycLtXrX5cqPaw65zC7j) | 3:18 | 2025-02-18 | 2025-03-15 |
 | [A change of heart](https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU) | [on\_poem](https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL) | [A change of heart](https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY) | 3:25 | 2022-01-13 | 2022-04-20 |
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
@@ -115,6 +115,7 @@
 | [Dawn](https://open.spotify.com/track/5zbTSY9o6rRNbcoN2yPosM) | [Chance](https://open.spotify.com/artist/4qtH69NwjHUulLj4verBCJ) | [Dawn](https://open.spotify.com/album/0fL3Kkh9t8rv1BkpckEqHD) | 3:29 | 2021-12-10 | 2022-04-16 |
 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 | 2024-08-12 | 2024-09-04 |
 | [Deadline](https://open.spotify.com/track/1jIeeKf8N3UXLct7FI0VQy) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:19 | 2022-03-31 | 2022-04-17 |
+| [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 |  |
 | [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 | 2025-11-29 |
 | [Dear DRan](https://open.spotify.com/track/5HiBQsMNcVehiKNUFiRsyu) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha), [무성](https://open.spotify.com/artist/4kYzRUks4PPzWaPQU8wMY9) | [Dear DRan](https://open.spotify.com/album/1ftozu6DmZ4J3OlPrjJFTn) | 3:11 | 2022-03-31 | 2022-06-07 |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
@@ -181,7 +182,7 @@
 | [Get Some Rest](https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Trip: playlist \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/1t8sSIbYtla3EA86W4Dkzs) | 2:42 | 2024-03-06 | 2024-03-16 |
 | [Getaway](https://open.spotify.com/track/4Cb6AY4bjiSz6zIJmK2gWD) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Getaway](https://open.spotify.com/album/1UDjEv6O7uO6Mq9IQ3regW) | 1:56 | 2025-12-19 | 2026-01-15 |
 | [Gift](https://open.spotify.com/track/768qjgYUQghPWwiB7bOO8v) | [LEE JINJAE](https://open.spotify.com/artist/1i1n72fBCccroesjc4QJy6), [Lee Hyun Seok](https://open.spotify.com/artist/3hwqsPYE2apLL7pqeG8mvZ) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/32wtvoiec5kgcVZxJ3rWHV) | 3:22 | 2025-08-18 | 2025-08-21 |
-| [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 | 2026-02-20 |  |
+| [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 | 2026-02-20 | 2026-02-26 |
 | [Going Home](https://open.spotify.com/track/2XgJawz0ICRWPMu6fLUM18) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [School 2017, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TNyLDNbnUnxnoLTS8pouH) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-12-10 | 2024-09-03 |
 | [GONE BY THE MORNING](https://open.spotify.com/track/0KlY3QwVmVZnW4fcuqoccY) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 2:09 | 2021-12-10 | 2022-06-07 |
@@ -217,7 +218,7 @@
 | [Hospital](https://open.spotify.com/track/3TUJnv0USMSgUPtCHABe56) | [saram tto saram](https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT) | [the adult world](https://open.spotify.com/album/13V7PnYmzy7WWi1gIO2Cgj) | 3:19 | 2024-09-04 | 2024-09-18 |
 | [Hotels on the moon](https://open.spotify.com/track/39coYcIduCaqxFzq3LDYt3) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [citygodok](https://open.spotify.com/artist/61oCeImNWjf4x7hWo5NWEr) | [STORY\#20](https://open.spotify.com/album/5uelqrTP8JFBoweWwPY4tv) | 2:35 | 2022-06-18 | 2022-07-05 |
 | [how do i](https://open.spotify.com/track/0RNXXh47lufWmSro2CbsQh) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [bandages](https://open.spotify.com/album/1UZLvFGY6S1xSZJ8wnhnZW) | 3:34 | 2021-12-10 | 2022-07-28 |
-| [How do I let you go](https://open.spotify.com/track/0nRoTskwRuvzofpLPxyIJ6) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Wandering Hearts](https://open.spotify.com/album/0xpj1qJhSy8Oc9XDQeNoRS) | 4:07 | 2026-02-20 |  |
+| [How do I let you go](https://open.spotify.com/track/0nRoTskwRuvzofpLPxyIJ6) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Wandering Hearts](https://open.spotify.com/album/0xpj1qJhSy8Oc9XDQeNoRS) | 4:07 | 2026-02-20 | 2026-02-26 |
 | [How Is Your Night](https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/0fbVHkoxzHbm6RDa9IOUGC) | 4:23 | 2021-12-10 | 2022-07-29 |
 | [How We Love](https://open.spotify.com/track/56xHqA7d3JQ42tcRwTSrmY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [How We Love](https://open.spotify.com/album/3iYH8OOOyP1cvZFcIOHrO0) | 2:41 | 2025-09-24 | 2025-10-10 |
 | [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 | 2022-07-08 | 2024-04-19 |
@@ -552,6 +553,7 @@
 | [TOO BAD](https://open.spotify.com/track/0yhDAYlysiK5lq9ySgn4dN) | [Oat](https://open.spotify.com/artist/4NkRzcwVz9DvvwZZ5GSSkV) | [TOO BAD](https://open.spotify.com/album/2kFqO3w4k7VrSfjoaniaeQ) | 3:11 | 2022-01-13 | 2022-04-20 |
 | [TOY \(feat\. siso\)](https://open.spotify.com/track/6Bx7apRrdwLAKycZ7EOVi7) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [TOY](https://open.spotify.com/album/3PNZqV1nTzc5oaFIZS0Igj) | 3:11 | 2023-12-20 | 2024-01-05 |
 | [traveler](https://open.spotify.com/track/63QYGp2ZTqDrEhNWGAnURD) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [traveler](https://open.spotify.com/album/3BdDUdLi5aqP4okLiglLfb) | 2:28 | 2024-04-09 | 2024-04-19 |
+| [Traveler](https://open.spotify.com/track/1chEJRDNKoN7w4vpKeaEp4) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Traveler](https://open.spotify.com/album/68cUet7KWWm4U1ageThcKz) | 4:12 | 2026-02-25 |  |
 | [Tropical night](https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk) | [여동생](https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1) | [Tropical night](https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK) | 5:11 | 2022-07-08 | 2022-08-10 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-04-12 | 2022-04-21 |
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-03 | 2022-05-12 |
@@ -609,7 +611,7 @@
 | [Worry Monster](https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [Worry Monster](https://open.spotify.com/album/0DxeZn68faBLSdUZeoPLDv) | 2:47 | 2025-09-22 | 2025-10-14 |
 | [YaYaYa](https://open.spotify.com/track/3PiLrChGqJRReYYsBwGxEh) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [YaYaYa](https://open.spotify.com/album/2zmNxt0yfxyOjPvHQgpq9j) | 2:47 | 2025-09-01 | 2025-09-23 |
 | [yellow flower](https://open.spotify.com/track/4zgtv325Jmhf4ZWhChaPfu) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [yellow flower](https://open.spotify.com/album/2mfAhk6glwWiONPKoIL1zW) | 3:01 | 2024-06-27 | 2024-07-12 |
-| [Yeonnam\-dong](https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Yeonnam\-dong](https://open.spotify.com/album/6gUBc1UThDuJiksqMxo43l) | 2:35 | 2026-02-13 |  |
+| [Yeonnam\-dong](https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Yeonnam\-dong](https://open.spotify.com/album/6gUBc1UThDuJiksqMxo43l) | 2:35 | 2026-02-13 | 2026-02-26 |
 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 | 2021-12-10 | 2024-05-09 |
 | [you](https://open.spotify.com/track/4ZmFkakOVJNmHdmqQqYlVm) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [serenader](https://open.spotify.com/album/1zEO7f3WhdQUWBBX0xwK8g) | 3:52 | 2024-11-22 | 2024-12-06 |
 | [You are](https://open.spotify.com/track/05dg8ZW2BZYJEPlUJYogXU) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [You are](https://open.spotify.com/album/6Y7YRK2kyPKybM9Ue1RrHI) | 2:53 | 2024-07-11 | 2024-07-24 |

@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Elsa y Elmar.",
-  "num_followers": 747686,
+  "num_followers": 747678,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "aunquetelopida",
-        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
-        }
-      ],
-      "duration_ms": 180631,
-      "name": "aunquetelopida",
-      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "PIKI",
         "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 259867,
       "name": "PIKI",
       "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "aunquetelopida",
+        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        }
+      ],
+      "duration_ms": 180631,
+      "name": "aunquetelopida",
+      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Mil Noches",
-        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
+        "name": "HOY NO TRABAJO",
+        "url": "https://open.spotify.com/album/5hdRkMghtquoZK9RFeY5m0"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
         }
       ],
-      "duration_ms": 164584,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
+      "duration_ms": 180000,
+      "name": "HOY NO TRABAJO",
+      "url": "https://open.spotify.com/track/4wtpYqV7ZHXBmwRkWKsx7V"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "HOY NO TRABAJO",
-        "url": "https://open.spotify.com/album/5hdRkMghtquoZK9RFeY5m0"
+        "name": "Mil Noches",
+        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
       },
       "artists": [
         {
-          "name": "OMAY",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 180000,
-      "name": "HOY NO TRABAJO",
-      "url": "https://open.spotify.com/track/4wtpYqV7ZHXBmwRkWKsx7V"
+      "duration_ms": 164584,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
         "name": "Pinta Bonito",
         "url": "https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 216677,
       "name": "Pinta Bonito",
       "url": "https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
-        "name": "otro d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 151264,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
         "name": "karma",
         "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 150960,
       "name": "karma",
       "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "EL QUE NO LLORA NO MAMA",
-        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
-      },
-      "artists": [
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "ME TEN\u00cdA QUE PASAR",
-      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "Aguar\u00e1chate",
         "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 156714,
       "name": "Aguar\u00e1chate",
       "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "EL QUE NO LLORA NO MAMA",
+        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "ME TEN\u00cdA QUE PASAR",
+      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Solo T\u00fa",
-        "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "Vida Nueva",
         "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 169375,
       "name": "Vida Nueva",
       "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
+        "name": "Amor.illo",
+        "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
+      },
+      "artists": [
+        {
+          "name": "Louie El Ser",
+          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
+        },
+        {
+          "name": "Tommie Phoenix",
+          "url": "https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk"
+        }
+      ],
+      "duration_ms": 193939,
+      "name": "Amor.illo",
+      "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
         "name": "El \u00fanico ser sin talento",
         "url": "https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 172840,
       "name": "EL OTRO T\u00da",
       "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
-        "name": "Amor.illo",
-        "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
-      },
-      "artists": [
-        {
-          "name": "Louie El Ser",
-          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
-        },
-        {
-          "name": "Tommie Phoenix",
-          "url": "https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk"
-        }
-      ],
-      "duration_ms": 193939,
-      "name": "Amor.illo",
-      "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
     },
     {
       "added_at": "2026-02-20 05:00:47",

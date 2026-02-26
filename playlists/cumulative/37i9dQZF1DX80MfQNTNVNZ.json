@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 192645,
       "name": "Back To Myself",
       "url": "https://open.spotify.com/track/59zFUuITYyRfbkuaFRKO7W"
@@ -2754,6 +2754,28 @@
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
+    },
+    {
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Tom McFarland",
+          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199477,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
     },
     {
       "album": {
@@ -5332,7 +5354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 208355,
       "name": "It\u2019s All Love (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/4E3KtwZMFrikOc4k0mQToP"
@@ -10924,6 +10946,28 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
     },
     {
       "album": {

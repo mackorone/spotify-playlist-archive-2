@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 154729,
+  "num_followers": 154721,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "With Or Without You - Remastered 2007",
+      "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 232906,
       "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "With Or Without You - Remastered 2007",
-      "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 403453,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "I love you",
         "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "Comeblack",
-        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 403453,
-      "name": "Still Loving You",
-      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
     },
     {
       "added_at": "2026-02-06 18:20:07",

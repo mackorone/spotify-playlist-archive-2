@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,782 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,800 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 37 | [La vida entera](https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [La vida entera](https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH) | 3:48 |
 | 38 | [Al Doblar la Esquina](https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 2:54 |
 | 39 | [La LLamada](https://open.spotify.com/track/1fAGyap6nJcPEyMeVXbekV) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 5:58 |
-| 40 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
-| 41 | [Hoy Como Ayer](https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Hoy Como Ayer](https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4) | 4:32 |
+| 40 | [Hoy Como Ayer](https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Hoy Como Ayer](https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4) | 4:32 |
+| 41 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
 | 42 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 |
 | 43 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
 | 44 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 |

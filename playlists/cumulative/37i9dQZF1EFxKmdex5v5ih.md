@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-543 songs - 1 day 5 hr 49 min
+544 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,8 @@
 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 | 2025-10-13 | 2025-10-24 |
 | [Sand](https://open.spotify.com/track/7lcptQMdfkgUAQ3Ek83K5V) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 3:39 | 2023-12-13 |  |
 | [Santa For Someone](https://open.spotify.com/track/4HA7nkHape0n3pE579irkO) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Gift Of Love](https://open.spotify.com/album/4RpetlbDDEMU1nFLSdG9m5) | 3:23 | 2025-01-09 |  |
-| [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 | 2021-12-27 |  |
+| [Save Myself](https://open.spotify.com/track/0ea611uWUlkjPLmnsO20VM) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/57KvhLdbABnDYcOZ6l1FWJ) | 3:44 | 2026-02-25 |  |
+| [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 | 2021-12-27 | 2026-02-26 |
 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 | 2021-12-27 |  |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 | 2021-12-27 |  |
 | [Se Dig Græde](https://open.spotify.com/track/3HkAJYKTQ8D2MXbbu5N8XH) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd) | 1:53 | 2023-04-14 |  |

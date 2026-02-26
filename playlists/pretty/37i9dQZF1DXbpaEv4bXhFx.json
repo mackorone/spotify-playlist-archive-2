@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17278,
+  "num_followers": 17279,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
-        "name": "Can We Talk Again",
-        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Can We Talk Again",
-      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
-    },
-    {
-      "added_at": "2025-11-04 06:45:24",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 215000,
       "name": "My Ceiling Disappeared",
       "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
+    },
+    {
+      "added_at": "2025-11-04 06:45:24",
+      "album": {
+        "name": "Can We Talk Again",
+        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Can We Talk Again",
+      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
     },
     {
       "added_at": "2025-11-04 06:45:24",
@@ -843,18 +843,22 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
-        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+        "name": "Burn the Memory",
+        "url": "https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW"
       },
       "artists": [
         {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+          "name": "seizetheday",
+          "url": "https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB"
+        },
+        {
+          "name": "EZ Kim",
+          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
+      "duration_ms": 211061,
+      "name": "With an Umbrella (feat. EZ Kim)",
+      "url": "https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",

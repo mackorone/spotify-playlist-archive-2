@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 25 | [Sunkiss](https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cerulean Verge](https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R) | 2:58 |
 | 26 | [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 |
 | 27 | [Let it Lie](https://open.spotify.com/track/7gT2JSjZWWw1EvZfnuFie4) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let it Lie](https://open.spotify.com/album/5KYxtISj2XF8yd14w2r25S) | 2:32 |
-| 28 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 |
-| 29 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 |
+| 28 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 |
+| 29 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 |
 | 30 | [Faccio un casino](https://open.spotify.com/track/1knOlvwv1A6AVadKwM2UR8) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/1r3kQVZ87tRU00QVzvN0oO) | 2:53 |
 | 31 | [Echoes](https://open.spotify.com/track/3UXZT8ySbWDR5lwD9MS2KM) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Atmosphere](https://open.spotify.com/album/483EKCZkSrdOZ5dEsew7sV) | 3:20 |
 | 32 | [Gemini](https://open.spotify.com/track/5pmafQfCSF9y6jVUhiaR7I) | [Brynn](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 69 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 70 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 
-Snapshot ID: `AcKjygAAAAD90txL7Mw+K6mDkkJXgm/X`
+Snapshot ID: `AcKpagAAAABKznra1LGVhR+bw9V+JqLZ`

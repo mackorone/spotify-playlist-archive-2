@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Moby
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,536 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,585 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 9 | [Disque](https://open.spotify.com/track/0bF68n7iG7JYOgAeCIUBei) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Disque](https://open.spotify.com/album/2nGu7fJJjdqso0JFZeqSES) | 3:20 |
 | 10 | [A Thousand Steps](https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:06 |
 | 11 | [Riksarkivet](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Sentimental Value](https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO) | 3:17 |
-| 12 | [09:26](https://open.spotify.com/track/1LSwdZTx7nXBKEI4YVzJtG) | [Aliia Sagitova](https://open.spotify.com/artist/3RbOhVbARP5rYTYhsnd5MY), [Aliya Lark](https://open.spotify.com/artist/18EN9b3WNNScIQdNnyHuTY) | [Fleeting Moments](https://open.spotify.com/album/5Vlxy8mPhwGrN3YdYmGaba) | 2:19 |
+| 12 | [09:26](https://open.spotify.com/track/1LSwdZTx7nXBKEI4YVzJtG) | [Aliya Lark](https://open.spotify.com/artist/18EN9b3WNNScIQdNnyHuTY) | [Fleeting Moments](https://open.spotify.com/album/5Vlxy8mPhwGrN3YdYmGaba) | 2:17 |
 | 13 | [BEAMS](https://open.spotify.com/track/4ITZWlrroLXgMj9K3jvZPG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [BEAMS](https://open.spotify.com/album/4KVRLz2Vwc2bQNhoKudhTt) | 1:44 |
 | 14 | [Yucon](https://open.spotify.com/track/58QASUiIYdw8JzCduRhhEF) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Evaporator](https://open.spotify.com/album/0uB9jp5XGssp3jbEpWdSId) | 2:49 |
 | 15 | [Echoes of the Harvest](https://open.spotify.com/track/3RE30sSk1lwUe3fO52IMLu) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Karakoz](https://open.spotify.com/album/4mb2GTQ6yrWf4Tj8U2t6e3) | 5:47 |

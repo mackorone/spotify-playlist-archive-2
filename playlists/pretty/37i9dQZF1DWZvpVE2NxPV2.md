@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,334 likes - 180 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,359 likes - 180 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 179 | [Oceanside](https://open.spotify.com/track/1DfD1xXwSjleVWRZXSFjuW) | [Wings Of Silk](https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny) | [Oceanside](https://open.spotify.com/album/3UYWj2lQc2S6nZ6Ym5heWK) | 2:47 |
 | 180 | [Eternity Present](https://open.spotify.com/track/6cbiH9ayUzdB3AZsO9GdNs) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Lotus River](https://open.spotify.com/album/1E6wsfpKLEbiDmd5j3ea0b) | 2:30 |
 
-Snapshot ID: `AAAAAJ61jdmoCkRMEC43G10vZdxSbWm9`
+Snapshot ID: `AAAAADWEF0R5Emzu/qtWVH0qqjowACZJ`

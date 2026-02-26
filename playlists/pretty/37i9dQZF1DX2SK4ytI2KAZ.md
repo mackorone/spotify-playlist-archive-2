@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,982 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,970 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 76 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 |
 | 77 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 |
 | 78 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 |
-| 79 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 |
-| 80 | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 |
+| 79 | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 |
+| 80 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 |
 | 81 | [Conceited](https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Conceited](https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp) | 3:59 |
 | 82 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
 | 83 | [Control](https://open.spotify.com/track/6TDl9RlC2udRlAyxDwEm7H) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/05eCZ53ezt3hInqJu980ro) | 3:04 |
@@ -100,16 +100,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 90 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
 | 91 | [Yesterday's World](https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 4:06 |
 | 92 | [Subliminal](https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Subliminal](https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj) | 2:45 |
-| 93 | [WHAT THE HELL](https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 2:52 |
-| 94 | [My Love](https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 3:51 |
+| 93 | [My Love](https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 3:51 |
+| 94 | [WHAT THE HELL](https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 2:52 |
 | 95 | [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
 | 96 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
 | 97 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
 | 98 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
 | 99 | [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 |
 | 100 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
-| 101 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
-| 102 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 |
+| 101 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 |
+| 102 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
 | 103 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 104 | [Along For The Ride](https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 2:57 |
 | 105 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 |

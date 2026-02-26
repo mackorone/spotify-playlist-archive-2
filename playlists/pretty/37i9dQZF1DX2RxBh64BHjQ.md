@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3TvL95zdOZWkMbkvfJ8cCk">H3adband</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,741,814 likes - 99 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,741,662 likes - 99 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 15 | [MVP](https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Migo In America](https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw) | 1:43 |
 | 16 | [Hard ES](https://open.spotify.com/track/0q98r6GiZsMR6rpgEM5Gux) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Hard ES](https://open.spotify.com/album/17iLQLJuFl38h3ql5RMO2Z) | 2:24 |
 | 17 | [6\-7](https://open.spotify.com/track/4yeaLItxF75bCI5KraoQcg) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [6\-7](https://open.spotify.com/album/6A6ecn2V1HauLX2Z57Mcud) | 1:28 |
-| 18 | [Handsome, Young & Paid](https://open.spotify.com/track/1UF1zg8o6ECx6ZGPFe0oh3) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Handsome, Young & Paid](https://open.spotify.com/album/4o2LIPQQLxIW1hu6H2gFYJ) | 2:24 |
-| 19 | [Thick One \(with Skilla Baby\)](https://open.spotify.com/track/5t2aXsdHmumN4Sb4z1oR6T) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:49 |
-| 20 | [On My Own](https://open.spotify.com/track/381ZchHz1RGQDMpa4joKTF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [On My Own](https://open.spotify.com/album/6OL6ERT5xuNLdy79B611vQ) | 2:46 |
-| 21 | [Kriss Vecc](https://open.spotify.com/track/3vJxspQ5ZqrCpZgV1FX9wf) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:45 |
-| 22 | [Fine Shit](https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Fine Shit](https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw) | 1:53 |
-| 23 | [Ring Ring Ring](https://open.spotify.com/track/21pPbfE4QD8wcHTK1DpWpL) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [McKenzie](https://open.spotify.com/album/5ct6EExt5G0b2ifKu2lGMy) | 2:08 |
-| 24 | [Hood](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
+| 18 | [Da Problem Solva](https://open.spotify.com/track/6dXdZKMIWP78xQg2aMl89C) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi) | [Clique City Vol\. 2](https://open.spotify.com/album/4StdrWDWy5MZRIjTl4Mtsm) | 2:20 |
+| 19 | [Handsome, Young & Paid](https://open.spotify.com/track/1UF1zg8o6ECx6ZGPFe0oh3) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Handsome, Young & Paid](https://open.spotify.com/album/4o2LIPQQLxIW1hu6H2gFYJ) | 2:24 |
+| 20 | [Thick One \(with Skilla Baby\)](https://open.spotify.com/track/5t2aXsdHmumN4Sb4z1oR6T) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:49 |
+| 21 | [On My Own](https://open.spotify.com/track/381ZchHz1RGQDMpa4joKTF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [On My Own](https://open.spotify.com/album/6OL6ERT5xuNLdy79B611vQ) | 2:46 |
+| 22 | [Kriss Vecc](https://open.spotify.com/track/3vJxspQ5ZqrCpZgV1FX9wf) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:45 |
+| 23 | [Fine Shit](https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Fine Shit](https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw) | 1:53 |
+| 24 | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
 | 25 | [24Hrs](https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [B4EM](https://open.spotify.com/album/76KktSsWxhgtpasWmW5WZn) | 3:13 |
 | 26 | [Championship Ring](https://open.spotify.com/track/5fr1N3Ihosj74JEK6sq4S0) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [I Want Blood](https://open.spotify.com/album/4kJFfOgwJS9iiMdH3YztWM) | 3:41 |
 | 27 | [Supreme Sanders](https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Supreme Sanders](https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la) | 2:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
 | 99 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
 
-Snapshot ID: `AAAAAFnoKJ3HrH4yIbaZqAPbWa7e2FsN`
+Snapshot ID: `AAAAAFHDHwHLbtXCziM/FK14z2GjUK+S`

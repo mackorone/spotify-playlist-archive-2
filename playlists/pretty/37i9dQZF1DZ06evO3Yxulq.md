@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,662 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,665 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 39 | [Ancla](https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A) | 8:19 |
 | 40 | [Ruge](https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:27 |
 | 41 | [Cristo Es Necesario](https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 4:05 |
-| 42 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 |
-| 43 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
+| 42 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
+| 43 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 |
 | 44 | [Seguirte](https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:38 |
 | 45 | [Por la Eternidad](https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO) | 4:26 |
 | 46 | [El Gran Nombre del Señor](https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 4:29 |
 | 47 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
 | 48 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:02 |
 | 49 | [Hasta Poder Ver](https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP) | 5:09 |
-| 50 | [Seguirte](https://open.spotify.com/track/0uePpsPVMmMPyvTmGrnFAn) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:09 |
+| 50 | [Promesas No Fallarán \(En Vivo\)](https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 5:05 |
 
-Snapshot ID: `aZuYgAAAAACva4RAo2u0zrmi8LweLAKL`
+Snapshot ID: `aZzqAAAAAABybAKWJ/6UdXvmWJi3bTd0`

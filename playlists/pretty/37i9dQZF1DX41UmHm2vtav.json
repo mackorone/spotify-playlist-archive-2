@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 503619,
+  "num_followers": 503647,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Colombina",
+        "url": "https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Colombina",
+      "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Table For 2",
         "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 176283,
       "name": "Table For 2",
       "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Colombina",
-        "url": "https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Colombina",
-      "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -571,6 +571,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Baiana (With L-Gante)",
         "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 146250,
       "name": "Baiana - With L-Gante",
       "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Please Don't Go (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
       },
       "artists": [
         {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         }
       ],
-      "duration_ms": 158774,
-      "name": "Please Don't Go - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -871,6 +851,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+      },
+      "artists": [
+        {
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Empezar Ganando",
         "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
       },
@@ -887,30 +887,6 @@
       "duration_ms": 160000,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Carla (Remix)",
-        "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
-      },
-      "artists": [
-        {
-          "name": "GUDI",
-          "url": "https://open.spotify.com/artist/6IOnGfED9G9QWwZUTlUUH9"
-        },
-        {
-          "name": "Marcus Menna",
-          "url": "https://open.spotify.com/artist/2cPdLtSkPjN7QrMUuHOodV"
-        },
-        {
-          "name": "Ga Salvia",
-          "url": "https://open.spotify.com/artist/0wvWFvGrETy0NFbXLrWPMY"
-        }
-      ],
-      "duration_ms": 194905,
-      "name": "Carla - Remix",
-      "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -935,6 +911,30 @@
       "duration_ms": 224000,
       "name": "SHOUT",
       "url": "https://open.spotify.com/track/574zMI4Ve1OvuKyap7casF"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Carla (Remix)",
+        "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
+      },
+      "artists": [
+        {
+          "name": "GUDI",
+          "url": "https://open.spotify.com/artist/6IOnGfED9G9QWwZUTlUUH9"
+        },
+        {
+          "name": "Marcus Menna",
+          "url": "https://open.spotify.com/artist/2cPdLtSkPjN7QrMUuHOodV"
+        },
+        {
+          "name": "Ga Salvia",
+          "url": "https://open.spotify.com/artist/0wvWFvGrETy0NFbXLrWPMY"
+        }
+      ],
+      "duration_ms": 194905,
+      "name": "Carla - Remix",
+      "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
-      },
-      "artists": [
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Youngr",
         "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 300432,
       "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
       "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1311,50 +1311,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Yannick",
-          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
-        }
-      ],
-      "duration_ms": 216126,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Palco (Alok & Watzgood Remix)",
-        "url": "https://open.spotify.com/album/3uk6GLehDulDuj8crflTpA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        }
-      ],
-      "duration_ms": 191703,
-      "name": "Palco - Alok & Watzgood Remix",
-      "url": "https://open.spotify.com/track/0PZTzoBqm2jIHgpST8QLV4"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Quem N\u00e3o Quer Sou Eu",
         "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
       },
@@ -1383,6 +1339,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Yannick",
+          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
+        }
+      ],
+      "duration_ms": 216126,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 212640,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Palco (Alok & Watzgood Remix)",
+        "url": "https://open.spotify.com/album/3uk6GLehDulDuj8crflTpA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "duration_ms": 191703,
+      "name": "Palco - Alok & Watzgood Remix",
+      "url": "https://open.spotify.com/track/0PZTzoBqm2jIHgpST8QLV4"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Deixe Me Ir",
-        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Deixe Me Ir",
-      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Monalisa (KVSH Remix)",
         "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Deixe Me Ir",
+        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Deixe Me Ir",
+      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
     },
     {
       "added_at": "2026-02-13 15:25:57",

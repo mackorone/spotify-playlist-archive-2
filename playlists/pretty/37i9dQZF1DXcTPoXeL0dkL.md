@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,867 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,891 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 18 | [Ay Hombe](https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 5:21 |
 | 19 | [Nunca Comprendi Tu Amor](https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU) | [Rugido Vallenato](https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j) | [30 Vallenatos Pegaditos](https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5) | 4:44 |
 | 20 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
-| 21 | [No Te Vayas](https://open.spotify.com/track/78Bem5yP49K6uybhAMAFdy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:57 |
+| 21 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
 | 22 | [Calidad de Vida](https://open.spotify.com/track/1gUn7fbTiX5QJ6xvmWNpi2) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:20 |
 | 23 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 | 24 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
 | 25 | [Pregúntele a Su Hija](https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv) | [Farid Ortiz](https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN), [Negrito Osorio](https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl) | [Para Nunca Olvidar](https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD) | 4:40 |
-| 26 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
+| 26 | [No Te Vayas](https://open.spotify.com/track/78Bem5yP49K6uybhAMAFdy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:57 |
 | 27 | [Me Ilusione](https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb) | 5:00 |
 | 28 | [Amarte Mas No Pude](https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Lo Mejor 17 Grandes Exitos](https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz) | 4:50 |
 | 29 | [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |
 | 30 | [Infiel](https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [Alto Voltaje](https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB) | 4:06 |
-| 31 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
+| 31 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
 | 32 | [Niña Bonita](https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:08 |
 | 33 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 34 | [Perdóname la Vida](https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |

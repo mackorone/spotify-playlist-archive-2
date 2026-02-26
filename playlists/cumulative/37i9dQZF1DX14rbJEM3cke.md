@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current\. Cover: Master Peace
 
-364 songs - 18 hr 44 min
+365 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [BREAKSHIT](https://open.spotify.com/track/0ok3UY3md3PXEeAIHqUqHB) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [BREAKSHIT](https://open.spotify.com/album/0fueqpe5caBgCuSRT1nwPt) | 3:06 | 2023-02-24 | 2023-06-03 |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-07-22 | 2022-08-27 |
 | [BRITNEY BITCH](https://open.spotify.com/track/0y36K56bxbBUl2kjrBJdco) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [BRITNEY BITCH](https://open.spotify.com/album/54zDMqhMl0zzIZEQBWIks0) | 2:37 | 2022-07-22 | 2022-08-27 |
+| [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 | 2026-02-25 |  |
 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 | 2022-02-12 | 2022-02-26 |
 | [BULLET MAN](https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BULLET MAN](https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK) | 2:58 | 2023-06-02 | 2024-02-02 |
 | [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 | 2022-02-12 | 2022-04-16 |
@@ -66,7 +67,7 @@
 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 | 2024-06-17 |  |
 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 | 2022-08-26 | 2023-02-02 |
 | [Chelsea Hotel](https://open.spotify.com/track/3yuUo3VJreRdasr1erzGJM) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Chelsea Hotel](https://open.spotify.com/album/3tHJ7OgxXS3OjKmvkwNOGS) | 3:40 | 2022-04-15 | 2024-02-02 |
-| [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 | 2023-02-01 |  |
+| [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 | 2023-02-01 | 2026-02-26 |
 | [Children of The Dark](https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Children of The Dark](https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py) | 2:32 | 2022-02-12 | 2022-03-18 |
 | [Choose Your Fighter](https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:15 | 2023-02-01 | 2025-02-01 |
 | [Cigarettes](https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:47 | 2022-06-03 | 2023-07-15 |

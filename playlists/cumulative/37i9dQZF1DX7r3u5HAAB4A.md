@@ -4,7 +4,7 @@
 
 > A melting pot of Caribbean culture\. Cover: Shenseea
 
-322 songs - 15 hr 45 min
+323 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Outside](https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Outside](https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA) | 2:56 | 2025-01-31 |  |
 | [Pain](https://open.spotify.com/track/35EA4qhMpmAIgSQRiRs003) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Jay\-A](https://open.spotify.com/artist/5r2Kld5dP5nqJOq4H1sZEb), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Pain](https://open.spotify.com/album/3jD6oTDa6OkYqKHQC8p0rP) | 3:30 | 2024-08-29 | 2024-09-14 |
 | [Pam Pam Pam](https://open.spotify.com/track/0rAaMscdc9Rrs0fMc3BXKD) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Echelon Beatz](https://open.spotify.com/artist/61znra23oiOShvDCDC32Gh) | [Pam Pam Pam](https://open.spotify.com/album/2M8vkoHzc8l77iWO5wgYgE) | 2:59 | 2026-02-06 |  |
+| [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 | 2026-02-25 |  |
 | [PARDY \- Road Mix](https://open.spotify.com/track/7ksaZiIN0xGny4iS3sHqFP) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [One Degree Hotter](https://open.spotify.com/album/79pkMBFXLF3RGt2I1Z6Y54) | 7:03 | 2025-02-28 | 2025-03-08 |
 | [Party Next Door](https://open.spotify.com/track/4uIuf9PyfooM5yr90oeCs2) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Party Next Door](https://open.spotify.com/album/0Z0GucmnsdB60DmhSa8drt) | 2:43 | 2025-05-23 | 2025-05-31 |
 | [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 | 2025-07-11 |  |

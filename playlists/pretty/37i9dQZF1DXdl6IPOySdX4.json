@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2148172,
+  "num_followers": 2148535,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -773,38 +773,6 @@
       "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Often",
-      "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Until I Found You",
@@ -823,18 +791,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+      "duration_ms": 249040,
+      "name": "Often",
+      "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
+    },
+    {
+      "added_at": "2025-07-03 03:36:52",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 238320,
       "name": "oui",
       "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
+    },
+    {
       "added_at": "2024-12-27 05:00:40",
       "album": {
         "name": "AFTERCARE",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 127920,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 153294,
       "name": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1217,6 +1201,22 @@
       "url": "https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d"
     },
     {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
+    },
+    {
       "added_at": "2024-08-12 15:52:22",
       "album": {
         "name": "Lust For Life",
@@ -1231,6 +1231,22 @@
       "duration_ms": 180902,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
+    },
+    {
+      "added_at": "2025-02-25 17:54:38",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 158463,
+      "name": "I Didn't Change My Number",
+      "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1249,20 +1265,20 @@
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
-      "added_at": "2025-02-25 17:54:38",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+        "name": "how could u love somebody like me?",
+        "url": "https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 158463,
-      "name": "I Didn't Change My Number",
-      "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
+      "duration_ms": 126447,
+      "name": "how could u love somebody like me?",
+      "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 165874,
       "name": "LET THE WORLD BURN (with G-Eazy & Ari Abdul) - Remix",
       "url": "https://open.spotify.com/track/5wNDRMkoysXZGiW4ja5Tik"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "how could u love somebody like me?",
-        "url": "https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 126447,
-      "name": "how could u love somebody like me?",
-      "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
     },
     {
       "added_at": "2024-08-02 04:00:00",

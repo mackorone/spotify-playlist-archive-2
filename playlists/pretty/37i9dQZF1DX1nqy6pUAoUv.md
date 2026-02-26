@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,824 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,825 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 35 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
 | 36 | [Eleanor Rigby](https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [L'air de rien](https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW) | 4:24 |
 | 37 | [Lebanon](https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America](https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB) | 3:26 |
-| 38 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
-| 39 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 38 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 39 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
 | 40 | [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 |
 | 41 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 42 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 88 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
 | 89 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
 | 90 | [Avalon \(with Francesco Turrisi\)](https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:54 |
-| 91 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
-| 92 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
+| 91 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
+| 92 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
 | 93 | [My Heart Aches](https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r) | [Eliza Gilkyson](https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG) | [2020](https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6) | 3:49 |
 | 94 | [Unmistakable Love](https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Songs Of](https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY) | 3:55 |
 | 95 | [IOU](https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [IOU](https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF) | 4:03 |

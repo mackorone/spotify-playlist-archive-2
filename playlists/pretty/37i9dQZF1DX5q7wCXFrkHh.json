@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 142344,
+  "num_followers": 142415,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
-        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
-      },
-      "artists": [
-        {
-          "name": "James P. Johnson",
-          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Blue Note Boogie",
-      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "The Art Tatum Solo Masterpieces, Vol. 7",
         "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 235093,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
+        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
+      },
+      "artists": [
+        {
+          "name": "James P. Johnson",
+          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Blue Note Boogie",
+      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The John Lewis Piano",
-        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Treasure Island",
         "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
+        "name": "The John Lewis Piano",
+        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
       },
       "artists": [
         {
-          "name": "Michel Petrucciani",
-          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
         }
       ],
-      "duration_ms": 323000,
-      "name": "Memories Of Paris",
-      "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
+      "duration_ms": 269666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Crystal Silence",
-        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
+        "name": "Music",
+        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
       },
       "artists": [
         {
-          "name": "Gary Burton",
-          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Michel Petrucciani",
+          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
         }
       ],
-      "duration_ms": 238800,
-      "name": "I'm Your Pal",
-      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
+      "duration_ms": 323000,
+      "name": "Memories Of Paris",
+      "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1271,22 +1251,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
+        "name": "Crystal Silence",
+        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
       },
       "artists": [
         {
-          "name": "Carla Bley",
-          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
+          "name": "Gary Burton",
+          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
         },
         {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 278640,
-      "name": "\u00datviklingssang",
-      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
+      "duration_ms": 238800,
+      "name": "I'm Your Pal",
+      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Jazz Impressions Of New York",
-        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
       },
       "artists": [
         {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+          "name": "Carla Bley",
+          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
         }
       ],
-      "duration_ms": 147333,
-      "name": "Theme From \"Mr. Broadway\"",
-      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
+      "duration_ms": 278640,
+      "name": "\u00datviklingssang",
+      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1359,6 +1343,22 @@
       "duration_ms": 333581,
       "name": "No More Shadows",
       "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Jazz Impressions Of New York",
+        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Theme From \"Mr. Broadway\"",
+      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Written In The Stars",
-        "url": "https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 404666,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Duke's Dream",
         "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Written In The Stars",
+        "url": "https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 404666,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 403266,
-      "name": "Ralph J. Gleason Blues",
-      "url": "https://open.spotify.com/track/0Dg8zEmH6R1l67u1bsNKr0"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Doctor Jazz",
         "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 205373,
       "name": "Wolverine Blues",
       "url": "https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 403266,
+      "name": "Ralph J. Gleason Blues",
+      "url": "https://open.spotify.com/track/0Dg8zEmH6R1l67u1bsNKr0"
     },
     {
       "added_at": "2026-01-22 13:51:53",

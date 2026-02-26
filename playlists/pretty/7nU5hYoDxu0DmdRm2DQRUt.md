@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,875 likes - 226 songs - 21 hr 23 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,877 likes - 226 songs - 21 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 68 | [Naked Hunger \- Spoken Word Mix](https://open.spotify.com/track/2219xSxD0rfZRrrJVeqf0n) | [Quiet Village](https://open.spotify.com/artist/0DoRa03IPuPzfAlD8aMgn9), [Vanessa Daou](https://open.spotify.com/artist/0r13pf5aRSEWKl7m7qMXXT) | [Naked Hunger](https://open.spotify.com/album/15uXJKrh8sgDvXbWNiCAWF) | 13:56 |
 | 69 | [Acid Stroll](https://open.spotify.com/track/5zfhMQUQY5we5KLZLS1jY7) | [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK), [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq) | [Acid Stroll](https://open.spotify.com/album/3OBOz2z7dYA7ns38Vt9yPJ) | 7:48 |
 | 70 | [Vocal Tune](https://open.spotify.com/track/0LcSDXAKptjaUZoLFD9mK2) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [And the Make Believers](https://open.spotify.com/album/5quY3ZZ5kEb0gk791v1EqY) | 4:20 |
-| 71 | [Den Mahlstrom rauf](https://open.spotify.com/track/4EiHXhTq4N28DMkDq1z0Gd) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Den Mahlstrom rauf](https://open.spotify.com/album/2vBenCO70OMVEg2TIeJn86) | 8:08 |
+| 71 | [Den Mahlstrom rauf](https://open.spotify.com/track/4EiHXhTq4N28DMkDq1z0Gd) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Den Mahlstrom Rauf](https://open.spotify.com/album/2vBenCO70OMVEg2TIeJn86) | 8:08 |
 | 72 | [Forward \- Donato Dozzy Remix](https://open.spotify.com/track/1ABkNFoE3wvluVlOjWPTfW) | [Mike Parker](https://open.spotify.com/artist/09CEhdsMmOdtetLfiqxFlh), [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Epilogue](https://open.spotify.com/album/0X7rjLEoNpO01qKEvJkTuw) | 5:40 |
 | 73 | [Futurology](https://open.spotify.com/track/10MSZcCEcB2OqowuwV4hRA) | [Milian Mori](https://open.spotify.com/artist/3Ii7znHOABSoivoAZHSO6r) | [Triality](https://open.spotify.com/album/0b6WC40akN5KkcqSTJtbEA) | 4:52 |
 | 74 | [Serpentine 3](https://open.spotify.com/track/26Zwdz0UFWkffrlwacyVhC) | [OK EG](https://open.spotify.com/artist/6NkCtFoOhARKawHaQp9Xc7), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Serpentine 3](https://open.spotify.com/album/6bGAqiK2WS3ReNxYqOvQnq) | 5:42 |

@@ -1,6 +1,6 @@
 {
   "description": "Legendary tracks been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 197605,
+  "num_followers": 197683,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-10 08:25:56",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 316813,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
-    },
-    {
-      "added_at": "2024-07-10 08:25:56",
-      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 304080,
       "name": "Go West - 2003 Remaster",
       "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
+    },
+    {
+      "added_at": "2024-07-10 08:25:56",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 316813,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
     },
     {
       "added_at": "2024-07-10 08:25:56",

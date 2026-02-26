@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,969 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,971 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
 | 50 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |
 
-Snapshot ID: `AAAAAD2JmvLDcfMnFIKJHfArKcfKH41D`
+Snapshot ID: `AAAAAARveLm/TEn7lMLZ7/LXhN9yWC2j`

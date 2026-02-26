@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 578279,
+  "num_followers": 578258,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-02-24 03:29:53",
       "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2026-02-24 03:29:53",
+      "album": {
         "name": "II: The second",
         "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 157692,
       "name": "Marilag",
       "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2026-02-24 03:29:53",
-      "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
-      },
-      "artists": [
-        {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
-        }
-      ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2026-02-24 03:29:53",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-02-24 03:29:53",
       "album": {
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "added_at": "2026-02-24 03:29:53",
+      "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
-    },
-    {
-      "added_at": "2026-02-24 03:29:53",
-      "album": {
-        "name": "Ikaw Lang Patutunguhan",
-        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
-      },
-      "artists": [
-        {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
-        }
-      ],
-      "duration_ms": 326896,
-      "name": "Ikaw Lang Patutunguhan",
-      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
     },
     {
       "added_at": "2026-02-24 03:29:53",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-24 03:29:53",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2026-02-24 03:29:53",
-      "album": {
         "name": "Nahanap Kita",
         "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2026-02-24 03:29:53",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
       "artists": [
         {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
         }
       ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2026-02-24 03:29:53",
@@ -459,6 +443,22 @@
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2026-02-24 03:29:53",
+      "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2026-02-24 03:29:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-24 03:29:53",
       "album": {
-        "name": "Tumaya",
-        "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
-      },
-      "artists": [
-        {
-          "name": "Bert Symoun",
-          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
-        }
-      ],
-      "duration_ms": 207661,
-      "name": "Tumaya",
-      "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
-    },
-    {
-      "added_at": "2026-02-24 03:29:53",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 273493,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
+    },
+    {
+      "added_at": "2026-02-24 03:29:53",
+      "album": {
+        "name": "Tumaya",
+        "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
+      },
+      "artists": [
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "duration_ms": 207661,
+      "name": "Tumaya",
+      "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
     },
     {
       "added_at": "2026-02-24 03:29:53",

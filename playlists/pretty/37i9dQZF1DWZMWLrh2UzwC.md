@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Syamel, SZA, Alpha, Lana Del Rey, Hael Husaini, Misha Omar, Fajar Noor,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,945 likes - 96 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,944 likes - 96 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 14 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 15 | [Good Grief](https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 4:21 |
 | 16 | [Erti Ramadan](https://open.spotify.com/track/0AwGiEAbc79RFu8KtPw5Sz) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR), [Apit Tearra](https://open.spotify.com/artist/49Y3iHrFkPvqnDro5Ycq0n), [Arghpiez](https://open.spotify.com/artist/29eU6hOmMeI1N0a16QIYfy), [Zamir Harith](https://open.spotify.com/artist/053dJUug3KoJGNH4q2B1Vu) | [Erti Ramadan](https://open.spotify.com/album/5RhFAOXB9GUxRscLCkjE35) | 3:22 |
-| 17 | [Dah Nak Raya](https://open.spotify.com/track/1kzzPoT9S85WLvhYkOEffm) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5), [Fana Ibrahim](https://open.spotify.com/artist/2NHIkjmhEgWu2t46DjMNo5), [Zulhadi](https://open.spotify.com/artist/7sCZOJLFV7n8uDQyZzRm7E), [Rahim Hakem](https://open.spotify.com/artist/2avIRth6jbasINvKPMpYNK) | [Dah Nak Raya](https://open.spotify.com/album/5BqNIpWO5rOtmldEeAsMqJ) | 3:23 |
-| 18 | [Raya Sama Sama](https://open.spotify.com/track/6D7EwKKymrMqoUkrB08X4t) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Raya Sama Sama](https://open.spotify.com/album/1Ho2u9GO67X00zJUkN8DNE) | 2:00 |
+| 17 | [Dah Nak Raya Ni](https://open.spotify.com/track/1kzzPoT9S85WLvhYkOEffm) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5), [Fana Ibrahim](https://open.spotify.com/artist/2NHIkjmhEgWu2t46DjMNo5), [Zulhadi](https://open.spotify.com/artist/7sCZOJLFV7n8uDQyZzRm7E), [Rahim Hakem](https://open.spotify.com/artist/2avIRth6jbasINvKPMpYNK) | [Dah Nak Raya Ni](https://open.spotify.com/album/5BqNIpWO5rOtmldEeAsMqJ) | 3:23 |
+| 18 | [Raya Sama Sama 2026 \(Extended\)](https://open.spotify.com/track/6D7EwKKymrMqoUkrB08X4t) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Raya Sama Sama 2026 \(Extended\)](https://open.spotify.com/album/1Ho2u9GO67X00zJUkN8DNE) | 2:00 |
 | 19 | [Teman Raya](https://open.spotify.com/track/654pYtiD6fnXuEnsJHPjqv) | [Mark Adam](https://open.spotify.com/artist/34ZXDqINUbkF5sRC3F0ZL6), [Furhan Zahari](https://open.spotify.com/artist/7JlvgGN0E3VYdRaa3o2Loj), [Chaca Trisha](https://open.spotify.com/artist/02geLTFdneffT5CtaO0rqt) | [Teman Raya](https://open.spotify.com/album/2lxQgFVZA3scFtLekrWZmD) | 3:30 |
 | 20 | [HEARTBEEP](https://open.spotify.com/track/4MhU86D5lm4g6BU7ICwv97) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [Angel](https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O) | [HEARTBEEP](https://open.spotify.com/album/4vCL5rwQVuN7RwqhZw1pEV) | 2:46 |
 | 21 | [Kampung Kita](https://open.spotify.com/track/4IFamcs6QBYq6lNdT3ssGy) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Kampung Kita](https://open.spotify.com/album/5cuzwar3eD3ThFHPPI7ujB) | 2:24 |

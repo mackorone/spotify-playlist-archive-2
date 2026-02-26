@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Ally Evenson
 
-2,305 songs - 5 day 2 hr 41 min
+2,306 songs - 5 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [dancing in the kitchen](https://open.spotify.com/track/7yw1S0euAJViNQ6cEUXuEh) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [dancing in the kitchen](https://open.spotify.com/album/7Ge6ILkZgdQoNavqhPU0Wa) | 2:57 | 2021-06-04 | 2022-06-01 |
 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 | 2026-02-13 |  |
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-07-23 |
+| [Dandelion](https://open.spotify.com/track/1dvYCfO9EXPJCXvksXV8iu) | [New Constellations](https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9) | [Dandelion](https://open.spotify.com/album/3LPzHubHMTywYtKhF1beHW) | 4:03 | 2026-02-20 |  |
 | [Dangerous](https://open.spotify.com/track/66k2yf5A5yeWidimsHOtSF) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Dangerous](https://open.spotify.com/album/54xf7HiB51PGuga8FDvxGS) | 2:51 | 2020-10-13\* | 2021-10-21 |
 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 | 2024-01-26 | 2024-03-17 |
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-02-22 | 2021-10-13 |
@@ -2149,7 +2150,7 @@
 | [UNBOUND \- Austin Millz Remix](https://open.spotify.com/track/7aiIY5CiuTP7htW4grQuaO) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [UNBOUND \(Austin Millz Remix\)](https://open.spotify.com/album/3jUoYwBHyDxjozwc6DpQyj) | 2:40 | 2020-11-03 | 2021-02-24 |
 | [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 | 2024-05-17 | 2024-06-30 |
 | [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 | 2023-06-09 | 2023-06-24 |
-| [Underwater](https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Underwater](https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4) | 3:34 | 2025-12-12 |  |
+| [Underwater](https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Underwater](https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4) | 3:34 | 2025-12-12 | 2026-02-26 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-21 | 2026-01-18 |
 | [Unfold](https://open.spotify.com/track/1QFyp1h3FcZiZqOf3QIGZe) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4btev9CC7D5soKdcIP6ApM) | 4:45 | 2021-05-03 | 2021-05-26 |
 | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/track/7oVDQPi77CXAlWpHxrsnPb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/album/65zPNLrqrf0G0wrItBaYKR) | 2:56 | 2020-11-05 | 2021-05-25 |

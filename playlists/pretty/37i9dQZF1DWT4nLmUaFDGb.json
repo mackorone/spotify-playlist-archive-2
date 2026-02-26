@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 702459,
+  "num_followers": 702634,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Make this moment",
-        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
       },
       "artists": [
         {
-          "name": "Inger Marie Gundersen",
-          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
         }
       ],
-      "duration_ms": 287613,
-      "name": "Will you still love me tomorrow",
-      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -659,18 +659,18 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
+        "name": "Make this moment",
+        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
       "artists": [
         {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+          "name": "Inger Marie Gundersen",
+          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
         }
       ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
+      "duration_ms": 287613,
+      "name": "Will you still love me tomorrow",
+      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
         "name": "Castles in the Air",
         "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
+        "name": "Passion World",
+        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 492520,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Passion World",
-        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 492520,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
         "name": "My Wonderland",
         "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 255000,
       "name": "A Man and a Woman",
       "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1443,6 +1427,22 @@
       "duration_ms": 444306,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1515,8 +1515,8 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Baby Won't You Please Come Home",
-        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
       },
       "artists": [
         {
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         }
       ],
-      "duration_ms": 199933,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         }
       ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Nice Girls Don't Stay for Breakfast",
-        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 217507,
-      "name": "Nice Girls Don't Stay for Breakfast",
-      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+        "name": "Nice Girls Don't Stay for Breakfast",
+        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
       },
       "artists": [
         {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
         }
       ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
+      "duration_ms": 217507,
+      "name": "Nice Girls Don't Stay for Breakfast",
+      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1703,6 +1687,22 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Mr Bojangles",
-        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
-      },
-      "artists": [
-        {
-          "name": "Kareen Guiock-Thuram",
-          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
-        }
-      ],
-      "duration_ms": 283413,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
         "name": "The Best of Blu",
         "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 170000,
       "name": "Girl from Ipanema",
       "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
+        "name": "Mr Bojangles",
+        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
+      },
+      "artists": [
+        {
+          "name": "Kareen Guiock-Thuram",
+          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
+        }
+      ],
+      "duration_ms": 283413,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
         "name": "Do You Know What It Means to Miss New Orleans",
         "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
       },
@@ -1899,18 +1915,18 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
       },
       "artists": [
         {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
         }
       ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -1979,22 +1995,6 @@
       "duration_ms": 336600,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
-        "name": "Prisoner of Love",
-        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "Prisoner of Love",
-      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
         "name": "There Is No Future",
         "url": "https://open.spotify.com/album/29uDWhdwCQ3aC6NspRGkfV"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 300826,
       "name": "There Is No Future",
       "url": "https://open.spotify.com/track/4GNxanwS4whzAEAwGg6xDK"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
-      },
-      "artists": [
-        {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
         "name": "Hilltop",
         "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 272768,
       "name": "Hilltop",
       "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2026-02-20 15:09:46",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2026-02-20 15:09:46",
       "album": {
+        "name": "The Lemonade Song",
+        "url": "https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 154871,
+      "name": "The Lemonade Song",
+      "url": "https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x"
+    },
+    {
+      "added_at": "2026-02-20 15:09:46",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2026-02-20 15:09:46",
-      "album": {
-        "name": "The Lemonade Song",
-        "url": "https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 154871,
-      "name": "The Lemonade Song",
-      "url": "https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x"
     },
     {
       "added_at": "2026-02-20 15:09:46",

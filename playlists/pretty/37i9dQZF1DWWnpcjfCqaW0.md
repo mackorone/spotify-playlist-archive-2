@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,801 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,809 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 39 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
 | 40 | [Am I Losing You \- 1959 Version](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:20 |
 | 41 | [I Can't Stop Loving You](https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:34 |
-| 42 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
-| 43 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [The Complete Columbia Recording Sessions, Vol\. 1 \- 1950\-1951](https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2) | 2:59 |
+| 42 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [The Complete Columbia Recording Sessions, Vol\. 1 \- 1950\-1951](https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2) | 2:59 |
+| 43 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
 | 44 | [Move It On Over](https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 |
 | 45 | [In Care Of The Blues](https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:33 |
 | 46 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Red Hot](https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Red Hot / Pearly Lee](https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC) | 2:29 |
 | 75 | [I Forgot More Than You'll Ever Know \- Remastered](https://open.spotify.com/track/1hV5guiKDYaQCKnwXXLzyH) | [The Davis Sisters](https://open.spotify.com/artist/2WVoGWk3tcKJd7Lc4QJ7ux) | [Skeeter Davis: RCA Country Legend](https://open.spotify.com/album/2pWSwDwX3lcPSe8vHY3NDy) | 3:01 |
 
-Snapshot ID: `AAAAAJdEpu6Y8xeY41UxeiHTNIaxfZxr`
+Snapshot ID: `AAAAAGTbxGs7Ijs0Vj0SwBj86tGBC7ea`

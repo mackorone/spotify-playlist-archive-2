@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27499,
+  "num_followers": 27502,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAMnEx8vogoJp42CUE9yoQk",
+  "snapshot_id": "aZzqAAAAAABqE0u5RPoB9kiq2DOzr45V",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Tell It (Gloria)",
-        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "The Choir Room",
-          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Go Tell It (Gloria)",
-      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Found It In Jesus",
         "url": "https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY"
       },
@@ -683,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
+        "name": "Go Tell It (Gloria)",
+        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
       },
       "artists": [
         {
@@ -692,13 +672,13 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         },
         {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
         }
       ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
+      "duration_ms": 199836,
+      "name": "Go Tell It (Gloria)",
+      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
     },
     {
       "added_at": null,
@@ -739,6 +719,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Thanks To God",
+        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 214056,
+      "name": "Give Thanks To God",
+      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Kingdom of Jesus",
         "url": "https://open.spotify.com/album/35z3a11GNkqarQjIml21nM"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 345815,
       "name": "That We Might Overcome",
       "url": "https://open.spotify.com/track/01IzsQif6lw1sgovKN1DVo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Thanks To God",
-        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 214056,
-      "name": "Give Thanks To God",
-      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -895,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+        "name": "Jesus, Firm Foundation: Hymns of Worship",
+        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
       },
       "artists": [
         {
@@ -904,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 190280,
-      "name": "Abide With Me",
-      "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
+      "duration_ms": 255320,
+      "name": "Holy, Holy, Holy (God With Us)",
+      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
     },
     {
       "added_at": null,
@@ -939,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus, Firm Foundation: Hymns of Worship",
-        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
       "artists": [
         {
@@ -948,9 +964,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 255320,
-      "name": "Holy, Holy, Holy (God With Us)",
-      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
+      "duration_ms": 205933,
+      "name": "Deliverer",
+      "url": "https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0"
     },
     {
       "added_at": null,
@@ -979,22 +995,6 @@
       "duration_ms": 157615,
       "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
       "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Deliverer",
-      "url": "https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0"
     },
     {
       "added_at": null,

@@ -3333,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262644,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
+    },
+    {
+      "album": {
         "name": "Psalmer fr\u00e5n sjunde himlen",
         "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
       },
@@ -6056,7 +6074,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 296208,
       "name": "One-Trick Pony",
       "url": "https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX"

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-955 songs - 2 day 6 hr 22 min
+961 songs - 2 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Antonia](https://open.spotify.com/track/573f55AEzc0NcoRcHXlT41) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [Y ahora que vas a hacer?](https://open.spotify.com/album/1oZRBpopkLT3feW9afDHnn) | 3:02 | 2026-01-12 | 2026-02-03 |
 | [Apathy](https://open.spotify.com/track/1RkAYeOXzdO6wqllltdzL9) | [Last Second Dropout](https://open.spotify.com/artist/0SFv3VNLK8XQuzFBdorehi) | [Apathy](https://open.spotify.com/album/5gEj5JNQ2mZO0btf4hJwvr) | 3:26 | 2026-02-13 |  |
 | [Are People Using You?](https://open.spotify.com/track/2fsA3XI9opXlccokC6NsoM) | [Cult Baby](https://open.spotify.com/artist/4H5r2jSXuuthJVe4aek67I) | [Are People Using You?](https://open.spotify.com/album/1aBDhplfiRfJyJv3L4i3UX) | 2:56 | 2026-01-03 | 2026-01-22 |
+| [As It Was](https://open.spotify.com/track/7uhTlxl2fbbqXiRZnNbj7F) | [Never A Phase](https://open.spotify.com/artist/2RIF672EPlrRjsSl9MdTz2) | [As It Was](https://open.spotify.com/album/2br82fYprVhypZEPo241TB) | 4:02 | 2026-02-25 |  |
 | [Assistant Professional White Guy](https://open.spotify.com/track/08ZbBfxfoq46UKPl1hTU1x) | [Doctor Striker](https://open.spotify.com/artist/0IDqaDsgC4usGdu6uprBl9) | [Assistant Professional White Guy](https://open.spotify.com/album/5kv8JWGcKDhj7Ydam26Q3W) | 2:46 | 2026-02-11 |  |
 | [At The Show / \(Relentless Chorus\)](https://open.spotify.com/track/1FEwu0DCid0V8Lebrhu4nq) | [Serjj](https://open.spotify.com/artist/4fXBoPnJBmstbjnl56NRog) | [At The Show / \(Relentless Chorus\)](https://open.spotify.com/album/4lk21sK4COUZowEaFD8DDm) | 3:32 | 2026-01-06 | 2026-02-07 |
 | [Atom Bomb](https://open.spotify.com/track/0GEAESWN5R2E7KNNca4URa) | [strudlmaus](https://open.spotify.com/artist/64c2HxJcbeg3rb181pIS0n) | [Atom Bomb](https://open.spotify.com/album/5H99PB5MlTLfZBeZBDLqz3) | 2:40 | 2026-01-23 | 2026-02-24 |
@@ -94,6 +95,7 @@
 | [Bla Buzz](https://open.spotify.com/track/1i9KWSfyRSOxta4m0WoJDJ) | [Bila](https://open.spotify.com/artist/31FYxGnmvt2EHv72cUIxHn) | [Beżżalart](https://open.spotify.com/album/5OxyTjodJeEWF6c74VJcVe) | 1:47 | 2025-12-17 | 2026-01-06 |
 | [Black](https://open.spotify.com/track/0ul44PajiEmkNrTe8iOCMH) | [Adam Alford](https://open.spotify.com/artist/5NOQhV94Dia7LiieRRWWuV) | [Desert nights](https://open.spotify.com/album/2457jyGvDUxCAlRihGaxFQ) | 2:52 | 2025-12-04 | 2025-12-24 |
 | [Blaze](https://open.spotify.com/track/58AdlO3Hoqc8HLm7JpePNN) | [Hook & Lace](https://open.spotify.com/artist/7paQNTCMf2I8SHBvLG4cwN) | [Blaze](https://open.spotify.com/album/5gFX83LBIgN7JAxsimPbX8) | 3:09 | 2026-01-31 |  |
+| [Bleeding You](https://open.spotify.com/track/00LyefdHtjsZl6RsKpDav6) | [Against the Grave](https://open.spotify.com/artist/2txUYDRABdPVQcCqx0EJfB) | [Bleeding You](https://open.spotify.com/album/1GBNuPGY2C4QDMnCmvkl5t) | 2:43 | 2026-02-25 |  |
 | [Bllsht](https://open.spotify.com/track/1mPvLR9n3yS9C6rM1UyhM5) | [Banquise](https://open.spotify.com/artist/6mhN65o4OWOpxoSni648WG) | [Bllsht](https://open.spotify.com/album/6mZooqVyOx7Tp7dMyvr2sl) | 3:34 | 2025-12-23 | 2026-01-24 |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2025-12-17 | 2026-01-06 |
 | [Bloodspiller](https://open.spotify.com/track/4G0oPxRqD7ewrABOP4qA2r) | [Furi Helium](https://open.spotify.com/artist/21jqidbTWhtzu7Z1fwUpkX) | [Bloodspiller](https://open.spotify.com/album/4vqEBR15r5cdU1WJfPrpOD) | 2:43 | 2026-01-06 | 2026-02-07 |
@@ -575,6 +577,7 @@
 | [Ocean Blue](https://open.spotify.com/track/7AvxrXZVora0RLzC4YgVFK) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 3:01 | 2025-12-20 | 2026-01-15 |
 | [Ode to Cold Beer](https://open.spotify.com/track/4pcBKBM4tgclpBcQIsTRdV) | [D.J\. Burban](https://open.spotify.com/artist/3kpnYfWPAW54uRPI8Zti9Q) | [Ode to Cold Beer](https://open.spotify.com/album/6RTRbtYsVp0IBmXfWOEQPf) | 3:20 | 2026-02-04 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-10 | 2026-01-06 |
+| [On My Pillow](https://open.spotify.com/track/10m0O7p7kyyHFnHNkIylxc) | [Coach House](https://open.spotify.com/artist/2kscwfnOwtsutSIX8VcGzg) | [Suggestion of the Sea](https://open.spotify.com/album/4LsJwPkCYa93uLSziNl2Pz) | 2:16 | 2026-02-25 |  |
 | [on the mend](https://open.spotify.com/track/1dIHISHteCYUFGhEj6bDAP) | [poor rich](https://open.spotify.com/artist/787dA1tXr4OhNH6pQgsoKi) | [on the mend](https://open.spotify.com/album/2V11BbLkEJHFHPhVwc0BL5) | 3:44 | 2026-02-23 |  |
 | [On The Run](https://open.spotify.com/track/182G73eUtTppSaqS7X9Tv2) | [XXX Smut](https://open.spotify.com/artist/1eusvoPqnUbdL0nNgQ4hgv), [Todd Hogan](https://open.spotify.com/artist/11t6B3gdxHdRCS6kUHH7Mf) | [Fuck Milk Got Beer](https://open.spotify.com/album/4w00V58UjpWPN7WtByA5Ea) | 2:23 | 2025-11-29 | 2025-12-24 |
 | [On Your Left](https://open.spotify.com/track/6Q6yfXDK0zeODwrQzotkPm) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:22 | 2025-08-03 |  |
@@ -643,6 +646,7 @@
 | [Rampage](https://open.spotify.com/track/2yfitTwuoucAqR1HAhUpix) | [L.A\. Sagne](https://open.spotify.com/artist/6vapR4KOszK2FbsUe3txCO) | [Rampage](https://open.spotify.com/album/7dHC9UY3v58pd9QQt0RXYK) | 2:15 | 2026-02-05 |  |
 | [Reading With the Lights Off](https://open.spotify.com/track/49k7nCIIwZiQQNt04owuYX) | [halfstride](https://open.spotify.com/artist/1ayEPgY4iGZBVbyk4euwnn) | [Reading With the Lights Off](https://open.spotify.com/album/1rDmQoZfThzyGzIwmi9JWL) | 3:09 | 2026-01-09 | 2026-02-10 |
 | [Real Woman \(Alternate Mix\)](https://open.spotify.com/track/4TsFSZhRCJfNc1bgkFdz2b) | [Dan Tanas](https://open.spotify.com/artist/2yzyxkgMmo3NHftdGfhXui) | [Real Woman \(Alternate Mix\)](https://open.spotify.com/album/3qeJzn5YhNZmyXk0gi5Yh6) | 5:12 | 2026-01-15 | 2026-02-03 |
+| [Reckoner](https://open.spotify.com/track/2iydK1qSBLuqkOogdnWzQT) | [Late Night Fights](https://open.spotify.com/artist/6GkSLJj5CGLIckLIb8J4LR) | [Reckoner](https://open.spotify.com/album/5S6gBnGssCAdZ4diqX1Y5q) | 5:15 | 2026-02-25 |  |
 | [Red Light, Danger!](https://open.spotify.com/track/62y4Ymu5RGcFzl9VyjWe2N) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Red Light, Danger!](https://open.spotify.com/album/29CA8Ld2mCKoeazUqbdCOO) | 4:05 | 2026-01-01 | 2026-01-22 |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
 | [Regular Piece Of Shit](https://open.spotify.com/track/27zQNRkLR1kfhIuyfTcMic) | [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Regular Piece Of Shit](https://open.spotify.com/album/6B5lAhbdRmNihTZ2OqZd9e) | 2:43 | 2026-01-26 |  |
@@ -700,6 +704,7 @@
 | [Shadows Devour](https://open.spotify.com/track/2hK8q1XtpUgJg5oNWR1zlx) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Shadows Devour](https://open.spotify.com/album/5GrEGsmB0efkNI478LlFnt) | 4:04 | 2025-11-11 | 2025-12-10 |
 | [Shallow End](https://open.spotify.com/track/6DJChk81zSNNKBV2gC9KPL) | [Ghost Tail](https://open.spotify.com/artist/46bTT0AboCJSfadZkaiQQm) | [Shallow End](https://open.spotify.com/album/7vEMzH71vz89t2AGKD7NLE) | 3:28 | 2026-01-05 | 2026-01-29 |
 | [Shape Shifter](https://open.spotify.com/track/7sD50e8OpxIo2p66mIyucQ) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:36 | 2025-09-16 |  |
+| [Shatter & Bloom](https://open.spotify.com/track/3Y4OsCAxXW7STwfuAZEgEL) | [STELLVRIS](https://open.spotify.com/artist/3n9SWHa9CmQldmLrD9zfll) | [Shatter & Bloom](https://open.spotify.com/album/5jyYIGqJnb72ZavsFA87Gi) | 3:18 | 2026-02-25 |  |
 | [shattered pieces](https://open.spotify.com/track/5Yo5uIz5sTxR4LlhrnH2Lu) | [Gio](https://open.spotify.com/artist/3pZdYYAxDUV9p5ACtDk6f7) | [shattered pieces](https://open.spotify.com/album/0qN3LXo0aUubbAiGjeusgF) | 3:11 | 2026-01-16 | 2026-02-17 |
 | [she](https://open.spotify.com/track/1T2F8xiWV4L3Py6Y76WhkZ) | [paul delamour](https://open.spotify.com/artist/0aBLkf0fmrwxzHQmdafK1c) | [a wound without a scar](https://open.spotify.com/album/4javgifMz83rbGNLdg5Xgs) | 1:30 | 2026-01-23 | 2026-02-12 |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2025-12-08 | 2026-01-06 |
@@ -872,6 +877,7 @@
 | [Unrequited Love](https://open.spotify.com/track/52juohYeuWVBUJNBEhMpJO) | [HAEZL](https://open.spotify.com/artist/6QZcEovtcGCLrWhIOL4omg) | [Unrequited Love](https://open.spotify.com/album/1c5cmFTEYDjzCas7s7bMj9) | 3:32 | 2025-12-31 | 2026-01-22 |
 | [untitled](https://open.spotify.com/track/5FZKydewgkZrAbMAajABTr) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [untitled](https://open.spotify.com/album/0xNK6CW6YpxGOYUXa8BzSp) | 3:28 | 2025-12-11 | 2026-01-06 |
 | [useless](https://open.spotify.com/track/1z7CZwKoET1NjbNdI6czPb) | [headcanons](https://open.spotify.com/artist/6prpeu1xInORPMSjyQj9j4) | [crushed aspirations](https://open.spotify.com/album/6VHTtXrRcoOteu0b0qBiKU) | 3:32 | 2026-01-09 | 2026-01-29 |
+| [Useless](https://open.spotify.com/track/10KZ7d58qC7JdRIyfTEbyy) | [Red Gordon](https://open.spotify.com/artist/6WbMDHG7ykwKbtD2iIIwp2) | [Nothing Less Than Everything](https://open.spotify.com/album/24a8fEc4lRA1dYaWIQyplk) | 3:48 | 2026-02-25 |  |
 | [Varmint](https://open.spotify.com/track/4P0RSEtEaYlQo8Max87Ty2) | [Asian Cowboy](https://open.spotify.com/artist/4roPjujkVe5prnArhxLJ60) | [Varmint](https://open.spotify.com/album/1MZPMKzoNzHUtHUJZYl6wS) | 2:27 | 2026-02-23 |  |
 | [Veneer of Happiness](https://open.spotify.com/track/05XSQqpNie45Bm5DiIBYJt) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Veneer of Happiness](https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe) | 3:49 | 2025-10-24 | 2025-12-10 |
 | [Vessel](https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq) | [GLDN](https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW) | [Vessel](https://open.spotify.com/album/6j79vB7AG5rREwvnCYP5cu) | 3:51 | 2026-02-08 |  |

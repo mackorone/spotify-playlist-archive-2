@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Layton Giordani &amp; Camden Cox
 
-1,741 songs - 3 day 20 hr 12 min
+1,742 songs - 3 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Break The Silence](https://open.spotify.com/track/7sRQpJTP2b8jRde8IsaPWm) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Break The Silence](https://open.spotify.com/album/36VWkKMQrDQoY4PAiBXFBq) | 2:32 | 2022-09-30 | 2023-01-28 |
 | [Breaking](https://open.spotify.com/track/2UWXNfECfxNCH4M21J7oUh) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Breaking](https://open.spotify.com/album/4HmJx3Y4BcATe7J8oSCmU5) | 4:06 | 2023-12-07 | 2024-04-26 |
 | [Breakthrough \- Lu.Re Remix](https://open.spotify.com/track/7mk8PjXaW5qqE7vVyP8NE5) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Breakthrough \(Lu.Re Remix\)](https://open.spotify.com/album/5JRDsyNlKo811xnfg8L7oR) | 3:41 | 2025-04-24 |  |
+| [Breathe](https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1z8uXbVJnEjCW9SAZoVjk7) | 2:56 | 2026-02-25 |  |
 | [Breathe Again](https://open.spotify.com/track/0TW3vlvbjQv8VacFEkA4Au) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Breathe Again](https://open.spotify.com/album/1WFTJH40I0edyT5ti6s7QP) | 3:05 | 2024-10-24 | 2025-04-11 |
 | [Breathe Again \- Jesabel Remix](https://open.spotify.com/track/04dd9L9N1pFT02poKjrWHJ) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [Breathe Again \(Jesabel Remix\)](https://open.spotify.com/album/6ayKvcVMP51lgFS6bSsyHb) | 3:54 | 2025-04-17 | 2025-07-18 |
 | [Breathe Deep](https://open.spotify.com/track/0slNopMRaXiqHfi1RHepYW) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Breathe Deep](https://open.spotify.com/album/4hcbjbhpg9sfBkNlS0QHF5) | 3:11 | 2022-06-09 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,101 songs - 9 day 2 hr 7 min
+4,104 songs - 9 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 | 2025-04-09 |  |
 | [Come bambini](https://open.spotify.com/track/0jdgV6W0axQL8OcIZR6TEX) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [R.A.L.P.H.](https://open.spotify.com/album/4Uxxl0SI4UaaBCmSnofMrG) | 3:01 | 2026-02-08 |  |
 | [Come In](https://open.spotify.com/track/3r99kYKzRVXYyAbLzMJ8kz) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Come In](https://open.spotify.com/album/59ntSYr0IFfQcoBaZgwqNH) | 3:42 | 2025-11-26 |  |
+| [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-02-25 |  |
 | [Come se non ci fosse un domani](https://open.spotify.com/track/3AGRiS8AeMZ3bZF3ne6pSl) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 1:57 | 2025-04-04 |  |
 | [Come Un Ultras Che Grida \- Vivere da Ultras \- Sessione Intima](https://open.spotify.com/track/1PsSE8RXbV6IfsmnQrkTCL) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Come Un Ultras Che Grida \(Vivere da Ultras \- Sessione Intima\)](https://open.spotify.com/album/33xJM8vQ7ljQrQC2jctwqQ) | 2:34 | 2025-04-04 |  |
 | [Come Un Ultras Che Grida \- Vivere da Ultras \- Sessione Intima](https://open.spotify.com/track/63M7JMxzPhGLf70AxvdPgn) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 2:34 | 2025-04-04 |  |
@@ -2575,6 +2576,7 @@
 | [Odio](https://open.spotify.com/track/5Fj0nWVtW6DgRLIxSInrES) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Grandi Bugie Legalizzate](https://open.spotify.com/album/5plR5qER6ZLx0CRmLaegEW) | 2:08 | 2025-04-04 |  |
 | [ODIO E INVIDIA](https://open.spotify.com/track/0qpKgeUt82D1niAXtHYucp) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:05 | 2025-04-04 |  |
 | [Odio e Invidia \- Sessione Intima](https://open.spotify.com/track/1pkJBGkROa2fDOU1ZpN3h4) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 2:06 | 2025-04-04 |  |
+| [Odio La Musica Trap](https://open.spotify.com/track/3SzG9XphyYjVsHOPiTnRpL) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Odio La Musica Trap](https://open.spotify.com/album/4wNoQpWFxg1gBc9Plpq2Hd) | 3:44 | 2026-02-25 |  |
 | [Odocho](https://open.spotify.com/track/41TRvYTJehEvk6KLwf0u1y) | [Pracash](https://open.spotify.com/artist/4KA9NvYMwG4eTsB2y6FoDB) | [Odocho](https://open.spotify.com/album/47u7Rjjd2jsdKYw1ymSvk8) | 3:41 | 2025-07-04 |  |
 | [Oga \(Boss\)](https://open.spotify.com/track/51fKvFRSofkCYyUT12VCJ0) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 3:00 | 2025-06-04 |  |
 | [Oggi Sono Me Stesso](https://open.spotify.com/track/6ihAtD2GWYdAKHW9HBQePo) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 1:52 | 2025-04-04 |  |
@@ -3472,6 +3474,7 @@
 | [Tales \(another\)](https://open.spotify.com/track/7gyHbg1Ga56d4yA0LAPfQV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:39 | 2025-08-20 |  |
 | [Talk](https://open.spotify.com/track/36InluMO06Y62TkvFBu54X) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ) | [Talk](https://open.spotify.com/album/6YcLbNlZGqBV1uYntoTwiW) | 2:49 | 2025-06-04 |  |
 | [Talking To The Sun](https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Well Dude Here's My Thing](https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN) | 1:19 | 2025-07-28 |  |
+| [TAMATAMGEN](https://open.spotify.com/track/486Vq6M9F55WsCSs0ESqkf) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [SONICHAOSASTRA](https://open.spotify.com/album/6V9hgsDjDVQ9KzXfyAfBaV) | 3:00 | 2026-02-25 |  |
 | [Tandipatse Mpata](https://open.spotify.com/track/46EVEhJBPOxV5yghudxBIx) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [First Step Album](https://open.spotify.com/album/1e2FCaY21cGjSkfn6cr8y9) | 3:19 | 2025-06-05 |  |
 | [Tantelectric](https://open.spotify.com/track/6JwUZhHfCb4k1KL3efgPOA) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [Tantelectric](https://open.spotify.com/album/1mEXpr1gnyNgMlfLNc6Onq) | 3:10 | 2025-08-04 |  |
 | [Tanti auguri a te..\. e la torta a me](https://open.spotify.com/track/0Gza5Xwt7Nq0U7lWk10m3r) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Tanti auguri a te..\. e la torta a me](https://open.spotify.com/album/07VIEAXP9mpLvGVNdPFxTS) | 2:48 | 2025-12-10 |  |

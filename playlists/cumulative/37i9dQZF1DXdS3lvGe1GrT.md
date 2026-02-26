@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
-2,024 songs - 5 day 0 hr 58 min
+2,030 songs - 5 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Cicadas](https://open.spotify.com/track/7eN1PLIWKQ1lMe8l1oeoXD) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Cicadas](https://open.spotify.com/album/74ziRxl4tZLmFlG1FqqZWM) | 4:06 | 2024-12-04 | 2025-01-16 |
 | [cinnamon bread](https://open.spotify.com/track/2ilbFsa0k9lQXK08Rh2BAQ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [cinnamon bread](https://open.spotify.com/album/5IndSFuH05TmYjzNyXEn6h) | 3:01 | 2023-10-04 | 2024-01-11 |
 | [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 | 2023-08-16 | 2023-10-13 |
+| [Class Reunion](https://open.spotify.com/track/7jFx42obhvJXv83rH2ZpKj) | [Beatrix](https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh) | [Class Reunion](https://open.spotify.com/album/7kMUf9GrFRtMWXLY1Rtd9p) | 4:11 | 2026-02-25 |  |
 | [Clean Cut](https://open.spotify.com/track/2exzpcAhjJmnw4clYVLmkp) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Clean Cut](https://open.spotify.com/album/5MTtsV1XLkI3lxFn1M4aWc) | 3:34 | 2024-02-14 | 2024-04-19 |
 | [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-11 | 2023-12-11 |
 | [Clockwork](https://open.spotify.com/track/06MAgI9FF2nWUDoJSork3Z) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Clockwork](https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4) | 2:21 | 2022-05-25 | 2022-07-29 |
@@ -461,6 +462,7 @@
 | [departure hall](https://open.spotify.com/track/5RhlpOZGOsOnzVEZLmjWZG) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [departure hall](https://open.spotify.com/album/0YgBekUUGHVNTuOJayZl4t) | 3:47 | 2022-05-25 | 2022-08-04 |
 | [departure time](https://open.spotify.com/track/5MJ6G4f1CJPFun4innY5Ga) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [free therapy \(deluxe\)](https://open.spotify.com/album/3Z1NSs8bquNLSiuWd3RFtM) | 3:50 | 2025-12-03 | 2026-01-15 |
 | [departure time](https://open.spotify.com/track/5lwdrVvj3pjXyoiaifx7Pn) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [departure time](https://open.spotify.com/album/4965cFIF0z594PyvYPIXyv) | 3:50 | 2025-04-02 | 2025-06-12 |
+| [Desert Horse](https://open.spotify.com/track/6WdyBn0hIDJa33KFMKuy0A) | [YONAH](https://open.spotify.com/artist/3x2O11OST09HF9T2jMOTjL) | [Desert Horse](https://open.spotify.com/album/1p8JaGm0nprhboSoTfU9Oy) | 2:50 | 2026-02-25 |  |
 | [Devil on the Dresser](https://open.spotify.com/track/5q01RMBLUJkQrHKAoQacek) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Deep Sleeper](https://open.spotify.com/album/0ZzHsXQH3iXMEawIaXw4zm) | 3:20 | 2024-05-08 | 2024-07-18 |
 | [Diamonds](https://open.spotify.com/track/5ibRQNS2RMKMu7aX7OzYGv) | [Amanda Fields](https://open.spotify.com/artist/2PnfLtYzDVahZb1FGldOOH) | [What, When and Without](https://open.spotify.com/album/4foD6VsVsEsbGn1faz18KC) | 3:50 | 2023-03-08 | 2023-04-13 |
 | [Diamonds](https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM) | 3:52 | 2023-06-02 | 2023-07-27 |
@@ -513,6 +515,7 @@
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-09-20 | 2024-01-11 |
 | [dreamer](https://open.spotify.com/track/73n6NRgI6V1B1isZ4eFta8) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [dreamer](https://open.spotify.com/album/4KK4KUZMu03yMPFJ4wSchs) | 3:33 | 2025-07-09 | 2025-10-30 |
 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 | 2022-11-30 | 2023-01-12 |
+| [Dreams I've Had](https://open.spotify.com/track/3lWZKgwlETbjSCJXKFeuhB) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Dreams I've Had](https://open.spotify.com/album/24slMgYTh3mDDc8ouu5BJB) | 4:20 | 2026-02-25 |  |
 | [Dreamt of You](https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Dreamt of You](https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1) | 3:18 | 2025-02-05 | 2025-05-15 |
 | [Drive](https://open.spotify.com/track/6fyMrWLRwp2GMnXmcjnDel) | [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [Drive](https://open.spotify.com/album/5FyOiAAhEMhNOvoMJ6NdmB) | 3:24 | 2024-03-13 | 2024-05-16 |
 | [Drive Carefully](https://open.spotify.com/track/6743qULo3SoDUKjGC3Dju2) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Drive Carefully](https://open.spotify.com/album/2e3AwzwENq3TQwHcWMWvyi) | 3:28 | 2023-10-04 | 2023-12-11 |
@@ -925,6 +928,7 @@
 | [I'm On Your Team](https://open.spotify.com/track/69jT12rES32If7pt7tC6SK) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [I'm On Your Team](https://open.spotify.com/album/4vreIPwo6krkOo8bwRXjJl) | 4:18 | 2022-08-31 | 2022-10-13 |
 | [I'm On Your Team](https://open.spotify.com/track/6CdtjsAgvjmt2vcnWmmUht) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Light Moving Time](https://open.spotify.com/album/7cxAj3AFBFrEGxXyPvn9ER) | 4:18 | 2022-11-30 | 2023-01-12 |
 | [I'm Tired](https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4) | [My Final Sanctuary](https://open.spotify.com/artist/2uIUI2Atle9OTOvwb3UfYO) | [I'm Tired](https://open.spotify.com/album/7oB65bc5kSOn3blOn7Od3n) | 3:14 | 2024-05-08 | 2024-07-18 |
+| [i\. lobotomy](https://open.spotify.com/track/57R1KFJAY1j3xQWNWglJJd) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Four Studies on Injury and Return](https://open.spotify.com/album/2w5PBzapLDZryjNVeB5rdz) | 2:46 | 2026-02-25 |  |
 | [i\. Thank God I Have The Songs](https://open.spotify.com/track/0FHfrdZDVeK9P9xIsv6351) | [Fritillaries](https://open.spotify.com/artist/7hKRzvFr1F5n3811llcUi1) | [Thank God I Have The Songs](https://open.spotify.com/album/1CcAwFXhxlJShfRpLJEZsR) | 3:48 | 2024-07-10 | 2024-09-12 |
 | [Ice Cream Man](https://open.spotify.com/track/49UWYukd57z7wmPJcGfMER) | [Darling Farm](https://open.spotify.com/artist/51KpzsOhEgF10B7cBROtVC) | [No, Yeah](https://open.spotify.com/album/5VFILulLTqwhiH0CTxFK9p) | 3:25 | 2022-05-25 | 2022-09-09 |
 | [Ice Cream On The Beach](https://open.spotify.com/track/49xKMPuPFolSvn7qfUvWM4) | [Annabelle Chairlegs](https://open.spotify.com/artist/1Fr1a6j80ISD0UonvFM5V6) | [Ice Cream On The Beach](https://open.spotify.com/album/03vTuDK7bSkoBJyUCe2LUB) | 2:29 | 2025-09-24 | 2025-12-04 |
@@ -1458,6 +1462,7 @@
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2022-05-25 | 2023-01-12 |
 | [Radio Song](https://open.spotify.com/track/4fFdTGEaDSUtBTdNLEdye5) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Radio Song](https://open.spotify.com/album/01ljkNFLUijr0wm4WRH975) | 5:02 | 2025-01-15 | 2025-03-07 |
 | [Rainbows and Ridges](https://open.spotify.com/track/7zYLBrB4yZTuI5NDaKAwlP) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Rainbows and Ridges](https://open.spotify.com/album/5CJBt0WtcNtaPGRuw6hG3O) | 3:10 | 2025-01-15 | 2026-01-15 |
+| [Rare](https://open.spotify.com/track/2Z42tEaq49iNuQ2jAtVgGs) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Rare](https://open.spotify.com/album/7L72HTWpcLkW05Ak1GoCag) | 3:20 | 2026-02-25 |  |
 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2022-11-30 | 2023-01-12 |
 | [Ready](https://open.spotify.com/track/6UujWZbimR3yS5m65C0Nir) | [Ariella](https://open.spotify.com/artist/6w0vaIhMHgLjF7HUDmth81) | [Ready](https://open.spotify.com/album/722yld0yP6gdy4tFsJNsfg) | 2:20 | 2024-04-24 | 2024-07-04 |
 | [Reality Mind](https://open.spotify.com/track/553klLGtJCONJztTXktVF6) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [A New Reality Mind](https://open.spotify.com/album/6gWz09raxjmq1EMIPcbnFy) | 3:41 | 2023-08-02 | 2023-10-05 |
@@ -2003,6 +2008,7 @@
 | [Year Away](https://open.spotify.com/track/7vSByofbksm1HHK7YIcK2U) | [Kacey Johansing](https://open.spotify.com/artist/5V1yrA8FrMhKkl4rCu6flc) | [Year Away](https://open.spotify.com/album/6rvJJLDiRRNVBqUzAfFsxm) | 4:10 | 2023-10-18 | 2023-12-11 |
 | [Yellow](https://open.spotify.com/track/3C5hGTfQ9ikxFhmZEW0kLr) | [Willie Pearl](https://open.spotify.com/artist/2WPrUOZjxPSvCnbeC8mNO8) | [Willie Pearl](https://open.spotify.com/album/1VWP3B4Fms7NgEv6CdfMbX) | 4:24 | 2024-11-13 | 2025-01-16 |
 | [Yellow Clouds](https://open.spotify.com/track/29GMkdukLQ3ic2hCwWd1Zd) | [Bombadil](https://open.spotify.com/artist/6AlXfeCNG9lrauBDG7GyjM) | [In Color](https://open.spotify.com/album/6vr8ItKU5jUNFfcZ1Fz1fq) | 2:36 | 2023-06-07 | 2023-08-03 |
+| [Yellow House](https://open.spotify.com/track/6D0P3ZuzgP6cGBhXEDLmRA) | [Satya](https://open.spotify.com/artist/5GITUEMmJSSaCT3rr4pQXq) | [Yellow House](https://open.spotify.com/album/7B2hFfVp0IM8xcyiy635sd) | 3:50 | 2026-02-25 |  |
 | [Yer Time'll Come](https://open.spotify.com/track/0ebR7XgjrUBOHdM6xGioOp) | [Andrew Gabbard](https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6) | [Yer Time'll Come](https://open.spotify.com/album/28EAaiC0JOfuILtaMnPMLm) | 4:05 | 2023-03-15 | 2023-03-26 |
 | [Yer Time'll Come](https://open.spotify.com/track/6R3q36NLBSLsrt0sdEraFQ) | [Andrew Gabbard](https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6) | [Cedar City Sweetheart](https://open.spotify.com/album/1K94PNMQvRP63zFZMQq8jN) | 4:05 | 2023-03-15 | 2023-04-27 |
 | [Yo\-Yo](https://open.spotify.com/track/5mjGCamdfZt5igub3sgvF1) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Yo\-Yo](https://open.spotify.com/album/0Rfrbffryab6aXJeD3xIc0) | 2:43 | 2025-05-07 | 2025-06-19 |

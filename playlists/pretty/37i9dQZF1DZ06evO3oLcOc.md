@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,723 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,733 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 36 | [Faded](https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:31 |
 | 37 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
 | 38 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 |
-| 39 | [Lightskin Lil Wayne](https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:33 |
-| 40 | [Switch Lanes](https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:41 |
+| 39 | [Switch Lanes](https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:41 |
+| 40 | [Lightskin Lil Wayne](https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:33 |
 | 41 | [Real Deal](https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Real Deal \- Single](https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0) | 3:37 |
 | 42 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 |
 | 43 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [Dip \(feat\. Nicki Minaj\)](https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:15 |
 | 50 | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:40 |
 
-Snapshot ID: `aZuYgAAAAAAbqj+mQ6yUqfZobxOdGk1J`
+Snapshot ID: `aZzqAAAAAACg3QN/pmKg7Kjr8H3BFndA`

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: never young beach
 
-3,067 songs - 8 day 0 hr 52 min
+3,067 songs - 8 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1252,6 +1252,7 @@
 | [Orange Crush](https://open.spotify.com/track/5BZs1EdhaRbwuTeLuHUYwZ) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [100%](https://open.spotify.com/album/2ZSoVLNwqPeVwnpL7QI7tN) | 3:17 | 2025-03-25 | 2025-04-02 |
 | [Oredake ga Zu Bu Nu Re](https://open.spotify.com/track/2UArtQ1NiQFBRldVW9zCLG) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Oredake ga Zu Bu Nu Re](https://open.spotify.com/album/6F84iZHVnH7pqmfLbjluv4) | 3:37 | 2024-02-20 | 2024-02-28 |
 | [Orion](https://open.spotify.com/track/0bTSc8LuGjqSZZOD2gpEgK) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [STELLA](https://open.spotify.com/album/2sBKXrb8Ae2wpNHUQRu3sx) | 3:00 | 2025-09-30 | 2025-10-09 |
+| [Osoro \(Heaven\)](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 2:20 | 2026-02-24 |  |
 | [Our Broken Promises](https://open.spotify.com/track/0RejMmu9HKED4JvhyShW9A) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Our Broken Promises](https://open.spotify.com/album/3Bb7TlncLQAB3O3d0l1wiu) | 4:09 | 2025-02-25 | 2025-05-07 |
 | [our days](https://open.spotify.com/track/0QP8LxYFalsGWySNMTvZ2V) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [29](https://open.spotify.com/album/3a6tiBGobymTk5TiKBaKFv) | 4:07 | 2025-10-28 | 2025-11-05 |
 | [Our Place](https://open.spotify.com/track/5NP138SXXvwjJUN9yhS1V1) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Our Place](https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD) | 4:22 | 2024-01-09 | 2024-01-17 |
@@ -1813,7 +1814,6 @@
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Track 1](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 0:00 | 2026-02-24 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |

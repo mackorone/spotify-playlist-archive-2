@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 151457,
       "name": "A New Day Has Come",
       "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -620,10 +620,28 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
+    },
+    {
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
     },
     {
       "album": {
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 252986,
       "name": "Life Sentence",
       "url": "https://open.spotify.com/track/0pchHye1t8VA9gTHK3hAAZ"
@@ -5660,7 +5678,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 150830,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/1EAYKOlvTs4jNUpTKg0IBR"
@@ -5686,6 +5704,28 @@
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
+    },
+    {
+      "album": {
+        "name": "MY JEALOUSY",
+        "url": "https://open.spotify.com/album/3fsyOktHABDK3dBrjc89NY"
+      },
+      "artists": [
+        {
+          "name": "vivi baby",
+          "url": "https://open.spotify.com/artist/2VEjtfZuEMFeHHc1Zp5L6R"
+        },
+        {
+          "name": "ovg!",
+          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150830,
+      "name": "MY JEALOUSY",
+      "url": "https://open.spotify.com/track/4Rh6Anh8JU6FPI5msHyKW5"
     },
     {
       "album": {
@@ -6713,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203522,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
+    {
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -6858,6 +6916,24 @@
     {
       "album": {
         "name": "Rain",
+        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+    },
+    {
+      "album": {
+        "name": "Rain",
         "url": "https://open.spotify.com/album/5bulA2BytiRGenxeCYJGAb"
       },
       "artists": [
@@ -6868,7 +6944,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 208640,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4nB3PH4337Y0ijVDUAgdPe"
@@ -7536,7 +7612,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 180582,
       "name": "Someone Out Of Town",
       "url": "https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb"
@@ -7554,7 +7630,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 181173,
       "name": "Someone Out of Town",
       "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
@@ -7710,7 +7786,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -8910,7 +8986,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 139020,
       "name": "Vincent's Tale - Starry Night - Act I",
       "url": "https://open.spotify.com/track/5EqVsl9c13YQjuB0giqLo8"
@@ -9706,7 +9782,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
@@ -9724,7 +9800,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 268933,
       "name": "Wuthering Heights - 2018 Remaster",
       "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"

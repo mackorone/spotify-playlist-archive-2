@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-884 songs - 1 day 23 hr 32 min
+885 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [R&B All Night](https://open.spotify.com/track/6MrVXeEMf0MULWdclDk4sI) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ) | [Mr\. Enjoy Da Money](https://open.spotify.com/album/1AVwD6m0CZJLMTzcZangei) | 3:53 | 2019-12-16 | 2020-05-19 |
 | [Racecar](https://open.spotify.com/track/6vQma4Znxv7o0CQFSBUYfI) | [Adam Faybrem](https://open.spotify.com/artist/6GM4wtI74Hm34hTUtNbtKt) | [Racecar](https://open.spotify.com/album/5vuKN7qk7Gh0jrKFfdVu1L) | 3:04 | 2019-08-27\* | 2019-11-11 |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-08-27 |  |
+| [Rage](https://open.spotify.com/track/4WAWPLY7EBPmtjg4X4X1HD) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Rage](https://open.spotify.com/album/2tmHGkMjCXggqKE2XvoC6I) | 3:13 | 2026-02-25 |  |
 | [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2022-08-04 |  |
 | [Reason to Believe \(feat\. Courtney Barnett\)](https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp), [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Reason to Believe \(feat\. Courtney Barnett\)](https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX) | 2:29 | 2021-01-08 | 2025-07-17 |
 | [Reasons](https://open.spotify.com/track/2FUC4I9jmrmanxKFpIfhu6) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Reasons](https://open.spotify.com/album/7kHWiBH2vYL6hdemhtct01) | 2:20 | 2020-07-26 | 2021-05-12 |

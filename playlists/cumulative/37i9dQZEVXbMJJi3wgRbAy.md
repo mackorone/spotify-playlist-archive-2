@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,276 songs - 2 day 19 hr 33 min
+1,277 songs - 2 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Jagger.mp3](https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:35 | 2023-11-04 | 2023-11-07 |
 | [JEFES DEL SUDOESTE](https://open.spotify.com/track/1AnmoOrnlOea9GEUSnIqvR) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:27 | 2023-06-24 | 2023-06-30 |
 | [JET\_Set.mp3](https://open.spotify.com/track/2raFBS5ysJMxhd755bvAcf) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:25 | 2024-01-13 | 2024-01-23 |
+| [JETSKI \- Remix](https://open.spotify.com/track/7z26frY6O7BXwyjeqzYo7W) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [JETSKI \- Remix](https://open.spotify.com/album/1sjNMQMlvjVlxVGuPLVzPi) | 3:01 | 2026-02-25 |  |
 | [JOJO](https://open.spotify.com/track/2saFG2pbkGxUeOIYStxvyx) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:10 | 2025-11-22 | 2025-11-24 |
 | [JOJO](https://open.spotify.com/track/4Ldo3ZQCK6KpTHm1wsbWOg) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [JOJO](https://open.spotify.com/album/4MvXN88TgxRdH88qadBEG8) | 2:10 | 2025-11-01 | 2025-11-06 |
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-03-09 | 2022-06-15 |
@@ -910,7 +911,7 @@
 | [Qloo\*](https://open.spotify.com/track/0aBwWUpgmZ1PialHl79Ini) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Directamente Desde el Tanque](https://open.spotify.com/album/3c8FQOgNGmmiF6PJqTW80j) | 2:29 | 2025-12-25 |  |
 | [Qloo\*](https://open.spotify.com/track/4xAPdaZvmrIkfGviwXTv3j) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Qloo\*](https://open.spotify.com/album/11pCxVmKsmEOk2q5koy4xi) | 2:29 | 2025-08-28 | 2025-12-26 |
 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 | 2025-07-17 | 2026-01-18 |
-| [QLOO\*](https://open.spotify.com/track/7CMj1OOS1ho4CPEQTFKzcN) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 2:26 | 2026-01-17 |  |
+| [QLOO\*](https://open.spotify.com/track/7CMj1OOS1ho4CPEQTFKzcN) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 2:26 | 2026-01-17 | 2026-02-26 |
 | [QUE CABRONA](https://open.spotify.com/track/2oZqk6nAy2CSAcmINCMi2N) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [QUE CABRONA](https://open.spotify.com/album/2RSVEhLOpYwQifGU7rxSAd) | 2:48 | 2025-03-31 | 2025-07-10 |
 | [Que Chulo](https://open.spotify.com/track/1LjOKsO0gU9D5jG7446SMl) | [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Que Chulo](https://open.spotify.com/album/29JOEyiKh4hiDvjxrKNmgn) | 1:55 | 2024-07-04 | 2024-07-06 |
 | [Que Dolor](https://open.spotify.com/track/48Pf7zioiN5Npe8EjDgoss) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Que Dolor](https://open.spotify.com/album/2fWmQAHo1dbqxz89LPV4Gj) | 3:01 | 2023-07-02 | 2025-11-13 |

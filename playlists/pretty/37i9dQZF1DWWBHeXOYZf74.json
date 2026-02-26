@@ -1,13 +1,45 @@
 {
   "description": "Genre-less. Quality first always. Cover: Baby Keem",
-  "num_followers": 1327899,
+  "num_followers": 1327868,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPw8PyJpV/0drTtw4m40V8sfloF6",
+  "snapshot_id": "AAAAAPCBgCQvtG8vgumj0OtqXXrTPTIM",
   "tracks": [
+    {
+      "added_at": "2026-02-25 17:52:46",
+      "album": {
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
+      "added_at": "2026-02-25 17:52:46",
+      "album": {
+        "name": "Imitation (how to become you)",
+        "url": "https://open.spotify.com/album/76Gp2fuUkbbWT2UWTnyaYz"
+      },
+      "artists": [
+        {
+          "name": "doggone",
+          "url": "https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt"
+        }
+      ],
+      "duration_ms": 256271,
+      "name": "Imitation (how to become you)",
+      "url": "https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk"
+    },
     {
       "added_at": "2026-02-20 05:00:52",
       "album": {
@@ -27,6 +59,22 @@
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "added_at": "2026-02-25 17:52:46",
+      "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/5xPMAEdxZtr25QazgO024g"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 197716,
+      "name": "Written into Changes",
+      "url": "https://open.spotify.com/track/0JmWTXLKNep8x1uza83tpE"
     },
     {
       "added_at": "2026-02-20 05:00:52",

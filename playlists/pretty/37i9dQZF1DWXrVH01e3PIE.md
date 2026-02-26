@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Mike Southside & Corona en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,189 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,159 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 92 | [Tan Mala](https://open.spotify.com/track/58Z1WVS43ThivjK54HmDTj) | [salas flaco](https://open.spotify.com/artist/35DjUjNHUUlFxsEPS3kF6a) | [Tan Mala](https://open.spotify.com/album/12ZzcctWbKzCBXGsnLAl0E) | 1:48 |
 | 93 | [cada día +](https://open.spotify.com/track/1qIyb1xu5chuUOcXQQOoU7) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [cada día +](https://open.spotify.com/album/56lw4pe5XtUhS4TR6g209H) | 1:57 |
 | 94 | [Eternos Retornos, Capítulo 3](https://open.spotify.com/track/0JcW5ViUMFmBxF7yATZw3s) | [kerse](https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Eternos Retornos, Capítulo 3](https://open.spotify.com/album/5UqvrqjrlHUE16ZtR0plrp) | 1:50 |
-| 95 | [+ PLATA](https://open.spotify.com/track/1N0HsUtzZEkhRwpVldh71t) | [ELOY](https://open.spotify.com/artist/5RlknyrjuFOhtJf2zOqoxb), [Bran](https://open.spotify.com/artist/238KQLdXxiMgvCH1KSuIbv), [Rayder](https://open.spotify.com/artist/33PpkcHB2eCvphzqqqDAmC), [Jumper](https://open.spotify.com/artist/0gJijjPgdn4ZYBwhvXdjNT) | [+ PLATA](https://open.spotify.com/album/5K977l6gXGaaO5j7wGRGn8) | 2:39 |
+| 95 | [+ PLATA](https://open.spotify.com/track/1N0HsUtzZEkhRwpVldh71t) | [ELOY](https://open.spotify.com/artist/5RlknyrjuFOhtJf2zOqoxb), [Bran](https://open.spotify.com/artist/238KQLdXxiMgvCH1KSuIbv), [Rayder](https://open.spotify.com/artist/6NduCSorGV1CQd9y2U1YSk), [Jumper](https://open.spotify.com/artist/0gJijjPgdn4ZYBwhvXdjNT) | [+ PLATA](https://open.spotify.com/album/5K977l6gXGaaO5j7wGRGn8) | 2:39 |
 | 96 | [MONTÓN](https://open.spotify.com/track/12q3AXhAtx2lOroeYWjgcm) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [MONTÓN](https://open.spotify.com/album/5wAIIXtHxQAGPaOntCTzXU) | 2:24 |
 | 97 | [MENOS MAL](https://open.spotify.com/track/2j0tu91a5OGkKOVLMVhyEX) | [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [RESET](https://open.spotify.com/album/2RJAqhDjcD0pB6TeUZlzMM) | 2:35 |
 | 98 | [Gitana \(feat\. ECKO\)](https://open.spotify.com/track/460GbNNsi4zzJPdtETzWGP) | [HDR](https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Gitana \(feat\. ECKO\)](https://open.spotify.com/album/07aQrc5VgAKM4gFVVIakmQ) | 2:31 |

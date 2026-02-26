@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,198 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,195 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 46 | [Bangkok Bandit](https://open.spotify.com/track/4E16iJzoICPLMfodgAjdJU) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2) | [Bangkok Bandit](https://open.spotify.com/album/47uADhvQMn8n1VxS9cbV16) | 2:38 |
 | 47 | [The Jam](https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0) | [Stylistic Murder](https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s), [Cam One](https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF) | [The Jam](https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F) | 2:39 |
 | 48 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
-| 49 | [Meditation](https://open.spotify.com/track/6FlFQW3SbvKTq2cJImmg8N) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Meditation](https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi) | 3:23 |
-| 50 | [Nothing's Changed](https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Nothing's Changed](https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS) | 2:39 |
+| 49 | [Nothing's Changed](https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Nothing's Changed](https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS) | 2:39 |
+| 50 | [Meditation](https://open.spotify.com/track/6FlFQW3SbvKTq2cJImmg8N) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Meditation](https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi) | 3:23 |
 | 51 | [duck duck goose](https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr) | [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [J2](https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Dylan Hingston](https://open.spotify.com/artist/2ZtU4IjCSv0IspRu1xO6al) | [duck duck goose](https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR) | 3:12 |
 | 52 | [Bait](https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [Bait](https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22) | 2:13 |
 | 53 | [Glistenin'](https://open.spotify.com/track/5wlDMTdMvXSOmfDz9Cqb0I) | [JAY MALAKHI](https://open.spotify.com/artist/3P8v5QqGUYcqpL2IqJs6Rb) | [Glistenin'](https://open.spotify.com/album/4Nhvj3dexYXs3jecSBlMRy) | 2:58 |

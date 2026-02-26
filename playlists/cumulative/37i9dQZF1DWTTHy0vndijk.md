@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Hearts2Hearts \(하츠투하츠\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-526 songs - 1 day 4 hr 40 min
+527 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
 | [Bloom](https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [lip bomb](https://open.spotify.com/album/3H7MTJVprjcvlvCeQdRe1H) | 2:56 | 2025-11-25 | 2026-02-11 |
 | [BLOOM](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:23 | 2024-03-08 | 2024-05-23 |
+| [Bloom hour](https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Bloom hour](https://open.spotify.com/album/3Jgic38bRcv9eiunNaxv3z) | 3:00 | 2026-02-25 |  |
 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 | 2024-04-08 | 2024-10-17 |
 | [Boo](https://open.spotify.com/track/6i7mQOXDa23mOJb5TjPqQc) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Growing Up](https://open.spotify.com/album/2xJZSgxlKvcOCR2aLA8Pq2) | 3:23 | 2022-04-04 | 2022-04-10 |
 | [Boogie Up](https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [SPECIAL ALBUM <For the Summer>](https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ) | 3:03 | 2021-11-29 | 2022-07-28 |
@@ -354,7 +355,7 @@
 | [Psycho](https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Psycho \(From "Operation: True Love"\)](https://open.spotify.com/album/2nanNUoMsYRnX9U6jvdUkw) | 2:11 | 2025-11-21 | 2026-01-29 |
 | [Pure Love](https://open.spotify.com/track/5pjRQhcBP1fJkJt1lIluWK) | [Seorina](https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP) | [MARHEN.J : SUSTAIN](https://open.spotify.com/album/5E2gfnDgVuApKHVnmyswjB) | 3:13 | 2022-07-08 | 2022-07-29 |
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-19 | 2022-07-29 |
-| [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-11-29 |  |
+| [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-11-29 | 2026-02-26 |
 | [Rainbow](https://open.spotify.com/track/5eAO1GfoVes9JelndbXfCR) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.2 Narcissus](https://open.spotify.com/album/1Y9ADL4odfgfgO7rwyL3zu) | 3:36 | 2022-03-29 | 2022-04-20 |
 | [Ready Or Not](https://open.spotify.com/track/0Sp0RwhaE0CdJE8ctmXk4U) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Ready Or Not](https://open.spotify.com/album/6uFRDoLaMdhTSDOOp5xW1z) | 3:20 | 2022-03-29 | 2022-04-18 |
 | [REAL YOU](https://open.spotify.com/track/3ax3sc1Rn99YbjyKT0HALS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2022-04-04 | 2022-04-21 |

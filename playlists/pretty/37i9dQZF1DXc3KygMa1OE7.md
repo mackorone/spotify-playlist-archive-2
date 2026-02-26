@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,602,727 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,602,807 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 67 | [Tonight I Celebrate My Love](https://open.spotify.com/track/622nEHkm52E6ijVShcea9f) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Peabo Bryson Collection](https://open.spotify.com/album/2PZbzFwkxnZ3vfOeB1zoIZ) | 3:31 |
 | 68 | [Casablanca](https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [Just Another Day in Paradise](https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN) | 4:34 |
 | 69 | [In Your Eyes \- Remastered](https://open.spotify.com/track/5IFF4trraoSYuSxPQKgnv7) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Special Edition\)](https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js) | 5:27 |
-| 70 | [Sexy Girl](https://open.spotify.com/track/6c3rTjGR3FuGfTGj4D5S7l) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [The Allnighter](https://open.spotify.com/album/1XrMP6S74aDQjLvDpSFD9c) | 3:31 |
-| 71 | [Every Woman In The World \- Digitally Remastered 1999](https://open.spotify.com/track/30IcbXIfDDhKi7rW6TNUV0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Best of Air Supply: Ones That You Love](https://open.spotify.com/album/09xjEibrHp8sYnLDg4ehJ9) | 3:27 |
-| 72 | [Endless Love \- Endless Love/Soundtrack Version](https://open.spotify.com/track/10l4NKnCy92pkXnxESPzDw) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Definitive Collection](https://open.spotify.com/album/2Rd1gDdcoKvdtwKRwFk3SF) | 4:26 |
-| 73 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
-| 74 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/2vEQ9zBiwbAVXzS2SOxodY) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/6FTFKwFEs3hwpnj68VKXg3) | 4:30 |
-| 75 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 |
+| 70 | [Every Woman In The World \- Digitally Remastered 1999](https://open.spotify.com/track/30IcbXIfDDhKi7rW6TNUV0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Best of Air Supply: Ones That You Love](https://open.spotify.com/album/09xjEibrHp8sYnLDg4ehJ9) | 3:27 |
+| 71 | [Endless Love \- Endless Love/Soundtrack Version](https://open.spotify.com/track/10l4NKnCy92pkXnxESPzDw) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Definitive Collection](https://open.spotify.com/album/2Rd1gDdcoKvdtwKRwFk3SF) | 4:26 |
+| 72 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
+| 73 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/2vEQ9zBiwbAVXzS2SOxodY) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/6FTFKwFEs3hwpnj68VKXg3) | 4:30 |
+| 74 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 |
+| 75 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
 
-Snapshot ID: `AAAAALIIXTD6YARvy6SD2PEdUpype+6o`
+Snapshot ID: `AAAAAOIB1TZ1tRjR8UizPqo0f4S/Pik4`

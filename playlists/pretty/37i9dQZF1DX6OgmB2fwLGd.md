@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. the sound chalk makes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,097 likes - 70 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,041 likes - 70 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

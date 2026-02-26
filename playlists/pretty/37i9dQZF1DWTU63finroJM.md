@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: wane
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,659 likes - 37 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,717 likes - 37 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 17 | [man down](https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [man down](https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB) | 2:08 |
 | 18 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 |
 | 19 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
-| 20 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |
-| 21 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
+| 20 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
+| 21 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |
 | 22 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 23 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
 | 24 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 |

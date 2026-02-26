@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 159 songs - 8 hr 17 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 161 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,5 +167,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 157 | [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 |
 | 158 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 |
 | 159 | [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 |
+| 160 | [Princesa](https://open.spotify.com/track/7zcrv8yoINv4GdPAGUEnmm) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Princesa](https://open.spotify.com/album/5pLYv8ZPnql7p8uOfjIXKo) | 2:49 |
+| 161 | [Pussy](https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf) | [C4BASS](https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw), [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Pussy](https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn) | 2:26 |
 
-Snapshot ID: `AAAVpYdfB6oGCuF+mcFTY3tUynWQ1LY+`
+Snapshot ID: `AAAVp0K2I0TEdEFLvt/TZGxHYreazG8p`

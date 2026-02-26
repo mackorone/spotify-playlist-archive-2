@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,653 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,654 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 15 | [Samen Voor Altijd](https://open.spotify.com/track/3zJ2U5rN8Pl1Aqnxar7TOw) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Jada Borsato](https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE), [Day Ewbank](https://open.spotify.com/artist/4hdeWCPuav4Ezwtb9OGCb1), [John Ewbank](https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG) | [Duizend Spiegels](https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr) | 4:08 |
 | 16 | [Leef Nu Het Kan](https://open.spotify.com/track/7sMx7mu0VxhEcrfATmLok6) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Leef \(Deluxe Edition\)](https://open.spotify.com/album/5f2Lv9px7pmFzABGxLsxEJ) | 3:01 |
 | 17 | [IJskoud](https://open.spotify.com/track/2zVNIG9cfMyFxt8XqJ64s4) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Diamant](https://open.spotify.com/album/0GWbu2w7YoVg5NO9BekOxu) | 3:30 |
-| 18 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
-| 19 | [Als Het Avond Is](https://open.spotify.com/track/3ciQQMSy1lKDqJbwU9l1LT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Als Het Avond Is](https://open.spotify.com/album/5LlrRTvslzI8fo2WsRcRkc) | 3:25 |
+| 18 | [Als Het Avond Is](https://open.spotify.com/track/3ciQQMSy1lKDqJbwU9l1LT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Als Het Avond Is](https://open.spotify.com/album/5LlrRTvslzI8fo2WsRcRkc) | 3:25 |
+| 19 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 20 | [Dat Ik Je Mis](https://open.spotify.com/track/4aSPBYgQXGnU1HzoCwDMjG) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [En Hoe Het Dan Ook Weer Dag Wordt](https://open.spotify.com/album/5TNBqIavcqnggyzF1I50qh) | 4:16 |
 | 21 | [Moment](https://open.spotify.com/track/0J6sITdD8JMUBKaadJLV1U) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Moment](https://open.spotify.com/album/0yEIvi51Okj9K1mmssyfDf) | 3:01 |
 | 22 | [Zing Voor Me](https://open.spotify.com/track/0po63MOolcaeLX1wyhvTH9) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Thé Lau](https://open.spotify.com/artist/6oeg2g6otjJxc19BUphrKo) | [Levenslied](https://open.spotify.com/album/1ubh3JX7ILvdWh1rlbJvv6) | 3:35 |

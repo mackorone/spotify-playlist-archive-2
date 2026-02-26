@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: never young beach
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,744 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,800 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 26 | [telomere](https://open.spotify.com/track/2iwds8diQdmpq1aKXBc1FN) | [ヨツドメノディ](https://open.spotify.com/artist/6iORiEb8oWvAhugxkoHmlk) | [telomere](https://open.spotify.com/album/3gAyJ69IZGROLMzjpSoAMG) | 4:39 |
 | 27 | [ワルツ](https://open.spotify.com/track/1guMIQRvz6BLkq6xPKGzg2) | [爛漫天国](https://open.spotify.com/artist/31o6juLBJ6VGkHViziNTyK) | [日々、折り返すごとに](https://open.spotify.com/album/72EYHzseO17Z8n0hDUoCUJ) | 5:25 |
 | 28 | [mosaic](https://open.spotify.com/track/1ndoxz0E52XBpO8XAz5MyC) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [mosaic](https://open.spotify.com/album/4m5zyBCUqPDvL0hTnqkfJp) | 3:00 |
-| 29 | [Track 1](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 0:00 |
+| 29 | [Osoro \(Heaven\)](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 2:20 |
 | 30 | [Parallel](https://open.spotify.com/track/4qcL7OvQiNMeFRH354ke18) | [めっちゃ美人](https://open.spotify.com/artist/3qFK1j4FfFGUiR7EeeLbuZ) | [Parallel](https://open.spotify.com/album/1vV3Wbzi5NhNqRDvAitL3U) | 3:57 |
 | 31 | [MERMAID](https://open.spotify.com/track/0e92rOquxmNrIGTJoPphGq) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [MERMAID](https://open.spotify.com/album/6Fj7mkeJYB0xedAE9Z0nfo) | 3:47 |
 | 32 | [麓の景色](https://open.spotify.com/track/1IPT0ks4lkE0ckyYpMkaW5) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [麓の景色](https://open.spotify.com/album/7FtrOVehVgnwtjoF02bHI9) | 7:07 |

@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 70257,
+  "num_followers": 70288,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 156760,
       "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
       "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
-        "name": "Bach: French Suites, BWV 812-817",
-        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 126602,
-      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
-      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
     },
     {
       "added_at": "2025-12-23 12:10:07",
@@ -699,30 +699,6 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
-        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "David Fray",
-          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
-        },
-        {
-          "name": "The Deutsche Kammerphilharmonie Bremen",
-          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
-        }
-      ],
-      "duration_ms": 430893,
-      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
-      "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },
@@ -743,8 +719,8 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Bach: Keyboard Concertos",
-        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
+        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
       "artists": [
         {
@@ -752,21 +728,17 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
         },
         {
-          "name": "Les Violons du Roy",
-          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
-        },
-        {
-          "name": "Bernard Labadie",
-          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+          "name": "The Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
         }
       ],
-      "duration_ms": 184653,
-      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
-      "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
+      "duration_ms": 430893,
+      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
+      "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
     },
     {
       "added_at": "2025-12-23 12:10:07",
@@ -819,6 +791,34 @@
       "duration_ms": 453880,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication] (performed on two pianos)",
       "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Les Violons du Roy",
+          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
+      "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
     },
     {
       "added_at": "2025-12-23 12:10:07",

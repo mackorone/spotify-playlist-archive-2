@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-175 songs - 8 hr 45 min
+176 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Breaking your heart](https://open.spotify.com/track/4ABq3xc8c9sItkz3JAMm3j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Breaking your heart](https://open.spotify.com/album/080NLw2dGXAC27N7czuzoP) | 2:51 | 2023-12-13 | 2024-01-07 |
 | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/6kvCKoOvicKyHQcMHfQ8QR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/13n3AxGkZNijBNPegBW75F) | 3:36 | 2023-04-29 | 2023-06-21 |
 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:21 | 2023-02-16 |  |
-| [Calm Down](https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:39 | 2024-02-18 |  |
+| [Calm Down](https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:39 | 2024-02-18 | 2026-02-26 |
 | [Calm Down](https://open.spotify.com/track/5nKEawTv65Yi7G9EAZogoN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Calm Down](https://open.spotify.com/album/25t7e9EsGtXiX2Q6Xp7KgP) | 3:39 | 2023-12-23 | 2024-02-19 |
 | [Celestial](https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 3:30 | 2023-05-06 | 2023-10-02 |
 | [Certified BOP](https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:30 | 2025-01-19 |  |
@@ -164,6 +164,7 @@
 | [Training Season](https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Training Season](https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf) | 3:11 | 2024-05-26 | 2024-09-20 |
 | [Trampoline](https://open.spotify.com/track/0zgYADHtKBRxMYqsjCu3hm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Trampoline](https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP) | 3:05 | 2023-02-16 | 2023-11-11 |
 | [TRUSTFALL](https://open.spotify.com/track/7E7E6JigvQ3wr08M0g7CaH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TRUSTFALL](https://open.spotify.com/album/2cW6PAdLsP7wS2lSTWQV9a) | 3:40 | 2023-06-10 | 2023-11-11 |
+| [Try Everything](https://open.spotify.com/track/2bivxemYYGhiOoPr7OfYhn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 3:16 | 2026-02-26 |  |
 | [un x100to](https://open.spotify.com/track/57WWTMHLk0v8ZP5Y0ZQk9g) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [un x100to](https://open.spotify.com/album/6aAks4uSJ8WPDkX5ArKfGJ) | 3:15 | 2023-09-09 | 2023-10-11 |
 | [Unstoppable](https://open.spotify.com/track/03MLt6PXZqt6fiu7AQBtvF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Unstoppable](https://open.spotify.com/album/4hGmLY9YaDfgJ6WU4EzNcg) | 3:27 | 2023-06-03 | 2023-12-14 |
 | [Uptown Funk](https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 3:44 | 2023-02-16 |  |

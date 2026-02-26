@@ -1,6 +1,6 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Cazzu en portada.",
-  "num_followers": 348564,
+  "num_followers": 348550,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
+        "name": "dejarte ir",
+        "url": "https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "duration_ms": 197071,
+      "name": "dejarte ir",
+      "url": "https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
         "name": "Au",
         "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "dejarte ir",
-        "url": "https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI"
+        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
       },
       "artists": [
         {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         }
       ],
-      "duration_ms": 197071,
-      "name": "dejarte ir",
-      "url": "https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4"
+      "duration_ms": 174417,
+      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
     },
     {
       "added_at": "2025-12-03 13:14:43",
@@ -915,22 +931,6 @@
       "duration_ms": 166794,
       "name": "MEJOR QUE VOS",
       "url": "https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
-        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
     },
     {
       "added_at": "2025-12-03 13:14:43",

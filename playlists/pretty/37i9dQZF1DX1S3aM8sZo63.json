@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Luis \u00c1ngel El Flaco en portada \ud83d\udcf8",
-  "num_followers": 1068785,
+  "num_followers": 1068901,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "Mi Amuleto Eres Tu",
         "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 210133,
       "name": "Mi Amuleto Eres T\u00fa",
       "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1255,26 +1255,22 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "A M\u00ed Me Gustas T\u00fa",
-        "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 186400,
-      "name": "A M\u00ed Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1295,22 +1291,26 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Solita (En Vivo)",
-        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+        "name": "A M\u00ed Me Gustas T\u00fa",
+        "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+      "duration_ms": 186400,
+      "name": "A M\u00ed Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
+        "name": "30 A\u00f1os Contigo",
+        "url": "https://open.spotify.com/album/0m9tEFX0YRhZ5RXQHmg7Px"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        },
+        {
+          "name": "Cenen Angulo",
+          "url": "https://open.spotify.com/artist/3iQUydg3xopeFSc8UYJ0r8"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Te Amo un monton ton ton",
+      "url": "https://open.spotify.com/track/0PQILagWWnCyN17EStctJC"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
         "name": "Hecha Pa' M\u00ed",
         "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 189423,
       "name": "Al Caer La Noche",
       "url": "https://open.spotify.com/track/3W2FQCA5z51D0KvhwoijlN"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
-        "name": "30 A\u00f1os Contigo",
-        "url": "https://open.spotify.com/album/0m9tEFX0YRhZ5RXQHmg7Px"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        },
-        {
-          "name": "Cenen Angulo",
-          "url": "https://open.spotify.com/artist/3iQUydg3xopeFSc8UYJ0r8"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Te Amo un monton ton ton",
-      "url": "https://open.spotify.com/track/0PQILagWWnCyN17EStctJC"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio",
-      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "Canci\u00f3n",
         "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio",
+      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "Exitos De Mariano Barba",
         "url": "https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 250120,
       "name": "Una Noche Mas Contigo",
       "url": "https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
+        "name": "Un Cantautor Con Alma de Triunfador",
+        "url": "https://open.spotify.com/album/0XTaNhlqfiRdXLYJ7ZL7TS"
+      },
+      "artists": [
+        {
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+        }
+      ],
+      "duration_ms": 272920,
+      "name": "Aliado Del Tiempo",
+      "url": "https://open.spotify.com/track/4KeTe10W4xvAOxfRC0kxpF"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 163230,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
-        "name": "Un Cantautor Con Alma de Triunfador",
-        "url": "https://open.spotify.com/album/0XTaNhlqfiRdXLYJ7ZL7TS"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 272920,
-      "name": "Aliado Del Tiempo",
-      "url": "https://open.spotify.com/track/4KeTe10W4xvAOxfRC0kxpF"
     },
     {
       "added_at": "2026-01-30 15:02:57",

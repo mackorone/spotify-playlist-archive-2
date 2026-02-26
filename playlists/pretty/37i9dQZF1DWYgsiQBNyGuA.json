@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Durand Bernarr",
-  "num_followers": 1015377,
+  "num_followers": 1015336,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1653,6 +1653,22 @@
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
+      "added_at": "2024-10-25 08:08:52",
+      "album": {
+        "name": "Suite Escape",
+        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 240394,
+      "name": "Nobody\u2019s Perfect",
+      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "All I Want Is You [Feat. October London]",
@@ -1671,22 +1687,6 @@
       "duration_ms": 200520,
       "name": "All I Want Is You [Feat. October London]",
       "url": "https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0"
-    },
-    {
-      "added_at": "2024-10-25 08:08:52",
-      "album": {
-        "name": "Suite Escape",
-        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
-      },
-      "artists": [
-        {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
-        }
-      ],
-      "duration_ms": 240394,
-      "name": "Nobody\u2019s Perfect",
-      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
     },
     {
       "added_at": "2025-02-21 07:15:25",

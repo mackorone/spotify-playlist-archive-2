@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Awilo",
+        "url": "https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS"
+      },
+      "artists": [
+        {
+          "name": "Patomant",
+          "url": "https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Awilo",
+      "url": "https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj"
+    },
+    {
+      "album": {
         "name": "Showboy",
         "url": "https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1"
       },
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 170396,
       "name": "Best Whine",
       "url": "https://open.spotify.com/track/5yR8rJt2YTqaKGO7ADZboE"

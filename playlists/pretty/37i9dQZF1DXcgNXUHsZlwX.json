@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 142848,
+  "num_followers": 142898,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 163374,
       "name": "Demain \u00e7a ira",
       "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "I took off my heels",
-        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
-      },
-      "artists": [
-        {
-          "name": "Avery Jane",
-          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
-        }
-      ],
-      "duration_ms": 226480,
-      "name": "I took off my heels",
-      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "Moi je t'aime",
         "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 177556,
       "name": "Moi je t'aime",
       "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Demain",
-        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
-      },
-      "artists": [
-        {
-          "name": "Zach Boileau",
-          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
-        }
-      ],
-      "duration_ms": 229047,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "Les oiseaux",
         "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 244083,
       "name": "Les oiseaux",
       "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
+      },
+      "artists": [
+        {
+          "name": "Zach Boileau",
+          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
+        }
+      ],
+      "duration_ms": 229047,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
-        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "S'il te pla\u00eet, fais-moi danser",
-      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "Le go\u00fbt des mangues",
         "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
@@ -1179,34 +1163,18 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Jacques",
-        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
+        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
+        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
       },
       "artists": [
         {
-          "name": "Louis-Charles",
-          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Jacques",
-      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "Disparition",
-        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Beauregard",
-          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
-        }
-      ],
-      "duration_ms": 272910,
-      "name": "Nos larmes",
-      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
+      "duration_ms": 166266,
+      "name": "S'il te pla\u00eet, fais-moi danser",
+      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -1231,34 +1199,34 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+        "name": "Disparition",
+        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Guillaume Beauregard",
+          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sweetpie",
-      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+      "duration_ms": 272910,
+      "name": "Nos larmes",
+      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
     },
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Elle vit dans les bois",
-        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
+        "name": "Jacques",
+        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
       },
       "artists": [
         {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+          "name": "Louis-Charles",
+          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
         }
       ],
-      "duration_ms": 209570,
-      "name": "Elle vit dans les bois",
-      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
+      "duration_ms": 207795,
+      "name": "Jacques",
+      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -1279,6 +1247,38 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
+        "name": "Elle vit dans les bois",
+        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 209570,
+      "name": "Elle vit dans les bois",
+      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
         "name": "Ya s\u00e9 ya s\u00e9",
         "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 223689,
       "name": "Ya s\u00e9 ya s\u00e9",
       "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "mauvais sort",
-        "url": "https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9"
-      },
-      "artists": [
-        {
-          "name": "Xavier Euphory",
-          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
-        }
-      ],
-      "duration_ms": 291034,
-      "name": "mauvais sort",
-      "url": "https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -1327,6 +1311,22 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "mauvais sort",
+        "url": "https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9"
+      },
+      "artists": [
+        {
+          "name": "Xavier Euphory",
+          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
+        }
+      ],
+      "duration_ms": 291034,
+      "name": "mauvais sort",
+      "url": "https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Vendredi",
-        "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Desjardins",
-          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
-        },
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 186546,
-      "name": "Vendredi",
-      "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "River Run (with Lila Dupont)",
         "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 205959,
       "name": "River Run (with Lila Dupont)",
       "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Vendredi",
+        "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Desjardins",
+          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "Vendredi",
+      "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "Du temps",
         "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 222586,
       "name": "Du temps",
       "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "Good Call",
-        "url": "https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 241653,
-      "name": "Good Call",
-      "url": "https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "Islands in the Stream",
         "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 194699,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Good Call",
+        "url": "https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 241653,
+      "name": "Good Call",
+      "url": "https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU"
     },
     {
       "added_at": "2026-02-20 05:01:30",

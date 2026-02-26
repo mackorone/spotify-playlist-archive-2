@@ -9795,6 +9795,24 @@
     },
     {
       "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6YniytuSunB9HefGf4IxO9"
+    },
+    {
+      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -10906,7 +10924,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
@@ -18594,7 +18612,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 254000,
       "name": "Left in the Rain",
       "url": "https://open.spotify.com/track/1TPHGTbSlEiZh9MvQDpMcY"
@@ -38470,7 +38488,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 207826,
       "name": "\ubc8c\uc368 \uc77c\ub144",
       "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"

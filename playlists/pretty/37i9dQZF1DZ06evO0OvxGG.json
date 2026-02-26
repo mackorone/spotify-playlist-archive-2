@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8879,
+  "num_followers": 8890,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAiZh9rUnAagCBt1uAESscg",
+  "snapshot_id": "aZzqAAAAAACzipQGoOLFQcPQkAU4PLiK",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
-        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
-      },
-      "artists": [
-        {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 141742,
-      "name": "HISTERIA",
-      "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 147428,
       "name": "Rainha do Vinho",
       "url": "https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
+        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 141742,
+      "name": "HISTERIA",
+      "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
     },
     {
       "added_at": null,
@@ -863,26 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Som de Sacanagem",
-        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
       },
       "artists": [
         {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 115275,
-      "name": "Outro Som de Sacanagem",
-      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
     },
     {
       "added_at": null,
@@ -911,22 +907,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+        "name": "Outro Som de Sacanagem",
+        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
       },
       "artists": [
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+      "duration_ms": 115275,
+      "name": "Outro Som de Sacanagem",
+      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
     },
     {
       "added_at": null,

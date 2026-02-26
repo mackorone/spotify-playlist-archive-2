@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc815\ub3d9\uc6d0(JD1))\nLet's party with cheerful Korean trot medley.",
+  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \ubc15\uc9c0\ud604)\nLet's party with cheerful Korean trot medley.",
   "name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 288841,
       "name": "A Million Roses",
       "url": "https://open.spotify.com/track/4Hyzm7qybnozxFXiiHCgyi"
@@ -928,6 +928,28 @@
       "duration_ms": 232026,
       "name": "Agonized",
       "url": "https://open.spotify.com/track/7HSLUdUgdr3EB3cCgt34FR"
+    },
+    {
+      "album": {
+        "name": "Sing for Gold Part9",
+        "url": "https://open.spotify.com/album/4IgBkJ9uPQKCDdybDYUDBk"
+      },
+      "artists": [
+        {
+          "name": "\uc190\ube48\uc544",
+          "url": "https://open.spotify.com/artist/6hC77nUgHBP7thIKqoWb7a"
+        },
+        {
+          "name": "Chun Gil",
+          "url": "https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Ah! The old days",
+      "url": "https://open.spotify.com/track/57bP3OKcAqoKDJFpvC8E58"
     },
     {
       "album": {
@@ -3102,7 +3124,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 221120,
       "name": "Dance with wolf",
       "url": "https://open.spotify.com/track/5WhxybV9oaJDEl4iyY8SFA"
@@ -8288,7 +8310,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "Last night's story",
       "url": "https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9"
@@ -9195,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "Love Love (Original Soundtrack from Recipe for Love)",
+        "url": "https://open.spotify.com/album/1NeUEwvowrae01yzn9K9W5"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197388,
+      "name": "Love Love",
+      "url": "https://open.spotify.com/track/5iltNDWzND6SIaQoSCUO12"
+    },
+    {
+      "album": {
         "name": "Fire Trot Preliminary PART 2",
         "url": "https://open.spotify.com/album/0vaOAhSkzH2Ob2CDFkW5Iv"
       },
@@ -9656,6 +9696,24 @@
       "duration_ms": 212293,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/1IvOxLYTstsq5Z6pN3l3zm"
+    },
+    {
+      "album": {
+        "name": "Lucky Guy",
+        "url": "https://open.spotify.com/album/3WYNonCUvGNZEwpZBTwBu2"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uad70",
+          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Lucky Guy",
+      "url": "https://open.spotify.com/track/7Fe8w71uEiRTGkhIUc7Pji"
     },
     {
       "album": {
@@ -11745,6 +11803,24 @@
     },
     {
       "album": {
+        "name": "One Step Forward",
+        "url": "https://open.spotify.com/album/3SHBPfc3ivMfcqKhsqMha0"
+      },
+      "artists": [
+        {
+          "name": "Leesooho",
+          "url": "https://open.spotify.com/artist/3FRTZQPUMWDKssdXgaTJE5"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/5gruje3jc9j3eN3BJ83hSb"
+    },
+    {
+      "album": {
         "name": "Love call center PART4",
         "url": "https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx"
       },
@@ -12520,7 +12596,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 239213,
       "name": "Recall of love Remix",
       "url": "https://open.spotify.com/track/1JaX50vWyeo9wpXPctlNic"
@@ -15024,7 +15100,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 233386,
       "name": "The Prince\u2019s Dream",
       "url": "https://open.spotify.com/track/1C6bmCRXI8Ct1ZHpPuxheg"
@@ -17454,7 +17530,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 220820,
       "name": "Yeonji",
       "url": "https://open.spotify.com/track/5KTzCNSh7RxzVHqNPMcUBY"
@@ -17842,7 +17918,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 192613,
       "name": "You can't leave",
       "url": "https://open.spotify.com/track/5G5NjjbZix1HIIzToEoRx6"
@@ -19170,6 +19246,24 @@
       "duration_ms": 211733,
       "name": "\ubaa9\ud3ec\ud589 \uc644\ud589\uc5f4\ucc28",
       "url": "https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V"
+    },
+    {
+      "album": {
+        "name": "MASTER VOICE",
+        "url": "https://open.spotify.com/album/7BcL5y5T3w5qtIXaIDZaZ7"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\ubb34(\u7121)",
+      "url": "https://open.spotify.com/track/4E5cGdvmeKgYEnoqGMl4Cb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Foo Fighters",
-  "num_followers": 76369,
+  "num_followers": 76379,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
     },
     {
-      "added_at": "2025-12-12 21:09:17",
-      "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 224824,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
-    },
-    {
       "added_at": "2025-05-01 22:00:00",
       "album": {
         "name": "Broken Machine (Deluxe)",
@@ -915,6 +899,22 @@
       "duration_ms": 272240,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
+    },
+    {
+      "added_at": "2025-12-12 21:09:17",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 224824,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "War",
-      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "War",
+      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 215737,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 215737,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
+        "name": "Crisis of Faith",
+        "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 204076,
+      "name": "Reckless Paradise",
+      "url": "https://open.spotify.com/track/78RNxc9EMBSlv5yWIOjIzs"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -1599,34 +1615,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Crisis of Faith",
-        "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
       "artists": [
         {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 204076,
-      "name": "Reckless Paradise",
-      "url": "https://open.spotify.com/track/78RNxc9EMBSlv5yWIOjIzs"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
-        "name": "Young Chasers (Deluxe)",
-        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ"
     }
   ],
   "unique_name": "Rock Favourites",

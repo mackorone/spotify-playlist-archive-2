@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,601 likes - 70 songs - 3 hr 46 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,599 likes - 71 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 68 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 |
 | 69 | [Any Other Night](https://open.spotify.com/track/4jF0QfWSjUMrH7Y5fL0leS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Any Other Night](https://open.spotify.com/album/76wg0moAfOziJ3E7u25UES) | 3:05 |
 | 70 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
+| 71 | [Rage](https://open.spotify.com/track/4WAWPLY7EBPmtjg4X4X1HD) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Rage](https://open.spotify.com/album/2tmHGkMjCXggqKE2XvoC6I) | 3:13 |
 
-Snapshot ID: `AAAH0XN/WbjZ0XHr75gmW5R1ZuAe0cqy`
+Snapshot ID: `AAAH0t5KFuTvDWe4RLlOopKdsmAqv1JC`

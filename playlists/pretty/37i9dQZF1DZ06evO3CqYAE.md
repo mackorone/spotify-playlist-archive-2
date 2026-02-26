@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,352 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,360 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 35 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
 | 36 | [Imenem](https://open.spotify.com/track/7kX7zB3FrmhGgdMA19s7cf) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:46 |
 | 37 | [Suddenly](https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:51 |
-| 38 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 |
-| 39 | [Oyoyo Chukwu](https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8) | 5:17 |
+| 38 | [Oyoyo Chukwu](https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8) | 5:17 |
+| 39 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 |
 | 40 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 |
 | 41 | [I Depend on You](https://open.spotify.com/track/1v5aEbJExlPEVuTxau4xPu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 3:42 |
 | 42 | [It's The Season \(Live Performance\)](https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [It's The Season \(Live Performance\)](https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu) | 32:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 49 | [None Like You Lord](https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 6:01 |
 | 50 | [You No Let Them](https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:09 |
 
-Snapshot ID: `aZuYgAAAAAACAEpeVruPmprEUP/867AT`
+Snapshot ID: `aZzqAAAAAABmcoIXCkVIu8WYqDgXoR5o`

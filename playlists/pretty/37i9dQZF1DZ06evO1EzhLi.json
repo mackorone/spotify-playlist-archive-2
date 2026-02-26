@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 179321,
+  "num_followers": 179374,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADfFt4zd9d/X6QBiS5PIB1a",
+  "snapshot_id": "aZzqAAAAAACGrQN85y6AVo4vMu4k6RCd",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 265906,
-      "name": "Be Like That",
-      "url": "https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ"
+      "duration_ms": 264800,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1aC1IBAETh2XYGOE8kCC6t"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 264800,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1aC1IBAETh2XYGOE8kCC6t"
+      "duration_ms": 265906,
+      "name": "Be Like That",
+      "url": "https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
+        "name": "Seventeen Days",
+        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Something In My Mind",
-      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
+      "duration_ms": 227933,
+      "name": "Here By Me",
+      "url": "https://open.spotify.com/track/4WuuMrsyFVUciCMCpVjFrM"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Days",
-        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Here By Me",
-      "url": "https://open.spotify.com/track/4WuuMrsyFVUciCMCpVjFrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Away From The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
       },
@@ -636,9 +620,25 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 190733,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
+      "duration_ms": 198653,
+      "name": "Something In My Mind",
+      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seventeen Days",
+        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "It's Not Me",
+      "url": "https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Days",
-        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "It's Not Me",
-      "url": "https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Away From The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
       },
@@ -700,9 +684,25 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 218066,
-      "name": "Long Day",
-      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
+      "duration_ms": 190733,
+      "name": "Pop Song",
+      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seventeen Days",
+        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/0z6aqMJAl7TbCP4okrKcHs"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Days",
-        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
+        "name": "Away From The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/0z6aqMJAl7TbCP4okrKcHs"
+      "duration_ms": 218066,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
     },
     {
       "added_at": null,

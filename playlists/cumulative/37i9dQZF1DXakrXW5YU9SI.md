@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-806 songs - 1 day 21 hr 12 min
+807 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-28 | 2024-09-13 |
 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 | 2025-12-05 | 2026-02-04 |
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-24 | 2025-02-08 |
+| [I'm Just A Human](https://open.spotify.com/track/35qsyv0ZY5ycTB7078RUQF) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [I'm Just A Human](https://open.spotify.com/album/0dPhjzf74VV7Q8VsshoEXN) | 2:54 | 2026-02-20 |  |
 | [Idziesz](https://open.spotify.com/track/7kCzLV7fvduN4Ig5TINWJj) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Idziesz](https://open.spotify.com/album/0R2YrqhG7KKTpdjHqqsVL2) | 3:36 | 2025-02-28 | 2025-03-29 |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-05-24 |
 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 | 2025-10-23 | 2025-12-06 |
@@ -478,7 +479,7 @@
 | [Od jutra zacznę się modlić](https://open.spotify.com/track/3sX1KgURKWdt92RNy35Hhj) | [Pola Chobot & Adam Baran](https://open.spotify.com/artist/3rAJTu78f8RNNNTN8LqnVk) | [Od jutra zacznę się modlić](https://open.spotify.com/album/1exMof1QSx2gzJW3qiO86O) | 3:08 | 2024-10-07 | 2024-10-15 |
 | [Od kiedy jesteś](https://open.spotify.com/track/06WAHlXnCIn6DkelXwtUOd) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Od kiedy jesteś](https://open.spotify.com/album/5tEKJkeIlU6xbnwnwpQHqo) | 3:02 | 2024-07-18 | 2024-09-13 |
 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 | 2025-10-23 |  |
-| [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 | 2025-10-03 |  |
+| [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 | 2025-10-03 | 2026-02-26 |
 | [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/track/7sBP7vQcWySymKNWIj9rNp) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/album/5HdAYwPyVW2wRYr76gL1m4) | 3:28 | 2025-03-14 | 2025-05-04 |
 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 | 2025-04-18 | 2025-06-01 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-27 | 2024-11-22 |

@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Baby Rose & Leon Thomas",
-  "num_followers": 791609,
+  "num_followers": 791599,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -981,20 +981,24 @@
       "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510"
     },
     {
-      "added_at": "2026-01-09 07:03:52",
+      "added_at": "2025-12-12 18:54:21",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+        "name": "Summer In December",
+        "url": "https://open.spotify.com/album/1p9Y7847XEVASZ0seH1mup"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
         }
       ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
+      "duration_ms": 187285,
+      "name": "Summer In December",
+      "url": "https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe"
     },
     {
       "added_at": "2025-10-17 05:46:20",
@@ -1017,24 +1021,20 @@
       "url": "https://open.spotify.com/track/0aYqmfDlNla4etWY6Y2K53"
     },
     {
-      "added_at": "2025-12-12 18:54:21",
+      "added_at": "2026-01-09 07:03:52",
       "album": {
-        "name": "Summer In December",
-        "url": "https://open.spotify.com/album/1p9Y7847XEVASZ0seH1mup"
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
       },
       "artists": [
         {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        },
-        {
-          "name": "Aaron Childs",
-          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Summer In December",
-      "url": "https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe"
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2025-10-03 18:39:49",
@@ -1813,38 +1813,6 @@
       "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
-      "added_at": "2026-01-23 06:08:35",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 234532,
-      "name": "Sun and Moon",
-      "url": "https://open.spotify.com/track/0q5EdEDkLB7il1NnGlshso"
-    },
-    {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Here To Stay",
@@ -1875,6 +1843,38 @@
       "duration_ms": 248837,
       "name": "In Your Own Home",
       "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
+    },
+    {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
+      "added_at": "2026-01-23 06:08:35",
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 234532,
+      "name": "Sun and Moon",
+      "url": "https://open.spotify.com/track/0q5EdEDkLB7il1NnGlshso"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -1945,22 +1945,6 @@
       "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
-      "added_at": "2025-11-21 11:03:13",
-      "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 177688,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
-    },
-    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "3rd Shift - A COLORS SHOW",
@@ -2001,6 +1985,22 @@
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
     },
     {
+      "added_at": "2025-11-21 11:03:13",
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 177688,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
+    },
+    {
       "added_at": "2025-11-07 07:43:36",
       "album": {
         "name": "Make Me Feel",
@@ -2015,6 +2015,22 @@
       "duration_ms": 183499,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
+    },
+    {
+      "added_at": "2023-09-08 06:01:16",
+      "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
     },
     {
       "added_at": "2026-01-09 07:03:52",
@@ -2039,22 +2055,6 @@
       "duration_ms": 258181,
       "name": "Up From Here",
       "url": "https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT"
-    },
-    {
-      "added_at": "2023-09-08 06:01:16",
-      "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
     },
     {
       "added_at": "2025-02-21 07:53:52",
@@ -2129,22 +2129,6 @@
       "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
     },
     {
-      "added_at": "2025-12-05 07:50:19",
-      "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
-    },
-    {
       "added_at": "2025-04-04 04:28:33",
       "album": {
         "name": "Heavy Deluxe: THE LIGHT",
@@ -2179,6 +2163,22 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2025-12-05 07:50:19",
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -2245,22 +2245,6 @@
       "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
     },
     {
-      "added_at": "2026-01-23 06:08:35",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/0xDdjGZzyR1vWTFFmwBMg2"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/3lTIQsde6aWd46WoKO2pry"
-    },
-    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Looking for God",
@@ -2277,6 +2261,22 @@
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
     },
     {
+      "added_at": "2026-01-23 06:08:35",
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/0xDdjGZzyR1vWTFFmwBMg2"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/3lTIQsde6aWd46WoKO2pry"
+    },
+    {
       "added_at": "2024-10-18 16:11:48",
       "album": {
         "name": "Full Circle",
@@ -2291,26 +2291,6 @@
       "duration_ms": 178891,
       "name": "If The Love Goes",
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
-    },
-    {
-      "added_at": "2025-11-21 11:03:13",
-      "album": {
-        "name": "Be Your Girl - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/05V2G70IevdM5BAf2PlzXR"
-      },
-      "artists": [
-        {
-          "name": "Teedra Moses",
-          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Be Your Girl - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
     },
     {
       "added_at": "2025-12-12 18:54:21",
@@ -2353,20 +2333,24 @@
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
-      "added_at": "2026-01-09 07:03:52",
+      "added_at": "2025-11-21 11:03:13",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+        "name": "Be Your Girl - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/05V2G70IevdM5BAf2PlzXR"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 171675,
-      "name": "Lord Have Mercy",
-      "url": "https://open.spotify.com/track/2k6m9m423ljc0FWG134QAC"
+      "duration_ms": 249489,
+      "name": "Be Your Girl - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
     },
     {
       "added_at": "2025-02-14 09:04:21",
@@ -2385,20 +2369,20 @@
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
-      "added_at": "2025-09-26 05:33:44",
+      "added_at": "2026-01-09 07:03:52",
       "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 183489,
-      "name": "Vacancy",
-      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
+      "duration_ms": 171675,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/2k6m9m423ljc0FWG134QAC"
     },
     {
       "added_at": "2025-08-15 19:53:41",
@@ -2415,6 +2399,22 @@
       "duration_ms": 136800,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
+    },
+    {
+      "added_at": "2025-09-26 05:33:44",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 183489,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
     },
     {
       "added_at": "2024-11-15 07:05:31",

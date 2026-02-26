@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: Sofia Kourtesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,410 likes - 393 songs - 1 day 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,420 likes - 393 songs - 1 day 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

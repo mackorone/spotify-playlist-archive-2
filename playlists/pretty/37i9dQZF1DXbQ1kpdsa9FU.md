@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: TobyMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,449 likes - 150 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,540 likes - 150 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 48 | [Hello, My Name Is](https://open.spotify.com/track/2XEdrmqNM9ZQQ24ViuceB0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Into The Light](https://open.spotify.com/album/0RqGqJYEYyDhgeSiZVoXfH) | 3:43 |
 | 49 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 |
 | 50 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 |
-| 51 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
+| 51 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
 | 52 | [Redeemed](https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:36 |
-| 53 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
+| 53 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
 | 54 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 |
 | 55 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 |
 | 56 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 144 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
 | 145 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 146 | [Big God](https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Big God](https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1) | 3:11 |
-| 147 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
-| 148 | [Great I Am](https://open.spotify.com/track/2e6Tbu1hiYjUR7kgMIZpkO) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/4z2Reu5ayiiP2izF4w3znO) | 4:29 |
-| 149 | [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 |
-| 150 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
+| 147 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
+| 148 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
+| 149 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
+| 150 | [Great I Am](https://open.spotify.com/track/2e6Tbu1hiYjUR7kgMIZpkO) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/4z2Reu5ayiiP2izF4w3znO) | 4:29 |
 
 Snapshot ID: `AAAAAHXzSRS5Vim5Asjcw0tdJTd/EWM5`

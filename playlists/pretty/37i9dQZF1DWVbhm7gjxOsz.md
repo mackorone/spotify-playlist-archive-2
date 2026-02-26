@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,573 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,614 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 46 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
 | 47 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 |
 | 48 | [Hey There Lonely Girl](https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [I Love You](https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r) | 3:36 |
-| 49 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
-| 50 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
+| 49 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
+| 50 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 51 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 |
 | 52 | [The One Who Really Loves You \- Single Version](https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:27 |
 | 53 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 64 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
 | 65 | [Show and Tell](https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Show and Tell: The Best of Al Wilson](https://open.spotify.com/album/63NKHtOychyEccShIws1KA) | 3:27 |
 | 66 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:42 |
-| 67 | [Baby It's You](https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:41 |
-| 68 | [I Want A Love I Can See](https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:32 |
+| 67 | [I Want A Love I Can See](https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:32 |
+| 68 | [Baby It's You](https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:41 |
 | 69 | [Sabor A Mi](https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd) | [El Chicano](https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL) | [Revolución](https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus) | 3:17 |
 | 70 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |
 | 71 | [Going In Circles](https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C) | [The Friends Of Distinction](https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu) | [Grazin'](https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw) | 4:12 |

@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 63525,
+  "num_followers": 63533,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Kekasih Bayangan",
-        "url": "https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39"
-      },
-      "artists": [
-        {
-          "name": "Cakra Khan",
-          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
-        }
-      ],
-      "duration_ms": 283142,
-      "name": "Kekasih Bayangan",
-      "url": "https://open.spotify.com/track/3PeIxOLCSZtpMCo24EcapU"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Fenomena",
         "url": "https://open.spotify.com/album/2FjQr9dvsfICcVuQgOsect"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 308920,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/39t7DAuFCoyGmzNluMLsSM"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Kekasih Bayangan",
+        "url": "https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39"
+      },
+      "artists": [
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "duration_ms": 283142,
+      "name": "Kekasih Bayangan",
+      "url": "https://open.spotify.com/track/3PeIxOLCSZtpMCo24EcapU"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Sudah Ku Tahu",
-        "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
       "artists": [
         {
-          "name": "Projector Band",
-          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
         }
       ],
-      "duration_ms": 258331,
-      "name": "Sudah Ku Tahu",
-      "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+        "name": "Sudah Ku Tahu",
+        "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
       },
       "artists": [
         {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+      "duration_ms": 258331,
+      "name": "Sudah Ku Tahu",
+      "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
     }
   ],
   "unique_name": "Berjiran",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Preye Odede
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,322 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,346 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 64 | [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 |
 | 65 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 |
 | 66 | [Be Lifted \(Live\)](https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 8:25 |
-| 67 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 |
-| 68 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 |
+| 67 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 |
+| 68 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 |
 | 69 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 |
 | 70 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 |
 | 71 | [Me & My Jesus](https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Clarity](https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY) | 2:20 |

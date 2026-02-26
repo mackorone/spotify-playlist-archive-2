@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 295802,
+  "num_followers": 295788,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Magia Blanca",
-        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 220927,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Magia Blanca",
+        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 220927,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 179872,
+      "name": "TRAS",
+      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
       },
@@ -783,26 +799,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "T\u00fa Ya No Dices Nada",
-        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        },
-        {
-          "name": "Manola",
-          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
-        }
-      ],
-      "duration_ms": 215940,
-      "name": "T\u00fa Ya No Dices Nada",
-      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -819,18 +815,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+        "name": "T\u00fa Ya No Dices Nada",
+        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        },
+        {
+          "name": "Manola",
+          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
         }
       ],
-      "duration_ms": 179872,
-      "name": "TRAS",
-      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+      "duration_ms": 215940,
+      "name": "T\u00fa Ya No Dices Nada",
+      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "santos inocentes",
-        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 172114,
-      "name": "santos inocentes",
-      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Brujer\u00eda",
         "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 173747,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "santos inocentes",
+        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 172114,
+      "name": "santos inocentes",
+      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Mirando al techo",
+      "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 213371,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Conducci\u00f3n Temeraria",
-        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 214168,
-      "name": "Mirando al techo",
-      "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Las Flores Sangran",
-        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Las Flores Sangran",
-      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 215800,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Las Flores Sangran",
+        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 198405,
+      "name": "Las Flores Sangran",
+      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
     },
     {
       "added_at": "2026-02-20 05:00:51",

@@ -3565,6 +3565,28 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1z8uXbVJnEjCW9SAZoVjk7"
+      },
+      "artists": [
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        },
+        {
+          "name": "Simonic",
+          "url": "https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj"
+    },
+    {
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/1WFTJH40I0edyT5ti6s7QP"
       },

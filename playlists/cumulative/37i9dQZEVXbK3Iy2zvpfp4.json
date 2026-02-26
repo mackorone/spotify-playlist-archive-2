@@ -6858,10 +6858,28 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
+    },
+    {
+      "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
     },
     {
       "album": {
@@ -14304,7 +14322,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 92109,
       "name": "COOOK PARDON",
       "url": "https://open.spotify.com/track/0P45YtqtAT6AkNDDX1lySE"
@@ -17524,7 +17542,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 149966,
       "name": "Divok\u00e9 srdce",
       "url": "https://open.spotify.com/track/7LVDTqOz7TLNFgnKPt3qpu"
@@ -30747,6 +30765,32 @@
     },
     {
       "album": {
+        "name": "How Deep is Your Love - Live",
+        "url": "https://open.spotify.com/album/4v5dikUcpJW3NMm7T3Fpye"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        },
+        {
+          "name": "deprezz",
+          "url": "https://open.spotify.com/artist/6fL5VGL0vinKQ5HOviw6iX"
+        },
+        {
+          "name": "Xizt",
+          "url": "https://open.spotify.com/artist/1na0C7M3oeaDrKfST1TOMF"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147437,
+      "name": "How Deep Is Your Love - Live",
+      "url": "https://open.spotify.com/track/5bwM8y0LFlGc83kwrDiKTx"
+    },
+    {
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -34198,7 +34242,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 124267,
       "name": "Italiano,Cigan,Arab",
       "url": "https://open.spotify.com/track/0ByJbHq3o1ssNSTSWZAZi9"
@@ -36459,6 +36503,24 @@
     },
     {
       "album": {
+        "name": "Kim Jung Goon",
+        "url": "https://open.spotify.com/album/4hePJtRcgUmXhoQAYhSjvO"
+      },
+      "artists": [
+        {
+          "name": "Hyperbaiter",
+          "url": "https://open.spotify.com/artist/32RaA7TgQ8WDXFG7xYBxXE"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129799,
+      "name": "Kim Jung Goon",
+      "url": "https://open.spotify.com/track/32gMZXp4oWuOnMHlincbMy"
+    },
+    {
+      "album": {
         "name": "Summer Season",
         "url": "https://open.spotify.com/album/7iNXGihU5k0kVxhVXHCRLo"
       },
@@ -38277,6 +38339,24 @@
     },
     {
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/3fZervxrJI13IbbJDp5Gci"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
       },
@@ -39662,6 +39742,24 @@
       "duration_ms": 182311,
       "name": "LOOKATME",
       "url": "https://open.spotify.com/track/5QGhOS4dpiSdcwuqnWzpxE"
+    },
+    {
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ"
+      },
+      "artists": [
+        {
+          "name": "Jerri",
+          "url": "https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138897,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
     },
     {
       "album": {
@@ -51568,7 +51666,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 162462,
       "name": "N\u00c1S NEZASTAV\u00cd (feat. Hard Rico)",
       "url": "https://open.spotify.com/track/48l2ey9095iFLzL4MzWiGo"
@@ -53790,7 +53888,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
@@ -63058,7 +63156,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 262800,
       "name": "SHOW ME WHAT YOU GOT",
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"

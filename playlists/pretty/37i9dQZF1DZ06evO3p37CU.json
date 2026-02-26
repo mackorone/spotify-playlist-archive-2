@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABYjgF+mHvQtlZKCg1F59zy",
+  "snapshot_id": "aZzqAAAAAADnvC20YuK23vykJVd/Ey97",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 228117,
-      "name": "Church (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 203377,
       "name": "Can\u2019t Punk Me (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Church (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 228117,
+      "name": "Church (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fear No More (Remix)",
-        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "No Fear No More (Remix)",
-      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -803,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+        "name": "No Fear No More (Remix)",
+        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 178218,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+      "duration_ms": 174682,
+      "name": "No Fear No More (Remix)",
+      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
     },
     {
       "added_at": null,
@@ -835,6 +815,26 @@
       "duration_ms": 196493,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "Stuck (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 242099,
       "name": "Oshun (with EARTHGANG & 6LACK feat. Jurdan Bryant)",
       "url": "https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "Stuck (feat. Arin Ray)",
-      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
     },
     {
       "added_at": null,
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/5w3joDvFdDskgw6TvLh7vN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -1015,18 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 215346,
-      "name": "UP",
-      "url": "https://open.spotify.com/track/5w3joDvFdDskgw6TvLh7vN"
+      "duration_ms": 203419,
+      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
+      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
     },
     {
       "added_at": null,
@@ -1059,22 +1079,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
       },
       "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 203419,
-      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
-      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
+      "duration_ms": 179493,
+      "name": "Bank",
+      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
     },
     {
       "added_at": null,
@@ -1103,22 +1119,6 @@
       "duration_ms": 240943,
       "name": "Ea'alah (Family) (with JID & EARTHGANG feat. Hollywood JB)",
       "url": "https://open.spotify.com/track/4gPsuFrcrFK0swnomEWymG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Bank",
-      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
     },
     {
       "added_at": null,

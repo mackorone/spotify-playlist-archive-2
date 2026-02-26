@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 97873,
+  "num_followers": 97918,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,30 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "Mopepe",
+        "url": "https://open.spotify.com/album/1n4lYZEGlftSGg9pXpbHjQ"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Tango Supreme",
+          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
+        }
+      ],
+      "duration_ms": 272033,
+      "name": "Mopepe",
+      "url": "https://open.spotify.com/track/41JAaLs2uJB2JZoabE5jnO"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
       },
@@ -503,58 +527,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Mopepe",
-        "url": "https://open.spotify.com/album/1n4lYZEGlftSGg9pXpbHjQ"
-      },
-      "artists": [
-        {
-          "name": "Bukzin Keyz",
-          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
-        },
-        {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
-        },
-        {
-          "name": "Tango Supreme",
-          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
-        }
-      ],
-      "duration_ms": 272033,
-      "name": "Mopepe",
-      "url": "https://open.spotify.com/track/41JAaLs2uJB2JZoabE5jnO"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Hamba Kanje (feat. LeeMcKrazy)",
-        "url": "https://open.spotify.com/album/3hJTA361imvPpqRrWBLVHQ"
-      },
-      "artists": [
-        {
-          "name": "Royal MusiQ",
-          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
-        },
-        {
-          "name": "Djy Biza",
-          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
-        },
-        {
-          "name": "CowBoii",
-          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        }
-      ],
-      "duration_ms": 308789,
-      "name": "Hamba Kanje (feat. LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/2GUCK9glnfH55qpmULt9w8"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "TSAKO PITORI",
         "url": "https://open.spotify.com/album/3HD2SIKgXESHomVKjLA5LH"
       },
@@ -587,26 +559,30 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Mr Big Flexa",
-        "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
+        "name": "Hamba Kanje (feat. LeeMcKrazy)",
+        "url": "https://open.spotify.com/album/3hJTA361imvPpqRrWBLVHQ"
       },
       "artists": [
         {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
         },
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi"
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
         },
         {
-          "name": "Ma Gang Official",
-          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
         }
       ],
-      "duration_ms": 250671,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
+      "duration_ms": 308789,
+      "name": "Hamba Kanje (feat. LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/2GUCK9glnfH55qpmULt9w8"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -639,6 +615,30 @@
       "duration_ms": 480000,
       "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Mr Big Flexa",
+        "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "duration_ms": 250671,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Uyavala",
-        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
-      },
-      "artists": [
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
-        }
-      ],
-      "duration_ms": 348357,
-      "name": "Uyavala",
-      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
         "url": "https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 458761,
       "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
       "url": "https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Uyavala",
+        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        }
+      ],
+      "duration_ms": 348357,
+      "name": "Uyavala",
+      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Monate Mogwanti",
-        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
-      },
-      "artists": [
-        {
-          "name": "Thama Tee",
-          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
-        }
-      ],
-      "duration_ms": 327868,
-      "name": "Monate Mogwanti",
-      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
         "url": "https://open.spotify.com/album/2hFbYWq8PFrM4nYFBX9eKo"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 450281,
       "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
       "url": "https://open.spotify.com/track/69Wt3Yy8u9T3yswT6fLI9g"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Monate Mogwanti",
+        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
+      },
+      "artists": [
+        {
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
+        }
+      ],
+      "duration_ms": 327868,
+      "name": "Monate Mogwanti",
+      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
     },
     {
       "added_at": "2026-02-20 01:43:11",

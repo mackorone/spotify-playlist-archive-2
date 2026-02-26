@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,844 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,837 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 59 | [Joyeux Noël](https://open.spotify.com/track/2tfT9JHn0MmI1hYwwk4hiv) | [Camille Cormier\-Morasse](https://open.spotify.com/artist/2wvsvqHPEfAHHxzPkyLcHB) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:26 |
 | 60 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
 | 61 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
-| 62 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 |
-| 63 | [Pour la première fois, Noël sera gris](https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:09 |
+| 62 | [Pour la première fois, Noël sera gris](https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:09 |
+| 63 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 |
 | 64 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
 | 65 | [C'est l'hiver](https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX) | [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Nostalgia Noël](https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn) | 2:32 |
 | 66 | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/track/2gInVV124wC37PWHHh4DgQ) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/album/1m0KMWTElAIQPcQVXErqn3) | 3:24 |
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 77 | [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 |
 | 78 | [Promenade en traîneau](https://open.spotify.com/track/47CEnviJEZLJ0e7LstG1rx) | [Raffy](https://open.spotify.com/artist/5PW85Meg3JSYjhl9aOOZRz) | [Joyeux Noël et bonne année](https://open.spotify.com/album/4rwdFdwkoCgsc4wlyFKzG3) | 3:56 |
 | 79 | [Noël blanc](https://open.spotify.com/track/6bgz0wcaqLcpBh99aZlF46) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Noël blanc](https://open.spotify.com/album/6K2IN7O6z7dfMcStV9PvMM) | 2:38 |
-| 80 | [Ça c'est Noël](https://open.spotify.com/track/6C6IQBEL3HUbqF6fVfnaQX) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Ça c'est Noël](https://open.spotify.com/album/5FcB0lSkZqIRzaN2hHUj8e) | 3:14 |
-| 81 | [Noël, c’est l’amour](https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Noël, c’est l’amour](https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte) | 3:35 |
+| 80 | [Noël, c’est l’amour](https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Noël, c’est l’amour](https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte) | 3:35 |
+| 81 | [Ça c'est Noël](https://open.spotify.com/track/6C6IQBEL3HUbqF6fVfnaQX) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Ça c'est Noël](https://open.spotify.com/album/5FcB0lSkZqIRzaN2hHUj8e) | 3:14 |
 | 82 | [Noël à Paris](https://open.spotify.com/track/1nYc3paA3jh6o0aWM9H0n7) | [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI) | [Noël à Paris](https://open.spotify.com/album/7IoUwAOf2KPnmBN6LVDhyv) | 2:28 |
 | 83 | [C'est Noël quand tu es là](https://open.spotify.com/track/55xkpoU7IkZRXTQPyKZtui) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [C'est Noël quand tu es là](https://open.spotify.com/album/1UIBYSZ3j5LpPmrrE8BVOJ) | 2:43 |
 | 84 | [Jusqu'au nouvel an](https://open.spotify.com/track/5MVDheHPuschD7hliwTEvq) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj) | [Noël en famille](https://open.spotify.com/album/1ErcaPRj2K89GSZNkPymj8) | 4:56 |
-| 85 | [Petit cadeau](https://open.spotify.com/track/4gSZQiKEJGQYT9o3RUVX6w) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Pause gorgée ! Vol\. 1](https://open.spotify.com/album/5TpurgIEce2tvv8MprzlDG) | 2:58 |
-| 86 | [Vive le vent \- Vivre](https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE) | [Tocadéo](https://open.spotify.com/artist/6Eobl6c1IhZ8TAmobjE5OJ) | [Meilleurs Vœux \(Vivre\)](https://open.spotify.com/album/5eLOr5aTRuerpn2sCX7UsI) | 3:29 |
+| 85 | [Vive le vent \- Vivre](https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE) | [Tocadéo](https://open.spotify.com/artist/6Eobl6c1IhZ8TAmobjE5OJ) | [Meilleurs Vœux \(Vivre\)](https://open.spotify.com/album/5eLOr5aTRuerpn2sCX7UsI) | 3:29 |
+| 86 | [Petit cadeau](https://open.spotify.com/track/4gSZQiKEJGQYT9o3RUVX6w) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Pause gorgée ! Vol\. 1](https://open.spotify.com/album/5TpurgIEce2tvv8MprzlDG) | 2:58 |
 | 87 | [Ensemble](https://open.spotify.com/track/7o4QAEXawrmfMvWnk2nvvg) | [Alex Doré](https://open.spotify.com/artist/11ncL4JoY6eIGYGaoaxoV5) | [Ensemble](https://open.spotify.com/album/7ilSvtaSNT9aHwjRB2Hn8g) | 2:49 |
 | 88 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 |
 | 89 | [Chanson du rigodon](https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR) | [Guylaine Tremblay](https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:14 |

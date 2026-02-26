@@ -1,28 +1,28 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6861,
+  "num_followers": 6862,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADTcjflFzdSn6bci7zgQWv29N4ryK/5",
+  "snapshot_id": "AADTeMPNUNn1Xxzxtv4HzV/zDXUkerW9",
   "tracks": [
     {
-      "added_at": "2026-02-20 06:18:26",
+      "added_at": "2026-02-20 06:02:15",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/30eB7uLarIDNsfNH2q8p0q"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
         }
       ],
-      "duration_ms": 279160,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
+      "duration_ms": 125293,
+      "name": "TICTAC",
+      "url": "https://open.spotify.com/track/0ZF7tvbaPMqftXHWQD8jmo"
     },
     {
       "added_at": "2026-02-18 18:32:30",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
-      "added_at": "2026-02-20 06:02:15",
+      "added_at": "2026-02-20 06:18:26",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/30eB7uLarIDNsfNH2q8p0q"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
       },
       "artists": [
         {
-          "name": "Maria Arnal",
-          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 125293,
-      "name": "TICTAC",
-      "url": "https://open.spotify.com/track/0ZF7tvbaPMqftXHWQD8jmo"
+      "duration_ms": 279160,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
     },
     {
       "added_at": "2026-02-18 18:19:02",
@@ -87,22 +87,6 @@
       "duration_ms": 146654,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
-    },
-    {
-      "added_at": "2026-02-20 13:37:04",
-      "album": {
-        "name": "Jet Stream Heart",
-        "url": "https://open.spotify.com/album/0OEWMeVWS44OsiFYOvaz4n"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 219114,
-      "name": "Jet Stream Heart",
-      "url": "https://open.spotify.com/track/0tIi8FsNFChexzMAkkjCcE"
     },
     {
       "added_at": "2026-02-19 09:14:28",
@@ -261,6 +245,22 @@
       "url": "https://open.spotify.com/track/2ThAF4cOs9Jw5M0qHdqT93"
     },
     {
+      "added_at": "2026-02-20 13:37:04",
+      "album": {
+        "name": "Jet Stream Heart",
+        "url": "https://open.spotify.com/album/0OEWMeVWS44OsiFYOvaz4n"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 219114,
+      "name": "Jet Stream Heart",
+      "url": "https://open.spotify.com/track/0tIi8FsNFChexzMAkkjCcE"
+    },
+    {
       "added_at": "2026-02-20 06:16:45",
       "album": {
         "name": "Your Favorite Toy",
@@ -375,6 +375,22 @@
       "duration_ms": 157567,
       "name": "Cherry Red Balloon",
       "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
+    },
+    {
+      "added_at": "2026-02-20 06:08:19",
+      "album": {
+        "name": "ISOLA",
+        "url": "https://open.spotify.com/album/0oBxa56yxjesMkTF5StVML"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Richardson",
+          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
+        }
+      ],
+      "duration_ms": 210682,
+      "name": "Alma de Diamante",
+      "url": "https://open.spotify.com/track/3jsGW1APHanwCmnb6mFPTn"
     },
     {
       "added_at": "2026-02-18 18:20:04",
@@ -1299,22 +1315,6 @@
       "duration_ms": 271095,
       "name": "Let's Do It Again!",
       "url": "https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ"
-    },
-    {
-      "added_at": "2026-02-20 06:08:19",
-      "album": {
-        "name": "ISOLA",
-        "url": "https://open.spotify.com/album/0oBxa56yxjesMkTF5StVML"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Richardson",
-          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
-        }
-      ],
-      "duration_ms": 210682,
-      "name": "Alma de Diamante",
-      "url": "https://open.spotify.com/track/3jsGW1APHanwCmnb6mFPTn"
     },
     {
       "added_at": "2026-02-20 06:02:27",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,894 songs - 4 day 17 hr 27 min
+1,895 songs - 4 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [I Don't Listen To You](https://open.spotify.com/track/63RGHd3E9rqdo0H1y0yK7e) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Don't Listen To You](https://open.spotify.com/album/69E1nz3zfEYnOqxOChoxPi) | 2:01 | 2024-03-04 |  |
 | [I Dub On A Sunday \- Dub\-I Remix](https://open.spotify.com/track/3QHR0VsH7hgVnr7Nfn6afg) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Dub\-I](https://open.spotify.com/artist/60P6fKJzqcWscbc9PeCtZw) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:47 | 2024-05-01 |  |
 | [I Fell / Ocean Wave](https://open.spotify.com/track/3Enfhcrh3pHoeA6Au0DHFm) | [Mikefashoo\_](https://open.spotify.com/artist/1dSwpFodA4gdkSD982tCUn) | [A Bad Idea](https://open.spotify.com/album/0L1xcKniGRVcE6w8JRPFTU) | 2:11 | 2025-07-04 |  |
+| [I Find More](https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS) | [Laurie Larson](https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M) | [I Find More](https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX) | 3:06 | 2026-02-25 |  |
 | [I Give Dub](https://open.spotify.com/track/5AJoJjZ68estf4SdiyZrbU) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:24 | 2024-05-04 |  |
 | [I Give Thanks](https://open.spotify.com/track/5LC2MZaTdya5mdosw6L8ID) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd), [Aza Lineage](https://open.spotify.com/artist/5UtJstpMtINnCg697jQZ81) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:23 | 2024-03-10 |  |
 | [i like](https://open.spotify.com/track/792ZMfAwnQqs21At57bmNZ) | [Bilby](https://open.spotify.com/artist/5SfKV3PXtJU29wkLvQt8tN) | [Heavy Fines, Loss Of Licence](https://open.spotify.com/album/1HKkzVbN3N6ScKjmXkA8P2) | 1:37 | 2025-01-13 |  |

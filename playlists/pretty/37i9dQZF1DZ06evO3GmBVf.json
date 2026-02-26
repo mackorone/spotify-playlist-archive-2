@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 213026,
+  "num_followers": 213073,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACBMiBcvN9M7ZM2qNa4VDyA",
+  "snapshot_id": "aZzqAAAAAABcAlHp6smfVVa5/2JBtbPX",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diganle",
+        "url": "https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Diganle",
+      "url": "https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 202666,
       "name": "Solita",
       "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diganle",
-        "url": "https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Diganle",
-      "url": "https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shit Masiva",
-        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 336065,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flaco Pesado (Remix)",
         "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 227631,
       "name": "Flaco Pesado (Remix)",
       "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shit Masiva",
+        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 336065,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 346038,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qui\u00e9n No Llora",
+        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Qui\u00e9n No Llora",
+      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qui\u00e9n No Llora",
-        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Qui\u00e9n No Llora",
-      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Rhys Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,811 likes - 215 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,813 likes - 215 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

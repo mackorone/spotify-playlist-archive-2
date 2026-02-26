@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1100690,
+  "num_followers": 1100836,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADbdTpcpTLFDEm6C/bLVoKi",
+  "snapshot_id": "aZzqAAAAAADfcAO3FOTnBUCkSnUeBqPC",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint Cecilia EP",
-        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Saint Cecilia",
-      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
+      "duration_ms": 248266,
+      "name": "Hey, Johnny Park!",
+      "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+        "name": "Saint Cecilia EP",
+        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 248266,
-      "name": "Hey, Johnny Park!",
-      "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
+      "duration_ms": 221666,
+      "name": "Saint Cecilia",
+      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
     },
     {
       "added_at": null,

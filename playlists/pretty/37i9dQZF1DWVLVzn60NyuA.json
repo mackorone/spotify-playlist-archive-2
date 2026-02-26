@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 498045,
+  "num_followers": 498051,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -499,42 +499,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Nights In The Sun (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId"
       },
@@ -559,6 +523,42 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Nights In The Sun (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Fleur froide (Donum Novae)",
         "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 197240,
       "name": "Le temps",
       "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Infinity (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -647,18 +627,22 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+      "duration_ms": 171764,
+      "name": "Infinity (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -675,6 +659,22 @@
       "duration_ms": 186153,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1003,42 +1003,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
-        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
-      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 165139,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -1063,6 +1027,42 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 165139,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
+        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
+      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Sal Gason",
-        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
-      },
-      "artists": [
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 138897,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 171813,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Sal Gason",
+        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
+      },
+      "artists": [
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 138897,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2063,6 +2063,26 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Tucu",
+        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "All for U (Ameyatchi)",
         "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 165563,
       "name": "All for U (Ameyatchi)",
       "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Tucu",
-        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2363,6 +2363,26 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -2383,26 +2403,6 @@
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Likkle Riddim",
-        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Likkle Riddim",
-      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Likkle Riddim",
+        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Likkle Riddim",
+      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2911,22 +2911,18 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Nan Zetwal",
-        "url": "https://open.spotify.com/album/3U8xmG2QiMzmgrJ3l5w8zZ"
+        "name": "Bad Gyal",
+        "url": "https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol"
       },
       "artists": [
         {
-          "name": "DJ OSIS",
-          "url": "https://open.spotify.com/artist/4qRPgXJz2zYa4Rg5DDyjgO"
-        },
-        {
-          "name": "Saint Ronil",
-          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Nan Zetwal",
-      "url": "https://open.spotify.com/track/2pj8Zu8Qe2osPJ7GjcEvDF"
+      "duration_ms": 216470,
+      "name": "Bad Gyal",
+      "url": "https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI"
     }
   ],
   "unique_name": "Summer Vibes",

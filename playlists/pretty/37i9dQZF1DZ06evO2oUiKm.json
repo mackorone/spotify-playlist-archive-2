@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11378,
+  "num_followers": 11379,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABvp+HOzKpvMYVoRAhxa2s1",
+  "snapshot_id": "aZzqAAAAAAC7mhV+huRjR08UMf9GMQpK",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 275198,
+      "name": "Save Me From You",
+      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 275198,
-      "name": "Save Me From You",
-      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
+      "duration_ms": 273132,
+      "name": "More Than Twice",
+      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
     },
     {
       "added_at": null,
@@ -616,9 +616,25 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 273132,
-      "name": "More Than Twice",
-      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
       "duration_ms": 229053,
       "name": "Alright",
       "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby Tarantino III",
         "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 140370,
       "name": "Inside (feat. Cynthia Erivo)",
       "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 284751,
-      "name": "Anything Worth Holding On To",
-      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -863,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
+      "duration_ms": 284751,
+      "name": "Anything Worth Holding On To",
+      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
     },
     {
       "added_at": null,
@@ -967,22 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Good (from Wicked: For Good - The Soundtrack)",
-        "url": "https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb"
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 377098,
-      "name": "For Good - Sing-Along",
-      "url": "https://open.spotify.com/track/2rUVVZvEVlViD6KDxgZGLz"
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

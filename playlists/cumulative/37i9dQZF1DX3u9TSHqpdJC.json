@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: EMMA SEE. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: tig3r lewis. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 177506,
       "name": "*** TOO BIG TO FAIL ***",
       "url": "https://open.spotify.com/track/2sEVdDz8JiHTsCMbGhRbGy"
+    },
+    {
+      "album": {
+        "name": ".5 OF ME",
+        "url": "https://open.spotify.com/album/1KPk8XuaL0CXd2Houf9iIJ"
+      },
+      "artists": [
+        {
+          "name": "Juliet Daniel",
+          "url": "https://open.spotify.com/artist/4zdPlubDFPnv9nUjXWK6au"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136392,
+      "name": ".5 OF ME",
+      "url": "https://open.spotify.com/track/3lmznpzLjYggvFY9cVMzbh"
     },
     {
       "album": {
@@ -23872,6 +23890,24 @@
     {
       "album": {
         "name": "Fine",
+        "url": "https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa"
+    },
+    {
+      "album": {
+        "name": "Fine",
         "url": "https://open.spotify.com/album/642qyqsuveUZ0U3Mc2W1kS"
       },
       "artists": [
@@ -35066,7 +35102,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 165998,
       "name": "I want you to be happy",
       "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
@@ -40523,6 +40559,24 @@
     },
     {
       "album": {
+        "name": "Leaving Me Lonely",
+        "url": "https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "Leaving Me Lonely",
+      "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
+    },
+    {
+      "album": {
         "name": "Leaving You (is Harder Than Being Apart)",
         "url": "https://open.spotify.com/album/25e6zBC5806omYodyj4zoN"
       },
@@ -41844,6 +41898,24 @@
       "duration_ms": 142018,
       "name": "Liquorice",
       "url": "https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j"
+    },
+    {
+      "album": {
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/1HYb34NcCRU2OgOgNxpfoP"
+      },
+      "artists": [
+        {
+          "name": "Glass Kinsman",
+          "url": "https://open.spotify.com/artist/2r6hsDRBak5K0d2FWtgBSx"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234271,
+      "name": "Listen To Me",
+      "url": "https://open.spotify.com/track/2hj1pwxEQDh1Y5Fo9yZZjr"
     },
     {
       "album": {
@@ -49414,6 +49486,24 @@
       "duration_ms": 158617,
       "name": "new year",
       "url": "https://open.spotify.com/track/4DEAjqMsSzlo49dqIGYrHN"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve",
+        "url": "https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171248,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
     },
     {
       "album": {
@@ -62316,6 +62406,24 @@
       "duration_ms": 163094,
       "name": "Sideways Heart",
       "url": "https://open.spotify.com/track/4siavR0wWCdmj7aikdz2C1"
+    },
+    {
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/61V8sQNNsInhjEzHUp1wBP"
+      },
+      "artists": [
+        {
+          "name": "Internet Cafe",
+          "url": "https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138488,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/1lLj2Sx25r56K18YYfkSW6"
     },
     {
       "album": {
@@ -78894,6 +79002,24 @@
       "duration_ms": 243018,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/24qMZ45KjAD71U8j19w7s2"
+    },
+    {
+      "album": {
+        "name": "Words You Can Twist",
+        "url": "https://open.spotify.com/album/7xQ4rymxgoj9PmdcEXlGV1"
+      },
+      "artists": [
+        {
+          "name": "Ryann Barnes",
+          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "Words You Can Twist",
+      "url": "https://open.spotify.com/track/6z0lSPxIBSolW21o0BLpIy"
     },
     {
       "album": {

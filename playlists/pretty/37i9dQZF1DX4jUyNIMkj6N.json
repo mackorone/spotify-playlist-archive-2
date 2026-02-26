@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 221728,
+  "num_followers": 221727,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-02-19 23:00:53",
       "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2026-02-19 23:00:53",
+      "album": {
         "name": "Nick of Time",
         "url": "https://open.spotify.com/album/3SqezFkvES8NhapcRZ0f8V"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 182078,
       "name": "Nick of Time",
       "url": "https://open.spotify.com/track/6cDbus54svH0LbeHMDIaWJ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:53",
-      "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
-      },
-      "artists": [
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
       "added_at": "2026-02-19 23:00:53",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-02-19 23:00:53",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6"
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
       },
       "artists": [
         {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
     }
   ],
   "unique_name": "Nordic Folk",

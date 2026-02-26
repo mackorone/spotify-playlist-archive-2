@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21915,
+  "num_followers": 21916,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
-      },
-      "artists": [
-        {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Vos y yo",
         "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
       },
@@ -399,6 +383,38 @@
       "duration_ms": 238852,
       "name": "Malena",
       "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Azsulado",
+        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
+      },
+      "artists": [
+        {
+          "name": "Alicia Vignola",
+          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Mujer ni\u00f1a y amiga",
+      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -423,22 +439,6 @@
       "duration_ms": 154951,
       "name": "Ser\u00eda Facil Decir",
       "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Azsulado",
-        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
-      },
-      "artists": [
-        {
-          "name": "Alicia Vignola",
-          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Mujer ni\u00f1a y amiga",
-      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
-      },
-      "artists": [
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 210613,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
-        "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
-      },
-      "artists": [
-        {
-          "name": "Ada Falc\u00f3n",
-          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
-        },
-        {
-          "name": "Francisco Canaro & His Orchestra",
-          "url": "https://open.spotify.com/artist/118T4pkXEKg5wkWphove1a"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Pobre Flor (Primera Ilusi\u00f3n)",
         "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 126460,
       "name": "Pobre Flor (Primera Ilusi\u00f3n)",
       "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
+        "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
+      },
+      "artists": [
+        {
+          "name": "Ada Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
+        },
+        {
+          "name": "Francisco Canaro & His Orchestra",
+          "url": "https://open.spotify.com/artist/118T4pkXEKg5wkWphove1a"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
     },
     {
       "added_at": "2024-08-02 17:18:29",

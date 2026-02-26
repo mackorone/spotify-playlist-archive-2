@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 366 songs - 18 hr 24 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 370 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -374,5 +374,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 364 | [Sem Nada](https://open.spotify.com/track/3glO6TWZiGfgoWEm3jKL6b) | [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4) | [Sem Nada](https://open.spotify.com/album/4711zgfJ2vdH52jgijCSgF) | 3:11 |
 | 365 | [DANCE ON ME](https://open.spotify.com/track/5YtyUikC39v2osAwqvfyMo) | [ROSEGOLDEN](https://open.spotify.com/artist/6q6jMQgwld2H05Tb0eA6EI) | [DANCE ON ME](https://open.spotify.com/album/0X1st9JhuCCmXENLdCYBoH) | 3:49 |
 | 366 | [Knock](https://open.spotify.com/track/3zipmc9ciJDvjzJafk6uOF) | [Q the Key](https://open.spotify.com/artist/2nWIWQXY2B25lG0yt0HefH) | [Knock](https://open.spotify.com/album/7f7xsgE2x7B8yiUH5u3yy7) | 2:28 |
+| 367 | [Hellhole](https://open.spotify.com/track/5Bq78harN274u7Zg1iQccM) | [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc) | [Hellhole](https://open.spotify.com/album/0RcJDoC0ecOIA1HwRkt0dy) | 2:32 |
+| 368 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 |
+| 369 | [Esta Noche](https://open.spotify.com/track/3LHWhxRWqCZ1Wcj0QqCusn) | [Gabo Rojas](https://open.spotify.com/artist/5C5sb51jWedqQe24VmHAM9) | [Esta Noche](https://open.spotify.com/album/4QjbaySL7cdsca0tBjZJ0w) | 2:35 |
+| 370 | [ill intended](https://open.spotify.com/track/0iyb8xWNj6tCsznTDxeMVl) | [GavinDaVinci](https://open.spotify.com/artist/50XSxBGeYosKWspvCRxfu6) | [ill intended](https://open.spotify.com/album/2Fp9k5gZSSaIUbWe5PR764) | 2:26 |
 
-Snapshot ID: `AAAcFq5v8/RyIaq4aMNmUgvEYoOwW14r`
+Snapshot ID: `AAAcGmrsCXNWpLW+YopOlQGypmXZ4Vd4`

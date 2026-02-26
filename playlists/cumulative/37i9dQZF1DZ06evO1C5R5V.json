@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
+        "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Pacheco Blues",
+          "url": "https://open.spotify.com/artist/4gvTLC38QLmVDteNnW968V"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "Barata y Descont\u00f3n",
+      "url": "https://open.spotify.com/track/0jsGTzBhJa3NODssNxOUK5"
+    },
+    {
+      "album": {
         "name": "Barata y Descont\u00f3n",
         "url": "https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u"
       },
@@ -656,7 +678,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 219500,
       "name": "Igual",
       "url": "https://open.spotify.com/track/1yk2zZ5imHnK1pCSsjVId4"
@@ -982,6 +1004,28 @@
       "duration_ms": 181394,
       "name": "No Estoy Muerto",
       "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+    },
+    {
+      "album": {
+        "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
+        "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/2d4LDtwEGTDLP8PrYhDo2P"
     },
     {
       "album": {
@@ -1336,7 +1380,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 185237,
       "name": "Trenes y Gatos",
       "url": "https://open.spotify.com/track/73mBTnRE0oejrVRVcFL3sB"

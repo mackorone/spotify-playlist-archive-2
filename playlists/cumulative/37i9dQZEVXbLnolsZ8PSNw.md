@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-2,526 songs - 6 day 2 hr 41 min
+2,527 songs - 6 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-17 | 2024-01-09 |
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2024-07-22 | 2024-11-13 |
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 | 2024-11-09 | 2024-11-11 |
+| [\(When You Gonna\) Give It Up to Me \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 | 2026-02-25 |  |
 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 | 2023-06-24 | 2023-09-12 |
 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-06-10 | 2023-06-25 |
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-21 |
@@ -1919,7 +1920,7 @@
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2024-05-27 | 2024-07-24 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-25 |
 | [Silly \(feat\. Bugzy Malone\)](https://open.spotify.com/track/7Hm4feaA6AhD3j9r83Fy54) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 2:46 | 2021-07-18 | 2021-07-19 |
-| [Sinceramente](https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [E POI SIAMO FINITI NEL VORTICE](https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg) | 3:35 | 2026-02-23 |  |
+| [Sinceramente](https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [E POI SIAMO FINITI NEL VORTICE](https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg) | 3:35 | 2026-02-23 | 2026-02-26 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-26 | 2023-09-04 |
 | [SIR BAUDELAIRE \(feat\. DJ Drama\)](https://open.spotify.com/track/4ydmav4vl7hebadtfZtMrg) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 1:28 | 2021-06-27 | 2021-06-28 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-08-03 |

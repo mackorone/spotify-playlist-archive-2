@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56571,
+  "num_followers": 56576,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADIks3p4iwnMx2HIQ84Qeox",
+  "snapshot_id": "aZzqAAAAAAA1kXjVYYFTPu0ytlqUyJyk",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 202120,
       "name": "Dariel El Sabroso",
       "url": "https://open.spotify.com/track/1xSddOArIP3TskCVjUprYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "La Pura Verdad",
-      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 282671,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "La Pura Verdad",
+      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
     },
     {
       "added_at": null,

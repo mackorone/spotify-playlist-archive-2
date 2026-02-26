@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-1,311 songs - 2 day 22 hr 14 min
+1,312 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Jangadero](https://open.spotify.com/track/1LDoIeOs48v4UWzYUORAaL) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 4:30 | 2025-09-27 | 2025-09-29 |
 | [JEFES DEL SUDOESTE](https://open.spotify.com/track/1AnmoOrnlOea9GEUSnIqvR) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:27 | 2023-06-24 | 2023-07-03 |
 | [JET\_Set.mp3](https://open.spotify.com/track/2raFBS5ysJMxhd755bvAcf) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:25 | 2024-01-13 | 2024-02-13 |
+| [JETSKI \- Remix](https://open.spotify.com/track/7z26frY6O7BXwyjeqzYo7W) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [JETSKI \- Remix](https://open.spotify.com/album/1sjNMQMlvjVlxVGuPLVzPi) | 3:01 | 2026-02-25 |  |
 | [JOJO](https://open.spotify.com/track/2saFG2pbkGxUeOIYStxvyx) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:10 | 2025-11-22 | 2026-01-18 |
 | [JOJO](https://open.spotify.com/track/4Ldo3ZQCK6KpTHm1wsbWOg) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [JOJO](https://open.spotify.com/album/4MvXN88TgxRdH88qadBEG8) | 2:10 | 2025-11-01 | 2025-11-23 |
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-04-12 | 2022-06-15 |
@@ -1175,7 +1176,7 @@
 | [Tu jardín con enanitos](https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [Tu jardín con enanitos](https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk) | 2:55 | 2025-05-26 |  |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop, Vol\. 2](https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl) | 4:04 | 2025-07-29 | 2026-01-25 |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 | 2025-07-16 | 2025-07-30 |
-| [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/track/4Kzi8hXKkT87SQoYClizh0) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/album/2LpL0pdOS6HWxxYeN1v2Zy) | 2:36 | 2025-09-13 |  |
+| [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/track/4Kzi8hXKkT87SQoYClizh0) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/album/2LpL0pdOS6HWxxYeN1v2Zy) | 2:36 | 2025-09-13 | 2026-02-26 |
 | [Tu Nombre](https://open.spotify.com/track/5DberPEjKBTY8WTzLgr0zZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Espacio](https://open.spotify.com/album/2C9O39yyriTfCN5IN0gngg) | 3:21 | 2022-03-12 | 2022-04-12 |
 | [TU NOVIA II](https://open.spotify.com/track/36HuDDzVm7vgxwiFDaBYzq) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:24 | 2025-05-01 | 2025-05-03 |
 | [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 | 2024-09-01 | 2024-09-08 |

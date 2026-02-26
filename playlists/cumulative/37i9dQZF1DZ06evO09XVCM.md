@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 6 min
+79 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Drive](https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Drive](https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ) | 4:20 | 2025-03-10 |  |
 | [El Hilo](https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Cumbiana](https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS) | 3:48 | 2024-02-01 |  |
 | [Express Yourself \(Amplified Mix\)](https://open.spotify.com/track/5onx5emgJUwxgJ9Osoywzq) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Frank Fitzpatrick](https://open.spotify.com/artist/6xnvYc9KEUaCsJQhX5oiJz), [Eeday](https://open.spotify.com/artist/0VHM0UdeTigh5S74sgtNoB) | [SOUL VISION](https://open.spotify.com/album/1BWLKNP3j1XqLv4avK874f) | 4:14 | 2024-11-25 | 2025-03-13 |
-| [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 | 2024-02-01 |  |
+| [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 | 2024-02-01 | 2026-02-26 |
 | [Fly Rasta](https://open.spotify.com/track/5yy9slyOjLet4v7AOi2AYg) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/25ehyn3bBEPlOsjXTjsGIH) | 3:39 | 2024-04-14 | 2024-12-17 |
 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:39 | 2024-06-18 |  |
 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC) | 3:39 | 2024-02-01 | 2026-01-31 |
@@ -58,6 +58,7 @@
 | [Personal Revolution](https://open.spotify.com/track/6pkW8i62ePJGccr8fsVqIY) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 4:54 | 2024-02-01 | 2024-04-15 |
 | [Personal Revolution \- Live](https://open.spotify.com/track/78MJxpgW1vyCpcjkc714KB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Personal Revolution \(Live\)](https://open.spotify.com/album/4uzWNogETDR04paJciOp1E) | 5:27 | 2024-04-15 | 2024-06-10 |
 | [Positive Vibration \- Live](https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:16 | 2024-02-01 |  |
+| [Racism Is A Killa](https://open.spotify.com/track/5nELNKYYeUdias1RHBFqcK) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Racism Is A Killa](https://open.spotify.com/album/1EyjrVquvjyIcjPi9Pcdwc) | 3:40 | 2026-02-26 |  |
 | [Rainbow in the Sky](https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:08 | 2024-02-01 |  |
 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Feels So Good](https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA) | 2:23 | 2024-02-01 | 2025-10-12 |
 | [Rebellion Rises](https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:26 | 2024-02-01 |  |

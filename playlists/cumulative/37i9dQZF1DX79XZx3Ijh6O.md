@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Україна](https://open.spotify.com/playlist/37i9dQZF1DX79XZx3Ijh6O)
 
-> Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:2HLvWnuUDbB4wNQaLLwbud">Keay</a>
+> Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:4jLIjIj0Lc0dpbWQWjsZXQ">TAKAYA</a>
 
 426 songs - 21 hr 5 min
 

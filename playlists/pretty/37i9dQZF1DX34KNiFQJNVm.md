@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Fred & Fabrício, U2, Hugo Henrique com Ana Castela, Mc Don Juan, Manu e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258,744 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258,626 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 300198,
+  "num_followers": 300339,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABs4w/9Md3JNm5S4Lg8Fw9E",
+  "snapshot_id": "aZzqAAAAAACbn6zAoZGYQpCSuMNoz12K",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y si peleamos",
         "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 192000,
       "name": "Y si peleamos",
       "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT"
     },
     {
       "added_at": null,
@@ -743,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7fHc0DVow5aPLSblrrDFFH"
+      "duration_ms": 180000,
+      "name": "la luz(F\u00edn)",
+      "url": "https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6"
     },
     {
       "added_at": null,
@@ -779,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7fHc0DVow5aPLSblrrDFFH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sincerely: P.S.",
         "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
       },
@@ -795,42 +815,6 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "la luz(F\u00edn)",
-      "url": "https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 206526,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/10JsYPcjhsD9nwTuk51Jtb"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 206526,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/10JsYPcjhsD9nwTuk51Jtb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 255183,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/3HXTxdkm8vldSfVZPIQa9G"
+      "duration_ms": 161539,
+      "name": "//aguardiente y lim\u00f3n %\u1d55\u203f\u203f\u1d55%",
+      "url": "https://open.spotify.com/track/0Ui4S8sgBCXv4Ao1HhTTun"
     }
   ],
   "unique_name": "This Is Kali Uchis",

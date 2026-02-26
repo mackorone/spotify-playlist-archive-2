@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,699 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,765 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 29 | [Hierba de Receta](https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 3:15 |
 | 30 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 |
 | 31 | [Como Te Guffi \- Remix](https://open.spotify.com/track/4S7G1heGcYCIZZfE8QSfnj) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Como Te Guffi \- Remix](https://open.spotify.com/album/4CLCaJZKlWYM2X8DT7PGK1) | 3:06 |
-| 32 | [El Chino \(En Vivo\)](https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm) | 2:47 |
-| 33 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 |
+| 32 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 |
+| 33 | [El Chino \(En Vivo\)](https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm) | 2:47 |
 | 34 | [La Fuga del Jefe](https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 2:32 |
 | 35 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
 | 36 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [La Vida del Changuito](https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:13 |
 | 50 | [Te Atreves A Pecar](https://open.spotify.com/track/3PUBzloHZxJseSDkuNdl5X) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Te Atreves A Pecar](https://open.spotify.com/album/1aOpxtDib9iNhjwJdQTqIy) | 2:52 |
 
-Snapshot ID: `aZuYgAAAAADvl28ZNavjrKZ/7dUlsjwS`
+Snapshot ID: `aZzqAAAAAAACv5zqOL5yB3LlUe22Wo2D`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAA7z2Fc1TeS3TgKrCEu7kyP",
+  "snapshot_id": "aZzqAAAAAABACn0qsiE89tuX02suO2lh",
   "tracks": [
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PHOENIX PRAYER",
-        "url": "https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q"
+        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 252775,
-      "name": "PHOENIX PRAYER",
-      "url": "https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8"
+      "duration_ms": 269253,
+      "name": "Close Friend",
+      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
-        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 269253,
-      "name": "Close Friend",
-      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST -E-",
         "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 291746,
       "name": "\u30a2\u30ab\u30c4\u30ad",
       "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PHOENIX PRAYER",
+        "url": "https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 252775,
+      "name": "PHOENIX PRAYER",
+      "url": "https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "HaNaZaKaRi",
+      "url": "https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u9ab8\u3068\u4f3d\u85cd\u5802-\u58f1-",
         "url": "https://open.spotify.com/album/4v6SteCfMRBs8FfynXcpvq"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 196596,
       "name": "\u516b\u5341\u5e74\u306e\u5b64\u72ec",
       "url": "https://open.spotify.com/track/2xPnPnsiJTbNBAWJEPRsDs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEST -E-",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "HaNaZaKaRi",
-      "url": "https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KALEIDOSCOPE",
-        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "\u30ed\u30bc",
-      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30a4\u30ea\u30b9",
         "url": "https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 232026,
       "name": "\u30d2\u30c8\u30ab\u30b1\u30e9\u306e\u52c7\u6c17",
       "url": "https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "\u30ed\u30bc",
+      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
     },
     {
       "added_at": null,

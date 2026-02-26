@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 162907,
       "name": "A Mind At Peace",
       "url": "https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs"
@@ -2432,6 +2432,24 @@
       "duration_ms": 143000,
       "name": "Infinite Light",
       "url": "https://open.spotify.com/track/5EX3yrp5S1HEmfHgNjzvAS"
+    },
+    {
+      "album": {
+        "name": "Interconnectedness",
+        "url": "https://open.spotify.com/album/1NaSRWhXzZU1rL9O0CPlQd"
+      },
+      "artists": [
+        {
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Interconnectedness",
+      "url": "https://open.spotify.com/track/5d7M78Bl9ni80Ig44x38w5"
     },
     {
       "album": {

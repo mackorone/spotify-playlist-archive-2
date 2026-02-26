@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 196723,
+  "num_followers": 196816,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAi8VWULI2wNLIuKQiPs7pV",
+  "snapshot_id": "aZzqAAAAAABZqzYb5B+futrIpbJZdhfC",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 169906,
       "name": "TOP FLOOR (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "back to the moon",
-      "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 152386,
       "name": "DO BETTER",
       "url": "https://open.spotify.com/track/03o9Cj2S5T56GeV9SeZNt0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "back to the moon",
+      "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158240,
+      "name": "WUNNA",
+      "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Certified Hitmaker",
         "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 123560,
       "name": "Stuck In A Dream (feat. Gunna)",
       "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158240,
-      "name": "WUNNA",
-      "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
     },
     {
       "added_at": null,

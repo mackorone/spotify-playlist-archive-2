@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 245750,
       "name": "Anh \u0110\u00e3 Kh\u00f4ng Bi\u1ebft C\u00e1ch Y\u00eau Em",
       "url": "https://open.spotify.com/track/1hPbWyZnUPaeAWbOSKwkXJ"
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -6084,6 +6084,28 @@
       "duration_ms": 177684,
       "name": "C\u1ea2M NH\u1eacN (feat. Seachains)",
       "url": "https://open.spotify.com/track/2sUJxpZyYIAtJjy4ptfTK2"
+    },
+    {
+      "album": {
+        "name": "C\u1ea3m \u01a0n Ng\u01b0\u1eddi \u0110\u00e3 Th\u1ee9c C\u00f9ng T\u00f4i (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1iewLzIh1MeL2viF2GMW8i"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        },
+        {
+          "name": "30 Pictures",
+          "url": "https://open.spotify.com/artist/4fuBxSAuP6X7YxDZYVaLsz"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293500,
+      "name": "C\u1ea3m \u01a0n Ng\u01b0\u1eddi \u0110\u00e3 Th\u1ee9c C\u00f9ng T\u00f4i - Original Soundtrack",
+      "url": "https://open.spotify.com/track/0t8g66pWghsU8MphjUQIdg"
     },
     {
       "album": {
@@ -10698,7 +10720,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 275820,
       "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n",
       "url": "https://open.spotify.com/track/5SzJs9cwYXdSm9G3xcXuA2"
@@ -10768,7 +10790,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 354782,
       "name": "H\u01b0 kh\u00f4ng",
       "url": "https://open.spotify.com/track/3A9A7mfVDVm3rrS9SMGhg5"
@@ -15652,7 +15674,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 235315,
       "name": "m\u1ed9t b\u00e0i h\u00e1t kh\u00f4ng vui m\u1ea5y - Extended Version",
       "url": "https://open.spotify.com/track/36fgG6NiEuQXznNgf5y2Ck"
@@ -17398,7 +17420,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
@@ -17452,7 +17474,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -22787,6 +22809,24 @@
     },
     {
       "album": {
+        "name": "ANH B\u1edc VAI (\u1ea4n B\u1ea3n KIM)",
+        "url": "https://open.spotify.com/album/4310n4bmmOFdRFhYtDj7OL"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206016,
+      "name": "Thanh T\u00e2n",
+      "url": "https://open.spotify.com/track/2eVsKrWqJhTAVItaTRashw"
+    },
+    {
+      "album": {
         "name": "Thanh Xuan",
         "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
       },
@@ -24144,7 +24184,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 172500,
       "name": "Tr\u00e0n B\u1ed9 Nh\u1edb",
       "url": "https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF"

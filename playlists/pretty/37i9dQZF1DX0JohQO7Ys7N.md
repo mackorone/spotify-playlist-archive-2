@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Hildah Watiri & Kyrop
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,435 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,457 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

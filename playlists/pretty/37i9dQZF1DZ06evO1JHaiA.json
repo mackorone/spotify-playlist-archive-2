@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACHGzfcL/tZsl+r84Fms1dH",
+  "snapshot_id": "aZzqAAAAAABuJUm1bGjEPhwhyAoKURmm",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 305600,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 218554,
       "name": "Cry Together - Live",
       "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 305600,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "To Be Happy Is the Real Thing",
+      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 498064,
       "name": "A House Is Not A Home - Live",
       "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 208386,
-      "name": "To Be Happy Is the Real Thing",
-      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Traveling Home",
+      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 312830,
       "name": "The Love I Lost - Live",
       "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Traveling Home",
-      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
       "duration_ms": 197026,
       "name": "What's Easy for Two Is so Hard for One",
       "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "You're My One & Only Baby",
+      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
     },
     {
       "added_at": null,
@@ -628,97 +644,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "You're My One & Only Baby",
-      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "Just to Be",
-      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 224118,
-      "name": "If You Don't Know Me By Now - Live",
-      "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 166126,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+      "duration_ms": 157070,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
     },
     {
       "added_at": null,
@@ -735,6 +663,22 @@
       "duration_ms": 151866,
       "name": "Jefferies Rock",
       "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,
@@ -772,9 +716,25 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 157070,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
+      "duration_ms": 166126,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 139726,
+      "name": "Just to Be",
+      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
     },
     {
       "added_at": null,
@@ -795,6 +755,78 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 224118,
+      "name": "If You Don't Know Me By Now - Live",
+      "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "I'm Glad Your're My Girl",
+      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When We Get Married",
         "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
@@ -811,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
       "artists": [
         {
@@ -820,9 +852,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 193136,
-      "name": "One In a Million",
-      "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
+      "duration_ms": 153786,
+      "name": "But You Belong to Me",
+      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
     }
   ],
   "unique_name": "This Is The Intruders",

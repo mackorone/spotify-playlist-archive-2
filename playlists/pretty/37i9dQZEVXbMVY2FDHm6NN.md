@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,885 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,901 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [珊瑚海](https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [11月的蕭邦](https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC) | 4:16 |
 | 50 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 
-Snapshot ID: `MTENGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTJcQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

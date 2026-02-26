@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Willoughby Tucker, I'll Always Love You",
+        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "A Knock At The Door",
+      "url": "https://open.spotify.com/track/1STBtZAY8upX61xEtYbkaS"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1y4awtbaJDMbceQM2JlNr6"
       },
@@ -593,6 +611,24 @@
     },
     {
       "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248995,
+      "name": "Hell Is Near",
+      "url": "https://open.spotify.com/track/5tuHiLI7CPV1BI9m2Gnlph"
+    },
+    {
+      "album": {
         "name": "Hello Heartbreak",
         "url": "https://open.spotify.com/album/0szuw7EGWTNXofx8VxshMV"
       },
@@ -1088,6 +1124,24 @@
       "duration_ms": 156960,
       "name": "Open Up Your Heart (And Let The Sun Shine In)",
       "url": "https://open.spotify.com/track/1Tkx3VJ6aN9EJhTpjSzPE5"
+    },
+    {
+      "album": {
+        "name": "Conspiracy Pt.2",
+        "url": "https://open.spotify.com/album/3WSHoNpx7QQMcmfm26wksh"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233965,
+      "name": "Opr",
+      "url": "https://open.spotify.com/track/12Ypr3PCVJ2i7Uwz93q1Vl"
     },
     {
       "album": {
@@ -1641,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "flush",
+        "url": "https://open.spotify.com/album/7kNmlZAS3dhYeuLDjBmI9D"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203627,
+      "name": "to be seen",
+      "url": "https://open.spotify.com/track/0fGzvq8KxJQhsoaX7igKGc"
+    },
+    {
+      "album": {
         "name": "Turn The TV On",
         "url": "https://open.spotify.com/album/7IjALOKHOTM6RGhhXJFwPF"
       },
@@ -1728,6 +1800,28 @@
       "duration_ms": 145573,
       "name": "when mama used to sing",
       "url": "https://open.spotify.com/track/25mZEY8ibCCvzUciJ2I3uo"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192106,
+      "name": "wish you the best (feat. Jensen McRae)",
+      "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5LhW5nPZDse"

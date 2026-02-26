@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-201 songs - 12 hr 53 min
+204 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Liberathing Path](https://open.spotify.com/track/4xpU35Wjiba1iv0E52M2VV) | [Slow Circuit](https://open.spotify.com/artist/0pvG2ZrHv2x2SsFyGZWJDz) | [Liberathing Path](https://open.spotify.com/album/0eOZ6uWgtxbFUUnPgGNYdB) | 3:00 | 2024-11-14 |  |
 | [Light Mind](https://open.spotify.com/track/2O10XkNg3GV98VMqe3EbCb) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 3:08 | 2022-01-06 | 2025-05-17 |
 | [Lono](https://open.spotify.com/track/4hBngGXxfCEWInIcaOHk4Z) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 4:11 | 2022-01-06 | 2024-03-01 |
+| [Lotus Veil](https://open.spotify.com/track/5DwIulrlrIod8VqVMzGL2U) | [Adrian Moor](https://open.spotify.com/artist/5J6jx2CjmC4r4QeNCeWYbB) | [Lotus Veil](https://open.spotify.com/album/385WvWTgC8z021MiD48SgH) | 2:37 | 2026-02-25 |  |
 | [Love Bowls 396 Hz](https://open.spotify.com/track/7MqIXr9SyUJpl6wcz6uQ4b) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Love Bowls 396 Hz](https://open.spotify.com/album/3BALz4cCJB05dWOQB5f7C5) | 2:58 | 2022-12-13 |  |
 | [Lullaby](https://open.spotify.com/track/5vjsIox5BJAP1YIERBLdfn) | [Alain Presencer](https://open.spotify.com/artist/1TFojWUtNPFxCm61M7TJMT) | [Singing Bowls of Tibet](https://open.spotify.com/album/1Xm1grJslIgHqR3hqe3FQk) | 2:48 | 2022-01-06 | 2025-12-03 |
 | [Magical](https://open.spotify.com/track/3Zw61ahIU4a7YcofJ3V901) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Magical](https://open.spotify.com/album/7xwlNkYVs4yXw2f5OfSOOU) | 2:27 | 2025-05-16 |  |
@@ -138,6 +139,7 @@
 | [Perpetual Bowl](https://open.spotify.com/track/70VqRL6Yjrm0NTwZWZ5do3) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:45 | 2022-12-13 | 2025-04-30 |
 | [Perspective](https://open.spotify.com/track/7HyEK4QwfJriTk2Y6IL2tH) | [Noah Proctor Meditations](https://open.spotify.com/artist/6ttLZmuxBwwIq7Nu7iJbNE) | [Sound Bath](https://open.spotify.com/album/3H5ridvpAuOeAfoHpu8Zpr) | 3:23 | 2022-01-06 | 2025-07-10 |
 | [Power of a Flame](https://open.spotify.com/track/0TS7lA9wY0JKRHjsW3cYrU) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL), [Eera Sidorina](https://open.spotify.com/artist/6QF5U4s6rjFywHsLpfHDNZ) | [Between the now and next](https://open.spotify.com/album/3Sjg2gjbFBjyvO4qfKBHhd) | 4:32 | 2025-09-04 |  |
+| [Prana Essence](https://open.spotify.com/track/5mPhg5mLr8HhZeW7XeRzpk) | [Anna Murakami](https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws) | [Prana Essence](https://open.spotify.com/album/6bD15ZYWBQRS3K4OVaWo1g) | 2:40 | 2026-02-25 |  |
 | [Prayer for Protection](https://open.spotify.com/track/09o9vEpXDAzjABUNGWIxQj) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:29 | 2022-01-06 | 2025-07-10 |
 | [Present Thoughts](https://open.spotify.com/track/72N5ExTFna6rUswSu21fxo) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:10 | 2022-03-25 | 2024-03-01 |
 | [Preservation](https://open.spotify.com/track/0IlaIk8xzuKP7Wei0I0c9y) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Preservation](https://open.spotify.com/album/1a7Xfww0jdCKRbNwzQA1ho) | 2:47 | 2024-08-30 |  |
@@ -189,6 +191,7 @@
 | [Tibetan Bowl Mind Clarity](https://open.spotify.com/track/5SXk3qGtMOLUDVUttQLea0) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 4:06 | 2022-02-22 | 2024-08-03 |
 | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/track/1uxMFlCjZLLfQcwQRTu3qk) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/album/6avoryhRkQVhGtWl3b2hQ8) | 6:07 | 2022-01-06 | 2024-03-01 |
 | [Tibetan Freedom](https://open.spotify.com/track/0N0QUNuhcz62Psr94eol6Y) | [Ancient Bowls](https://open.spotify.com/artist/3Sw0MoemYo0ep1o3O1eC4a) | [Tibetan Freedom](https://open.spotify.com/album/2SydihoDh6Z28xSfZtIEHo) | 2:53 | 2025-06-23 |  |
+| [tinySketch \#62](https://open.spotify.com/track/0WrWHvpc3mSeQpmJTIsbPR) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [tinySketch \#62](https://open.spotify.com/album/3wFwI7ZQ70sTjtag6CxzOh) | 3:30 | 2026-02-25 |  |
 | [Trancending Bowls](https://open.spotify.com/track/7xw6Krd1yCiY9vFiQN5QTv) | [Munnafurl](https://open.spotify.com/artist/0Sm6aVKkEf6RBbTJVnUc2M) | [Trancending Bowls](https://open.spotify.com/album/4E83vsCv1Td8d0IIzUUl2s) | 2:18 | 2026-01-21 |  |
 | [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/track/13vU2lqVVClRBAvDOAKr5L) | [Lauri Poldre](https://open.spotify.com/artist/0ANW2NaM4xL8vlFB8jSPXB) | [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/album/7t9DJLZJc6BK2XroiA0NiT) | 20:13 | 2022-04-14 | 2022-04-27 |
 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [SunOneSun](https://open.spotify.com/artist/7n3WTqnRXVk69eiHUgSLnq) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 | 2022-01-06 | 2025-07-10 |

@@ -2,7 +2,7 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
+> 😈 welcome to the rave 😈  Cover: Sara Landry
 
 352 songs - 1 day 0 hr 11 min
 

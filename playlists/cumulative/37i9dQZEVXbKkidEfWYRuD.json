@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 191921,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/1IqRoFm0NHj23m8L1CMqw2"
@@ -14684,7 +14684,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -19355,6 +19355,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -22484,7 +22506,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -27572,7 +27594,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 172320,
       "name": "\u0414\u043e\u0434\u0430\u0439 \u0433\u0443\u0447\u043d\u043e\u0441\u0442\u0456 (12 points)",
       "url": "https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL"
@@ -30026,7 +30048,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -31756,7 +31778,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "\u041c\u0443\u0436\u0447\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF"
@@ -34672,7 +34694,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -35504,7 +35526,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 121558,
       "name": "\u0420\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"
@@ -37422,7 +37444,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 190124,
       "name": "\u0422\u0430\u043a\u0443 \u044f\u043a \u0454",
       "url": "https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 76585,
+  "num_followers": 76597,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACU+VwLBzgiRHV2q/kL12J1",
+  "snapshot_id": "aZzqAAAAAADZsWezBIg5IQ92yyZVnvuo",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129636,
+      "name": "How High?",
+      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
         "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Name of Love",
-        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Name of Love",
-      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y2K!",
         "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
       },
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+        "name": "Name of Love",
+        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 129636,
-      "name": "How High?",
-      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
+      "duration_ms": 106666,
+      "name": "Name of Love",
+      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 111780,
+      "name": "Butterfly Ku",
+      "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y2K! (Bonus)",
         "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
       },
@@ -519,6 +535,22 @@
       "duration_ms": 114437,
       "name": "GYAT",
       "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 113424,
+      "name": "Euphoric",
+      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
     },
     {
       "added_at": null,
@@ -548,25 +580,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 111780,
-      "name": "Butterfly Ku",
-      "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoric",
-        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 113424,
-      "name": "Euphoric",
-      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
+      "duration_ms": 124965,
+      "name": "On The Radar - Bonus",
+      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
     },
     {
       "added_at": null,
@@ -587,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 123469,
-      "name": "TTYL",
-      "url": "https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 124965,
-      "name": "On The Radar - Bonus",
-      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bully Freestyle",
         "url": "https://open.spotify.com/album/5EH7LpOYTjBhBrgxI18Lh2"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 124200,
       "name": "Bully Freestyle",
       "url": "https://open.spotify.com/track/039QTTXxpxtQxgsa6XcqRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 123469,
+      "name": "TTYL",
+      "url": "https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7"
     },
     {
       "added_at": null,

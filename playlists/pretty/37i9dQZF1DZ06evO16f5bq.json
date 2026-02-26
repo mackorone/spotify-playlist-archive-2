@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 156047,
+  "num_followers": 156048,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAUcM1pJ9JEvUHkGhUwt8jc",
+  "snapshot_id": "aZzqAAAAAAATSNU8h+07fl2n9y12GY/D",
   "tracks": [
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
+        }
+      ],
+      "duration_ms": 207104,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "442",
         "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 125760,
       "name": "Vida Rasa",
       "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Djay W",
-          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
-        }
-      ],
-      "duration_ms": 207104,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
     },
     {
       "added_at": null,
@@ -1279,22 +1279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vetin",
-        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
       "artists": [
         {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dj Juninho da Espanha",
+          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
+      "duration_ms": 200106,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/6QRTLTLtIoJsJTA5wH7Ya8"
     },
     {
       "added_at": null,
@@ -1335,26 +1339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
       },
       "artists": [
         {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dj Juninho da Espanha",
-          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 200106,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/6QRTLTLtIoJsJTA5wH7Ya8"
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
     },
     {
       "added_at": null,

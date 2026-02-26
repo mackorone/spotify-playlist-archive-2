@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Lylo Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,648 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,655 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 6 | [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 |
 | 7 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 8 | [FAVELA](https://open.spotify.com/track/2Zra8ic72klVu1wiczr6XD) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [FAVELA](https://open.spotify.com/album/6JcNrOZ8lK2fCEFR0VNzTs) | 2:18 |
-| 9 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
-| 10 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
+| 9 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
+| 10 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
 | 11 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |
 | 12 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 |
 | 13 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 52 | [U GOTTA \(feat\. Pharrell\)](https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:00 |
 | 53 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
 | 54 | [Red Sea](https://open.spotify.com/track/1GPHLX444M4TPoeH2PkN5L) | [Lv](https://open.spotify.com/artist/0ZdEpgTWH5UAPeItBOSL5Y) | [Red Sea](https://open.spotify.com/album/20tFCHvKqXmcCwJcoBpWBA) | 2:12 |
-| 55 | [Saoirse](https://open.spotify.com/track/5EJSeGt3bOW2ho0Ompib9g) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Saoirse](https://open.spotify.com/album/0StKhomjgXxgnr5geXZw0S) | 3:42 |
-| 56 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
+| 55 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
+| 56 | [Saoirse](https://open.spotify.com/track/5EJSeGt3bOW2ho0Ompib9g) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Saoirse](https://open.spotify.com/album/0StKhomjgXxgnr5geXZw0S) | 3:42 |
 | 57 | [GOOD TIMES](https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [GOOD TIMES](https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7) | 2:55 |
 | 58 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 |
 | 59 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 |
-| 60 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
+| 60 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 |
 
 Snapshot ID: `AAAAABzo/OWwKhgIBehDtEQ3CRXW7Xfm`

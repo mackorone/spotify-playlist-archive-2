@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,118,701 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,118,663 likes - 125 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 105 | [Calm Yourself Down](https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi), [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Calm Yourself Down](https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66) | 3:15 |
 | 106 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [MEGA](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
 | 107 | [First In Flight](https://open.spotify.com/track/1CAgLQ0ucxEJYfEYAS83jA) | [Don McCloskey](https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH) | [First In Flight](https://open.spotify.com/album/6BIZW2xysaiv1S797EreWd) | 3:41 |
-| 108 | [Long Limbs](https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Long Limbs](https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt) | 3:16 |
-| 109 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 |
+| 108 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 |
+| 109 | [Long Limbs](https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Long Limbs](https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt) | 3:16 |
 | 110 | [How Low](https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [How Low](https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s) | 4:04 |
 | 111 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
 | 112 | [Dancing Slow](https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:20 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 117 | [In Bloom](https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Bloom](https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T) | 3:13 |
 | 118 | [My Own](https://open.spotify.com/track/7pQMGkL6LImxSxHHuqgvpe) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [My Own](https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC) | 3:30 |
 | 119 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
-| 120 | [Believer](https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Believer](https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb) | 3:31 |
-| 121 | [Hurt By You](https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Hurt By You](https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05) | 3:50 |
+| 120 | [Hurt By You](https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Hurt By You](https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05) | 3:50 |
+| 121 | [Believer](https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Believer](https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb) | 3:31 |
 | 122 | [Fly Away](https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:31 |
 | 123 | [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 |
 | 124 | [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 |
-| 125 | [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 |
+| 125 | [Wide Awake](https://open.spotify.com/track/6oa5Vfov0r90SK63nVvTii) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/0WhrnQczKJFAo1Q1R9buoY) | 3:37 |
 
 Snapshot ID: `AAAAAMewI0DeQgWFAdIAP1Jjisa14IlW`

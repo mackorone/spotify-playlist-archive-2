@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Pooh Shiesty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258,077 likes - 97 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,161 likes - 97 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 20 | [2v2 \(with EBK Jaaybo\)](https://open.spotify.com/track/7rGDpPYmXZ9JcWtizej9JE) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [2v2 \(with EBK Jaaybo\)](https://open.spotify.com/album/016Uvr9eqAsJY3sHZfZ5Ht) | 2:27 |
 | 21 | [I HEARD \(FT\. YOUNGBOY NEVER BROKE AGAIN\)](https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:38 |
 | 22 | [Trackhawk](https://open.spotify.com/track/1q8rWcQ8xXd6Q9NKdXNgDL) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Trackhawk](https://open.spotify.com/album/7Kj33Q2x72qmFqs6pmsQ67) | 1:59 |
-| 23 | [Hood](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
+| 23 | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
 | 24 | [Fuck How They Feel](https://open.spotify.com/track/5d0Ct1qgZZhfFnut590CTt) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Suffering From Success](https://open.spotify.com/album/6Ds0xhRZ4Qq8RM64DwnAes) | 3:29 |
 | 25 | [ROOMS](https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ROOMS](https://open.spotify.com/album/50sklTdoxS2yLHgF3jnV3t) | 3:52 |
 | 26 | [MVP](https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Migo In America](https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw) | 1:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 101012,
+  "num_followers": 101004,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAClKbLVIeoKmIEm1yFk2Cou",
+  "snapshot_id": "aZzqAAAAAABdGBIaNef3CECYxf27ix2j",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
       "artists": [
         {
@@ -164,13 +164,13 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
         }
       ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
+      "duration_ms": 153626,
+      "name": "Out Of Love (feat. Internet Money)",
+      "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
       "artists": [
         {
@@ -232,13 +232,13 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 153626,
-      "name": "Out Of Love (feat. Internet Money)",
-      "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
       "artists": [
         {
@@ -324,17 +324,13 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 193013,
-      "name": "When You Down (with Polo G feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
+      "duration_ms": 173195,
+      "name": "Fell In Love (with Ken Carson)",
+      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
     },
     {
       "added_at": null,
@@ -371,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
       "artists": [
         {
@@ -380,13 +376,17 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
+      "duration_ms": 193013,
+      "name": "When You Down (with Polo G feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Love You Tecca 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "SHOW ME UP",
+      "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Love You Tecca 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "SHOW ME UP",
-      "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
     },
     {
       "added_at": null,

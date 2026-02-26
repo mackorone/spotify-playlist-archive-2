@@ -1,6 +1,6 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1317463,
+  "num_followers": 1317303,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 169974,
-      "name": "Writing's On The Wall",
-      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 169974,
+      "name": "Writing's On The Wall",
+      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Pussy Palace",
-      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "My Regards",
         "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 191840,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "The Night We Met",
-        "url": "https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 209081,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Sch\u00f6ne Dinge",
         "url": "https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 159383,
       "name": "Sch\u00f6ne Dinge",
       "url": "https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "The Night We Met",
+        "url": "https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 209081,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1551,6 +1551,30 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "listen carefully",
+        "url": "https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Song 11 ft Provinz",
+      "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "The Little Mess You Made",
         "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
@@ -1587,30 +1611,6 @@
       "duration_ms": 177818,
       "name": "Zimmer",
       "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "listen carefully",
-        "url": "https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD"
-      },
-      "artists": [
-        {
-          "name": "$OHO BANI",
-          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
-        },
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Song 11 ft Provinz",
-      "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
     },
     {
       "added_at": "2026-02-19 23:00:42",

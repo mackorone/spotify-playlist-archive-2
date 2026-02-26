@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Teri Baaton Mein Aisa Uljha Jiya",
+        "url": "https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab",
+      "url": "https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa 3",
         "url": "https://open.spotify.com/album/2DNzidacofd4SvmOyj620R"
       },
@@ -1203,6 +1221,36 @@
     },
     {
       "album": {
+        "name": "Laxmii (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/10EGsrkAAHL1TQuUVQP655"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "DJ Khushi",
+          "url": "https://open.spotify.com/artist/6xElGyunMSlnuJ2vabDUWA"
+        },
+        {
+          "name": "Shashi",
+          "url": "https://open.spotify.com/artist/5EXIQQjCaCnRPJ68SxYURB"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187570,
+      "name": "BurjKhalifa - From \"Laxmii\"",
+      "url": "https://open.spotify.com/track/4Y6YA8TdR8zZgS1yzMA0rn"
+    },
+    {
+      "album": {
         "name": "Chhalaang",
         "url": "https://open.spotify.com/album/2iDf7ItgmdUJbErUMz1CLM"
       },
@@ -1524,10 +1572,40 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 246100,
       "name": "Chittiyaan Kalaiyaan",
       "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
+    },
+    {
+      "album": {
+        "name": "Loveyatri - A Journey Of Love",
+        "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249741,
+      "name": "Chogada",
+      "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
     },
     {
       "album": {
@@ -1562,6 +1640,44 @@
       "duration_ms": 173400,
       "name": "Choli Ke Peeche (From \"Crew\")",
       "url": "https://open.spotify.com/track/1ErMeReQpwGuroEk5zekr3"
+    },
+    {
+      "album": {
+        "name": "Bhool Chuk Maaf (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oeV3kexvDA98cZvTIBcew"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "Chor Bazari Phir Se (From \"Bhool Chuk Maaf\")",
+      "url": "https://open.spotify.com/track/0iFTYXQS4rUhCAcLZcalKq"
     },
     {
       "album": {
@@ -2970,11 +3086,15 @@
         {
           "name": "Divya Kumar",
           "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
         }
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-04-08",
+      "date_removed": null,
       "duration_ms": 247381,
       "name": "Halka Halka",
       "url": "https://open.spotify.com/track/3DbNXniRprbs23Vlmy4roM"
@@ -3182,7 +3302,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 212115,
       "name": "High Heels Te Nachche",
       "url": "https://open.spotify.com/track/1bAa1OyefOhXdqnL8dlxFt"
@@ -3322,7 +3442,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
@@ -3780,7 +3900,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 187710,
       "name": "Kar Gayi Chull",
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3"
@@ -4651,6 +4771,28 @@
     },
     {
       "album": {
+        "name": "Badhaai Ho",
+        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198025,
+      "name": "Morni Banke",
+      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
+    },
+    {
+      "album": {
         "name": "Morni Banke (From \"Badhaai Ho\")",
         "url": "https://open.spotify.com/album/1lTV7wbMeSmLrBOjf42FER"
       },
@@ -4920,7 +5062,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 251513,
       "name": "Nachange Saari Raat",
       "url": "https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe"
@@ -4950,7 +5092,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 194761,
       "name": "Nachde Ne Saare",
       "url": "https://open.spotify.com/track/7HuLB7m448hiKT7Af60Ew3"
@@ -5208,7 +5350,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 237875,
       "name": "Nashe Si Chadh Gayi",
       "url": "https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO"
@@ -5918,7 +6060,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 161793,
       "name": "Ramba Ho",
       "url": "https://open.spotify.com/track/3Zg5ENFvbucf41iPRvPcHn"
@@ -5952,6 +6094,28 @@
       "duration_ms": 219079,
       "name": "Rammo Rammo (From \"Bhuj The Pride Of India\")",
       "url": "https://open.spotify.com/track/7HbGfvqZKnxkbWDLHe6gso"
+    },
+    {
+      "album": {
+        "name": "Jugjugg Jeeyo",
+        "url": "https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223271,
+      "name": "Rangisari",
+      "url": "https://open.spotify.com/track/3x9vShiP4hDhE94zvObYNS"
     },
     {
       "album": {
@@ -6160,7 +6324,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 210799,
       "name": "Saturday Saturday",
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i"
@@ -6246,7 +6410,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 238994,
       "name": "Sau Tarah Ke",
       "url": "https://open.spotify.com/track/54SQet8YMttOgTqDNGcGpe"
@@ -6404,6 +6568,28 @@
       "duration_ms": 297651,
       "name": "Selfie Le Le Re",
       "url": "https://open.spotify.com/track/0Zz7AEZfBKP2U7sO0WJKER"
+    },
+    {
+      "album": {
+        "name": "Housefull 4",
+        "url": "https://open.spotify.com/album/61yDeessJaxmW5NiWFVcxK"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147429,
+      "name": "Shaitan Ka Saala",
+      "url": "https://open.spotify.com/track/59vbPXCgc6oxbSzMfVBLNb"
     },
     {
       "album": {
@@ -6952,7 +7138,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 252631,
       "name": "The Breakup Song",
       "url": "https://open.spotify.com/track/7BjQd0sfYsMGVrTpRdBNTT"
@@ -7118,6 +7304,40 @@
       "duration_ms": 196000,
       "name": "The Wakhra Song - From \"Judgementall Hai Kya\"",
       "url": "https://open.spotify.com/track/0lEn5SCNvhfThoXFBksz9r"
+    },
+    {
+      "album": {
+        "name": "Judgementall Hai Kya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55hrgrRknNBFkZPwQ77eye"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Navv Inder",
+          "url": "https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv"
+        },
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Navi Ferozpurwala",
+          "url": "https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "The Wakhra Song - From \"Judgementall Hai Kya\"",
+      "url": "https://open.spotify.com/track/7y4VovDguP1Wpw5rriHx3E"
     },
     {
       "album": {

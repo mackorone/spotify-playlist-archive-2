@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-276 songs - 17 hr 19 min
+277 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Planets](https://open.spotify.com/track/2N6sMnsR3U7LdFayOmD8dv) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Stay Awake](https://open.spotify.com/album/0JAZgcmrevl34g6mwSJdzl) | 3:21 | 2020-11-25 | 2022-03-10 |
 | [Power Over Me \- Acoustic](https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me EP](https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65) | 3:20 | 2020-11-25 | 2024-04-19 |
 | [Power Over Me \- Acoustic](https://open.spotify.com/track/47rNYq9IUveetu35c65xTw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me](https://open.spotify.com/album/7ohVCsxjU81BfXDGj6W8Ba) | 3:20 | 2020-11-25 |  |
+| [Pulaski at Night](https://open.spotify.com/track/1AJ6dy0kvwMqGNPAT8XlJp) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/0oo6A0QEDmdQS5ihd2bKvu) | 4:49 | 2023-09-15 |  |
 | [Pulaski at Night](https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5) | 4:49 | 2020-11-25 | 2024-04-19 |
 | [Rebellion \(Lies\)](https://open.spotify.com/track/7HU1RzZlG56N35NNppXgvN) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Rebellion \(Lies\)](https://open.spotify.com/album/0tV55IDV0N3ztHHBADhD0y) | 3:11 | 2020-11-25 | 2022-06-15 |
 | [Road to Heaven](https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Road to Heaven](https://open.spotify.com/album/5RCUWKlWpbFjt5TgRns9aA) | 3:43 | 2020-11-25 | 2022-07-04 |
@@ -208,7 +209,7 @@
 | [Steel Pony Blues](https://open.spotify.com/track/5xBsmg6Y5OUIdRMawv6ogS) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 4:34 | 2023-09-15 |  |
 | [Strange American Dream](https://open.spotify.com/track/47gcxX5MdXuh57rXYFCkLh) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Wide Awake](https://open.spotify.com/album/43sgLebubxZtXox2i0QiVA) | 4:31 | 2020-11-25 | 2024-01-12 |
 | [Strange American Dream](https://open.spotify.com/track/53r4vq2RYVYxSUXepQgag4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Wide Awake](https://open.spotify.com/album/0fb2eM67flCDTIwdg4P7KK) | 4:31 | 2020-11-25 | 2022-07-28 |
-| [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2020-11-25 |  |
+| [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2020-11-25 | 2026-02-26 |
 | [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 | 2020-11-25 | 2024-04-19 |
 | [Strange Overtones](https://open.spotify.com/track/7J6alVcVYqASesygsZG4VW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/61ouYBX1skZYiuv5EHnmEK) | 3:26 | 2020-11-25 | 2026-02-07 |
 | [Strangers](https://open.spotify.com/track/0XGTNmvRfa5xYdbVyaqIWm) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Strangers](https://open.spotify.com/album/20m3miIYt6QYZSZ1IqLZrA) | 4:40 | 2020-11-25 | 2022-07-29 |

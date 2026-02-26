@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Megan Moroney, Lana Del Rey, NAV & Young Thug, Twenty One Pilots, WILLOW and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,620 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,581 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 89 | [Space Jam](https://open.spotify.com/track/4LGCP7tzy4LSWbPumtKeJt) | [TRAPMAT SAVIOR](https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Forest N/A](https://open.spotify.com/artist/5YoPKUlrBrDhM73NXCVADB) | [Scottie Trippin](https://open.spotify.com/album/0Ho8i5gxFkp5yGeOjrvDoO) | 2:01 |
 | 90 | [Pushing My Buttons](https://open.spotify.com/track/79CNIXhDfv3gONAOXsbPkG) | [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Swamp Circuit EP](https://open.spotify.com/album/3N7YOYIigVlHoKUu7uVDUh) | 5:06 |
 | 91 | [hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [hurt and alone](https://open.spotify.com/album/51gXbmf0G0s4YY2eePxKuf) | 2:35 |
-| 92 | [Sad on Acid](https://open.spotify.com/track/2Q0dpr3plHBqHDlSmugXhj) | [Kwncy](https://open.spotify.com/artist/2aT09ZalHh3kwFg0ig4vj9) | [Sad on Acid](https://open.spotify.com/album/4IGJ4MiyJam8PminRwCe8b) | 3:34 |
+| 92 | [Sad](https://open.spotify.com/track/2Q0dpr3plHBqHDlSmugXhj) | [Kwncy](https://open.spotify.com/artist/2aT09ZalHh3kwFg0ig4vj9) | [Sad](https://open.spotify.com/album/4IGJ4MiyJam8PminRwCe8b) | 3:34 |
 | 93 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
 | 94 | [Ghost](https://open.spotify.com/track/55p0HHRvS1shaC5fgKKwN3) | [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [Ghost](https://open.spotify.com/album/5zQLOwtMQ7pQ4tCrM6VqLk) | 2:10 |
 | 95 | [home](https://open.spotify.com/track/1SKEvYAuEZLYSCtfcIliZp) | [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [home](https://open.spotify.com/album/3f4VgUjOVAkdXfYZzGQMbq) | 2:38 |

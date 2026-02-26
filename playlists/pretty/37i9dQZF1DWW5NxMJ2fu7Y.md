@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,201 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,208 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 45 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
 | 46 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 |
 | 47 | [Iceburg](https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:11 |
-| 48 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
-| 49 | [End Of Time](https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 3:31 |
+| 48 | [End Of Time](https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 3:31 |
+| 49 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
 | 50 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 |
 
 Snapshot ID: `AAAAAHCHr7/q/yFSQ7S6qjQKyhicx6jD`

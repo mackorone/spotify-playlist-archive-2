@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,795 likes - 49 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,906 likes - 49 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

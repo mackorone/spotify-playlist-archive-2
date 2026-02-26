@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,507 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,518 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 36 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 |
 | 37 | [Snow spectacle](https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Snow spectacle](https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo) | 3:11 |
 | 38 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
-| 39 | [unveil](https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [unveil](https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly) | 3:54 |
-| 40 | [Good Night](https://open.spotify.com/track/1KPgxV8aJDJh26Z3Ff7N5p) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [Your Letter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1) | 3:12 |
-| 41 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
+| 39 | [Good Night](https://open.spotify.com/track/1KPgxV8aJDJh26Z3Ff7N5p) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [Your Letter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1) | 3:12 |
+| 40 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
+| 41 | [unveil](https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [unveil](https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly) | 3:54 |
 | 42 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
 | 43 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
 | 44 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |

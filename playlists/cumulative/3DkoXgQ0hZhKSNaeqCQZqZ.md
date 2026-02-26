@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-491 songs - 1 day 2 hr 0 min
+493 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Paperback Nation](https://open.spotify.com/track/4wjkkdnvcn4y6xBqafGFRK) | [Floridian Homicide Unit](https://open.spotify.com/artist/7Jgw535Ddgb0P0TriAPdPw) | [I Love It Here, I Have Everything I Need, and All My Friends Love Me](https://open.spotify.com/album/488NhNmfs0EayMuMyw2vFu) | 2:46 | 2024-11-18 |  |
 | [Parasites](https://open.spotify.com/track/4ShFsw2COXPPeHAisX8tGp) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930) | [Parasites](https://open.spotify.com/album/0E8ajiSwtVTreu8uWT03GE) | 3:52 | 2025-02-08 |  |
 | [Parasocial](https://open.spotify.com/track/5AJv67iLT79uijDdzfTPUm) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Parasocial](https://open.spotify.com/album/5zbyAiUZgCKZsuGohtQ7He) | 3:30 | 2025-01-25 |  |
+| [PARTY SONG \(REBOUND\)](https://open.spotify.com/track/3z7lzSmS78799IxjBfkJUp) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [AFTERPARTY \(REBOUND\)](https://open.spotify.com/album/6cCyVjH2D4Ne2bN6qFxiHF) | 1:40 | 2026-02-25 |  |
 | [PEOPLEPLEASER](https://open.spotify.com/track/6cq3aa06llf5ouqPX0w83y) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [PEOPLEPLEASER](https://open.spotify.com/album/22pfJGxBvUvk7yMX1tuo4h) | 2:23 | 2024-02-09 | 2025-08-13 |
 | [petty debris](https://open.spotify.com/track/37PJYlcKsnmemav4V0dMxa) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [MYRTLE BROADWAY & THE BIG BANG THEORY](https://open.spotify.com/album/5pmFfSXbaShZPSwgUxkfGJ) | 2:53 | 2025-10-20 |  |
 | [Phantom Sense \- Scalie Bloke Remix](https://open.spotify.com/track/0oKNplZZk9wh8MgIqkH9Zt) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Scalie Bloke](https://open.spotify.com/artist/7waKUb2SmeFCDfah4Qrx2p) | [Phantom Sense \(Scalie Bloke Remix\)](https://open.spotify.com/album/3RHbJ9t6GZZYxMdmTk4Pln) | 4:15 | 2023-09-24 |  |
@@ -473,6 +474,7 @@
 | [Wag My Tail](https://open.spotify.com/track/706eKOKkaHuRjxd25q1WZo) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Wag My Tail](https://open.spotify.com/album/2sBXtD2bY1FaiXTzIft4qB) | 3:56 | 2023-11-22 |  |
 | [wander.lust](https://open.spotify.com/track/0eBtfJOkHatbzcUNddyl7r) | [ajackal](https://open.spotify.com/artist/3Wo7ai7t0QS53RBsBl6g7n) | [wander.lust](https://open.spotify.com/album/0Z8ge9a7kCcQndVfh8qX62) | 1:58 | 2025-03-05 |  |
 | [wanna fucking scream!!!](https://open.spotify.com/track/0ijhbCAMw094d8DlTzjdzx) | [Fur:Trash](https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m) | [fur:core VII \(puppy radio 24/7\)](https://open.spotify.com/album/2QCOs35xx77fJEBvijbFhG) | 2:25 | 2025-10-20 |  |
+| [waste\_time.mp3](https://open.spotify.com/track/30lAD2x7uHD5BFTdkGtx4S) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [MINDXX3T](https://open.spotify.com/artist/0yYLOVUwsxKYtmRsNq5VUv) | [waste\_time.mp3](https://open.spotify.com/album/1BUdzNkFVoEIQV4ncFLytw) | 1:38 | 2026-02-25 |  |
 | [We Built Pillow Forts](https://open.spotify.com/track/7gCEHgBxNJQElU2AInPSHM) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [My Dreams Are Real](https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm) | 4:51 | 2026-02-11 |  |
 | [Webpunk](https://open.spotify.com/track/3Hx9z2y10IRs1bdE18PVsh) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo) | [Love & Ponystep](https://open.spotify.com/album/2g5xTWYxh5RkalkOc2Rxds) | 3:58 | 2025-08-21 |  |
 | [what the](https://open.spotify.com/track/6QY4EGyvY1sKaIUEJAk00e) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [what the](https://open.spotify.com/album/5oJwI2DMsXCCq0tiinA843) | 1:53 | 2023-06-14 |  |

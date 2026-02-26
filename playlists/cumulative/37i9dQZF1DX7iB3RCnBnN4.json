@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231211,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0xMd5bcWTbyXS7wPrBtZA6"
+    },
+    {
+      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -11796,6 +11814,24 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
+    },
+    {
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
     },
     {
       "album": {

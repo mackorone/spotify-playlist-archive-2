@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: AADDUZ & Prathamesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,965 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,996 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 15 | [Saadgi](https://open.spotify.com/track/3d0mUvecnwVGraqHgdYV7Q) | [Annex](https://open.spotify.com/artist/7J1kZw3RC8U8v5NFLYnCUh), [GV13](https://open.spotify.com/artist/4W1ntfnymfSRN09SBNjKZw) | [Saadgi](https://open.spotify.com/album/3rylHpm0JpBG9h8u56sz0r) | 3:01 |
 | 16 | [JANE TU YA JANE NA](https://open.spotify.com/track/3aA7iecYCRNQ3qd2WJT9QJ) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 2:54 |
 | 17 | [Waqt Ki Baat](https://open.spotify.com/track/3azy7kBAqATTB1Kz3EhAAd) | [KnoXx](https://open.spotify.com/artist/5RcpRxAwu6hjd2pFg0OdZw) | [Waqt Ki Baat](https://open.spotify.com/album/2kvDPTw7VSgLiOElGyeDgI) | 2:43 |
-| 18 | [amar](https://open.spotify.com/track/02Cwgqyw3P4hiOCthwZrel) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [sheheron ki safed sadako pe sehron ke sangeen safar](https://open.spotify.com/album/2RM5dzq412JNPI0LziYTYK) | 3:37 |
+| 18 | [amar](https://open.spotify.com/track/02Cwgqyw3P4hiOCthwZrel) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [shehro ki safed sadko pe sehro ke sangeen safar](https://open.spotify.com/album/2RM5dzq412JNPI0LziYTYK) | 3:37 |
 | 19 | [Jazbaat](https://open.spotify.com/track/0glyWmqv9LgLOTJxk98Z1Y) | [Harkabir Honey](https://open.spotify.com/artist/0wMLpmdTTbVj8w1dbu9RqS), [RTX](https://open.spotify.com/artist/13qVh0s2d7Y24k3DFBSk7a) | [Jazbaat](https://open.spotify.com/album/6HOEehzh2ZniFBokwWkYlr) | 3:01 |
 | 20 | [PARCHA KHOL](https://open.spotify.com/track/5sznjJwt1R072wptYBppaL) | [WANT3D](https://open.spotify.com/artist/2rmTXxI6P6lSp6Sud6moZo), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r), [The Xenial Secret](https://open.spotify.com/artist/6iHQVrMCgOsE5e464fSxil) | [PARCHA KHOL](https://open.spotify.com/album/3Aa9c8Zby6UA3AeKGnw8ot) | 3:39 |
 | 21 | [Baddie](https://open.spotify.com/track/1vcRFDqo4mjUBf51aEGpfu) | [AK Music](https://open.spotify.com/artist/6JpMKFmGigJfKK9FxLEu1J), [Ether Makes Banger](https://open.spotify.com/artist/33xDeepbcx2zGO1n7DOP2d) | [Baddie](https://open.spotify.com/album/2R1tDaVurN9y67OLffGl1K) | 2:36 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 33 | [CHECK](https://open.spotify.com/track/2ashWY7liqibvMc2tm4cod) | [MC PILOT](https://open.spotify.com/artist/0IqpdSQnJPuqCxn6TiK8hl) | [CHECK](https://open.spotify.com/album/65z9hs5G7is1v2tCo6JXjK) | 3:46 |
 | 34 | [IDGAF](https://open.spotify.com/track/2IFxgjyC9S0XctPY14xdw6) | [VE5](https://open.spotify.com/artist/5NhLt9FJxnYM5N2mAeeCIU), [Byg Smyle](https://open.spotify.com/artist/4Jw8bandV6BAMsS85XggcH) | [IDGAF](https://open.spotify.com/album/65peYVWj3GXHRkbpWt5cgc) | 3:35 |
 | 35 | [Jwala](https://open.spotify.com/track/10I5YMwyLflZXKIPIHMFjy) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 2:51 |
-| 36 | [kattey](https://open.spotify.com/track/1kfwWYGjM7wv4zs3Nb47AA) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [sheheron ki safed sadako pe sehron ke sangeen safar](https://open.spotify.com/album/2RM5dzq412JNPI0LziYTYK) | 2:51 |
+| 36 | [kattey](https://open.spotify.com/track/1kfwWYGjM7wv4zs3Nb47AA) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [shehro ki safed sadko pe sehro ke sangeen safar](https://open.spotify.com/album/2RM5dzq412JNPI0LziYTYK) | 2:51 |
 | 37 | [Awara Hoon](https://open.spotify.com/track/4Svjkynzt68wB9QIoF1yN1) | [Anurag Ranga](https://open.spotify.com/artist/6gK3DtQWcbmcDwIH46HAiK), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Awara Hoon](https://open.spotify.com/album/7i2zU2VDZmrkoHV3XVmiqM) | 2:37 |
 | 38 | [Don't Need You](https://open.spotify.com/track/1PoUlZTqvOC7PbLs6BNM3k) | [KARYAWAAHI](https://open.spotify.com/artist/0jCViUzxha1IPd2ckwJKLs), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Don't Need You](https://open.spotify.com/album/7labGPCYO6h4KYYhJ0TaY6) | 2:20 |
 | 39 | [KAHA SE KAHA](https://open.spotify.com/track/74a4vlwrzZF48KMUsD6FyU) | [Ahmer](https://open.spotify.com/artist/0EAfS9gQe5SCtQp1R6hJqG) | [KAHA SE KAHA](https://open.spotify.com/album/4SDGel7N5Ayn5loKKsU7bN) | 3:38 |

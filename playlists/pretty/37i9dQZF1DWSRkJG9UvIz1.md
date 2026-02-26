@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,957 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,938 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 33 | [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 |
 | 34 | [Maris](https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E) | [JORGE](https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP) | [Maris](https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27) | 4:39 |
 | 35 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 |
-| 36 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
-| 37 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
+| 36 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
+| 37 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
 | 38 | [Quarta Feira](https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN) | [Quarta Feira](https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur) | 2:54 |
 | 39 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 | 40 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |

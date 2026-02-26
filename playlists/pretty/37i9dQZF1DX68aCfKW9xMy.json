@@ -1,6 +1,6 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1652483,
+  "num_followers": 1652577,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
         "name": "Ojos En Blanco",
         "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
@@ -491,26 +491,6 @@
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -539,18 +519,22 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 150523,
-      "name": "Rey Sin Reina",
-      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -567,6 +551,22 @@
       "duration_ms": 251669,
       "name": "MILES DE ROSAS",
       "url": "https://open.spotify.com/track/0N9YbdsoDv3SwT8wt4S5rT"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "Ese Soy Yo",
-        "url": "https://open.spotify.com/album/3iw6NgJAe0kHY52IaUkuS6"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Lo Legal",
-      "url": "https://open.spotify.com/track/2f42t2ofY9VdZo1rgWSGwO"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 263810,
       "name": "Coraz\u00f3n Fr\u00edo",
       "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
+        "name": "Ese Soy Yo",
+        "url": "https://open.spotify.com/album/3iw6NgJAe0kHY52IaUkuS6"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Lo Legal",
+      "url": "https://open.spotify.com/track/2f42t2ofY9VdZo1rgWSGwO"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
-        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 240624,
-      "name": "La Historia (En Vivo)",
-      "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
+        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
+        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 240624,
+      "name": "La Historia (En Vivo)",
+      "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
+      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
         "name": "Pal Amor Soy Malo (Remix)",
         "url": "https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 156000,
       "name": "Pal Amor Soy Malo - Remix",
       "url": "https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
-      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "Que Sea",
-        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Que Sea",
-      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
         "name": "A Puro Dolor",
         "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 177949,
       "name": "Sin Evidencias",
       "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
+        "name": "Que Sea",
+        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -1755,22 +1771,6 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
         "name": "Imaginaci\u00f3n",
         "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
       },
@@ -1799,6 +1799,26 @@
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 259531,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -1835,26 +1855,6 @@
       "duration_ms": 159773,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 259531,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
     },
     {
       "added_at": "2025-05-09 06:15:24",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-05-09 06:15:24",
       "album": {
-        "name": "Si Me Sue\u00f1as (En Vivo)",
-        "url": "https://open.spotify.com/album/0XSzgt5KX9uLFLwz136sL4"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 160768,
-      "name": "Si Me Sue\u00f1as (En Vivo)",
-      "url": "https://open.spotify.com/track/6nLrfnFHH0fYfrTDbJjuEa"
-    },
-    {
-      "added_at": "2025-05-09 06:15:24",
-      "album": {
         "name": "CORAZ\u00d3N ERRANTE",
         "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 199274,
       "name": "Y Tu",
       "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
+    },
+    {
+      "added_at": "2025-05-09 06:15:24",
+      "album": {
+        "name": "Si Me Sue\u00f1as (En Vivo)",
+        "url": "https://open.spotify.com/album/0XSzgt5KX9uLFLwz136sL4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 160768,
+      "name": "Si Me Sue\u00f1as (En Vivo)",
+      "url": "https://open.spotify.com/track/6nLrfnFHH0fYfrTDbJjuEa"
     },
     {
       "added_at": "2025-05-09 06:15:24",

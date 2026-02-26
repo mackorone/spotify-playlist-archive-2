@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,241 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,225 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 42 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 43 | [Let Me Say This](https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Home Is True](https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH) | 4:12 |
 | 44 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
-| 45 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
-| 46 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
+| 45 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
+| 46 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
 | 47 | [You're Not a Popstar](https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [You're Not a Popstar](https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW) | 3:44 |
 | 48 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 | 49 | [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [seKTa](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 |

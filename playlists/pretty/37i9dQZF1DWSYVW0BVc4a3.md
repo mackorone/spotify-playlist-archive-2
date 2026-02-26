@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Anna\-My & Adrian Lux
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,537 likes - 111 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,560 likes - 111 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Revolver.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,033 likes - 120 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,040 likes - 120 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Ké Más Nos Da](https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 3:20 |
 | 75 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 | 76 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
-| 77 | [Bajo Presión](https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Bajo Presión](https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK) | 4:19 |
-| 78 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
+| 77 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
+| 78 | [Bajo Presión](https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Bajo Presión](https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK) | 4:19 |
 | 79 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
 | 80 | [Lobo hombre en París \- Versión EP](https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Lobo hombre en París](https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5) | 4:09 |
 | 81 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 |

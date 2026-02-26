@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,875 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,888 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 49 | [Alomo Ketewa](https://open.spotify.com/track/2oyUbRmfq7fVTxZVa1ZgJu) | [Naa Agyeman](https://open.spotify.com/artist/0ISqwjoEAGZoZHuYFYBqAJ) | [Alomo Ketewa](https://open.spotify.com/album/2WW00lWxkXUj8oi9Tge9Yp) | 5:33 |
 | 50 | [Cdc Mu Aniqyee Bi](https://open.spotify.com/track/5w3rcInBjwIsOmKhGxm0Sv) | [Dada KD](https://open.spotify.com/artist/0K9ryo7l90rdOcU1fYmUAF) | [Mewura](https://open.spotify.com/album/0AVLP4eqJJpUpv5WS5lTTG) | 5:01 |
 | 51 | [Femo Dil](https://open.spotify.com/track/4i46wJCnmgYjfk7m95P2pH) | [Adane Best](https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn) | [Ghana Awake, Vol\. 1](https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO) | 5:02 |
-| 52 | [Abena](https://open.spotify.com/track/1gl5CQSfwBvDOQ6i2oZfmt) | [Jewel Ackah](https://open.spotify.com/artist/4hlbgeuEnNUQobir5m32N4) | [Dig The Hilife Bump](https://open.spotify.com/album/102zAbr1IfMh6R8BKSOmuR) | 7:10 |
-| 53 | [Twa Me Ke Ke](https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:35 |
+| 52 | [Twa Me Ke Ke](https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:35 |
+| 53 | [Abena](https://open.spotify.com/track/1gl5CQSfwBvDOQ6i2oZfmt) | [Jewel Ackah](https://open.spotify.com/artist/4hlbgeuEnNUQobir5m32N4) | [Dig The Hilife Bump](https://open.spotify.com/album/102zAbr1IfMh6R8BKSOmuR) | 7:10 |
 | 54 | [Odo Handkerchief](https://open.spotify.com/track/519FtZ3naaHROhiSTYoz0H) | [2LOCK](https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn) | [The Best of Nana Fynn \(2LOCK\) Volume One](https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv) | 4:55 |
 | 55 | [Fa Odo Bodum](https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO) | [Tommy Wiredu & Frank Mensa](https://open.spotify.com/artist/6sq9gJEKndPlGG3uHdDdy7) | [Fa Idi Bidim](https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW) | 5:30 |
 | 56 | [Mene Wo Begoro](https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [The Best of Charles Amoah Vol.1](https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O) | 5:59 |

@@ -1,6 +1,6 @@
 {
   "description": "And the Grammy goes to... Luther Vandross",
-  "num_followers": 1669395,
+  "num_followers": 1669849,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 232666,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 227590,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+      "duration_ms": 222152,
+      "name": "The Girl Is Mine (with Paul McCartney)",
+      "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1091,26 +1095,6 @@
       "duration_ms": 232906,
       "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 222152,
-      "name": "The Girl Is Mine (with Paul McCartney)",
-      "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 254476,
       "name": "These Dreams",
       "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 227590,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 242044,
-      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
-      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Kissing To Be Clever",
         "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 262173,
       "name": "Do You Really Want To Hurt Me",
       "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 242044,
+      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
+      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 266533,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Themes From \"Calmi Cuori Appassionati\"",
-        "url": "https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Orinoco Flow",
-      "url": "https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Misplaced Childhood (2017 Remaster)",
         "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 243560,
       "name": "Kayleigh - 2017 Remaster",
       "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Themes From \"Calmi Cuori Appassionati\"",
+        "url": "https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Orinoco Flow",
+      "url": "https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 277502,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 307027,
       "name": "Didn't We Almost Have It All",
       "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 277502,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Turn Back The Clock",
-        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Turn Back The Clock",
-      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/6RKJu77xXDgTqGWCEmzMll"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 308133,
       "name": "I've Been In Love Before",
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Turn Back The Clock",
+        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Turn Back The Clock",
+      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Essential Cyndi Lauper",
-        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 247200,
       "name": "Baby, I Love Your Way/Freebird",
       "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Essential Cyndi Lauper",
+        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de febrero 2026\. Cover: ARIA VEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,650 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,610 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 5 | [DROGA LETAL](https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:40 |
 | 6 | [ALO](https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [ALO](https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy) | 2:25 |
 | 7 | [Choque](https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Choque](https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr) | 3:19 |
-| 8 | [$UELTA GATITA $UELTA](https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:51 |
+| 8 | [$UELTA GATITA $UELTA](https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:51 |
 | 9 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 |
 | 10 | [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 |
 | 11 | [50mm](https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:03 |

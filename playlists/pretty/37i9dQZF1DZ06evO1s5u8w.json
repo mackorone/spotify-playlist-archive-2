@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 200924,
+  "num_followers": 200936,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAhfqAmFdAnmj/jOCrwRk8o",
+  "snapshot_id": "aZzqAAAAAADyVlI6RB/SY5RmpwRIlPCS",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Cities - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+      "duration_ms": 273200,
+      "name": "Houses in Motion - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 273200,
-      "name": "Houses in Motion - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
+      "duration_ms": 254000,
+      "name": "Cities - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
     },
     {
       "added_at": null,

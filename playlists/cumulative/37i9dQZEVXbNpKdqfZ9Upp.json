@@ -9333,6 +9333,24 @@
     },
     {
       "album": {
+        "name": "Bonita As\u00ed (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0UeQCcJuLeQubNwnlzsUpU"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213359,
+      "name": "Bonita As\u00ed (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0g9RG2sHsBsxy5IAX55vbA"
+    },
+    {
+      "album": {
         "name": "Bonita Bonita",
         "url": "https://open.spotify.com/album/6BLPFT9B5o63dt5VM1KbyX"
       },
@@ -9932,7 +9950,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 159360,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
@@ -12404,7 +12422,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 131707,
       "name": "Chichabeba",
       "url": "https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g"
@@ -13576,6 +13594,28 @@
       "duration_ms": 221373,
       "name": "Comernos",
       "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "COMERNOS",
+      "url": "https://open.spotify.com/track/2TYZU0Fvfp5b7gbfqdIAq6"
     },
     {
       "album": {
@@ -14760,8 +14800,8 @@
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
       "date_added": "2023-08-19",
@@ -25988,7 +26028,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 190843,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
@@ -31250,7 +31290,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 139734,
       "name": "IMU",
       "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
@@ -34908,7 +34948,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 204960,
       "name": "La Victoria es Tuya",
       "url": "https://open.spotify.com/track/2M8vy458RHLN1V5kdt6FQD"
@@ -39340,7 +39380,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 135019,
       "name": "Manhattan II",
       "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
@@ -53936,7 +53976,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
@@ -60692,7 +60732,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -61948,7 +61988,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 545332,
       "name": "Solo Hay Uno",
       "url": "https://open.spotify.com/track/5jH44HEgVQ5VbrVc833Nx7"
@@ -70062,7 +70102,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,501 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,527 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 32 | [No Tengo Dinero](https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:31 |
 | 33 | [Caray](https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:32 |
 | 34 | [Medley: Caray / Esta Noche Voy a Verla / Juntos](https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 7:11 |
-| 35 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
-| 36 | [Viva Juan Gabriel / Popurrí](https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 7:57 |
+| 35 | [Viva Juan Gabriel / Popurrí](https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 7:57 |
+| 36 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
 | 37 | [Dejame Vivir](https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Interpretan Éxitos De Juan Gabriel](https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM) | 3:11 |
 | 38 | [Querida](https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Amar y Querer \(Homenaje a Las Grandes Canciones\)](https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU) | 4:21 |
 | 39 | [Con Tu Amor](https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 4:44 |

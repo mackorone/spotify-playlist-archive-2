@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: HANA *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344145\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: HANA *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344304\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -3742,6 +3742,24 @@
       "duration_ms": 3965202,
       "name": "2026/2/18 \u85e4\u539f\u3055\u304f\u3089\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01m-flo\u306e\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\uff01\u4e2d\u5cf6\u5065\u4eba\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001OddRe:\u306e\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/0VxKGfnUf0i5fH2Hgutxu7"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1343204,
+      "name": "2026/2/25 HANA\u304c\u5f85\u671b\u306e1st\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01Mrs. GREEN APPLE\u306e\u5927\u68ee\u5143\u8cb4\u304c\u30ea\u30ea\u30fc\u30b9\u3057\u305f\u30bd\u30ed1st\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 \u3082\uff01Watson\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001Kan Sano\u3068\u95a2\u53e3\u30b7\u30f3\u30b4\u306e\u30b3\u30e9\u30dc\u3001Early Noise\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8kurayamisaka\u306e\u30e9\u30a4\u30d6\u30a2\u30eb\u30d0\u30e0\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
+      "url": "https://open.spotify.com/episode/5gJsKUM1msewxrbhql86vm"
     },
     {
       "album": {
@@ -72581,6 +72599,24 @@
     },
     {
       "album": {
+        "name": "I Stay (From \"Ne Zha 2\")",
+        "url": "https://open.spotify.com/album/5Sg3KEZxnqpHH0s98dhFtX"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179625,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/0HPovXCKnZceJv9cdpG8JJ"
+    },
+    {
+      "album": {
         "name": "I still believe",
         "url": "https://open.spotify.com/album/5iFAG5xRXLUxB52duSSrZD"
       },
@@ -115046,6 +115082,24 @@
       "duration_ms": 178110,
       "name": "OSHIBAI",
       "url": "https://open.spotify.com/track/361xt1yKYUWpTn9kHMFvvU"
+    },
+    {
+      "album": {
+        "name": "GHANA",
+        "url": "https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u307f\u3061\u3048",
+          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140598,
+      "name": "Osoro (Heaven)",
+      "url": "https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ"
     },
     {
       "album": {
@@ -161276,42 +161330,6 @@
       "duration_ms": 244174,
       "name": "TOY BOY - feat. DEAN FUJIOKA",
       "url": "https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV"
-    },
-    {
-      "album": {
-        "name": "GHANA",
-        "url": "https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH"
-      },
-      "artists": [
-        {
-          "name": "\u306a\u307f\u3061\u3048",
-          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
-        }
-      ],
-      "date_added": "2026-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ"
-    },
-    {
-      "album": {
-        "name": "CATCH!!! -EP",
-        "url": "https://open.spotify.com/album/1XnY9gOgKlOfoIg2lv2H8x"
-      },
-      "artists": [
-        {
-          "name": "THREEE",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
-        }
-      ],
-      "date_added": "2026-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3aylY2mgo2NMvbZ6cpXY6H"
     },
     {
       "album": {
@@ -208246,6 +208264,24 @@
       "duration_ms": 291427,
       "name": "\u30ce\u30c3\u30c8\u30fb\u30aa\u30fc\u30b1\u30fc",
       "url": "https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg"
+    },
+    {
+      "album": {
+        "name": "CATCH!!! -EP",
+        "url": "https://open.spotify.com/album/1XnY9gOgKlOfoIg2lv2H8x"
+      },
+      "artists": [
+        {
+          "name": "THREEE",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186433,
+      "name": "\u30ce\u30f3\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3aylY2mgo2NMvbZ6cpXY6H"
     },
     {
       "album": {

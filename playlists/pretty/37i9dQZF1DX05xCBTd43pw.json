@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37810,
+  "num_followers": 37809,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 206755,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Blue Light",
-        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 206755,
-      "name": "Blue Light",
-      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Superpower",
-        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Superpower",
-      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 135866,
       "name": "fire",
       "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Superpower",
+      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "One Day Will Be All I Have",
-        "url": "https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 329980,
-      "name": "One Day Will Be All I Have",
-      "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Walk Alone",
         "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 216249,
       "name": "Full 180",
       "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "One Day Will Be All I Have",
+        "url": "https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 329980,
+      "name": "One Day Will Be All I Have",
+      "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 163917,
       "name": "Heat",
       "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/57HnrjBWppxIkQCYxRUk5b"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 211105,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/3LJDNWMVVP5i5qvWIvcuma"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179617,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "Julia?",
         "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Elena Flury",
+          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
         }
       ],
-      "duration_ms": 179617,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+      "duration_ms": 193640,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -871,6 +887,22 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 205755,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "Bailar Bachata",
         "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
       },
@@ -907,22 +939,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "There For You",
-        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 205755,
-      "name": "There For You",
-      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Heaven or Hell",
         "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 187854,
       "name": "Heaven or Hell",
       "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Like You Do",
-        "url": "https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9"
-      },
-      "artists": [
-        {
-          "name": "Elena Flury",
-          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
-        }
-      ],
-      "duration_ms": 193640,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "homemade dynamite",
         "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 209415,
       "name": "homemade dynamite",
       "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Just Like I Love You",
+      "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 181891,
       "name": "I've Got Everything",
       "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "Just Like I Love You",
-      "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 151500,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "closer somehow",
+        "url": "https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 166982,
+      "name": "closer somehow",
+      "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "Loup Garou",
         "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "closer somehow",
-        "url": "https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0"
+        "name": "Weird Kid",
+        "url": "https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+          "name": "To Athena",
+          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
         }
       ],
-      "duration_ms": 166982,
-      "name": "closer somehow",
-      "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
+      "duration_ms": 225099,
+      "name": "Weird Kid",
+      "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Weird Kid",
-        "url": "https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n"
       },
       "artists": [
         {
-          "name": "To Athena",
-          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
         }
       ],
-      "duration_ms": 225099,
-      "name": "Weird Kid",
-      "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
+      "duration_ms": 175253,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n"
+        "name": "Type Of Way",
+        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
       },
       "artists": [
         {
-          "name": "Malumm\u00ed",
-          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
         }
       ],
-      "duration_ms": 175253,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl"
+      "duration_ms": 194750,
+      "name": "Type Of Way",
+      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1559,22 +1575,6 @@
       "duration_ms": 176733,
       "name": "Shine",
       "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Type Of Way",
-        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Type Of Way",
-      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-02-19 23:00:42",

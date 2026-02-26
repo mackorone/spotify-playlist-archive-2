@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 
 > Every track you're listening/should be listening to ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,590 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,188 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 | 33 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 |
 | 34 | [Tum Ho Toh \(From "Saiyaara"\)](https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Tum Ho Toh \(From "Saiyaara"\)](https://open.spotify.com/album/69oxllULO1PeIO1VHT97uk) | 5:18 |
 | 35 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 |
-| 36 | [Dhun \(From "Saiyaara"\)](https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dhun \(From "Saiyaara"\)](https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG) | 4:36 |
-| 37 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
-| 38 | [Khat](https://open.spotify.com/track/3gixnmepHSsyAuho34rprN) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khat](https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd) | 4:56 |
+| 36 | [Khat](https://open.spotify.com/track/3gixnmepHSsyAuho34rprN) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khat](https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd) | 4:56 |
+| 37 | [Dhun \(From "Saiyaara"\)](https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dhun \(From "Saiyaara"\)](https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG) | 4:36 |
+| 38 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 39 | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7) | 4:17 |
 | 40 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 41 | [Tum Se Hi](https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 5:21 |

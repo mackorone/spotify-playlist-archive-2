@@ -323,22 +323,6 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
-        "url": "https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP"
-      },
-      "artists": [
-        {
-          "name": "Marta Bijan",
-          "url": "https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt"
-        }
-      ],
-      "duration_ms": 177864,
-      "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
-      "url": "https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
         "name": "Wczorajszy tlen",
         "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 180679,
       "name": "Wczorajszy tlen",
       "url": "https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
+        "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
+        "url": "https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP"
+      },
+      "artists": [
+        {
+          "name": "Marta Bijan",
+          "url": "https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt"
+        }
+      ],
+      "duration_ms": 177864,
+      "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
+      "url": "https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "Szeptucha",
+        "url": "https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ"
+      },
+      "artists": [
+        {
+          "name": "Basia Giewont",
+          "url": "https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Zimna woda",
+      "url": "https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "serce",
         "url": "https://open.spotify.com/album/4GXYgfjr6cfP2Z4a1hCP5r"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 184733,
       "name": "serce",
       "url": "https://open.spotify.com/track/1C1z1YoannKXDFP2qZN9Aw"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "Szeptucha",
-        "url": "https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ"
-      },
-      "artists": [
-        {
-          "name": "Basia Giewont",
-          "url": "https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Zimna woda",
-      "url": "https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "HALO?",
+        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 128321,
+      "name": "HALO?",
+      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "Avewaw",
         "url": "https://open.spotify.com/album/12wH1mQyAU1a1ExfMdGQjs"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 133687,
       "name": "Avewaw",
       "url": "https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "HALO?",
-        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
-      },
-      "artists": [
-        {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
-        }
-      ],
-      "duration_ms": 128321,
-      "name": "HALO?",
-      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "Dotyk",
-        "url": "https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua"
-      },
-      "artists": [
-        {
-          "name": "NEL",
-          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
-        },
-        {
-          "name": "Hania",
-          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Dotyk",
-      "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
         "name": "grudzie\u0144",
         "url": "https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "Dotyk",
+        "url": "https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        },
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Dotyk",
+      "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "Ze stali",
         "url": "https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 131866,
       "name": "Ze stali",
       "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "Nienawidzisz",
-        "url": "https://open.spotify.com/album/2FKdXqSCSlmXVcaBlZzxMk"
-      },
-      "artists": [
-        {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
-        }
-      ],
-      "duration_ms": 236249,
-      "name": "Nienawidzisz",
-      "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -783,6 +767,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "Nienawidzisz",
+        "url": "https://open.spotify.com/album/2FKdXqSCSlmXVcaBlZzxMk"
+      },
+      "artists": [
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "duration_ms": 236249,
+      "name": "Nienawidzisz",
+      "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "Za t\u0119 mi\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/2fI6XtGIkEy0AAqZJwev7o"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 179032,
       "name": "Za t\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/0yu7zunzQDh5MPlDM3BZCA"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "Hollywoodzkie role",
-        "url": "https://open.spotify.com/album/5NhnsgRayVHZgKqTpSzE0i"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
-        }
-      ],
-      "duration_ms": 162676,
-      "name": "Hollywoodzkie role",
-      "url": "https://open.spotify.com/track/0mwnp46wz2gAipHJjcWBAz"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "Hollywoodzkie role",
+        "url": "https://open.spotify.com/album/5NhnsgRayVHZgKqTpSzE0i"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
+        }
+      ],
+      "duration_ms": 162676,
+      "name": "Hollywoodzkie role",
+      "url": "https://open.spotify.com/track/0mwnp46wz2gAipHJjcWBAz"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "BOJ\u0118 SI\u0118",
         "url": "https://open.spotify.com/album/3Buzwi4LOfjQ9ziFS2M5qY"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "na co dzie\u0144",
-        "url": "https://open.spotify.com/album/6K6x1JsWkKo3zaB98EshK3"
-      },
-      "artists": [
-        {
-          "name": "Felivers",
-          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "na co dzie\u0144",
-      "url": "https://open.spotify.com/track/5qor65BgeuIR6sSM7iLJjd"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
         "name": "GAME ON",
         "url": "https://open.spotify.com/album/6MqWTdKzTndBaKYvPW9aHm"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 157714,
       "name": "GAME ON",
       "url": "https://open.spotify.com/track/71haRmcp17D0nrl9S0hVgq"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
+        "name": "na co dzie\u0144",
+        "url": "https://open.spotify.com/album/6K6x1JsWkKo3zaB98EshK3"
+      },
+      "artists": [
+        {
+          "name": "Felivers",
+          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "na co dzie\u0144",
+      "url": "https://open.spotify.com/track/5qor65BgeuIR6sSM7iLJjd"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
         "name": "My\u015bli",
         "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 159047,
       "name": "7 nieszcz\u0119\u015b\u0107",
       "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-19 23:00:59",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-02-19 23:00:59",
       "album": {
+        "name": "morze dalej zimne",
+        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "morze dalej zimne",
+      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
+    },
+    {
+      "added_at": "2026-02-19 23:00:59",
+      "album": {
         "name": "Serce Dla Nas",
         "url": "https://open.spotify.com/album/0v2cvtdGjFKNYysmiUp2IS"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 126857,
       "name": "Serce Dla Nas",
       "url": "https://open.spotify.com/track/3yzYuClEJ6ZCpMRBSVAnRc"
-    },
-    {
-      "added_at": "2026-02-19 23:00:59",
-      "album": {
-        "name": "morze dalej zimne",
-        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "morze dalej zimne",
-      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
     },
     {
       "added_at": "2026-02-19 23:00:59",

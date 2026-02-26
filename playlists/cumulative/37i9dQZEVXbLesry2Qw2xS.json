@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -6644,7 +6644,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 173250,
       "name": "BRIGITTA",
       "url": "https://open.spotify.com/track/6fIpM6XFyKCQfrztsabxOF"
@@ -12585,6 +12585,24 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/7y6RcmZyMDZ49yVupz7JdO"
+    },
+    {
+      "album": {
         "name": "durag activity (with Travis Scott)",
         "url": "https://open.spotify.com/album/2JFAT4IDF89ZMmuxoOKbQ1"
       },
@@ -12962,7 +12980,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 206376,
       "name": "Eesti muld ja eesti s\u00fcda",
       "url": "https://open.spotify.com/track/2WSggKArI35CaYDOtqCpVT"
@@ -13078,7 +13096,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 194117,
       "name": "Eks sa ise otsusta",
       "url": "https://open.spotify.com/track/6H185nWC1FcihgEbRKsphB"
@@ -23852,7 +23870,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -26872,7 +26890,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 181680,
       "name": "Leekiv Armastus",
       "url": "https://open.spotify.com/track/7Bw7gwUyiaDDXWkRm3dLDU"
@@ -29042,7 +29060,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 178823,
       "name": "L\u00e4bi roosip\u00f5\u00f5saste",
       "url": "https://open.spotify.com/track/4oCqS0d1y53LOD20AbuO77"
@@ -33344,7 +33362,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 206146,
       "name": "Muusik",
       "url": "https://open.spotify.com/track/6OxvI4d9Yf6OTTNoBmpDWi"
@@ -35240,7 +35258,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -37564,7 +37582,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 263920,
       "name": "Paradiis",
       "url": "https://open.spotify.com/track/5XDZl5XCeKL3I7FWaTxGjo"
@@ -49310,7 +49328,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -50424,7 +50442,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -50578,7 +50596,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 179908,
       "name": "Too Epic To Be True",
       "url": "https://open.spotify.com/track/3Js1kS52KXZsmRU6qFLH60"
@@ -55098,7 +55116,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

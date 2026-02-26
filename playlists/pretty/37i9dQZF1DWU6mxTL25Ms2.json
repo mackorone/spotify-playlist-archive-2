@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 59643,
+  "num_followers": 59673,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
+        "name": "\u5922\u306e\u3053\u305f\u3048",
+        "url": "https://open.spotify.com/album/3Ow5Lu4YoOwsXQV2XfYL81"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
+          "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
+        }
+      ],
+      "duration_ms": 325346,
+      "name": "\u5922\u306e\u3053\u305f\u3048",
+      "url": "https://open.spotify.com/track/1meMOKwFOq0PvuNwoGEIVy"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
         "name": "\u5287\u5834\u7248\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc \u65b0\u6642\u4ee3\u306e\u6249\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3nwdZBe6fJHORL6VV2F3RB"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
-        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
-          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
-        }
-      ],
-      "duration_ms": 266786,
-      "name": "Forever gold",
-      "url": "https://open.spotify.com/track/1u0GE7xW8YjwhEoQsyPZ1W"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 09",
         "url": "https://open.spotify.com/album/3mmxRh4FcAMN8OgG9Q4QF2"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 287800,
       "name": "Ms. VICTORIA",
       "url": "https://open.spotify.com/track/3LAp74LpBYMt7TzlypsTLe"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
+          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "Forever gold",
+      "url": "https://open.spotify.com/track/1u0GE7xW8YjwhEoQsyPZ1W"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1639,22 +1655,6 @@
       "duration_ms": 225306,
       "name": "A\u30fbNO\u30fbNE - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3tIz6yFudNZvviiXMCRJWS"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u5922\u306e\u3053\u305f\u3048",
-        "url": "https://open.spotify.com/album/3Ow5Lu4YoOwsXQV2XfYL81"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
-          "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
-        }
-      ],
-      "duration_ms": 325346,
-      "name": "\u5922\u306e\u3053\u305f\u3048",
-      "url": "https://open.spotify.com/track/1meMOKwFOq0PvuNwoGEIVy"
     },
     {
       "added_at": "2026-01-13 16:30:52",

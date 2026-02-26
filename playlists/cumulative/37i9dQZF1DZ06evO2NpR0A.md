@@ -4,7 +4,7 @@
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 20 min
+99 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-04-13 |  |
 | [Glow \(feat\. Bon Iver\)](https://open.spotify.com/track/3Qy4hBI9YBIt3yNYPMXPn8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Flood / Glow](https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J) | 2:14 | 2026-02-11 |  |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-06-03 | 2025-12-12 |
+| [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/album/3XKBl8eJQzEddmR2tR1Ww0) | 4:00 | 2026-02-26 |  |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2022-09-16 |  |
 | [Hinnom, TX](https://open.spotify.com/track/07JjtrTqsBg6hE0xoAU1xZ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 2:45 | 2022-10-12 | 2025-01-19 |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2022-09-16 | 2024-07-02 |

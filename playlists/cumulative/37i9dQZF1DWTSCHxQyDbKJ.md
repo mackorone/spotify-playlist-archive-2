@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Arlo Parks
 
-277 songs - 15 hr 15 min
+278 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [if i was ur boy](https://open.spotify.com/track/0VGLIZj88s96enxD4u0U5o) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [if i was ur boy](https://open.spotify.com/album/7pEiX5BexOW7z19LHKUy1R) | 3:15 | 2025-02-14 |  |
 | [Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:52 | 2024-09-09 | 2024-10-08 |
 | [Is It Cold In The Water?](https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:55 | 2024-12-04 | 2025-01-14 |
+| [Isn't he pretty](https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Isn't he pretty](https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF) | 2:55 | 2026-02-10 |  |
 | [Itty Bitty](https://open.spotify.com/track/4LRYOdTr96bLdmw3bEwbBi) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/643BQNY1GhGw8Z2KnFpK1J) | 2:42 | 2025-04-07 |  |
 | [It’s not my fault \(it’s yours\)](https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [It’s not my fault \(it’s yours\)](https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL) | 3:00 | 2024-09-09 |  |
 | [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-06-10 | 2024-07-07 |
@@ -209,7 +210,7 @@
 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 | 2024-06-10 | 2026-02-11 |
 | [praxis](https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [praxis](https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0) | 3:28 | 2026-02-10 |  |
 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 | 2024-10-07 |  |
-| [PUT 'EM UP!](https://open.spotify.com/track/0B0X9VBFQlgJ312D7AWHq5) | [Samsara](https://open.spotify.com/artist/0t0qF5jEfxbqD6rkeaoXdC) | [PUT 'EM UP!](https://open.spotify.com/album/0QWvSIobjVGRH2TYGNQpju) | 2:04 | 2026-02-10 |  |
+| [PUT 'EM UP!](https://open.spotify.com/track/0B0X9VBFQlgJ312D7AWHq5) | [Samsara](https://open.spotify.com/artist/0t0qF5jEfxbqD6rkeaoXdC) | [PUT 'EM UP!](https://open.spotify.com/album/0QWvSIobjVGRH2TYGNQpju) | 2:04 | 2026-02-10 | 2026-02-26 |
 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 | 2024-06-10 | 2024-08-13 |
 | [Quick Fix](https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Quick Fix](https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn) | 4:18 | 2024-12-04 | 2025-01-14 |
 | [QUIET](https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [QUIET](https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS) | 3:20 | 2024-06-10 | 2025-01-14 |

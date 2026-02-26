@@ -1,13 +1,41 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2693,
+  "num_followers": 2695,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARcFEwkfOJtXxbTjATJpbvsBj8yKKF",
+  "snapshot_id": "AAARcZL/4lWjLhmAYGFlBeCT+NgzIbmR",
   "tracks": [
+    {
+      "added_at": "2026-02-25 14:50:26",
+      "album": {
+        "name": "El Mundo (The Cube Guys Mix)",
+        "url": "https://open.spotify.com/album/211GpUDZSpVWGOd47XSaRY"
+      },
+      "artists": [
+        {
+          "name": "Chicca Leaf",
+          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
+        },
+        {
+          "name": "Mess",
+          "url": "https://open.spotify.com/artist/6ZgLX6dxeYh2VCXlZBHp17"
+        },
+        {
+          "name": "Kenzo (ITA)",
+          "url": "https://open.spotify.com/artist/3OCNLDaUydg5VsX811Zod3"
+        },
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "duration_ms": 121878,
+      "name": "El Mundo - The Cube Guys Radio Edit",
+      "url": "https://open.spotify.com/track/2E95UxSc3sbPymFdUKF2AB"
+    },
     {
       "added_at": "2026-02-24 13:20:04",
       "album": {

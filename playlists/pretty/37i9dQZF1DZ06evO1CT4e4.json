@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10493,
+  "num_followers": 10495,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABmeokqq3CHFFqFi3G0tT8J",
+  "snapshot_id": "aZzqAAAAAADUIAp8P1FiGfJVmmiq39lK",
   "tracks": [
     {
       "added_at": null,
@@ -118,15 +118,11 @@
         {
           "name": "Alexander Malter",
           "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
-        },
-        {
-          "name": "Dietmar Schwalke",
-          "url": "https://open.spotify.com/artist/7w60M7Mg34gEJvgkCJINtm"
         }
       ],
-      "duration_ms": 552866,
-      "name": "Spiegel im Spiegel (Version for Cello & Piano) - Version for Cello and Piano",
-      "url": "https://open.spotify.com/track/7z88hLSesdUzt84MsPuAil"
+      "duration_ms": 647973,
+      "name": "F\u00fcr Alina - Extended Version",
+      "url": "https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ"
     },
     {
       "added_at": null,
@@ -218,11 +214,15 @@
         {
           "name": "Alexander Malter",
           "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
+        },
+        {
+          "name": "Dietmar Schwalke",
+          "url": "https://open.spotify.com/artist/7w60M7Mg34gEJvgkCJINtm"
         }
       ],
-      "duration_ms": 647973,
-      "name": "F\u00fcr Alina - Extended Version",
-      "url": "https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ"
+      "duration_ms": 552866,
+      "name": "Spiegel im Spiegel (Version for Cello & Piano) - Version for Cello and Piano",
+      "url": "https://open.spotify.com/track/7z88hLSesdUzt84MsPuAil"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Veni creator",
-      "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
+      "duration_ms": 449386,
+      "name": "Littlemore Tractus",
+      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
     },
     {
       "added_at": null,
@@ -691,30 +691,6 @@
       "duration_ms": 97693,
       "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
       "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
-        }
-      ],
-      "duration_ms": 374506,
-      "name": "Cantus In Memoriam Benjamin Britten",
-      "url": "https://open.spotify.com/track/6xhdFuQlw21DneMX61FEH4"
     },
     {
       "added_at": null,
@@ -743,6 +719,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "duration_ms": 374506,
+      "name": "Cantus In Memoriam Benjamin Britten",
+      "url": "https://open.spotify.com/track/6xhdFuQlw21DneMX61FEH4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 449386,
-      "name": "Littlemore Tractus",
-      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
+      "duration_ms": 566293,
+      "name": "Cantique des degr\u00e9s",
+      "url": "https://open.spotify.com/track/1NXUKupy1SizGnr4wR9pTd"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 566293,
-      "name": "Cantique des degr\u00e9s",
-      "url": "https://open.spotify.com/track/1NXUKupy1SizGnr4wR9pTd"
+      "duration_ms": 177626,
+      "name": "Veni creator",
+      "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
     },
     {
       "added_at": null,
@@ -999,30 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 348080,
-      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
-      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
         "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
@@ -1067,6 +1043,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 348080,
+      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
+      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes of Time",
         "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
       },
@@ -1087,30 +1087,6 @@
       "duration_ms": 621160,
       "name": "Spiegel im Spiegel",
       "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 488706,
-      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
-      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
     },
     {
       "added_at": null,
@@ -1155,6 +1131,30 @@
       "duration_ms": 210133,
       "name": "Vater Unser (Arr. for trombone & string ensemble)",
       "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 488706,
+      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
+      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
     },
     {
       "added_at": null,

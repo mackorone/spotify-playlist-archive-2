@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,104 likes - 183 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,105 likes - 183 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 138 | [Say What You Mean](https://open.spotify.com/track/04iSMejOEUBniDUjo0eUPU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Sinead Harnett](https://open.spotify.com/album/1Y3RckqVHCHZRQEF2J5S3f) | 3:43 |
 | 139 | [THINGS](https://open.spotify.com/track/0EWe1VeEWz6K34qDFgQW5L) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
 | 140 | [New Lover](https://open.spotify.com/track/3A75RXF6osQ8vLMSMbNJ9r) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 1:53 |
-| 141 | [backstABS](https://open.spotify.com/track/0c5m787GdMeqAXhzgao6ZI) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:21 |
-| 142 | [FEEL LOVE](https://open.spotify.com/track/4Gd8nOekd62DmCJdowwta5) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY!](https://open.spotify.com/album/08YX6S7IDTCyXjFd5PthPn) | 2:49 |
+| 141 | [FEEL LOVE](https://open.spotify.com/track/4Gd8nOekd62DmCJdowwta5) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY!](https://open.spotify.com/album/08YX6S7IDTCyXjFd5PthPn) | 2:49 |
+| 142 | [backstABS](https://open.spotify.com/track/0c5m787GdMeqAXhzgao6ZI) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:21 |
 | 143 | [Sink or Swim](https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:17 |
 | 144 | [Day To Day](https://open.spotify.com/track/4yBdOhdoRDGKGgMEsDAyq1) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:24 |
 | 145 | [Up All Night](https://open.spotify.com/track/1v8dKKHkxwYvyjSs7B7gGi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:14 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 182 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 | 183 | [Driftin'](https://open.spotify.com/track/0iWrhzQ4gluIbXiExggZT5) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: Elevators: Act I & II](https://open.spotify.com/album/3S4DGnUhfUpnadVoacbUmW) | 0:49 |
 
-Snapshot ID: `AcKjygAAAAAjHb8WuFHKAdgPJnnHb0Se`
+Snapshot ID: `AcKpagAAAABGehdLcetyhjeyFesWcuio`

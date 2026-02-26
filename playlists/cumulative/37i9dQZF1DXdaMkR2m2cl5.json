@@ -3212,6 +3212,24 @@
     {
       "album": {
         "name": "I Want to See Pulaski at Night",
+        "url": "https://open.spotify.com/album/0oo6A0QEDmdQS5ihd2bKvu"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289093,
+      "name": "Pulaski at Night",
+      "url": "https://open.spotify.com/track/1AJ6dy0kvwMqGNPAT8XlJp"
+    },
+    {
+      "album": {
+        "name": "I Want to See Pulaski at Night",
         "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
       },
       "artists": [
@@ -3748,7 +3766,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"

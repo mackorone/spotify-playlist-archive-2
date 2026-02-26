@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 674 songs - 1 day 20 hr 4 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 675 songs - 1 day 20 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -682,5 +682,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 672 | [Poison Cup](https://open.spotify.com/track/6RWw6s0yGwDEslUdAUtRqy) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/15NPy6xq9HcWA8hYrYtObL) | 2:40 |
 | 673 | [Ptolemy](https://open.spotify.com/track/2QNrkTTtwqVr5MeQb3laxY) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [New Excellent Woman](https://open.spotify.com/album/20KjMhrDbR6zpFWnBFehkW) | 5:01 |
 | 674 | [Aerial Shipyards](https://open.spotify.com/track/5gPhDAudtwdZfMZjuflKlz) | [Bruiser and Bicycle](https://open.spotify.com/artist/06ySZdJ1MzvRgjsNHKzAeM) | [Holy Red Wagon](https://open.spotify.com/album/7KInhpkEghVcfp8g9srnkM) | 7:38 |
+| 675 | [Tapdance In Limbo](https://open.spotify.com/track/04LZdlv8Ccy3FezHBiBQGW) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [Fate Euphoric](https://open.spotify.com/album/7q6joHybfVw0FSgoMqY882) | 4:30 |
 
-Snapshot ID: `AAAIpbw0wkqel6qiE44NP0kuY4hPx8N6`
+Snapshot ID: `AAAIpoC+PHA6EUKoiNmFZxAnB4WiwF+W`

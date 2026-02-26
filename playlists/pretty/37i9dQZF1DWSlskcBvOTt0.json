@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 581876,
+  "num_followers": 581936,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Mussulo (feat. Doddy)",
-        "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
+        "name": "Muhuuuuu",
+        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
       },
       "artists": [
         {
-          "name": "DJ Malvado",
-          "url": "https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ"
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
         },
         {
-          "name": "DJ Aka-m",
-          "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
-        },
-        {
-          "name": "DODDY",
-          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
+          "name": "ADDAM (BE)",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
         }
       ],
-      "duration_ms": 256483,
-      "name": "Mussulo (feat. Doddy)",
-      "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
+      "duration_ms": 163195,
+      "name": "Muhuuuuu",
+      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -947,22 +943,26 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Muhuuuuu",
-        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
+        "name": "Mussulo (feat. Doddy)",
+        "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
       },
       "artists": [
         {
-          "name": "Lazare",
-          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+          "name": "DJ Malvado",
+          "url": "https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ"
         },
         {
-          "name": "ADDAM (BE)",
-          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+          "name": "DJ Aka-m",
+          "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
+        },
+        {
+          "name": "DODDY",
+          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
         }
       ],
-      "duration_ms": 163195,
-      "name": "Muhuuuuu",
-      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
+      "duration_ms": 256483,
+      "name": "Mussulo (feat. Doddy)",
+      "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1683,6 +1683,46 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Je t'attends",
+        "url": "https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Shahin Shantiaei",
+          "url": "https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Je t'attends",
+      "url": "https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Mark Borino",
+          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Angeke",
         "url": "https://open.spotify.com/album/3LHxLqMXWYxG00vMPAfAg5"
       },
@@ -1711,46 +1751,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Mark Borino",
-          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Je t'attends",
-        "url": "https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "Shahin Shantiaei",
-          "url": "https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Je t'attends",
-      "url": "https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
@@ -1767,34 +1767,6 @@
       "duration_ms": 176528,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        },
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        },
-        {
-          "name": "Serve Cold",
-          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
-        },
-        {
-          "name": "Ninae",
-          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/2Pn7BSdmNTxtq0borL4VlK"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1867,6 +1839,34 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        },
+        {
+          "name": "Ninae",
+          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/2Pn7BSdmNTxtq0borL4VlK"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Waste Away",
         "url": "https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm"
       },
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "El Youm",
-        "url": "https://open.spotify.com/album/5AVlQTQdIN8aoDBYGP3lAV"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        },
-        {
-          "name": "Vidojean X Oliver Loenn",
-          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "El Youm",
-      "url": "https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Feel The Love",
         "url": "https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx"
       },
@@ -1951,22 +1931,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+        "name": "El Youm",
+        "url": "https://open.spotify.com/album/5AVlQTQdIN8aoDBYGP3lAV"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
         },
         {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
         }
       ],
-      "duration_ms": 244391,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
+      "duration_ms": 181196,
+      "name": "El Youm",
+      "url": "https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -1991,6 +1971,26 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "duration_ms": 244391,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Masterclass",
         "url": "https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD"
       },
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Track With The Organ",
+        "url": "https://open.spotify.com/album/03NrClkwCuRCHhWmtXqYDy"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 132688,
+      "name": "Track With The Organ",
+      "url": "https://open.spotify.com/track/7lysSENrRlBL6kjFfmyTZR"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Bilmirem",
         "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 162937,
       "name": "Bilmirem",
       "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Track With The Organ",
-        "url": "https://open.spotify.com/album/03NrClkwCuRCHhWmtXqYDy"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 132688,
-      "name": "Track With The Organ",
-      "url": "https://open.spotify.com/track/7lysSENrRlBL6kjFfmyTZR"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2107,6 +2107,26 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "Take It Easy on Me",
+        "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Take It Easy on Me",
+      "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Elements Of Africa",
         "url": "https://open.spotify.com/album/4Nw0kWUYq7GzkL1o6VIktz"
       },
@@ -2127,22 +2147,26 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Take It Easy on Me",
-        "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
+        "name": "Abandoned",
+        "url": "https://open.spotify.com/album/4uRtT3rPcGU7qwovvVSXwo"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
         },
         {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        },
+        {
+          "name": "A.M.R (DE)",
+          "url": "https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Take It Easy on Me",
-      "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
+      "duration_ms": 238770,
+      "name": "Abandoned",
+      "url": "https://open.spotify.com/track/1zu20hgpOSlwlIKNorz6M5"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2179,30 +2203,6 @@
       "duration_ms": 281311,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4ofC30d8eYzGt8vMALEM4M"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Abandoned",
-        "url": "https://open.spotify.com/album/4uRtT3rPcGU7qwovvVSXwo"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "JOSEPH (CH)",
-          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
-        },
-        {
-          "name": "A.M.R (DE)",
-          "url": "https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD"
-        }
-      ],
-      "duration_ms": 238770,
-      "name": "Abandoned",
-      "url": "https://open.spotify.com/track/1zu20hgpOSlwlIKNorz6M5"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2496,8 +2496,8 @@
           "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "Zamna Soundsystem",
-          "url": "https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG"
+          "name": "zss",
+          "url": "https://open.spotify.com/artist/0997972c1IG9I5mtbb4oHe"
         },
         {
           "name": "Oluhle",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "i can't make you love me / started over",
-        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 209538,
-      "name": "i can't make you love me",
-      "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
         "name": "Nterini 2.0",
         "url": "https://open.spotify.com/album/62NwOIsTqtPUx237AjGLNm"
       },
@@ -2623,6 +2607,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
+        "name": "i can't make you love me / started over",
+        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 209538,
+      "name": "i can't make you love me",
+      "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
       },
@@ -2635,26 +2635,6 @@
       "duration_ms": 215040,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
-    },
-    {
-      "added_at": "2026-02-20 05:00:40",
-      "album": {
-        "name": "Sound Of The Sunrise",
-        "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        },
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sound Of The Sunrise",
-      "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2675,6 +2655,26 @@
       "duration_ms": 166451,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Sound Of The Sunrise",
+        "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sound Of The Sunrise",
+      "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
     },
     {
       "added_at": "2026-02-20 05:00:40",
@@ -2703,22 +2703,22 @@
     {
       "added_at": "2026-02-20 05:00:40",
       "album": {
-        "name": "Kuwe",
-        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
+        "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/4d4QfJ0qQGdQe1SZVXDech"
       },
       "artists": [
         {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         },
         {
-          "name": "Nana Atta",
-          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Kuwe",
-      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
+      "duration_ms": 275208,
+      "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/3iDRa9vD0TunjvYzcVcRSC"
     }
   ],
   "unique_name": "Tantra",

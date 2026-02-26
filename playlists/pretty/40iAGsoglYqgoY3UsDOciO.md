@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 629 likes - 498 songs - 1 day 0 hr 4 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 631 likes - 500 songs - 1 day 0 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -506,5 +506,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 496 | [Somos Más De Lo Que Vemos](https://open.spotify.com/track/7g86Hmc1LGJPWqZUDe7EK3) | [Adam Ashrei](https://open.spotify.com/artist/3YYTIWbnarG9IperSoNsfT) | [Somos Más De Lo Que Vemos](https://open.spotify.com/album/4zaI6x7L57L5AG20p3CuDu) | 5:03 |
 | 497 | [Hustle and Flow](https://open.spotify.com/track/1H9Dx5LQNxrzphL9GxoLJz) | [JkashMurkum](https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C), [Blanko Fatts](https://open.spotify.com/artist/7KuXAmWmnFy3VfIKSlkyzM), [JACKO](https://open.spotify.com/artist/3OC8FcvekGzR2bB8Pyf2v8), [SASSY GMG](https://open.spotify.com/artist/052TXoeWdC9wy5rJbfATR0) | [Hustle and Flow](https://open.spotify.com/album/19qd6ZxRRq4zEtAVU81s1w) | 3:10 |
 | 498 | [My Mind Is a Void](https://open.spotify.com/track/0K1cYIykoKhDbYF3WHXNKT) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [My Mind Is a Void](https://open.spotify.com/album/7vDLJdt0tdllXZ6ZDINQb6) | 3:14 |
+| 499 | [Mind Racing](https://open.spotify.com/track/0R5z5TGaGrt92LNRdT2pUR) | [Only1Krook](https://open.spotify.com/artist/0Aq2lOPzjhehPyGY3YGWDC) | [V1oneKrook](https://open.spotify.com/album/2E3GlytM8U0bgMT1bgWSeZ) | 2:26 |
+| 500 | [Cycles](https://open.spotify.com/track/38bi05yCUFyHLU08QEMc50) | [Teknik](https://open.spotify.com/artist/7xGB1yPO2EpkMKpk9RHn9v), [MISTER GREEN](https://open.spotify.com/artist/3NgAIGpRDPOe6ZGPhQNRD2) | [Cycles](https://open.spotify.com/album/2F26U2YH5YBXWciFyKxhmw) | 2:40 |
 
-Snapshot ID: `AAABkkjTWkIZK7/8ceWKZu8aBXB8DC+A`
+Snapshot ID: `AAABlPpDuhw8pOCdUjwf432fUYvuDNHK`

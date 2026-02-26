@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-254 songs - 15 hr 33 min
+255 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [sunset](https://open.spotify.com/track/0DO6qgVG7TmMeZ3FS37Gxl) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [swimmingpxxl](https://open.spotify.com/artist/3xEliY5KxRr3rYjfhidr6W) | [Doomsday vol\. 1](https://open.spotify.com/album/2tO7Bg8YLYvIhEa0tPYbpg) | 4:06 | 2022-06-20 | 2022-06-29 |
 | [Sunset Panorama](https://open.spotify.com/track/1Aogn3gAdYZG0Ow3kh1qMk) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [CELLOPHANE](https://open.spotify.com/album/4lW1x2le12GEKHdZVPFT8h) | 4:26 | 2022-06-20 | 2022-07-26 |
 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 | 2022-06-20 |  |
-| [Talk About Love](https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 | 2023-07-17 |  |
+| [Talk About Love](https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 | 2023-07-17 | 2026-02-26 |
 | [Tell me about your world](https://open.spotify.com/track/7egcd8TpHmrRdFzaZQGSGj) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Tell me about your world](https://open.spotify.com/album/3aP2kHKhDGWtyyzFu737vv) | 4:11 | 2022-06-20 | 2022-07-28 |
 | [That's ok](https://open.spotify.com/track/5kLdBPmd0fplZUi0hifSil) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:32 | 2022-06-20 | 2022-07-24 |
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2022-06-20 | 2022-07-10 |
@@ -244,6 +244,7 @@
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2022-06-20 |  |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 | 2026-02-25 |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-07-26 |
+| [With an Umbrella \(feat\. EZ Kim\)](https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Burn the Memory](https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW) | 3:31 | 2025-11-04 |  |
 | [XXLove](https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [XXLove](https://open.spotify.com/album/0breiCTj1nIZwIS261yCPu) | 3:19 | 2022-06-20 | 2022-07-29 |
 | [You Don't Shine Anymore \(Interlude\)](https://open.spotify.com/track/58ugn5hQqFTHp0WcaR8bPz) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:41 | 2022-06-29 | 2022-07-06 |
 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 | 2022-08-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dani Flow & Nfasis en portada.",
-  "num_followers": 307964,
+  "num_followers": 307956,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/4sghK9VDgqilBsCkgV0wFg"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Categor\u00eda 5",
+      "url": "https://open.spotify.com/track/1PNxX2NzwGB2VZd1iamwGn"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 223783,
       "name": "Un Desperdicio",
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/4sghK9VDgqilBsCkgV0wFg"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Categor\u00eda 5",
-      "url": "https://open.spotify.com/track/1PNxX2NzwGB2VZd1iamwGn"
     },
     {
       "added_at": "2026-01-02 06:00:23",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Sin Yolanda",
-      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
         "name": "SRT",
         "url": "https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 174866,
       "name": "SRT",
       "url": "https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
     },
     {
       "added_at": "2026-01-02 06:00:23",

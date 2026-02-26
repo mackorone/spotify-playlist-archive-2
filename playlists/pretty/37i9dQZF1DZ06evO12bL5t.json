@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 141913,
+  "num_followers": 141922,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAByzPRv9PVb4NgfLb8sPOol",
+  "snapshot_id": "aZzqAAAAAABUGX/vRnE+RMGpVLdaUlN8",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 145375,
-      "name": "Seguimos Dando Lata",
-      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 178368,
       "name": "HASHERO",
       "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Booshle G
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,459 likes - 61 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,460 likes - 61 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 24 | [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 |
 | 25 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
 | 26 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
-| 27 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
-| 28 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
+| 27 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
+| 28 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
 | 29 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
 | 30 | [Last of a Dying Breed](https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Last of a Dying Breed](https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS) | 2:29 |
 | 31 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 35 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [So Easy \(To Fall In Love\)](https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5) | 3:16 |
 | 36 | [Ola Sbali](https://open.spotify.com/track/391opnl1D5Br9GaTmRHcjv) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Ola Sbali](https://open.spotify.com/album/7bZcVI4cbAVAfUFweMvnHh) | 3:08 |
 | 37 | [There's Just Something About Her](https://open.spotify.com/track/7Ae3TUjIzn3gIHPMpZKhot) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 3:12 |
-| 38 | [MachineGirl](https://open.spotify.com/track/3xmL9LoL5tl9KYqWIbxQRN) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:36 |
-| 39 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
+| 38 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
+| 39 | [MachineGirl](https://open.spotify.com/track/3xmL9LoL5tl9KYqWIbxQRN) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:36 |
 | 40 | [Golden Burning Sun](https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:54 |
 | 41 | [Tyla](https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:03 |
 | 42 | [All This Love](https://open.spotify.com/track/5FJ9s2pIXu7Efs37yfM3JO) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 3:25 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 52 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
 | 53 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
 | 54 | [Late Adolescence](https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU), [Young Chux](https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb) | [Elementary 2](https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y) | 2:44 |
-| 55 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
-| 56 | [WHAT'S THE RUSH?!](https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [WHAT'S THE RUSH?!](https://open.spotify.com/album/1BHfQrNy4CylV4MwZsWJxR) | 3:20 |
+| 55 | [WHAT'S THE RUSH?!](https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [WHAT'S THE RUSH?!](https://open.spotify.com/album/1BHfQrNy4CylV4MwZsWJxR) | 3:20 |
+| 56 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
 | 57 | [Late Beginnings](https://open.spotify.com/track/1xSF1rA2bnMl5z9MexHUfH) | [theNairobiNomad](https://open.spotify.com/artist/2tWbNgLqq5FAIN29T1v3k6), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP) | [Late Beginnings](https://open.spotify.com/album/6IumfasKisZ3fluUI79a3r) | 3:03 |
 | 58 | [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 |
 | 59 | [Burn](https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB) | [ARIS](https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8) | [Burn](https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO) | 2:16 |

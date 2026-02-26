@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Nilanjanaa Jayant",
+  "description": "The best new music by independent artists and labels in India. Cover - Savni Bhatt",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -14685,6 +14685,28 @@
     },
     {
       "album": {
+        "name": "Jhini Jhini",
+        "url": "https://open.spotify.com/album/6GUFKOCRGSVOkGqx9cVZO1"
+      },
+      "artists": [
+        {
+          "name": "Savni Bhatt",
+          "url": "https://open.spotify.com/artist/1YO52y5qNkcHvM2x27N2Tn"
+        },
+        {
+          "name": "Kanakshree Bhatt",
+          "url": "https://open.spotify.com/artist/3X3pHaJrecXa0HFG13YvrB"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287732,
+      "name": "Jhini Jhini",
+      "url": "https://open.spotify.com/track/1RI74apWIQoWdtK4qOmZUn"
+    },
+    {
+      "album": {
         "name": "Jhoom Le",
         "url": "https://open.spotify.com/album/7vduDX5f2h0owQQ12OLT0N"
       },
@@ -17184,7 +17206,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 190432,
       "name": "KHAYAL",
       "url": "https://open.spotify.com/track/1xpqLoRENNGKJjvjRxIjTv"
@@ -17488,7 +17510,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 136470,
       "name": "KHOYA MAI",
       "url": "https://open.spotify.com/track/2KdSbw6RGomdF6kd0TYiLc"
@@ -19308,7 +19330,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 139354,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4UejpFDVmwJkJfidhbKxeQ"
@@ -22300,6 +22322,32 @@
       "duration_ms": 206379,
       "name": "Midnite Spaceflite",
       "url": "https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T"
+    },
+    {
+      "album": {
+        "name": "Mijaj",
+        "url": "https://open.spotify.com/album/3BxJQK5KOZPRkh8KeaQxyt"
+      },
+      "artists": [
+        {
+          "name": "Harsh Aviral",
+          "url": "https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1"
+        },
+        {
+          "name": "Diya rajpurohit",
+          "url": "https://open.spotify.com/artist/04rhqeQsfqIyzvUD3LBaHI"
+        },
+        {
+          "name": "Mumtaj",
+          "url": "https://open.spotify.com/artist/0sXP3of0D5iygLVpZlaPGq"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157677,
+      "name": "Mijaj",
+      "url": "https://open.spotify.com/track/2Iqn6MKl5mRe4isd9GA1bO"
     },
     {
       "album": {
@@ -27294,6 +27342,24 @@
       "duration_ms": 176840,
       "name": "Rehna Yahan",
       "url": "https://open.spotify.com/track/1VJL3frLxxd52d9CzkTmm5"
+    },
+    {
+      "album": {
+        "name": "Rehne De",
+        "url": "https://open.spotify.com/album/1QnXEL8RScLeljf4KsC4V3"
+      },
+      "artists": [
+        {
+          "name": "Mudit Bhatt",
+          "url": "https://open.spotify.com/artist/4a0fOJcFKtWZI9U7JYVRzL"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Rehne De",
+      "url": "https://open.spotify.com/track/6i6ubBeUcw9BbgqehBpgYi"
     },
     {
       "album": {

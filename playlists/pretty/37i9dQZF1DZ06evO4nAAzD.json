@@ -1,33 +1,13 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4423,
+  "num_followers": 4425,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACXuOdrQvKxO/oU5mBUs4Ir",
+  "snapshot_id": "aZzqAAAAAABzWW8ZWmp+fG/IlFxBZ6Bn",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby o Que C\u00ea Quer de Mim?",
-        "url": "https://open.spotify.com/album/7oUAZc143JfrGcrR9GNA4f"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Baby o Que C\u00ea Quer de Mim?",
-      "url": "https://open.spotify.com/track/0cCm55RwSqypxDVy8xpC3e"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 299690,
       "name": "Gelo No Copo",
       "url": "https://open.spotify.com/track/3saUWpM9m8eYHZWGj0ksZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby o Que C\u00ea Quer de Mim?",
+        "url": "https://open.spotify.com/album/7oUAZc143JfrGcrR9GNA4f"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Baby o Que C\u00ea Quer de Mim?",
+      "url": "https://open.spotify.com/track/0cCm55RwSqypxDVy8xpC3e"
     },
     {
       "added_at": null,
@@ -843,30 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Onda do Boldo",
-        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Thammy",
-          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Na Onda do Boldo",
-      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 246620,
       "name": "FAIXA ANJO",
       "url": "https://open.spotify.com/track/5CjfhukDdeMSHugqOV9Osl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Onda do Boldo",
+        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Thammy",
+          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Na Onda do Boldo",
+      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
     },
     {
       "added_at": null,
@@ -995,30 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nike Novo",
-        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
-      },
-      "artists": [
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Nike Novo",
-      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -1043,18 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+        "name": "Nike Novo",
+        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
       },
       "artists": [
         {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+      "duration_ms": 184256,
+      "name": "Nike Novo",
+      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
     },
     {
       "added_at": null,
@@ -1079,26 +1063,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Levo Daqui",
-        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
       },
       "artists": [
         {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Lu\u00e1 Kali",
-          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
         }
       ],
-      "duration_ms": 244965,
-      "name": "Te Levo Daqui",
-      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
     },
     {
       "added_at": null,
@@ -1127,30 +1103,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momento (feat. Luccas Carlos)",
-        "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
+        "name": "Te Levo Daqui",
+        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
       },
       "artists": [
         {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Lu\u00e1 Kali",
+          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
         }
       ],
-      "duration_ms": 202218,
-      "name": "Momento (feat. Luccas Carlos)",
-      "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
+      "duration_ms": 244965,
+      "name": "Te Levo Daqui",
+      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
     },
     {
       "added_at": null,
@@ -1175,6 +1147,34 @@
       "duration_ms": 218181,
       "name": "Bailean",
       "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momento (feat. Luccas Carlos)",
+        "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "Momento (feat. Luccas Carlos)",
+      "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
     },
     {
       "added_at": null,
@@ -1347,6 +1347,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
+      },
+      "artists": [
+        {
+          "name": "Belle Kaffer",
+          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Casluh",
+          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        }
+      ],
+      "duration_ms": 497625,
+      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decolar",
         "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
       },
@@ -1379,38 +1411,6 @@
       "duration_ms": 242285,
       "name": "No meu Flat",
       "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
-      },
-      "artists": [
-        {
-          "name": "Belle Kaffer",
-          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
-        },
-        {
-          "name": "Casluh",
-          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        }
-      ],
-      "duration_ms": 497625,
-      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
     },
     {
       "added_at": null,

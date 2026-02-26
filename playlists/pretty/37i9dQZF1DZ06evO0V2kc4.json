@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 73875,
+  "num_followers": 73885,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACCwaxSMKz6ErY4Ucceulb3",
+  "snapshot_id": "aZzqAAAAAADj7gmXKbss1j00RzgMMafH",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
+        "name": "Blessed Are...",
+        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
       },
       "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Diamonds & Rust",
-      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
+      "duration_ms": 186160,
+      "name": "Blessed Are",
+      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
     },
     {
       "added_at": null,
@@ -555,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Are...",
-        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
       "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 186160,
-      "name": "Blessed Are",
-      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
+      "duration_ms": 215240,
+      "name": "Diamonds & Rust",
+      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
       "added_at": null,

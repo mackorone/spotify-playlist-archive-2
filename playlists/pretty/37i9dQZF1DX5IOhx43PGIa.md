@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: natalie jinju
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,878 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,860 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

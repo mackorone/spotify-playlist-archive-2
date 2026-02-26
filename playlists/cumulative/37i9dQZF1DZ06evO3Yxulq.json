@@ -1853,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305986,
+      "name": "Promesas No Fallar\u00e1n (En Vivo)",
+      "url": "https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR"
+    },
+    {
+      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -2122,7 +2144,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 429568,
       "name": "Seguirte",
       "url": "https://open.spotify.com/track/0uePpsPVMmMPyvTmGrnFAn"

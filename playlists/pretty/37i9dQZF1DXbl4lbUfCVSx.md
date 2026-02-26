@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haïti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,285 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,287 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
+| 1 | [Mon Soleil](https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 4:17 |
 | 2 | [Kitem Ale](https://open.spotify.com/track/5j7mEjt9YzWhE5hBQmKlkZ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 3:52 |
-| 3 | [Mon Soleil](https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 4:17 |
+| 3 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
 | 4 | [Ou Banm Lanmou](https://open.spotify.com/track/2M5C5JTgevNU408qBVhjqv) | [Teddy Hashtag](https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [READY](https://open.spotify.com/album/1TskesOI4LMVMQAxzEvdpu) | 4:07 |
 | 5 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
 | 6 | [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 |

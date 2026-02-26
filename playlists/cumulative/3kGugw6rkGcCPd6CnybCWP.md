@@ -4,12 +4,13 @@
 
 > Celebrating individuality within independent music
 
-185 songs - 10 hr 40 min
+191 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A 1917 Story](https://open.spotify.com/track/2zWA7lJ1D6XHbUwMCioIuB) | [YAK](https://open.spotify.com/artist/2cfnqx5PqimmwBtZBB3BwR) | [Paranormally](https://open.spotify.com/album/61NrQ5EfvtV6tSh8GnD9vM) | 2:42 | 2026-02-09 |  |
 | [A Little More](https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [A Little More](https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5) | 3:16 | 2026-02-19 |  |
+| [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 | 2026-02-25 |  |
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
@@ -58,6 +59,7 @@
 | [Fairway](https://open.spotify.com/track/1AwmZwc3Wz0cKvhJZe9N0d) | [Ross Pond](https://open.spotify.com/artist/7EMyFndXI4hqep6zPbetVg) | [Fairway](https://open.spotify.com/album/1cdDTUPaINS3dIc06T4aFj) | 3:56 | 2026-01-06 |  |
 | [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 | 2025-10-30 | 2025-12-12 |
 | [fate](https://open.spotify.com/track/4aP2iBOUZH4VYMebwnKs0P) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fate](https://open.spotify.com/album/6gOaFZHjqC8dWTh4xfempC) | 2:46 | 2025-12-11 | 2026-02-07 |
+| [Fiat 500](https://open.spotify.com/track/4S600HS4ZcpOuz6eIn0s8h) | [Baby Suicida](https://open.spotify.com/artist/37dbiHpWkjkirTka2vOuLb) | [Fiat 500](https://open.spotify.com/album/797bViaNzkV6Gc3pGlvWJi) | 2:36 | 2026-02-25 |  |
 | [Figure It Out](https://open.spotify.com/track/0GQ1eZt3LUUgpJY9P5HXSQ) | [Flying Finish](https://open.spotify.com/artist/335ZooC8OqPnT45ZJAbXPH) | [Figure It Out](https://open.spotify.com/album/3XlMJ55gOehJgsO4nVLTXK) | 3:25 | 2026-02-03 |  |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-26 |  |
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
@@ -142,6 +144,7 @@
 | [Shoot For Stars](https://open.spotify.com/track/6tchwVTKe8GxhWJdSVBPwA) | [Norma Siggs & The Numettes](https://open.spotify.com/artist/02dI7i7CLTR8LPwTXHw72G) | [A Wall Of Numsig](https://open.spotify.com/album/7xjSF0Ja2REUo95IZAV8sc) | 3:18 | 2025-10-24 | 2025-12-12 |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-06 |  |
 | [Smother](https://open.spotify.com/track/4M2MoGCdAiOUlwh8rZHvDR) | [Elemantra](https://open.spotify.com/artist/30cstQS8jxG42BPQ3beYin) | [Smother](https://open.spotify.com/album/18E6W0b5XeJ22DDRJr4Yxm) | 3:57 | 2026-02-08 |  |
+| [Soapbox](https://open.spotify.com/track/5dF2so4iVS7MjyUaqoeSkD) | [Spensir](https://open.spotify.com/artist/67aFZmd5O1su4iCxh5z3UN) | [Soapbox](https://open.spotify.com/album/6AxHeLtZC6Vsc4sF0lfFBt) | 4:05 | 2026-02-25 |  |
 | [Softly](https://open.spotify.com/track/3AJZARxMi3iPi6vPQxPTKN) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [INFINITY MIRROR](https://open.spotify.com/album/0STCjSbjF9Zv2scLY7LS2B) | 3:41 | 2025-10-26 | 2025-12-12 |
 | [Someday](https://open.spotify.com/track/5W9OaBOexdwAaRcgRwnPIG) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Someday](https://open.spotify.com/album/4fGDXODSv9DtjUjnL4rsey) | 2:55 | 2026-02-22 |  |
 | [stardust](https://open.spotify.com/track/3ba4KSPhMcZHHXBYBZgvoF) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [stardust](https://open.spotify.com/album/0NkcS4jIVQg5B5h3dzGMfk) | 2:55 | 2025-11-16 | 2026-01-17 |
@@ -149,6 +152,7 @@
 | [Stay 11:11](https://open.spotify.com/track/7uJKlwmX0BxgIlbDKswIDn) | [Grace Smiles](https://open.spotify.com/artist/33i07ALaC6xQq0AoSnJTN1) | [Stay 11:11](https://open.spotify.com/album/2dlmMwtAli1znWbwZKKUej) | 3:47 | 2026-01-16 | 2026-02-20 |
 | [Stay at Home](https://open.spotify.com/track/2rH6auma4kzIccJqLL4CgZ) | [Eli Orion](https://open.spotify.com/artist/6NLvoDEJwXQj6k8nxniIit), [BUSTER](https://open.spotify.com/artist/5j4912Niko0ozSGWJThvkg) | [Morning After, Again](https://open.spotify.com/album/7r7wkB4ldSeXV3Y7RPZJ01) | 3:43 | 2026-01-05 |  |
 | [Stay Wild, Have Fun](https://open.spotify.com/track/6DddkfQvmpV5HqSlUFDcKo) | [Jo LaRue](https://open.spotify.com/artist/4SSaR5cm4dnhPDkWNv1nZb) | [Stay Wild, Have Fun](https://open.spotify.com/album/59mv3Pteq8TgH1ode0UnBm) | 3:42 | 2025-11-24 | 2026-01-17 |
+| [Still Here](https://open.spotify.com/track/31Ysqd200XLDm6gKPwvMYA) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Still Here](https://open.spotify.com/album/39p1NuJHiJz6UJ6QBlaI87) | 2:03 | 2026-02-25 |  |
 | [Stolen from the People](https://open.spotify.com/track/0zcvlslcLdMxJ9y9XhVwPZ) | [anisa ao](https://open.spotify.com/artist/6sVoTuFYhlpkmzqJUs7P2L) | [Stolen from the People](https://open.spotify.com/album/5tLbIqQReR6QRnyBx7qCs5) | 2:55 | 2026-02-23 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-10-24 | 2025-12-02 |
 | [Strings](https://open.spotify.com/track/54XocDSAfRkxTVqyY75Z4w) | [HUMAN NATURES](https://open.spotify.com/artist/3AUHu1wqglx7HCgUZaFXhZ) | [Strings](https://open.spotify.com/album/32bGZlCoYBexVnXtxOuyet) | 3:27 | 2025-10-30 | 2026-01-17 |
@@ -170,6 +174,7 @@
 | [Today's Quest](https://open.spotify.com/track/4skAncx0uLGrpKv97qS7If) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Today's Quest](https://open.spotify.com/album/6HXzJjybyM7YvKNgTLWBwB) | 3:09 | 2025-11-15 | 2026-01-17 |
 | [Toujours Avec Toi](https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [Toujours Avec Toi](https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW) | 1:41 | 2026-02-02 |  |
 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 | 2026-01-25 |  |
+| [Trouble](https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Trouble](https://open.spotify.com/album/766W9V5Bg6ZX5rm46fuVWX) | 4:32 | 2026-02-25 |  |
 | [Truth for Lies](https://open.spotify.com/track/4HozmRQnEWTChIfyu7Aj7z) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 | 2025-11-16 | 2026-01-17 |
 | [U Cut Ur Hair](https://open.spotify.com/track/7qDR32mmli6Ix41rsujmbZ) | [Ilona Stunz](https://open.spotify.com/artist/10IdIHd2qkAm4Q1IqfYotQ) | [These Days](https://open.spotify.com/album/1gNgWjjKfrL8tvl8MpwszK) | 2:38 | 2026-01-16 | 2026-02-20 |
 | [Velvet Afterglow](https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79) | [The Drixes](https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s) | [Velvet Afterglow](https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ) | 3:53 | 2026-02-14 |  |
@@ -183,6 +188,7 @@
 | [Whatever I Don’t Care](https://open.spotify.com/track/4qZaE4L7g9PHM1WEWKNKdn) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Multiverse of Life](https://open.spotify.com/album/1VdqzcZbvS4d5PP0hw1RSP) | 3:12 | 2026-02-21 |  |
 | [When the Smoke Clears](https://open.spotify.com/track/4o4HfCqu4tMpmPMBzILKzF) | [Aviela Sivia](https://open.spotify.com/artist/3rIBjdx8IaKKTLcAPm7VOm) | [When the Smoke Clears](https://open.spotify.com/album/6TPpKcggYH1K25VIAz0hmR) | 3:25 | 2026-02-18 |  |
 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 | 2026-02-08 |  |
+| [Why](https://open.spotify.com/track/01aVZOmB5sQlkSfi38cgNE) | [Jordan Fouts](https://open.spotify.com/artist/1uhMgxnye3vSNgs8x3d3B4) | [Nostalgia](https://open.spotify.com/album/0JUaANUSWY4hAh8sbOgU40) | 3:46 | 2026-02-25 |  |
 | [Why Not Try? \(Chill\)](https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Why Not Try? \(Chill\)](https://open.spotify.com/album/4pqYVl020D5Q97Z23o0qUs) | 2:36 | 2026-02-07 |  |
 | [Wild](https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX) | [Sole](https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK) | [Wild](https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg) | 2:51 | 2026-02-16 |  |
 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 | 2026-02-23 |  |

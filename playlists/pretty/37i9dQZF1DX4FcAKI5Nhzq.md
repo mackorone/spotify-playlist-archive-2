@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: CHUNG HA\)
+> Future K\-Pop hits! \(Cover: 우주소녀 \(WJSN\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,876 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,845 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
-| 2 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
-| 3 | [Never Losing](https://open.spotify.com/track/3b0Bxz2ZxN8aYUAnNCnXqT) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Webtoon 'Return of the Blossoming Blade' Part.5 \(Original Soundtrack\)](https://open.spotify.com/album/4TBlwestyArrRwPgL2ZtIE) | 3:30 |
-| 4 | [IYWO](https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [YOONSEOK](https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN), [WOOKI](https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN), [OF'F](https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG) | [IYWO](https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy) | 3:54 |
-| 5 | [Dazzle Flash](https://open.spotify.com/track/0UIUWBylHJE3Ab7Dru1dN0) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [Hyper](https://open.spotify.com/album/275Rlsp2De6eV7EZlEFv0L) | 2:38 |
-| 6 | [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 |
-| 7 | [Stay](https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Stay](https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ) | 3:23 |
-| 8 | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
-| 9 | [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 |
-| 10 | [Truth](https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Truth](https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3) | 3:03 |
-| 11 | [I Feel Good \(Live Ver.\)](https://open.spotify.com/track/7rf1HYMl0ZjPLO8HbWbc7a) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYNEXTDOOR TOUR ‘KNOCK ON Vol.1’ FINAL \(LIVE\)](https://open.spotify.com/album/4ToqvVUbHU1bJNNmkJSkLK) | 2:46 |
-| 12 | [LOVEPOCALYPSE](https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [RE\-FLOW](https://open.spotify.com/album/2IhQYBuoaZmcXRQJqwFGQg) | 2:49 |
-| 13 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
-| 14 | [VISA](https://open.spotify.com/track/3rLQaj0aIBRBEsSwHGY0HP) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [VISA / Pilot3](https://open.spotify.com/album/7BYBKfbZxXgJkZ82GYp3MI) | 4:07 |
-| 15 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 |
-| 16 | [WHY U MAD](https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ) | [SKINZ \(스킨즈\)](https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6) | [WHY U MAD](https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl) | 3:18 |
-| 17 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 |
-| 18 | [You make me crzy](https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [DIMOLLY](https://open.spotify.com/album/11IhqaVXyrWbOOGh0JbZBV) | 3:06 |
-| 19 | [ROCK THE NATION](https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [ROCK THE NATION](https://open.spotify.com/album/2TjwZqt5ndVe6sQTNrS6bF) | 2:34 |
+| 1 | [Bloom hour](https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Bloom hour](https://open.spotify.com/album/3Jgic38bRcv9eiunNaxv3z) | 3:00 |
+| 2 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
+| 3 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
+| 4 | [Never Losing](https://open.spotify.com/track/3b0Bxz2ZxN8aYUAnNCnXqT) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Webtoon 'Return of the Blossoming Blade' Part.5 \(Original Soundtrack\)](https://open.spotify.com/album/4TBlwestyArrRwPgL2ZtIE) | 3:30 |
+| 5 | [IYWO](https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [YOONSEOK](https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN), [WOOKI](https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN), [OF'F](https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG) | [IYWO](https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy) | 3:54 |
+| 6 | [Dazzle Flash](https://open.spotify.com/track/0UIUWBylHJE3Ab7Dru1dN0) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [Hyper](https://open.spotify.com/album/275Rlsp2De6eV7EZlEFv0L) | 2:38 |
+| 7 | [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 |
+| 8 | [Stay](https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Stay](https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ) | 3:23 |
+| 9 | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
+| 10 | [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 |
+| 11 | [Truth](https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Truth](https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3) | 3:03 |
+| 12 | [I Feel Good \(Live Ver.\)](https://open.spotify.com/track/7rf1HYMl0ZjPLO8HbWbc7a) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYNEXTDOOR TOUR ‘KNOCK ON Vol.1’ FINAL \(LIVE\)](https://open.spotify.com/album/4ToqvVUbHU1bJNNmkJSkLK) | 2:46 |
+| 13 | [LOVEPOCALYPSE](https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [RE\-FLOW](https://open.spotify.com/album/2IhQYBuoaZmcXRQJqwFGQg) | 2:49 |
+| 14 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
+| 15 | [VISA](https://open.spotify.com/track/3rLQaj0aIBRBEsSwHGY0HP) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [VISA / Pilot3](https://open.spotify.com/album/7BYBKfbZxXgJkZ82GYp3MI) | 4:07 |
+| 16 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 |
+| 17 | [WHY U MAD](https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ) | [SKINZ \(스킨즈\)](https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6) | [WHY U MAD](https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl) | 3:18 |
+| 18 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 |
+| 19 | [You make me crzy](https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [DIMOLLY](https://open.spotify.com/album/11IhqaVXyrWbOOGh0JbZBV) | 3:06 |
 | 20 | [cloud palace](https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [cloud palace \~ false awakening](https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK) | 3:21 |
 | 21 | [A Minute, A Second](https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A Minute, A Second](https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2) | 3:12 |
 | 22 | [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [WHERE YOU AT](https://open.spotify.com/track/0BIutvdEclGIwaFeekFNCC) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2llGDqePFTgjCIxOW1RehG) | 2:42 |
 | 50 | [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 |
 
-Snapshot ID: `AAAAAPJBd9eZD7seiv8VKK7b3QxgiWCG`
+Snapshot ID: `AAAAAP3zOGVxXKM3RX/H4RZu5sjkPnrh`

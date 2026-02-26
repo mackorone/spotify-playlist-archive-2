@@ -4,12 +4,12 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-308 songs - 15 hr 6 min
+309 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [639 Hz Compassion](https://open.spotify.com/track/1dUEOImbqBBnzIJYmZSJQn) | [Hertz Harmony](https://open.spotify.com/artist/1LQ6dIMZP4sNgA9hoE1PBT) | [639 Hz Compassion](https://open.spotify.com/album/01oSV7pzXDvsACSbXryXqB) | 2:50 | 2025-12-02 |  |
-| [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
+| [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 | 2026-02-26 |
 | [A New Day](https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [A New Day](https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW) | 2:36 | 2023-10-06 | 2025-04-24 |
 | [A Silent Moon](https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn) | [Atmosferion](https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc) | [A Silent Moon](https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H) | 3:08 | 2022-11-11 | 2025-01-15 |
 | [A Space Within a Space](https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync) | 3:11 | 2022-07-05 | 2022-07-29 |
@@ -143,6 +143,7 @@
 | [Indigo Evening](https://open.spotify.com/track/6gBPXoHpg9B8fxMJfg4K2S) | [Avvaken](https://open.spotify.com/artist/3V4slVRtEqnIeps8KRgnRG) | [Indigo Evening](https://open.spotify.com/album/3WNzH65tlcPGZsrDK9XyZ5) | 3:04 | 2025-07-24 |  |
 | [Inertia](https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inertia](https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV) | 3:01 | 2022-07-05 | 2025-02-19 |
 | [Infinite Light](https://open.spotify.com/track/5EX3yrp5S1HEmfHgNjzvAS) | [Muted Horizon](https://open.spotify.com/artist/0CYMzDdl0zIA2exI09ncfs) | [Infinite Light](https://open.spotify.com/album/1VoZK1H2xdp1t2b69VkCi7) | 2:23 | 2026-02-11 |  |
+| [Interconnectedness](https://open.spotify.com/track/5d7M78Bl9ni80Ig44x38w5) | [Indigenouz](https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7) | [Interconnectedness](https://open.spotify.com/album/1NaSRWhXzZU1rL9O0CPlQd) | 2:28 | 2026-02-11 |  |
 | [Interlock](https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Interlock](https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m) | 2:36 | 2025-01-14 |  |
 | [Ions](https://open.spotify.com/track/6M9leAc2lHQaUmiSrPIPxe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Ions](https://open.spotify.com/album/23oFz7t9EwLjONf7Da4wxX) | 2:37 | 2026-02-11 |  |
 | [Ishi](https://open.spotify.com/track/1jO1y3fvH7ggpK7tFdr7BB) | [Slow Eye Movement](https://open.spotify.com/artist/2rPSJJgb2iDgkFUGY4NHoZ) | [Ishi](https://open.spotify.com/album/2XJfGbF75RMIQv39UnlwAH) | 2:14 | 2026-02-11 |  |

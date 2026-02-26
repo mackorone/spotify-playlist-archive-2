@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 69 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 68 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 | 69 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcKjygAAAADb3YJ2ITUXySsvXexMW0Gm`
+Snapshot ID: `AcKpagAAAADO+vIyJCb3uIolGDCbpqN/`

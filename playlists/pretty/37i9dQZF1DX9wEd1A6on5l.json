@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 112358,
+  "num_followers": 112400,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -159,30 +159,6 @@
     {
       "added_at": "2026-02-20 00:01:34",
       "album": {
-        "name": "SNOKONOKO",
-        "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
-      },
-      "artists": [
-        {
-          "name": "Al Xapo",
-          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
-        },
-        {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        }
-      ],
-      "duration_ms": 399314,
-      "name": "SNOKONOKO",
-      "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -203,6 +179,30 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
+        "name": "SNOKONOKO",
+        "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
+      },
+      "artists": [
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        }
+      ],
+      "duration_ms": 399314,
+      "name": "SNOKONOKO",
+      "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
     },
     {
       "added_at": "2026-02-20 00:01:34",
@@ -447,38 +447,6 @@
     {
       "added_at": "2026-02-20 00:01:34",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
         "name": "Realize",
         "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
       },
@@ -495,46 +463,6 @@
       "duration_ms": 130285,
       "name": "Realize",
       "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
-        "name": "Auracle",
-        "url": "https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Like That (bomboclatt) (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
-        "name": "Love Egbugomo",
-        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
-      },
-      "artists": [
-        {
-          "name": "SYEMCA",
-          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 151794,
-      "name": "Love Egbugomo",
-      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
     },
     {
       "added_at": "2026-02-20 00:01:34",
@@ -559,6 +487,78 @@
     {
       "added_at": "2026-02-20 00:01:34",
       "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
+        "name": "Auracle",
+        "url": "https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Like That (bomboclatt) (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
+        "name": "Love Egbugomo",
+        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
+      },
+      "artists": [
+        {
+          "name": "SYEMCA",
+          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "Love Egbugomo",
+      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
         "name": "Mmmn",
         "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
       },
@@ -571,6 +571,34 @@
       "duration_ms": 140160,
       "name": "Mmmn",
       "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
+        "name": "Escaladizzy II",
+        "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Escaladizzy II",
+      "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
     },
     {
       "added_at": "2026-02-20 00:01:34",
@@ -627,30 +655,18 @@
     {
       "added_at": "2026-02-20 00:01:34",
       "album": {
-        "name": "Escaladizzy II",
-        "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
+        "name": "BADAMINTON",
+        "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 213559,
-      "name": "Escaladizzy II",
-      "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
+      "duration_ms": 127384,
+      "name": "BADAMINTON",
+      "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
     },
     {
       "added_at": "2026-02-20 00:01:34",
@@ -683,22 +699,6 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
-        "name": "BADAMINTON",
-        "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "BADAMINTON",
-      "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
     },
     {
       "added_at": "2026-02-20 00:01:34",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-02-20 00:01:34",
       "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2026-02-20 00:01:34",
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-02-20 00:01:34",
       "album": {
+        "name": "Escaladizzy",
+        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Escaladizzy",
+      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
         "name": "Hey Jago",
         "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 125284,
       "name": "Hey Jago",
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
-        "name": "Escaladizzy",
-        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Escaladizzy",
-      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
     },
     {
       "added_at": "2026-02-20 00:01:34",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-02-20 00:01:34",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+    },
+    {
+      "added_at": "2026-02-20 00:01:34",
+      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2026-02-20 00:01:34",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-02-20 00:01:34",

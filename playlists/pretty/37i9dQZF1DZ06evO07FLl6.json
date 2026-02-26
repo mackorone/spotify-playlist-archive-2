@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 246327,
+  "num_followers": 246342,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACdjAWMtlOML+yZZPoxasnl",
+  "snapshot_id": "aZzqAAAAAAC/S+/YnglTcKSLisEEG1d5",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 168512,
-      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkin' (Remastered 2025)",
         "url": "https://open.spotify.com/album/646s3T4GmTP5rfamjWxHYo"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 285465,
       "name": "Solar - Remastered 2025",
       "url": "https://open.spotify.com/track/5t6nLSgJM6fxYHX8tqNCTz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 168512,
+      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Florence sur les Champs-\u00c9lys\u00e9es - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 355333,
       "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Florence sur les Champs-\u00c9lys\u00e9es - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf"
     },
     {
       "added_at": null,
@@ -611,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Note And Capitol Recordings",
-        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue Note And Capitol Recordings",
+        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 129861,
-      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 129861,
+      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 214866,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3"
+      "duration_ms": 316666,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
       "artists": [
         {
@@ -856,9 +856,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 316666,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+      "duration_ms": 214866,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
+        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 372332,
+      "name": "Blue Haze - Remastered 2024",
+      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 299680,
       "name": "Airegin - RVG Remaster",
       "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
-        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 372332,
-      "name": "Blue Haze - Remastered 2024",
-      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
     },
     {
       "added_at": null,

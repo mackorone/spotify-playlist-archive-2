@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mumford & Sons, Lana Del Rey, Twenty One Pilots and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,752 likes - 97 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,727 likes - 97 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

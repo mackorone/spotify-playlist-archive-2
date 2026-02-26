@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: CHUNG HA\)
+> Future K\-Pop hits! \(Cover: 우주소녀 \(WJSN\)\)
 
-1,594 songs - 3 day 13 hr 29 min
+1,595 songs - 3 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Film\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 | 2023-10-12 | 2023-11-16 |
 | [Bloom](https://open.spotify.com/track/6SzXlH7Xy7RlUSPx5Obbe3) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Bloom](https://open.spotify.com/album/7n9NPWpOsSKrGO1yJrssEB) | 3:09 | 2024-10-24 | 2025-03-13 |
 | [Bloom](https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [lip bomb](https://open.spotify.com/album/3H7MTJVprjcvlvCeQdRe1H) | 2:56 | 2025-11-25 | 2026-01-28 |
+| [Bloom hour](https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Bloom hour](https://open.spotify.com/album/3Jgic38bRcv9eiunNaxv3z) | 3:00 | 2026-02-25 |  |
 | [Blooming CROWN](https://open.spotify.com/track/7LrmZENqrRtHOJPrlipqXK) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:03 | 2025-09-15 | 2025-09-17 |
 | [Blooming just for you](https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Blooming just for you](https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd) | 3:27 | 2024-03-14 | 2024-04-23 |
 | [Blue & Black](https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [ARIN](https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF), [JANGWONYOUNG](https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw), [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8), [SERIM](https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO), [JUNGMO](https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV) | [Blue & Black](https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh) | 3:21 | 2022-06-30 | 2022-07-26 |
@@ -1145,7 +1146,7 @@
 | [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-03-02 | 2023-06-09 |
 | [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus Pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 | 2022-07-29 | 2022-09-09 |
 | [ROCK STAR](https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Beauty in Chaos](https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a) | 3:27 | 2025-05-20 | 2025-07-02 |
-| [ROCK THE NATION](https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [ROCK THE NATION](https://open.spotify.com/album/2TjwZqt5ndVe6sQTNrS6bF) | 2:34 | 2026-01-30 |  |
+| [ROCK THE NATION](https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [ROCK THE NATION](https://open.spotify.com/album/2TjwZqt5ndVe6sQTNrS6bF) | 2:34 | 2026-01-30 | 2026-02-26 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-04-06 | 2023-05-26 |
 | [Rockstar](https://open.spotify.com/track/7z8EC940EnKqsHQGz5NwEe) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Late Night](https://open.spotify.com/album/1vj8CCni8X7U1im2eg62r3) | 3:12 | 2023-10-20 | 2023-11-28 |
 | [RODEO](https://open.spotify.com/track/7jd4sz1jTKa6yHU0171kYY) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [RODEO](https://open.spotify.com/album/4ZfhnQhFXNg4zfpW8TdI6P) | 3:22 | 2025-09-09 | 2025-10-16 |

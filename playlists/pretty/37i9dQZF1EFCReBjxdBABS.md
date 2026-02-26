@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 128 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 128 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 109 | [I'd Look Good In That Truck](https://open.spotify.com/track/5P9R7DNHtVtXpWDeHAVLJC) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Rooted](https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL) | 3:26 |
 | 110 | [The Best Kind](https://open.spotify.com/track/4QBnvCvtwniPVGNgqDPFQT) | [Lee Langston](https://open.spotify.com/artist/1lrPBxFvIFSAzT1vNJOnNT) | [The Best Kind](https://open.spotify.com/album/0SnM6LgLYRjPgTI6QvmzTD) | 3:45 |
 | 111 | [Prettiest Girl In The Room](https://open.spotify.com/track/59WvgpXhQYHHh0jrstaSi5) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Always Gonna Be You](https://open.spotify.com/album/6IuTM80djAskPLrCz6Ij0L) | 2:41 |
-| 112 | [Tunnel Vision](https://open.spotify.com/track/2C5ajossz6UOJxCOBxqllx) | [Karl Michael](https://open.spotify.com/artist/4zFqfg8R6X9aUWIdYm3xTT) | [Tunnel Vision](https://open.spotify.com/album/2h76wGQj1dACn0QorMaJBD) | 2:52 |
-| 113 | [Blame a Country Song](https://open.spotify.com/track/0NHp9AqpMtYB3RhleGvEB7) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Atypical](https://open.spotify.com/album/04y1EdYxeuSAEwPKVpUFlv) | 2:56 |
+| 112 | [Blame a Country Song](https://open.spotify.com/track/0NHp9AqpMtYB3RhleGvEB7) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Atypical](https://open.spotify.com/album/04y1EdYxeuSAEwPKVpUFlv) | 2:56 |
+| 113 | [Tunnel Vision](https://open.spotify.com/track/2C5ajossz6UOJxCOBxqllx) | [Karl Michael](https://open.spotify.com/artist/4zFqfg8R6X9aUWIdYm3xTT) | [Tunnel Vision](https://open.spotify.com/album/2h76wGQj1dACn0QorMaJBD) | 2:52 |
 | 114 | [Out of My Hands](https://open.spotify.com/track/0PCTuGTtBVyGlNA3H4X9Dq) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Princess](https://open.spotify.com/album/6ViXfviTYjVqGxOsFgLjgU) | 3:33 |
 | 115 | [Talk About Us](https://open.spotify.com/track/08RiWxHaYoIn1yLjhFj50p) | [Rosewood Ave](https://open.spotify.com/artist/4vVkRcAngiXV8RV6HMTnjC) | [Talk About Us](https://open.spotify.com/album/4aeHx1nPEoicC14Gwyj7DN) | 3:19 |
 | 116 | [Settle Down Side](https://open.spotify.com/track/35vaYhPuMAHJHoAuDAQqTd) | [Ryan Larkins](https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0) | [Settle Down Side](https://open.spotify.com/album/4RvcBDAqe8YUguaph39xM0) | 3:25 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 127 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 128 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcKjygAAAADMJOm+Oe8IbXwSqMTuNsUn`
+Snapshot ID: `AcKpagAAAAAeYiXOTggGtpORTqXve9y9`

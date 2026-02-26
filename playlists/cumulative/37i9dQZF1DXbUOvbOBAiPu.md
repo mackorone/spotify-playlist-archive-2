@@ -4,7 +4,7 @@
 
 > New music from marguerite, PLK x Theodora, IBE and more...
 
-8,322 songs - 18 day 6 hr 41 min
+8,323 songs - 18 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1491,6 +1491,7 @@
 | [COMMAS](https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [COMMAS](https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1) | 2:52 | 2025-11-06 | 2025-11-14 |
 | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq) | 3:05 | 2026-02-12 | 2026-02-20 |
 | [Comme d'hab](https://open.spotify.com/track/0LO8LdBsAhZTW2MMtKZWv3) | [Lukx](https://open.spotify.com/artist/088lBQuoSkAYyCp6AQpmpY), [Dad](https://open.spotify.com/artist/7kvGG9tuBj9Xm3A7xokVh0), [La sonorience](https://open.spotify.com/artist/5Rrn7g7ZrwNzKldilKe2xL) | [Comme d'hab](https://open.spotify.com/album/0iEZBoY8eoYTR4u1S2Z43B) | 3:08 | 2025-04-17 | 2025-04-25 |
+| [Comme des hyènes](https://open.spotify.com/track/3DVvnkok2V9fHs7IJr5glQ) | [Belfour](https://open.spotify.com/artist/0Dqz4WMcjzUzvkLOauuMqN) | [Comme des hyènes](https://open.spotify.com/album/7gyRUNtOcs0LnDlVZRI96P) | 3:23 | 2026-02-19 |  |
 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 | 2025-09-11 | 2025-09-20 |
 | [Comme je veux](https://open.spotify.com/track/213dBdW61DigIbZYE9Lj9u) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:52 | 2025-05-15 | 2025-05-23 |
 | [Comme un éclair](https://open.spotify.com/track/6vd6XwtWGL2cEeOhqOTaTt) | [Antoine Delie](https://open.spotify.com/artist/4oD2dzJ90Zio3UtJ0d4FDN) | [Comme un éclair](https://open.spotify.com/album/7nJu0WVN2Kxu5BSQo4a7Hz) | 3:18 | 2024-06-06 | 2024-06-14 |

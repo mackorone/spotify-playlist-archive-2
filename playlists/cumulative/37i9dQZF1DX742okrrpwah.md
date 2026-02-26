@@ -4,7 +4,7 @@
 
 > marguerite, Dermot Kennedy et PLK x Theodora au top des nouveautés de la semaine !
 
-8,263 songs - 17 day 20 hr 17 min
+8,264 songs - 17 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1494,6 +1494,7 @@
 | [Comme Avant](https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Comme Avant](https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi) | 3:39 | 2025-07-10 | 2025-07-18 |
 | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq) | 3:05 | 2026-02-12 | 2026-02-20 |
 | [Comme d'hab](https://open.spotify.com/track/0JNuEwifGhPx35KMH01pQF) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Comme d'hab](https://open.spotify.com/album/4WuBPAutwQI35BYVhIfz2K) | 3:08 | 2025-11-27 | 2025-12-05 |
+| [Comme des hyènes](https://open.spotify.com/track/3DVvnkok2V9fHs7IJr5glQ) | [Belfour](https://open.spotify.com/artist/0Dqz4WMcjzUzvkLOauuMqN) | [Comme des hyènes](https://open.spotify.com/album/7gyRUNtOcs0LnDlVZRI96P) | 3:23 | 2026-02-19 |  |
 | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC) | 3:22 | 2024-11-07 | 2024-11-15 |
 | [Comme deux amoureux](https://open.spotify.com/track/5kL3p785UvQi1aMgo3M2t4) | [Nola](https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA) | [Comme deux amoureux](https://open.spotify.com/album/6ZrLVOXr0IkKoAfDYuoY0R) | 2:13 | 2025-10-02 | 2025-10-10 |
 | [Comme je l'aime](https://open.spotify.com/track/1BmmF0R8N8E8hKS01RAJ2g) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Comme je l'aime](https://open.spotify.com/album/6Qf7uI07LuuL0Cur2l09b6) | 3:23 | 2024-10-10 | 2024-10-18 |

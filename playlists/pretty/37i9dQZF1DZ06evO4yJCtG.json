@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 156408,
+  "num_followers": 156442,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADrrU2KKQR2vqYip1FOs0VN",
+  "snapshot_id": "aZzqAAAAAAAfUdFM/78ixN/Ik9FbYL2S",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
+      "duration_ms": 197520,
+      "name": "DFMU",
+      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
     },
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
       },
       "artists": [
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 197520,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
+      "duration_ms": 264097,
+      "name": "She Don't (feat. Ty Dolla $Ign)",
+      "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
     },
     {
       "added_at": null,
@@ -207,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
       },
       "artists": [
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 264097,
-      "name": "She Don't (feat. Ty Dolla $Ign)",
-      "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 173433,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/16ECoILgtdIBK9L3B345Tq"
+      "duration_ms": 214933,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 214933,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc"
+      "duration_ms": 173433,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/16ECoILgtdIBK9L3B345Tq"
     },
     {
       "added_at": null,

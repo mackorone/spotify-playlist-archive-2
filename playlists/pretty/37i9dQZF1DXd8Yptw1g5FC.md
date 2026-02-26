@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emre Altuğ ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,837 likes - 139 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,807 likes - 139 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

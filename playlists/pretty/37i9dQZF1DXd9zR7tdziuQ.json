@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 962064,
+  "num_followers": 962086,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 201136,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 217935,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 201136,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "All of Me - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Rhythm Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 212171,
       "name": "Rhythm Inside - Acoustic",
       "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "All of Me - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Dancing In The Moonlight: The Best Of Toploader",
-        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Dancing in the Moonlight - Acoustic Version",
-      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Shut up and Dance",
-        "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
-      },
-      "artists": [
-        {
-          "name": "Anchor + Bell",
-          "url": "https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t"
-        }
-      ],
-      "duration_ms": 176182,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "New Rules",
         "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
       },
@@ -1555,6 +1523,38 @@
       "duration_ms": 245780,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Shut up and Dance",
+        "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
+      },
+      "artists": [
+        {
+          "name": "Anchor + Bell",
+          "url": "https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t"
+        }
+      ],
+      "duration_ms": 176182,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Dancing In The Moonlight: The Best Of Toploader",
+        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Dancing in the Moonlight - Acoustic Version",
+      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Hello (Adele Cover)",
-        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        }
-      ],
-      "duration_ms": 230225,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 204230,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Hello (Adele Cover)",
+        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        }
+      ],
+      "duration_ms": 230225,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Send Me on My Way (Acoustic)",
+        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 187812,
+      "name": "Send Me on My Way (Acoustic)",
+      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Havana (Acoustic)",
         "url": "https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T"
       },
@@ -2107,6 +2123,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Home / Dirty Paws",
+        "url": "https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "Home / Dirty Paws",
+      "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Attention (Acoustic)",
         "url": "https://open.spotify.com/album/08BovLE1x4JHA0zJz07Oaw"
       },
@@ -2123,22 +2155,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Acoustic Favourites",
         "url": "https://open.spotify.com/album/1wpciFEPWX1fdgmIHO19Ez"
       },
@@ -2151,6 +2167,22 @@
       "duration_ms": 126827,
       "name": "I Feel It Coming - Acoustic Live Lounge",
       "url": "https://open.spotify.com/track/2JeQGU3gmi7HEG6tCFNgzI"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2219,22 +2251,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Send Me on My Way (Acoustic)",
-        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 187812,
-      "name": "Send Me on My Way (Acoustic)",
-      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Stolen Dance",
         "url": "https://open.spotify.com/album/0Qt0bpaJqOxRqDy3eiGXAO"
       },
@@ -2271,6 +2287,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Slow Hands (Acoustic)",
         "url": "https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo"
       },
@@ -2303,22 +2335,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "I Can't Make You Love Me/Immigrant Song",
         "url": "https://open.spotify.com/album/7EyotZp8SIypYNsBKA1yLk"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 291046,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/0hL7pMYm3WQhoywLYFdF3t"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Home / Dirty Paws",
-        "url": "https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn"
-      },
-      "artists": [
-        {
-          "name": "Gardiner Sisters",
-          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "Home / Dirty Paws",
-      "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
     },
     {
       "added_at": "2024-07-10 07:20:21",

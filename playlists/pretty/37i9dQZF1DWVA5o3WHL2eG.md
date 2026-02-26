@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,848 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,841 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [frieden](https://open.spotify.com/track/2SlpgnjraLCGUuxGlkplg2) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [wo ein herz bricht](https://open.spotify.com/album/5BmrppMudOMh2Q5AnCuNDh) | 3:07 |
 | 36 | [Disco](https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Disco](https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L) | 3:10 |
 | 37 | [Cajito \(No Balão\)](https://open.spotify.com/track/6QkMTUvcWRH3bHfd74DBmX) | [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd) | [Cajito \(No Balão\)](https://open.spotify.com/album/3bSh5PIkFF3bvfhy2RgqGE) | 2:03 |
-| 38 | [Rocket Science](https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Soft Skin](https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E) | 3:14 |
-| 39 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
+| 38 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
+| 39 | [Rocket Science](https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Soft Skin](https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E) | 3:14 |
 | 40 | [Outrun](https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Outrun](https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt) | 3:17 |
 | 41 | [wie ich dich seh](https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [wie ich dich seh](https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ) | 2:43 |
 | 42 | [Nie gleich](https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Nie gleich](https://open.spotify.com/album/5vNAPI9zz7ezRiW0fHirIk) | 3:01 |

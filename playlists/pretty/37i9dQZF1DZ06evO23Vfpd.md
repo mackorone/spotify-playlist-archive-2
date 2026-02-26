@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,851 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,875 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 2 | [Good News](https://open.spotify.com/track/5VHRiH48pBB008CAkrIBwP) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:19 |
 | 3 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 |
-| 4 | [Let It Burn](https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:44 |
+| 4 | [Last Of My Kind \(feat\. Paul Cauthen\)](https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:21 |
 | 5 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 |
 | 6 | [Amen](https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:17 |
 | 7 | [Took A Walk \- from "The Long Walk"](https://open.spotify.com/track/6nKaT12DSliz1PcbVT1Rb4) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Took A Walk \(from "The Long Walk"\)](https://open.spotify.com/album/0xOz0twDcTFReXDArM1uKe) | 4:00 |
-| 8 | [Last Of My Kind \(feat\. Paul Cauthen\)](https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:21 |
+| 8 | [Let It Burn](https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:44 |
 | 9 | [My Love](https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:15 |
 | 10 | [Blink Twice](https://open.spotify.com/track/213uaappJODsexwkR9rxhS) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 2:36 |
 | 11 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 |
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 32 | [Faithfully](https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:39 |
 | 33 | [Joan Jett](https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Joan Jett](https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT) | 4:06 |
 | 34 | [Cabelas](https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cabelas](https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61) | 2:57 |
-| 35 | [More](https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [More](https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM) | 3:06 |
+| 35 | [Prosperity](https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Prosperity](https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE) | 3:17 |
 | 36 | [Winning Streak](https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:18 |
-| 37 | [Prosperity](https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Prosperity](https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE) | 3:17 |
+| 37 | [More](https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [More](https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM) | 3:06 |
 | 38 | [Starfoxx](https://open.spotify.com/track/26ripkMj3zMuzvXUFba7Ig) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Starfoxx](https://open.spotify.com/album/58SxzTBJiPqZyb3x4xRQeK) | 3:55 |
 | 39 | [Break The Band \(How Could She?\)](https://open.spotify.com/track/75cZzuektUsBvLW18rHGjx) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Break The Band \(How Could She?\)](https://open.spotify.com/album/2aCy1LOLEJB5snKIuSb16p) | 2:33 |
 | 40 | [Warped Tour](https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:55 |
 | 41 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 | 42 | [Dream](https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:34 |
 
-Snapshot ID: `aZuYgAAAAACOUPyxfT4tcXG/GWHPJalK`
+Snapshot ID: `aZzqAAAAAADPmSL1HZaCXSqe4PwZtege`

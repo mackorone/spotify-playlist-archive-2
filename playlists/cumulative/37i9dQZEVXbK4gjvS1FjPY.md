@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-1,869 songs - 4 day 10 hr 23 min
+1,870 songs - 4 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,8 +153,9 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-05 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-08-08 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-02 | 2024-06-22 |
-| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-12 |  |
+| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-12 | 2026-02-26 |
 | [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 | 2026-02-11 | 2026-02-25 |
+| [BANG BANG](https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 2:58 | 2026-02-25 |  |
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2025-01-07 | 2025-01-23 |
 | [BANG BANG BANG \- KR Ver.](https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:41 | 2025-01-11 | 2025-01-21 |
 | [Baptized In Fear](https://open.spotify.com/track/0bxRSMz5WY1VuMmOhanE4b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:52 | 2025-02-02 | 2025-02-04 |
@@ -1805,7 +1806,7 @@
 | [哪里都是你](https://open.spotify.com/track/3QP3cYE3qnplFueLKNVsbM) | [隊長](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [哪里都是你](https://open.spotify.com/album/6C7UyN1fTxNKDeU6X4fYsH) | 3:42 | 2023-03-21 | 2024-09-07 |
 | [善后](https://open.spotify.com/track/6gYS6CQc7UMnj0Ubq3C0QT) | [马师傅](https://open.spotify.com/artist/0M668HC4fq39Ls98rUdsyS) | [善后](https://open.spotify.com/album/0v0ZrjSyK6uMaxdEzJOaPT) | 4:14 | 2025-09-17 |  |
 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 | 2021-09-09 | 2024-01-23 |
-| [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 | 2025-12-06 |  |
+| [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 | 2025-12-06 | 2026-02-26 |
 | [嘉賓 \- EP/Single](https://open.spotify.com/track/3vItl2vBpmEw20g4v8g0rS) | [張遠](https://open.spotify.com/artist/4TfiBmwTbweJlui16UmUec) | [嘉賓](https://open.spotify.com/album/50mB8uH9KpQYgqIsTEPX59) | 5:33 | 2021-07-28 | 2021-09-03 |
 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 | 2025-06-02 | 2025-08-23 |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2021-03-27\* | 2021-05-23 |
@@ -1872,7 +1873,7 @@
 | [那些你很冒險的夢](https://open.spotify.com/track/5kZDxLcbqglZ2yYXg4Mkjc) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [學不會](https://open.spotify.com/album/1hTBgTLTxoaK9TJ8YmnYU5) | 4:04 | 2022-11-06 | 2022-11-10 |
 | [錯過的煙火](https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-23 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2021-05-27 | 2021-07-27 |
-| [離開我的依賴](https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz) | 3:53 | 2026-01-15 | 2026-02-05 |
+| [離開我的依賴](https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz) | 3:53 | 2026-01-15 |  |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-08-15 |
 | [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 | 2023-07-07 |
 | [飞鸟和蝉](https://open.spotify.com/track/7kdWPsM25PcBBB156FLrQK) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/6NMN6OEr4Qsoq5HyrFqAs5) | 4:56 | 2021-08-02 | 2021-08-08 |

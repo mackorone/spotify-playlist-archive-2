@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Kitsuné Musique Essentials \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Ibiza Vibes : Sunset to Sunrise \(House, Afro house\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
 > Music around the world ✈️
 
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 92 | [Nothing On Me](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [APACHE \(FR\)](https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Nothing On Me](https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS) | 4:02 |
 | 93 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
 
-Snapshot ID: `AAAMvaRECjf8gMxDPRgfSBpFDIBO5AV5`
+Snapshot ID: `AAAMv4BlzNAKgUuCTunyydJJQs7jIHXm`

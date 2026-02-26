@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 500009,
+  "num_followers": 500099,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
+        "name": "S\u00edgueme",
+        "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 333360,
+      "name": "Yo Confio",
+      "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 382026,
       "name": "Cantamos A \u00c9l",
       "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "S\u00edgueme",
-        "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 333360,
-      "name": "Yo Confio",
-      "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
+        "name": "S\u00f3lo a Ti Jes\u00fas",
+        "url": "https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc"
+      },
+      "artists": [
+        {
+          "name": "Omi Rodriguez",
+          "url": "https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR"
+        }
+      ],
+      "duration_ms": 216794,
+      "name": "S\u00f3lo a Ti Jes\u00fas",
+      "url": "https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
         "name": "Jhoni",
         "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "S\u00f3lo a Ti Jes\u00fas",
-        "url": "https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc"
+        "name": "Eres Mi Padre - Single",
+        "url": "https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF"
       },
       "artists": [
         {
-          "name": "Omi Rodriguez",
-          "url": "https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR"
+          "name": "David Letelier",
+          "url": "https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R"
         }
       ],
-      "duration_ms": 216794,
-      "name": "S\u00f3lo a Ti Jes\u00fas",
-      "url": "https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF"
+      "duration_ms": 544864,
+      "name": "Eres Mi Padre",
+      "url": "https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1235,22 +1251,6 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/2txTXCdetbJcy8REtnZdRq"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "Eres Mi Padre - Single",
-        "url": "https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF"
-      },
-      "artists": [
-        {
-          "name": "David Letelier",
-          "url": "https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R"
-        }
-      ],
-      "duration_ms": 544864,
-      "name": "Eres Mi Padre",
-      "url": "https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "Generacion Radical",
-        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
-      },
-      "artists": [
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 406184,
-      "name": "La Tierra Canta",
-      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 302471,
       "name": "Creere",
       "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Generacion Radical",
+        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 406184,
+      "name": "La Tierra Canta",
+      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
     },
     {
       "added_at": "2025-12-12 06:18:40",

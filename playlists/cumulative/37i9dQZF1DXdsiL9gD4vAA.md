@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-222 songs - 19 hr 46 min
+223 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aankho Mein Raha](https://open.spotify.com/track/1wGxfpGFpx2vCajaRilihV) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 7:54 | 2023-02-27 | 2024-04-19 |
 | [Aankho Mein Raha](https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 7:54 | 2024-04-18 | 2025-10-17 |
 | [Aapki Yaad Aati Rahi Raat Bhar](https://open.spotify.com/track/2bCwBISaRkGc0CUY5t7X87) | [Chhaya Ganguli](https://open.spotify.com/artist/4psVmgSgmjHIBM7MZuVQyY) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 5:02 | 2021-12-01 | 2023-05-16 |
+| [Aashiqana](https://open.spotify.com/track/7LiOJy6J3AtJjxwamxYGiQ) | [Ananjan Chakraborty](https://open.spotify.com/artist/12SF7vU0P0cKtsCzgRTMVu), [Deborshee Bhattacharjee](https://open.spotify.com/artist/5jaczQQWiKbPBf3jPpPArb), [Anol Chatterjee](https://open.spotify.com/artist/59p2dOcj0zx6pHA8mOdUD5) | [Aashiqana](https://open.spotify.com/album/5Ch1Cy2rf2LNVr72GTY7v3) | 6:34 | 2026-02-18 |  |
 | [Aasman](https://open.spotify.com/track/4UoghtpFglvrv1UwOiYiz3) | [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Aasman](https://open.spotify.com/album/7McEMB3Dpdx5aq1vv9GuVg) | 6:24 | 2025-08-08 |  |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2024-02-07 | 2024-04-19 |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/5UlX0IDXTIRSjxoKwA7hua) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log](https://open.spotify.com/album/6GQxHAADW2hxsE4HU10REy) | 4:47 | 2024-04-18 |  |
@@ -129,7 +130,7 @@
 | [Khawab Ban Ke Bikharti Jati Hai](https://open.spotify.com/track/3nPez09I43hLdYiNPB2XUO) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 4:29 | 2021-12-01 | 2023-09-15 |
 | [Khuda Ke Waste Ab](https://open.spotify.com/track/7zvbCWWFsWVn3pU0LqjOF1) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 7:37 | 2021-12-01 | 2023-08-31 |
 | [Khudaayaa](https://open.spotify.com/track/1a6DsCiooKH1PLKP6eDOAE) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Khudaayaa](https://open.spotify.com/album/4bATha5n5JjVwlrxxt5sbZ) | 4:56 | 2023-08-24 | 2025-10-12 |
-| [Khushboo](https://open.spotify.com/track/2yTSnWOv0fLaXjH0BLtdQz) | [Amrita Cheterjee](https://open.spotify.com/artist/1h7mW0hmhzANusaBDgqWWf) | [Khushboo](https://open.spotify.com/album/0XkXzOghdGb03O5F8KQz3j) | 4:38 | 2026-01-22 |  |
+| [Khushboo](https://open.spotify.com/track/2yTSnWOv0fLaXjH0BLtdQz) | [Amrita Cheterjee](https://open.spotify.com/artist/1h7mW0hmhzANusaBDgqWWf) | [Khushboo](https://open.spotify.com/album/0XkXzOghdGb03O5F8KQz3j) | 4:38 | 2026-01-22 | 2026-02-26 |
 | [Koi Umeed](https://open.spotify.com/track/1rWlMfkwDrDbUbtJrvyJYW) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Koi Umeed](https://open.spotify.com/album/5YQT8LdcOc0smqplylj0jD) | 5:28 | 2023-06-30 |  |
 | [Koi Yeh Kaise Bataye](https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 3:17 | 2021-12-01 | 2023-05-16 |
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/4BO6XJ59xrkHMoqjHqedvs) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:23 | 2023-09-14 | 2024-04-19 |

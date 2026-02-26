@@ -1,6 +1,6 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 249422,
+  "num_followers": 249502,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
@@ -139,38 +139,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -191,6 +159,38 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Antonio Aguilar Con Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 188395,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Cruz De Madera",
         "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 181640,
       "name": "Sonora Y Sus Ojos Negros",
       "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 158400,
       "name": "Te Solt\u00e9 la Rienda",
       "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "La Gitanilla",
-      "url": "https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 137120,
       "name": "En el \u00daltimo Trago",
       "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "La Gitanilla",
+      "url": "https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "De Parranda Con La Banda",
         "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
         }
       ],
-      "duration_ms": 129400,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Nuestra Historia",
         "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Los A\u00f1os Viejos",
-        "url": "https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Los A\u00f1os Viejos",
-      "url": "https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
         "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 168626,
       "name": "Pena Tras Pena",
       "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Los A\u00f1os Viejos",
+        "url": "https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Los A\u00f1os Viejos",
+      "url": "https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 160392,
       "name": "Que Chulos Ojos",
       "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 210279,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 169640,
       "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
       "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
+      },
+      "artists": [
+        {
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+        }
+      ],
+      "duration_ms": 210279,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitos 15",
-        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Castro",
-          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "La Tercera Carta",
-      "url": "https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "\u00c9xitos Rancheros",
         "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 174753,
       "name": "Qu\u00e9 Sacrificio",
       "url": "https://open.spotify.com/track/26D9pIB44gEJVfWl5Eytp3"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "15 \u00c9xitos 15",
+        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Castro",
+          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "La Tercera Carta",
+      "url": "https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "16 Exitos de los Hermanos Zaizar",
-        "url": "https://open.spotify.com/album/1n9DnpRlC0dB6Fhr70DaGO"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Zaizar",
-          "url": "https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo"
-        }
-      ],
-      "duration_ms": 166653,
-      "name": "El venadito",
-      "url": "https://open.spotify.com/track/6QwLrOSaZXZO7NgE1MhdR2"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Boleros Rancheros - Feria Mexicana",
         "url": "https://open.spotify.com/album/1uUbHmJrPsN8nSXwNkjzMa"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 230626,
       "name": "Tu Sigues Siendo El Mismo",
       "url": "https://open.spotify.com/track/3EAoVI4vLl3FanZ6ivOkWa"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "16 Exitos de los Hermanos Zaizar",
+        "url": "https://open.spotify.com/album/1n9DnpRlC0dB6Fhr70DaGO"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Zaizar",
+          "url": "https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo"
+        }
+      ],
+      "duration_ms": 166653,
+      "name": "El venadito",
+      "url": "https://open.spotify.com/track/6QwLrOSaZXZO7NgE1MhdR2"
     },
     {
       "added_at": "2024-07-11 01:00:12",

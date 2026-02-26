@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,714 likes - 150 songs - 9 hr 35 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,714 likes - 153 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 148 | [All Night Long](https://open.spotify.com/track/6MaZOeeOYizaXQMHJ4odyR) | [Katarina & Her Poor Fellas](https://open.spotify.com/artist/5Wj6JuGomnb8EWEma2yWoU) | [All Night Long](https://open.spotify.com/album/6HMXhjubwIBkJUV9YZxD2H) | 2:43 |
 | 149 | [Hours after midnight](https://open.spotify.com/track/2KXMKguLfPaOBmMHHGQArX) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 5:44 |
 | 150 | [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 |
+| 151 | [Parar respirar pensar y actuar](https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Parar respirar pensar y actuar](https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ) | 5:00 |
+| 152 | [Maldito Antro](https://open.spotify.com/track/78KBfIKs7GKPRPv4j35xyX) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Maldito Antro](https://open.spotify.com/album/0ehJgzhkbrUz1EBt13KaV4) | 3:31 |
+| 153 | [One of the Reasons](https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [One of the Reasons](https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB) | 2:40 |
 
-Snapshot ID: `AAAKqDwL1gDvCDrhD9+AugCncvgZjl8S`
+Snapshot ID: `AAAKq/uvMcPwHFU8K8n8kOWx6KHKnkjX`

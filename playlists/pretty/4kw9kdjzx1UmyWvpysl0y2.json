@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124283,
+  "num_followers": 124279,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVJ5MVU19zFp9os+tNO+e/uhwP7jEF",
+  "snapshot_id": "AAAVKCnrAFSXyWe2hQmQQOO0zQ6KwcBk",
   "tracks": [
+    {
+      "added_at": "2026-02-25 15:52:47",
+      "album": {
+        "name": "WILL YOU MOVE",
+        "url": "https://open.spotify.com/album/42inKpy3qJ7Z74LbnPzcnF"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "WILL YOU MOVE",
+      "url": "https://open.spotify.com/track/7Lg1jpTtyIkFBc3YVp22sm"
+    },
     {
       "added_at": "2026-02-24 15:32:27",
       "album": {

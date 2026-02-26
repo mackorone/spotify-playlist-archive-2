@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-930 songs - 1 day 20 hr 57 min
+931 songs - 1 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Away](https://open.spotify.com/track/7vp8JafiMNyGSNH4vrHogz) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Away](https://open.spotify.com/album/38zn2ovgLlxDXUPknFLiAB) | 3:05 | 2025-09-05 | 2025-10-30 |
 | [AWAY](https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [AWAY](https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc) | 2:31 | 2026-02-13 |  |
 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 | 2024-04-26 | 2024-05-17 |
+| [Awilo](https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj) | [Patomant](https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5) | [Awilo](https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS) | 2:43 | 2026-02-20 |  |
 | [Ayaya](https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Showboy](https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1) | 2:21 | 2025-08-15 | 2025-10-26 |
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2024-11-22 | 2025-05-11 |
 | [B.O.A \(Based On Analysis\)](https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [B.O.A \(Based On Analysis\)](https://open.spotify.com/album/5otlaiucF8ysHx3fyjsXc9) | 2:52 | 2022-10-13 | 2022-10-22 |
@@ -113,7 +114,7 @@
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-20 | 2023-08-18 |
 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 | 2025-03-07 | 2025-07-02 |
 | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt) | 2:54 | 2025-07-04 | 2025-10-04 |
-| [Best Whine](https://open.spotify.com/track/5yR8rJt2YTqaKGO7ADZboE) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Call My Name / Best Whine](https://open.spotify.com/album/71tDHMZDhF8qjCfXtZYyK1) | 2:50 | 2025-10-24 |  |
+| [Best Whine](https://open.spotify.com/track/5yR8rJt2YTqaKGO7ADZboE) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Call My Name / Best Whine](https://open.spotify.com/album/71tDHMZDhF8qjCfXtZYyK1) | 2:50 | 2025-10-24 | 2026-02-26 |
 | [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-17 | 2023-04-17 |
 | [Bibanke](https://open.spotify.com/track/3GgYYPUOIwd1uMBvfv5bNW) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ASA \(Asha\) \[Deluxe Edition\]](https://open.spotify.com/album/6jJE2t5ZfWq3I7n5KhF89d) | 4:15 | 2024-02-13 | 2024-02-16 |
 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-03 | 2024-02-09 |

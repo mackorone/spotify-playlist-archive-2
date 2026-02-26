@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,284 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,298 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 36 | [Folhas Secas](https://open.spotify.com/track/3xjW13hgLwBdfPh0wEOPtD) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 2:13 |
 | 37 | [Papo Final](https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Papo Final](https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ) | 2:33 |
 | 38 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
-| 39 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
-| 40 | [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 |
+| 39 | [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 |
+| 40 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
 | 41 | [Balanço Zona Sul](https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Baterista: Wilson Das Neves](https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ) | 2:14 |
 | 42 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
 | 43 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |

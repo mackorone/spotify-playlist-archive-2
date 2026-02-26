@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(You Make Me Feel Like\) a Natural Woman](https://open.spotify.com/track/5LtrxQp3PyGoArlj3A6e0V) | [Companhia da Música](https://open.spotify.com/artist/0ssB1qf1ATFwpRWDkZZFmr) | [20](https://open.spotify.com/album/6t01iFld3K2PUfxwc6X1bD) | 3:29 | 2023-01-10 |  |
-| [1000](https://open.spotify.com/track/0GvRrODCK9IOLGSTtBpa2e) | [roméo](https://open.spotify.com/artist/1CQPRlAxivMk3J8IMICX4E) | [1000](https://open.spotify.com/album/2PFh9IL2F1pF8LxS8AquAh) | 3:13 | 2025-01-07 |  |
+| [1000](https://open.spotify.com/track/0GvRrODCK9IOLGSTtBpa2e) | [romeo lowercase](https://open.spotify.com/artist/3sQ2cEmJTO9mgmkjSAWptH) | [1000](https://open.spotify.com/album/2PFh9IL2F1pF8LxS8AquAh) | 3:13 | 2025-01-07 |  |
 | [1969](https://open.spotify.com/track/6Qab6S5q4yUxgRdXkZa0xr) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [1969 \(Remastered 2024\)](https://open.spotify.com/album/514Bco4YigBzdv8bAk9kHP) | 3:30 | 2024-12-24 |  |
 | [2do Viaje](https://open.spotify.com/track/25djH1btNHSWHLsbgFBFov) | [El viaje de la vieja](https://open.spotify.com/artist/28CwZaIjKtZ3GSdjt0PDxe) | [2do Viaje](https://open.spotify.com/album/1Kdktvltlmz9s0kF1xZJyA) | 5:54 | 2024-03-01 |  |
 | [4wd](https://open.spotify.com/track/4RANy9uIB9kJ16JB45uRT5) | [Tricia Ann Band](https://open.spotify.com/artist/0yoFOKSX6lL2lPSxPiMpIO) | [Drunk & Found](https://open.spotify.com/album/76448blzoa2GmYMpdK2P78) | 3:46 | 2024-10-25 |  |

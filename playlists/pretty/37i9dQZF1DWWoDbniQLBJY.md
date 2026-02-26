@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,810,581 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,810,347 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 47 | [De Camino](https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 3:26 |
 | 48 | [Volví a Nacer \- Live from Spotify](https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Spotify Sessions](https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i) | 4:18 |
 | 49 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 |
-| 50 | [Nunca Es Suficiente \- Spotify Session](https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:40 |
-| 51 | [EL LOBBY](https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:28 |
+| 50 | [EL LOBBY](https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:28 |
+| 51 | [Nunca Es Suficiente \- Spotify Session](https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:40 |
 | 52 | [SUBEME LA RADIO](https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [SUBEME LA RADIO](https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo) | 3:29 |
 | 53 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 |
 | 54 | [Estoy Aquí \- En Vivo](https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 4:58 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 69 | [X Aquí X Allá \- Acustico](https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5) | [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [X Aquí X Allá \(Acustico\)](https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO) | 3:10 |
 | 70 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 |
 | 71 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 |
-| 72 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
+| 72 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 |
 | 73 | [Dimos Tanto](https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Dimos Tanto](https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo) | 3:09 |
-| 74 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 |
-| 75 | [Amé \- demo original](https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Amé \(demo original\)](https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE) | 3:25 |
-| 76 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
+| 74 | [Amé \- demo original](https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Amé \(demo original\)](https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE) | 3:25 |
+| 75 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
+| 76 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
 | 77 | [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 |
 | 78 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
 | 79 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |

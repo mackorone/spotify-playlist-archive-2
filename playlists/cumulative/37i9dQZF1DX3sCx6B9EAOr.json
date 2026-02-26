@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 177000,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u"
@@ -1914,6 +1914,24 @@
       "duration_ms": 174933,
       "name": "Black Mamba",
       "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
+    },
+    {
+      "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194171,
+      "name": "BLACKHOLE",
+      "url": "https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m"
     },
     {
       "album": {
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 166979,
       "name": "DASH",
       "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
@@ -8076,7 +8094,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 204973,
       "name": "INVU",
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
@@ -9558,7 +9576,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 169000,
       "name": "LOVEPOCALYPSE",
       "url": "https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9"
@@ -9979,6 +9997,24 @@
     },
     {
       "album": {
+        "name": "Mention Me (From The Movie \"GOAT\")",
+        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mention Me - From The Movie \"GOAT\"",
+      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
+    },
+    {
+      "album": {
         "name": "MEOW",
         "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
       },
@@ -10160,7 +10196,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 170653,
       "name": "Mono (Feat. skaiwater)",
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
@@ -12493,6 +12529,24 @@
     },
     {
       "album": {
+        "name": "FIRST:DELIVERY",
+        "url": "https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6"
+      },
+      "artists": [
+        {
+          "name": "DAILY:DIRECTION",
+          "url": "https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "ROOMBADOOMBA",
+      "url": "https://open.spotify.com/track/41bu1PGsfhCY8G2RCGJwwb"
+    },
+    {
+      "album": {
         "name": "H1-KEY 1st Mini Album [Rose Blossom]",
         "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
       },
@@ -12544,6 +12598,24 @@
       "duration_ms": 174506,
       "name": "Rover",
       "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {

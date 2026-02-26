@@ -3059,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Failure by Sunshine",
+        "url": "https://open.spotify.com/album/0aJxIdqT8ZpUOgk4dyi3wp"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220773,
+      "name": "Beautiful Failure by Sunshine",
+      "url": "https://open.spotify.com/track/0JMoKncKkhr52FeCmphyfl"
+    },
+    {
+      "album": {
         "name": "Beauty & The Bloc",
         "url": "https://open.spotify.com/album/2GxZMHiMF80Xlh9f7xvIg4"
       },
@@ -33662,7 +33680,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 159251,
       "name": "\u30a2\u30eb\u30d0\u30e0\u306e\u7d42\u308f\u308a\u306b",
       "url": "https://open.spotify.com/track/47gBksZY4KVVI7iT2CflKq"

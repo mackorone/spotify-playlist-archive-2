@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe, Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,587 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,623 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 14 | [Frente a Frente](https://open.spotify.com/track/3KBMyJbu0EcUrfz2uw1L0B) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Frente a Frente](https://open.spotify.com/album/7FAnwy6AapFnMUbJlJ8tap) | 3:00 |
 | 15 | [Hasta La Madre](https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5) | 2:38 |
 | 16 | [Frecuencia](https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:10 |
-| 17 | [Vovió el Dolor](https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:36 |
+| 17 | [Vovió el Dolor](https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:32 |
 | 18 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
 | 19 | [Mal Amor](https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Mal Amor](https://open.spotify.com/album/6ImNw6NsqZ93Wxj2fGoNhV) | 2:41 |
 | 20 | [El Beneficio De La Duda](https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Beneficio De La Duda](https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6) | 4:05 |

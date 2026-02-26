@@ -4,7 +4,7 @@
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: AuZTIN
 
-4,165 songs - 10 day 3 hr 28 min
+4,166 songs - 10 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2908,6 +2908,7 @@
 | [有一種苦澀叫做假裝快樂](https://open.spotify.com/track/5TKdKTMGRIn7YeEJUuS43n) | [Ryan 陳治瑋](https://open.spotify.com/artist/4KL1SknOJRz46lfYy7zFR5) | [有一種苦澀叫做假裝快樂](https://open.spotify.com/album/0PAysCl5OG1Ulb7I2YSHeU) | 5:09 | 2025-11-27 | 2025-12-05 |
 | [有一說一](https://open.spotify.com/track/5wBql3eTlpyzUVW0aabDe1) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [有一說一](https://open.spotify.com/album/6cNeVEXXvFCDMVS9LZ5Dnw) | 4:07 | 2024-12-19 | 2025-01-10 |
 | [有些事想告訴你](https://open.spotify.com/track/01gue2AcxYrnoexXFnVz64) | [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau) | [有些事想告訴你](https://open.spotify.com/album/3Lcv5NrRq7FdwwgRaM3g7D) | 3:00 | 2025-04-17 | 2025-05-30 |
+| [有些話來不及說](https://open.spotify.com/track/67Gn0Uci4sdJ33OIfmMyf2) | [吳是閎](https://open.spotify.com/artist/1gjgosK4xDv4S0zGOgcKhH) | [有些話來不及說](https://open.spotify.com/album/2pSDQUKx2QNc6kCwjAoFa5) | 5:49 | 2026-02-19 |  |
 | [有人在等](https://open.spotify.com/track/003Y8j9gLiFrzhj3MmsEjT) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [有人在等](https://open.spotify.com/album/6dxxGhhBB4NfWgDe4wgAm5) | 4:59 | 2025-11-06 | 2025-11-28 |
 | [有光的地方就有愛!!! \(rock version\)](https://open.spotify.com/track/2OG24TTdbgITsoLJ19DXwE) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [NTFS](https://open.spotify.com/album/0xW5tuGhKc9IfCjPCyMLDn) | 3:15 | 2024-10-03 | 2024-10-11 |
 | [有啥人知](https://open.spotify.com/track/6CIx3PLuHXOL38nXHKpF6P) | [等阮返來](https://open.spotify.com/artist/6DLPxEADoEMsAqLxGnp7XO) | [有啥人知](https://open.spotify.com/album/3pgteXWyy1j7tVfHNTNKPI) | 4:08 | 2024-08-15 | 2024-09-06 |

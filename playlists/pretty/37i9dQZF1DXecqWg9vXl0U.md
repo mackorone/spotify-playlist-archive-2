@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,260 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,269 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 62 | [Frágilmente](https://open.spotify.com/track/501PDMrVTyjxwJMPWItWK9) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Frágilmente](https://open.spotify.com/album/3Rl6qflmwxWIe8jtXN5zl1) | 3:37 |
 | 63 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [los pies](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
 | 64 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 |
-| 65 | [Número Uno](https://open.spotify.com/track/00N4vBEKB9txG2InXMscNu) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Radio Kono](https://open.spotify.com/album/0y4mMWuvF0LJM8CISh7Rlo) | 3:36 |
-| 66 | [Lunares](https://open.spotify.com/track/63Fe3WnLMYTswqCLlobKNJ) | [Paleta Pastel](https://open.spotify.com/artist/2jcmSSQQqVvAytNPnJtsEX) | [N T P M](https://open.spotify.com/album/7vYRJ18QunDuoEzF2pDbhe) | 3:20 |
+| 65 | [Lunares](https://open.spotify.com/track/63Fe3WnLMYTswqCLlobKNJ) | [Paleta Pastel](https://open.spotify.com/artist/2jcmSSQQqVvAytNPnJtsEX) | [N T P M](https://open.spotify.com/album/7vYRJ18QunDuoEzF2pDbhe) | 3:20 |
+| 66 | [Número Uno](https://open.spotify.com/track/00N4vBEKB9txG2InXMscNu) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Radio Kono](https://open.spotify.com/album/0y4mMWuvF0LJM8CISh7Rlo) | 3:36 |
 | 67 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 |
-| 68 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
-| 69 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
+| 68 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
+| 69 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
 | 70 | [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 |
-| 71 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
-| 72 | [Horas Sin Dormir](https://open.spotify.com/track/3RmAeEq33kS5ZmVEvltSxn) | [Mi Personaje Favorito](https://open.spotify.com/artist/7AtFWgyB5RHfG7ytVrjelf), [Bacbruce](https://open.spotify.com/artist/4ZZWSne8JPSNNU8Ehk0vyS) | [Horas Sin Dormir](https://open.spotify.com/album/0JLhIyDxEvfhJv3HycpGpv) | 3:26 |
+| 71 | [Horas Sin Dormir](https://open.spotify.com/track/3RmAeEq33kS5ZmVEvltSxn) | [Mi Personaje Favorito](https://open.spotify.com/artist/7AtFWgyB5RHfG7ytVrjelf), [Bacbruce](https://open.spotify.com/artist/4ZZWSne8JPSNNU8Ehk0vyS) | [Horas Sin Dormir](https://open.spotify.com/album/0JLhIyDxEvfhJv3HycpGpv) | 3:26 |
+| 72 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
 | 73 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 74 | [SKB](https://open.spotify.com/track/6IoYualM1IWe59G70nc9nK) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Despierta](https://open.spotify.com/album/43hFx68RPmU3Am7UqyaEr1) | 3:38 |
 | 75 | [Amanecer](https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amanecer](https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB) | 4:25 |

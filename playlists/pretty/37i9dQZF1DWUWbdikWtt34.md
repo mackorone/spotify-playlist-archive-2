@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Eby, Zahra Sima
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,877 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,935 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

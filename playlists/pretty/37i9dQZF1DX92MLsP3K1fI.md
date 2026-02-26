@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Jotdog en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,107 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,105 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 14 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
 | 15 | [lovebombing?](https://open.spotify.com/track/6m9e1J4922x6mLh2ihTKEi) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [lovebombing? \- vicio](https://open.spotify.com/album/37Icwni7rDsZMat2MLWvmC) | 2:44 |
 | 16 | [NOTYPE \(feat\. Angely2k\) \- Remix](https://open.spotify.com/track/5ER0JA9dl4vq8rj0zYsTNp) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [NOTYPE \(feat\. Angely2k\) \[Remix\]](https://open.spotify.com/album/1PhC7c3yvUy2fV7t7vzBDI) | 2:42 |
-| 17 | [Vuelvo A Ti](https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ya Es Mañana](https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO) | 3:06 |
-| 18 | [Otra Vez \(One More Time\)](https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(One More Time\)](https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM) | 3:13 |
+| 17 | [Otra Vez \(One More Time\)](https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(One More Time\)](https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM) | 3:13 |
+| 18 | [Vuelvo A Ti](https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ya Es Mañana](https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO) | 3:06 |
 | 19 | [0%](https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [0%](https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ) | 2:53 |
 | 20 | [samaná](https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [samaná](https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR) | 2:40 |
 | 21 | [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 26 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
 | 27 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
 | 28 | [Luna](https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Luna](https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2) | 2:52 |
-| 29 | [no me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [no me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 |
-| 30 | [ROCKSTAR](https://open.spotify.com/track/2cmtrnmQcChmE0Pb4cmO0L) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [ROCKSTAR](https://open.spotify.com/album/6xyH09P7UC4GHU82vCFFCe) | 2:32 |
+| 29 | [ROCKSTAR](https://open.spotify.com/track/2cmtrnmQcChmE0Pb4cmO0L) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [ROCKSTAR](https://open.spotify.com/album/6xyH09P7UC4GHU82vCFFCe) | 2:32 |
+| 30 | [no me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [no me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 |
 | 31 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 32 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
 | 33 | [Chance](https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Chance](https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 136 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 136 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 36 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/5UDfXflfkq6Zp9q0HqCo9S) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 4:06 |
 | 37 | [On My Way \- Rain or Shine Remix](https://open.spotify.com/track/2z1QmtOJ2qC0XtVL8mMrf7) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/6XBNZbBJp0V0w2y9VAXR2n) | 4:00 |
 | 38 | [Body Language](https://open.spotify.com/track/2WeCFWSiGDlGHmksFpLyLs) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:44 |
-| 39 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/7Kkmzdy1hw29Gs6WMUGVhe), [UPSAHL](https://open.spotify.com/artist/59cH1U6jOnP1grnuo5XKjn) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 |
-| 40 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 |
+| 39 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 |
+| 40 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/7Kkmzdy1hw29Gs6WMUGVhe), [UPSAHL](https://open.spotify.com/artist/59cH1U6jOnP1grnuo5XKjn) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 |
 | 41 | [DNCR](https://open.spotify.com/track/1DUpt1ClyNZj3EbBjFtgCD) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:07 |
 | 42 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OSTEKKE](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 |
 | 43 | [Masochistic](https://open.spotify.com/track/43jcYOGtdpeEWjfiH1HP8w) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Masochistic](https://open.spotify.com/album/0zvq9DXtDBvBO37aazJGGZ) | 2:40 |
-| 44 | [My Birthday](https://open.spotify.com/track/4fO2KD344M4IeTiroNFH3v) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [My Birthday](https://open.spotify.com/album/12RwDvWCBgdUztmQlP6UU1) | 2:16 |
-| 45 | [Midnight Special](https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:47 |
+| 44 | [Midnight Special](https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:47 |
+| 45 | [My Birthday](https://open.spotify.com/track/4fO2KD344M4IeTiroNFH3v) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [My Birthday](https://open.spotify.com/album/12RwDvWCBgdUztmQlP6UU1) | 2:16 |
 | 46 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 |
 | 47 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 |
 | 48 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 135 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 136 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcKjygAAAAA3+4NcPkoypXrhiGWdysEv`
+Snapshot ID: `AcKpagAAAABfDQ5w8sdrUcTpYF/7vZZ3`

@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Will Swinton
 
-1,029 songs - 2 day 8 hr 39 min
+1,030 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [I Lost a Friend](https://open.spotify.com/track/5v1sPD1lu2wiPzi07tW8zm) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:57 | 2022-09-16 | 2023-04-01 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-08 | 2022-10-28 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-28 | 2024-04-19 |
+| [I love being sad](https://open.spotify.com/track/5Mcj19iLQqbwAf1uun8Td7) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I love being sad](https://open.spotify.com/album/2iAOojxL36gOF93qPbn36B) | 2:35 | 2026-02-20 |  |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-12-17 | 2022-10-01 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-07-19 |  |
 | [I MISS MY FRIEND](https://open.spotify.com/track/4rMgccSZbFOTaY4pC5hBuQ) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [I MISS MY FRIEND](https://open.spotify.com/album/569qmMiN3cnCv3DdwVnbUn) | 4:14 | 2025-08-22 | 2026-01-24 |
@@ -797,7 +798,7 @@
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-03-25 | 2025-07-19 |
 | [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 | 2023-03-10 | 2023-05-27 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-21 |
-| [Sixteen](https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Sixteen](https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V) | 3:28 | 2026-01-09 |  |
+| [Sixteen](https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Sixteen](https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V) | 3:28 | 2026-01-09 | 2026-02-26 |
 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 | 2022-12-02 | 2023-01-06 |
 | [Skinny Dipping \- Acoustic](https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping \(Acoustic\)](https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK) | 3:12 | 2021-12-17 | 2022-01-22 |
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2024-08-12 |  |

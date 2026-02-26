@@ -4,7 +4,7 @@
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-131 songs - 12 hr 42 min
+132 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Por Amor](https://open.spotify.com/track/6c4jNSDWZ0zIlbShrBuVQN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 5:37 | 2024-06-09 | 2024-07-08 |
 | [Por la Eternidad](https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO) | 4:26 | 2026-01-15 |  |
 | [Por la Eternidad](https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:26 | 2022-09-14 | 2025-08-23 |
+| [Promesas No Fallarán \(En Vivo\)](https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 5:05 | 2026-02-26 |  |
 | [Que Se Abra el Cielo](https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 7:25 | 2024-04-28 |  |
 | [Qué Se Abra El Cielo](https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 7:25 | 2022-09-14 | 2024-04-28 |
 | [Redención \(Redenção\)](https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:33 | 2022-09-14 | 2025-05-10 |
@@ -107,7 +108,7 @@
 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/3zZVyvL9DGymP5ICt9bmsf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:02 | 2024-05-01 | 2024-08-27 |
 | [Santo Espíritu Ven](https://open.spotify.com/track/3fYObqxhWuisJBUoCS5Hos) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 6:18 | 2022-09-24 | 2022-10-01 |
 | [Santo Santo](https://open.spotify.com/track/55qIgMQbhzYK8RF52K8dy3) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 4:09 | 2022-09-14 | 2022-10-13 |
-| [Seguirte](https://open.spotify.com/track/0uePpsPVMmMPyvTmGrnFAn) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:09 | 2026-01-15 |  |
+| [Seguirte](https://open.spotify.com/track/0uePpsPVMmMPyvTmGrnFAn) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:09 | 2026-01-15 | 2026-02-26 |
 | [Seguirte](https://open.spotify.com/track/6X2bymkSxVkhegf4Ozhz0k) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:38 | 2022-09-14 | 2024-09-06 |
 | [Seguirte](https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:38 | 2025-08-23 |  |
 | [Selah](https://open.spotify.com/track/5geEugjHtTKRw8zA2c9A2G) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ages En Español](https://open.spotify.com/album/1Lk3caIw9SNwPD8MYbUxKV) | 3:56 | 2022-10-12 | 2023-05-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,891 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,934 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 32 | [There Goes Another Love Song](https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [The Outlaws](https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp) | 3:04 |
 | 33 | [Battleship Chains](https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 2:57 |
 | 34 | [The South's Gonna Do It Again](https://open.spotify.com/track/7HRqpMkcCVVhmKme8bScvl) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:57 |
-| 35 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
-| 36 | [Champagne Jam](https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 4:33 |
+| 35 | [Champagne Jam](https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 4:33 |
+| 36 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
 | 37 | [Don't Misunderstand Me](https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU) | [Rossington Collins Band](https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi) | [20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band](https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH) | 3:56 |
 | 38 | [Pretty Little Lie](https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:34 |
 | 39 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 83 | [Don't Know Where I'm Bound](https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ) | [Ghost Riders](https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug) | [Back to Rock](https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7) | 4:07 |
 | 84 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
 | 85 | [Can't You See](https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:05 |
-| 86 | [Ramblin' Man](https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Deluxe Edition\)](https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj) | 4:48 |
+| 86 | [Midnight Rider](https://open.spotify.com/track/1hUe1XOcM5iXaWG6NRtLzG) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/37oy7Ti9xfebvoe7KPEGIw) | 3:00 |
 | 87 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
 | 88 | [Keep Your Hands to Yourself](https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Rhino Hi\-Five: The Georgia Satellites](https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS) | 3:25 |
 | 89 | [Soulshine](https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR) | 7:47 |
 | 90 | [Fire on the Mountain](https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Searchin' for a Rainbow](https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS) | 3:56 |
-| 91 | [Midnight Rider](https://open.spotify.com/track/1hUe1XOcM5iXaWG6NRtLzG) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/37oy7Ti9xfebvoe7KPEGIw) | 3:00 |
+| 91 | [Ramblin' Man](https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Deluxe Edition\)](https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj) | 4:48 |
 | 92 | [Shake 'Em On Down](https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq) | 4:08 |
 | 93 | [Refried Funky Chicken](https://open.spotify.com/track/1zmoz57QRPXJUJBQOicp0U) | [Dixie Dregs](https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 3:17 |
 | 94 | [Bad Little Doggie](https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 3:43 |

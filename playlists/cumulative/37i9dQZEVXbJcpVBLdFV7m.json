@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 219920,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -3668,10 +3668,28 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
+    },
+    {
+      "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
     },
     {
       "album": {
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -5532,7 +5550,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 310626,
       "name": "Bunce Road Blues (with Future & Tems)",
       "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
@@ -6382,7 +6400,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 276719,
       "name": "Cercel",
       "url": "https://open.spotify.com/track/3riLw7S2O2oGXkJug1pDaX"
@@ -10394,7 +10412,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -13966,7 +13984,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 136744,
       "name": "GO!",
       "url": "https://open.spotify.com/track/1zosr2RSeBC8BavrdLOXpn"
@@ -18750,7 +18768,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
@@ -24164,7 +24182,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -24690,7 +24708,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -24716,6 +24734,28 @@
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/7dnbhF6Ukbr3FnpSPd2yxd"
+    },
+    {
+      "album": {
+        "name": "MY JEALOUSY",
+        "url": "https://open.spotify.com/album/3fsyOktHABDK3dBrjc89NY"
+      },
+      "artists": [
+        {
+          "name": "vivi baby",
+          "url": "https://open.spotify.com/artist/2VEjtfZuEMFeHHc1Zp5L6R"
+        },
+        {
+          "name": "ovg!",
+          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150830,
+      "name": "MY JEALOUSY",
+      "url": "https://open.spotify.com/track/4Rh6Anh8JU6FPI5msHyKW5"
     },
     {
       "album": {
@@ -28492,7 +28532,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 173382,
       "name": "Povoda si ti",
       "url": "https://open.spotify.com/track/7qKTriyjf8zZAJrxL1jb63"
@@ -40378,7 +40418,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 148006,
       "name": "WOOPAAA",
       "url": "https://open.spotify.com/track/4wtd8ekJ0ntQADpwLaPOgy"
@@ -45108,7 +45148,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 285000,
       "name": "\u041c\u043e\u044f\u0442\u0430 \u0441\u044a\u043f\u0440\u0443\u0433\u0430",
       "url": "https://open.spotify.com/track/4aDOEt4GrJ364UnsD5urd8"
@@ -45850,7 +45890,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 148031,
       "name": "\u041e\u043b\u0430\u0434\u0443\u0448\u043a\u0438",
       "url": "https://open.spotify.com/track/2Ij62CM1fYWjaosihdqVhW"

@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 58 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
 | 59 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 |
 | 60 | [Home We Choose](https://open.spotify.com/track/0XxwxPxS2oK6Iv0Ge6DwkB) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Hello California](https://open.spotify.com/album/2PnbNBgtDA7VPdIJaHOYV3) | 4:10 |
-| 61 | [Mustang](https://open.spotify.com/track/2De0YSP8u3FhJDFyOpzdmB) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Mustang](https://open.spotify.com/album/1fgR6If4iS7yOoaHs8uoLD) | 2:44 |
-| 62 | [Betting Woman](https://open.spotify.com/track/3WJJ4LAuoDa3pPQwJalsJy) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Betting Woman](https://open.spotify.com/album/5uOUedTIKu0JD0IPARPm0c) | 3:17 |
+| 61 | [Betting Woman](https://open.spotify.com/track/3WJJ4LAuoDa3pPQwJalsJy) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Betting Woman](https://open.spotify.com/album/5uOUedTIKu0JD0IPARPm0c) | 3:17 |
+| 62 | [Mustang](https://open.spotify.com/track/2De0YSP8u3FhJDFyOpzdmB) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Mustang](https://open.spotify.com/album/1fgR6If4iS7yOoaHs8uoLD) | 2:44 |
 | 63 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
 | 64 | [Hennessy in Tennessee](https://open.spotify.com/track/7K4hVTsys69mUpFtk4qR1T) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 2:45 |
 | 65 | [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 91 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 92 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
 | 93 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
-| 94 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
-| 95 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
+| 94 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
+| 95 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
 | 96 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
 | 97 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 98 | [I Love You Now Change \(Acoustic\)](https://open.spotify.com/track/1jTMeE1A6kI1ntG3n8cGTL) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy \(Acoustic\)](https://open.spotify.com/album/2EpLvpfG7SLq36EFWUq7HF) | 3:40 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 126 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 127 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcKjygAAAAC3C8LbhwdISU01vO8RCjTs`
+Snapshot ID: `AcKpagAAAADcGDi7DKq9k+TYSzDnuR9e`

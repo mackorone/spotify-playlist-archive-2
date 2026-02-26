@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Ioulia Karapataki
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,710 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,734 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 46 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 |
 | 47 | [Me 'Geia Sou](https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Me 'Geia Sou](https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l) | 3:42 |
 | 48 | [Simera \- Unplugged](https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Unplugged 2025](https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE) | 3:37 |
-| 49 | [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 |
-| 50 | [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 |
+| 49 | [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 |
+| 50 | [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 |
 
 Snapshot ID: `AAAAAKMAL85GRtFmbFy6G4USmMzgSQ/u`

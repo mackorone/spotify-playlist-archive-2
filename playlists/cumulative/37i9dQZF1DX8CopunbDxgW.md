@@ -4,7 +4,7 @@
 
 > the dare & wet leg? say less 🔥 metropolis is your home for the best indie dance
 
-2,181 songs - 5 day 12 hr 21 min
+2,182 songs - 5 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Dance Machine](https://open.spotify.com/track/3GvWBH9g9FNW1rAmvFFDzR) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Dance Machine](https://open.spotify.com/album/5Gcp9tzpJvXtG0E55i4ZQq) | 3:28 | 2025-11-11 | 2026-01-24 |
 | [Dance on the World](https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dance on the World](https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d) | 3:34 | 2024-11-22 | 2025-02-15 |
 | [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 | 2023-01-29 |
-| [Dance With You](https://open.spotify.com/track/7lkMWvf06hYwUEEzo5FhAd) | [Starwolf](https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV) | [Dance With You](https://open.spotify.com/album/15kmIY902kAjgmCl9YeC4D) | 3:02 | 2026-01-16 |  |
+| [Dance With You](https://open.spotify.com/track/7lkMWvf06hYwUEEzo5FhAd) | [Starwolf](https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV) | [Dance With You](https://open.spotify.com/album/15kmIY902kAjgmCl9YeC4D) | 3:02 | 2026-01-16 | 2026-02-26 |
 | [Dance With You](https://open.spotify.com/track/24ywd2iYsIrfEaHIOCEhm1) | [Togetherness](https://open.spotify.com/artist/32GNunodYuJPL8C1m3XfQW), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Dance With You](https://open.spotify.com/album/1HOKLWsqE0Oq5oACgRCk3T) | 3:10 | 2026-02-20 |  |
 | [dancebaby](https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [dancebaby](https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk) | 2:54 | 2024-08-02 | 2024-09-21 |
 | [DANCER](https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [DANCER](https://open.spotify.com/album/6LhQnJpChveHTCsvuARF8s) | 3:45 | 2024-12-06 | 2025-05-17 |
@@ -943,6 +943,7 @@
 | [I Wanna Try Something New](https://open.spotify.com/track/2zwm83YNwgh9VfLG6gYoUg) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT) | 3:41 | 2023-10-06 | 2023-11-12 |
 | [I Want U](https://open.spotify.com/track/7E0YVjoK2lAyeEtOIpbE9o) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [I Want U](https://open.spotify.com/album/7CREH7PcdwJbWRlpi94CEg) | 4:28 | 2025-11-14 | 2026-01-24 |
 | [I Want You](https://open.spotify.com/track/757Myoc63izEaBWatHbUUs) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [I Want You](https://open.spotify.com/album/5VE3UEUfktGy9CuMOglplR) | 3:55 | 2021-05-14 | 2022-02-02 |
+| [I Wish](https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [I Wish](https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt) | 2:56 | 2026-02-25 |  |
 | [I Won’t Let You Down](https://open.spotify.com/track/2WmcCOU2xeScvCKrpui6EV) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Blackboxx](https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:17 | 2023-10-20 | 2024-02-24 |
 | [I You She](https://open.spotify.com/track/5kppyqAYdcHnGY3W1KdA1J) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE](https://open.spotify.com/album/7tBQBS0T6plojk62SkKyvm) | 3:16 | 2021-12-03 | 2022-02-02 |
 | [I'll Be Loving You](https://open.spotify.com/track/7pJSIDOEUlk7yrZTylZ6RR) | [Revelle27](https://open.spotify.com/artist/3MtB9LTUuqKNrlIx4n7wG5) | [REVELATIONS](https://open.spotify.com/album/0uAiJ98cPhGiZxEHy9yBvs) | 4:03 | 2025-10-03 | 2025-12-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 148369,
+  "num_followers": 148379,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABkyZsDFBtcZkNJf1sbdARN",
+  "snapshot_id": "aZzqAAAAAADV4XvGJ/Vqn/JU676P8fyW",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185241,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/5WKpVLOkxbyj4fQk3P6BkF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Billie Holiday On Verve 1945 - 1959",
         "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday Love Songs",
-        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "Billie Holiday Love Songs",
+        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
+      "duration_ms": 181333,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "Fine And Mellow",
-      "url": "https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lady Sings",
         "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
       },
@@ -415,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
       "artists": [
         {
@@ -424,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
+      "duration_ms": 196346,
+      "name": "Fine And Mellow",
+      "url": "https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA"
     },
     {
       "added_at": null,
@@ -480,7 +464,7 @@
       "added_at": null,
       "album": {
         "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5"
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 255681,
-      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
-      "url": "https://open.spotify.com/track/2b27XKoKxVf2OpoSPnJilL"
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": null,
@@ -543,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 169466,
-      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
-      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
+      "duration_ms": 255681,
+      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
+      "url": "https://open.spotify.com/track/2b27XKoKxVf2OpoSPnJilL"
     },
     {
       "added_at": null,
@@ -579,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Distingu\u00e9 Lovers",
-        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 333200,
-      "name": "Just One Of Those Things - Take 8 - Master Take",
-      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+      "duration_ms": 169466,
+      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
+      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
     },
     {
       "added_at": null,
@@ -607,6 +591,42 @@
       "duration_ms": 195786,
       "name": "Lover, Come Back To Me",
       "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 333200,
+      "name": "Just One Of Those Things - Take 8 - Master Take",
+      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "John Simmons & His Orchestra",
+          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
     },
     {
       "added_at": null,
@@ -663,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "John Simmons & His Orchestra",
-          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lady Sings",
         "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 190733,
       "name": "God Bless The Child",
       "url": "https://open.spotify.com/track/2xtC6kb6H26qVX4ZdncS7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Billy Kyle and His Trio",
+          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "Baby, I Don't Cry Over You",
+      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     },
     {
       "added_at": null,
@@ -731,26 +751,6 @@
       "duration_ms": 165933,
       "name": "No More",
       "url": "https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Billy Kyle and His Trio",
-          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Baby, I Don't Cry Over You",
-      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: sumika
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,819 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,836 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 12 | [Caravan](https://open.spotify.com/track/1qIqdSf6s2iSe4gFmQOJ5V) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Caravan](https://open.spotify.com/album/66SrqD24mU58LGnRqer2f8) | 3:51 |
 | 13 | [三日月](https://open.spotify.com/track/2OySFMcSp7sQme28OZrm0B) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [希望の匂い](https://open.spotify.com/album/0nuQNH81AYkyvXharmEYzN) | 3:44 |
 | 14 | [Burn Blue](https://open.spotify.com/track/0Rmx3tkmt8yUKUChqqN7sE) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Burn Blue](https://open.spotify.com/album/0MAn83CLRZiQw6ckGEQLlB) | 3:01 |
-| 15 | [Again](https://open.spotify.com/track/242tGHok7sRTVjCaTS0FoH) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Again](https://open.spotify.com/album/2eVWTwfon3c4YKWufrOLeX) | 4:53 |
+| 15 | [Again](https://open.spotify.com/track/242tGHok7sRTVjCaTS0FoH) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Again](https://open.spotify.com/album/2eVWTwfon3c4YKWufrOLeX) | 4:54 |
 | 16 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
 | 17 | [Vivarium](https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Vivarium](https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML) | 4:03 |
 | 18 | [シンギュラリティ](https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [シンギュラリティ](https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ) | 4:08 |

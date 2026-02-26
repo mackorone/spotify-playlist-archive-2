@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 37310,
+  "num_followers": 37314,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAmpdeFHdaqy0DIOvjv+LVh",
+  "snapshot_id": "aZzqAAAAAACmVwTS8G77ISi7Nlt3irUl",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
+        "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/2d4LDtwEGTDLP8PrYhDo2P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock Que Se Comparte",
         "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
@@ -655,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
+        "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Pacheco Blues",
+          "url": "https://open.spotify.com/artist/4gvTLC38QLmVDteNnW968V"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Barata y Descont\u00f3n",
+      "url": "https://open.spotify.com/track/0jsGTzBhJa3NODssNxOUK5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
         "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
@@ -783,46 +823,6 @@
       "duration_ms": 263640,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trenes y Gatos",
-        "url": "https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos Rockabilly",
-          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
-        },
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 185237,
-      "name": "Trenes y Gatos",
-      "url": "https://open.spotify.com/track/73mBTnRE0oejrVRVcFL3sB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/6CU4rWaqP6Jr2rAw3PanKm"
-      },
-      "artists": [
-        {
-          "name": "Kerigma",
-          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
-        },
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/1yk2zZ5imHnK1pCSsjVId4"
     }
   ],
   "unique_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",

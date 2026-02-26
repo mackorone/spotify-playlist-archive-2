@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 757196,
+  "num_followers": 757300,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 168040,
       "name": "To Be Alone With You",
       "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "substack girl",
-        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "substack girl",
-      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Lady's Bridge",
         "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
       },
@@ -1047,22 +1031,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G"
+        "name": "substack girl",
+        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
       },
       "artists": [
         {
-          "name": "Mystery Jets",
-          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
-        },
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Young Love (feat. Laura Marling)",
-      "url": "https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY"
+      "duration_ms": 160000,
+      "name": "substack girl",
+      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1083,18 +1063,22 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+      "duration_ms": 202293,
+      "name": "Young Love (feat. Laura Marling)",
+      "url": "https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1127,6 +1111,22 @@
       "duration_ms": 247986,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/5jBmL2z0L4xQyXNs5Sqari"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Feeding Seahorses by Hand",
-        "url": "https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo"
+        "name": "Summerteeth",
+        "url": "https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 283393,
-      "name": "She Dances",
-      "url": "https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT"
+      "duration_ms": 259800,
+      "name": "A Shot in the Arm",
+      "url": "https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk"
     }
   ],
   "unique_name": "Indie Love Songs",

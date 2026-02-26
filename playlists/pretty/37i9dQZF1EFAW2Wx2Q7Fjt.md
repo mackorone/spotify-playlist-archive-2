@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,260 likes - 226 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,264 likes - 226 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,10 +180,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 170 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 |
 | 171 | [Tension](https://open.spotify.com/track/3CAgSnSpMCLcK20JodIKfE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 4:09 |
 | 172 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
-| 173 | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3XWD5ErRMHC6ssFJ0pXWOE) | 3:40 |
-| 174 | [One Big Party](https://open.spotify.com/track/4YBYxI7AX3hu5GbVl0lsyB) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [One Big Party](https://open.spotify.com/album/44wj2y403F8BYJZz1RRJ8Y) | 3:38 |
-| 175 | [Good to See You Again!](https://open.spotify.com/track/4Db7K5tN93veftHAi7yCeS) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:14 |
-| 176 | [Stupid](https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:21 |
+| 173 | [Stupid](https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:21 |
+| 174 | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3XWD5ErRMHC6ssFJ0pXWOE) | 3:40 |
+| 175 | [One Big Party](https://open.spotify.com/track/4YBYxI7AX3hu5GbVl0lsyB) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [One Big Party](https://open.spotify.com/album/44wj2y403F8BYJZz1RRJ8Y) | 3:38 |
+| 176 | [Good to See You Again!](https://open.spotify.com/track/4Db7K5tN93veftHAi7yCeS) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:14 |
 | 177 | [If We Were A Party](https://open.spotify.com/track/10jL8CyereIW7EhM0pzsSD) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:35 |
 | 178 | [Proud](https://open.spotify.com/track/23VjNeSfCkgaN3ED7a5gD0) | [Aaron Carpenter](https://open.spotify.com/artist/2Wp9FcGlXcs7kG67oAxYZA) | [Proud](https://open.spotify.com/album/3JDZegIfe6YrhX9M81Ruqh) | 3:22 |
 | 179 | [Next Best Thing](https://open.spotify.com/track/5jh3jmolfAHq9NUpDUcaIO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [BoyWithUke: B Sides](https://open.spotify.com/album/2B533CafltvOHSI34P7SHx) | 2:17 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 225 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 | 226 | [Angry Man](https://open.spotify.com/track/6dfY2Z1gPN58ViAUoaLgus) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Everywhere Isn't Texas](https://open.spotify.com/album/5yFf6i6q4rXBJfB517gIgg) | 3:15 |
 
-Snapshot ID: `AcKjygAAAADdMDM0AqO2Nc2Ch6/Hxkjd`
+Snapshot ID: `AcKpagAAAACifmlcZSToxOBTwHwgH1gO`

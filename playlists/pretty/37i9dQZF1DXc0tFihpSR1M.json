@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 87424,
+  "num_followers": 87415,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
-        "name": "locket",
-        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 222512,
-      "name": "bad enough",
-      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
-    },
-    {
-      "added_at": "2026-02-20 12:39:21",
-      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
+    },
+    {
+      "added_at": "2026-02-20 12:39:21",
+      "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 222512,
+      "name": "bad enough",
+      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
     },
     {
       "added_at": "2026-02-20 12:39:21",
@@ -439,38 +439,6 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
-        "name": "Beat Yourself Up",
-        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 178461,
-      "name": "Beat Yourself Up",
-      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
-    },
-    {
-      "added_at": "2026-02-20 12:39:21",
-      "album": {
-        "name": "d\u00a3aler",
-        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "d\u00a3aler",
-      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
-    },
-    {
-      "added_at": "2026-02-20 12:39:21",
-      "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
       },
@@ -495,18 +463,34 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
-        "name": "Wall of Sound",
-        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 144426,
-      "name": "Wall of Sound",
-      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
+      "duration_ms": 160666,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "added_at": "2026-02-20 12:39:21",
+      "album": {
+        "name": "Beat Yourself Up",
+        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 178461,
+      "name": "Beat Yourself Up",
+      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
     },
     {
       "added_at": "2026-02-20 12:39:21",
@@ -527,18 +511,34 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
+    },
+    {
+      "added_at": "2026-02-20 12:39:21",
+      "album": {
+        "name": "H\u00e5nd i h\u00e5nd",
+        "url": "https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 258270,
+      "name": "H\u00e5nd i h\u00e5nd",
+      "url": "https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ"
     },
     {
       "added_at": "2026-02-20 12:39:21",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
-        "name": "H\u00e5nd i h\u00e5nd",
-        "url": "https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 258270,
-      "name": "H\u00e5nd i h\u00e5nd",
-      "url": "https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ"
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
     },
     {
       "added_at": "2026-02-20 12:39:21",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
+        "name": "SEES IGJEN",
+        "url": "https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD"
+      },
+      "artists": [
+        {
+          "name": "Bargee",
+          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "SEES IGJEN",
+      "url": "https://open.spotify.com/track/6vW1RECrVCKf1WrlOjdmku"
+    },
+    {
+      "added_at": "2026-02-20 12:39:21",
+      "album": {
         "name": "Lommeringe (feat. Emma Steinbakken)",
         "url": "https://open.spotify.com/album/0BPKNoGYFszX7D6whMtZMO"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
-        "name": "SEES IGJEN",
-        "url": "https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD"
-      },
-      "artists": [
-        {
-          "name": "Bargee",
-          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "SEES IGJEN",
-      "url": "https://open.spotify.com/track/6vW1RECrVCKf1WrlOjdmku"
-    },
-    {
-      "added_at": "2026-02-20 12:39:21",
-      "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
       },
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-02-20 12:39:21",
       "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 185155,
+      "name": "In The Dark - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
+    },
+    {
+      "added_at": "2026-02-20 12:39:21",
+      "album": {
         "name": "Under v\u00e5re laken",
         "url": "https://open.spotify.com/album/5yODFEPfLq1PmKRuNwyAQ3"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 237212,
       "name": "Under v\u00e5re laken",
       "url": "https://open.spotify.com/track/4sMY1lEwenHvbSuE8HkTQM"
-    },
-    {
-      "added_at": "2026-02-20 12:39:21",
-      "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 185155,
-      "name": "In The Dark - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
     },
     {
       "added_at": "2026-02-20 12:39:21",

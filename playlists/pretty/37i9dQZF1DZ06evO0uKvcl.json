@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31027,
+  "num_followers": 31028,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACvvUIus+OjrWtM/FTaOyya",
+  "snapshot_id": "aZzqAAAAAAASdo8FcuHaF7bKgIQOdxfU",
   "tracks": [
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf Greatest Songs",
-        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 191194,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
+      "duration_ms": 161760,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message To The Young",
-        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 161760,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+      "duration_ms": 191194,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,

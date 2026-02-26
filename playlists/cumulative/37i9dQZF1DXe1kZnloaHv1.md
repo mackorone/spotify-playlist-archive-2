@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-128 songs - 6 hr 53 min
+131 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 | 2023-11-09 |  |
 | [Backstage Story](https://open.spotify.com/track/3bLybaAVj2CSDUWMiHykEa) | [오상아](https://open.spotify.com/artist/1J00c4vzJdwmgNAIIjcYQH) | [Backstage Story\(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tWaMl4sj53AGpqTwYnA1u) | 3:18 | 2023-11-09 | 2025-05-08 |
 | [Baep Sae](https://open.spotify.com/track/5bjv9H1rZGZBuR6Rx2DPal) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [It's Okay, Dear](https://open.spotify.com/album/2MoJZKoJwnJh1X9a34usAC) | 3:20 | 2024-04-17 |  |
+| [Bangkok \(Stay Home\)](https://open.spotify.com/track/0miTePN4yFkOnW67MYUY9h) | [BeautyHandsome](https://open.spotify.com/artist/69C6yc1JWyXPkURqtrTuKO) | [Bangkok \(Stay Home\)](https://open.spotify.com/album/2MlNb92GGpOd1K8YoUjBdL) | 4:07 | 2026-02-25 |  |
 | [Bathroom](https://open.spotify.com/track/25JImJVprKvTOZEJnPHJEP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:20 | 2025-11-05 |  |
 | [BDBD](https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [BDBD](https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6) | 2:38 | 2023-11-09 |  |
 | [Beap Sea](https://open.spotify.com/track/5j3LJr4O7RkhBmxCsjwpXZ) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [It's Okay, Dear](https://open.spotify.com/album/5JKIbI8IWlQ5fXddhnT0xE) | 3:20 | 2023-11-09 | 2024-04-19 |
@@ -42,7 +43,8 @@
 | [everything is bothersome](https://open.spotify.com/track/37M5iTQTitE9a9RE909yAJ) | [0415](https://open.spotify.com/artist/49EamolQqzPhub6zY9By4A) | [everything is bothersome](https://open.spotify.com/album/3DNC7ASLsa73bC1oCtwmQh) | 3:40 | 2025-06-25 |  |
 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 | 2023-11-09 |  |
 | [flow](https://open.spotify.com/track/5bxyh1CcujeiaByDCetPO3) | [최영인](https://open.spotify.com/artist/3p61qhWNmHG31V9j8x2M6o) | [Monthly Youthonic, Vol.1](https://open.spotify.com/album/0mgwAirSdWtq4Q7LuzwHSY) | 3:54 | 2025-07-02 |  |
-| [Forever Dumb \(feat\. SAM KIM\)](https://open.spotify.com/track/3V9eMQIX6COtvoRUXLoZe9) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [So!YoON!](https://open.spotify.com/album/07hwLp0d8O69sKwdKqOSdM) | 3:52 | 2023-11-09 |  |
+| [Forever Dumb \(feat\. SAM KIM\)](https://open.spotify.com/track/3V9eMQIX6COtvoRUXLoZe9) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [So!YoON!](https://open.spotify.com/album/07hwLp0d8O69sKwdKqOSdM) | 3:52 | 2023-11-09 | 2026-02-26 |
+| [Friday to Monday](https://open.spotify.com/track/1A9tsKf5PuICz5Q2VuR2SV) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/5BnMtaO5tafYL7EwOMBJoW) | 3:02 | 2026-02-25 |  |
 | [Friday to Monday](https://open.spotify.com/track/4Krv5sqJVJ3jrSP15bC6mU) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/7okamLcUdT1FpqHEW9231G) | 3:02 | 2023-11-09 |  |
 | [Go with the flow](https://open.spotify.com/track/2WlWB81gbLbqyF2NbCngfZ) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:32 | 2023-11-09 | 2024-04-19 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2024-04-17 |  |
@@ -50,7 +52,7 @@
 | [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 | 2025-10-17 |  |
 | [hedgehog](https://open.spotify.com/track/2SxA30by4pd5qe3l51w1C2) | [Gem i](https://open.spotify.com/artist/0y5WRR0mZAba6oEEquKe6p) | [HEDGEHOG](https://open.spotify.com/album/6ufwHevkTE4KoHoPttcsVq) | 3:02 | 2025-07-31 |  |
-| [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 |  |
+| [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 | 2026-02-26 |
 | [Homebody](https://open.spotify.com/track/6N2d5ik13stTUx3aMLuKUH) | [6Allmy Sunshine](https://open.spotify.com/artist/554mb4DkPmrRGhpVz7o0Rr) | [Homebody](https://open.spotify.com/album/0hgcL8aqYqpe2EpWO5YwyF) | 3:44 | 2025-07-02 |  |
 | [Homebody](https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG) | 3:42 | 2025-10-17 |  |
 | [Honbob Song](https://open.spotify.com/track/7cgrqYqcpuVvkRUxoj1Dgw) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Honbob Song](https://open.spotify.com/album/5iszn5kAurpExmM5Ar8IgQ) | 2:50 | 2023-11-09 |  |
@@ -63,7 +65,7 @@
 | [I'm not a hero](https://open.spotify.com/track/6SI9wSxkc9mBoTUWileqsq) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:58 | 2024-04-17 |  |
 | [Idle Idle](https://open.spotify.com/track/1UQwsPOADoGFZJG4niN2dt) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/7qXsLvOkV8q01jNSINeGrb) | 3:38 | 2025-04-08 |  |
 | [Idle Idle \- Piano Trio Version](https://open.spotify.com/track/2gsyaNGEQKNXok1Ngq1IJa) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [As Spring of idle idle passes by](https://open.spotify.com/album/6BpEUqUdjGcjKwz0mFA6VI) | 3:56 | 2026-02-11 |  |
-| [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-11-09 |  |
+| [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-11-09 | 2026-02-26 |
 | [It is what it is...](https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Charming Jo](https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo) | [It is what it is...](https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO) | 2:18 | 2024-09-18 |  |
 | [i’m so tired.\. \(Feat\. THAMA\)](https://open.spotify.com/track/71lXdK0I8qxaeFxsFSDiwc) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 3:05 | 2025-04-16 |  |
 | [Lazy day](https://open.spotify.com/track/2w4sWX5mz9ADxx2a0bc2Qs) | [JT](https://open.spotify.com/artist/6RtyqmDTzSQK9MlwbgQotk) | [From now on](https://open.spotify.com/album/5q8TNWa9F0vi0U12a0ioxV) | 2:46 | 2025-12-08 |  |
@@ -74,6 +76,7 @@
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 | 2025-05-08 |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |
 | [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 | 2024-07-02 |  |
+| [Long Vacation](https://open.spotify.com/track/1ms3YLExi6hghQ4bgZtk2j) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Layer Cake](https://open.spotify.com/album/2fBSAIMEYFbPyejoDDEZwz) | 3:40 | 2026-02-25 |  |
 | [Love and hatred \(feat\. Jae Woo AN\)](https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Love and hatred](https://open.spotify.com/album/3WO6ObA3MkjiGR6TmhUwtM) | 2:34 | 2024-05-09 | 2025-12-09 |
 | [MAGIC](https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAGIC](https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK) | 3:19 | 2024-09-04 |  |
 | [Melting me \(feat\. jeebanoff\)](https://open.spotify.com/track/4WCQkour1ibROVIjZMAHFy) | [GiiANA](https://open.spotify.com/artist/2tlkwgkfFxWSmjFPv9czcN), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Melting Me \(feat\. jeebanoff\)](https://open.spotify.com/album/6bhiH3vAfNmoJquHpK9PWY) | 3:36 | 2025-06-25 |  |

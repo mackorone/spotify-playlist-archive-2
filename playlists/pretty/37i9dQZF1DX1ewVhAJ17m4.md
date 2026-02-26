@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,941 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,963 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 42 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 |
 | 43 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
 | 44 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
-| 45 | [NORTHERN LIGHTS//](https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NORTHERN LIGHTS//](https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43) | 4:40 |
-| 46 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
+| 45 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
+| 46 | [NORTHERN LIGHTS//](https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NORTHERN LIGHTS//](https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43) | 4:40 |
 | 47 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
 | 48 | [cross my heart](https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 1:30 |
 | 49 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 51 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
 | 52 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
 | 53 | [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 |
-| 54 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
-| 55 | [Irreversible](https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Irreversible](https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5) | 3:13 |
+| 54 | [Irreversible](https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Irreversible](https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5) | 3:13 |
+| 55 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
 | 56 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
 | 57 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
 | 58 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 60 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
 | 61 | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB) | 3:33 |
 | 62 | [Dystopia](https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu) | 3:09 |
-| 63 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
-| 64 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
+| 63 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
+| 64 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
 | 65 | [every little thing](https://open.spotify.com/track/5YTjpBWmHCtSDu7tQ4jsf1) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [every little thing](https://open.spotify.com/album/5ZxAdcIzXnwa2peHJh3OFU) | 3:07 |
 | 66 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 67 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 75 | [Sandbox](https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd) | 2:25 |
 | 76 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
 | 77 | [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 |
-| 78 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
-| 79 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
-| 80 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
+| 78 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
+| 79 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
+| 80 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
 
 Snapshot ID: `AAAAAD+piXRSa7/JTrT7fWzN6MR46DeV`

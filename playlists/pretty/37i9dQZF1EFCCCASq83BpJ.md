@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,929 likes - 121 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,927 likes - 121 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 112 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/4TkvdQwcxXxusi8JG6mMj7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [eternal sunshine \(slightly deluxe and also live\)](https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp) | 3:33 |
 | 113 | [someone like u \- interlude](https://open.spotify.com/track/3Os1431WclqyKxWqMzRESE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 1:16 |
 | 114 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
-| 115 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/5jtJjwdyxoL4efUaM3cclm) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 6:25 |
+| 115 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/7c0DlxLjlEEK2VKQJIIU1Z) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 6:25 |
 | 116 | [side to side \- live](https://open.spotify.com/track/1FYLqciy2MckeKgTvOCawO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 4:20 |
 | 117 | [Nobody \(with Chaka Khan\)](https://open.spotify.com/track/3Z63jbwlq0u9IefkvpEj1T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:00 |
 | 118 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 5:34 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 120 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 121 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `AcKjygAAAAArUXZ6oqfR6o6qq7Hi7NOI`
+Snapshot ID: `AcKpagAAAAC1J8RcV+QJnJhOgusBds1s`

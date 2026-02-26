@@ -4635,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/4QjbaySL7cdsca0tBjZJ0w"
+      },
+      "artists": [
+        {
+          "name": "Gabo Rojas",
+          "url": "https://open.spotify.com/artist/5C5sb51jWedqQe24VmHAM9"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3LHWhxRWqCZ1Wcj0QqCusn"
+    },
+    {
+      "album": {
         "name": "Estate Mediterranea",
         "url": "https://open.spotify.com/album/63XIHU4F5Wo3qOCnx9D6RI"
       },
@@ -6171,6 +6189,28 @@
     },
     {
       "album": {
+        "name": "Hellhole",
+        "url": "https://open.spotify.com/album/0RcJDoC0ecOIA1HwRkt0dy"
+      },
+      "artists": [
+        {
+          "name": "ALAN SHIRAHAMA",
+          "url": "https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn"
+        },
+        {
+          "name": "Komb",
+          "url": "https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Hellhole",
+      "url": "https://open.spotify.com/track/5Bq78harN274u7Zg1iQccM"
+    },
+    {
+      "album": {
         "name": "High & Dry",
         "url": "https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh"
       },
@@ -7074,6 +7114,24 @@
       "duration_ms": 153187,
       "name": "Il Pi\u00f9 Stanco",
       "url": "https://open.spotify.com/track/36wbNZ0h0IoGy2osuVNeWI"
+    },
+    {
+      "album": {
+        "name": "ill intended",
+        "url": "https://open.spotify.com/album/2Fp9k5gZSSaIUbWe5PR764"
+      },
+      "artists": [
+        {
+          "name": "GavinDaVinci",
+          "url": "https://open.spotify.com/artist/50XSxBGeYosKWspvCRxfu6"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146265,
+      "name": "ill intended",
+      "url": "https://open.spotify.com/track/0iyb8xWNj6tCsznTDxeMVl"
     },
     {
       "album": {
@@ -14256,6 +14314,24 @@
       "duration_ms": 275794,
       "name": "The Nighthawk Warrior",
       "url": "https://open.spotify.com/track/58dxwwc8PsKK3hjAHNV32t"
+    },
+    {
+      "album": {
+        "name": "The One I Want Beside Me",
+        "url": "https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b"
+      },
+      "artists": [
+        {
+          "name": "Solo el Malo",
+          "url": "https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "The One I Want Beside Me",
+      "url": "https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH"
     },
     {
       "album": {

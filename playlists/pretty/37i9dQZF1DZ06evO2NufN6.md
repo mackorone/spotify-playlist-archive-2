@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,477 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,600 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 28 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
 | 29 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 |
 | 30 | [Soulmate](https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:32 |
-| 31 | [Donald Trump](https://open.spotify.com/track/5yzE4vbZgPGEfUegXl8Qzl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/5udEb3kxbEPnD0TUaswA7N) | 2:44 |
-| 32 | [Someone Like You](https://open.spotify.com/track/4lSSv5nRcv47yLSRj92omI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP) | 4:16 |
+| 31 | [Someone Like You](https://open.spotify.com/track/4lSSv5nRcv47yLSRj92omI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP) | 4:16 |
+| 32 | [Donald Trump](https://open.spotify.com/track/5yzE4vbZgPGEfUegXl8Qzl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/5udEb3kxbEPnD0TUaswA7N) | 2:44 |
 | 33 | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 |
 | 34 | [We \(feat\. CeeLo Green\)](https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:19 |
 | 35 | [Knock Knock](https://open.spotify.com/track/4GbazUiaLPKj2VmCVykw53) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 49 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 |
 | 50 | [The Mourning After](https://open.spotify.com/track/17u8liQfMVc8WKiTzmdbzq) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey) | 3:08 |
 
-Snapshot ID: `aZuYgAAAAABY5NC8S+plcWDeC/Q7xMwL`
+Snapshot ID: `aZzqAAAAAAB5vUiLumwVSYDxIGuo2ISL`

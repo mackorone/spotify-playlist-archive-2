@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > meet mer marcum 🫧
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,816 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,835 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

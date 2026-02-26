@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,674 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,772 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 8 | [En Preparacion](https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:07 |
 | 9 | [Estrategias De Escape](https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG) | 2:27 |
 | 10 | [El Águila Blanca](https://open.spotify.com/track/0crJsMs5FmnMHvQG1itkc0) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 2:20 |
-| 11 | [El Cigarrito Banado](https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 |
+| 11 | [El Cigarrito Bañado](https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 |
 | 12 | [Comando X \(En Vivo\)](https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/3hErWDx15ZpkpDbQGKZYlf) | 4:11 |
 | 13 | [El Mundo Es Tuyo \(En Vivo\)](https://open.spotify.com/track/0N9sBJBig8ToeFflB5KdsB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:07 |
 | 14 | [El Enamorado](https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 2:34 |

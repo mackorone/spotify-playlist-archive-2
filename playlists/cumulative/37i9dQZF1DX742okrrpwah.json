@@ -29569,6 +29569,24 @@
     },
     {
       "album": {
+        "name": "Comme des hy\u00e8nes",
+        "url": "https://open.spotify.com/album/7gyRUNtOcs0LnDlVZRI96P"
+      },
+      "artists": [
+        {
+          "name": "Belfour",
+          "url": "https://open.spotify.com/artist/0Dqz4WMcjzUzvkLOauuMqN"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203740,
+      "name": "Comme des hy\u00e8nes",
+      "url": "https://open.spotify.com/track/3DVvnkok2V9fHs7IJr5glQ"
+    },
+    {
+      "album": {
         "name": "Comme des loups (feat. Zaoui)",
         "url": "https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC"
       },

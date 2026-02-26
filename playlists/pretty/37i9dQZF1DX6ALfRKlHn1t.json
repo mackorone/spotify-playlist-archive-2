@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1146419,
+  "num_followers": 1146397,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Oysters In My Pocket",
-        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Oysters In My Pocket",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 221440,
       "name": "Sick Love",
       "url": "https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Oysters In My Pocket",
+        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Oysters In My Pocket",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "The Runarounds (Prime Video Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 163404,
       "name": "Ghosts (From The Runarounds Original Series)",
       "url": "https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
     },
     {
       "added_at": "2025-10-10 04:00:44",

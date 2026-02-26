@@ -4,7 +4,7 @@
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 9 min
+64 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Heartland](https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:15 | 2025-07-04 |  |
 | [Higher \(with Slightly Stoopid\)](https://open.spotify.com/track/04dXzKIPzrU6sRZai9YuTZ) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:14 | 2025-07-04 | 2025-11-22 |
 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 | 2025-07-04 |  |
-| [In This Love](https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:12 | 2025-07-04 |  |
+| [In This Love](https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:12 | 2025-07-04 | 2026-02-26 |
 | [Just Another Dream](https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:39 | 2025-07-04 |  |
 | [Land of the Midnight Sun](https://open.spotify.com/track/3ctXNf5E5ccLKspyTEIhXX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:38 | 2025-11-17 |  |
 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 | 2025-07-04 |  |
@@ -45,6 +45,7 @@
 | [Natural Mystic](https://open.spotify.com/track/6zRTifE3Ianv6ClqYTIwQC) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Natural Mystic](https://open.spotify.com/album/5xwwqaY5S4blxRznTfrHwe) | 3:15 | 2025-07-04 | 2025-11-08 |
 | [Natural Mystic \(with Stephen Marley\) \- West Palm Beach 2025](https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Natural Mystic \(with Stephen Marley\) \[West Palm Beach 2025\]](https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF) | 3:45 | 2026-02-11 |  |
 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 | 2025-07-04 |  |
+| [Out the Door](https://open.spotify.com/track/6fo3vAnEA8NLICFCzYfVI8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:34 | 2026-02-26 |  |
 | [Paradise](https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:10 | 2025-07-04 |  |
 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 | 2025-07-04 |  |
 | [Rudeboy Riddim](https://open.spotify.com/track/0I6a9PuokMxDn6JrBtoUsg) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:15 | 2025-11-19 | 2025-12-14 |

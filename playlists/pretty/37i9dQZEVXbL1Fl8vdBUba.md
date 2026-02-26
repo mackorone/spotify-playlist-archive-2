@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,285 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,293 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [DIOMEDEZ](https://open.spotify.com/track/6qDTm2QbRSLlSmaUSJE6bF) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [DIOMEDEZ](https://open.spotify.com/album/09RQNQs0rydAfGFXZo53qH) | 3:18 |
 | 50 | [Con el Corazón](https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1) | 3:09 |
 
-Snapshot ID: `MTENGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTJcQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

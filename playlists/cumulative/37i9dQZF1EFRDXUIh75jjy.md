@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-300 songs - 15 hr 22 min
+303 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 | 2024-06-07 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-03 | 2025-09-15 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 | 2025-09-14 |  |
-| [Angry Woman](https://open.spotify.com/track/58s4yfoJnnlH49KC4UeRxY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:33 | 2024-06-07 |  |
+| [Angry Woman](https://open.spotify.com/track/2HwTo8cwpWKDO21rVrgZo0) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:33 | 2026-02-25 |  |
+| [Angry Woman](https://open.spotify.com/track/58s4yfoJnnlH49KC4UeRxY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:33 | 2024-06-07 | 2026-02-26 |
 | [Angry Woman](https://open.spotify.com/track/79DHTTGvJa2qnooWWYMFPn) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/3zr73Sh6KeejozhC4mGR8r) | 2:33 | 2025-11-02 | 2025-11-14 |
 | [Arrows \(Die For That Man\)](https://open.spotify.com/track/1jaC5Z1mhzVQVJkOgzcFIf) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Arrows \(Die For That Man\)](https://open.spotify.com/album/7JNiCSkz7KUF87H43PoUqw) | 3:51 | 2025-09-24 | 2025-10-06 |
 | [Arrows \(Die For That Man\)](https://open.spotify.com/track/2uLn4xSIDBsv0No9plVAFZ) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:51 | 2025-10-05 |  |
@@ -98,7 +99,8 @@
 | [Feels Like](https://open.spotify.com/track/2xW3wiXtNHUsENQLrHf4X0) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:19 | 2024-06-07 |  |
 | [Flame](https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:24 | 2024-06-07 |  |
 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 | 2025-02-20 |  |
-| [Fun While It Lasted](https://open.spotify.com/track/6BgOYYhN3yzY3GzaUv3b7T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:26 | 2024-06-07 |  |
+| [Fun While It Lasted](https://open.spotify.com/track/5oJ23AXrTt4BiXvjAiUq6b) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:26 | 2026-02-25 |  |
+| [Fun While It Lasted](https://open.spotify.com/track/6BgOYYhN3yzY3GzaUv3b7T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:26 | 2024-06-07 | 2026-02-26 |
 | [Gemini](https://open.spotify.com/track/4U96mEgDsbzcZid2wycKma) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 2:35 | 2025-11-14 |  |
 | [Ghost](https://open.spotify.com/track/2u1x7vw8ig4A387ucAzWg6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:48 | 2025-12-17 |  |
 | [Ghost](https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 4:15 | 2025-11-14 |  |
@@ -205,7 +207,8 @@
 | [Oh The Things Men Do](https://open.spotify.com/track/0jbghI5IrOUr7ud15SeMN3) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Oh The Things Men Do](https://open.spotify.com/album/3moEbC72XlsWUtoVd0q6KF) | 3:23 | 2025-12-17 |  |
 | [ok with it](https://open.spotify.com/track/26xOau4IoTbBTdcVjITxcp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 2:45 | 2024-06-07 |  |
 | [omw](https://open.spotify.com/track/0GLSvSzqUHrV1XrCKUwtwq) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/3zr73Sh6KeejozhC4mGR8r) | 2:51 | 2025-11-02 | 2025-11-14 |
-| [omw](https://open.spotify.com/track/4fCURHaPS3CQBcYsnTidvW) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:51 | 2024-06-07 |  |
+| [omw](https://open.spotify.com/track/2PMmfJHouzBB44paaJTgY8) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:51 | 2026-02-25 |  |
+| [omw](https://open.spotify.com/track/4fCURHaPS3CQBcYsnTidvW) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:51 | 2024-06-07 | 2026-02-26 |
 | [on my way](https://open.spotify.com/track/2D9VGKzODKblwcTxaxZhIt) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 2:57 | 2024-06-07 |  |
 | [One On The Way](https://open.spotify.com/track/4CYFGGc4EVyfktgY6Oli2B) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 3:44 | 2024-06-07 |  |
 | [ooo](https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:58 | 2025-10-18 |  |

@@ -6,7 +6,7 @@
     "name": "Indie Music",
     "url": "https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg"
   },
-  "snapshot_id": "AAAF5vkjwY11hEtt9nNDEsdFsrFp/+fA",
+  "snapshot_id": "AAAF5zt55OF3ThJhQUF5ltf1Zvnh74Z7",
   "tracks": [
     {
       "added_at": "2024-01-29 18:13:09",
@@ -2215,6 +2215,22 @@
       "duration_ms": 184242,
       "name": "You Are Freak",
       "url": "https://open.spotify.com/track/0VTgOZ03OJ0fN8LKQ513I1"
+    },
+    {
+      "added_at": "2026-02-25 07:25:20",
+      "album": {
+        "name": "Disappointment",
+        "url": "https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX"
+      },
+      "artists": [
+        {
+          "name": "1POINT5",
+          "url": "https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3"
+        }
+      ],
+      "duration_ms": 271999,
+      "name": "Disappointment",
+      "url": "https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj"
     }
   ],
   "unique_name": "Rock Indie Vibes",

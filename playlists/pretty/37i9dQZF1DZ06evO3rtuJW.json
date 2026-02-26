@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35643,
+  "num_followers": 35649,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABl7zIZ7MkupDAPtPNrHNM0",
+  "snapshot_id": "aZzqAAAAAADP7NGOnn7ul38ZNrAmFUE6",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not One Of Them",
+        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196378,
+      "name": "Stone Cold (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 213812,
       "name": "1 Chance",
       "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not One Of Them",
-        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196378,
-      "name": "Stone Cold (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gangsta Graduation (feat. G Herbo)",
         "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 201586,
       "name": "Gangsta Graduation (feat. G Herbo)",
       "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 181607,
-      "name": "Where Would I Be?",
-      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -907,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -939,6 +907,38 @@
       "duration_ms": 162217,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 181607,
+      "name": "Where Would I Be?",
+      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  RnBoi & Ayra Starr",
-  "num_followers": 27672,
+  "num_followers": 27760,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,18 @@
     {
       "added_at": "2026-02-20 00:01:28",
       "album": {
-        "name": "MY HEALER",
-        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 157023,
-      "name": "MY HEALER",
-      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
     },
     {
       "added_at": "2026-02-20 00:01:28",
@@ -131,18 +127,22 @@
     {
       "added_at": "2026-02-20 00:01:28",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
     },
     {
       "added_at": "2026-02-20 00:01:28",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-02-20 00:01:28",
       "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
-    },
-    {
-      "added_at": "2026-02-20 00:01:28",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -195,6 +179,38 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2026-02-20 00:01:28",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": "2026-02-20 00:01:28",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-02-20 00:01:28",
@@ -215,22 +231,6 @@
       "duration_ms": 136036,
       "name": "With You (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
-    },
-    {
-      "added_at": "2026-02-20 00:01:28",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2026-02-20 00:01:28",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-02-20 00:01:28",
       "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174812,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
-    },
-    {
-      "added_at": "2026-02-20 00:01:28",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+    },
+    {
+      "added_at": "2026-02-20 00:01:28",
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "added_at": "2026-02-20 00:01:28",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-02-20 00:01:28",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
-    },
-    {
-      "added_at": "2026-02-20 00:01:28",
-      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "added_at": "2026-02-20 00:01:28",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
       "added_at": "2026-02-20 00:01:28",

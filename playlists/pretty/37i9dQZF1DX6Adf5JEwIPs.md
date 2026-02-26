@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Espinoza Paz
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,027 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,074 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 45 | [Todo Lo Fue](https://open.spotify.com/track/64GZDnrcHHW3lAnx05g7pI) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Todo Lo Fue](https://open.spotify.com/album/735I46REeAjkcMEkQbK86H) | 2:51 |
 | 46 | [HOMBRE DE VALOR](https://open.spotify.com/track/4RWMvCnX4yjurolp0FjPZQ) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [HOMBRE DE VALOR](https://open.spotify.com/album/6SUDf8OK11wUvfsTjZG48M) | 2:53 |
 | 47 | [Si Tan Malo Soy](https://open.spotify.com/track/3oeFWwFuzfQvK8iXIaHB90) | [DÁMASO](https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug) | [Si Tan Malo Soy](https://open.spotify.com/album/2VoD8cShtEGZy8qRpoYU0Z) | 3:24 |
-| 48 | [Erán Cuatro de a Caballo](https://open.spotify.com/track/3V9jsTf92PQADPDkTSFvQ9) | [Los Ramones De Nuevo Leon](https://open.spotify.com/artist/4QNjwKEWrjiqpq1GJ8D6Qw) | [Ando Que Me Lleva](https://open.spotify.com/album/7q2mTEGlkv6I1L3V20511X) | 3:23 |
+| 48 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/3V9jsTf92PQADPDkTSFvQ9) | [Los Ramones De Nuevo Leon](https://open.spotify.com/artist/4QNjwKEWrjiqpq1GJ8D6Qw) | [Ando Que Me Lleva](https://open.spotify.com/album/7q2mTEGlkv6I1L3V20511X) | 3:23 |
 | 49 | [Chubi Dubi Du \- En Vivo](https://open.spotify.com/track/0o8SPbqzXGEtBnIFVQVu9k) | [5to Vuelo](https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW) | [Chubi Dubi Du \(En Vivo\)](https://open.spotify.com/album/7JnioXqbhycMoMv0K7ALbe) | 3:33 |
 | 50 | [Esta Es Tu Cancion](https://open.spotify.com/track/4nVFG5gSLyZieD46oPjIfr) | [Grupo Recio Sax](https://open.spotify.com/artist/2nRQee7TP1f5kKkldRjgim) | [Esta Es Tu Cancion](https://open.spotify.com/album/4WMijqBebnHz9meDSvmrAR) | 3:59 |
 | 51 | [Blueberry](https://open.spotify.com/track/1ccSWeNjYI84sjDeujT63o) | [Rafa López](https://open.spotify.com/artist/2p7TDgWQS2yxNNSbc62RpW), [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS) | [Blueberry](https://open.spotify.com/album/2qiEHUjUD4tVK4rnd7sDop) | 2:51 |

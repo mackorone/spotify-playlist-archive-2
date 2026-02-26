@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,743 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,773 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 24 | [Hallelujah, I Love Him So](https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 2:30 |
 | 25 | [I Could Write A Book](https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Swings Rodgers And Hart](https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN) | 2:09 |
 | 26 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
-| 27 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 |
-| 28 | [Fly Me To The Moon](https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 4:09 |
+| 27 | [Fly Me To The Moon](https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 4:09 |
+| 28 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 |
 | 29 | [All I Do Is Dream Of You \- Remastered 1991](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 |
 | 30 | [Let's Fall In Love](https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Sings Sweet Songs For Swingers](https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq) | 3:04 |
 | 31 | [A Kiss To Build A Dream On](https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 4:31 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 90 | [What A Wonderful World](https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ) | 2:17 |
 | 91 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
 | 92 | [I'm Glad There Is You](https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:30 |
-| 93 | [Dream A Little Dream Of Me \- 1998 Remaster](https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 3:15 |
-| 94 | [My One And Only Love](https://open.spotify.com/track/1HEGcv63IZ7TPncpVKdVdN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 4:54 |
+| 93 | [My One And Only Love](https://open.spotify.com/track/1HEGcv63IZ7TPncpVKdVdN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 4:54 |
+| 94 | [Dream A Little Dream Of Me \- 1998 Remaster](https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 3:15 |
 | 95 | [Tenderly](https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [I Feel a Song Coming On: Lost Radio Recordings](https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F) | 2:47 |
 | 96 | [You Leave Me Breathless \- 2015 Remastered Version](https://open.spotify.com/track/3CbN0iFlYubKNVsJHZPmuH) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:23 |
 | 97 | [Strangers In The Night](https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv) | 2:37 |

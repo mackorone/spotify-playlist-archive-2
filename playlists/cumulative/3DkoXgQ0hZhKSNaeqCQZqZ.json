@@ -6219,6 +6219,24 @@
     },
     {
       "album": {
+        "name": "AFTERPARTY (REBOUND)",
+        "url": "https://open.spotify.com/album/6cCyVjH2D4Ne2bN6qFxiHF"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100449,
+      "name": "PARTY SONG (REBOUND)",
+      "url": "https://open.spotify.com/track/3z7lzSmS78799IxjBfkJUp"
+    },
+    {
+      "album": {
         "name": "PEOPLEPLEASER",
         "url": "https://open.spotify.com/album/22pfJGxBvUvk7yMX1tuo4h"
       },
@@ -9124,6 +9142,28 @@
       "duration_ms": 145562,
       "name": "wanna fucking scream!!!",
       "url": "https://open.spotify.com/track/0ijhbCAMw094d8DlTzjdzx"
+    },
+    {
+      "album": {
+        "name": "waste_time.mp3",
+        "url": "https://open.spotify.com/album/1BUdzNkFVoEIQV4ncFLytw"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        },
+        {
+          "name": "MINDXX3T",
+          "url": "https://open.spotify.com/artist/0yYLOVUwsxKYtmRsNq5VUv"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98461,
+      "name": "waste_time.mp3",
+      "url": "https://open.spotify.com/track/30lAD2x7uHD5BFTdkGtx4S"
     },
     {
       "album": {

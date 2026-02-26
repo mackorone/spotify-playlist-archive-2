@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368008,
+  "num_followers": 368020,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAA/pR6hh84I5O9Y87cbolKX",
+  "snapshot_id": "aZzqAAAAAADvPnARiCwkIAtb1jrzQzis",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Now is Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beyond Us",
         "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 229733,
       "name": "Time",
       "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Now is Forever - Bonus Track",
-      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 188555,
-      "name": "Inherited",
-      "url": "https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ"
+      "duration_ms": 53752,
+      "name": "Interlude #2",
+      "url": "https://open.spotify.com/track/2gP165raFMuizgrUh5ymNG"
     }
   ],
   "unique_name": "This Is Lauren Daigle",

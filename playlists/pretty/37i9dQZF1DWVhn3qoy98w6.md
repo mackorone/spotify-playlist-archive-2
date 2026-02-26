@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Cervatana.
+> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: CERVATANA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,815 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,816 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [PANCHO](https://open.spotify.com/track/2c0hlILpnsO32fCRSJRkwT) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [PANCHO](https://open.spotify.com/album/5LGEZbPUr41WATHt2iCGkl) | 2:50 |
 | 50 | [ESTE DOLOR](https://open.spotify.com/track/7KD49C7Q5tblkspCxkdTGE) | [Carmen Lillo](https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx) | [ESTE DOLOR](https://open.spotify.com/album/5KSJZbD129sBg4gy1S7b0S) | 3:08 |
 
-Snapshot ID: `AAAAAItmsZl3CINmitsOwCONhDlQbu3I`
+Snapshot ID: `AAAAAA3QMmq/0cT2ukL9IcL5N3YZ99yi`

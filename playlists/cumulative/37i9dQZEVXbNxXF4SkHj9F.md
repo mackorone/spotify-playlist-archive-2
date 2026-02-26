@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,991 songs - 4 day 13 hr 1 min
+1,992 songs - 4 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-03-21 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-17 | 2022-01-19 |
+| [Ego](https://open.spotify.com/track/6YniytuSunB9HefGf4IxO9) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderego](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) | 2:54 | 2026-02-25 |  |
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2021-03-27\* | 2021-11-03 |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-26 | 2023-11-05 |
 | [Elevator](https://open.spotify.com/track/1TCkgf6YdQa9jzhWziWbjf) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Elevator](https://open.spotify.com/album/5aO75dzEtiNcBLcY5NFUwu) | 3:27 | 2023-11-16 | 2023-12-09 |
@@ -569,7 +570,7 @@
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-23 |
 | [Fame](https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH) | 2:56 | 2025-11-26 | 2025-12-07 |
 | [FAMOUS](https://open.spotify.com/track/2St2hvEaab5swGb99I3wix) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/4x6c0sYB2rBrpA8pZp4H0N) | 3:00 | 2025-07-10 | 2025-07-12 |
-| [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 | 2025-06-24 |  |
+| [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 | 2025-06-24 | 2026-02-26 |
 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-09-02 | 2025-09-04 |
 | [FAMOUS](https://open.spotify.com/track/0AQEShePVSsxMTM6a8ik6t) | [ALLDAY PROJECT](https://open.spotify.com/artist/6qgyV1yYLRAuK6UfDPKmOs) | [FAMOUS](https://open.spotify.com/album/4j4GhnVPaa3uQFD0LX3sbx) | 3:08 | 2025-06-26 | 2025-06-29 |
 | [Fantastic Baby](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:50 | 2025-01-17 | 2025-02-02 |
@@ -963,7 +964,7 @@
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-27\* | 2021-11-14 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-10-09 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-09 | 2024-09-16 |
-| [Left in the Rain](https://open.spotify.com/track/1TPHGTbSlEiZh9MvQDpMcY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 4:14 | 2025-08-31 |  |
+| [Left in the Rain](https://open.spotify.com/track/1TPHGTbSlEiZh9MvQDpMcY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 4:14 | 2025-08-31 | 2026-02-26 |
 | [Lemon](https://open.spotify.com/track/7goJkLIyjtlskr2JCD9F6h) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 3:02 | 2023-07-04 | 2023-07-08 |
 | [Lemon](https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:15 | 2023-02-17 | 2025-12-23 |
 | [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 | 2025-06-15 | 2025-06-21 |
@@ -1987,7 +1988,7 @@
 | [너](https://open.spotify.com/track/3b4YlIUpzYs3CZ6s9GVmzT) | [SYSTEM SEOUL](https://open.spotify.com/artist/1YBOO3E40cq9VVNUHeQGDm), [ycs](https://open.spotify.com/artist/15Wmgj7GkO1EPXq9hZPnh6) | [SS\-POP](https://open.spotify.com/album/2KqaJruJkE1lPcY4tFkk4E) | 3:13 | 2025-12-04 |  |
 | [녹아내려요 Melt Down](https://open.spotify.com/track/5Invv3m92xZvztdCbZrmZ6) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/3i15S6O0DP0uirT7O58yyO) | 2:45 | 2024-10-13 | 2024-10-15 |
 | [무제\(無題\) \(Untitled, 2014\)](https://open.spotify.com/track/16BS342F89MDqouSxgLaUK) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [KWON JI YONG](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) | 3:42 | 2024-11-04 | 2025-05-20 |
-| [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2025-09-28 | 2026-02-25 |
+| [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2025-09-28 |  |
 | [보나마나 \(BONAMANA\)](https://open.spotify.com/track/6fbS9Lbyv6L4tz7tcmBGKh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:15 | 2025-02-26 | 2025-03-03 |
 | [사랑은 봄비처럼...이별은 겨울비처럼](https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO) | [Lim Hyun Jung](https://open.spotify.com/artist/7qUALZhWSQIwqTw1auwwCc) | [A Year Out...In The Island](https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8) | 4:40 | 2026-01-20 |  |
 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 | 2025-10-02 | 2025-10-04 |

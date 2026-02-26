@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Kapanga y Milo J en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,488 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,506 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 85 | [Quiero Bailar Ska!!!](https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT) | [Boxer](https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD) | [Quiero Bailar Ska!!!](https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx) | 3:19 |
 | 86 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
 | 87 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
-| 88 | [Estando contigo](https://open.spotify.com/track/3twBCDPJBPeXZ34jNTQlTE) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Estando contigo](https://open.spotify.com/album/0LpGkrVsNolRbQ44b4e84u) | 3:31 |
-| 89 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
+| 88 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
+| 89 | [Estando contigo](https://open.spotify.com/track/3twBCDPJBPeXZ34jNTQlTE) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Estando contigo](https://open.spotify.com/album/0LpGkrVsNolRbQ44b4e84u) | 3:31 |
 | 90 | [Qué Vas a Hacer Conmigo](https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Supersonico](https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz) | 3:26 |
 | 91 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
 | 92 | [Love for Ska](https://open.spotify.com/track/6gns7mu2t3leWMqLWMLD5B) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS), [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Love for Ska](https://open.spotify.com/album/2ehF3lG3PqUOW7C5tNFVwO) | 4:30 |

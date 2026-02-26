@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135627,
+  "num_followers": 135632,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 276320,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 276320,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Blinding Lights (Country Version)",
-        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Blinding Lights - Country Version",
-      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "Here Without You",
         "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 231750,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Blinding Lights (Country Version)",
+        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Blinding Lights - Country Version",
+      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Yukon",
-        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Yukon",
-      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "Dammit",
         "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 199445,
       "name": "Dammit",
       "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Yukon",
+        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
       "artists": [
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1675,22 +1691,6 @@
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+      "duration_ms": 265222,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA"
     }
   ],
   "unique_name": "Country Covers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,157 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,165 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 21 | [Old Friend](https://open.spotify.com/track/1F653irkyfBQgMg0yfVJFc) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:54 |
 | 22 | [Last One To Die](https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:23 |
 | 23 | [Tomorrow Never Comes](https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:25 |
-| 24 | [Tropical London](https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:03 |
-| 25 | [St\. Mary](https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:09 |
+| 24 | [St\. Mary](https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:09 |
+| 25 | [Tropical London](https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:03 |
 | 26 | [Up To No Good](https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:40 |
 | 27 | [Don Giovanni](https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 0:35 |
 | 28 | [Honor Is All We Know](https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 49 | [Dominoes Fall](https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:43 |
 | 50 | [Sex & Death](https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Sex & Death](https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2) | 2:04 |
 
-Snapshot ID: `aZuYgAAAAABiwbNbZf9MokXQoxAJf8oW`
+Snapshot ID: `aZzqAAAAAADC7/cfWvkFUN3klyyrRNx2`

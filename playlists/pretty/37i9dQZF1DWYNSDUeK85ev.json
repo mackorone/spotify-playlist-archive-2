@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 695550,
+  "num_followers": 695557,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Los Cotizados",
-        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Me Niegas",
-      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Buenos T\u00e9rminos",
-        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 150823,
-      "name": "Buenos T\u00e9rminos",
-      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "ROZE | DJ TAO Turreo Sessions #22",
         "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 155291,
       "name": "ROZE | DJ TAO Turreo Sessions #22",
       "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Buenos T\u00e9rminos",
+        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 150823,
+      "name": "Buenos T\u00e9rminos",
+      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Vida Gangster",
         "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 170058,
       "name": "Vida Gangster",
       "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "King Of Kings (Armageddon Edition)",
         "url": "https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 222600,
       "name": "No Se De Ella \"My Space\"",
       "url": "https://open.spotify.com/track/32SmDHzbqYRAhX9Jq4gDnT"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "La Paso Cabron (Guaracha)",
-        "url": "https://open.spotify.com/album/0u3yj3lld1MRwIVh42blVl"
+        "name": "LUCK RA | DJ TAO Turreo Sessions #19",
+        "url": "https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j"
       },
       "artists": [
         {
-          "name": "Chichee",
-          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 149760,
-      "name": "La Paso Cabron - Guaracha",
-      "url": "https://open.spotify.com/track/4egatf7MkFOwyuP67gWZHp"
+      "duration_ms": 130613,
+      "name": "LUCK RA | DJ TAO Turreo Sessions #19",
+      "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "LUCK RA | DJ TAO Turreo Sessions #19",
-        "url": "https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j"
+        "name": "La Paso Cabron (Guaracha)",
+        "url": "https://open.spotify.com/album/0u3yj3lld1MRwIVh42blVl"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Chichee",
+          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
         },
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
         }
       ],
-      "duration_ms": 130613,
-      "name": "LUCK RA | DJ TAO Turreo Sessions #19",
-      "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
+      "duration_ms": 149760,
+      "name": "La Paso Cabron - Guaracha",
+      "url": "https://open.spotify.com/track/4egatf7MkFOwyuP67gWZHp"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+        }
+      ],
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Guaracha, Vol. 1",
         "url": "https://open.spotify.com/album/2lqhMjGO8U2yAIPpvpRMXW"
       },
@@ -1715,22 +1735,18 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+      "duration_ms": 204640,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1759,22 +1775,6 @@
       "duration_ms": 197142,
       "name": "Quiero Verte Bailar (Remix)",
       "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "Deprimida",
+        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217627,
+      "name": "Deprimida",
+      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
         "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 253340,
       "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
       "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Deprimida",
-        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217627,
-      "name": "Deprimida",
-      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "added_at": "2026-02-20 03:00:09",

@@ -4,7 +4,7 @@
 
 > 2021
 
-165 songs - 11 hr 15 min
+167 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Despair In The Departure Lounge](https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:22 | 2023-01-22 |  |
 | [Divenire](https://open.spotify.com/track/6KpO4neDXxGdiEgsivZieY) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Divenire \(Deluxe Edition\)](https://open.spotify.com/album/2EhFeiWsTdfqzdFskVUxBg) | 6:42 | 2025-02-07 |  |
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 | 2025-01-19 |  |
+| [Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT) | 4:01 | 2026-02-25 |  |
 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 1](https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:33 | 2025-01-24 |  |
 | [Dream Cars](https://open.spotify.com/track/32VOU1p43IfunZDoSrxE4v) | [Neon Neon](https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD) | [Stainless Style](https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA) | 3:25 | 2025-01-29 |  |
 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 | 2025-03-07 |  |
@@ -72,6 +73,7 @@
 | [I Am the Antichrist to You](https://open.spotify.com/track/3tnfHy341CDlAtcSmUtuOG) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [151a](https://open.spotify.com/album/57hpjWfEY0q8USDRrMYMef) | 3:56 | 2024-03-31 |  |
 | [I Fall Apart](https://open.spotify.com/track/4MqFHxNM8uM7UEW4t56nzU) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(Remastered 2017\)](https://open.spotify.com/album/3tk9uyWCvfQbkmvROJGUXB) | 5:12 | 2025-12-03 |  |
 | [I Lust U](https://open.spotify.com/track/0QP0kYZhYHnO8fthKntc8Z) | [Neon Neon](https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD), [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Stainless Style](https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA) | 3:00 | 2025-03-05 |  |
+| [I Wish It Was Me](https://open.spotify.com/track/3ghmdRTijueJLRzswc779P) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:23 | 2026-02-25 |  |
 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 | 2022-06-26 |  |
 | [Innocent](https://open.spotify.com/track/6lIqfJzxVkbwzgMYQcemHY) | [The Enemy](https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k) | [Social Disguises](https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG) | 4:15 | 2026-02-24 |  |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2025-10-03 |  |

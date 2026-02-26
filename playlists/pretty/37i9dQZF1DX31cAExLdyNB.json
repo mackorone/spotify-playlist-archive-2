@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 82556,
+  "num_followers": 82567,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Tunnel",
         "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -951,18 +951,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+        "name": "Digging Deeper",
+        "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+      "duration_ms": 197853,
+      "name": "Digging Deeper",
+      "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -987,6 +991,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -1003,6 +1023,22 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1027,22 +1063,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Pala",
         "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 302573,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Digging Deeper",
-        "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Digging Deeper",
-      "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
     },
     {
       "added_at": "2024-06-28 21:13:36",

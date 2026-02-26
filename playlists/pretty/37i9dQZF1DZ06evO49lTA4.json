@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 917392,
+  "num_followers": 917541,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAdmZ88NxebgEgPw/l7RPfD",
+  "snapshot_id": "aZzqAAAAAAAxkeeZAThn4izWrAMTnbiO",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 224435,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6BZaRf4Zh9Y07qnELLboGu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224435,
-      "name": "The Kind of Love We Make",
-      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 232595,
-      "name": "Growin' Up and Gettin' Old",
-      "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
+      "duration_ms": 198373,
+      "name": "Front Door Famous",
+      "url": "https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Front Door Famous",
-      "url": "https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK"
+      "duration_ms": 232595,
+      "name": "Growin' Up and Gettin' Old",
+      "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can I Get an Outlaw",
-        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Can I Get an Outlaw",
-      "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
+      "duration_ms": 165058,
+      "name": "The Man He Sees in Me",
+      "url": "https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+        "name": "Can I Get an Outlaw",
+        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 165058,
-      "name": "The Man He Sees in Me",
-      "url": "https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v"
+      "duration_ms": 238826,
+      "name": "Can I Get an Outlaw",
+      "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can I Get an Outlaw",
-        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Sheriff You Want To",
-      "url": "https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond (feat. Luke Combs) [Live]",
         "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 246946,
       "name": "Beyond (feat. Luke Combs) - Live",
       "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Huntin' By Yourself",
+      "url": "https://open.spotify.com/track/6oSd9gpVPuJEWotPQ54zcU"
     }
   ],
   "unique_name": "This Is Luke Combs",

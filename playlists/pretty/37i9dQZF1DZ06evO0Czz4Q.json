@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 138011,
+  "num_followers": 138025,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAASG9mbv+XHh70HuTZe3fh0",
+  "snapshot_id": "aZzqAAAAAAArNe1iM5TzF8lbf1jMuP2r",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 295426,
-      "name": "Keeping My Faith In You",
-      "url": "https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Luther Vandross The Best of Love",
         "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 323000,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/042pmCix7CPth3l3X28jl1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 295426,
+      "name": "Keeping My Faith In You",
+      "url": "https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "Now That I Have You",
-      "url": "https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 294266,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "Now That I Have You",
+      "url": "https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dance",
         "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 257800,
       "name": "Can't Let You Go (The Sha La Song)",
       "url": "https://open.spotify.com/track/2WB9kG4tMNNtri6xvddDEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 302523,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
       },
       "artists": [
         {
@@ -488,25 +472,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 297879,
-      "name": "Sugar and Spice (I Found Me a Girl)",
-      "url": "https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 386638,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
+      "duration_ms": 302523,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
     },
     {
       "added_at": null,
@@ -531,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
       "artists": [
         {
@@ -540,9 +508,25 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 319800,
-      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
-      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
+      "duration_ms": 386638,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 297879,
+      "name": "Sugar and Spice (I Found Me a Girl)",
+      "url": "https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 346245,
       "name": "Anyone Who Had a Heart",
       "url": "https://open.spotify.com/track/45iQcSIJBgJkD2YI4XhXV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
+      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "All The Woman I Need",
+      "url": "https://open.spotify.com/track/2VcUWg5UIQo0H5AqeA38zc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "All The Woman I Need",
-      "url": "https://open.spotify.com/track/2VcUWg5UIQo0H5AqeA38zc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Night With You: The Best Of Love, Volume 2",
         "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Bring Your Heart To Mine",
-      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever, For Always, For Love",
         "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 383548,
       "name": "Forever, for Always, for Love",
       "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Bring Your Heart To Mine",
+      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
     },
     {
       "added_at": null,

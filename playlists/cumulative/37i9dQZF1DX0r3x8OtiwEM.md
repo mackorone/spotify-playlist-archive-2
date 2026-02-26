@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-770 songs - 3 day 0 hr 12 min
+771 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Flight Into the Void](https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Flight Into the Void EP](https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU) | 6:46 | 2020-10-10 | 2021-01-15 |
 | [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 | 2024-11-15 | 2025-05-28 |
 | [Flume](https://open.spotify.com/track/01coiQuQSxlQ8ZzJbiglBR) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Two](https://open.spotify.com/album/4OrFtWFWZ2d5rJWoQNL8Td) | 7:24 | 2019-08-08 | 2020-06-09 |
-| [Flying Away With You \- andhim Remix](https://open.spotify.com/track/4q8UvHlqTqrnFLdYhZfEK2) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Flying Away With You \(andhim Remix\)](https://open.spotify.com/album/5PjAFRVzQixkIj2yzSOklb) | 4:19 | 2026-02-13 |  |
+| [Flying Away With You \- andhim Remix](https://open.spotify.com/track/4q8UvHlqTqrnFLdYhZfEK2) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Flying Away With You \(andhim Remix\)](https://open.spotify.com/album/5PjAFRVzQixkIj2yzSOklb) | 4:19 | 2026-02-13 | 2026-02-26 |
 | [Flying Lizard](https://open.spotify.com/track/2oWkahh8zYXrAT4JCQNv5l) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Nico Stojan](https://open.spotify.com/artist/1SuKmGtjsRRJcGhTspfUnd) | [Flying Lizard](https://open.spotify.com/album/6IGgQ466yJMMdHUPKtMIOb) | 7:27 | 2019-08-06\* | 2020-03-21 |
 | [Focus \(Nicone Remix\)](https://open.spotify.com/track/4HW4ViRwwRTqs9aZb80Bnn) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Chris Zippel](https://open.spotify.com/artist/1AqrT183IuX4ZbUIBSEnWS), [Nicone](https://open.spotify.com/artist/3AEuzcFZ5D8H285kNr30HC) | [Letting Go \(Remixes, Pt\. 4\)](https://open.spotify.com/album/1KfdE2qt9sgPnHTDK4rA4t) | 6:18 | 2019-12-08 | 2020-02-20 |
 | [Follow \(Max Manie Remix\)](https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Follow \(Max Manie Remix\)](https://open.spotify.com/album/29nHlh98BX8btGwsApWfih) | 4:52 | 2020-12-24 | 2022-11-09 |
@@ -407,6 +407,7 @@
 | [Matthew Keeps Me Pirrie](https://open.spotify.com/track/2ZYGLQ89EATPCZcLsHEowa) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Matthew Keeps Me Pirrie](https://open.spotify.com/album/2ilvzpDDnNQWbvgoSQZ4xF) | 6:42 | 2019-10-10 | 2019-11-09 |
 | [Mayhem](https://open.spotify.com/track/6OJKnaeNbqSgamGZ6IIGz1) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Mayhem EP](https://open.spotify.com/album/0adw9asM0RMlE4bIqc3LBB) | 7:44 | 2021-10-10 | 2021-10-11 |
 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 | 2025-11-14 |  |
+| [Melancholia](https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Melancholia](https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb) | 3:29 | 2026-02-20 |  |
 | [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 | 2025-04-11 | 2026-01-22 |
 | [Menora](https://open.spotify.com/track/6JbEVzpVtACMzP7lniEpoP) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE), [Leibo & Zarhi](https://open.spotify.com/artist/1HYgV0V9YzC2iYTA6vuHkI) | [MenorAnna](https://open.spotify.com/album/7i8fYPZGhLDynDKqqLljgE) | 7:20 | 2019-09-19 | 2020-01-13 |
 | [Mesopotamia](https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Mesopotamia](https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6) | 3:20 | 2021-02-03 | 2021-03-23 |

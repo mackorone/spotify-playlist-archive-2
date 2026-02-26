@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 473950,
+  "num_followers": 473995,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-19 15:18:06",
       "album": {
-        "name": "Le Recueillement",
-        "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
-      },
-      "artists": [
-        {
-          "name": "Abelin Lagarde",
-          "url": "https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD"
-        }
-      ],
-      "duration_ms": 147098,
-      "name": "Le Recueillement",
-      "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
-    },
-    {
-      "added_at": "2026-02-19 15:18:06",
-      "album": {
         "name": "Bona Fide",
         "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 161913,
       "name": "Lofoten",
       "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "added_at": "2026-02-19 15:18:06",
+      "album": {
+        "name": "Le Recueillement",
+        "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
+      },
+      "artists": [
+        {
+          "name": "Abelin Lagarde",
+          "url": "https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD"
+        }
+      ],
+      "duration_ms": 147098,
+      "name": "Le Recueillement",
+      "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
     },
     {
       "added_at": "2026-02-19 15:18:06",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-02-19 15:18:06",
       "album": {
-        "name": "Hymn",
-        "url": "https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89"
+        "name": "A New Beginning",
+        "url": "https://open.spotify.com/album/5MtcpLLduxsOal79cT835i"
       },
       "artists": [
         {
-          "name": "Matt Lingus",
-          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
+          "name": "James Spiteri",
+          "url": "https://open.spotify.com/artist/4kJAoV5i0XPIAoGRN4bVJJ"
         }
       ],
-      "duration_ms": 177705,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot"
+      "duration_ms": 237160,
+      "name": "Travelling",
+      "url": "https://open.spotify.com/track/2OKEAPTngkO7ogItXRPHwC"
     }
   ],
   "unique_name": "Coffee and Piano",

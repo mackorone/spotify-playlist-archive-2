@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 38655,
+  "num_followers": 38663,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAMqWFl/kA9UKoqrDoHs2Rv",
+  "snapshot_id": "aZzqAAAAAAD1eYM/LLJj32wQ6Wto7S8i",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 138533,
-      "name": "El Tepozan",
-      "url": "https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY"
+      "duration_ms": 158760,
+      "name": "Los Federales De Caminos",
+      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
       "artists": [
         {
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Los Federales De Caminos",
-      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos De (Vol. 2)",
-        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 160040,
-      "name": "Dados Cargados",
-      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
+      "duration_ms": 138533,
+      "name": "El Tepozan",
+      "url": "https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+        "name": "15 \u00c9xitos De (Vol. 2)",
+        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 168320,
-      "name": "El Jardin De Las Flores",
-      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+      "duration_ms": 160040,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "El Jardin De Las Flores",
+      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 227306,
-      "name": "Dos Cruces En La Curva",
-      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
+      "duration_ms": 165280,
+      "name": "El Rayo De Sinaloa",
+      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 165280,
-      "name": "El Rayo De Sinaloa",
-      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
+      "duration_ms": 227306,
+      "name": "Dos Cruces En La Curva",
+      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,

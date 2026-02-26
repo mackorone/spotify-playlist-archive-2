@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: にしな
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,555 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,554 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 43 | [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 |
 | 44 | [Moonlight](https://open.spotify.com/track/0WssiQ4l0tiVkeWslWYt1C) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Moonlight](https://open.spotify.com/album/2mazcGoo3AHuIKugiV3Q3V) | 2:06 |
 | 45 | [愛楽](https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [愛楽](https://open.spotify.com/album/3QHpefJMnL4LycnCqXYM3a) | 3:00 |
-| 46 | [Track 1](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 0:00 |
+| 46 | [Osoro \(Heaven\)](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 2:20 |
 | 47 | [Pretty](https://open.spotify.com/track/3KvI7gbmINLpp3DHhTW4rX) | [yura](https://open.spotify.com/artist/1fdU76nbdxEwt2OkXmpP7f) | [Pretty](https://open.spotify.com/album/3NfGhWcEDgwH6mj1rsciYF) | 1:53 |
 | 48 | [Mother Tree](https://open.spotify.com/track/1cBwZeiOxWJFlTE3cXq0gd) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8) | [Mother Tree](https://open.spotify.com/album/2koIidYHGsqrhEjP5IvOpp) | 3:23 |
 | 49 | [わたし、蝶々。](https://open.spotify.com/track/1PVWFWxSZW4WsY2Hnt5AEK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [わたし、蝶々。](https://open.spotify.com/album/40iGW8paFvUred8lzSLBcp) | 4:24 |

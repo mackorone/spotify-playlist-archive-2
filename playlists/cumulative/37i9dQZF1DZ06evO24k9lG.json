@@ -195,24 +195,6 @@
     },
     {
       "album": {
-        "name": "A Su Gusto",
-        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "date_added": "2025-01-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 290120,
-      "name": "Como Te Olvido",
-      "url": "https://open.spotify.com/track/0C0gzUnJwXZyWgzyfB3RqR"
-    },
-    {
-      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
       },
@@ -228,6 +210,24 @@
       "duration_ms": 290120,
       "name": "Como Te Olvido",
       "url": "https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U"
+    },
+    {
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290089,
+      "name": "Como Te Olvido?",
+      "url": "https://open.spotify.com/track/0C0gzUnJwXZyWgzyfB3RqR"
     },
     {
       "album": {
@@ -1275,7 +1275,7 @@
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 276413,
+      "duration_ms": 272904,
       "name": "Vovi\u00f3 el Dolor",
       "url": "https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f"
     },

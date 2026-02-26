@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 36 | [Love's Dying](https://open.spotify.com/track/6w5rPrAbxyszX8avoRc8p9) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:17 |
 | 37 | [Still Around](https://open.spotify.com/track/0Hq59Tzh4STCnCdokgbqJb) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Still Around](https://open.spotify.com/album/4NEFNu7aGFVM6ASDHmbacA) | 2:55 |
 | 38 | [Adelaide](https://open.spotify.com/track/3pZghavVnbU6iDRPXVRc5v) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Adelaide](https://open.spotify.com/album/1nf7jCiBe4AgaUxTp4kQ7e) | 2:15 |
-| 39 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 |
-| 40 | [Take Me Back](https://open.spotify.com/track/4ktOL5ShhTQ2zl8YNnES2b) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 |
+| 39 | [Take Me Back](https://open.spotify.com/track/4ktOL5ShhTQ2zl8YNnES2b) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 |
+| 40 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 |
 | 41 | [Safe Place](https://open.spotify.com/track/26zJD97craL4pSO9L0G3jz) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Safe Place](https://open.spotify.com/album/5Fbr4tGS73s5V7siAm3hPj) | 3:43 |
 | 42 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 |
 | 43 | [Ruin](https://open.spotify.com/track/2xCY38WpqpCijxPksvgw0f) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ruin](https://open.spotify.com/album/2m4DXXAkbWklfr8in5BAuZ) | 3:57 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 125 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 126 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcKjygAAAAApKgOydfHxtN6OZ+xtdRVf`
+Snapshot ID: `AcKpagAAAABTmsNVfdrynpRUT5cfhFeg`

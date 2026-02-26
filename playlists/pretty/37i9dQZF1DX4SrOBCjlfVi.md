@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring THE SCYTHE, Baby Keem, NAV and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,942 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,997 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 8 | [6\-7](https://open.spotify.com/track/4yeaLItxF75bCI5KraoQcg) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [6\-7](https://open.spotify.com/album/6A6ecn2V1HauLX2Z57Mcud) | 1:28 |
 | 9 | [she screaming purr \(attachments\)](https://open.spotify.com/track/1p23xURXGljXcr0lJ4Du08) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [she screaming purr \(attachments\)](https://open.spotify.com/album/7n1CFs75EkVuSSsXJdi7P3) | 2:05 |
 | 10 | [Set It Off](https://open.spotify.com/track/69ZYrc186to9PEKTQxfyTF) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lihtz](https://open.spotify.com/artist/5qCTwicUCTguc1ijgLOv9z) | [Set It Off](https://open.spotify.com/album/4CogYzObDWO957s9LGUDR8) | 2:57 |
-| 11 | [Hood](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
+| 11 | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
 | 12 | [Die Bout It \(feat\. Rio Da Yung Og\)](https://open.spotify.com/track/5PS8HIkRIdt9hpNWexgdlk) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Da Realest](https://open.spotify.com/album/6jyZkzQ8t7JBAkGo1XVsOP) | 3:49 |
 | 13 | [BLOCK PARTY](https://open.spotify.com/track/2gj9kPj4NKuwOQhGV3rDsM) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [BLOCK PARTY](https://open.spotify.com/album/2U5ryTDEFmDI8kzBeC1YY7) | 3:17 |
 | 14 | [Hit and Run \(feat\. AZ Chike\)](https://open.spotify.com/track/2OggmjtPsUJ2nz8KbsybIB) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Hit and Run \(feat\. AZ Chike\)](https://open.spotify.com/album/5dvq2QHKHDqoQnE7rcCq2w) | 3:19 |

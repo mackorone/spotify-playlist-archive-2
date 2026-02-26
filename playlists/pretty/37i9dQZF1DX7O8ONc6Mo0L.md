@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,847 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,945 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 36 | [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 |
 | 37 | [O Melhor De Deus](https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 3](https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7) | 3:25 |
 | 38 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |
-| 39 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
-| 40 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
+| 39 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
+| 40 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
 | 41 | [Florescer](https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jacqueline Palheiro](https://open.spotify.com/artist/0KsrPvrENzZp3EvN3YAi9w) | [Florescer](https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG) | 6:20 |
 | 42 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
 | 43 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |

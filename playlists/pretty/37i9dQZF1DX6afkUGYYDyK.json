@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 70819,
+  "num_followers": 70845,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,38 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        }
+      ],
+      "duration_ms": 151942,
+      "name": "Fire & Ice",
+      "url": "https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
         "name": "At This Table",
         "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
       },
@@ -655,38 +687,6 @@
       "duration_ms": 208243,
       "name": "Thanks Giver",
       "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77"
-      },
-      "artists": [
-        {
-          "name": "DizzyEight",
-          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
-        }
-      ],
-      "duration_ms": 151942,
-      "name": "Fire & Ice",
-      "url": "https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Not The Same",
-        "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -871,18 +871,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+        "name": "Thank You (feat. MARTY)",
+        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+      "duration_ms": 202634,
+      "name": "Thank You (feat. MARTY)",
+      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -907,26 +911,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thank You (feat. MARTY)",
-        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        }
-      ],
-      "duration_ms": 202634,
-      "name": "Thank You (feat. MARTY)",
-      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "Thank You (Live)",
         "url": "https://open.spotify.com/album/15wpZmn1wOJmDyS3dymey4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 647154,
       "name": "Thank You - Live",
       "url": "https://open.spotify.com/track/5pctb5fQMqfncJqRRAMsRh"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Amazing Love",
-        "url": "https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Lord I Thank You",
-      "url": "https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "Thank You for What You've Done (feat. The Band Table)",
         "url": "https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 285880,
       "name": "Thank You for What You've Done (feat. The Band Table)",
       "url": "https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Amazing Love",
+        "url": "https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "Lord I Thank You",
+      "url": "https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f"
     },
     {
       "added_at": "2025-12-12 22:02:41",

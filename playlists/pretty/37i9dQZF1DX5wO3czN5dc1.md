@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Euggy
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,559 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,813 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 72 | [Soul Alive](https://open.spotify.com/track/7kfLKbqZA8nQHjf7ONUhRZ) | [DJ JACE](https://open.spotify.com/artist/7xlVfBHHfocW9w1RLm8VNZ), [Mfana we style](https://open.spotify.com/artist/6cJZ0659uwUPdMZjRQZKW3), [The Unlimited Music](https://open.spotify.com/artist/02C4KRJAVC1QZR5lnKxV0S), [Kiddy kozzy](https://open.spotify.com/artist/7avSU2TLwng7xn9QJoEuyc) | [Soul Alive](https://open.spotify.com/album/1X87oIO1qHTSMG0WCCJA63) | 7:52 |
 | 73 | [Gemu \- Radio Edit](https://open.spotify.com/track/1iApKEOkBkgAkkelE9NdiW) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Young Dotun](https://open.spotify.com/artist/0ghNW8oIeK38iwNhCl9X7Y) | [Gemu](https://open.spotify.com/album/2iR5TrADcgp8zJsnzBgGiv) | 3:32 |
 | 74 | [Maithori](https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Maithori](https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9) | 3:02 |
-| 75 | [Asalam Alaikum](https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Zamna Soundsystem](https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG) | [Asalam Alaikum](https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw) | 5:03 |
+| 75 | [Asalam Alaikum](https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [zss](https://open.spotify.com/artist/0997972c1IG9I5mtbb4oHe) | [Asalam Alaikum](https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw) | 5:03 |
 
 Snapshot ID: `AAAAALt1JXpWvj69ZqYJIdCBW3atEfCu`

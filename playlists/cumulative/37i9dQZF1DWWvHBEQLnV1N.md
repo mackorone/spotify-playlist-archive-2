@@ -4,7 +4,7 @@
 
 > Festive season staples and new holiday favourites 🎁
 
-200 songs - 10 hr 42 min
+201 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Every Moment Is Christmas with You](https://open.spotify.com/track/7c83JUp9KUcPFl04clDuwZ) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Every Moment Is Christmas with You](https://open.spotify.com/album/08oR8mbmEwvxetlQ4mnwCY) | 2:47 | 2021-12-17 | 2022-10-13 |
 | [Fairytale of New York](https://open.spotify.com/track/7bPwc5EZg92Ynd84t72oZM) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [X\-mas](https://open.spotify.com/album/2GZ5qiSexob2Xj9fRvY3pB) | 4:32 | 2022-10-28 | 2022-11-13 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-12-17 | 2024-04-19 |
-| [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York](https://open.spotify.com/album/2MJV1Nr37QoEDeAo9cz6mr) | 4:32 | 2021-12-17 |  |
+| [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York](https://open.spotify.com/album/2MJV1Nr37QoEDeAo9cz6mr) | 4:32 | 2021-12-17 | 2026-02-26 |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2023-10-27 | 2024-04-19 |
 | [Feliz Navidad](https://open.spotify.com/track/5rgStA2VSw8K6jragj6yBx) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/7pTRfiMt7jdY0uphSoRbTN) | 3:02 | 2023-12-15 |  |
 | [First Christmas](https://open.spotify.com/track/2CE1KhKOw23t0CLjfHUPN0) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [First Christmas](https://open.spotify.com/album/4DwaF4awFjl0lum2icD9S1) | 3:25 | 2025-12-04 |  |
@@ -96,6 +96,7 @@
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB) | 4:38 | 2023-10-27 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0EJGgmA2uxiasDM5DmDKL1) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:24 | 2023-10-27 | 2025-12-05 |
 | [In Dulce Jubilo](https://open.spotify.com/track/3cbEoHzeiebNIZLpaeC0jB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Ommadawn](https://open.spotify.com/album/200p7O3raeXT2jNhmzK4TE) | 2:51 | 2023-10-27 | 2025-12-05 |
+| [Invisible \- from the Netflix Film Klaus](https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Invisible \(from the Netflix Film Klaus\)](https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW) | 2:53 | 2025-12-04 |  |
 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 | 2025-12-04 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/4Dgp0jxrJdpKrZfVmgxekz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/1AoFsqvJxNkiPnidP4mWhk) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/6Zr8jqdDNrwhZ3knkDLYfA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:26 | 2022-10-28 | 2022-11-13 |

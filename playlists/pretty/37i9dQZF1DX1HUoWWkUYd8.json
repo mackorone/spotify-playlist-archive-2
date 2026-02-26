@@ -1,6 +1,6 @@
 {
   "description": "Polaroids, clackers and wooden box TV's, this one's for you!",
-  "num_followers": 147756,
+  "num_followers": 147790,
   "original_name": "Born in the 70s",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-03-26 13:54:06",
       "album": {
-        "name": "Tiffany",
-        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
-      },
-      "artists": [
-        {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
-    },
-    {
-      "added_at": "2024-03-26 13:54:06",
-      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 303820,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
+    },
+    {
+      "added_at": "2024-03-26 13:54:06",
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
       "added_at": "2024-03-26 13:54:06",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-03-26 13:54:06",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2024-03-26 13:54:06",
-      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 290280,
       "name": "Message In A Bottle",
       "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+    },
+    {
+      "added_at": "2024-03-26 13:54:06",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2024-03-26 13:54:06",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-26 13:54:06",
       "album": {
-        "name": "Spirit In The Sky (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
-      },
-      "artists": [
-        {
-          "name": "Norman Greenbaum",
-          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Spirit In The Sky - Deluxe Edition",
-      "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
-    },
-    {
-      "added_at": "2024-03-26 13:54:06",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2024-03-26 13:54:06",
+      "album": {
+        "name": "Spirit In The Sky (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
+      },
+      "artists": [
+        {
+          "name": "Norman Greenbaum",
+          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Spirit In The Sky - Deluxe Edition",
+      "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
     },
     {
       "added_at": "2024-03-26 13:54:06",

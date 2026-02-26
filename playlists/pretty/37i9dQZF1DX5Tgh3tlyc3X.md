@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,808 likes - 165 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,862 likes - 165 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 164 | [Binaural Theta Sinus 100 Hz \- L 106 Hz \- R](https://open.spotify.com/track/3wkWpKHoPDmF0TfZlage3z) | [Dorthe Gretchen](https://open.spotify.com/artist/4SEREG9de5QCdwWGK0wYvp) | [Binaural Theta Sinus 100 Hz \- L 106 Hz \- R](https://open.spotify.com/album/3EGpIZLTLZuFdrsPi9vSnK) | 2:24 |
 | 165 | [Deep Skies \(Binaural Theta 93.1 Hz \- 85.7 Hz\)](https://open.spotify.com/track/4OXSCEIY7gVDCW17nuRiRe) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:41 |
 
-Snapshot ID: `AAAAAC+vELKKnguPyBUPMpdq0p5BG2p9`
+Snapshot ID: `AAAAAHUsDMmyp7Pq1cZeoktL1Tgd6fH+`

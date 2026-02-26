@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38273,
+  "num_followers": 38279,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABOWKp/SiZJy8QtTfymBK4x",
+  "snapshot_id": "aZzqAAAAAAC0gNnTsvn9bgY9sBoX/j/B",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 72560,
-      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
-      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
+      "duration_ms": 200920,
+      "name": "Snow Cats",
+      "url": "https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 200920,
-      "name": "Snow Cats",
-      "url": "https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5"
+      "duration_ms": 72560,
+      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
+      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "Third Season",
-      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFI (The Blood Album)",
         "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 174133,
       "name": "Aurelia",
       "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "Third Season",
+      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 42153,
+  "num_followers": 42151,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Farolito (Little Star)",
-      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "El burrito de belen / Dame la mano paloma",
         "url": "https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 219666,
       "name": "Dame la mano paloma",
       "url": "https://open.spotify.com/track/2s1vPf9pwdF6HApyRAna2J"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Navidad - Canta Gallo, Canta",
-        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 318706,
-      "name": "Tiempos Navide\u00f1os",
-      "url": "https://open.spotify.com/track/1KHz4fqCfibSd5IRaEMCN6"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "Al Ni\u00f1o Dios",
         "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 153182,
       "name": "Al Ni\u00f1o Dios",
       "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Navidad - Canta Gallo, Canta",
+        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 318706,
+      "name": "Tiempos Navide\u00f1os",
+      "url": "https://open.spotify.com/track/1KHz4fqCfibSd5IRaEMCN6"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Navidad - Canta Gallo, Canta",
-        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
+        "name": "Pa' mi Gente",
+        "url": "https://open.spotify.com/album/4h29hT64GDgOUwoNbaJTsp"
       },
       "artists": [
         {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+          "name": "Charlie Aponte",
+          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
         }
       ],
-      "duration_ms": 257693,
-      "name": "Cantemos Todos Cantemos",
-      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
+      "duration_ms": 285518,
+      "name": "Aires Navide\u00f1os",
+      "url": "https://open.spotify.com/track/5aXFP07TGvWno27s3YNSS1"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Pa' mi Gente",
-        "url": "https://open.spotify.com/album/4h29hT64GDgOUwoNbaJTsp"
+        "name": "Navidad - Canta Gallo, Canta",
+        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
       },
       "artists": [
         {
-          "name": "Charlie Aponte",
-          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
         }
       ],
-      "duration_ms": 285518,
-      "name": "Aires Navide\u00f1os",
-      "url": "https://open.spotify.com/track/5aXFP07TGvWno27s3YNSS1"
+      "duration_ms": 257693,
+      "name": "Cantemos Todos Cantemos",
+      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Fiesta en Navidad, Vol. 2 (39 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 311773,
-      "name": "Lleg\u00f3 Tu Marido (Version Navidad)",
-      "url": "https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "El burrito de belen / Dame la mano paloma",
         "url": "https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 204853,
       "name": "El burrito de belen",
       "url": "https://open.spotify.com/track/4Y1oOsZkfCV01Ov8jqU7mJ"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Fiesta en Navidad, Vol. 2 (39 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 311773,
+      "name": "Lleg\u00f3 Tu Marido (Version Navidad)",
+      "url": "https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Merenboom Vol. 4",
-        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "El Rondon",
-      "url": "https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "Versos de Nuestra Cultura",
         "url": "https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 213826,
       "name": "Esta Parranda Te la Deb\u00eda",
       "url": "https://open.spotify.com/track/5digKW6ClEPvvOw8dumMk8"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Merenboom Vol. 4",
+        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "El Rondon",
+      "url": "https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Merenboom Vol. 4",
-        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 298280,
-      "name": "El Avion",
-      "url": "https://open.spotify.com/track/5mpvrAdbbSvThDIKygCrPL"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "Fiesta en Navidad 35 Exitos",
         "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 282920,
       "name": "Alegre Vengo",
       "url": "https://open.spotify.com/track/3jrDZWJQ13ZBVk57Lzyiq1"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Merenboom Vol. 4",
+        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 298280,
+      "name": "El Avion",
+      "url": "https://open.spotify.com/track/5mpvrAdbbSvThDIKygCrPL"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
         "name": "Diciembre Colombiano",
         "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 253506,
       "name": "Aguinaldo Navide\u00f1o",
       "url": "https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "Mistletoe",
-        "url": "https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
+        "name": "La G\u00fcera Salom\u00e9",
+        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "La G\u00fcera Salom\u00e9",
+      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
         "name": "MI REGALO",
         "url": "https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 133953,
       "name": "MI REGALO",
       "url": "https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "La G\u00fcera Salom\u00e9",
-        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "La G\u00fcera Salom\u00e9",
-      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
     },
     {
       "added_at": "2025-12-05 16:12:43",

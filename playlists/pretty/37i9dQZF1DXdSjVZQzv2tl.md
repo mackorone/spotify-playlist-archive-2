@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Panda, Gusttavo Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,082,195 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,082,292 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 24 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |
 | 25 | [Aceita Que Acabou \- Ao Vivo](https://open.spotify.com/track/6fNQLvaEEOdDrnkQQD0D66) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Aceita Que Acabou \(Ao Vivo\)](https://open.spotify.com/album/4CmPrEUmKroXZIuyniOpX3) | 2:35 |
 | 26 | [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 |
-| 27 | [Projeto de Amor \- Ao Vivo](https://open.spotify.com/track/3SiyPnpMfQZmn9Wp24wVxA) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH) | [Projeto de Amor \(Ao Vivo\)](https://open.spotify.com/album/5y9O85bYXot8ZKdjggReFl) | 2:40 |
+| 27 | [Projeto de Amor \- Ao Vivo](https://open.spotify.com/track/3SiyPnpMfQZmn9Wp24wVxA) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH) | [De Cara Nova \(Ao Vivo\)](https://open.spotify.com/album/5y9O85bYXot8ZKdjggReFl) | 2:40 |
 | 28 | [Dedinho de Por Aliança \- Ao Vivo](https://open.spotify.com/track/7w5Q1hqnEtRwmPqflWI5Ql) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Dedinho de Por Aliança \(Ao Vivo\)](https://open.spotify.com/album/55nXPGB4FAxBNheBjvopOG) | 2:35 |
 | 29 | [Sol Nos Olhos](https://open.spotify.com/track/4mevJ3Ki58x4cQgWheMAPd) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Sol Nos Olhos](https://open.spotify.com/album/3jJoGyBkSeVYLCEAnpzQ2H) | 3:19 |
 | 30 | [Desocupa](https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Altas Modas](https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh) | 2:30 |

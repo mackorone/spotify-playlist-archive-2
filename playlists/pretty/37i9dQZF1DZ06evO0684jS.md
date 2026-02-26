@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,496 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,480 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [I Wanna Be With You](https://open.spotify.com/track/2sCZO96vtyeW3jQDStk7gJ) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Suffering From Success \(Deluxe Version\)](https://open.spotify.com/album/00y0wSOl8PlNa5I2JeCUwP) | 4:12 |
 | 50 | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI) | 3:50 |
 
-Snapshot ID: `aZuYgAAAAAAMS8eWNOSMupcyM2AeVbWg`
+Snapshot ID: `aZzqAAAAAABK5UrAxDJws+4Qch0js6nH`

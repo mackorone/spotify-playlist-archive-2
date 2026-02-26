@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60249,
+  "num_followers": 60265,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Ai Ett\u00e4",
-        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Ai Ett\u00e4",
-      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "YEBO",
         "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 162205,
       "name": "At The Party",
       "url": "https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Ai Ett\u00e4",
+        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Ai Ett\u00e4",
+      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
+        "name": "Syd\u00e4n (feat. Alina Burnet)",
+        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        }
+      ],
+      "duration_ms": 225061,
+      "name": "Syd\u00e4n (feat. Alina Burnet)",
+      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
         "name": "Best For You",
         "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
       },
@@ -747,42 +767,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Syd\u00e4n (feat. Alina Burnet)",
-        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        },
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        }
-      ],
-      "duration_ms": 225061,
-      "name": "Syd\u00e4n (feat. Alina Burnet)",
-      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
-        "name": "Feels Like Heaven",
-        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "T\u00e4hdet",
         "url": "https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 195194,
       "name": "T\u00e4hdet",
       "url": "https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Ihan kohta ohi",
-        "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        },
-        {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Ihan kohta ohi",
-      "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 170343,
       "name": "Se ei mennyt niin",
       "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Ihan kohta ohi",
+        "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        },
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Ihan kohta ohi",
+      "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Totuus sattuu",
-        "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "pehmoaino",
-          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
-        }
-      ],
-      "duration_ms": 165688,
-      "name": "Totuus sattuu",
-      "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
         "url": "https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR"
       },
@@ -1019,18 +999,22 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
+        "name": "Totuus sattuu",
+        "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
       "artists": [
         {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
         }
       ],
-      "duration_ms": 191119,
-      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
+      "duration_ms": 165688,
+      "name": "Totuus sattuu",
+      "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1067,22 +1051,18 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
+        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
       },
       "artists": [
         {
-          "name": "Lage",
-          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
-        },
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
+      "duration_ms": 191119,
+      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1099,6 +1079,26 @@
       "duration_ms": 177160,
       "name": "Aloittelijat",
       "url": "https://open.spotify.com/track/3N3BAE6zMcLGl4znCXtzoI"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
+        "name": "Pieni ikuisuus",
+        "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Susta l\u00f6ysin kodin",
+      "url": "https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
         "name": "Kuolisin sun kaa (feat. pehmoaino)",
         "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 206999,
       "name": "Kuolisin sun kaa (feat. pehmoaino)",
       "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
-        "name": "Pieni ikuisuus",
-        "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Susta l\u00f6ysin kodin",
-      "url": "https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
-        "url": "https://open.spotify.com/album/618cHLDsjL1S9kvLL6pN23"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
-      "url": "https://open.spotify.com/track/4cuTbzakxCV05eZydN4Inf"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "OK (feat. ANI)",
         "url": "https://open.spotify.com/album/2g6fLu9kfMCuv59elnWu73"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Toimitusjohtaja",
-        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+        "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
+        "url": "https://open.spotify.com/album/618cHLDsjL1S9kvLL6pN23"
       },
       "artists": [
         {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 165438,
-      "name": "Toimitusjohtaja",
-      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+      "duration_ms": 206760,
+      "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
+      "url": "https://open.spotify.com/track/4cuTbzakxCV05eZydN4Inf"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1327,6 +1311,22 @@
       "duration_ms": 176754,
       "name": "Uus ikuisuus",
       "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Toimitusjohtaja",
+        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "duration_ms": 165438,
+      "name": "Toimitusjohtaja",
+      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
     },
     {
       "added_at": "2026-02-19 22:00:20",

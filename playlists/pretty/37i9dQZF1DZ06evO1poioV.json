@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 120515,
+  "num_followers": 120537,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADmlOLdvzO7zxOz11kRXzBz",
+  "snapshot_id": "aZzqAAAAAAAM7vXVspG/pHH+ug1/e8vE",
   "tracks": [
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Hold out Your Hand",
+      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cayamo Sessions At Sea",
         "url": "https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 287346,
       "name": "Angel From Montgomery",
       "url": "https://open.spotify.com/track/5cXqZHyuESB0haAwRm2SLV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Hold out Your Hand",
-      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

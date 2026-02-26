@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Sion\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 공원 \(gongwon\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,259 songs - 3 day 4 hr 12 min
+1,261 songs - 3 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [All Alone](https://open.spotify.com/track/2phImRcqOev8XOfwlNnRb4) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB) | [Puzzle \- The Second Piece](https://open.spotify.com/album/5yydNweYNhy15YBz3v6lgn) | 3:49 | 2022-03-31 | 2022-04-15 |
 | [All at Sea](https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5) | [Ha Yang Su](https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA) | [All at Sea](https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe) | 3:28 | 2022-08-18 | 2022-09-06 |
 | [All My Friends Kill Me](https://open.spotify.com/track/4C8qPNCHXKTYD56KrPzKQP) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [All My Friends Kill Me](https://open.spotify.com/album/12oTig0EoVdptk5abXIcJ9) | 3:02 | 2022-07-04 | 2022-07-09 |
-| [All of me](https://open.spotify.com/track/0GPbxTKmIt498pYnWl5e31) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [0](https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H) | 4:42 | 2026-02-24 |  |
+| [All of me](https://open.spotify.com/track/0GPbxTKmIt498pYnWl5e31) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [\[0\]](https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H) | 4:42 | 2026-02-24 |  |
 | [allang mallang](https://open.spotify.com/track/5i2NJDXiUvCdH8yDX9FQ6b) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [allang mallang](https://open.spotify.com/album/31fB7mjP83b3Mf96sfmaZh) | 2:00 | 2025-06-04 | 2025-06-21 |
 | [Aloha 알로하](https://open.spotify.com/track/5493pPnFuPUaivtqso3NJo) | [ourlingo](https://open.spotify.com/artist/7zXov1xoHzEmIcnA83HjIR) | [Aloha 알로하](https://open.spotify.com/album/1bUgeTDXvqO8D3TESAhot7) | 4:05 | 2022-03-31 | 2022-07-06 |
 | [Alone](https://open.spotify.com/track/3gdNDVytyAtgqSCRNWgqMw) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:57 | 2022-03-31 | 2022-04-11 |
@@ -194,7 +194,7 @@
 | [Cloud9](https://open.spotify.com/track/1wNA3wgfFjnCiyHYxP1ikT) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Cloud9](https://open.spotify.com/album/7DaOuJSWAfL98jLvZZk46D) | 2:42 | 2025-09-09 | 2025-10-15 |
 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 | 2024-11-07 |
 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 | 2024-09-23 |
-| [Colors](https://open.spotify.com/track/75B0KXGfYPudHeIrcluYxV) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Colors](https://open.spotify.com/album/7MQNT8BAjRJEHirw6Tn8xR) | 4:07 | 2026-01-30 |  |
+| [Colors](https://open.spotify.com/track/75B0KXGfYPudHeIrcluYxV) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Colors](https://open.spotify.com/album/7MQNT8BAjRJEHirw6Tn8xR) | 4:07 | 2026-01-30 | 2026-02-26 |
 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 | 2024-11-21 |
 | [Come Home](https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Come Home](https://open.spotify.com/album/5mJCFK2xpXiorhIr73ng1b) | 2:32 | 2024-11-06 | 2025-01-02 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
@@ -226,6 +226,7 @@
 | [Daydreamer](https://open.spotify.com/track/3SFEmtI1gkOoIwe2zPeSsU) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Daydreamer](https://open.spotify.com/album/1OQAB8ZQaN5d7xpkxkH8C7) | 4:30 | 2025-01-30 | 2025-04-11 |
 | [DDDD!](https://open.spotify.com/track/7uP6YcBFEsOMf7CxuqrjPh) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [DDDD!](https://open.spotify.com/album/0RUSetshoG0y6QABMEzLJw) | 4:58 | 2025-09-02 | 2025-10-10 |
 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 | 2021-12-21 | 2022-04-22 |
+| [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 |  |
 | [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 | 2025-11-29 |
 | [dear ari](https://open.spotify.com/track/2DdGj1EfEHM6nPn85yNXsx) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 2:19 | 2025-06-27 | 2025-09-12 |
 | [Dear Day](https://open.spotify.com/track/0AHPzmxZ6NH1PRpDLlXnyo) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Dear Day](https://open.spotify.com/album/5tc2pEYvxlIXiShZkKyLd8) | 2:57 | 2025-07-22 | 2025-07-24 |
@@ -571,7 +572,7 @@
 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-04 | 2025-10-30 |
 | [Kids Return](https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Kids Return](https://open.spotify.com/album/5APljpDUTlWR1k4r0wAidl) | 4:06 | 2025-10-20 | 2025-11-14 |
 | [King Carp](https://open.spotify.com/track/6Vy5hcBcUylOESHdetifDh) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Tales From A Wanderer](https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU) | 3:29 | 2024-11-29 | 2024-12-11 |
-| [King of the New World](https://open.spotify.com/track/5Jx7Z2gn3qsYmP0pbvLtCZ) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Brave New World](https://open.spotify.com/album/2L35hn411crur8GTV59aAl) | 3:01 | 2026-01-21 |  |
+| [King of the New World](https://open.spotify.com/track/5Jx7Z2gn3qsYmP0pbvLtCZ) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Brave New World](https://open.spotify.com/album/2L35hn411crur8GTV59aAl) | 3:01 | 2026-01-21 | 2026-02-26 |
 | [Knife](https://open.spotify.com/track/4O04LPUW3X7m1R6SKenajy) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Knife](https://open.spotify.com/album/59ziHXG8JXVfWWAFSGVIa3) | 5:45 | 2024-04-30 | 2024-05-10 |
 | [Koh](https://open.spotify.com/track/46Lj7x56cblascUpt0gDIr) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1ALovj4cwwGaVMgXxEzO5G) | 4:56 | 2025-04-11 | 2025-05-21 |
 | [Koh](https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM) | 4:59 | 2021-12-12 | 2022-07-27 |
@@ -1172,6 +1173,7 @@
 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 | 2023-01-10 | 2023-02-16 |
 | [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 | 2023-09-15 | 2024-05-09 |
 | [WHO AND Y](https://open.spotify.com/track/7iYRQyYSZPG48YTi2EY568) | [ECHOINSIDE](https://open.spotify.com/artist/2t7LttW5g8t9Opw26wZ8Rz) | [WHO AND Y](https://open.spotify.com/album/26GodV5kiq9rVDUoNoQIlF) | 3:43 | 2024-04-30 | 2024-05-10 |
+| [Who I've Become](https://open.spotify.com/track/3buxRmvpflSFLLhkXeVcwv) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Who I've Become](https://open.spotify.com/album/7mFAFVgcpV59tAZ6Isy3FZ) | 3:56 | 2026-02-25 |  |
 | [Who’s with me?](https://open.spotify.com/track/2YEFyXyF1zG78qwLcZrHAg) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Who’s with me?](https://open.spotify.com/album/0gwUIHdPdLUJLPtWI4ZLQA) | 2:58 | 2022-04-12 | 2022-04-17 |
 | [Willow Tree](https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B) | 4:39 | 2022-09-05 | 2022-09-21 |
 | [Willow tree](https://open.spotify.com/track/3uIAjCpqwBgqKiPas8HdRl) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [30](https://open.spotify.com/album/3AyTlFtrzM1uD9d5xmQQiJ) | 4:04 | 2024-02-15 | 2024-05-10 |

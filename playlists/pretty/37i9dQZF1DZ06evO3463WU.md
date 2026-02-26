@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,375 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,373 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Ya No Vives En Mí \(¿Cuál Adiós?\) \- Banda](https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya No Vives En Mí \(¿Cuál Adiós?\) \[Banda\]](https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1) | 3:38 |
 | 50 | [Llorando Una Pena](https://open.spotify.com/track/7hAsVEHdN6ZNFVFl0uhey6) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:20 |
 
-Snapshot ID: `aZuYgAAAAAChe0+wV1qWsOL6HGEvLHGW`
+Snapshot ID: `aZzqAAAAAAAv/u+TAubblueMRpEGoaFO`

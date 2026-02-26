@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20661,
+  "num_followers": 20660,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABXo+12mFnEJe5qmwEg0Wx4",
+  "snapshot_id": "aZzqAAAAAACHQCsU4wrTk2LgMDnB89wQ",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Armin Anthems (Incl. Bonus Commentary) [Ultimate Singles Collected]",
+        "url": "https://open.spotify.com/album/1Ros7GgRwoyJbqGn6TELAj"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 117539,
+      "name": "Not Giving Up On Love [Mix Cut]",
+      "url": "https://open.spotify.com/track/1qarRR4Fxt3VfWmaNqtVIU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -623,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "Come with Us",
-      "url": "https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -651,6 +655,22 @@
       "duration_ms": 203520,
       "name": "Lover",
       "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "Come with Us",
+      "url": "https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV"
     },
     {
       "added_at": null,
@@ -675,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Armin Anthems (Incl. Bonus Commentary) [Ultimate Singles Collected]",
-        "url": "https://open.spotify.com/album/1Ros7GgRwoyJbqGn6TELAj"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 117539,
-      "name": "Not Giving Up On Love [Mix Cut]",
-      "url": "https://open.spotify.com/track/1qarRR4Fxt3VfWmaNqtVIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
@@ -704,25 +704,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 253480,
-      "name": "Beyond the Universe",
-      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "Wild Forever",
-      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
+      "duration_ms": 253293,
+      "name": "Breaking the Circle",
+      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 240040,
       "name": "Runaway Daydreamer",
       "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "Wild Forever",
+      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
     },
     {
       "added_at": null,
@@ -768,9 +768,29 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Breaking the Circle",
-      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
+      "duration_ms": 253480,
+      "name": "Beyond the Universe",
+      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "While You're Still Young (From ''Everybody's Talking About Jamie'')",
+        "url": "https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "The Feeling",
+          "url": "https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
+      "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
     },
     {
       "added_at": null,
@@ -795,26 +815,6 @@
       "duration_ms": 225000,
       "name": "Only Child - Atlantic Remix",
       "url": "https://open.spotify.com/track/3ctNp68FT0mcCQA7sgT5V1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "While You're Still Young (From ''Everybody's Talking About Jamie'')",
-        "url": "https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "The Feeling",
-          "url": "https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
-      "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
     },
     {
       "added_at": null,

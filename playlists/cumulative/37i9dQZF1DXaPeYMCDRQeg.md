@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-466 songs - 1 day 4 hr 57 min
+467 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2yb5Ao7Yk2nl9YFnNwKi5F) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:03 | 2021-12-15 | 2023-01-01 |
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 | 2022-03-14 | 2023-02-11 |
 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-21 |  |
-| [Birds & the Bees](https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:16 | 2026-02-24 |  |
+| [Birds & the Bees](https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:16 | 2026-02-24 | 2026-02-26 |
 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 | 2024-06-20 | 2024-06-30 |
 | [Blue Monk](https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [The Complete Prestige 10\-Inch LP Collection](https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC) | 7:39 | 2024-06-20 | 2024-06-30 |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-07 | 2025-06-18 |
@@ -161,6 +161,7 @@
 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/0QQDaKW7eRRoqvbLCylzrn) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 4:39 | 2022-03-14 | 2023-02-06 |
 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2025-05-31 | 2025-12-06 |
 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 | 2023-02-10 | 2025-06-25 |
+| [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 | 2026-02-25 |  |
 | [Got Me \(with Ari Lennox & Omen feat\. Ty Dolla $ign & Dreezy\)](https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:44 | 2024-01-31 | 2025-05-31 |
 | [Guess Who Loves You More](https://open.spotify.com/track/5tUXQvc0yMQD42799A1mec) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [The Love Experience](https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0) | 5:20 | 2023-02-10 | 2024-02-01 |
 | [Hadju](https://open.spotify.com/track/2G36LWUjbXDsOiPvEmSEIL) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [California Player](https://open.spotify.com/album/0sZWaBtpP7HSbfR0GZdjJ0) | 2:26 | 2025-08-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Twenty One Pilots",
+  "description": "The UK's biggest rock playlist. Cover: American Football",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 186373,
       "name": "Anything In Between",
       "url": "https://open.spotify.com/track/0rKAcJLdomDit9vwTabH7Z"
@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Bad Moons",
+        "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493146,
+      "name": "Bad Moons",
+      "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
+    },
+    {
+      "album": {
         "name": "LOTTO",
         "url": "https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT"
       },
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 184624,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 148663,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 202103,
       "name": "Catching Up 2 U",
       "url": "https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD"
@@ -7765,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "Gladrags",
+        "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190230,
+      "name": "Gladrags",
+      "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
+    },
+    {
+      "album": {
         "name": "Glasgow",
         "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
       },
@@ -9004,7 +9040,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 186289,
       "name": "Hippie Sunshine",
       "url": "https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP"
@@ -12322,7 +12358,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 176000,
       "name": "Major Threat",
       "url": "https://open.spotify.com/track/3b1yLTfE5MHVspXc8rjfoy"
@@ -15537,6 +15573,24 @@
     },
     {
       "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
+    },
+    {
+      "album": {
         "name": "BIRDBRAIN / PIG",
         "url": "https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq"
       },
@@ -16316,7 +16370,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 272880,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/7oViH3tXp5dpqSTOfnBmef"
@@ -17056,7 +17110,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 286421,
       "name": "SAFE",
       "url": "https://open.spotify.com/track/5rLk33lqH3R81LUfQ6IPHD"
@@ -17654,7 +17708,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 175280,
       "name": "Shoe Size",
       "url": "https://open.spotify.com/track/2UMuclVmetOgBZ4IJRVNYO"

@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-142 songs - 8 hr 52 min
+143 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dance With Me](https://open.spotify.com/track/6OmQaUueJoPh8sPO4QnRi0) | [VƟIZ](https://open.spotify.com/artist/4iRLEpQZPZqtRG4TEROB5o) | [Dance With Me](https://open.spotify.com/album/7sHR6SRXD5QR84E2EiztUu) | 3:20 | 2025-10-27 | 2026-01-15 |
 | [Dear Life](https://open.spotify.com/track/2YF3yvLeegk8Qu8cfJMFda) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Dear Life](https://open.spotify.com/album/2dQTUOCE0wZy47WHq7LGqH) | 4:34 | 2025-10-30 |  |
 | [Delirio](https://open.spotify.com/track/0PaTKb73vDPXpFlYYIJiZm) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Sueños que mueren escondidos](https://open.spotify.com/album/2nhHcXG7FRWJ4X1gcpKSoe) | 4:47 | 2025-10-30 |  |
+| [Disappointment](https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Disappointment](https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX) | 4:31 | 2026-02-25 |  |
 | [Doc](https://open.spotify.com/track/0XqRUwiwEwuset4qeNCkGZ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:13 | 2025-10-06 |  |
 | [Don't Care](https://open.spotify.com/track/6rCmUJ8b0ZFJnUYt7re4sY) | [Th Macrini](https://open.spotify.com/artist/4kNlOEwSyR8MGyxOiN4UGq) | [Don't Care](https://open.spotify.com/album/6g6CiSM0sKYuvbG1fVpE6G) | 2:35 | 2025-11-14 |  |
 | [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 | 2025-11-20 |  |

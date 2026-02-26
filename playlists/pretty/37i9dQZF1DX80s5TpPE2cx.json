@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 19909,
+  "num_followers": 19921,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 191179,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 191898,
       "name": "Broken Promises",
       "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 191179,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Wuse II (feat. Odunsi)",
-        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 269552,
-      "name": "Wuse II",
-      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 124751,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Wuse II (feat. Odunsi)",
+        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 269552,
+      "name": "Wuse II",
+      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Lagos City Vice",
+        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "China Designer",
+      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 193249,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Lagos City Vice",
-        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
-      },
-      "artists": [
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "China Designer",
-      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
     },
     {
       "added_at": "2025-06-20 07:45:33",

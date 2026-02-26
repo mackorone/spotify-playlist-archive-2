@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > you met me at a very indie twang time in my life..\. Ratboys on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,301 likes - 152 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,327 likes - 152 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 151 | [Not My Body](https://open.spotify.com/track/2JterjxLlyT5hgIXkhcfiH) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 4:11 |
 | 152 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 
-Snapshot ID: `AAAAADBk8wAdyHhb+knuWlfyoWyW+viS`
+Snapshot ID: `AAAAAEPvj7bG+GRM6nUBdVM7pfQoUFhM`

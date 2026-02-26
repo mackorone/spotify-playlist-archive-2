@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-401 songs - 18 hr 54 min
+402 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Only you](https://open.spotify.com/track/3CqQsTiEYjy3LQXvxmdBws) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Only You](https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw) | 3:00 | 2023-07-28 | 2025-08-14 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 | 2024-08-23 |
-| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 |  |
+| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 | 2026-02-26 |
 | [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 | 2023-09-28 | 2026-02-12 |
 | [Organica](https://open.spotify.com/track/4Xuh7a0a5z0WbI6SZ0v5Co) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Organica](https://open.spotify.com/album/2EvzFQ2SIe2gvNGtb71MwT) | 3:12 | 2024-06-03 |  |
 | [Out of Eden](https://open.spotify.com/track/5RsNR1zgJQuIL8SNlGTVi5) | [Lierre](https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku) | [Out of Eden](https://open.spotify.com/album/65R8o5g2PzwEzUsXPnb46O) | 2:31 | 2026-02-18 |  |
@@ -350,6 +350,7 @@
 | [Soul of the Forest](https://open.spotify.com/track/3Evie0ZEPWWHpo1Iu2q3px) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Soul of the Forest](https://open.spotify.com/album/7j5LGI6TQiwb7qVgFuBqlf) | 3:09 | 2025-12-18 |  |
 | [Soulful Stillness](https://open.spotify.com/track/6NwnfeMjU4jZ7pNvQkKprw) | [Estela Brillo](https://open.spotify.com/artist/23bHOz8UNu33GhJXVwadtu) | [Soulful Stillness](https://open.spotify.com/album/5qZgaQCkX5Xj8lUmbmJ7kC) | 3:48 | 2024-11-28 | 2025-04-21 |
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-03-01 | 2024-12-05 |
+| [Spirits of the Forest](https://open.spotify.com/track/7msLXwo8PXqnqgFJd4flKq) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Spirits of the Forest](https://open.spotify.com/album/5i6A1J1ux4zb7XKyOr6ODo) | 2:24 | 2026-02-18 |  |
 | [Spiritual Sleep](https://open.spotify.com/track/3YuYnf5gPQPmzKW3UtEQ0M) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Queen of Spiritual Sleep](https://open.spotify.com/album/3lkICAnE41Hj074kuJDeit) | 2:36 | 2023-01-24 | 2023-03-29 |
 | [Spring Clouds](https://open.spotify.com/track/11kRiD05qrqz0CZVn01fz3) | [Enhance Peace](https://open.spotify.com/artist/1RQvOAOwjjtAXCfVm8pXnP) | [Spring Clouds](https://open.spotify.com/album/4tBdEwThBvnwCwMlkasQbh) | 3:04 | 2025-10-01 |  |
 | [Still Meadow](https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Still Meadow](https://open.spotify.com/album/4A9oX0bimFi9jrIbMKXonL) | 2:36 | 2026-01-21 |  |

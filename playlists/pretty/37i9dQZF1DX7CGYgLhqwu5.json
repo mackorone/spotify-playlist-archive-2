@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 385488,
+  "num_followers": 385490,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwynueYWSRMh4GVJqsehEsLIweK",
+  "snapshot_id": "AAAAAIsktG1FTt7J6ZbNaakzAbhgHAoM",
   "tracks": [
     {
       "added_at": "2026-02-17 04:47:51",
@@ -255,18 +255,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
+        "name": "The Cold Hard Facts of Life",
+        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "The Cold Hard Facts of Life",
+      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 140733,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
-        "name": "The Cold Hard Facts of Life",
-        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "The Cold Hard Facts of Life",
-      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
     },
     {
       "added_at": "2026-02-17 04:47:51",

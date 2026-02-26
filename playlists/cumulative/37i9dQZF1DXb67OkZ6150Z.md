@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-487 songs - 1 day 5 hr 49 min
+488 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,9 +260,10 @@
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-03-12 | 2022-08-10 |
 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 |  |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2021-03-12 |  |
+| [Last Train to London](https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Last Train to London](https://open.spotify.com/album/0Gp9FL1cWMilwrVtlalcUx) | 2:59 | 2026-02-25 |  |
 | [Lavender Haze](https://open.spotify.com/track/0uds6C87jkBsk9gShJcuRz) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Lavender Haze](https://open.spotify.com/album/3anKF2HvkkACb8cozbL5Zg) | 3:26 | 2024-03-08 | 2024-05-18 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/1XfbGoHFVubq0t4Bw8dPre) | [Pale Honey](https://open.spotify.com/artist/5vINmZdKrgF32tSV2adC7q) | [Lay All Your Love on Me](https://open.spotify.com/album/25LbjtI4lwZKcYhkHxPcwx) | 3:59 | 2021-03-12 | 2022-04-12 |
-| [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 | 2023-09-22 | 2024-09-07 |
+| [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 | 2023-09-22 |  |
 | [Light Years \- The National Cover](https://open.spotify.com/track/7uAhjayzJxAo7lnmcyAqqg) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Light Years \(The National Cover\)](https://open.spotify.com/album/15rgJS2CtlWy2BscYiHpvr) | 3:01 | 2021-03-12 | 2022-07-29 |
 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-20 | 2023-09-24 |
 | [Like a Rolling Stone](https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [The Full Moon Project](https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi) | 6:49 | 2023-05-05 | 2024-04-19 |
@@ -327,7 +328,7 @@
 | [Passionfruit \(triple j Like A Version\)](https://open.spotify.com/track/6fi8m0iBPSrTPHle0CEJev) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Passionfruit \(triple j Like A Version\)](https://open.spotify.com/album/3zVSYp1orCu1El55j05lkK) | 4:28 | 2021-03-12 | 2022-04-21 |
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-03-12 |  |
 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 | 2022-11-11 | 2024-04-19 |
-| [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-08 |  |
+| [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-08 | 2026-02-26 |
 | [Playground Love](https://open.spotify.com/track/52ggts0Q0n28pTwuJFQTCI) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Covers](https://open.spotify.com/album/2sGDyZu2wBzVd1HIy8fAcw) | 2:28 | 2021-03-12 | 2022-07-28 |
 | [Present Tense \- Radiohead cover](https://open.spotify.com/track/1XHpcCxpyC3aB5kuDmOs1j) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Present Tense](https://open.spotify.com/album/3p6W178kmHM6ExQkWJURNz) | 4:35 | 2021-03-12 | 2022-07-21 |
 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 | 2021-11-19 |  |
@@ -365,7 +366,7 @@
 | [Some Things Last A Long Time](https://open.spotify.com/track/45OkuBV8goyDppKZg3amkk) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go b/w Some Things Last A Long Time](https://open.spotify.com/album/1DZPuUHbDCJ3aeaNMXoNJX) | 6:09 | 2021-07-21 | 2022-07-16 |
 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 | 2023-07-20 | 2023-09-27 |
 | [Someday](https://open.spotify.com/track/0zq8RD39kiIern93PYjokX) | [Yung Heazy](https://open.spotify.com/artist/15fMBLwvm3qGTWXgdxOUCV) | [Someday](https://open.spotify.com/album/3jLLKEZNhE5TQzpG87sCn3) | 3:50 | 2021-04-02 | 2022-04-15 |
-| [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 | 2021-03-12 |  |
+| [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 | 2021-03-12 | 2026-02-26 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/6hl8fTB0WYTxNeprQyaXVu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0KmAIeQsUKJcXTidjGIEeL) | 4:24 | 2021-03-12 | 2022-07-29 |
 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 | 2021-03-12 | 2023-07-21 |
 | [Something on Your Mind](https://open.spotify.com/track/0EU7AnMPGjF7yiP6Z4iXmd) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Something on Your Mind](https://open.spotify.com/album/6BN8tJLdplkqC3MjiRQCuU) | 3:42 | 2022-01-28 | 2022-07-29 |

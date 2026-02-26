@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,327 likes - 89 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,340 likes - 89 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 79 | [Multipartisme](https://open.spotify.com/track/5BPCKdURYUk6lXrzHcId3x) | [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0) | [Multipartisme](https://open.spotify.com/album/06WOEIneztsCs9nYGfmyYW) | 4:10 |
 | 80 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
 | 81 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
-| 82 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 |
-| 83 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
+| 82 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
+| 83 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 |
 | 84 | [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 |
 | 85 | [Origen Natural](https://open.spotify.com/track/3VTg7UaLie6HofBvSnOHzQ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Origen Natural](https://open.spotify.com/album/1SNVNkeVZNmyxK1komzCxC) | 3:17 |
 | 86 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
 | 87 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
-| 88 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
-| 89 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
+| 88 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
+| 89 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
 
 Snapshot ID: `AAAAAMk49LiRxazchh+xiTIaba/UndN5`

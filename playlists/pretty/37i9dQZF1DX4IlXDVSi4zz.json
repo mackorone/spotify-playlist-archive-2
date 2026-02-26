@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1001363,
+  "num_followers": 1001541,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-02-20 05:00:32",
       "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
+      "added_at": "2026-02-20 05:00:32",
+      "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
-    },
-    {
-      "added_at": "2026-02-20 05:00:32",
-      "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        }
-      ],
-      "duration_ms": 152304,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "added_at": "2026-02-20 05:00:32",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-02-20 05:00:32",
       "album": {
-        "name": "Beso (Fruta Fresca)",
-        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 197694,
-      "name": "Beso (Fruta Fresca)",
-      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
-    },
-    {
-      "added_at": "2026-02-20 05:00:32",
-      "album": {
         "name": "Sauti",
         "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
+    },
+    {
+      "added_at": "2026-02-20 05:00:32",
+      "album": {
+        "name": "Beso (Fruta Fresca)",
+        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 197694,
+      "name": "Beso (Fruta Fresca)",
+      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
     },
     {
       "added_at": "2026-02-20 05:00:32",
@@ -979,30 +979,6 @@
     {
       "added_at": "2026-02-20 05:00:32",
       "album": {
-        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 163804,
-      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
-    },
-    {
-      "added_at": "2026-02-20 05:00:32",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+    },
+    {
+      "added_at": "2026-02-20 05:00:32",
+      "album": {
+        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 163804,
+      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
     },
     {
       "added_at": "2026-02-20 05:00:32",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-02-20 05:00:32",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
-    },
-    {
-      "added_at": "2026-02-20 05:00:32",
-      "album": {
         "name": "Crazy For It",
         "url": "https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 250578,
       "name": "Crazy For It",
       "url": "https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r"
+    },
+    {
+      "added_at": "2026-02-20 05:00:32",
+      "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
     },
     {
       "added_at": "2026-02-20 05:00:32",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-02-20 05:00:32",
       "album": {
-        "name": "Dreamin (feat. Daya)",
-        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 171526,
-      "name": "Dreamin (feat. Daya)",
-      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
-    },
-    {
-      "added_at": "2026-02-20 05:00:32",
-      "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "added_at": "2026-02-20 05:00:32",
+      "album": {
+        "name": "Dreamin (feat. Daya)",
+        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 171526,
+      "name": "Dreamin (feat. Daya)",
+      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
     },
     {
       "added_at": "2026-02-20 05:00:32",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2026-02-20 05:00:32",
       "album": {
+        "name": "Peru (Peace Control Remix)",
+        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        }
+      ],
+      "duration_ms": 287179,
+      "name": "Peru - Peace Control Remix",
+      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
+    },
+    {
+      "added_at": "2026-02-20 05:00:32",
+      "album": {
         "name": "Dame Un Grrr (Provi Remix)",
         "url": "https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 120000,
       "name": "Dame Un Grrr - Provi Remix Radio Edit",
       "url": "https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L"
-    },
-    {
-      "added_at": "2026-02-20 05:00:32",
-      "album": {
-        "name": "Peru (Peace Control Remix)",
-        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Peru - Peace Control Remix",
-      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
     },
     {
       "added_at": "2026-02-20 05:00:32",

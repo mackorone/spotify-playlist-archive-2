@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayo Maff, Mavo, Moses Bliss, Verbb, Brent Faiyaz, Nasty C, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,947 likes - 66 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,970 likes - 66 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Where your favourites hang out with your next favourites. Cover: Charlotte Day Wilson",
-  "num_followers": 41352,
+  "num_followers": 41349,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 307151,
       "name": "Nights",
       "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "This Is How Tomorrow Moves",
-        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 221874,
       "name": "Perfect Places",
       "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 185152,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 185152,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
+        "name": "Being So Normal",
+        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Alrighty Aphrodite",
+      "url": "https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
         "name": "Always Love featuring Hyunjin (Stray Kids)",
         "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Being So Normal",
-        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Alrighty Aphrodite",
-      "url": "https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1631,22 +1651,6 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2026-02-20 05:01:31",

@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 726640,
+  "num_followers": 726770,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Love Songs (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Love Songs (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 172261,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Love Songs (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Love Songs (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Settle (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 244174,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "The Ocean (feat. Shy Martin)",
         "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 183414,
       "name": "The Ocean (feat. Shy Martin)",
       "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Settle (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 244174,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
+      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
-        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
-        }
-      ],
-      "duration_ms": 195210,
-      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
-      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Stargazing - EP",
+        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "A Little Closer",
         "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Stargazing - EP",
-        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
     },
     {
       "added_at": "2025-10-17 04:00:45",

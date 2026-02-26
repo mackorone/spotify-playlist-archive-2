@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Lekaa, Omah Lay, ODUMODUBLVCK",
-  "num_followers": 636290,
+  "num_followers": 636330,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 188127,
       "name": "All The Love",
       "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 137100,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -863,6 +843,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 137100,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 182222,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -899,18 +915,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -931,26 +951,6 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Where You Dey",
-        "url": "https://open.spotify.com/album/3UwvuwtlVtrmnpb8jPubXf"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Where You Dey",
-      "url": "https://open.spotify.com/track/7IgIgtb2tud3KGvik0M5uG"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Gaddem",
         "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 161454,
       "name": "Gaddem",
       "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Where You Dey",
+        "url": "https://open.spotify.com/album/3UwvuwtlVtrmnpb8jPubXf"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Where You Dey",
+      "url": "https://open.spotify.com/track/7IgIgtb2tud3KGvik0M5uG"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1323,22 +1323,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+        "name": "CiCi (Deluxe)",
+        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+      "duration_ms": 159272,
+      "name": "Nice n' Sweet (feat. MOLIY)",
+      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     }
   ],
   "unique_name": "Afropop",

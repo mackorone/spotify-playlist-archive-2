@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAKqDwL1gDvCDrhD9+AugCncvgZjl8S",
+  "snapshot_id": "AAAKq/uvMcPwHFU8K8n8kOWx6KHKnkjX",
   "tracks": [
     {
       "added_at": "2026-01-11 05:05:30",
@@ -2475,6 +2475,54 @@
       "duration_ms": 196304,
       "name": "Nerves of Steel",
       "url": "https://open.spotify.com/track/21heBobd16ggH4cfDKll9A"
+    },
+    {
+      "added_at": "2026-02-25 18:14:36",
+      "album": {
+        "name": "Parar respirar pensar y actuar",
+        "url": "https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ"
+      },
+      "artists": [
+        {
+          "name": "Orlando Vitale",
+          "url": "https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa"
+        }
+      ],
+      "duration_ms": 300931,
+      "name": "Parar respirar pensar y actuar",
+      "url": "https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5"
+    },
+    {
+      "added_at": "2026-02-25 18:16:35",
+      "album": {
+        "name": "Maldito Antro",
+        "url": "https://open.spotify.com/album/0ehJgzhkbrUz1EBt13KaV4"
+      },
+      "artists": [
+        {
+          "name": "Puerto Mariel",
+          "url": "https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "Maldito Antro",
+      "url": "https://open.spotify.com/track/78KBfIKs7GKPRPv4j35xyX"
+    },
+    {
+      "added_at": "2026-02-25 18:17:35",
+      "album": {
+        "name": "One of the Reasons",
+        "url": "https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB"
+      },
+      "artists": [
+        {
+          "name": "Dorian Whisper",
+          "url": "https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "One of the Reasons",
+      "url": "https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock 'n Blues   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), Soul",

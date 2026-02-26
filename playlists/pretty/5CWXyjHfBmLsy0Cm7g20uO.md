@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 776 likes - 135 songs - 8 hr 28 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 776 likes - 136 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 133 | [My Instincts](https://open.spotify.com/track/3x0dcn2sHd7slffhftBexy) | [Labasheeda](https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh) | [Changing Lights](https://open.spotify.com/album/6xQy9ym6HVc7RfpL07ZmTk) | 2:28 |
 | 134 | [Whatcha Gonna Do \- \(remix\)](https://open.spotify.com/track/3iSrxoBnDoz5sIHWaS8L5Y) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Whatcha Gonna Do \(remix\)](https://open.spotify.com/album/7nO4OjN6f9xGxLkSGaGFzO) | 3:29 |
 | 135 | [You Are Freak](https://open.spotify.com/track/0VTgOZ03OJ0fN8LKQ513I1) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ) | [Brst 62](https://open.spotify.com/album/0CNmgv2VnSC3R3BisvIENj) | 3:04 |
+| 136 | [Disappointment](https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Disappointment](https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX) | 4:31 |
 
-Snapshot ID: `AAAF5vkjwY11hEtt9nNDEsdFsrFp/+fA`
+Snapshot ID: `AAAF5zt55OF3ThJhQUF5ltf1Zvnh74Z7`

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-501 songs - 1 day 5 hr 28 min
+502 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 | 2025-05-16 |
 | [Hey Little Love](https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hey Little Love](https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9) | 2:38 | 2024-06-27 | 2024-08-16 |
 | [High When You Hold Me](https://open.spotify.com/track/0p6GPkRsbJhDYBXJFuufIr) | [Louise Hoffsten](https://open.spotify.com/artist/5GG0pdHtmalM60Fzer1Yei) | [High When You Hold Me](https://open.spotify.com/album/132pqgouof5WFyqFKNBgYV) | 3:43 | 2025-03-27 | 2025-06-06 |
+| [Himlen är oskyldigt blå](https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Himlen är oskyldigt blå](https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl) | 4:22 | 2026-02-25 |  |
 | [Hit men inte längre](https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Psalmer från sjunde himlen](https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA) | 2:58 | 2025-01-16 | 2025-05-30 |
 | [Hold fast](https://open.spotify.com/track/476m03lRnptvnnRXxumjLs) | [Charlotte Qvale](https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Hold fast](https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW) | 4:18 | 2025-07-03 | 2026-02-20 |
 | [Home](https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Home](https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM) | 3:01 | 2024-08-15 | 2024-09-27 |
@@ -328,7 +329,7 @@
 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2024-12-05 | 2025-05-16 |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2025-04-11 |
 | [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 | 2025-01-10 |
-| [One\-Trick Pony](https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX) | [Toni Holgersson](https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB) | [One\-Trick Pony](https://open.spotify.com/album/6N2klg92TmszKj7waK5Xg7) | 4:56 | 2025-11-06 |  |
+| [One\-Trick Pony](https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX) | [Toni Holgersson](https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB) | [One\-Trick Pony](https://open.spotify.com/album/6N2klg92TmszKj7waK5Xg7) | 4:56 | 2025-11-06 | 2026-02-26 |
 | [Only You](https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Only You](https://open.spotify.com/album/7beHonKtFevWLNsVaMd3CS) | 2:47 | 2025-09-18 |  |
 | [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-10 | 2025-08-16 |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-27 | 2024-08-23 |

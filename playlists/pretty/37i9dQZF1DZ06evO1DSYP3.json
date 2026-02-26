@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABFzVOHxTNTEpl+fnfDR1n0",
+  "snapshot_id": "aZzqAAAAAACdbEk5+e3jN2O7riHJN1DH",
   "tracks": [
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "drink bleach",
-        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "shake ya ass (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What's That?",
         "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 140000,
       "name": "What's That?",
       "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "drink bleach",
+        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "shake ya ass (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "go back in time and (re) discover these gems.",
-  "num_followers": 10994,
+  "num_followers": 2203,
   "original_name": "joyitas vintage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL0n/3xsVJ3k6nyGdcSDodlTAwVi",
+  "snapshot_id": "AAAAAH2HOOSu1KEuKbjEbMOB8VEet+o6",
   "tracks": [
     {
       "added_at": "2024-11-08 19:34:18",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-11-08 19:34:18",
       "album": {
-        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 329155,
-      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
-    },
-    {
-      "added_at": "2024-11-08 19:34:18",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -95,18 +79,18 @@
     {
       "added_at": "2024-11-08 19:34:18",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
+      "duration_ms": 329155,
+      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
     },
     {
       "added_at": "2024-11-08 19:34:18",
@@ -127,6 +111,22 @@
       "duration_ms": 273373,
       "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4"
+    },
+    {
+      "added_at": "2024-11-08 19:34:18",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
     },
     {
       "added_at": "2024-11-08 19:34:18",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-11-08 19:34:18",
       "album": {
-        "name": "Amor Supremo",
-        "url": "https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 344995,
-      "name": "Todo Pasa",
-      "url": "https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB"
-    },
-    {
-      "added_at": "2024-11-08 19:34:18",
-      "album": {
         "name": "Coleccion definitiva (Deluxe)",
         "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 209960,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/3okNQ9w68odjhNWXk6SY1n"
+    },
+    {
+      "added_at": "2024-11-08 19:34:18",
+      "album": {
+        "name": "Amor Supremo",
+        "url": "https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 344995,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB"
     },
     {
       "added_at": "2024-11-08 19:34:18",

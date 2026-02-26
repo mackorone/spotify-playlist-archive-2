@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,144 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,146 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 44 | [No Sigas Llorando](https://open.spotify.com/track/3xPqutXnfGurimsUi02CQj) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [35 Años de Fiesta](https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6) | 2:36 |
 | 45 | [Me He Quedado Solo](https://open.spotify.com/track/6UEb9HmWZnaj5tYWhf6v2O) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:01 |
 
-Snapshot ID: `aZuYgAAAAAAFobWlaMkNux6m/bPgZYx4`
+Snapshot ID: `aZzqAAAAAADuLIKVP8BLFvSrQzr54dEV`

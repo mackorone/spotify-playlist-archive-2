@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with Nonso Amadi from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,567 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,587 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 20 | [Donna's 407](https://open.spotify.com/track/1K9qK0p56XIVmKtJyV4Ohi) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Donna's 407](https://open.spotify.com/album/1R5QxEzFfjG3VLJlXMYQFt) | 3:37 |
 | 21 | [Raw](https://open.spotify.com/track/4gVpr6S2aYVuNlfHg7iCrh) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Vandalizm](https://open.spotify.com/artist/1sTxSvbJ4mbDDZ77k391gt) | [Raw](https://open.spotify.com/album/7CjdYyY2OGDiB4ufweQR3R) | 3:03 |
 | 22 | [Top Of The Charts](https://open.spotify.com/track/59rKd4nyOmFUrF1LwulcRs) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Lane Hall](https://open.spotify.com/artist/2ZfKm6iXzDQqNBmotXFoAc) | [Top Of The Charts](https://open.spotify.com/album/7v2HgybD3ugct4WXuzriKV) | 2:47 |
-| 23 | [Sad on Acid](https://open.spotify.com/track/2Q0dpr3plHBqHDlSmugXhj) | [Kwncy](https://open.spotify.com/artist/2aT09ZalHh3kwFg0ig4vj9) | [Sad on Acid](https://open.spotify.com/album/4IGJ4MiyJam8PminRwCe8b) | 3:34 |
+| 23 | [Sad](https://open.spotify.com/track/2Q0dpr3plHBqHDlSmugXhj) | [Kwncy](https://open.spotify.com/artist/2aT09ZalHh3kwFg0ig4vj9) | [Sad](https://open.spotify.com/album/4IGJ4MiyJam8PminRwCe8b) | 3:34 |
 | 24 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 |
 | 25 | [INNER RISE](https://open.spotify.com/track/3fmmkjuxhyxcRbmjPEmxrj) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK), [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [INNER OPENINGS](https://open.spotify.com/album/1XdkhXGH1bV8n1gMBEDzfY) | 4:10 |
 | 26 | [Under Your Spell](https://open.spotify.com/track/73m3pmHCYyokClUu3bSU4Q) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Under Your Spell](https://open.spotify.com/album/0kEPOQIQPMJyvFaDcx71VC) | 3:14 |

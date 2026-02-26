@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 281840,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b"
@@ -2426,6 +2426,24 @@
       "duration_ms": 238240,
       "name": "This Time Of Year",
       "url": "https://open.spotify.com/track/6IEZSsTVESxddW1CqMClGs"
+    },
+    {
+      "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "Thump",
+      "url": "https://open.spotify.com/track/3vVdzNLiy8wrub6LxY584E"
     },
     {
       "album": {

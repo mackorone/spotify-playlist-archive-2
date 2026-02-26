@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Samara Cyn",
-  "num_followers": 64719,
+  "num_followers": 64718,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "High On Heaven",
-        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "High On Heaven",
-      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 136746,
       "name": "Emerald City",
       "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "High On Heaven",
+        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "High On Heaven",
+      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 245358,
-      "name": "Dead End",
-      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "Move & Flow",
         "url": "https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 236110,
       "name": "Move & Flow",
       "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "Chronic",
-        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 156172,
-      "name": "Chronic",
-      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "Tell Me It's Over",
         "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 176133,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "Chronic",
+        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 156172,
+      "name": "Chronic",
+      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -511,30 +511,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "Finally Over It (The Afterparty)",
-        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230646,
-      "name": "Go Girl (with Latto & Doja Cat)",
-      "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -559,18 +535,26 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "w-w-w-w-w",
-        "url": "https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk"
+        "name": "Finally Over It (The Afterparty)",
+        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 266906,
-      "name": "w-w-w-w-w",
-      "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
+      "duration_ms": 230646,
+      "name": "Go Girl (with Latto & Doja Cat)",
+      "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -587,6 +571,22 @@
       "duration_ms": 178512,
       "name": "mil preguntas",
       "url": "https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "w-w-w-w-w",
+        "url": "https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "w-w-w-w-w",
+      "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "NOT TODAY",
-        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 215286,
-      "name": "NOT TODAY",
-      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "THUM",
         "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 131644,
       "name": "THUM",
       "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "NOT TODAY",
+        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 215286,
+      "name": "NOT TODAY",
+      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
+        "name": "I'm In Love with a Man",
+        "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "I'm In Love with a Man",
+      "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
         "name": "Too Slow (All Night)",
         "url": "https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "I'm In Love with a Man",
-        "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
+        "name": "Bolo Blues",
+        "url": "https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn"
       },
       "artists": [
         {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 181846,
-      "name": "I'm In Love with a Man",
-      "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
+      "duration_ms": 150071,
+      "name": "Bolo Blues",
+      "url": "https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -815,22 +831,6 @@
       "duration_ms": 238319,
       "name": "Moonbeam",
       "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
-        "name": "Bolo Blues",
-        "url": "https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Bolo Blues",
-      "url": "https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN"
     },
     {
       "added_at": "2026-02-23 20:11:02",

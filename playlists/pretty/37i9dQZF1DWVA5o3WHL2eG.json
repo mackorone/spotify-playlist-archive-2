@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: ma\u00efa",
-  "num_followers": 44848,
+  "num_followers": 44841,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Soft Skin",
-        "url": "https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E"
-      },
-      "artists": [
-        {
-          "name": "Jo The Man The Music",
-          "url": "https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ"
-        }
-      ],
-      "duration_ms": 194190,
-      "name": "Rocket Science",
-      "url": "https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Hair on Coffee",
         "url": "https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 201625,
       "name": "Hair on Coffee",
       "url": "https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Soft Skin",
+        "url": "https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E"
+      },
+      "artists": [
+        {
+          "name": "Jo The Man The Music",
+          "url": "https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ"
+        }
+      ],
+      "duration_ms": 194190,
+      "name": "Rocket Science",
+      "url": "https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn"
     },
     {
       "added_at": "2026-02-03 23:00:18",

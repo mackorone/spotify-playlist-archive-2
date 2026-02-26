@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,000 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,003 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 42 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 | 43 | [Pick It Up](https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters](https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h) | 4:11 |
 | 44 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 |
-| 45 | [Eazy \(Feat\. Kanye West\)](https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:53 |
-| 46 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
+| 45 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
+| 46 | [Eazy \(Feat\. Kanye West\)](https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:53 |
 | 47 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 |
 | 48 | [Thug Till It's Over](https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Good Job](https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu) | 2:09 |
 | 49 | [Young G's \(feat\. The Notorious B.I.G\. & Jay\-Z\)](https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z) | [Puff Daddy & The Family](https://open.spotify.com/artist/0O6xHOwK7SOAWec4enHsxr), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 5:25 |

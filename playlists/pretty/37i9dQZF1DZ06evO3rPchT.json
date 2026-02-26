@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 85395,
+  "num_followers": 85410,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAD5L1dhDMyJ5kSC/XXS8IIH",
+  "snapshot_id": "aZzqAAAAAADV42upqAG04efbaqj4Znrc",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Met Anyone Like You (feat. HARDY)",
         "url": "https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 168417,
       "name": "Never Met Anyone Like You (feat. HARDY)",
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 201832,
-      "name": "REDNECKER",
-      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
+      "duration_ms": 221795,
+      "name": "JIM BOB",
+      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 221795,
-      "name": "JIM BOB",
-      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
+      "duration_ms": 201832,
+      "name": "REDNECKER",
+      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
     },
     {
       "added_at": null,

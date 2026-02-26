@@ -5635,7 +5635,7 @@
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 154139,
+      "duration_ms": 123692,
       "name": "MONTAGEM BAILE DE FAVELA",
       "url": "https://open.spotify.com/track/0B0V6mIB9zsL5YyBsgSL02"
     },
@@ -7574,7 +7574,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 99692,
       "name": "OQUE QUE TU QUER X QUERO BRINCAR - MTG",
       "url": "https://open.spotify.com/track/0sDLgxgS9nnm1eTfkHJrMQ"
@@ -7722,6 +7722,36 @@
       "duration_ms": 102901,
       "name": "Papo Furado",
       "url": "https://open.spotify.com/track/12w267rpvnuuTMkRdQQYzn"
+    },
+    {
+      "album": {
+        "name": "Passo com a Bunda e Sarro",
+        "url": "https://open.spotify.com/album/2dGxjKaUbdfsqYREDLwsO5"
+      },
+      "artists": [
+        {
+          "name": "Prod.Nifour",
+          "url": "https://open.spotify.com/artist/71NQK8ufY5t7SeiMAhPB9I"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Storys Funk",
+          "url": "https://open.spotify.com/artist/2b9UFFkMRKYAN6MpqFnqow"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124594,
+      "name": "Passo com a Bunda e Sarro",
+      "url": "https://open.spotify.com/track/1vFgUgPdvxvEBuYnJS03S4"
     },
     {
       "album": {

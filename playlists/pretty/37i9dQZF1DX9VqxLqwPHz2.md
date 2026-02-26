@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today?
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,536 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,571 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 54 | [Woman \(Green\)](https://open.spotify.com/track/3ZWvKLyIWv4IvdZOusuuQm) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 2:51 |
 | 55 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/6unYuPl8iBohf9Rh2YQASG) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/7tMzgvY6LjjCObfrzLWDyc) | 3:08 |
 | 56 | [Good as Hell](https://open.spotify.com/track/6O6GHxwDSCglrJNk2s389L) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbershop: The Next Cut \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ObSqDBs7mTrbhF1noG67r) | 2:38 |
-| 57 | [Me Sabe Mal](https://open.spotify.com/track/5hcPfsdrll5xNkY8W2kxhn) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [1000 Primeras Veces](https://open.spotify.com/album/1DC8WFurhkoIjzxtSwNvDa) | 3:16 |
-| 58 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/02l6cXSMKmizzqOhoYV7sQ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/6YHIqGYTWdIfuDRokPbCjY) | 2:40 |
+| 57 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/02l6cXSMKmizzqOhoYV7sQ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/6YHIqGYTWdIfuDRokPbCjY) | 2:40 |
+| 58 | [Me Sabe Mal](https://open.spotify.com/track/5hcPfsdrll5xNkY8W2kxhn) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [1000 Primeras Veces](https://open.spotify.com/album/1DC8WFurhkoIjzxtSwNvDa) | 3:16 |
 | 59 | [Shotgun](https://open.spotify.com/track/0MfNPl9hLTZ92vJGD6uI2t) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:08 |
 | 60 | [storyman\*](https://open.spotify.com/track/42rZe586CdvyvzQP2EM21A) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [fujiBouyon](https://open.spotify.com/album/2PAVYusQaqinxooK4hkqpL) | 2:28 |
 | 61 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,323 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,319 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 15 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 |
 | 16 | [May I Have This Dance \(Remix\) \[feat\. Chance the Rapper\]](https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [May I Have This Dance \(Remix\) \[feat\. Chance the Rapper\]](https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx) | 3:15 |
 | 17 | [Same Drugs](https://open.spotify.com/track/6m9qPYXmhge2QhBLfFKnVF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 4:17 |
-| 18 | [The Way \(feat\. Chance the Rapper\)](https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 4:22 |
-| 19 | [Juice](https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap \(10th Anniversary \- Complete Edition\)](https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1) | 3:35 |
+| 18 | [Juice](https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap \(10th Anniversary \- Complete Edition\)](https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1) | 3:35 |
+| 19 | [The Way \(feat\. Chance the Rapper\)](https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 4:22 |
 | 20 | [Bad Idea \(feat\. Chance the Rapper\)](https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:54 |
 | 21 | [Juke Jam \(feat\. Justin Bieber & Towkio\)](https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:39 |
 | 22 | [Drapetomania \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [I Might Need Security](https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [I Might Need Security](https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8) | 4:00 |
 | 50 | [Bad Boys 2](https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Bad Boys 2](https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW) | 2:13 |
 
-Snapshot ID: `aZuYgAAAAABp8YSeOP+XkG/aoY6Yzuno`
+Snapshot ID: `aZzqAAAAAACYhQuwd3x4aMWtnKX1PKSE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,944 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,964 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 77 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
 | 78 | [This Is Amazing Grace](https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Ascension](https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf) | 4:39 |
 | 79 | [No Longer Slaves \- Live](https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 6:13 |
-| 80 | [Move](https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Generous Mr\. Lovewell](https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0) | 2:58 |
-| 81 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
+| 80 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
+| 81 | [Move](https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Generous Mr\. Lovewell](https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0) | 2:58 |
 | 82 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 |
 | 83 | [Trust In You](https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 3:31 |
 | 84 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Geetkarz",
+  "description": "Discover the future of Punjabi Pop! Cover: Yash",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1057,6 +1057,32 @@
     },
     {
       "album": {
+        "name": "BELLISSIMA",
+        "url": "https://open.spotify.com/album/44OjaeMbPADm7KvAqshEcB"
+      },
+      "artists": [
+        {
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
+        },
+        {
+          "name": "Yash",
+          "url": "https://open.spotify.com/artist/0lz8MG9zqACRH9lhzEbCpX"
+        },
+        {
+          "name": "Harps",
+          "url": "https://open.spotify.com/artist/5Ndi9cZdxDuVbWugJWFsv7"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186389,
+      "name": "BELLISSIMA",
+      "url": "https://open.spotify.com/track/3k9zZicQLSpud07GHLlyeG"
+    },
+    {
+      "album": {
         "name": "Beparwah",
         "url": "https://open.spotify.com/album/2vsOoAV3yT1sfv2VVSXjoz"
       },
@@ -1948,7 +1974,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 166894,
       "name": "Chorni",
       "url": "https://open.spotify.com/track/2kmoloC3v1Wtt4sqlRgEDq"
@@ -2656,7 +2682,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 206769,
       "name": "Dil Ud Da Fire",
       "url": "https://open.spotify.com/track/2DalJpRvDUPSVuqDCwyM5B"
@@ -4086,6 +4112,24 @@
       "duration_ms": 154680,
       "name": "Haan Haniyan",
       "url": "https://open.spotify.com/track/2Yinl4Nltjap3J6phbNfAL"
+    },
+    {
+      "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/06v1X0h8gelqWMn0i40ImC"
+      },
+      "artists": [
+        {
+          "name": "Heera",
+          "url": "https://open.spotify.com/artist/7uzeb12sTrgGZoYjEzK3In"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151998,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/5GeuIQpzRXx8ZNuQ35FUj4"
     },
     {
       "album": {
@@ -8325,7 +8369,7 @@
         },
         {
           "name": "Cyrus Josan",
-          "url": "https://open.spotify.com/artist/2eP9vdsLK0qHUSAVWVvaL7"
+          "url": "https://open.spotify.com/artist/1MrniKU1SfMGwWdREmZcVS"
         }
       ],
       "date_added": "2026-01-28",

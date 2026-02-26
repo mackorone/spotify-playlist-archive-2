@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Bigflo & Oli
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,231 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,236 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 15 | [Controlla](https://open.spotify.com/track/6Z7XLF9XCs2zPT1zT4RFpu) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [Amuse\-Bouche](https://open.spotify.com/album/08hBvTlDkoxD1PuMWfkLh6) | 2:16 |
 | 16 | [120 U](https://open.spotify.com/track/1iIOuxs3xQXPrd0PV1DhuP) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [FUGA \(Bonus Track Version\)](https://open.spotify.com/album/3sF9TvDbeBYSjsSmoDKdqP) | 3:14 |
 | 17 | [Plus loin](https://open.spotify.com/track/1SiBQT6TDei3501c7Qt0VG) | [Alkpote](https://open.spotify.com/artist/0QcZD8V0Ug1KINWBSyG0dB), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Plus loin](https://open.spotify.com/album/50yHAbwkOXmrcofmCPWTJb) | 4:36 |
-| 18 | [Rois Mages](https://open.spotify.com/track/35S1O3zf2i9nxU661ejbPU) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo), [GrandBazaar](https://open.spotify.com/artist/5Gy06Dx6rmDAfR6gA7Kkqw) | [GrandBazaar \(03\)](https://open.spotify.com/album/4wT3teHjdpYuRwPh7agzay) | 2:53 |
+| 18 | [Rois Mages](https://open.spotify.com/track/35S1O3zf2i9nxU661ejbPU) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [GrandBazaar](https://open.spotify.com/artist/5Gy06Dx6rmDAfR6gA7Kkqw), [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [GrandBazaar \(03\)](https://open.spotify.com/album/4wT3teHjdpYuRwPh7agzay) | 2:53 |
 | 19 | [On s'entend bien](https://open.spotify.com/track/4WVRvQuFAd9DXc1yh6CQ50) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [On s'entend bien](https://open.spotify.com/album/5s3AMHDFm8Td6TIVFhVD51) | 2:56 |
 | 20 | [Noche](https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Noche](https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax) | 2:18 |
 | 21 | [Soleil du coeur](https://open.spotify.com/track/2dw0B6IsS1Wr1Ec7kB39pj) | [Rox](https://open.spotify.com/artist/3ZMTLiH3o8SiHy3taw9h0X), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Soleil du coeur](https://open.spotify.com/album/3d8TZEcYKyOJnX5wHcqloF) | 3:09 |

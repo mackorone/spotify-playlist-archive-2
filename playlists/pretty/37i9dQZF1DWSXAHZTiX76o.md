@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Las mujeres que la rompieron este año con su música\. Cazzu en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,564 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,550 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 48 | [San Fernando](https://open.spotify.com/track/64vqCRNq65bw6xf46S9N0O) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:38 |
 | 49 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 50 | [desahogo](https://open.spotify.com/track/2aUri2vJaCT1qEEUAUtavg) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:09 |
-| 51 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |
-| 52 | [dejarte ir](https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [dejarte ir](https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI) | 3:17 |
-| 53 | [MEJOR QUE VOS](https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA I](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:46 |
-| 54 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
+| 51 | [dejarte ir](https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [dejarte ir](https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI) | 3:17 |
+| 52 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |
+| 53 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
+| 54 | [MEJOR QUE VOS](https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA I](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:46 |
 | 55 | [Amémonos de Nuevo](https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Amémonos de Nuevo](https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ) | 2:51 |
 | 56 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 | 57 | [Azul](https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Azul](https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH) | 3:22 |

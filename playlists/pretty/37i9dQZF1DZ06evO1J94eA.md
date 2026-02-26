@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,708 likes - 50 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,719 likes - 50 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 26 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:21 |
 | 27 | [Sister Moon \(feat\. Sting\)](https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 6:54 |
 | 28 | [Don't give up](https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 7:28 |
-| 29 | [The Man I Love](https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:56 |
-| 30 | [Little One \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 8:47 |
+| 29 | [Little One \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 8:47 |
+| 30 | [The Man I Love](https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:56 |
 | 31 | [Vein Melter](https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 9:09 |
 | 32 | ['Round Midnight](https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:36 |
 | 33 | [Tempo de Amor](https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 4:43 |
-| 34 | [Three Bags Full \- Remastered 2007](https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 5:26 |
+| 34 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
 | 35 | [The Eye Of The Hurricane \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 6:01 |
-| 36 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
+| 36 | [Three Bags Full \- Remastered 2007](https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 5:26 |
 | 37 | [Textures](https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:37 |
 | 38 | [Sun Touch](https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 5:12 |
 | 39 | [Fat Albert Rotunda](https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 6:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 49 | [I Thought It Was You](https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Sunlight](https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC) | 8:58 |
 | 50 | [Miyako](https://open.spotify.com/track/2m8F1DopzoORa4jbV4c3C4) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK), [James Spaulding](https://open.spotify.com/artist/6F5uZAPmezDckVTqNpmpn2), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Schizophrenia](https://open.spotify.com/album/4Ngkptf4tipkoTOIjoF2kW) | 5:00 |
 
-Snapshot ID: `aZuYgAAAAACDuVdC/rvAEanTzgA/v7qQ`
+Snapshot ID: `aZzqAAAAAABRvk6xq08T6yfRDLPpa/hA`

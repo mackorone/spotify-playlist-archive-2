@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 75 songs - 4 hr 19 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 81 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,11 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 73 | [Stolen from the People](https://open.spotify.com/track/0zcvlslcLdMxJ9y9XhVwPZ) | [anisa ao](https://open.spotify.com/artist/6sVoTuFYhlpkmzqJUs7P2L) | [Stolen from the People](https://open.spotify.com/album/5tLbIqQReR6QRnyBx7qCs5) | 2:55 |
 | 74 | [Dirty Soul](https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Dirty Soul](https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd) | 5:04 |
 | 75 | [Ezra](https://open.spotify.com/track/4gRv5ebgu2zLUFejwQA03F) | [junkyardroyalty](https://open.spotify.com/artist/2QN7pIeUZFmT2fMZRSlrQL) | [Ezra](https://open.spotify.com/album/4v1NROQ5h2ivSOTjRWFote) | 2:46 |
+| 76 | [Soapbox](https://open.spotify.com/track/5dF2so4iVS7MjyUaqoeSkD) | [Spensir](https://open.spotify.com/artist/67aFZmd5O1su4iCxh5z3UN) | [Soapbox](https://open.spotify.com/album/6AxHeLtZC6Vsc4sF0lfFBt) | 4:05 |
+| 77 | [Why](https://open.spotify.com/track/01aVZOmB5sQlkSfi38cgNE) | [Jordan Fouts](https://open.spotify.com/artist/1uhMgxnye3vSNgs8x3d3B4) | [Nostalgia](https://open.spotify.com/album/0JUaANUSWY4hAh8sbOgU40) | 3:46 |
+| 78 | [Still Here](https://open.spotify.com/track/31Ysqd200XLDm6gKPwvMYA) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Still Here](https://open.spotify.com/album/39p1NuJHiJz6UJ6QBlaI87) | 2:03 |
+| 79 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 |
+| 80 | [Fiat 500](https://open.spotify.com/track/4S600HS4ZcpOuz6eIn0s8h) | [Baby Suicida](https://open.spotify.com/artist/37dbiHpWkjkirTka2vOuLb) | [Fiat 500](https://open.spotify.com/album/797bViaNzkV6Gc3pGlvWJi) | 2:36 |
+| 81 | [Trouble](https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Trouble](https://open.spotify.com/album/766W9V5Bg6ZX5rm46fuVWX) | 4:32 |
 
-Snapshot ID: `AAANbERvWup8VqTzgxOGeYuprwGr5zlY`
+Snapshot ID: `AAANckh7ap2M4cY4fXjG6a4iMoUyo/EH`

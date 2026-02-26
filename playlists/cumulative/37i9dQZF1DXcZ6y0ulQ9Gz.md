@@ -4,7 +4,7 @@
 
 > Where your favourites hang out with your next favourites\. Cover: Charlotte Day Wilson
 
-828 songs - 2 day 1 hr 49 min
+829 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2023-12-08 | 2024-04-13 |
 | [Afterlife](https://open.spotify.com/track/53NgnwT6xCOxEuVmIBDFpy) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:30 | 2025-11-28 | 2025-12-17 |
 | [Again](https://open.spotify.com/track/6TxXpZ17qTxOVDleRQ3aM9) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [And It's the Same](https://open.spotify.com/album/54OHuVIsIzyZoiUhTGpreI) | 3:51 | 2021-04-30 | 2022-07-28 |
-| [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2023-02-10 |  |
+| [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2023-02-10 | 2026-02-26 |
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2021-03-27 | 2022-06-26 |
 | [Air Power \(feat\. The Kount\)](https://open.spotify.com/track/0m6ehZK0yTw5rLvYXy53ML) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY) | [Air Power \(feat\. The Kount\)](https://open.spotify.com/album/2yeVwhR3XVshdhp3ppP3M7) | 3:39 | 2022-03-25 | 2022-04-13 |
 | [Airport Dreams \(feat\. Sarah Bonito\)](https://open.spotify.com/track/4WD6nT9bsGqVXlOUbZ4HNy) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11), [Sarah Bonito](https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps) | [Airport Dreams \(feat\. Sarah Bonito\)](https://open.spotify.com/album/69CnwTzHcwf5j8i0jraAhj) | 2:56 | 2021-12-17 | 2022-05-14 |
@@ -79,6 +79,7 @@
 | [Bad Boy](https://open.spotify.com/track/2uPHU2QlLczjkOnfQKH7Qn) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [Bae 5](https://open.spotify.com/album/6UJAG0MN18jejyZTf4oDQj) | 3:07 | 2020-10-29\* | 2022-04-16 |
 | [Bad Boy](https://open.spotify.com/track/1dtTRXifeGC51adYy0902s) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [Bad Boy](https://open.spotify.com/album/0elwlQEAz4Y0bb93gFw0jP) | 3:07 | 2022-05-03 | 2022-08-24 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-09-23 |  |
+| [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 | 2026-02-20 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2021-01-15 | 2022-08-24 |
 | [Ball \- Remix](https://open.spotify.com/track/75OdgLMaGSRFItGE0Qsh8C) | [Eryn Martin](https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Still Ballin'](https://open.spotify.com/album/6EZQvh0u3Vd5PqwNNlFqcs) | 3:40 | 2021-09-26 | 2022-07-28 |
 | [Basic Being Basic](https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 2:38 | 2025-11-28 |  |

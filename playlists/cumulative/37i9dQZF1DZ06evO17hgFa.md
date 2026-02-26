@@ -4,13 +4,14 @@
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 20 min
+59 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 | 2025-07-20 |  |
 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 | 2025-07-20 |  |
-| [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2025-07-20 |  |
+| [April In Paris](https://open.spotify.com/track/5WKpVLOkxbyj4fQk3P6BkF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:05 | 2026-02-26 |  |
+| [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2025-07-20 | 2026-02-26 |
 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 | 2025-07-20 |  |
 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 | 2025-07-20 |  |
 | [Baby, I Don't Cry Over You](https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 | 2025-10-09 |  |

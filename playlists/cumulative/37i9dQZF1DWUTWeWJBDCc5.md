@@ -4,19 +4,22 @@
 
 > 스포티파이 뮤직 에디터가 선정한 2월의 노래를 만나보세요.
 
-101 songs - 5 hr 28 min
+107 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 | 2025-12-04 | 2026-02-05 |
 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-12-04 | 2026-02-05 |
+| [2099](https://open.spotify.com/track/4ooICmT2zrfMprazExomIi) | [Sade Olutola](https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm) | [Arrow Heart](https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c) | 2:27 | 2026-02-25 |  |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-02-04 |  |
 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 | 2026-02-04 |  |
 | [54321 \(Feat\. HAEWON of NMIXX\)](https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAEWON](https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 3:05 | 2025-12-04 | 2026-02-05 |
 | [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-02-04 |  |
+| [Alive](https://open.spotify.com/track/1L32a1LajlD4fHiH3DBNmp) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [1kromelee](https://open.spotify.com/artist/3oCXV6a3Fgr0Tu6Nxex8zh), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [ALBATROSS](https://open.spotify.com/album/60is5WFC317kNquQ5ZmpU6) | 2:50 | 2026-02-25 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2026-02-04 |  |
 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-12-04 | 2026-02-05 |
 | [BIG BIRD \(feat\. youra\)](https://open.spotify.com/track/74yLgkwhS7aXcWTpwpypkm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [TWO](https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z) | 2:31 | 2025-12-04 | 2026-02-05 |
+| [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 | 2026-02-25 |  |
 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 | 2025-12-04 | 2026-02-05 |
 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-12-04 | 2026-02-05 |
 | [BRUISE](https://open.spotify.com/track/5eYhUukI5PVCqSLOmO8Idq) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [The 3rd Digital Single BRUISE](https://open.spotify.com/album/0Hnt6Uo4wPdBvh0Yb4oSrI) | 3:17 | 2026-02-04 |  |
@@ -28,6 +31,7 @@
 | [Cinnamon Shake](https://open.spotify.com/track/1Y6uJQVtPFSIZ9KQM6ENLk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [EUPHORIA](https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV) | 2:55 | 2026-02-04 |  |
 | [cloud palace](https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [cloud palace \~ false awakening](https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK) | 3:21 | 2026-02-04 |  |
 | [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 | 2026-02-04 |  |
+| [CRIB](https://open.spotify.com/track/2vU2TawckWuVgAl2A16EFW) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB) | [ORTON](https://open.spotify.com/album/6mRgzklymNUAfjrSsrYS0Q) | 2:31 | 2026-02-25 |  |
 | [cycles](https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [cycles](https://open.spotify.com/album/46cWHcF1g1Q0dhVhw8z5Yz) | 2:28 | 2026-02-04 |  |
 | [Death Of Me](https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Death Of Me](https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW) | 3:00 | 2026-02-04 |  |
 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2026-02-04 |  |
@@ -71,6 +75,7 @@
 | [mee6](https://open.spotify.com/track/6g2jDSdrpoCr81GDx1rBUk) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [mee6](https://open.spotify.com/album/1KX9x1Ga69ZYGdfnmd9HQi) | 2:19 | 2025-12-04 | 2026-02-05 |
 | [MIRO](https://open.spotify.com/track/3MtYafyNz7jYirfhdoUuCq) | [Kani](https://open.spotify.com/artist/1tBCub2evxGX1rUso7eveJ) | [MIRO](https://open.spotify.com/album/0X7Pul2W2tFNUPBYZ9foQl) | 2:54 | 2026-02-04 |  |
 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-12-04 | 2026-02-05 |
+| [MOJO](https://open.spotify.com/track/5b7MBEIT0Yga74gESfKMbk) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB) | [ORTON](https://open.spotify.com/album/6mRgzklymNUAfjrSsrYS0Q) | 3:43 | 2026-02-25 |  |
 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 | 2026-02-04 |  |
 | [MUSIC \(Feat\. LEE CHANHYUK\)](https://open.spotify.com/track/3SYveDpgawfdQtiMDlm4gi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [MUSIC](https://open.spotify.com/album/1dWHATlZ1wxvpTwCUV0TR0) | 2:39 | 2025-12-04 | 2026-02-05 |
 | [Never Let Go](https://open.spotify.com/track/37xebnhvUyM8VyyDDeo65d) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:13 | 2026-02-04 |  |
@@ -83,6 +88,7 @@
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-12-04 | 2026-02-05 |
 | [PunKanon](https://open.spotify.com/track/6SETwOgYmyKKjzz8uNT7SC) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PunKanon](https://open.spotify.com/album/6jEUsHZYpOkF8SBC1mHBYd) | 4:43 | 2025-12-04 | 2026-02-05 |
 | [Rosary \(feat\. Travis Scott\)](https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:14 | 2026-02-04 |  |
+| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-02-25 |  |
 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 | 2026-02-04 |  |
 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-12-04 | 2026-02-05 |
 | [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 | 2026-02-04 |  |

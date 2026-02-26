@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 793598,
+  "num_followers": 793693,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Sus Exitos",
-        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
+        "name": "30th Anniversary",
+        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
       },
       "artists": [
         {
-          "name": "Orlando Collado",
-          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 304280,
-      "name": "Llorando",
-      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
+      "duration_ms": 261146,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "30th Anniversary",
-        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
+        "name": "Sus Exitos",
+        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Orlando Collado",
+          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
         }
       ],
-      "duration_ms": 261146,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
+      "duration_ms": 304280,
+      "name": "Llorando",
+      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Pa' Otro La 'o",
-        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "En Tiempo de Amor",
         "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 292773,
       "name": "Te Va a Doler",
       "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Pa' Otro La 'o",
+        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
     },
     {
       "added_at": "2024-07-12 19:20:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,368 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,350 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 3 | [On My Way](https://open.spotify.com/track/3BomnHfqKZCdPJC9bkGBjE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 3:13 |
 | 4 | [Broken Strings](https://open.spotify.com/track/7HoWt1XVdWPcdZi2oVi9OQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [Broken Strings](https://open.spotify.com/album/5F9xaz8GYu2lIIrDRX7nUx) | 2:27 |
 | 5 | [Alone](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 2:40 |
-| 6 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
+| 6 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 |
 | 7 | [Alone, Pt\. II](https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:59 |
-| 8 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 |
+| 8 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
 | 9 | [Darkside](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:31 |
 | 10 | [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 |
 | 11 | [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Welcome To Lonely Club](https://open.spotify.com/track/52diq8prDOoOZIiUsscTi2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K) | [Welcome To Lonely Club](https://open.spotify.com/album/26WEUWOA07NbIH5F0nUpbu) | 3:16 |
 | 50 | [Sorry](https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:45 |
 
-Snapshot ID: `aZuYgAAAAACh1a/13r/4l2GJprrmDLM/`
+Snapshot ID: `aZzqAAAAAABE3ySKLaCrRjTpxMiNbPhN`

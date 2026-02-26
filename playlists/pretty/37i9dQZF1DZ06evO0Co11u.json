@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196999,
+  "num_followers": 197017,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADRVJnyYZ0zE24WFdESu9Cc",
+  "snapshot_id": "aZzqAAAAAABoYkcDBVR/NeR5RkQG5z5B",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 203760,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "C'est si bon",
-      "url": "https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great American Songbook",
         "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 201466,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A"
     },
     {
       "added_at": null,
@@ -875,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Didn't He Ramble",
-        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sy Oliver's Orchestra",
-          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
         }
       ],
-      "duration_ms": 202106,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": null,
@@ -911,18 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+        "name": "Oh Didn't He Ramble",
+        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver's Orchestra",
+          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
         }
       ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+      "duration_ms": 202106,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 
 ### [Fall Asleep Instantly💤](https://open.spotify.com/playlist/37i9dQZF1DX3WdioUzkg8I)
 
-> Relaxing music and sounds for sleeping.
+> Relaxing ambient piano music to help you fall asleep fast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,034 likes - 106 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,306 likes - 106 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,35 +14,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 | 4 | [Glowfall](https://open.spotify.com/track/3MDAGUzIwtNfriGkxJAazG) | [Stardustara](https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS) | [Glowfall](https://open.spotify.com/album/6Aszp5YqbWTov0plJQbmsc) | 2:48 |
 | 5 | [Aliento](https://open.spotify.com/track/0uCqOaNbiUbJvRX5UJ6i3V) | [Cosmic Clarity](https://open.spotify.com/artist/0mS4iUHnCGTarpY6K87QJm) | [Aliento](https://open.spotify.com/album/5H81D7yNapaXIH3UP2pIK6) | 3:07 |
 | 6 | [Recurrence](https://open.spotify.com/track/5cfaj5if1pr3lju6l6IlmR) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Recurrence](https://open.spotify.com/album/25v4Zjjg6TbMPcAFAPA50W) | 2:32 |
-| 7 | [Nautica](https://open.spotify.com/track/0chPcJHRNvBJfq8SOwoVHV) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Nautica](https://open.spotify.com/album/6AuvwZNSnUwD2OCn5Ga3iY) | 2:35 |
-| 8 | [Silencio](https://open.spotify.com/track/0JkFrHyb99Dv1KJCpNaYgV) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Silencio](https://open.spotify.com/album/2sUXUbtuhBjo6ZEII0iFG3) | 2:24 |
-| 9 | [Hidden Haven](https://open.spotify.com/track/28ITxu6IQPaK5R2PtLMX2x) | [Hillside Dreams](https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr) | [Hidden Haven](https://open.spotify.com/album/10c3eVT3mhqp46vKUmI7Sf) | 2:48 |
-| 10 | [Emerald Green](https://open.spotify.com/track/2XYPrVNuMcOq9nhpr2xPEh) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [Emerald Green](https://open.spotify.com/album/54yde117GS26RlCZuZFlzz) | 2:48 |
-| 11 | [Moon](https://open.spotify.com/track/6yP5AdJr1MbUsyxvXysWeV) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Moon](https://open.spotify.com/album/5nKnu3VwdQSxYsbuakJWfj) | 2:27 |
-| 12 | [Song for You](https://open.spotify.com/track/20v3MJLKuVwMjAfXlCkVvY) | [Quies Mentis](https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT) | [Song for You](https://open.spotify.com/album/6MAOc8ruWuzxdXztcNiCzO) | 2:55 |
-| 13 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 |
-| 14 | [Umbra Drift](https://open.spotify.com/track/000s9f5nwcBPFwZ34ERa3N) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Umbra Drift](https://open.spotify.com/album/5FwuSVGQ8G9BTKepTlKBZd) | 2:30 |
-| 15 | [Hypnotic Haze](https://open.spotify.com/track/5JzCiW2ATf3ZtRxyh1D2oG) | [Silk & Calm](https://open.spotify.com/artist/7n025q4PWMCRR4KnTPYMWS) | [Hypnotic Haze](https://open.spotify.com/album/6lHhOjRyJkCVyF6irpWD92) | 3:23 |
-| 16 | [Now's the Time](https://open.spotify.com/track/79hwJyLWHJaT3hMyYtHGUJ) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Now's the Time](https://open.spotify.com/album/62kUYG0I5wi25EiTaUEzGb) | 2:44 |
-| 17 | [Into The Blue](https://open.spotify.com/track/4QH4ls0tVdbUH3evVX9QJb) | [Mira Cadence](https://open.spotify.com/artist/7v9rysfm8v7XWFuyUdI2YI) | [Into The Blue](https://open.spotify.com/album/2YUzwInPRcLHso83NePGgC) | 2:38 |
-| 18 | [Unmoving sky](https://open.spotify.com/track/2Nq2kQoLf3H6ZoJ9CHlIUu) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Unmoving sky](https://open.spotify.com/album/4uFZ43SvQ0jfiBt1l22VvH) | 2:18 |
-| 19 | [All That Is Quiet](https://open.spotify.com/track/5zWkmOsEVePRSxpON43Wkm) | [Biolume](https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl) | [All That Is Quiet](https://open.spotify.com/album/0L9jU4no9x9WJkQ6WMO4RM) | 2:43 |
-| 20 | [Manifest Destiny](https://open.spotify.com/track/4BNP0a8ran93Tu0cvNQgDY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Manifest Destiny](https://open.spotify.com/album/2YCTLxrC3gWPNokJssUUpS) | 2:32 |
-| 21 | [Connect](https://open.spotify.com/track/6J5jrR4c9O6VBhKNqO4VS7) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Connect](https://open.spotify.com/album/375hxINvU8FcRPOTID7YbA) | 2:05 |
-| 22 | [Higher Peace](https://open.spotify.com/track/3GYRuKfzGkYko5nOkZObCt) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Higher Peace](https://open.spotify.com/album/1LRQNeQLGJgGq2rDfA6qUz) | 3:28 |
-| 23 | [All is Well](https://open.spotify.com/track/54CaH6uUMYy4EqgjuRoCeX) | [Stellar Voyager](https://open.spotify.com/artist/3yO4gt9FGhJNeaeLbxIVTQ) | [All is Well](https://open.spotify.com/album/4URKXwjmqLntTA2fuwHJOV) | 2:30 |
-| 24 | [Hazel Eyes](https://open.spotify.com/track/2mcNmyIwa0n0dTsaHclEZd) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Hazel Eyes](https://open.spotify.com/album/141aYM5oB1j4Ch75e1qiIF) | 3:10 |
-| 25 | [Learning](https://open.spotify.com/track/0lkOFyatE0XFpQYVN03CN4) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Learning](https://open.spotify.com/album/3vpsD7NRHJLfSK0S34vGKX) | 2:35 |
-| 26 | [Slow Motion](https://open.spotify.com/track/5ynIxJdsCOO7XzQgI45F2o) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [Slow Motion](https://open.spotify.com/album/0juri6fmwomHKja8hmlM0z) | 3:04 |
-| 27 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 |
-| 28 | [Little Gentle Spirit](https://open.spotify.com/track/3FOFLWSRbUpjEzVkucYjHs) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Little Gentle Spirit](https://open.spotify.com/album/7qLP6e8QKFBtbmKUSTcNsB) | 2:39 |
-| 29 | [Been Here Before](https://open.spotify.com/track/3QBLDkUTJ7brEiZbPBhf9K) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Been Here Before](https://open.spotify.com/album/2kRu3wgWly78Ds4gJ5lXm9) | 3:29 |
-| 30 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 |
-| 31 | [Water Drops](https://open.spotify.com/track/5837KEORGlanUg7OmwUyZ3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Water Drops](https://open.spotify.com/album/3LAwOUJFJH3y0eb5okmWO2) | 2:18 |
-| 32 | [Dawn](https://open.spotify.com/track/0IDIT4eSB5sKSaZUJ8v0XE) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Dawn](https://open.spotify.com/album/2N9fMSg5D2f8DIBokgF9cI) | 2:44 |
-| 33 | [If We Try](https://open.spotify.com/track/64Nc67Nc3GNDBos8bmaXWW) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [If We Try](https://open.spotify.com/album/0ZfWc9MeQRIBghlKeyWzeB) | 2:25 |
-| 34 | [Oxalis](https://open.spotify.com/track/5ta1bh6X3tu1aJcwXAn4eQ) | [Loch Lua](https://open.spotify.com/artist/1JJPFtcxFOpLgrbnhtvyqO) | [Oxalis](https://open.spotify.com/album/4F5if0hg9jBO61FIYlwEi5) | 2:21 |
-| 35 | [Distant Shores](https://open.spotify.com/track/0a98JvPx35xeOlokbXLvf3) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Distant Shores](https://open.spotify.com/album/3lWKM089gTjKCEiCZjhHDG) | 2:40 |
+| 7 | [Silencio](https://open.spotify.com/track/0JkFrHyb99Dv1KJCpNaYgV) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Silencio](https://open.spotify.com/album/2sUXUbtuhBjo6ZEII0iFG3) | 2:24 |
+| 8 | [Hidden Haven](https://open.spotify.com/track/28ITxu6IQPaK5R2PtLMX2x) | [Hillside Dreams](https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr) | [Hidden Haven](https://open.spotify.com/album/10c3eVT3mhqp46vKUmI7Sf) | 2:48 |
+| 9 | [Emerald Green](https://open.spotify.com/track/2XYPrVNuMcOq9nhpr2xPEh) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [Emerald Green](https://open.spotify.com/album/54yde117GS26RlCZuZFlzz) | 2:48 |
+| 10 | [Moon](https://open.spotify.com/track/6yP5AdJr1MbUsyxvXysWeV) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Moon](https://open.spotify.com/album/5nKnu3VwdQSxYsbuakJWfj) | 2:27 |
+| 11 | [Song for You](https://open.spotify.com/track/20v3MJLKuVwMjAfXlCkVvY) | [Quies Mentis](https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT) | [Song for You](https://open.spotify.com/album/6MAOc8ruWuzxdXztcNiCzO) | 2:55 |
+| 12 | [Umbra Drift](https://open.spotify.com/track/000s9f5nwcBPFwZ34ERa3N) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Umbra Drift](https://open.spotify.com/album/5FwuSVGQ8G9BTKepTlKBZd) | 2:30 |
+| 13 | [Hypnotic Haze](https://open.spotify.com/track/5JzCiW2ATf3ZtRxyh1D2oG) | [Silk & Calm](https://open.spotify.com/artist/7n025q4PWMCRR4KnTPYMWS) | [Hypnotic Haze](https://open.spotify.com/album/6lHhOjRyJkCVyF6irpWD92) | 3:23 |
+| 14 | [Now's the Time](https://open.spotify.com/track/79hwJyLWHJaT3hMyYtHGUJ) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Now's the Time](https://open.spotify.com/album/62kUYG0I5wi25EiTaUEzGb) | 2:44 |
+| 15 | [Into The Blue](https://open.spotify.com/track/4QH4ls0tVdbUH3evVX9QJb) | [Mira Cadence](https://open.spotify.com/artist/7v9rysfm8v7XWFuyUdI2YI) | [Into The Blue](https://open.spotify.com/album/2YUzwInPRcLHso83NePGgC) | 2:38 |
+| 16 | [Unmoving sky](https://open.spotify.com/track/2Nq2kQoLf3H6ZoJ9CHlIUu) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Unmoving sky](https://open.spotify.com/album/4uFZ43SvQ0jfiBt1l22VvH) | 2:18 |
+| 17 | [All That Is Quiet](https://open.spotify.com/track/5zWkmOsEVePRSxpON43Wkm) | [Biolume](https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl) | [All That Is Quiet](https://open.spotify.com/album/0L9jU4no9x9WJkQ6WMO4RM) | 2:43 |
+| 18 | [Manifest Destiny](https://open.spotify.com/track/4BNP0a8ran93Tu0cvNQgDY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Manifest Destiny](https://open.spotify.com/album/2YCTLxrC3gWPNokJssUUpS) | 2:32 |
+| 19 | [Connect](https://open.spotify.com/track/6J5jrR4c9O6VBhKNqO4VS7) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Connect](https://open.spotify.com/album/375hxINvU8FcRPOTID7YbA) | 2:05 |
+| 20 | [Higher Peace](https://open.spotify.com/track/3GYRuKfzGkYko5nOkZObCt) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Higher Peace](https://open.spotify.com/album/1LRQNeQLGJgGq2rDfA6qUz) | 3:28 |
+| 21 | [All is Well](https://open.spotify.com/track/54CaH6uUMYy4EqgjuRoCeX) | [Stellar Voyager](https://open.spotify.com/artist/3yO4gt9FGhJNeaeLbxIVTQ) | [All is Well](https://open.spotify.com/album/4URKXwjmqLntTA2fuwHJOV) | 2:30 |
+| 22 | [Hazel Eyes](https://open.spotify.com/track/2mcNmyIwa0n0dTsaHclEZd) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Hazel Eyes](https://open.spotify.com/album/141aYM5oB1j4Ch75e1qiIF) | 3:10 |
+| 23 | [Learning](https://open.spotify.com/track/0lkOFyatE0XFpQYVN03CN4) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Learning](https://open.spotify.com/album/3vpsD7NRHJLfSK0S34vGKX) | 2:35 |
+| 24 | [Slow Motion](https://open.spotify.com/track/5ynIxJdsCOO7XzQgI45F2o) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [Slow Motion](https://open.spotify.com/album/0juri6fmwomHKja8hmlM0z) | 3:04 |
+| 25 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 |
+| 26 | [Little Gentle Spirit](https://open.spotify.com/track/3FOFLWSRbUpjEzVkucYjHs) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Little Gentle Spirit](https://open.spotify.com/album/7qLP6e8QKFBtbmKUSTcNsB) | 2:39 |
+| 27 | [Been Here Before](https://open.spotify.com/track/3QBLDkUTJ7brEiZbPBhf9K) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Been Here Before](https://open.spotify.com/album/2kRu3wgWly78Ds4gJ5lXm9) | 3:29 |
+| 28 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 |
+| 29 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 |
+| 30 | [Water Drops](https://open.spotify.com/track/5837KEORGlanUg7OmwUyZ3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Water Drops](https://open.spotify.com/album/3LAwOUJFJH3y0eb5okmWO2) | 2:18 |
+| 31 | [Dawn](https://open.spotify.com/track/0IDIT4eSB5sKSaZUJ8v0XE) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Dawn](https://open.spotify.com/album/2N9fMSg5D2f8DIBokgF9cI) | 2:44 |
+| 32 | [If We Try](https://open.spotify.com/track/64Nc67Nc3GNDBos8bmaXWW) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [If We Try](https://open.spotify.com/album/0ZfWc9MeQRIBghlKeyWzeB) | 2:25 |
+| 33 | [Oxalis](https://open.spotify.com/track/5ta1bh6X3tu1aJcwXAn4eQ) | [Loch Lua](https://open.spotify.com/artist/1JJPFtcxFOpLgrbnhtvyqO) | [Oxalis](https://open.spotify.com/album/4F5if0hg9jBO61FIYlwEi5) | 2:21 |
+| 34 | [Distant Shores](https://open.spotify.com/track/0a98JvPx35xeOlokbXLvf3) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Distant Shores](https://open.spotify.com/album/3lWKM089gTjKCEiCZjhHDG) | 2:40 |
+| 35 | [Nautica](https://open.spotify.com/track/0chPcJHRNvBJfq8SOwoVHV) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Nautica](https://open.spotify.com/album/6AuvwZNSnUwD2OCn5Ga3iY) | 2:35 |
 | 36 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 |
 | 37 | [Dreambound](https://open.spotify.com/track/5C9zA9ZfeFOYcYp4v4MHRf) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Dreambound](https://open.spotify.com/album/1WzlHRdw6X2YOlsN5BLsEo) | 2:53 |
 | 38 | [Aimai](https://open.spotify.com/track/5Y0zD7CZqb13bjjFld0z79) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Aimai](https://open.spotify.com/album/55K7pJ3R8LSvNhPU9akT5m) | 2:11 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 | 105 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 |
 | 106 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 |
 
-Snapshot ID: `AAAAAMjQsF37+MvEKOL4hdXPxTCT9k2Y`
+Snapshot ID: `AAAAAGrpXyicZs7CX+eXimyKkWL5WPMy`

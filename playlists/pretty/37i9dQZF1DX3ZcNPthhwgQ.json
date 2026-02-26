@@ -1,6 +1,6 @@
 {
   "description": "Las rolas para escuchar mientras trabajas.",
-  "num_followers": 247157,
+  "num_followers": 247213,
   "original_name": "Chambeando",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
+        "name": "Ya No Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Cu\u00e1l Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
         "name": "intro",
         "url": "https://open.spotify.com/album/6dGXItPd4MxGYeeib02KFx"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 179858,
       "name": "intro",
       "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
-        "name": "Ya No Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Cu\u00e1l Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "Por Esos Ojos",
-        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 188064,
-      "name": "Por Esos Ojos",
-      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1295,24 +1295,24 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+      "duration_ms": 202453,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
     },
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
+        "name": "Por Esos Ojos",
+        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+      "duration_ms": 188064,
+      "name": "Por Esos Ojos",
+      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
+        "name": "Abcdario",
+        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "Abcdario",
+      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
         "name": "Tengo Claro",
         "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 187240,
       "name": "No",
       "url": "https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
-        "name": "Abcdario",
-        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 220650,
-      "name": "Abcdario",
-      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "duration_ms": 253884,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
         "name": "Pelotero A La Bola",
         "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
       },
@@ -1511,38 +1527,18 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+        "name": "Seguimos Laborando",
+        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
       },
       "artists": [
         {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
         }
       ],
-      "duration_ms": 253884,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
-        "name": "El Mayor de los Ranas (En Vivo)",
-        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 174037,
-      "name": "El Mayor de los Ranas (En Vivo)",
-      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
+      "duration_ms": 205813,
+      "name": "Seguimos Laborando",
+      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1567,18 +1563,22 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "Seguimos Laborando",
-        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
+        "name": "El Mayor de los Ranas (En Vivo)",
+        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
       },
       "artists": [
         {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Seguimos Laborando",
-      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
+      "duration_ms": 174037,
+      "name": "El Mayor de los Ranas (En Vivo)",
+      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
     },
     {
       "added_at": "2026-02-06 23:13:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120 likes - 197 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119 likes - 197 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 166 | [Ready or Not](https://open.spotify.com/track/5f4l8AFUn8AndSXGRbBSNY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:39 |
 | 167 | [Regarde\-nous](https://open.spotify.com/track/5FSaM1hSGZm5xw3Dpx2iun) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 2:51 |
 | 168 | [Sans toi](https://open.spotify.com/track/7jRXuAMoc8mtQiSmG25Ptp) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 3:01 |
-| 169 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
-| 170 | [Happy Birthday Sadness](https://open.spotify.com/track/4a84ine2fh0DOm387eKIf9) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Happy Birthday Sadness](https://open.spotify.com/album/5E9QiRbXT2TKHuirIJdZKa) | 2:59 |
+| 169 | [Happy Birthday Sadness](https://open.spotify.com/track/4a84ine2fh0DOm387eKIf9) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Happy Birthday Sadness](https://open.spotify.com/album/5E9QiRbXT2TKHuirIJdZKa) | 2:59 |
+| 170 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
 | 171 | [Go In, Go Hard](https://open.spotify.com/track/4hsxfRX87ev9PJr7Q1r6Vk) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Go In, Go Hard](https://open.spotify.com/album/0q8nigxLnyvnttpDxeaJIR) | 3:43 |
 | 172 | [Blink](https://open.spotify.com/track/5HDZMVzjLIZ4Vqonax2qEK) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0poYRqxEk5KDZREbJXv3lL) | 3:15 |
 | 173 | [Love So Big](https://open.spotify.com/track/0L9GHBiMuJqoP5hMScjKl7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 2:34 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcKjygAAAACZuMY1ZhJLSEqfDTSRiTF8`
+Snapshot ID: `AcKpagAAAACskZ97XgYv+jRzX9s/ZhN3`

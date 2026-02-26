@@ -10163,24 +10163,6 @@
     },
     {
       "album": {
-        "name": "CATCH!!! -EP",
-        "url": "https://open.spotify.com/album/1XnY9gOgKlOfoIg2lv2H8x"
-      },
-      "artists": [
-        {
-          "name": "THREEE",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
-        }
-      ],
-      "date_added": "2026-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3aylY2mgo2NMvbZ6cpXY6H"
-    },
-    {
-      "album": {
         "name": "Travelers",
         "url": "https://open.spotify.com/album/4skbYCCX3tI970lb4nbsVc"
       },
@@ -18148,6 +18130,24 @@
       "duration_ms": 151933,
       "name": "\u30ce\u30de\u30cd",
       "url": "https://open.spotify.com/track/4QdkIu5kItFto7fE1BYXxP"
+    },
+    {
+      "album": {
+        "name": "CATCH!!! -EP",
+        "url": "https://open.spotify.com/album/1XnY9gOgKlOfoIg2lv2H8x"
+      },
+      "artists": [
+        {
+          "name": "THREEE",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186433,
+      "name": "\u30ce\u30f3\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3aylY2mgo2NMvbZ6cpXY6H"
     },
     {
       "album": {

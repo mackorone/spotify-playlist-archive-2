@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Ocha\u00e9",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Justin Radford",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -2100,6 +2100,24 @@
     {
       "album": {
         "name": "Bones",
+        "url": "https://open.spotify.com/album/21XaFlDNEWcXZA4fSZ2L3Q"
+      },
+      "artists": [
+        {
+          "name": "Dan Stirling",
+          "url": "https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127106,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/73QszGGT4LFAs13Meka1TK"
+    },
+    {
+      "album": {
+        "name": "Bones",
         "url": "https://open.spotify.com/album/4nKseo8BsYGhRkI6dkYGrS"
       },
       "artists": [
@@ -2252,6 +2270,32 @@
       "duration_ms": 244106,
       "name": "breath by breath",
       "url": "https://open.spotify.com/track/19msKNwB1SjJ4uGAwkDYxT"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/0S4NeVyFfDlqIZ75Y3qTqL"
+      },
+      "artists": [
+        {
+          "name": "KIMAH",
+          "url": "https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Big_win",
+          "url": "https://open.spotify.com/artist/0UfU8L42bpBy3KMCvwckjU"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161625,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2pAdH7u6RWSiyFsBLDo9QF"
     },
     {
       "album": {
@@ -2530,6 +2574,36 @@
       "duration_ms": 154590,
       "name": "Came For It All",
       "url": "https://open.spotify.com/track/4J5N3jPghRbQ6NOCjK7k0i"
+    },
+    {
+      "album": {
+        "name": "From Profit to Purpose",
+        "url": "https://open.spotify.com/album/6uh7SgAq63sEi2SOb7wxFk"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        },
+        {
+          "name": "Darlene McCoy",
+          "url": "https://open.spotify.com/artist/6IFoxYp4s7WuFlCAqfYaMn"
+        },
+        {
+          "name": "TheKidMave",
+          "url": "https://open.spotify.com/artist/3GWiLZOGCcbpSbFhy7Lcth"
+        },
+        {
+          "name": "Brandon Pair",
+          "url": "https://open.spotify.com/artist/1zzJtXBYfC2nL8SwO3tgM8"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Can I Get a Witness (Remix)",
+      "url": "https://open.spotify.com/track/1Z2PaVTRj70DlxD6qqcCHg"
     },
     {
       "album": {
@@ -5292,7 +5366,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 155463,
       "name": "Far Far",
       "url": "https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4"
@@ -8066,7 +8140,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 189208,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/1KFNAfzNpy71ub2NaOiV93"
@@ -10121,6 +10195,24 @@
     },
     {
       "album": {
+        "name": "KEEP MOVING",
+        "url": "https://open.spotify.com/album/1KJHczPnIT7ZE5gxhFBj0j"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "KEEP MOVING",
+      "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
+    },
+    {
+      "album": {
         "name": "Keep On Going",
         "url": "https://open.spotify.com/album/3SeTCfXL65xEud79BDgPqD"
       },
@@ -11372,7 +11464,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 210027,
       "name": "Mad for Me",
       "url": "https://open.spotify.com/track/0jVKGpZTr7AGhjxNH3OoZt"
@@ -12892,7 +12984,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 226319,
       "name": "Not A Man",
       "url": "https://open.spotify.com/track/7z8Xz0y7g8Edd5XFpBMZlg"
@@ -14578,7 +14670,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 214319,
       "name": "Quiet Joy",
       "url": "https://open.spotify.com/track/5ySzzNzPMnpvBeJak9Vg43"
@@ -16673,6 +16765,24 @@
     },
     {
       "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/0m3ED6ovwyXBhFLDw44JHH"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Cormier",
+          "url": "https://open.spotify.com/artist/6oOuy3kZ9Sk07JEER1C7En"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/2rulvx7ge8pyeDa9y4wpAu"
+    },
+    {
+      "album": {
         "name": "Songs Before The Storm",
         "url": "https://open.spotify.com/album/02JeZYBaJTb5AGqSpZaA8P"
       },
@@ -17902,6 +18012,24 @@
     {
       "album": {
         "name": "The Table",
+        "url": "https://open.spotify.com/album/1PEf5sXES0sPMFxiUNypEX"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252540,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/2wWzEDufN9Mj6aot6IUYR3"
+    },
+    {
+      "album": {
+        "name": "The Table",
         "url": "https://open.spotify.com/album/3l2DQSE8cbstir7K0QKZ6d"
       },
       "artists": [
@@ -18166,7 +18294,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 169317,
       "name": "through heaven's eyes",
       "url": "https://open.spotify.com/track/2ADZPreOBRYCSa0RtoEChZ"
@@ -19466,6 +19594,28 @@
       "duration_ms": 213818,
       "name": "we were so young",
       "url": "https://open.spotify.com/track/1pvGBItPE8hNLnPb6yv7iu"
+    },
+    {
+      "album": {
+        "name": "WEATHER",
+        "url": "https://open.spotify.com/album/1m2Wphag7im8RefkQHSNAM"
+      },
+      "artists": [
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "WEATHER",
+      "url": "https://open.spotify.com/track/5F2K7DYwQzJJR7kHagQbtu"
     },
     {
       "album": {
@@ -20856,7 +21006,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 255837,
       "name": "You Were There",
       "url": "https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq"

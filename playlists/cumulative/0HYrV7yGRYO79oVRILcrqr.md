@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-328 songs - 20 hr 17 min
+331 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2025-12-16 |  |
 | [Madhouse Holiday](https://open.spotify.com/track/6zeZvQfCUgngpOLXqrssXs) | [Methody Nightingale](https://open.spotify.com/artist/2V9RL8G3rCcT0n2H0jdpEw) | [Madhouse Holiday](https://open.spotify.com/album/5ZRaOTR2U8al2Gi7UMn1ny) | 6:43 | 2026-02-22 |  |
 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 | 2026-01-28 |  |
+| [Maldito Antro](https://open.spotify.com/track/78KBfIKs7GKPRPv4j35xyX) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Maldito Antro](https://open.spotify.com/album/0ehJgzhkbrUz1EBt13KaV4) | 3:31 | 2026-02-25 |  |
 | [Marginal](https://open.spotify.com/track/4Nv0Bzom36kPiFXJt85HTT) | [Orecchio Sordo](https://open.spotify.com/artist/0f4qCSAE3bqGntDnL6gRyE) | [Marginal](https://open.spotify.com/album/28lICaZjyM3VNqjMVNHIB5) | 4:50 | 2025-09-29 | 2025-12-17 |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-26 | 2025-12-17 |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2026-01-02 |  |
@@ -215,6 +216,7 @@
 | [On The Run](https://open.spotify.com/track/4cJBm3gR4bWpiZ53MAlujN) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [On The Run](https://open.spotify.com/album/0VpAI7tHFk5mbDcfxHtfaB) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [On The Southern Side Of The Road](https://open.spotify.com/track/20BJZCg4s6SmJs8ThVthqI) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [On The Southern Side Of The Road](https://open.spotify.com/album/3RQ3spw3yLGclZHbzNiA31) | 3:31 | 2025-10-27 | 2025-11-28 |
 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 | 2026-02-05 |  |
+| [One of the Reasons](https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [One of the Reasons](https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB) | 2:40 | 2026-02-25 |  |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 | 2025-11-28 |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 | 2025-11-28 |
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
@@ -222,6 +224,7 @@
 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 | 2025-12-17 |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-30 | 2025-12-17 |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 | 2025-12-17 |
+| [Parar respirar pensar y actuar](https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Parar respirar pensar y actuar](https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ) | 5:00 | 2026-02-25 |  |
 | [Peaks](https://open.spotify.com/track/25cll9Vk5Xvl6rto1IZ26w) | [Pepperwine](https://open.spotify.com/artist/5eV6FPrnJGZH8QTCiLAbOQ) | [Peaks](https://open.spotify.com/album/3rzZZFDbicYJ9x6fWhlKq7) | 3:45 | 2026-02-22 |  |
 | [Pena](https://open.spotify.com/track/5BPtFQzNSjbwhJZjg3UJBG) | [Mauro Valenti](https://open.spotify.com/artist/563ZISZgJhOJQglptYVvRp) | [Pena](https://open.spotify.com/album/1b8R6JAv2HLM16pMGAlmdO) | 2:38 | 2026-02-22 |  |
 | [PERFECT](https://open.spotify.com/track/6GK8NT1WSXxnxN0fGQrzo2) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [PERFECT](https://open.spotify.com/album/66qJyF1dyBFl0AEa3Oye7x) | 2:12 | 2026-02-06 |  |

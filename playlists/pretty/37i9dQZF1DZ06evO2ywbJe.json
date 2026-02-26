@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7433,
+  "num_followers": 7443,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAPKXV4/FiBP5OmW8qUHFls",
+  "snapshot_id": "aZzqAAAAAABeWXznaCzwNz2M8g1s9qlG",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 223531,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Son of a Widow",
         "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 148375,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 223531,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
     },
     {
       "added_at": null,
@@ -667,34 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Help Is On The Way",
-        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
-      },
-      "artists": [
-        {
-          "name": "Kellylivinglarge",
-          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Brainyboi",
-          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
-        }
-      ],
-      "duration_ms": 176183,
-      "name": "Living Life",
-      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -787,6 +759,34 @@
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/7rbeGVL8ocUMEpz0Jo2ty6"
+      },
+      "artists": [
+        {
+          "name": "Kellylivinglarge",
+          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Brainyboi",
+          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
+        }
+      ],
+      "duration_ms": 176183,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/4ukNbQ6qi5xc8DfxoHtvcR"
     },
     {
       "added_at": null,
@@ -939,26 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elon Musk (Remix)",
-        "url": "https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd"
+        "name": "The Erigma II",
+        "url": "https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 204107,
-      "name": "Elon Musk (Remix)",
-      "url": "https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto"
+      "duration_ms": 211673,
+      "name": "Two Criminals",
+      "url": "https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb"
     },
     {
       "added_at": null,
@@ -983,22 +979,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Erigma II",
-        "url": "https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR"
+        "name": "Elon Musk (Remix)",
+        "url": "https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd"
       },
       "artists": [
         {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 211673,
-      "name": "Two Criminals",
-      "url": "https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb"
+      "duration_ms": 204107,
+      "name": "Elon Musk (Remix)",
+      "url": "https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto"
     },
     {
       "added_at": null,
@@ -1023,30 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marleba The EP",
-        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
-      },
-      "artists": [
-        {
-          "name": "DaBlixx Osha",
-          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Drey Spencer",
-          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
-        }
-      ],
-      "duration_ms": 144993,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 200973,
       "name": "Only Fan",
       "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marleba The EP",
+        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
+      },
+      "artists": [
+        {
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Drey Spencer",
+          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
+        }
+      ],
+      "duration_ms": 144993,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
     }
   ],
   "unique_name": "This Is Zlatan",

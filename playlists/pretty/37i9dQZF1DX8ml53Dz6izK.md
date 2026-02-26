@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,367 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,369 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 45 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
 | 46 | [Hot Mess](https://open.spotify.com/track/18eoNBn1L1li2TvPa2DupB) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 2:52 |
 | 47 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
-| 48 | [Hate \(I Really Don't Like You\)](https://open.spotify.com/track/6cQSR4chKDTFhlCT2MuNwq) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:44 |
-| 49 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 |
+| 48 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 |
+| 49 | [Hate \(I Really Don't Like You\)](https://open.spotify.com/track/6cQSR4chKDTFhlCT2MuNwq) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:44 |
 | 50 | [Whoa Oh! \(Me vs Everyone\)](https://open.spotify.com/track/7CKLZEwboCy2juXMLsAHFt) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 3:24 |
-| 51 | [Hello Seattle](https://open.spotify.com/track/6kIpxmFQ35wgI3cK77LKbx) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 2:47 |
-| 52 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
+| 51 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
+| 52 | [Hello Seattle](https://open.spotify.com/track/6kIpxmFQ35wgI3cK77LKbx) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 2:47 |
 | 53 | [Everything I Ask For](https://open.spotify.com/track/7oO2hXd8ancgNouU8w3b1N) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 2:37 |
 | 54 | [Heregoesnothin](https://open.spotify.com/track/4eaLY5pOPsgKzs37woeTRz) | [Never Shout Never](https://open.spotify.com/artist/5pUmXBIQtqpvdV1HAy2xYC) | [The Yippee EP](https://open.spotify.com/album/1oFeg6t9ToYo6DgGwb47Fm) | 3:26 |
 | 55 | [Bring It \(Snakes on a Plane\)](https://open.spotify.com/track/2YWDmfu4SAnYGboCRrkjxE) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [While the City Sleeps, We Rule the Streets](https://open.spotify.com/album/0XgX5j5Ne4Tfw4oMdcoNQI) | 3:14 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 61 | [Kelsey](https://open.spotify.com/track/5weqqLD5pDadqumvcrRCVA) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 3:37 |
 | 62 | [Girls Do What They Want](https://open.spotify.com/track/3nOjVAn9ohlCATDl1040v6) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 3:12 |
 | 63 | [6 Months](https://open.spotify.com/track/5RJyX7ZuBwTQeQgyxGqb7M) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:36 |
-| 64 | [Saviour](https://open.spotify.com/track/5dSTEwEBqCutDNXtueASXg) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [The Listening](https://open.spotify.com/album/3sQVIOFsu1lIzug5G2fUbX) | 3:28 |
-| 65 | [That Boy That Girl](https://open.spotify.com/track/4Nug5ZjYtSaX5CBQ25rlDy) | [Hadouken!](https://open.spotify.com/artist/1369EOxSlL69yV9Yp1nVaR) | [Music for an Accelerated Culture](https://open.spotify.com/album/1MIvX2t0DUAe9NhqdcndIu) | 3:31 |
+| 64 | [That Boy That Girl](https://open.spotify.com/track/4Nug5ZjYtSaX5CBQ25rlDy) | [Hadouken!](https://open.spotify.com/artist/1369EOxSlL69yV9Yp1nVaR) | [Music for an Accelerated Culture](https://open.spotify.com/album/1MIvX2t0DUAe9NhqdcndIu) | 3:31 |
+| 65 | [Saviour](https://open.spotify.com/track/5dSTEwEBqCutDNXtueASXg) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [The Listening](https://open.spotify.com/album/3sQVIOFsu1lIzug5G2fUbX) | 3:28 |
 | 66 | [I'm A Pirate, You're A Princess](https://open.spotify.com/track/5AOhF9yrkU3CG5eMXCrkun) | [PlayRadioPlay!](https://open.spotify.com/artist/63zoZel1NwaG2CwLHdCA9v) | [Texas](https://open.spotify.com/album/6nSoc1FdGJ4ls8zo65VIRN) | 5:07 |
 | 67 | [Breakdown](https://open.spotify.com/track/65bq75zQo5Eh1tnaV1kLNc) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 3:37 |
 | 68 | [Arizona](https://open.spotify.com/track/54jGdUgkPfGNVPVj0wlS3v) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:36 |

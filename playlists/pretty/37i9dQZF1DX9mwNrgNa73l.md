@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,375 likes - 70 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,423 likes - 70 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 41 | [Nit Khair Manga](https://open.spotify.com/track/6Lks1JEnWDejwxwGIUGzRI) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 4:33 |
 | 42 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 |
 | 43 | [Mujhay Baar Baar](https://open.spotify.com/track/3vd0Z4j9xwLVZUGUbmQTUV) | [Abbas Ali Khan](https://open.spotify.com/artist/2s0QNp9mi0mup8DHbTPs9l) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:30 |
-| 44 | [Sufinama A divine Journey](https://open.spotify.com/track/6ZDleQWGHGfjC80EPN0gQs) | [Mast](https://open.spotify.com/artist/6Y0SzWOL0ZHqMZGJtgMdZ0), [Shaheryar Shahzad](https://open.spotify.com/artist/4Wkemr4UA81Y00DryaMMWc) | [Tu Aur Mein](https://open.spotify.com/album/5v3GvrCLJgpRwkQHsvbkbY) | 4:42 |
+| 44 | [Sufinama A divine Journey](https://open.spotify.com/track/6ZDleQWGHGfjC80EPN0gQs) | [Mast](https://open.spotify.com/artist/6Y0SzWOL0ZHqMZGJtgMdZ0), [Shaheryar Shahzad](https://open.spotify.com/artist/4TypeHStAOf9YqqzjtRKgS) | [Tu Aur Mein](https://open.spotify.com/album/5v3GvrCLJgpRwkQHsvbkbY) | 4:42 |
 | 45 | [Tasbih](https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Lakhwinder Wadali](https://open.spotify.com/artist/1qa2fyoTZpIGtyfghuB5sK) | [Tasbih](https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF) | 4:13 |
 | 46 | [Alif Allah Chambey Di Booty](https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref) | [Arif Lohar & Meesha Shafi](https://open.spotify.com/artist/2AI4UlqXx9uRwCcK4hCqcg), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 8:44 |
 | 47 | [Khwaja Mere Khwaja](https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 6:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 69 | [Salaam](https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Salaam](https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2) | 4:37 |
 | 70 | [Alif Allah](https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Alif Allah](https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH) | 3:21 |
 
-Snapshot ID: `AAAAADicFeSMWa8WvhpdE4BOFbi3GWGF`
+Snapshot ID: `AAAAAF2uAEQ+sJfUb0qr6sF0OOvjDX1r`

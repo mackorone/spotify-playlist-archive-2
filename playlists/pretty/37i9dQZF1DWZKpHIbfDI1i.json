@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Banda MS y Xavi en portada ",
-  "num_followers": 829214,
+  "num_followers": 829233,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
-        "name": "triston",
-        "url": "https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
+        "name": "triston",
+        "url": "https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 172157,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
         "name": "Ya No Se Llevan Serenatas (Deluxe)",
         "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 196632,
       "name": "CHROME HEARTS",
       "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
-        "name": "Sin Fin",
-        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 172157,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
-        "name": "Love To Be Loved",
-        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Love To Be Loved",
-      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
         "name": "Sin Darme Explicacion",
         "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 187560,
       "name": "Sin Darme Explicacion",
       "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
+        "name": "IMU",
+        "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 139734,
+      "name": "IMU",
+      "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
         "name": "Papi Chulo x Mali",
         "url": "https://open.spotify.com/album/3f1kIDTAWun9b7mIo1d0R8"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 179454,
       "name": "Papi Chulo x Mali",
       "url": "https://open.spotify.com/track/2VkPDAZMr1QrBxW4M4IYj1"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
-        "name": "IMU",
-        "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
-        },
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 139734,
-      "name": "IMU",
-      "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },
     {
       "added_at": "2026-02-20 06:00:33",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-02-20 06:00:33",
       "album": {
+        "name": "Errante",
+        "url": "https://open.spotify.com/album/66BWriXW9tW7PbgJTJcWt0"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Errante",
+      "url": "https://open.spotify.com/track/6GbWqZbWu6Zh5RcjGref6W"
+    },
+    {
+      "added_at": "2026-02-20 06:00:33",
+      "album": {
         "name": "Dejame Dormir",
         "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 160500,
       "name": "Dejame Dormir",
       "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
-    },
-    {
-      "added_at": "2026-02-20 06:00:33",
-      "album": {
-        "name": "Errante",
-        "url": "https://open.spotify.com/album/66BWriXW9tW7PbgJTJcWt0"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Errante",
-      "url": "https://open.spotify.com/track/6GbWqZbWu6Zh5RcjGref6W"
     },
     {
       "added_at": "2026-02-20 06:00:33",

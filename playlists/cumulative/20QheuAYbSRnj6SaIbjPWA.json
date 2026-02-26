@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Down To The Waterline",
+      "url": "https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
       },
@@ -1206,6 +1224,24 @@
       "duration_ms": 180213,
       "name": "I Lust U",
       "url": "https://open.spotify.com/track/0QP0kYZhYHnO8fthKntc8Z"
+    },
+    {
+      "album": {
+        "name": "Some Nights I Dream of Doors",
+        "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "I Wish It Was Me",
+      "url": "https://open.spotify.com/track/3ghmdRTijueJLRzswc779P"
     },
     {
       "album": {

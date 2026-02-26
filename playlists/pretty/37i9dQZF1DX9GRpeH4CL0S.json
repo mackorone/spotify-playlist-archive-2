@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 822757,
+  "num_followers": 822843,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Hold My Home",
         "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
         }
       ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 196195,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Remastered",
-      "url": "https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 229413,
       "name": "Soul Meets Body",
       "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 196195,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Remastered",
+      "url": "https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2631,6 +2631,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Sixteen Stone (2014 Remastered)",
+        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Glycerine - 2014 Remastered",
+      "url": "https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb"
       },
@@ -2663,18 +2679,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Sixteen Stone (2014 Remastered)",
-        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+        "name": "Cage The Elephant",
+        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
       },
       "artists": [
         {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Glycerine - 2014 Remastered",
-      "url": "https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af"
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2691,22 +2707,6 @@
       "duration_ms": 121306,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/4F64QXRV1EGHSm5jIeMmcQ"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Cage The Elephant",
-        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Ain't No Rest for the Wicked",
-      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2739,6 +2739,22 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2787,22 +2803,6 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2919,22 +2919,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
       },
@@ -2947,6 +2931,22 @@
       "duration_ms": 212733,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3015,6 +3015,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Icky Thump",
+      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
       },
@@ -3043,22 +3059,6 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/6ZrlXT6mUMEgomN128iekU"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Icky Thump",
-      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
     },
     {
       "added_at": "2026-02-13 03:17:49",

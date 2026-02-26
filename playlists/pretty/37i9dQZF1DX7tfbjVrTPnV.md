@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,756 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,772 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 8 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 9 | [Traveller](https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:42 |
 | 10 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
-| 11 | [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 |
-| 12 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 |
+| 11 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 |
+| 12 | [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 |
 | 13 | [Hello in There](https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 4:32 |
 | 14 | [Killing the Blues](https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 4:15 |
 | 15 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 78 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 |
 | 79 | [Reverie](https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Electro Melodier](https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS) | 3:35 |
 | 80 | [The Killing Fields](https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Leventhal](https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH) | [The Killing Fields](https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS) | 4:23 |
-| 81 | [Bring It On](https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Band of Brothers](https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C) | 2:54 |
-| 82 | [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 |
+| 81 | [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 |
+| 82 | [Bring It On](https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Band of Brothers](https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C) | 2:54 |
 | 83 | [I'm Dying for Someone to Live For](https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Wouldn't It Be Great](https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr) | 2:30 |
 | 84 | [36 Cents](https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [36 ¢](https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV) | 4:24 |
 | 85 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |

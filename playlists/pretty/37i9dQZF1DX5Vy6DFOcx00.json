@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4131264,
+  "num_followers": 4130897,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD82XQQsORdUwntMLz6EYXMmvSqV",
+  "snapshot_id": "AAAAAO+hxAROCNx55n1x/k9ZAkP/58Cb",
   "tracks": [
     {
       "added_at": "2026-02-19 17:46:14",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
+      "added_at": "2026-02-25 16:52:50",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
       "added_at": "2025-12-31 19:08:26",
       "album": {
         "name": "NEGATIVE",
@@ -89,36 +105,36 @@
       "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
-      "added_at": "2025-11-17 16:27:31",
+      "added_at": "2026-02-25 16:52:50",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
         }
       ],
-      "duration_ms": 170333,
-      "name": "I Thought I Saw Your Face Today",
-      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
     },
     {
-      "added_at": "2026-02-13 15:30:21",
+      "added_at": "2026-02-25 16:52:50",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
     },
     {
       "added_at": "2025-12-31 19:08:26",
@@ -139,6 +155,90 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-02-25 16:52:50",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+    },
+    {
+      "added_at": "2025-11-17 16:27:31",
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "added_at": "2026-02-25 16:52:50",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2026-02-25 16:52:50",
+      "album": {
+        "name": "(When You Gonna) Give It Up to Me",
+        "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "(When You Gonna) Give It Up to Me - Radio Version",
+      "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
+    },
+    {
+      "added_at": "2026-02-13 15:30:21",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": "2026-02-20 06:12:41",
@@ -191,6 +291,22 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-02-25 16:52:50",
+      "album": {
+        "name": "Send My Love (To Your New Lover)",
+        "url": "https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l"
     },
     {
       "added_at": "2026-02-13 15:30:21",
@@ -573,22 +689,6 @@
       "url": "https://open.spotify.com/track/2RKDbMwtJgKc76H9oPo7Cl"
     },
     {
-      "added_at": "2026-02-09 03:18:38",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/66AVTE7jpp9g8ZNgybI4nr"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        }
-      ],
-      "duration_ms": 221233,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/5qpPsI80C5AMiZ9v9wYD6n"
-    },
-    {
       "added_at": "2026-01-13 01:49:38",
       "album": {
         "name": "Big Guy (from \"The SpongeBob Movie: Search for SquarePants\u201d)",
@@ -621,38 +721,6 @@
       "url": "https://open.spotify.com/track/31SF2unE1SZ51m4O11isG9"
     },
     {
-      "added_at": "2025-12-23 07:36:02",
-      "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 127366,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
-    },
-    {
-      "added_at": "2026-01-08 17:08:24",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "A Couple Minutes",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
-    },
-    {
       "added_at": "2025-12-25 17:33:59",
       "album": {
         "name": "Fallen",
@@ -667,22 +735,6 @@
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
-    },
-    {
-      "added_at": "2026-02-09 03:18:38",
-      "album": {
-        "name": "The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "You're A Big Girl Now",
-      "url": "https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr"
     },
     {
       "added_at": "2025-12-06 18:28:27",
@@ -747,58 +799,6 @@
       "duration_ms": 203240,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
-    },
-    {
-      "added_at": "2025-10-17 16:47:47",
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 268493,
-      "name": "Beez In The Trap",
-      "url": "https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC"
-    },
-    {
-      "added_at": "2025-10-17 16:47:47",
-      "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
-    },
-    {
-      "added_at": "2025-12-23 07:36:02",
-      "album": {
-        "name": "tower of memories",
-        "url": "https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 208510,
-      "name": "tower of memories",
-      "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
     },
     {
       "added_at": "2025-09-15 22:04:29",

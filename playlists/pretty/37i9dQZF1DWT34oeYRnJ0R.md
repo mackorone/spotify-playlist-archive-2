@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Yandel, LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,902 likes - 200 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,852 likes - 200 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 81 | [secuestro](https://open.spotify.com/track/4huJ0Fow4zyt0FggO1tBaJ) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [dile no a las drogas](https://open.spotify.com/album/3PVlBBFUToLZBOM9FCNn6Z) | 3:14 |
 | 82 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 |
 | 83 | [ETA \- RMX](https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Private Suite \(Vol\. 2\)](https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9) | 7:42 |
-| 84 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
+| 84 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 85 | [Lo Que Tiene](https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Lo Que Tiene](https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4) | 4:19 |
 | 86 | [STAR](https://open.spotify.com/track/2mnehJ4xPqFe4cNi7BG2rc) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [KM 33](https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8) | 2:36 |
 | 87 | [Nota](https://open.spotify.com/track/3HPaGfBzwJGMKv6fPxWgPi) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 4:35 |

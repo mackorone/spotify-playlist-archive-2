@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 176483,
       "name": "Black Dust Blues",
       "url": "https://open.spotify.com/track/4697gPC8VJTaLrBxNmfgXf"
@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "The Sweet Man",
+        "url": "https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187013,
+      "name": "Down in the Basement",
+      "url": "https://open.spotify.com/track/6W2lAYG8V3vQaKwMDG8BbG"
+    },
+    {
+      "album": {
         "name": "Presenting Ma Rainey",
         "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 180610,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/2bc3uRL4ssJhw2QR3C8WWk"

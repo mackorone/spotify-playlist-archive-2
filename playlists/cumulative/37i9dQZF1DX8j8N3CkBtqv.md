@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akshath, Anubha Bajaj and other exciting artists.
 
-1,352 songs - 3 day 1 hr 56 min
+1,353 songs - 3 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Gulaabo](https://open.spotify.com/track/5za0zx6YfpBB8c67dQf3b9) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Gulaabo](https://open.spotify.com/album/1JzfXReVVTZ5d2RKEw5TEV) | 3:29 | 2024-02-02 | 2024-04-06 |
 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 | 2023-06-30 | 2023-08-05 |
 | [Gulabi Hawa](https://open.spotify.com/track/1s3JFBIpuBuRqLP8dBuUeY) | [Piyush Chouhan](https://open.spotify.com/artist/70YtfsMmwplUfD5U8K3DUx) | [Gulabi Hawa](https://open.spotify.com/album/3wYJA35ECM4DqK9LTxr6vx) | 2:18 | 2025-12-19 |  |
-| [gulbahar](https://open.spotify.com/track/2LE6zZj17aW1U1aktMHnw8) | [roshnee](https://open.spotify.com/artist/5bNlV7RugEn70UvFBW2V9D), [Ganesh Murali Iyer](https://open.spotify.com/artist/7mYld0KbffsCDCtSC6sDlX), [Aman Warkhedkar](https://open.spotify.com/artist/06awX1b51DJZhTkgYnCSCx) | [gulbahar](https://open.spotify.com/album/0Zc8bKPI9FxnFyNBVjlgeo) | 3:07 | 2026-01-30 |  |
+| [gulbahar](https://open.spotify.com/track/2LE6zZj17aW1U1aktMHnw8) | [roshnee](https://open.spotify.com/artist/5bNlV7RugEn70UvFBW2V9D), [Ganesh Murali Iyer](https://open.spotify.com/artist/7mYld0KbffsCDCtSC6sDlX), [Aman Warkhedkar](https://open.spotify.com/artist/06awX1b51DJZhTkgYnCSCx) | [gulbahar](https://open.spotify.com/album/0Zc8bKPI9FxnFyNBVjlgeo) | 3:07 | 2026-01-30 | 2026-02-26 |
 | [Gulchharre](https://open.spotify.com/track/2ZdX0egfPXSxm7Ccv23UOB) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr) | [Gulchharre](https://open.spotify.com/album/36U4A2L3qW4OYqvV3GXjGx) | 3:09 | 2024-06-07 | 2024-07-19 |
 | [Gulfam](https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Gulfam](https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt) | 2:33 | 2025-09-12 | 2025-11-21 |
 | [Gumshuda](https://open.spotify.com/track/1qChnX5WTdkE2oCCTyFrTu) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Gumshuda](https://open.spotify.com/album/6J4Cv47ly1iUAheQy6yrEW) | 3:48 | 2023-08-10 | 2023-09-22 |
@@ -1254,6 +1254,7 @@
 | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 | 2023-10-27 | 2023-12-23 |
 | [Tu Mera Ho](https://open.spotify.com/track/2IDTkOf6AodC0R4xIFdrL4) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Tu Mera Ho](https://open.spotify.com/album/1SDth8x6bEPXZcr9c4bzdS) | 2:33 | 2023-07-07 | 2023-08-11 |
 | [Tu Mera Nahin](https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Ises](https://open.spotify.com/artist/7AJZUJGavrMJCJtXcf5ChC) | [Tu Mera Nahin](https://open.spotify.com/album/0SynqkoxEsW3wtCv5OUWOP) | 3:25 | 2024-12-20 | 2025-02-16 |
+| [Tu Mera Naiyo Ho Sakda](https://open.spotify.com/track/4STObqEUiTMhYNDL9anAQ3) | [Krish](https://open.spotify.com/artist/1lWNVxTjMgOhnDkPMvBcsm) | [Tu Mera Naiyo Ho Sakda](https://open.spotify.com/album/7euOAPjjJozGclZ5vIZmqX) | 4:19 | 2026-02-20 |  |
 | [Tu Mila](https://open.spotify.com/track/2TheIuczIyxWtOgBGoqbPN) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H), [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Tu Mila](https://open.spotify.com/album/50Y2Kglod3hbx8kKRfOAMD) | 2:23 | 2026-02-20 |  |
 | [Tu Mileya Ve](https://open.spotify.com/track/6dYVPyx5AQnOAmFOyJljIz) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Unnati Shah](https://open.spotify.com/artist/7k5V4wLBAPJAKgCbLNM1gP) | [Tu Mileya Ve](https://open.spotify.com/album/4oyY0mE03bj7LCnfL9Q6h2) | 4:03 | 2023-12-01 | 2024-01-20 |
 | [TU NA JAANE](https://open.spotify.com/track/0oPe2E6hO1J8BE8bylA1KV) | [SHAHI](https://open.spotify.com/artist/37jIu8068iik4NKht4gl92), [Deep](https://open.spotify.com/artist/0z7tFsnGUC5AmOISD1cATs) | [TU NA JAANE](https://open.spotify.com/album/5VfPiPcd1Qw6Wze1FRiqf0) | 3:06 | 2026-02-06 | 2026-02-14 |

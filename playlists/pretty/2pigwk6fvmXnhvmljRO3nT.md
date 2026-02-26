@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,298 songs - 21 day 3 hr 12 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,309 songs - 21 day 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8306,5 +8306,16 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8296 | [Music](https://open.spotify.com/track/1AM6hQPTJcUzJmh31PGJMO) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Florence \(Original Soundtrack\)](https://open.spotify.com/album/7uwHUvVHDAEKxyXCoZYFIF) | 1:39 |
 | 8297 | [Hanezeve Caradhina](https://open.spotify.com/track/0KzOeB44GAj2rHmoXML0eb) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Takeshi Saito](https://open.spotify.com/artist/6EifT94aajj9feHCnqvV1E) | [TVアニメ「メイドインアビス」オリジナルサウンドトラック](https://open.spotify.com/album/5oEzjkSYSfC0ITRiqK6m8l) | 3:21 |
 | 8298 | [Night Candy \(feat\. Nenne\)](https://open.spotify.com/track/4TxHZa5XsI0aZ0PqLKQIcL) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [nenne](https://open.spotify.com/artist/0pQa8NC0N9XU57aOp3BgXw) | [Nerenaiyoruni ka\-tenwoakete](https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn) | 3:10 |
+| 8299 | [ハート](https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハート](https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk) | 4:31 |
+| 8300 | [Candy Gun](https://open.spotify.com/track/3CJT3NY7LLs3dSwm2C59vC) | [Melt\-Banana](https://open.spotify.com/artist/1aDpQ3bo57IlYWmsG5sdlp) | [Fetch](https://open.spotify.com/album/4C8VqFE4h4KWIsbAViqIby) | 4:07 |
+| 8301 | [Zero](https://open.spotify.com/track/7ddCej9llJ7YRo1uGvM0uk) | [Melt\-Banana](https://open.spotify.com/artist/1aDpQ3bo57IlYWmsG5sdlp) | [Fetch](https://open.spotify.com/album/4C8VqFE4h4KWIsbAViqIby) | 3:45 |
+| 8302 | [However the Illusionist shake the dice](https://open.spotify.com/track/3ACpVpD2hFWdjFMEgcuSUJ) | [Lie and a Chameleon](https://open.spotify.com/artist/1oUiDfTNWZCprR1GeRPs0i) | [ヲトシアナ](https://open.spotify.com/album/1doRRzlToztwSGU3CfLYWO) | 3:28 |
+| 8303 | [サヨナラムーンタウン](https://open.spotify.com/track/0WsS3l0QQQ6K7I26IvHKOo) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [サヨナラムーンタウン](https://open.spotify.com/album/7JncoPk0VTGyJ6w8GMUHos) | 3:50 |
+| 8304 | [少年少女](https://open.spotify.com/track/1AwfJENb63nQKuIWiuh0cy) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [少年少女](https://open.spotify.com/album/5ugjgbvqSNYigkw9gemwmC) | 3:28 |
+| 8305 | [BABY BABY](https://open.spotify.com/track/087HZ0quExiXgCwLhASwgP) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [君と僕の第三次世界大戦的恋愛革命](https://open.spotify.com/album/0xMqZoa9JrM6pwVW7jQBu8) | 3:59 |
+| 8306 | [心做し](https://open.spotify.com/track/3PK6LUPq0vRGkjcNgOi4Oy) | [Akane](https://open.spotify.com/artist/4EVnX5Vi4A3x0sx29HHRbj) | [Next Moment](https://open.spotify.com/album/6svhX17vclNbAexDItiPSo) | 4:36 |
+| 8307 | [Aloneness](https://open.spotify.com/track/52L3uygRqFVuUWADwI5gtb) | [Namco Sounds](https://open.spotify.com/artist/2Ufp710KxNRvzFvOp96Qqd) | [Tekken 7](https://open.spotify.com/album/5qLrUFqSEUuGdJbj023J5N) | 5:49 |
+| 8308 | [Can I Kick It?](https://open.spotify.com/track/1gSDTZHemEViEBiXysrlo0) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/5DMRGZTzA3vVcLDNQS1ynv) | 4:11 |
+| 8309 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
 
-Snapshot ID: `AAAK+nwlgk2fJz282r0uCEw2NVe4ZFeu`
+Snapshot ID: `AAALBEa0JR6pqtCjFqd2ziTxZlTy9334`

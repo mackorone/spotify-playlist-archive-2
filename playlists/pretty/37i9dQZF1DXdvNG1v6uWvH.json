@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Lana Del Rey og m\u00f6rgum fleiri!",
-  "num_followers": 9599,
+  "num_followers": 9598,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "Yellow Eyes",
         "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "only the best",
-        "url": "https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 202525,
-      "name": "only the best",
-      "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/0Lc6hXuzMbcK4Lw0NsLjwH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 167883,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1ENWPMBX8mf4kyCpony4ut"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "only the best",
+        "url": "https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 202525,
+      "name": "only the best",
+      "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -635,6 +635,30 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5yvxgPwdYkBvvblqTmkGKU"
+      },
+      "artists": [
+        {
+          "name": "AVALAN ROKSTON",
+          "url": "https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G"
+        },
+        {
+          "name": "Avalan",
+          "url": "https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw"
+        },
+        {
+          "name": "Rokston",
+          "url": "https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP"
+        }
+      ],
+      "duration_ms": 154319,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6kw5fiFSxFTUUmn6ynSwrD"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
         "name": "YDH",
         "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 142219,
       "name": "Rosary",
       "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5yvxgPwdYkBvvblqTmkGKU"
-      },
-      "artists": [
-        {
-          "name": "AVALAN ROKSTON",
-          "url": "https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G"
-        },
-        {
-          "name": "Avalan",
-          "url": "https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw"
-        },
-        {
-          "name": "Rokston",
-          "url": "https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP"
-        }
-      ],
-      "duration_ms": 154319,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6kw5fiFSxFTUUmn6ynSwrD"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "superFREAK",
-        "url": "https://open.spotify.com/album/6A7darylrNzpItRVr4m6vO"
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/5mJVYqxiTdW3To07GPicSr"
       },
       "artists": [
         {
-          "name": "sk\u00f8ien",
-          "url": "https://open.spotify.com/artist/0nLcBTkyWqwEsUJB2Xnw6y"
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
         }
       ],
-      "duration_ms": 155688,
-      "name": "superFREAK",
-      "url": "https://open.spotify.com/track/6eGJSaWUSwGzbv9mZYBaI5"
+      "duration_ms": 171573,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2WqlA3WSTkXW9ao4pn1PS7"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/5mJVYqxiTdW3To07GPicSr"
+        "name": "superFREAK",
+        "url": "https://open.spotify.com/album/6A7darylrNzpItRVr4m6vO"
       },
       "artists": [
         {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+          "name": "sk\u00f8ien",
+          "url": "https://open.spotify.com/artist/0nLcBTkyWqwEsUJB2Xnw6y"
         }
       ],
-      "duration_ms": 171573,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2WqlA3WSTkXW9ao4pn1PS7"
+      "duration_ms": 155688,
+      "name": "superFREAK",
+      "url": "https://open.spotify.com/track/6eGJSaWUSwGzbv9mZYBaI5"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Tro p\u00e5 en \u00e4ngel",
-        "url": "https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH"
-      },
-      "artists": [
-        {
-          "name": "Melwin Wid",
-          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Tro p\u00e5 en \u00e4ngel",
-      "url": "https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "All I Know",
         "url": "https://open.spotify.com/album/2MR3yPPbllz0KLXTno7PMV"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
+        "name": "Tro p\u00e5 en \u00e4ngel",
+        "url": "https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH"
+      },
+      "artists": [
+        {
+          "name": "Melwin Wid",
+          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Tro p\u00e5 en \u00e4ngel",
+      "url": "https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
         "name": "broken paradise",
         "url": "https://open.spotify.com/album/2lIuWlIWooFwWvPqL2JZem"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 242659,
       "name": "broken paradise",
       "url": "https://open.spotify.com/track/2dnBqp1fbuxotdW31xddUj"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Die for you",
+        "url": "https://open.spotify.com/album/0pY5InO2K9DwyhJOA2924q"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Die for you",
+      "url": "https://open.spotify.com/track/7JcHHEKQUnr7EZR0GAdneV"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1087,18 +1103,22 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Die for you",
-        "url": "https://open.spotify.com/album/0pY5InO2K9DwyhJOA2924q"
+        "name": "333 dance songs",
+        "url": "https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l"
       },
       "artists": [
         {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+          "name": "Silent Boy",
+          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
+        },
+        {
+          "name": "defyer",
+          "url": "https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Die for you",
-      "url": "https://open.spotify.com/track/7JcHHEKQUnr7EZR0GAdneV"
+      "duration_ms": 155076,
+      "name": "dance 4 infinity",
+      "url": "https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1155,26 +1175,6 @@
       "duration_ms": 157631,
       "name": "Someone",
       "url": "https://open.spotify.com/track/3fGJEc4DzxFTxgG735rJDo"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
-        "name": "333 dance songs",
-        "url": "https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l"
-      },
-      "artists": [
-        {
-          "name": "Silent Boy",
-          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
-        },
-        {
-          "name": "defyer",
-          "url": "https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "dance 4 infinity",
-      "url": "https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "I Could Be Staring at Stars",
-        "url": "https://open.spotify.com/album/3MTQezDWL8OIFkkz1VqNsm"
-      },
-      "artists": [
-        {
-          "name": "Toussaint Chiza",
-          "url": "https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA"
-        },
-        {
-          "name": "Tusse",
-          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "I Could Be Staring at Stars",
-      "url": "https://open.spotify.com/track/6mXalgj76XRae93pBjhNVt"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "wash away",
         "url": "https://open.spotify.com/album/2tslN1LJt5kcegF8hmlAbB"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 210870,
       "name": "Human",
       "url": "https://open.spotify.com/track/4KgWT5tlBEGlbaCRLW8XEV"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "I Could Be Staring at Stars",
+        "url": "https://open.spotify.com/album/3MTQezDWL8OIFkkz1VqNsm"
+      },
+      "artists": [
+        {
+          "name": "Toussaint Chiza",
+          "url": "https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA"
+        },
+        {
+          "name": "Tusse",
+          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "I Could Be Staring at Stars",
+      "url": "https://open.spotify.com/track/6mXalgj76XRae93pBjhNVt"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Alpe d'Huez",
-        "url": "https://open.spotify.com/album/5eg1oWNksfFWJwdyONqMCZ"
-      },
-      "artists": [
-        {
-          "name": "Tabloid",
-          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
-        }
-      ],
-      "duration_ms": 258707,
-      "name": "Alpe d'Huez",
-      "url": "https://open.spotify.com/track/6J37PtbLdD3A8emxljY1jq"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "quicksand",
         "url": "https://open.spotify.com/album/30tD4DWOJeez9i4WTA59Bo"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 146818,
       "name": "quicksand",
       "url": "https://open.spotify.com/track/1dyugO0mpJrBT3DEl56NeI"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Alpe d'Huez",
+        "url": "https://open.spotify.com/album/5eg1oWNksfFWJwdyONqMCZ"
+      },
+      "artists": [
+        {
+          "name": "Tabloid",
+          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
+        }
+      ],
+      "duration_ms": 258707,
+      "name": "Alpe d'Huez",
+      "url": "https://open.spotify.com/track/6J37PtbLdD3A8emxljY1jq"
     },
     {
       "added_at": "2026-02-20 00:00:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: MC Cabelinho, Raflow, Vinicin, TZ da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,404 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,310 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [PRETEXTO](https://open.spotify.com/track/5MQvxPE9ep6s6tQ5azGDTg) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [PRETEXTO](https://open.spotify.com/album/0AFMclr9hq4e4KNyKLBrG5) | 3:54 |
 | 75 | [Só Você](https://open.spotify.com/track/02bqeoLf4nNHvkevZV0SvN) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Só Você](https://open.spotify.com/album/71RABVmKmLutUhId8dDVs8) | 2:49 |
 
-Snapshot ID: `AAAAAEK+lmFmw2uSwx1K6W+lgz9XAnut`
+Snapshot ID: `AAAAAGx0JSHRFAOeYEAa5dScE3lXex+J`

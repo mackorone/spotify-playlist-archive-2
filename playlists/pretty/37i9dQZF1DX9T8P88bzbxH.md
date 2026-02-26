@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Singapore, you know the fanchants\. It’s about to feel like home again\. Cover: SEVENTEEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,269 likes - 29 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,783 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAACJ32zP+TA7waEeOGOu+7D",
+  "snapshot_id": "aZzqAAAAAACkYHkJfXQnVW4wBReuiu8b",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
+        "name": "The Three Degrees - The Very Best Of",
+        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
+      "duration_ms": 213786,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees - The Very Best Of",
-        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 213786,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n"
+      "duration_ms": 244626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
     },
     {
       "added_at": null,
@@ -531,22 +531,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
       "artists": [
         {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
-        {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 151786,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
     },
     {
       "added_at": null,
@@ -579,30 +583,6 @@
       "duration_ms": 203986,
       "name": "Get Your Love Back",
       "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 302642,
-      "name": "Love Train - Live",
-      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
     },
     {
       "added_at": null,
@@ -671,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Look in My Eyes",
         "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
@@ -703,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
       "artists": [
         {
@@ -712,9 +676,25 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Bodycheck",
-      "url": "https://open.spotify.com/track/4zGey0xDrpJWmzRfs6qDIC"
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Will I See You Again (Re-Recorded / Remastered)",
+        "url": "https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 203119,
+      "name": "T.S.O.P. (The Sound Of Philadelphia) (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC"
     },
     {
       "added_at": null,
@@ -751,24 +731,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silvester 70er Hits",
-        "url": "https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
       },
       "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Love the One Your With",
-      "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"
+      "duration_ms": 151786,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "When Will I See You Again (Re-Recorded / Remastered)",
-        "url": "https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 203119,
-      "name": "T.S.O.P. (The Sound Of Philadelphia) (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC"
+      "duration_ms": 215640,
+      "name": "Bodycheck",
+      "url": "https://open.spotify.com/track/4zGey0xDrpJWmzRfs6qDIC"
     },
     {
       "added_at": null,
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
+        "name": "Silvester 70er Hits",
+        "url": "https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej"
       },
       "artists": [
         {
@@ -808,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 274240,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/5nrIgDAuImXGnBLQGrZxQt"
+      "duration_ms": 230653,
+      "name": "Love the One Your With",
+      "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"
     },
     {
       "added_at": null,
@@ -831,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uplifting Soul Classics",
-        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
       },
       "artists": [
         {
@@ -840,9 +824,25 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 159626,
-      "name": "There's So Much Love All Around Me",
-      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+      "duration_ms": 274240,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5nrIgDAuImXGnBLQGrZxQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "La chanson poupulaire",
+      "url": "https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ"
     }
   ],
   "unique_name": "This Is The Three Degrees",

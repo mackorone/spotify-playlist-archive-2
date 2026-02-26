@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,107 likes - 224 songs - 13 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,105 likes - 224 songs - 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 185 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 |
 | 186 | [Snow](https://open.spotify.com/track/16S1tKSwbeEx2SJCRgFQZ5) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:30 |
 | 187 | [Rebel Nation \(feat\. Andrew Watt\)](https://open.spotify.com/track/4iQEgWgVeYJWxeg4TaLPEL) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Wild Youth](https://open.spotify.com/album/2H4BesBBUG1SOuUdQugfLf) | 4:25 |
-| 188 | [E\-Ticket](https://open.spotify.com/track/5O4OhDjKIoYb6qvFwjuwfG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:18 |
-| 189 | [DARKSIDE BLUES](https://open.spotify.com/track/1r5W0EOxXAaNH91TyvhxoT) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 1:47 |
+| 188 | [DARKSIDE BLUES](https://open.spotify.com/track/1r5W0EOxXAaNH91TyvhxoT) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 1:47 |
+| 189 | [E\-Ticket](https://open.spotify.com/track/5O4OhDjKIoYb6qvFwjuwfG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:18 |
 | 190 | [2step \(feat\. Denise Chaila\)](https://open.spotify.com/track/5nlCMeGjtjeHkUqI43dV93) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 191 | [Mrs\. Mills](https://open.spotify.com/track/7F4MzbKH6E9ugQlNZZqvpG) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:04 |
 | 192 | [Duct Tape Lips](https://open.spotify.com/track/1SeQWIqZoNIPlKYAR7qBBU) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 2:47 |
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 208 | [New Atlantis](https://open.spotify.com/track/6XMvpM1luxKj9gCwvifL2D) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:08 |
 | 209 | [Coming 2 America](https://open.spotify.com/track/1qe9SXab6Hh0dhFYxKYTXG) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Coming 2 America \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nZt8NKX67NCY0UfvuWqdG) | 2:32 |
 | 210 | [A Little Light](https://open.spotify.com/track/5FCdNyA2VICUVsvbWkSDo2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:22 |
-| 211 | [Someone To Belong To](https://open.spotify.com/track/1pX2XEoMOeLyKo9KnoClrB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:20 |
-| 212 | [A Long Goodbye](https://open.spotify.com/track/6jqH5HXEsyuyDCO3EqucQJ) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:47 |
+| 211 | [A Long Goodbye](https://open.spotify.com/track/6jqH5HXEsyuyDCO3EqucQJ) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:47 |
+| 212 | [Someone To Belong To](https://open.spotify.com/track/1pX2XEoMOeLyKo9KnoClrB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:20 |
 | 213 | [Hold Tight](https://open.spotify.com/track/1fRqQpnvpThPb0mcBPOQkF) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 2:56 |
 | 214 | [Modern Day Ripoff](https://open.spotify.com/track/02BJIKaqW5LixrTYP3AsOP) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:29 |
 | 215 | [The News For Andy \(Interlude\)](https://open.spotify.com/track/5Fc2Y9ICh4f8weUhqS5Co9) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 0:55 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 223 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 224 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcKjygAAAAC5hjTAqWomxMsmw2tGlf7a`
+Snapshot ID: `AcKpagAAAABVUbFMWmum1sqAbw/t1uVO`

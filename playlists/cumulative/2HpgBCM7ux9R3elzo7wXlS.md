@@ -4,7 +4,7 @@
 
 > All of it
 
-1,150 songs - 2 day 22 hr 39 min
+1,151 songs - 2 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2025-06-02 |  |
 | [Jealous](https://open.spotify.com/track/5KbTBSGUvgDg75gIVhUaAW) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 2:02 | 2025-06-02 |  |
 | [Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:08 | 2025-06-09 |  |
+| [JoJo Sonochino Kioku～end of THE WORLD～](https://open.spotify.com/track/6x5R5nYhMCwfIJILBi25Ss) | [JO☆STARS 〜TOMMY,Coda,JIN〜](https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk) | [JoJo Sonochino Kioku～end of THE WORLD～](https://open.spotify.com/album/2w1cFFSElKsA6VVqxbh6aO) | 4:23 | 2026-02-25 |  |
 | [Joker & The Thief \- Final Hour Mix](https://open.spotify.com/track/6CMch6a8mtMJW9eUSDyq2C) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Joker & The Thief \(Final Hour Mix\)](https://open.spotify.com/album/0CgO3LhFBFq4nxaUaaAxKa) | 2:31 | 2025-06-02 |  |
 | [Journey \(feat\. Kronos Quartet\)](https://open.spotify.com/track/5P68xT9dqkleXVVtdIJPXo) | [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X), [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [C Paul Johnson](https://open.spotify.com/artist/1IMQj6EtlmfuEDQI1Mh7HK), [Rotem Moav](https://open.spotify.com/artist/5EzR3mljAoKai6zZePlqpC), [Pieter Schlosser](https://open.spotify.com/artist/7E6yVUVRGff9KfjPGkpMc4), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Destiny 2 \(Original Soundtrack\)](https://open.spotify.com/album/6EuwzfvfcEA1X8fODjFhhJ) | 7:17 | 2025-06-02 |  |
 | [JoyRide](https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:37 | 2025-12-01 |  |

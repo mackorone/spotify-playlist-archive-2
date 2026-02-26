@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-558 songs - 1 day 8 hr 33 min
+559 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Assume Your Ultimate Form](https://open.spotify.com/track/3AV4Hwma9jsmY6RR2B1cmK) | [Iron Mind](https://open.spotify.com/artist/4FM1JEy3ztOTABIpQulaxF) | [Assume Your Ultimate Form](https://open.spotify.com/album/0OROBjp8G7dQw9icpzhWtE) | 2:43 | 2023-09-13 | 2025-06-04 |
 | [Au Revoir Reservoir](https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Tenterhooks](https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr) | 3:21 | 2026-02-12 |  |
 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-06-03 |  |
+| [Back To Dust](https://open.spotify.com/track/0lS4xb7lMHwuFtNR0Y3aX9) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Back To Dust](https://open.spotify.com/album/13bRXVAR8WFuorplVHwjON) | 3:00 | 2026-02-25 |  |
 | [BACK2YOU \(feat\. blackbear\)](https://open.spotify.com/track/0Ih5m31aOTcaTL4PnvGgYS) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [BLOODLUST](https://open.spotify.com/album/78LoEWcpdvgRImtnfTZe0q) | 2:32 | 2020-10-10\* | 2021-02-25 |
 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-05-30 |  |
 | [Banks](https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Banks](https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D) | 4:00 | 2020-10-10\* | 2022-03-18 |

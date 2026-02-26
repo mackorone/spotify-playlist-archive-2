@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Rakkasapuradhol
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,908 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,909 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rakkasapuradhol Title Track](https://open.spotify.com/track/1ND5PI9m4E6ndn0xg3YJyu) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Kranthi Kumar](https://open.spotify.com/artist/3pAyB3aMEya2VVlQi6Y2rp), [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy) | [Rakkasapuradhol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jF9XRzEzXXrqnYkqD4DhT) | 1:52 |
+| 1 | [Rakkasapuradhol Title Track](https://open.spotify.com/track/1ND5PI9m4E6ndn0xg3YJyu) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Kraanthi Kumar](https://open.spotify.com/artist/6IEbIzKIMmWKjyATLRtCYC), [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy) | [Rakkasapuradhol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jF9XRzEzXXrqnYkqD4DhT) | 1:52 |
 | 2 | [Majako Mallika \(From "Kattalan"\) \[Kannada\]](https://open.spotify.com/track/2VhWtXmqhtKHbVpVsf609z) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Indu Nagaraj](https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [Majako Mallika \(From "Kattalan"\) \[Kannada\]](https://open.spotify.com/album/2r34VSBnu9XiMH3bHmVUfL) | 3:38 |
 | 3 | [Kaala Kelo \(From "Gatha Vaibhava"\)](https://open.spotify.com/track/6fcyl9dRHSaAC5E6PbNvPd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Simple Suni](https://open.spotify.com/artist/2FOfBMh8JQNVyKGc3lJKrJ) | [Kaala Kelo \(From "Gatha Vaibhava"\)](https://open.spotify.com/album/233n0AtP0c08zO8qcr87uH) | 3:16 |
 | 4 | [Chatha Pacha Title Track \(Kannada\)](https://open.spotify.com/track/5LdvnfNoJ0nJWZDZ0TLDdP) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Vishak](https://open.spotify.com/artist/3qEJJvNHM2LdIX65wFeFgH), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Chatha Pacha: The Ring Of Rowdies \[KANNADA\]](https://open.spotify.com/album/7hOHEx1kMpExlhiqhhwX5n) | 3:48 |

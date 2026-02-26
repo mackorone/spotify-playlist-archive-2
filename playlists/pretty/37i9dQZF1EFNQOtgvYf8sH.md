@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 |
 | 2 | [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:15 |
-| 3 | [leavemealone](https://open.spotify.com/track/22BeTyERsitYBJVZohJxOT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:42 |
+| 3 | [leavemealone](https://open.spotify.com/track/2tSP95IyUkPv5Wj83xWh1c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 3:42 |
 | 4 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 |
 | 5 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 |
 | 6 | [Purple Hearts](https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:29 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 | 25 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 | 26 | [only me](https://open.spotify.com/track/75CQb3vXfiah8MOyXqio8t) | [Jake The Snake](https://open.spotify.com/artist/6WeH5ssIPZ0KmBSYu8u30V), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [only me](https://open.spotify.com/album/0iFRaaqEcEECluhl0UdjR0) | 2:40 |
 
-Snapshot ID: `AcKjygAAAABdnmTlo+U8AJ6RqhAFnmo6`
+Snapshot ID: `AcKpagAAAABrPZPJt6GPRdKmb6D68SPx`

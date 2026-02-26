@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 465529,
+  "num_followers": 465688,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Deus \u00c9 Quem Me Fortalece (Ao Vivo)",
+        "url": "https://open.spotify.com/album/60qFSdVT0RCmnJJlb2HmdP"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
+        }
+      ],
+      "duration_ms": 383437,
+      "name": "Deus \u00c9 Quem Me Fortalece - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Gw8uK4h3jAu23UcpwITBS"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Existe Vida A\u00ed",
         "url": "https://open.spotify.com/album/7nVEGZcdfKFzyjVD2WVegZ"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 239946,
       "name": "Existe Vida A\u00ed",
       "url": "https://open.spotify.com/track/1w9OyO138ipRSs8wLnwmp9"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Deus \u00c9 Quem Me Fortalece (Ao Vivo)",
-        "url": "https://open.spotify.com/album/60qFSdVT0RCmnJJlb2HmdP"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
-        }
-      ],
-      "duration_ms": 383437,
-      "name": "Deus \u00c9 Quem Me Fortalece - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Gw8uK4h3jAu23UcpwITBS"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -663,22 +663,26 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Fogo em Teus Olhos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ"
+        "name": "Agnus Dei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A"
       },
       "artists": [
         {
-          "name": "Anna Clara Rocha",
-          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
+          "name": "NOVO CANTO",
+          "url": "https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
         }
       ],
-      "duration_ms": 463720,
-      "name": "Fogo em Teus Olhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/12x0NIXpYNjwIZtXd2cuc7"
+      "duration_ms": 356470,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -731,26 +735,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Agnus Dei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A"
+        "name": "Fogo em Teus Olhos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ"
       },
       "artists": [
         {
-          "name": "NOVO CANTO",
-          "url": "https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB"
+          "name": "Anna Clara Rocha",
+          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
         },
         {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 356470,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
+      "duration_ms": 463720,
+      "name": "Fogo em Teus Olhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/12x0NIXpYNjwIZtXd2cuc7"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "O Nome de Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 528693,
+      "name": "O Nome de Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Nunca Foi Sorte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5q72pPdFnoQbVMSG4Qd1dZ"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 449015,
       "name": "Nunca Foi Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/3otB3TbgPaWRYVIPoFljXh"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "O Nome de Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 528693,
-      "name": "O Nome de Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+        "name": "Boa Nova (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4MG0VfO2xxcO0LBIP5AuAj"
       },
       "artists": [
         {
           "name": "Eli Soares",
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+      "duration_ms": 457692,
+      "name": "Boa Nova - Ao Vivo",
+      "url": "https://open.spotify.com/track/0nnAYyAtG03COOAdaYds6r"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1547,42 +1551,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Respira Bem Fundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/07wFnsSEJwOtpZauuTveti"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 231730,
-      "name": "Respira Bem Fundo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Ym8ZEdJ4B6cbypqQYPcTG"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Boa Nova (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4MG0VfO2xxcO0LBIP5AuAj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 457692,
-      "name": "Boa Nova - Ao Vivo",
-      "url": "https://open.spotify.com/track/0nnAYyAtG03COOAdaYds6r"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Faz o Seguinte (Ao Vivo)",
         "url": "https://open.spotify.com/album/2EDQkjEWhMF5MtSepwrVn3"
       },
@@ -1599,6 +1567,38 @@
       "duration_ms": 270592,
       "name": "Faz o Seguinte (Ao Vivo)",
       "url": "https://open.spotify.com/track/4yKfoW3MnsYGV8E5GWy2WB"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Deus de Milagres (Ao Vivo)",
         "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "L\u00e1grimas de Vit\u00f3ria (Ao Vivo em Salvador)",
-        "url": "https://open.spotify.com/album/7ctzCk9m7a8DacJLtSmykY"
+        "name": "Respira Bem Fundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/07wFnsSEJwOtpZauuTveti"
       },
       "artists": [
         {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
         }
       ],
-      "duration_ms": 275409,
-      "name": "L\u00e1grimas de Vit\u00f3ria - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD"
+      "duration_ms": 231730,
+      "name": "Respira Bem Fundo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Ym8ZEdJ4B6cbypqQYPcTG"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1747,6 +1731,22 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "L\u00e1grimas de Vit\u00f3ria (Ao Vivo em Salvador)",
+        "url": "https://open.spotify.com/album/7ctzCk9m7a8DacJLtSmykY"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 275409,
+      "name": "L\u00e1grimas de Vit\u00f3ria - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5B1d2x08IoqTMFB1dv714z"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 414642,
+      "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7q6CvkclvT3rSlWXca7LQs"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Grato Sou (Ao Vivo)",
         "url": "https://open.spotify.com/album/35PDmPnl0pVw7oW8FEmaNv"
       },
@@ -1891,26 +1911,6 @@
       "duration_ms": 303201,
       "name": "Grato Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/6rfxeiOS4gydbhIUAnTS3T"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5B1d2x08IoqTMFB1dv714z"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 414642,
-      "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7q6CvkclvT3rSlWXca7LQs"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Fogo em Teus Olhos (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        }
+      ],
+      "duration_ms": 378928,
+      "name": "Fogo em Teus Olhos - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "N\u00e3o Faltou Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/4tOKVXY6gTSFWjmMagz2Xq"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 558000,
       "name": "N\u00e3o Faltou Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/1w4Olr85hvOttQ2k4V2bnN"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Fogo em Teus Olhos (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        }
-      ],
-      "duration_ms": 378928,
-      "name": "Fogo em Teus Olhos - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "C\u00e2ntico de Mois\u00e9s",
-        "url": "https://open.spotify.com/album/0GED76A2YQfIgUOR368kRf"
+        "name": "Nunca Abandone a F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         }
       ],
-      "duration_ms": 279609,
-      "name": "C\u00e2ntico de Mois\u00e9s",
-      "url": "https://open.spotify.com/track/3aV5VcZEBU6NrHif4fnOiy"
+      "duration_ms": 264188,
+      "name": "Nunca Abandone a F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ajhPg035PzOvPIh8tcmZ6"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Nunca Abandone a F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 264188,
-      "name": "Nunca Abandone a F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ajhPg035PzOvPIh8tcmZ6"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Deus Preparou Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 280160,
       "name": "Deus Preparou Tudo (Ao Vivo)",
       "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "C\u00e2ntico de Mois\u00e9s",
+        "url": "https://open.spotify.com/album/0GED76A2YQfIgUOR368kRf"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 279609,
+      "name": "C\u00e2ntico de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/3aV5VcZEBU6NrHif4fnOiy"
     },
     {
       "added_at": "2026-01-08 18:41:25",

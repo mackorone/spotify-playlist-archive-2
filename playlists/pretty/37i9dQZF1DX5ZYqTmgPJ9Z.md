@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,991 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,004 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 57 | [Cheap Cigars](https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Cheap Cigars](https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx) | 3:19 |
 | 58 | [No Good For Me](https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [No Good For Me](https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS) | 4:42 |
 | 59 | [So Far](https://open.spotify.com/track/7hADXOuwRKNu7U2SCd9Hct) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [So Far](https://open.spotify.com/album/5LEB36Hao9h6bdTzTB5g1F) | 2:52 |
-| 60 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 |
-| 61 | [DONT WAIT](https://open.spotify.com/track/11s4CRVT8mpwnWpJMvCEoe) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [MixTea\_MilkTape!](https://open.spotify.com/album/2hI1YJeiPiVqm4wBwrnH5f) | 3:57 |
+| 60 | [DONT WAIT](https://open.spotify.com/track/11s4CRVT8mpwnWpJMvCEoe) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [MixTea\_MilkTape!](https://open.spotify.com/album/2hI1YJeiPiVqm4wBwrnH5f) | 3:57 |
+| 61 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 |
 | 62 | [\(I Get So\) Emotional](https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [\(I Get So\) Emotional](https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W) | 3:08 |
 | 63 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
 | 64 | [Too Much to Ask](https://open.spotify.com/track/3HZdXuLPyLlSYLImD4z7V8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/0qsZRpvWYP6fkuosOaGo0D) | 3:47 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 97 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 98 | [In My Arms](https://open.spotify.com/track/3MGufkA4i2p3o2A3wlHTwz) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [In My Arms](https://open.spotify.com/album/6rX4IDmiCEt9jog3cBNFyA) | 4:17 |
 | 99 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
-| 100 | [Reflections \(feat\. José James\)](https://open.spotify.com/track/0zf13KVwxPxlImK4uqW8OU) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Reflections \(feat\. José James\)](https://open.spotify.com/album/3woOAXxKQE920NAyX9BNO6) | 3:44 |
+| 100 | [Try a Little Tenderness](https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Try a Little Tenderness](https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0) | 3:12 |
 
 Snapshot ID: `AAAAAL/WWcYJ5rJ7LdmJVYpIHd4qHHdj`

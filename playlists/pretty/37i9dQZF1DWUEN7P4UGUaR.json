@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 16849,
+  "num_followers": 16861,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -243,38 +243,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 801576,
-      "name": "Ghana Chant",
-      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 801576,
+      "name": "Ghana Chant",
+      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Thanksgiving",
         "url": "https://open.spotify.com/album/40LLVGCHtepelvSvLvhqHR"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 200161,
       "name": "Amen - Live",
       "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/4byNNuclvVz6DXh149owNm"
+      },
+      "artists": [
+        {
+          "name": "Neqta",
+          "url": "https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr"
+        }
+      ],
+      "duration_ms": 209004,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/1KUCPwqEaXTNjjB75Y4lOd"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 513044,
       "name": "Agbadza Gospel Medley II (Live)",
       "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "I'm Good",
-        "url": "https://open.spotify.com/album/4byNNuclvVz6DXh149owNm"
-      },
-      "artists": [
-        {
-          "name": "Neqta",
-          "url": "https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr"
-        }
-      ],
-      "duration_ms": 209004,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Borborbor Gospel Medley",
-        "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
-      },
-      "artists": [
-        {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
-        }
-      ],
-      "duration_ms": 517432,
-      "name": "Borborbor Gospel Medley",
-      "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Golden Oil",
         "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 274599,
       "name": "Se Mekume Ho",
       "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Borborbor Gospel Medley",
+        "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
+      },
+      "artists": [
+        {
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+        }
+      ],
+      "duration_ms": 517432,
+      "name": "Borborbor Gospel Medley",
+      "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Nkunim (The Victory Song)",
+        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
+      },
+      "artists": [
+        {
+          "name": "Carl Clottey",
+          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
+        }
+      ],
+      "duration_ms": 409432,
+      "name": "Nkunim (The Victory Song)",
+      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 163628,
       "name": "DND",
       "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Nkunim (The Victory Song)",
-        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
-      },
-      "artists": [
-        {
-          "name": "Carl Clottey",
-          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
-        }
-      ],
-      "duration_ms": 409432,
-      "name": "Nkunim (The Victory Song)",
-      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
     },
     {
       "added_at": "2026-02-20 00:01:29",

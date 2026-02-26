@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        },
+        {
+          "name": "SULLYOON",
+          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
+    },
+    {
+      "album": {
         "name": "Always be with you (From \"Love Scout\" : Original Soundtrack)",
         "url": "https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r"
       },
@@ -4638,6 +4660,24 @@
       "duration_ms": 246000,
       "name": "Crazy Fool",
       "url": "https://open.spotify.com/track/16LNhwdZSgjmiAMIm2yjR6"
+    },
+    {
+      "album": {
+        "name": "Crazy Love Song",
+        "url": "https://open.spotify.com/album/6IwHj5oL5ZwHiCcYiVP2Fn"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Crazy Love Song",
+      "url": "https://open.spotify.com/track/5WaEGsWNjzDc50VYN8NkjA"
     },
     {
       "album": {
@@ -13346,7 +13386,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 182000,
       "name": "Just 1 year (Feat. 10CM)",
       "url": "https://open.spotify.com/track/2jh4TUtbiQwP7wJVDbgf3b"
@@ -18660,7 +18700,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 211000,
       "name": "Once, My Everything",
       "url": "https://open.spotify.com/track/0HFVyAIjHP6MZZlw027Vrt"
@@ -18826,6 +18866,24 @@
       "duration_ms": 244505,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ"
+    },
+    {
+      "album": {
+        "name": "5 centimeters per second X SUNGHO (BOYNEXTDOOR)",
+        "url": "https://open.spotify.com/album/33aSFd3l9ZjAftV9LsOq1m"
+      },
+      "artists": [
+        {
+          "name": "SUNGHO",
+          "url": "https://open.spotify.com/artist/36TC1IlwzK0h0gTKlttCvy"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "One more time, One more chance",
+      "url": "https://open.spotify.com/track/1V6FlzgHwOzTyuoqS87jvT"
     },
     {
       "album": {
@@ -26822,7 +26880,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 317000,
       "name": "Walking You Home",
       "url": "https://open.spotify.com/track/0ymJW01Ej615he29KXNeQS"
@@ -28710,7 +28768,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 239000,
       "name": "Without you, to you",
       "url": "https://open.spotify.com/track/6qlrqJaSc0qn8f6q1Vj2Pz"
@@ -30498,6 +30556,24 @@
       "duration_ms": 228946,
       "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
       "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\ub2e4",
+        "url": "https://open.spotify.com/album/3oZ2xjTHAJ1FWtWKEDw2kb"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\ub2e4",
+      "url": "https://open.spotify.com/track/3fIjMrLEe4R0CeOGj1BNqJ"
     },
     {
       "album": {

@@ -284,6 +284,24 @@
     {
       "album": {
         "name": "Rae",
+        "url": "https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153002,
+      "name": "Angry Woman",
+      "url": "https://open.spotify.com/track/2HwTo8cwpWKDO21rVrgZo0"
+    },
+    {
+      "album": {
+        "name": "Rae",
         "url": "https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww"
       },
       "artists": [
@@ -294,7 +312,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 153002,
       "name": "Angry Woman",
       "url": "https://open.spotify.com/track/58s4yfoJnnlH49KC4UeRxY"
@@ -1690,6 +1708,24 @@
     {
       "album": {
         "name": "Rae",
+        "url": "https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146436,
+      "name": "Fun While It Lasted",
+      "url": "https://open.spotify.com/track/5oJ23AXrTt4BiXvjAiUq6b"
+    },
+    {
+      "album": {
+        "name": "Rae",
         "url": "https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww"
       },
       "artists": [
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 146436,
       "name": "Fun While It Lasted",
       "url": "https://open.spotify.com/track/6BgOYYhN3yzY3GzaUv3b7T"
@@ -3688,6 +3724,24 @@
     {
       "album": {
         "name": "Rae",
+        "url": "https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171161,
+      "name": "omw",
+      "url": "https://open.spotify.com/track/2PMmfJHouzBB44paaJTgY8"
+    },
+    {
+      "album": {
+        "name": "Rae",
         "url": "https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww"
       },
       "artists": [
@@ -3698,7 +3752,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 171161,
       "name": "omw",
       "url": "https://open.spotify.com/track/4fCURHaPS3CQBcYsnTidvW"

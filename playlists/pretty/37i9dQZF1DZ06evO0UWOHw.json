@@ -1,33 +1,13 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 16006,
+  "num_followers": 16019,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAABq3sBuT7h4MWLBrX2mzGOx",
+  "snapshot_id": "aZzqAAAAAABiGeUW6xQUXRCQvKsiM8JY",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +35,26 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/2rDtfPMI5mDJVTwYYG00QI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 227950,
       "name": "Holy Water (feat. Victony & Musa Keys)",
       "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 209968,
-      "name": "Different Size (feat. Victony)",
-      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Sunday School",
+      "url": "https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Sunday School",
-      "url": "https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 192284,
+      "name": "All Power",
+      "url": "https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 192284,
-      "name": "All Power",
-      "url": "https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
       },
@@ -775,34 +775,6 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milli II (feat Jungeli & Victony)",
-        "url": "https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN"
-      },
-      "artists": [
-        {
-          "name": "SO7ACE",
-          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182276,
-      "name": "Milli II (feat Jungeli & Victony)",
-      "url": "https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9"
     },
     {
       "added_at": null,
@@ -839,6 +811,34 @@
       "duration_ms": 168667,
       "name": "Chop & Slide",
       "url": "https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milli II (feat Jungeli & Victony)",
+        "url": "https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN"
+      },
+      "artists": [
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182276,
+      "name": "Milli II (feat Jungeli & Victony)",
+      "url": "https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hypertension",
         "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 168504,
       "name": "No Other",
       "url": "https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo"
     },
     {
       "added_at": null,

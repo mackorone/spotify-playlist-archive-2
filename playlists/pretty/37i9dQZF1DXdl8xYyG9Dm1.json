@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Nasty C",
-  "num_followers": 186402,
+  "num_followers": 186434,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Motho Waka",
         "url": "https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl"
       },
@@ -483,18 +499,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -515,26 +535,6 @@
       "duration_ms": 160615,
       "name": "TAPER CREER (feat. Gazo)",
       "url": "https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "NO SLEEP $$$ (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Go Crazy",
         "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 134237,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "NBA",
-        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "NBA",
-      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 264179,
       "name": "All My Life (Burna Boy Remix)",
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "NBA",
+        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "NBA",
+      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "AFRIKA MAGIK",
-        "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 196471,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Hello Habibi",
         "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 194661,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "AFRIKA MAGIK",
+        "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 196471,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
     },
     {
       "added_at": "2026-02-20 00:01:30",

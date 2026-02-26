@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Marco Telles, Coletivo Candiero, Filipe da Guia, Ana Heloysa
 
-374 songs - 1 day 13 hr 11 min
+375 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW) | 4:59 | 2022-09-09 | 2023-02-25 |
 | [Meu Amigo](https://open.spotify.com/track/1Y26XpiffIFDpF4uob5lj7) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Meu Amigo](https://open.spotify.com/album/4Tmh71KgXFnMlble0QwgJY) | 6:00 | 2026-02-06 |  |
 | [Meu Filho, Descansa](https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Meu Filho, Descansa](https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ) | 4:03 | 2023-12-22 | 2024-08-28 |
-| [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 | 2023-02-24 |  |
+| [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 | 2023-02-24 | 2026-02-26 |
 | [Meu Maior Desejo](https://open.spotify.com/track/057L1j7QOaDPCJg6q4tNfc) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [Meu Maior Desejo](https://open.spotify.com/album/05uKIYNNY5PBsn6pOqVqCN) | 4:16 | 2023-06-16 | 2023-08-19 |
 | [Meu Pai Governa](https://open.spotify.com/track/1HyP1gEk4yLdtxkwOf8Li5) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Meu Pai Governa](https://open.spotify.com/album/44Kj6i5tPowBzt2QJ8ZMce) | 7:32 | 2023-04-15 | 2023-04-29 |
 | [MEU UNIVERSO](https://open.spotify.com/track/641brJX9841CQj3xYyPHHK) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [MEU UNIVERSO](https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF) | 4:12 | 2025-10-03 |  |
@@ -256,6 +256,7 @@
 | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \- Ao Vivo](https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \[Ao Vivo\]](https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66) | 6:30 | 2024-11-22 |  |
 | [Outro Na Fornalha \(Another In The Fire\) \- Ao Vivo](https://open.spotify.com/track/50RxCp8dmcpd5P66b95u68) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Outro Na Fornalha \(Another In The Fire\) \[Ao Vivo\]](https://open.spotify.com/album/6X6Akp6urVW7Y8hA3CGeiA) | 4:29 | 2022-09-09 | 2023-03-25 |
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-14 |  |
+| [Palavra Liberada \- Ao Vivo](https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae) | [Abraão Alencar](https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Palavra Liberada \(Ao Vivo\)](https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL) | 7:05 | 2026-02-25 |  |
 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2022-12-05 | 2025-02-22 |
 | [Para Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Para Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo) | 10:01 | 2022-09-09 | 2025-05-22 |
 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 | 2022-09-09 | 2022-11-05 |

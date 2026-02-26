@@ -1259,6 +1259,36 @@
     },
     {
       "album": {
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Te Metiste (En Vivo)",
+      "url": "https://open.spotify.com/track/2kv7VeksDUQ7s3TmXtlSHf"
+    },
+    {
+      "album": {
         "name": "Te Metiste (En Vivo)",
         "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
       },
@@ -1286,40 +1316,10 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 198048,
       "name": "Te Metiste - En Vivo",
       "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
-    },
-    {
-      "album": {
-        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
-        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        },
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "date_added": "2023-03-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
-      "duration_ms": 198048,
-      "name": "Te Metiste - En Vivo",
-      "url": "https://open.spotify.com/track/2kv7VeksDUQ7s3TmXtlSHf"
     },
     {
       "album": {

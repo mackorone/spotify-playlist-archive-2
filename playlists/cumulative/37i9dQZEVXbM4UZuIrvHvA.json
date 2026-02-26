@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -28065,6 +28065,24 @@
     },
     {
       "album": {
+        "name": "Pag-Ibig ay Kanibalismo II",
+        "url": "https://open.spotify.com/album/2T523YMzbCSM86LYZDCZLI"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207314,
+      "name": "Pag-Ibig ay Kanibalismo II",
+      "url": "https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24"
+    },
+    {
+      "album": {
         "name": "Pagsamo",
         "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
       },
@@ -28380,7 +28398,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
@@ -31788,7 +31806,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 190098,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
@@ -32748,7 +32766,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -38424,7 +38442,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -42116,7 +42134,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

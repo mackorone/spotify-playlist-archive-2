@@ -105,6 +105,36 @@
     },
     {
       "album": {
+        "name": "Aankhein Chaar (From \"Tu Yaa Main\")",
+        "url": "https://open.spotify.com/album/1sqHMAPQ3EFrROKXz8U37E"
+      },
+      "artists": [
+        {
+          "name": "Pextyle",
+          "url": "https://open.spotify.com/artist/4eQGVx8aImmUHycgE3o6eT"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        },
+        {
+          "name": "Anjaan",
+          "url": "https://open.spotify.com/artist/6S1g6iKAiOZjLFxlrIXm2e"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Aankhein Chaar - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/22g8UmHccgD5NEoqWb3B1b"
+    },
+    {
+      "album": {
         "name": "An Action Hero",
         "url": "https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er"
       },
@@ -478,6 +508,32 @@
       "duration_ms": 183098,
       "name": "Baari Barsi",
       "url": "https://open.spotify.com/track/30vYC5b6OafrxNmZhFyGqX"
+    },
+    {
+      "album": {
+        "name": "Balam Subedaar (From \"Subedaar\")",
+        "url": "https://open.spotify.com/album/4ADVbJKPH8GLeNHAyXlFDl"
+      },
+      "artists": [
+        {
+          "name": "Rutvik Talashilkar",
+          "url": "https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4"
+        },
+        {
+          "name": "Gd Kaur",
+          "url": "https://open.spotify.com/artist/17wSqzUHWMAxNljh1ld2Uj"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188117,
+      "name": "Balam Subedaar (From \"Subedaar\")",
+      "url": "https://open.spotify.com/track/2I839M0trNMsMuhdAvCr0o"
     },
     {
       "album": {
@@ -1174,7 +1230,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 151058,
       "name": "Do Deewane Sheher Mein - Reprised",
       "url": "https://open.spotify.com/track/1kes4bOSlJ0CsGWEUgrHI9"
@@ -3594,7 +3650,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 263606,
       "name": "Nache Nache (From \"The RajaSaab\") (Hindi)",
       "url": "https://open.spotify.com/track/3yFGyFVnm6aTAIdaxE01aC"

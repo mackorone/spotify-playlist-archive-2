@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60679,
+  "num_followers": 60683,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Vi som \u00e4r natten",
-        "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 135978,
-      "name": "Vi som \u00e4r natten",
-      "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Min",
         "url": "https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 147969,
       "name": "Min",
       "url": "https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Vi som \u00e4r natten",
+        "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 135978,
+      "name": "Vi som \u00e4r natten",
+      "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Operator",
         "url": "https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 183013,
       "name": "Operator",
       "url": "https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "A Place I Recognise",
         "url": "https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 184315,
       "name": "Hittat hem",
       "url": "https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Bully",
-        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Isobel",
-          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -827,38 +827,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Ikv\u00e4ll handlar det om oss (en drink)",
         "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 236747,
       "name": "Where's My Mind",
       "url": "https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Same Kids",
+        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "WHAT\u2019S CUTE ABOUT HELL?",
         "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Same Kids",
-        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
+        "name": "Bromsa",
+        "url": "https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN"
       },
       "artists": [
         {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": "Joel Nordenberg",
+          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
+      "duration_ms": 153750,
+      "name": "Bromsa",
+      "url": "https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1015,22 +1031,6 @@
       "duration_ms": 179368,
       "name": "l.o.v.e",
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Bromsa",
-        "url": "https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN"
-      },
-      "artists": [
-        {
-          "name": "Joel Nordenberg",
-          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Bromsa",
-      "url": "https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "lotion",
-        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
-        }
-      ],
-      "duration_ms": 267559,
-      "name": "lotion",
-      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Andra Sidan",
         "url": "https://open.spotify.com/album/2chjQ3wm2FBXiDhu2pgTcv"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 242895,
       "name": "Andra Sidan",
       "url": "https://open.spotify.com/track/2gnMvGyvaq5729qTsXObn6"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "lotion",
+        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "duration_ms": 267559,
+      "name": "lotion",
+      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Only When In Motion",
+        "url": "https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        }
+      ],
+      "duration_ms": 256720,
+      "name": "Only When In Motion",
+      "url": "https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "airbnb",
         "url": "https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Only When In Motion",
-        "url": "https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB"
-      },
-      "artists": [
-        {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Only When In Motion",
-      "url": "https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "cherry flip",
         "url": "https://open.spotify.com/album/7rUD0Vje4bYqjrlI2jfGpR"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5iKBc0WPYKIu8Y2sKBIgxF"
-      },
-      "artists": [
-        {
-          "name": "Bori",
-          "url": "https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id"
-        }
-      ],
-      "duration_ms": 95217,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Gr\u00f6n hatt",
         "url": "https://open.spotify.com/album/1PzD5BBmOQVFFJWhVI1XGm"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 182911,
       "name": "Gr\u00f6n hatt",
       "url": "https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5iKBc0WPYKIu8Y2sKBIgxF"
+      },
+      "artists": [
+        {
+          "name": "Bori",
+          "url": "https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id"
+        }
+      ],
+      "duration_ms": 95217,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Bl\u00e5\u00f6gd",
-        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
+        "name": "BLODM\u00c5NE",
+        "url": "https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s"
       },
       "artists": [
         {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+          "name": "Oh Mar",
+          "url": "https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe"
         }
       ],
-      "duration_ms": 215834,
-      "name": "Bl\u00e5\u00f6gd",
-      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
+      "duration_ms": 133333,
+      "name": "Fel f\u00f6r mig",
+      "url": "https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj"
     }
   ],
   "unique_name": "p\u00e5 repeat",

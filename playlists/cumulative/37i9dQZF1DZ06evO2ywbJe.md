@@ -4,7 +4,7 @@
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 32 min
+70 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:43 | 2025-07-12 |  |
 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 | 2025-07-12 |  |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2025-07-12 |  |
-| [Living Life](https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Brainyboi](https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2) | [Help Is On The Way](https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT) | 2:56 | 2025-07-12 |  |
+| [Living Life](https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Brainyboi](https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2) | [Help Is On The Way](https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT) | 2:56 | 2025-07-12 | 2026-02-26 |
+| [Living Life](https://open.spotify.com/track/4ukNbQ6qi5xc8DfxoHtvcR) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Brainyboi](https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2) | [Living Life](https://open.spotify.com/album/7rbeGVL8ocUMEpz0Jo2ty6) | 2:56 | 2026-02-26 |  |
 | [Lock up](https://open.spotify.com/track/1mlNCvGpnoYL7D01U9g3vx) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lock up](https://open.spotify.com/album/0L1CwOjfxxtrVmubuDGQnR) | 3:55 | 2026-01-15 | 2026-02-11 |
 | [Money](https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:47 | 2025-07-12 |  |
 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 | 2025-12-14 |  |

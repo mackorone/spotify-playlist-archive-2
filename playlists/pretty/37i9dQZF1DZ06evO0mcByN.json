@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6550,
+  "num_followers": 6555,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACgSaLKdn2nycuPJMJxAgGA",
+  "snapshot_id": "aZzqAAAAAAA/qi+HPVymDNmIlfLhJ4EW",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Quem Nunca",
-      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
+      "duration_ms": 290040,
+      "name": "Nas M\u00e3os do Oleiro",
+      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 290040,
-      "name": "Nas M\u00e3os do Oleiro",
-      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
+      "duration_ms": 238133,
+      "name": "Quem Nunca",
+      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 237187,
-      "name": "Vai Acontecer",
-      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
       "duration_ms": 270533,
       "name": "Por Tr\u00e1s Desse Sil\u00eancio",
       "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vazio",
-        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 309636,
-      "name": "Vazio",
-      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 309636,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 308059,
-      "name": "O Desfecho",
-      "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
+      "duration_ms": 237187,
+      "name": "Vai Acontecer",
+      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
     },
     {
       "added_at": null,

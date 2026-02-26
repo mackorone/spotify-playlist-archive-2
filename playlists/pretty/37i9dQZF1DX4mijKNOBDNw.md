@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,712 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,715 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 7 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 |
 | 8 | [Lucha En Equilibrio](https://open.spotify.com/track/5XXRbcWjc6jQhAS6MxyYmu) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Cambio De Piel](https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY) | 3:41 |
 | 9 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
-| 10 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 |
-| 11 | [Flower Power](https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:18 |
+| 10 | [Flower Power](https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:18 |
+| 11 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 |
 | 12 | [Esmeralda \(Episodio 2\)](https://open.spotify.com/track/6FgVbS4WlDLPTjr0C6Ozkw) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [El Palomar](https://open.spotify.com/artist/5NQBS0Adzkd4OheoR7DtpF) | [Esmeralda \(Episodio 2\)](https://open.spotify.com/album/6sxVaMwALeEANXA2b7TtLt) | 3:48 |
 | 13 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
 | 14 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |

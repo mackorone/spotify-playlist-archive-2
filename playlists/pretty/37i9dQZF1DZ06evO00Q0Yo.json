@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19999,
+  "num_followers": 20001,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAADBIaR2JuqXwHc0w440ZmbS",
+  "snapshot_id": "aZzqAAAAAAB9iYmTzPrPVvEoODFw2PXO",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 245959,
       "name": "Rodeo (Remix)",
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "bloodonmyhands (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/5XEiB0fnWSZpBhE2t7sumF"
     },
     {
       "added_at": null,
@@ -83,6 +63,26 @@
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "bloodonmyhands (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1"
     },
     {
       "added_at": null,

@@ -8446,7 +8446,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 187147,
       "name": "gulbahar",
       "url": "https://open.spotify.com/track/2LE6zZj17aW1U1aktMHnw8"
@@ -26166,6 +26166,24 @@
       "duration_ms": 205821,
       "name": "Tu Mera Nahin",
       "url": "https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc"
+    },
+    {
+      "album": {
+        "name": "Tu Mera Naiyo Ho Sakda",
+        "url": "https://open.spotify.com/album/7euOAPjjJozGclZ5vIZmqX"
+      },
+      "artists": [
+        {
+          "name": "Krish",
+          "url": "https://open.spotify.com/artist/1lWNVxTjMgOhnDkPMvBcsm"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259152,
+      "name": "Tu Mera Naiyo Ho Sakda",
+      "url": "https://open.spotify.com/track/4STObqEUiTMhYNDL9anAQ3"
     },
     {
       "album": {

@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 105000,
       "name": "Bella (Caporal)",
       "url": "https://open.spotify.com/track/5lBCBTljSrdDefp6zfmbgl"
@@ -6420,7 +6420,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -9336,8 +9336,8 @@
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
       "date_added": "2024-01-29",
@@ -9786,7 +9786,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -12070,6 +12070,28 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "album": {
@@ -15878,8 +15900,8 @@
       },
       "artists": [
         {
-          "name": "Mene",
-          "url": "https://open.spotify.com/artist/1ect9T3ebMopsPCTbFc9uV"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         },
         {
           "name": "Nsqk",
@@ -16262,7 +16284,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 159768,
       "name": "Fuerzas Pa'",
       "url": "https://open.spotify.com/track/6SsspmS2fecS6kMKEN3uEP"
@@ -20048,7 +20070,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 59547,
       "name": "JESTER FUNK",
       "url": "https://open.spotify.com/track/5s8JPPlozHtew6J1cXmrXU"
@@ -33908,7 +33930,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 182161,
       "name": "Que viva el Camba",
       "url": "https://open.spotify.com/track/6p3Wb0UNrSXzqNonGAEZJZ"
@@ -37658,7 +37680,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 424615,
       "name": "So what we get drunk? - Extended Version",
       "url": "https://open.spotify.com/track/231Crd29pPGdweClh2CoVO"
@@ -39492,7 +39514,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 144959,
       "name": "S\u00e9 esa mujer valiente",
       "url": "https://open.spotify.com/track/7J9mEYmPlt8QUlUjuUUKMd"
@@ -39510,7 +39532,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 137752,
       "name": "S\u00f3 Bund\u00e3o Grand\u00e3o",
       "url": "https://open.spotify.com/track/4QcbeYrzfyUBqnF5JU5Xt7"
@@ -40532,7 +40554,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
@@ -41018,7 +41040,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 121739,
       "name": "TIKI TIKI - Slowed",
       "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
@@ -42604,7 +42626,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 243951,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/3z8AQr6csW6EeepJyv7vEN"
@@ -42626,6 +42648,28 @@
       "duration_ms": 243951,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/4J9LyFADr1h76FVyVW0TXQ"
+    },
+    {
+      "album": {
+        "name": "Tus Ojitos",
+        "url": "https://open.spotify.com/album/2jO6uSFm0EYByeUViBwbNc"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Belico",
+          "url": "https://open.spotify.com/artist/6f04rVzdeSu2uJv6ZB323r"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244157,
+      "name": "Tus Ojitos",
+      "url": "https://open.spotify.com/track/2KuWVKFdHHNBsu7pwXBdnL"
     },
     {
       "album": {

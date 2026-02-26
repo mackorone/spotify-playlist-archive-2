@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546444,
+  "num_followers": 546448,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Them Crooked Vultures",
-        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
-      },
-      "artists": [
-        {
-          "name": "Them Crooked Vultures",
-          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
-        }
-      ],
-      "duration_ms": 310376,
-      "name": "No One Loves Me and Neither Do I",
-      "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blues for the Red Sun",
         "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 217906,
       "name": "Green Machine",
       "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Them Crooked Vultures",
+        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
+      },
+      "artists": [
+        {
+          "name": "Them Crooked Vultures",
+          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+        }
+      ],
+      "duration_ms": 310376,
+      "name": "No One Loves Me and Neither Do I",
+      "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "A Drug Problem That Never Existed",
         "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 155066,
       "name": "So High, So Low",
       "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Desert Cold",
-        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
-      },
-      "artists": [
-        {
-          "name": "Snowy Dunes",
-          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Desert Cold",
-      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Ode To IO",
         "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 366333,
       "name": "Riding Shotgun",
       "url": "https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Desert Cold",
+        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
+      },
+      "artists": [
+        {
+          "name": "Snowy Dunes",
+          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Desert Cold",
+      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Get What You Deserve",
-        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 550665,
-      "name": "Get What You Deserve",
-      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Tumuli Schroomaroom",
         "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 599683,
       "name": "Heavy Feather",
       "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Get What You Deserve",
+        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 550665,
+      "name": "Get What You Deserve",
+      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P"
+      },
+      "artists": [
+        {
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Nothing as the Ideal",
         "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 196866,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Burning Village",
-        "url": "https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P"
-      },
-      "artists": [
-        {
-          "name": "Mountain Witch",
-          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
-        }
-      ],
-      "duration_ms": 282217,
-      "name": "The Dead Won't Sleep",
-      "url": "https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P"
     },
     {
       "added_at": "2024-07-19 04:00:00",

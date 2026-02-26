@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
@@ -2056,6 +2056,28 @@
       "duration_ms": 188686,
       "name": "You'll Get Yours (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"
+    },
+    {
+      "album": {
+        "name": "The Atlas Underground Flood",
+        "url": "https://open.spotify.com/album/3JOmOhRuhZvHT2fyGzKisu"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188686,
+      "name": "You'll Get Yours (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/6OabT1njOJomxRv9qhfsz9"
     },
     {
       "album": {

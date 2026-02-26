@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Lil Poppa 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,006 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,021 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 11 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 |
 | 12 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 |
 | 13 | [Same Soldier](https://open.spotify.com/track/5Ic84Z7BVK4TOmsf7Bg3z2) | [Buddah Bless](https://open.spotify.com/artist/6F6Kv1EpOjiXonTNYFdXWW), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [Buddah Bless The Streets](https://open.spotify.com/album/69vna3JhBlBlTY3jArxMhk) | 2:28 |
-| 14 | [Hood](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
+| 14 | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Hood \(feat\. Nino Paid\)](https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT) | 2:19 |
 | 15 | [THE SCYTHE \[Feat\. TiaCorine & A$AP Ferg\]](https://open.spotify.com/track/2cGDqP18a0Bme8o2gtjmiO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [THE SCYTHE \[Feat\. TiaCorine & A$AP Ferg\]](https://open.spotify.com/album/0YmJPpKQdsskngFVgZy8Ss) | 2:56 |
 | 16 | [Two Six](https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:16 |
 | 17 | [ROOMS](https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ROOMS](https://open.spotify.com/album/50sklTdoxS2yLHgF3jnV3t) | 3:52 |

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 14451,
+  "num_followers": 14475,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Lamhey",
-        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
-      },
-      "artists": [
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 148966,
-      "name": "Lamhey",
-      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 246230,
       "name": "Dorothy",
       "url": "https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 148966,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
-      },
-      "artists": [
-        {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
-        }
-      ],
-      "duration_ms": 94085,
-      "name": "nine thirty (the glow)",
-      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tirando Balas",
         "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
       },
@@ -1751,6 +1735,38 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 94085,
+      "name": "nine thirty (the glow)",
+      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "U\u00e7urum",
         "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
       },
@@ -1763,6 +1779,22 @@
       "duration_ms": 150000,
       "name": "U\u00e7urum",
       "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1787,22 +1819,6 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
       },
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 190249,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 207307,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Songs4u",
+        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 206060,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 226153,
       "name": "Sweet (feat. Landon Sears)",
       "url": "https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Songs4u",
-        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 206060,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Liham Sa Ulap",
-        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
-      },
-      "artists": [
-        {
-          "name": "KYLIX",
-          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
-        }
-      ],
-      "duration_ms": 188664,
-      "name": "Liham Sa Ulap",
-      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tuning In",
         "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 115228,
       "name": "Tuning In",
       "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Liham Sa Ulap",
+        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
+      },
+      "artists": [
+        {
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+        }
+      ],
+      "duration_ms": 188664,
+      "name": "Liham Sa Ulap",
+      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 132986,
       "name": "Shotta Flow 2",
       "url": "https://open.spotify.com/track/26X0iVtpSOySWPTcQAc5ul"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
     },
     {
       "added_at": "2025-05-19 03:00:14",

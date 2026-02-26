@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 16 | [At First Sight](https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:27 |
 | 17 | [The Hunt Begins](https://open.spotify.com/track/21CJdaJkRDMz2UA3tNxORl) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:20 |
 | 18 | [La Guardia](https://open.spotify.com/track/3W9EtXgVkjZfcSGPjsxU4f) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 6:36 |
-| 19 | [Alba](https://open.spotify.com/track/3jTwPA0lkh5CDH9Oa2wu6v) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 9:44 |
+| 19 | [AMORE AMARO](https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:02 |
 | 20 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 |
 | 21 | [Splinter Hell](https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 4:06 |
-| 22 | [AMORE AMARO](https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:02 |
+| 22 | [Alba](https://open.spotify.com/track/3jTwPA0lkh5CDH9Oa2wu6v) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 9:44 |
 | 23 | [Perdere](https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 6:16 |
 | 24 | [Space Channel](https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:42 |
 | 25 | [Megalomania](https://open.spotify.com/track/6UCmtZZKwMKnzKcPEtUKcy) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:30 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 37 | [Enter Exit](https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 5:28 |
 | 38 | [Tema 6b](https://open.spotify.com/track/1Z0Gvce8t7siAHrX12xemz) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 1:23 |
 | 39 | [Vincere](https://open.spotify.com/track/2J1H4mInsooNYoukRPFj4l) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:27 |
-| 40 | [Dormiveglia](https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 0:31 |
-| 41 | [Rimasta](https://open.spotify.com/track/4yHjtYAf7wrsfNIiBb1kP9) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 6:57 |
+| 40 | [Rimasta](https://open.spotify.com/track/4yHjtYAf7wrsfNIiBb1kP9) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 6:57 |
+| 41 | [Dormiveglia](https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 0:31 |
 | 42 | [Mostro River 2](https://open.spotify.com/track/6eR3Fdx7dMrT8DFo3S9pmp) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 1:36 |
 | 43 | [Quasi Casa](https://open.spotify.com/track/562ikulQIED38RmLXUowpq) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Movimento](https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A) | 4:36 |
 | 44 | [LET GO](https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:08 |
 | 45 | [Dell'influenza](https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 3:55 |
-| 46 | [Ambiente 6 Isterica](https://open.spotify.com/track/18T59KVIx5WuUdEjsD7xfC) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 4:11 |
+| 46 | [Tema 6](https://open.spotify.com/track/6RSSxV6stZJ5nP1lPUOBU6) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 7:20 |
 | 47 | [Conta](https://open.spotify.com/track/0R8ceqLCh0YHQPOfRzgDTi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 6:07 |
 | 48 | [SABBIA](https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:43 |
 | 49 | [Di passaggio](https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 4:52 |
 | 50 | [Spezia](https://open.spotify.com/track/6pzIffWCizN2DBqEMkajpE) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Movimento](https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A) | 3:52 |
 
-Snapshot ID: `aZuYgAAAAACioYDvlPwmIz1EUUYeJoHv`
+Snapshot ID: `aZzqAAAAAAATmqComENAaKO99VHPRV10`

@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-100 songs - 4 hr 47 min
+101 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [El Chivo Tatemado \(En Vivo\)](https://open.spotify.com/track/0han8uTSYeZDTQmtQyibou) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 2:50 | 2026-01-05 |  |
 | [El De La Aldea](https://open.spotify.com/track/4KHsDU8PPw2MvXTQrjsOr2) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:20 | 2024-01-29 | 2025-10-26 |
 | [El Enamorado \(En vivo\)](https://open.spotify.com/track/3JChPn2sVzhbsd5ZCWLFIB) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [El Enamorado \(En vivo\)](https://open.spotify.com/album/0ZdZWuMLUKmWQ6W7I0iYCD) | 2:52 | 2024-01-29 | 2025-04-20 |
-| [El Fugitivo \(En Vivo\)](https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un) | 2:58 | 2024-01-29 |  |
+| [El Fugitivo](https://open.spotify.com/track/3HevcnYdnqtS0MvtyWkOg5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo](https://open.spotify.com/album/0BJXARzPuTj3mNYGRBs28t) | 2:49 | 2026-02-26 |  |
+| [El Fugitivo \(En Vivo\)](https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un) | 2:58 | 2024-01-29 | 2026-02-26 |
 | [El Gordo De Coachella](https://open.spotify.com/track/6JQDU9sgRpmcMU9Soo1ztf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:38 | 2024-01-29 | 2024-02-14 |
 | [El H](https://open.spotify.com/track/2M55f5Nu55dDZbA477v7X8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:44 | 2024-01-29 |  |
 | [El Mas Poderoso \(En Vivo\)](https://open.spotify.com/track/4MVkKvP7FJ4TYZY7zZ72pl) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:05 | 2026-02-11 |  |

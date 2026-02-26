@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 241047,
+  "num_followers": 241094,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAAyyGZCCvO5b5Jh5gwhD74I",
+  "snapshot_id": "aZzqAAAAAACs+2R3D8t6AzcJHf5FmMsL",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2KyntP9bkdZzyA4DBZXJP3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2KyntP9bkdZzyA4DBZXJP3"
     },
     {
       "added_at": null,

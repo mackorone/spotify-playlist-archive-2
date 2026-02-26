@@ -1328,6 +1328,24 @@
     {
       "album": {
         "name": "Voglio la gonna",
+        "url": "https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr"
+      },
+      "artists": [
+        {
+          "name": "Luigi Strangis",
+          "url": "https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Non cambia mai",
+      "url": "https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn"
+    },
+    {
+      "album": {
+        "name": "Voglio la gonna",
         "url": "https://open.spotify.com/album/70SXCWuJY7sw8EIblrp3iq"
       },
       "artists": [
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 190306,
       "name": "Non cambia mai",
       "url": "https://open.spotify.com/track/73wVaFK3ObtATKxqojeRxm"

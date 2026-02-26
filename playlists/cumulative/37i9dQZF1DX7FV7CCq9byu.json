@@ -10303,6 +10303,24 @@
     },
     {
       "album": {
+        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262644,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
+    },
+    {
+      "album": {
         "name": "Hitta n\u00e5gon",
         "url": "https://open.spotify.com/album/4zt7rMMlgz1YMvkSGOzVna"
       },

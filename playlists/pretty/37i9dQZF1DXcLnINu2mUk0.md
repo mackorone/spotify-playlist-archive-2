@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: MUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,403 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,404 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 46 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 47 | [Insomnia](https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Insomnia](https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR) | 3:07 |
 | 48 | [¡ SÓ NÓS ! \(feat\. Carla Prata\)](https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [WONDER](https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb) | 3:13 |
-| 49 | [Beijo Teu](https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beijo Teu](https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT) | 3:41 |
-| 50 | [Bairrista de Luxo](https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t) | [bapcat](https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou), [Joint One](https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ) | [Bairrista de Luxo](https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN) | 2:15 |
+| 49 | [Bairrista de Luxo](https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t) | [bapcat](https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou), [Joint One](https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ) | [Bairrista de Luxo](https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN) | 2:15 |
+| 50 | [Beijo Teu](https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beijo Teu](https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT) | 3:41 |
 | 51 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 52 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
 | 53 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
 | 54 | [Infinito](https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Infinito](https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs) | 3:49 |
 | 55 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
-| 56 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
-| 57 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
+| 56 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
+| 57 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 58 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 |
 | 59 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 60 | [Olhar](https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Olhar](https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm) | 3:39 |

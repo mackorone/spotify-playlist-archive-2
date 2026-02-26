@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,515 likes - 106 songs - 5 hr 54 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,515 likes - 107 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,6 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 104 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 |
 | 105 | [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 |
 | 106 | [Au Revoir Reservoir](https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Tenterhooks](https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr) | 3:21 |
+| 107 | [Back To Dust](https://open.spotify.com/track/0lS4xb7lMHwuFtNR0Y3aX9) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Back To Dust](https://open.spotify.com/album/13bRXVAR8WFuorplVHwjON) | 3:00 |
 
-Snapshot ID: `AAAH1Tg12LdrUsW0Yw0lr2NK2KGkCoXT`
+Snapshot ID: `AAAH1uxOeT2RZRj2q3LjReOy6iYGiBtN`

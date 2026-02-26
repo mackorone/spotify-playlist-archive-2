@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > 2026 es el nuevo 2016 📸 Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,494 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,518 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 49 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 |
 | 50 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 |
 | 51 | [Light It Up](https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 2:46 |
-| 52 | [Manicomio](https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Blanco Perla](https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7) | 3:48 |
+| 52 | [Caile](https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Caile](https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ) | 5:00 |
 | 53 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
-| 54 | [Caile](https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Caile](https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ) | 5:00 |
+| 54 | [Manicomio](https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Blanco Perla](https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7) | 3:48 |
 | 55 | [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Alone](https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg) | 4:33 |
 | 56 | [Aprender A Quererte](https://open.spotify.com/track/3zNcn4BaVfKORyx3uDfruW) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:49 |
 | 57 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 |

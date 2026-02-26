@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,947 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,953 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 19 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 |
 | 20 | [Stilte In De Storm](https://open.spotify.com/track/39ZTmjrBK4tM2tlohOpmkF) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:16 |
 | 21 | [Binnen](https://open.spotify.com/track/6BXM76LZQ1KJ3j7ONB2jBY) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Luid En Duidelijk](https://open.spotify.com/album/2CkRlPC91z87ZCXrQS83P1) | 4:34 |
-| 22 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
-| 23 | [Een Wereld](https://open.spotify.com/track/0ydAL1Cfrj9hYcaamOvN1r) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van..](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:54 |
+| 22 | [Een Wereld](https://open.spotify.com/track/0ydAL1Cfrj9hYcaamOvN1r) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van..](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:54 |
+| 23 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
 | 24 | [Proosten](https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:52 |
 | 25 | [Hald Mich 'S Vas](https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE) | [Neet oét Lottum](https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY) | [Krak](https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2) | 4:10 |
 | 26 | [Lopen Op Het Water](https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:28 |

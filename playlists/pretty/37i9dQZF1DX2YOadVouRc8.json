@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 45671,
+  "num_followers": 45693,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 164599,
-      "name": "robbery",
-      "url": "https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
         "name": "Broken Souls",
         "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
       },
@@ -631,22 +611,22 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 120612,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
+      "duration_ms": 164599,
+      "name": "robbery",
+      "url": "https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -667,6 +647,26 @@
       "duration_ms": 259354,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 120612,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 187590,
+      "name": "Ashimolowo",
+      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 187590,
-      "name": "Ashimolowo",
-      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
-        "name": "Soundgod Fest IV",
-        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 128683,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 139047,
       "name": "US",
       "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
+        "name": "Soundgod Fest IV",
+        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 128683,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
-    },
-    {
-      "added_at": "2026-02-13 00:01:42",
-      "album": {
         "name": "US III",
         "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "added_at": "2026-02-13 00:01:42",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
     },
     {
       "added_at": "2026-02-13 00:01:42",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-02-13 00:01:42",
       "album": {
-        "name": "Corny",
-        "url": "https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP"
+        "name": "Painless Melody",
+        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
         }
       ],
-      "duration_ms": 174821,
-      "name": "Corny",
-      "url": "https://open.spotify.com/track/4OnkZxUQMN9D7ZjGuxEd7K"
+      "duration_ms": 185567,
+      "name": "Painless Melody",
+      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
     }
   ],
   "unique_name": "Afro Chill",

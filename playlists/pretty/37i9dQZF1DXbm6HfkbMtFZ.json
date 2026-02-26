@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 835699,
+  "num_followers": 835739,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 216051,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/54Uw6SATImHdL9aKDJhgkh"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 216051,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/54Uw6SATImHdL9aKDJhgkh"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -851,22 +871,18 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+      "duration_ms": 207037,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -883,22 +899,6 @@
       "duration_ms": 284500,
       "name": "fool around",
       "url": "https://open.spotify.com/track/1qabjFO5ij7kHIM91RSeqr"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Where You Belong",
-      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Anne, If",
-        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
-      },
-      "artists": [
-        {
-          "name": "GHOSTWOMAN",
-          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-        }
-      ],
-      "duration_ms": 191451,
-      "name": "The End of a Gun",
-      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Miel de Montagne",
         "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 189776,
       "name": "Permis b b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Anne, If",
+        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
+      },
+      "artists": [
+        {
+          "name": "GHOSTWOMAN",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+        }
+      ],
+      "duration_ms": 191451,
+      "name": "The End of a Gun",
+      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "I Just Want To Talk To You",
         "url": "https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Maybe Later",
         "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
       },
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
       },
       "artists": [
         {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1911,6 +1895,22 @@
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2026-01-28 21:43:36",

@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 629,
+  "num_followers": 631,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABkkjTWkIZK7/8ceWKZu8aBXB8DC+A",
+  "snapshot_id": "AAABlPpDuhw8pOCdUjwf432fUYvuDNHK",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8963,6 +8963,42 @@
       "duration_ms": 194129,
       "name": "My Mind Is a Void",
       "url": "https://open.spotify.com/track/0K1cYIykoKhDbYF3WHXNKT"
+    },
+    {
+      "added_at": "2026-02-25 06:19:19",
+      "album": {
+        "name": "V1oneKrook",
+        "url": "https://open.spotify.com/album/2E3GlytM8U0bgMT1bgWSeZ"
+      },
+      "artists": [
+        {
+          "name": "Only1Krook",
+          "url": "https://open.spotify.com/artist/0Aq2lOPzjhehPyGY3YGWDC"
+        }
+      ],
+      "duration_ms": 146430,
+      "name": "Mind Racing",
+      "url": "https://open.spotify.com/track/0R5z5TGaGrt92LNRdT2pUR"
+    },
+    {
+      "added_at": "2026-02-25 06:19:25",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2F26U2YH5YBXWciFyKxhmw"
+      },
+      "artists": [
+        {
+          "name": "Teknik",
+          "url": "https://open.spotify.com/artist/7xGB1yPO2EpkMKpk9RHn9v"
+        },
+        {
+          "name": "MISTER GREEN",
+          "url": "https://open.spotify.com/artist/3NgAIGpRDPOe6ZGPhQNRD2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/38bi05yCUFyHLU08QEMc50"
     }
   ],
   "unique_name": "New Music Daily",

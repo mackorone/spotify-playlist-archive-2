@@ -4,7 +4,7 @@
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-81 songs - 8 hr 42 min
+82 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 9:58 | 2024-05-24 |  |
 | [My Testimony \(Live\)](https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 4:51 | 2024-05-24 |  |
 | [Names \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 7:00 | 2024-05-24 | 2024-08-07 |
-| [Never Lost \(Live\) \(feat\. Tauren Wells\)](https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 6:50 | 2024-05-24 |  |
+| [Never Lost \(Live\) \(feat\. Tauren Wells\)](https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 6:50 | 2024-05-24 | 2026-02-26 |
 | [New Thing Coming \(feat\. Tiffany Hudson & Steven Furtick\)](https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:53 | 2024-07-18 |  |
 | [No Body \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/2djkGKuduO9pea7gt8wPIz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 6:01 | 2026-01-27 |  |
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2024-05-24 |  |
@@ -89,5 +89,6 @@
 | [Won't Stop Now](https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:04 | 2024-05-24 | 2026-01-29 |
 | [Worthy](https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 6:11 | 2024-05-24 |  |
 | [Yahweh We 🤍 You](https://open.spotify.com/track/6AJYNru2GfKj46emhLMtuJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:10 | 2024-07-19 | 2024-08-06 |
+| [Your Name Is God](https://open.spotify.com/track/6cb1D54z0BgnRijrk2E3Sa) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:03 | 2026-02-26 |  |
 
 \*This playlist was first scraped on 2024-05-24. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,847 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,842 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 49 | [I Know A Name](https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I Know A Name](https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2) | 7:09 |
 | 50 | [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 |
 | 51 | [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 |
-| 52 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
-| 53 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
-| 54 | [Music is Better](https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 3:56 |
+| 52 | [Music is Better](https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 3:56 |
+| 53 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
+| 54 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
 | 55 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 |
 | 56 | [End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:12 |
 | 57 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 121 | [Como Quisiera Quererte](https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 4:18 |
 | 122 | [Four](https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [Fly](https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV) | 3:23 |
 | 123 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
-| 124 | [Serious Times](https://open.spotify.com/track/7it0fDiLEGPQYJwZoLgA7U) | [Keznamdi](https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60) | [BLXXD & FYAH](https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv) | 2:19 |
+| 124 | [I Know](https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Heart & Soul](https://open.spotify.com/album/5WvviNYHAOcmqqk2MYhXw3) | 3:01 |
 | 125 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
 
 Snapshot ID: `AAAAAIGF7/Q/XcR0lsTDl29hOFKQhvsr`

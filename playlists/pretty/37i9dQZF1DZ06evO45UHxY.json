@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACZ5JwbrHUFljKq/tmzTwJW",
+  "snapshot_id": "aZzqAAAAAADazzZw6NE8cox20KVA1b6L",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flor de la Ausencia",
-        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Flor De La Ausencia",
-      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
+      "duration_ms": 134903,
+      "name": "Nuestra Historia",
+      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
+        "name": "Flor de la Ausencia",
+        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 134903,
-      "name": "Nuestra Historia",
-      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
+      "duration_ms": 186973,
+      "name": "Flor De La Ausencia",
+      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 196291,
+      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 196291,
-      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Banda",
-        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "La p\u00e1lida luz",
-      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Mexicanos",
         "url": "https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 140173,
       "name": "La chica del tec",
       "url": "https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Califas y Sus Cumbias Calientes, Vol. 1",
+        "url": "https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Mu\u00e9veme el Pollo",
+      "url": "https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Califas y Sus Cumbias Calientes, Vol. 1",
-        "url": "https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I"
+        "name": "Top Banda",
+        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 181413,
-      "name": "Mu\u00e9veme el Pollo",
-      "url": "https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE"
+      "duration_ms": 157866,
+      "name": "La p\u00e1lida luz",
+      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Lo Mejor Desde Durango",
-        "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Si la Ves",
-      "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charangas, Vol. 3",
         "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 245333,
       "name": "Llena de Amor",
       "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Lo Mejor Desde Durango",
+        "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Si la Ves",
+      "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
     },
     {
       "added_at": null,

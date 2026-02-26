@@ -6,8 +6,28 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHm6/ivz9u5aySDGXDfUShECi8Vmmj",
+  "snapshot_id": "AAAHnks0INTjopXZM22SeEdPw3qn7xOV",
   "tracks": [
+    {
+      "added_at": "2026-02-25 05:48:34",
+      "album": {
+        "name": "Come Out Lazarus 1 - Life Is Over",
+        "url": "https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM"
+      },
+      "artists": [
+        {
+          "name": "Andrea Pizzo",
+          "url": "https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q"
+        },
+        {
+          "name": "Riccardo Morello",
+          "url": "https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3"
+        }
+      ],
+      "duration_ms": 258896,
+      "name": "Come Out Lazarus 1 - Life Is Over",
+      "url": "https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b"
+    },
     {
       "added_at": "2026-02-24 08:35:21",
       "album": {
@@ -67851,6 +67871,38 @@
       "duration_ms": 122468,
       "name": "pogoasana",
       "url": "https://open.spotify.com/track/4hYg1rLkqtvziccn5jhnOZ"
+    },
+    {
+      "added_at": "2026-02-25 22:00:21",
+      "album": {
+        "name": "Odio La Musica Trap",
+        "url": "https://open.spotify.com/album/4wNoQpWFxg1gBc9Plpq2Hd"
+      },
+      "artists": [
+        {
+          "name": "Rockify",
+          "url": "https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33"
+        }
+      ],
+      "duration_ms": 224318,
+      "name": "Odio La Musica Trap",
+      "url": "https://open.spotify.com/track/3SzG9XphyYjVsHOPiTnRpL"
+    },
+    {
+      "added_at": "2026-02-25 23:06:27",
+      "album": {
+        "name": "SONICHAOSASTRA",
+        "url": "https://open.spotify.com/album/6V9hgsDjDVQ9KzXfyAfBaV"
+      },
+      "artists": [
+        {
+          "name": "ian3celia",
+          "url": "https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X"
+        }
+      ],
+      "duration_ms": 180036,
+      "name": "TAMATAMGEN",
+      "url": "https://open.spotify.com/track/486Vq6M9F55WsCSs0ESqkf"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -4,7 +4,7 @@
 
 > Brani virali e trend, rap e urban 📈  Morad in cover
 
-989 songs - 2 day 3 hr 7 min
+990 songs - 2 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-07-29 | 2022-10-21 |
 | [Vanish Mode](https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:03 | 2025-03-28 | 2025-05-30 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-07-15 | 2023-06-17 |
+| [VELENO \(feat\. Néza\)](https://open.spotify.com/track/0a4drTfDdtdqXu2qvFFll8) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 2:39 | 2026-02-25 |  |
 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 | 2025-09-17 | 2025-10-15 |
 | [Victorious](https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Victorious//Bullets](https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z) | 2:24 | 2023-08-25 | 2023-09-29 |
 | [VRP](https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:28 | 2025-11-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,877 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,838 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 30 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
 | 31 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 |
 | 32 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 |
-| 33 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
-| 34 | [Até Ficar Velhin \- Ao Vivo](https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha Piri \(Ao Vivo\)](https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs) | 2:45 |
+| 33 | [Até Ficar Velhin \- Ao Vivo](https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha Piri \(Ao Vivo\)](https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs) | 2:45 |
+| 34 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 | 35 | [água com açúcar \- ao vivo](https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 4:09 |
 | 36 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 |
 | 37 | [Deixa Eu Te Amar \- Ao Vivo](https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Eu E Você De Novo \(Ao Vivo\)](https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin) | 3:21 |

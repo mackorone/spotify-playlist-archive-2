@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-869 songs - 1 day 20 hr 22 min
+873 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Erro 404](https://open.spotify.com/track/5102L4acmKyjx0cMxNwv9I) | [MGVIC](https://open.spotify.com/artist/4cnVpNkTcwmzacMH4Skpxz), [Kaijin Beats](https://open.spotify.com/artist/2cTyknhR9ASupCncAA4j11) | [Erro 404](https://open.spotify.com/album/4DzF6k3SrVCxY8wM63qcNw) | 2:18 | 2026-02-03 |  |
 | [es muss eskalieren](https://open.spotify.com/track/7DkjndBrDWAPuGzgprXexM) | [Double B4 music](https://open.spotify.com/artist/63FcYlfrwpkKGyH59yynVz), [OHnap](https://open.spotify.com/artist/5JJAaHgBjRGH0eDzOZOrFM) | [es muss eskalieren](https://open.spotify.com/album/6QKKeEMKg5pokgvR9thV7D) | 3:00 | 2026-02-18 |  |
 | [Espinas y Claveles](https://open.spotify.com/track/20CTeOidoXflPO8Vfm2S2h) | [Moraless](https://open.spotify.com/artist/0wB3MqSDgYZBZLlcAHgusN) | [Espinas y Claveles](https://open.spotify.com/album/3U4hNWjJ2LQBQjteMUTvfk) | 2:39 | 2026-01-22 | 2026-02-23 |
+| [Esta Noche](https://open.spotify.com/track/3LHWhxRWqCZ1Wcj0QqCusn) | [Gabo Rojas](https://open.spotify.com/artist/5C5sb51jWedqQe24VmHAM9) | [Esta Noche](https://open.spotify.com/album/4QjbaySL7cdsca0tBjZJ0w) | 2:35 | 2026-02-25 |  |
 | [Estate Mediterranea](https://open.spotify.com/track/5L4vDCUWLvMWZRGLy5eksH) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Estate Mediterranea](https://open.spotify.com/album/63XIHU4F5Wo3qOCnx9D6RI) | 3:30 | 2026-01-26 |  |
 | [EURO](https://open.spotify.com/track/7Md4A37i8QFniECzDrnMW3) | [Zenyo](https://open.spotify.com/artist/07SrHYWONJjsqEPIZtPenC), [RealDusty](https://open.spotify.com/artist/6kzU06WwpaQn4gPIf7IxML) | [EURO](https://open.spotify.com/album/3hwmjBH6064VCPpKwaj0GG) | 2:49 | 2026-02-18 |  |
 | [EvenThoughI \(on my way down\)](https://open.spotify.com/track/3VaWO35VvP6kn9lXkyy0dq) | [Addy Up](https://open.spotify.com/artist/2tOX9AOUlqdRG3lLzvlvsY) | [EvenThoughI \(on my way down\)](https://open.spotify.com/album/1JElzbxzfP5OOJz81HIb9F) | 2:48 | 2025-09-25 | 2026-01-15 |
@@ -319,6 +320,7 @@
 | [HAVIN IT](https://open.spotify.com/track/2XBtwbgOZU8rrQecZaUO76) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [HAVIN IT](https://open.spotify.com/album/7JQ62Vw6pjGNYFTRZPFlBv) | 1:52 | 2025-12-01 | 2026-02-23 |
 | [Heartbreak Saved My Life](https://open.spotify.com/track/0tAfNHLq08mZw3nOcmxi8H) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [Heartbreak Saved My Life](https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13) | 3:23 | 2026-02-18 |  |
 | [Heartbreaker](https://open.spotify.com/track/4nt2egc0Lvv5e6Vfc82gI9) | [SAD STAR X](https://open.spotify.com/artist/1B2CQYMtZ4wZuQHvSrUD3q), [SCROOGY MONEYZ](https://open.spotify.com/artist/1OEcQ6AF51HcBH1XJ8ZEbm) | [Heartbreaker](https://open.spotify.com/album/6GoY5RAl40fOtlLjDTMeCX) | 2:16 | 2026-02-03 |  |
+| [Hellhole](https://open.spotify.com/track/5Bq78harN274u7Zg1iQccM) | [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc) | [Hellhole](https://open.spotify.com/album/0RcJDoC0ecOIA1HwRkt0dy) | 2:32 | 2026-02-25 |  |
 | [High & Dry](https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [High & Dry](https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh) | 3:56 | 2025-08-20 | 2026-01-15 |
 | [High On Life](https://open.spotify.com/track/38eeHkeOPpEyRVr3GhMk7T) | [Jay Korner](https://open.spotify.com/artist/5uBWv8kW9C1EEKtengV0io) | [High On Life](https://open.spotify.com/album/6zjPv28yfWlozTvAMxPMl6) | 4:14 | 2026-02-08 |  |
 | [Higher Love](https://open.spotify.com/track/0QUzSHpdiTTh4wrB2bPhE7) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Higher Love](https://open.spotify.com/album/1HsgziXkEaJNjAIpJArkA5) | 2:02 | 2025-10-06 | 2026-01-15 |
@@ -368,6 +370,7 @@
 | [If You Really Love Me](https://open.spotify.com/track/0bSQvI823D5QmWiZmnhLtp) | [Lovescandal](https://open.spotify.com/artist/1ApaIApY2p00kH2SaBQjYN) | [So Sweet so Deadly Hits](https://open.spotify.com/album/2NyQKE8W62vfbpfJq4R5Ny) | 4:00 | 2025-10-09 | 2026-01-15 |
 | [Il neige sur Liège \(feat Oster\)](https://open.spotify.com/track/0MOX27C1SE71BjiuMhtQEu) | [KOFA La Dictature](https://open.spotify.com/artist/6HMbRDcQtrJ4P3PI7hEY8N), [Oster](https://open.spotify.com/artist/0zju6OFZzVKiqI21znLbp9) | [Il neige sur Liège \(feat Oster\)](https://open.spotify.com/album/02gm7UYa1noSso6YQgjfUW) | 3:08 | 2026-01-22 | 2026-02-23 |
 | [Il Più Stanco](https://open.spotify.com/track/36wbNZ0h0IoGy2osuVNeWI) | [Human Tapes](https://open.spotify.com/artist/2kG51SQfaNCg2oINIrCgcE) | [Il Più Stanco](https://open.spotify.com/album/3TpcVB7Q6C9Um3KzaICNNB) | 2:33 | 2025-10-19 | 2026-01-15 |
+| [ill intended](https://open.spotify.com/track/0iyb8xWNj6tCsznTDxeMVl) | [GavinDaVinci](https://open.spotify.com/artist/50XSxBGeYosKWspvCRxfu6) | [ill intended](https://open.spotify.com/album/2Fp9k5gZSSaIUbWe5PR764) | 2:26 | 2026-02-25 |  |
 | [Imaginación Ó Realidad](https://open.spotify.com/track/3A6LxZEURYea7o9w1LhqsA) | [Círculo Bohemio](https://open.spotify.com/artist/4CG9sGYFOgr9Y2PNhEBPr8) | [Imaginación Ó Realidad](https://open.spotify.com/album/4FzYME0DswDX356HOfagmq) | 4:56 | 2026-01-29 |  |
 | [Impares](https://open.spotify.com/track/1IGIRtWcfGRX018V1cWEcz) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Impares](https://open.spotify.com/album/6doLuKHm8W49LFkrnVB9pA) | 3:25 | 2026-02-14 |  |
 | [in my head](https://open.spotify.com/track/0HVIpONdqv8BOdCUGcFUdq) | [Haseem Estwick](https://open.spotify.com/artist/3l5Oo1sJ8Z8livvnoV37tY) | [in my head](https://open.spotify.com/album/4IoUuqdmFsagE27W4sGSlI) | 4:47 | 2026-01-05 | 2026-02-23 |
@@ -739,6 +742,7 @@
 | [The Jungle](https://open.spotify.com/track/55JVj6UO1VchObfxMja8oY) | [LA Sabree](https://open.spotify.com/artist/5G4iD0kh5Bv81nCBCot5Kw) | [The Jungle](https://open.spotify.com/album/1Of77L9bR4bZ445Qlu13Q5) | 3:27 | 2026-02-03 |  |
 | [The Lazarene: 1915](https://open.spotify.com/track/0r23H4Y2sDtvf3v7D6qdwr) | [ΠϢΑϪЄ](https://open.spotify.com/artist/3MkDPKEYw7KgH2WZuCvrPO) | [Chemical Sunshine Overdose](https://open.spotify.com/album/2o91uvdZIHEGPXN5emDmpz) | 2:41 | 2025-10-19 | 2026-01-15 |
 | [The Nighthawk Warrior](https://open.spotify.com/track/58dxwwc8PsKK3hjAHNV32t) | [Tim Soucy](https://open.spotify.com/artist/6fSvixjQmpfsf0nKFA4MNa) | [The One Constant](https://open.spotify.com/album/1aM0xPIz6SXdytoLply5Kw) | 4:35 | 2025-08-28 |  |
+| [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2026-02-25 |  |
 | [The Outcome](https://open.spotify.com/track/341pM2oxUae0j7kNeZGUKf) | [Tali Rodriguez](https://open.spotify.com/artist/15CUZjXof4E1nf2LmXiT8U), [Crotona P](https://open.spotify.com/artist/5QebaqSWPXOmouXtfGVvd7), [Mr\. Ripley](https://open.spotify.com/artist/0jz6LGZ1GV0xiRuwqJUJIS), [Sinamatik](https://open.spotify.com/artist/3y45PRvZ2gD2nmhRBBoTzZ) | [The Outcome](https://open.spotify.com/album/2HOlC90nnrBLLXQchyLk0l) | 3:06 | 2025-09-28 | 2026-01-15 |
 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 | 2026-01-30 |  |
 | [The Red Cha Cha](https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [The Red Cha Cha](https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6) | 2:23 | 2026-02-14 |  |

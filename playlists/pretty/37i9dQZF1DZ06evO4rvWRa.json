@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638368,
+  "num_followers": 1638350,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACh1a/13r/4l2GJprrmDLM/",
+  "snapshot_id": "aZzqAAAAAABE3ySKLaCrRjTpxMiNbPhN",
   "tracks": [
     {
       "added_at": null,
@@ -115,18 +115,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+        "name": "Headlights (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
       "artists": [
         {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
     },
     {
       "added_at": null,
@@ -151,26 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headlights (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Headlights (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": null,

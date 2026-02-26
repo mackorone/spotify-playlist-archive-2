@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97422,
+  "num_followers": 97423,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAACNscmaxz/bv7q01FFu+E9T",
+  "snapshot_id": "aZzqAAAAAADSr1sc5tb2MRjJR/ApPXnz",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Drakkar Noir",
+      "url": "https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Drakkar Noir",
-      "url": "https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like that",
-        "url": "https://open.spotify.com/album/7vWL0BcIYUfb5qpbeWuHnj"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 63080,
-      "name": "Diet of the Heart",
-      "url": "https://open.spotify.com/track/3GxrYdbGWP7v5oAHAEIYWz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Goodbye Soleil",
-      "url": "https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 300533,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Goodbye Soleil",
+      "url": "https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX"
     },
     {
       "added_at": null,
@@ -703,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Rally",
-      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -731,6 +699,22 @@
       "duration_ms": 195866,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Rally",
+      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 169800,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like that",
+        "url": "https://open.spotify.com/album/7vWL0BcIYUfb5qpbeWuHnj"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 63080,
+      "name": "Diet of the Heart",
+      "url": "https://open.spotify.com/track/3GxrYdbGWP7v5oAHAEIYWz"
     },
     {
       "added_at": null,

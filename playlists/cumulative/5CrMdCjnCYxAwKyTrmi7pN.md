@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-313 songs - 17 hr 18 min
+314 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Everywhere](https://open.spotify.com/track/4DCyrNG1ES4OgSTVKqV1ry) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [Everywhere](https://open.spotify.com/album/7uLIghq9RLxslNEKNNlpOh) | 3:19 | 2025-11-03 | 2026-01-15 |
 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 | 2025-08-05 | 2025-09-23 |
 | [Father Figure](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:32 | 2025-10-03 | 2026-01-15 |
+| [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 | 2026-02-25 |  |
 | [Feel Alive](https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Feel Alive](https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6) | 2:48 | 2026-01-16 |  |
 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 | 2025-07-17 | 2025-09-23 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-07-17 | 2025-09-23 |

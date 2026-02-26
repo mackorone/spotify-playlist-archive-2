@@ -12863,6 +12863,24 @@
     },
     {
       "album": {
+        "name": "GHANA",
+        "url": "https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u307f\u3061\u3048",
+          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140598,
+      "name": "Osoro (Heaven)",
+      "url": "https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -17922,24 +17940,6 @@
       "duration_ms": 232645,
       "name": "Toukakanseinoyoru",
       "url": "https://open.spotify.com/track/4MkvoRmOboUayXIj63S7XC"
-    },
-    {
-      "album": {
-        "name": "GHANA",
-        "url": "https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH"
-      },
-      "artists": [
-        {
-          "name": "\u306a\u307f\u3061\u3048",
-          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
-        }
-      ],
-      "date_added": "2026-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ"
     },
     {
       "album": {

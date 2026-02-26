@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 494 likes - 370 songs - 15 hr 3 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 494 likes - 370 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 77 | [Clear Minded](https://open.spotify.com/track/0bXOA663nBacMzi0T7Ft4l) | [Henry Rowbotham](https://open.spotify.com/artist/5g9fPQjGIcLHgBMQcAARh0) | [Reflections](https://open.spotify.com/album/6TnNurk8VugTV2r9VW2c1v) | 1:29 |
 | 78 | [love story](https://open.spotify.com/track/0b8aXwsq9zeyOzHZ9ZP1Nx) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/1VczEbCVFcQ5Nt5IGfdiFw) | 1:34 |
 | 79 | [moments in between](https://open.spotify.com/track/5N2hvhGu7CJ2Bj4nwDkpiG) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [moments in between](https://open.spotify.com/album/40c32j8tzigbZNkKGGPQO4) | 2:32 |
-| 80 | [Lost in thought](https://open.spotify.com/track/48gmrmDGunS2zX0tnNNvEM) | [Stræpa](https://open.spotify.com/artist/5C2NT5QL8JLj2VjiPIyhFW) | [Lost in thought](https://open.spotify.com/album/0luNhXqxWPWPUssG97ypux) | 2:21 |
+| 80 | [lost in thought](https://open.spotify.com/track/2i98t1liW7ImQ0YNlQi2Pj) | [stray](https://open.spotify.com/artist/6TZ7ImCY9aK3ZxpKLYSyHS) | [Lost In Thought](https://open.spotify.com/album/5sKPcXrq8x0QocY2EgjUrH) | 4:00 |
 | 81 | [Life](https://open.spotify.com/track/38i6LcfcjhxQFlWLnDJdtt) | [Olha Shustova](https://open.spotify.com/artist/43CI8IOHXnklTvPQaou8lN) | [Back To Life](https://open.spotify.com/album/6d2tEb80HYcEsycz19Fm1f) | 3:53 |
 | 82 | [Lotus Blossom](https://open.spotify.com/track/6jCHGqsI9ULtO2iG12w7iA) | [Julie Hanney](https://open.spotify.com/artist/13K0QZ02xfsIptclG3NE5d) | [Wonderment](https://open.spotify.com/album/6mXkFT4UzV1PfYzcTFMr75) | 2:31 |
 | 83 | [Shelter Above](https://open.spotify.com/track/1Rhwb4KteWkfBERfE9O565) | [Henry Rowbotham](https://open.spotify.com/artist/5g9fPQjGIcLHgBMQcAARh0) | [Reflections](https://open.spotify.com/album/6TnNurk8VugTV2r9VW2c1v) | 0:57 |
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 369 | [Time Flows Like Liquid Light](https://open.spotify.com/track/1QfdpDUXi5uljnh3hkC0uz) | [Paul H.](https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi), [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Time Flows Like Liquid Light](https://open.spotify.com/album/3XXRfYWeLTF7bUTqDoBGQi) | 1:33 |
 | 370 | [Two Years](https://open.spotify.com/track/5OXimoxINUI6lvCAGQqPDY) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Two Years](https://open.spotify.com/album/7Cpo5iK9QckXMTGdGhs0DD) | 2:08 |
 
-Snapshot ID: `AAAHoEgmCjxBjsD6sTPmxvSBOrROl9P4`
+Snapshot ID: `AAAHpxqzcjpvUpGvhCatNiMrP6+w3dXJ`

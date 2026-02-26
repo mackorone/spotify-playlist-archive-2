@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Agapornis",
-  "num_followers": 1138485,
+  "num_followers": 1138349,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Inocente",
+        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Desp\u00f3jate Vol.2",
         "url": "https://open.spotify.com/album/2rIGm59XDgX2eYwiOWtFgV"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 240435,
       "name": "Desp\u00f3jate Vol.2",
       "url": "https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Inocente",
-        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 312512,
       "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
         "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 165161,
       "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
       "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Esperando por Ti",
-        "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 134916,
-      "name": "Esperando por Ti",
-      "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Sin Querer",
         "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 141071,
       "name": "Sin Querer",
       "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Esperando por Ti",
+        "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 134916,
+      "name": "Esperando por Ti",
+      "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "QUE ES ESO?",
         "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 145847,
       "name": "QUE ES ESO?",
       "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Dame Un Beso",
+        "url": "https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb"
+      },
+      "artists": [
+        {
+          "name": "Uri",
+          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 133483,
+      "name": "Dame Un Beso",
+      "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Ya no me duele :,)",
         "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
       },
@@ -1239,50 +1263,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Dame Un Beso",
-        "url": "https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb"
-      },
-      "artists": [
-        {
-          "name": "Uri",
-          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 133483,
-      "name": "Dame Un Beso",
-      "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/2152XeZqBGLWDH7b38M4z1"
-      },
-      "artists": [
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        },
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/79qQSrpTk5ctZNOEaqlZr8"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/5iNHS6Q4FkT7SPPdaAjX8n"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 170759,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/5aFToP9WaXJzjr6yneD5rg"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/2152XeZqBGLWDH7b38M4z1"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/79qQSrpTk5ctZNOEaqlZr8"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Notitas Tristes",
         "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Romantiko",
-        "url": "https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 194210,
-      "name": "Romantiko",
-      "url": "https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "No Fue Culpa Tuya",
         "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 148283,
       "name": "No Fue Culpa Tuya",
       "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Romantiko",
+        "url": "https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 194210,
+      "name": "Romantiko",
+      "url": "https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Chica Brasile\u00f1a Remix",
         "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Mi Ex",
-        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        }
-      ],
-      "duration_ms": 141978,
-      "name": "Mi Ex",
-      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Quiero Olvidarte",
         "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 136853,
       "name": "NO FUIMOS",
       "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Mi Ex",
+        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        }
+      ],
+      "duration_ms": 141978,
+      "name": "Mi Ex",
+      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
     },
     {
       "added_at": "2026-02-20 03:00:10",

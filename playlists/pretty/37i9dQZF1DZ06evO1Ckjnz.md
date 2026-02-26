@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,071 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,070 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 20 | [OHFR?](https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:00 |
 | 21 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 |
 | 22 | [CRASH](https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:42 |
-| 23 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
-| 24 | [In N Out \(feat\. TheHxliday & Rico Nasty\)](https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 2:11 |
+| 23 | [In N Out \(feat\. TheHxliday & Rico Nasty\)](https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 2:11 |
+| 24 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
 | 25 | [Countin' Up](https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:30 |
 | 26 | [WHO WANT IT](https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 1:47 |
 | 27 | [STUNNA](https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 1:58 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 44 | [Blow Me](https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:21 |
 | 45 | [Butt Naked \(feat\. Rico Nasty\)](https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 2:32 |
 | 46 | [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 |
-| 47 | [Hatin](https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:20 |
-| 48 | [Girl Crush \(feat\. Rico Nasty\)](https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [+/\-](https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA) | 3:48 |
+| 47 | [Girl Crush \(feat\. Rico Nasty\)](https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [+/\-](https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA) | 3:48 |
+| 48 | [Hatin](https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:20 |
 | 49 | [FMU](https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk) | 2:58 |
 | 50 | [YOU COULD NEVER](https://open.spotify.com/track/1h31TRX64PcICmCFNjwlGj) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:43 |
 
-Snapshot ID: `aZuYgAAAAAAoaiWxjm3ReuXyo6douRrk`
+Snapshot ID: `aZzqAAAAAAAJaT+kkFXJITnJm6Az1Puf`

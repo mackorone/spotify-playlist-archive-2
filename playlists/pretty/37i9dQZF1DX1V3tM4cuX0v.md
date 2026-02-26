@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: MAX BARSKIH
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,289 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,294 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

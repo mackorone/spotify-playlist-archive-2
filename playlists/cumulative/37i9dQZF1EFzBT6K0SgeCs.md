@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 11 hr 1 min
+191 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2024-01-29 |  |
 | [Medieval](https://open.spotify.com/track/3As49dIhYQCYViJiaxR4nF) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:51 | 2024-01-29 |  |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-01-29 |  |
-| [Moral of the Story](https://open.spotify.com/track/69HzZ3ti9DLwb0GdWCGYSo) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:21 | 2024-01-29 |  |
+| [Moral of the Story](https://open.spotify.com/track/0zSxpn1s0nk6VMpBMNqNFa) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/57KvhLdbABnDYcOZ6l1FWJ) | 3:21 | 2026-02-25 |  |
+| [Moral of the Story](https://open.spotify.com/track/69HzZ3ti9DLwb0GdWCGYSo) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:21 | 2024-01-29 | 2026-02-26 |
 | [my boy](https://open.spotify.com/track/0FQhAHyHGsrbSHvDURmFPn) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me \(Expanded Edition\)](https://open.spotify.com/album/5YCdlD3eREt72lTZxNL7id) | 2:50 | 2024-01-29 |  |
 | [my future](https://open.spotify.com/track/3YUMWmx8EJq0DurfuIwoGh) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2024-01-29 |  |
 | [My Future](https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 3:31 | 2024-01-29 | 2024-10-31 |
@@ -172,7 +173,8 @@
 | [The Kids Are All Dying](https://open.spotify.com/track/2gFYbWsv37CcLfxTNTwe4b) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [The Kids Are All Dying](https://open.spotify.com/album/4zU18C1SKLCsvIuQjZ331e) | 2:54 | 2024-01-29 | 2024-01-31 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2024-01-29 |  |
 | [Therefore I Am](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:53 | 2024-01-29 |  |
-| [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 | 2024-01-29 |  |
+| [Till Forever Falls Apart](https://open.spotify.com/track/1VTMXGf9Ew0mLY78Cb7dVe) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/57KvhLdbABnDYcOZ6l1FWJ) | 3:42 | 2026-02-25 |  |
+| [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 | 2024-01-29 | 2026-02-26 |
 | [True Blue](https://open.spotify.com/track/613vBSqpLBri5QONztpUSt) | [bbygirl](https://open.spotify.com/artist/7COWUsAnHT3kAyHpDUoFxM) | [Blue](https://open.spotify.com/album/6GOsMwTFJh6GcPfX0EK8xK) | 2:45 | 2024-12-11 |  |
 | [True Blue](https://open.spotify.com/track/2nqcT3NYFE994z6YhYHdOV) | [Sedona Hernandez](https://open.spotify.com/artist/7wpcL4qFes0LlQpv94rjLq) | [True Blue](https://open.spotify.com/album/0RUCWIlHmPbxoUN6ioYq18) | 3:32 | 2024-11-28 | 2024-12-12 |
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2024-01-29 |  |

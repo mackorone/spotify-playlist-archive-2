@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        },
+        {
+          "name": "SULLYOON",
+          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
+    },
+    {
+      "album": {
         "name": "Fe3O4: STICK OUT",
         "url": "https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2"
       },

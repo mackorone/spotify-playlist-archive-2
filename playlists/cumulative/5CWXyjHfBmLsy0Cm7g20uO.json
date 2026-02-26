@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Disappointment",
+        "url": "https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX"
+      },
+      "artists": [
+        {
+          "name": "1POINT5",
+          "url": "https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271999,
+      "name": "Disappointment",
+      "url": "https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj"
+    },
+    {
+      "album": {
         "name": "Immortal",
         "url": "https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe"
       },

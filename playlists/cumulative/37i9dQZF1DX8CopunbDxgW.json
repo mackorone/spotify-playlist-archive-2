@@ -8334,7 +8334,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-26",
       "duration_ms": 182226,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/7lkMWvf06hYwUEEzo5FhAd"
@@ -18780,6 +18780,24 @@
       "duration_ms": 235245,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/757Myoc63izEaBWatHbUUs"
+    },
+    {
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176246,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
       "album": {

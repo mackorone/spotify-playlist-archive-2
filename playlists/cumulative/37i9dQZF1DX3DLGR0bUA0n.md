@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-195 songs - 11 hr 20 min
+196 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,13 +106,14 @@
 | [Jefe Fresa](https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:13 | 2023-10-12 |  |
 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 | 2023-10-12 |  |
 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 | 2023-10-12 |  |
+| [La Carga Fina](https://open.spotify.com/track/7I3Qg5hfOsJW3uWc1rH4Gj) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [La Carga Fina](https://open.spotify.com/album/3KYQUyhtZSvij2abXFYch5) | 2:49 | 2025-12-05 |  |
 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 | 2023-10-12 |  |
 | [La luz de tus ojos](https://open.spotify.com/track/1Qpg5hC3FbO66SOzhEiLr2) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Ni cariño ni rencor](https://open.spotify.com/album/0Bc7IgJAQv1lJ8gcpx1Ddm) | 4:09 | 2024-02-23 |  |
 | [La luz de tus ojos](https://open.spotify.com/track/5wGCEeAGVRB1y3FxEblw9l) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Ni cariño ni rencor](https://open.spotify.com/album/5VtPBxEBsseCHSLDt4Hw73) | 4:09 | 2023-10-12 | 2024-04-19 |
 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 | 2023-10-12 |  |
 | [La Mas Bella Mujer](https://open.spotify.com/track/6yfH6f9o90ccQxkcbBTM7S) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [La Mas Bella Mujer](https://open.spotify.com/album/2WILPDQfhx2QhxijkvyoEl) | 3:54 | 2024-02-23 | 2024-06-08 |
 | [La Ultima Copa](https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Inspirados por Ti](https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb) | 4:16 | 2023-10-12 |  |
-| [Las Envidias, los Chismes y las Traiciones](https://open.spotify.com/track/7zqNRqTWEAxatMuV9ZWVu7) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:18 | 2023-10-12 |  |
+| [Las Envidias, los Chismes y las Traiciones](https://open.spotify.com/track/7zqNRqTWEAxatMuV9ZWVu7) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:18 | 2023-10-12 | 2026-02-26 |
 | [Las Joyas De Mi Vida](https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Exitos de La Nobleza de Aguililla](https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h) | 4:07 | 2023-10-12 |  |
 | [Lejos De Mi Patria](https://open.spotify.com/track/31Aox0MJgkIlafftLu9KN4) | [La Trayectoria de Tierra Caliente](https://open.spotify.com/artist/6W0JZjdYsh3DBquwYtqlFQ) | [Lejos De Mi Patria](https://open.spotify.com/album/4dynrrbbGJ1A2GJHz2RomU) | 4:11 | 2024-02-23 | 2025-05-26 |
 | [Lejos de Mi Patria](https://open.spotify.com/track/14uTATiAcs2w3pUMUS84Ks) | [La Trayectoria de Tierra Caliente](https://open.spotify.com/artist/6W0JZjdYsh3DBquwYtqlFQ), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Lejos de Mi Patria](https://open.spotify.com/album/2K9o5XWxJ8vnSKwg56Y16C) | 4:11 | 2023-10-12 | 2024-04-19 |

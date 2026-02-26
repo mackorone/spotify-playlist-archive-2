@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,458 likes - 343 songs - 21 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,457 likes - 343 songs - 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,9 +255,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 245 | [Unite](https://open.spotify.com/track/7dx1maQh7mN7PHRTnZNFI9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Alive \(Deluxe Edition\)](https://open.spotify.com/album/7duJuFUm0IlZW4ppyWSXu5) | 3:51 |
 | 246 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 |
 | 247 | [My Love](https://open.spotify.com/track/30V3dWOtxi3G7pn1IfFL3C) | [Kids Party Music Players](https://open.spotify.com/artist/05Y2SJlvs0uZnxojGeDyr7) | [Perfect Party Music Pop](https://open.spotify.com/album/5GkiJEVMNWyY8ohW7MTr07) | 4:52 |
-| 248 | [Wrapped Up](https://open.spotify.com/track/536LtAJlONCorMQe539cKy) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1), [Vox Lux](https://open.spotify.com/artist/7cTvNYz4p7LDVwfGEsBDji) | [Wrapped Up / Alive \(Vox Lux Original Motion Picture Soundtrack\)](https://open.spotify.com/album/344A3w5aYjSEPkBNRUj2Md) | 4:29 |
-| 249 | [Riding On My Bike](https://open.spotify.com/track/1fkpwndSm7u8IqWEtUw4fI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Riding On My Bike \(from “At home with the kids”\)](https://open.spotify.com/album/68CycIbYcixJDbzd5xyeku) | 1:47 |
-| 250 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
+| 248 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
+| 249 | [Wrapped Up](https://open.spotify.com/track/536LtAJlONCorMQe539cKy) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1), [Vox Lux](https://open.spotify.com/artist/7cTvNYz4p7LDVwfGEsBDji) | [Wrapped Up / Alive \(Vox Lux Original Motion Picture Soundtrack\)](https://open.spotify.com/album/344A3w5aYjSEPkBNRUj2Md) | 4:29 |
+| 250 | [Riding On My Bike](https://open.spotify.com/track/1fkpwndSm7u8IqWEtUw4fI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Riding On My Bike \(from “At home with the kids”\)](https://open.spotify.com/album/68CycIbYcixJDbzd5xyeku) | 1:47 |
 | 251 | [Expertease \(Ready Set Go\)](https://open.spotify.com/track/5tpRdQQHr9eKa0tNdTmI64) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 4:04 |
 | 252 | [Go On](https://open.spotify.com/track/5gKW4Zbd2A6NcD6iAF2JQ1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:14 |
 | 253 | [Pop Rock](https://open.spotify.com/track/4hRfQY1nGmSkBg5FU00zcG) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:56 |
@@ -352,4 +352,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 342 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 343 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcKjygAAAACR1ztgPrJsbysWk6nwnQAX`
+Snapshot ID: `AcKpagAAAACQD4bYGhU8KKwckQHyANtm`

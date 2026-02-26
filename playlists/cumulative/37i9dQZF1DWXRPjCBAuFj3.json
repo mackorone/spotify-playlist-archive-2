@@ -19725,6 +19725,28 @@
     },
     {
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "VELENO (feat. N\u00e9za)",
+      "url": "https://open.spotify.com/track/0a4drTfDdtdqXu2qvFFll8"
+    },
+    {
+      "album": {
         "name": "ENCORE / VIANO",
         "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
       },

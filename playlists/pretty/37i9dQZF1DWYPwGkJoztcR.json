@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396286,
+  "num_followers": 396300,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Cruisin\u2019",
         "url": "https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 204082,
       "name": "Cruisin\u2019",
       "url": "https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189136,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 197419,
       "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189136,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "goodbye",
         "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 170476,
       "name": "goodbye",
       "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Do You Want To Be Honest?",
         "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 212565,
       "name": "Do You Want To Be Honest?",
       "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
-      },
-      "artists": [
-        {
-          "name": "Youri Lentjes",
-          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "the moment (acoustic)",
         "url": "https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 190266,
       "name": "the moment - acoustic",
       "url": "https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
+      },
+      "artists": [
+        {
+          "name": "Youri Lentjes",
+          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
+        }
+      ],
+      "duration_ms": 189064,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 179054,
       "name": "Company Store",
       "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Better Tomorrow",
-        "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
-      },
-      "artists": [
-        {
-          "name": "Sennen Bay",
-          "url": "https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW"
-        }
-      ],
-      "duration_ms": 211111,
-      "name": "Better Tomorrow",
-      "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 226853,
       "name": "Easy To Love (feat. Iris Jean)",
       "url": "https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Better Tomorrow",
+        "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
+      },
+      "artists": [
+        {
+          "name": "Sennen Bay",
+          "url": "https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW"
+        }
+      ],
+      "duration_ms": 211111,
+      "name": "Better Tomorrow",
+      "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "Julianne",
-      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 195586,
       "name": "Lonely On Lovers Lane",
       "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Julianne",
+      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
     },
     {
       "added_at": "2026-02-06 08:55:44",

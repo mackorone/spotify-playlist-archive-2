@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,771 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,805 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |
+| 1 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |
 | 2 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 |
 | 3 | [Sirra](https://open.spotify.com/track/3QsGq1Xd1n8qc9hwSPzQgj) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:26 |
 | 4 | [Kinna Tera](https://open.spotify.com/track/11Ua3dEO8c0lZQG1yqngtE) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER), [Prakriti Pandey](https://open.spotify.com/artist/5gyrzC7jLzk6zlZVRwGwdb) | [Kinna Tera](https://open.spotify.com/album/3s52PXAUvWHXc3OG1S3qWK) | 3:13 |

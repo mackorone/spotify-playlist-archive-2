@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,402 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,404 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 55 | [Kannst du die Lichter sehen \(feat\. Detlev Jöcker, Sarah Schiffer & Kinderlieder Gang\)](https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Feste feiern auf dem singenden Bauernhof](https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9) | 2:33 |
 | 56 | [Winterzeit](https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn) | [Das grüne Album](https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29) | 2:02 |
 
-Snapshot ID: `AAAAADlLwNJ8/hzA127vIGlWzrWNHwuJ`
+Snapshot ID: `AAAAAL879AKLjxguEczm31TUV8oBj77n`

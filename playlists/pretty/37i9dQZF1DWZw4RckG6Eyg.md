@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,196 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,205 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 47 | [Mindflower](https://open.spotify.com/track/3xHMMtjr6MCB5TwildjO2V) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Into The Doldrums](https://open.spotify.com/album/1ljJP9x1MXnzEqwDNkmST1) | 4:14 |
 | 48 | [Estimated Delivery](https://open.spotify.com/track/1GIDMzcU9cvO5j7f1kuT4Z) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 3:25 |
 | 49 | [Looking For Nothing](https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Looking For Nothing](https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu) | 3:58 |
-| 50 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
-| 51 | [If I go](https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Body Break](https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi) | 3:35 |
+| 50 | [If I go](https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Body Break](https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi) | 3:35 |
+| 51 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
 | 52 | [My Love](https://open.spotify.com/track/7lsaIknmHdm6MGA8AhJZcR) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 2:44 |
 | 53 | [Bounce House](https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt) | [Gelli Haha](https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI) | [Switcheroo](https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap) | 3:32 |
 | 54 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 66 | [So Sweet & Willing](https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 3:21 |
 | 67 | [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 |
 | 68 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 |
-| 69 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
-| 70 | [House Fire](https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 3:07 |
+| 69 | [House Fire](https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 3:07 |
+| 70 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
 | 71 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 |
 | 72 | [Magic Of The Sale](https://open.spotify.com/track/4tvHq6sgIBL7GCSCBgOeey) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:48 |
 | 73 | [9\-2\-5](https://open.spotify.com/track/5v80CZosPY0BPUtk3wzDY3) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 3:12 |
-| 74 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
-| 75 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
+| 74 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
+| 75 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 76 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
 | 77 | [Junior](https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 4:00 |
 | 78 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 80 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
 | 81 | [Guilty Running](https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:03 |
 | 82 | [Images of Love](https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:53 |
-| 83 | [Cradle The Pain](https://open.spotify.com/track/04K5qfFqfxJF5yh3xaUYZS) | [Morgan Nagler](https://open.spotify.com/artist/6mT5D1CUrWTMXngtqazglr) | [Cradle The Pain](https://open.spotify.com/album/7vpQiPMi8SmOEGwEjBCP4C) | 4:08 |
-| 84 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 83 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 84 | [Cradle The Pain](https://open.spotify.com/track/04K5qfFqfxJF5yh3xaUYZS) | [Morgan Nagler](https://open.spotify.com/artist/6mT5D1CUrWTMXngtqazglr) | [Cradle The Pain](https://open.spotify.com/album/7vpQiPMi8SmOEGwEjBCP4C) | 4:08 |
 | 85 | [tonight](https://open.spotify.com/track/4qi16r93Cx4KnGcwwVD8iZ) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [for us](https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf) | 1:45 |
 | 86 | [Even if it's Just a Dream](https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 5:30 |
 | 87 | [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 92 | [Strobe](https://open.spotify.com/track/4MPjKNnWBLXEyz9S7sYKIJ) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Strobe](https://open.spotify.com/album/0FPGsItA3jmGj67TdPAXCI) | 3:40 |
 | 93 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 |
 | 94 | [Pharmacy](https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb) | [deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:18 |
-| 95 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 |
-| 96 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 |
+| 95 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 |
+| 96 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 |
 | 97 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 |
 | 98 | [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 |
 | 99 | [FW2028](https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:24 |
-| 100 | [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 |
+| 100 | [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 |
 
 Snapshot ID: `AAAAACKzi3noKszXq+BbwYBIOqjMf/42`

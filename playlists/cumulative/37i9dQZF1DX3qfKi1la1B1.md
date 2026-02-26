@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-475 songs - 1 day 6 hr 23 min
+476 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2023-11-16 | 2024-01-12 |
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-10-20 | 2023-06-01 |
 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-09 | 2024-01-19 |
+| [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-25 |  |
 | [Close As We Get \(feat\. Vicky Farewell\)](https://open.spotify.com/track/1NQkfnJg8dHS1sAOrRh3cp) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [The Programme](https://open.spotify.com/album/00TmoTB679RXXCQLdrrNWn) | 5:06 | 2024-06-07 | 2024-07-27 |
 | [Closer \(feat\. Andreya Triana\)](https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Closer \(feat\. Andreya Triana\)](https://open.spotify.com/album/7tE9gx7J5h4NKc4K3hVcmt) | 4:18 | 2023-11-23 | 2023-12-08 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-10-20 | 2024-04-19 |
@@ -211,7 +212,7 @@
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-09 | 2025-01-20 |
 | [inthemourning](https://open.spotify.com/track/53H91ncq2kL9SReFqTkm5t) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [inthemourning](https://open.spotify.com/album/0Hlea23CFRzVX7kgpId0x2) | 3:56 | 2022-10-20 | 2022-12-02 |
 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 | 2023-08-10 | 2023-08-25 |
-| [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 | 2025-03-06 |  |
+| [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 | 2025-03-06 | 2026-02-26 |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-17 | 2023-02-10 |
 | [Iyo No Hito](https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Iyo No Hito](https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS) | 6:14 | 2024-07-26 | 2024-11-09 |
 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 | 2022-10-20 | 2023-10-06 |

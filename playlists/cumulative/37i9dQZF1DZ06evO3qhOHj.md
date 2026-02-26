@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 54 min
+88 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Addicted To That Rush \- 2009 Remastered Version](https://open.spotify.com/track/1RCOCHtcnVWoWNSarMlwyd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:46 | 2025-07-07 |  |
 | [Addicted To That Rush \- 2023 Remastered](https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:45 | 2023-12-13 | 2025-07-07 |
 | [Ain't Seen Love Like That](https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:31 | 2023-12-13 |  |
-| [Alive and Kickin'](https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 5:29 | 2023-12-13 |  |
+| [Alive and Kickin'](https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 5:29 | 2023-12-13 | 2026-02-26 |
+| [Alive and Kickin' \- 2021 Remastered](https://open.spotify.com/track/3RbxpCBZHs0iPbMX08RQIr) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 5:29 | 2026-02-26 |  |
 | [All the Way Up](https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 5:12 | 2024-09-22 |  |
 | [Anything For You \- 2009 Remastered Version](https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:38 | 2023-12-13 |  |
 | [Arrow](https://open.spotify.com/track/6GvfNtsfika3NY9dJeJ8WI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 | 2023-12-13 |  |
@@ -28,7 +29,7 @@
 | [Damn I'm In Love Again](https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 2:55 | 2024-08-14 |  |
 | [Damn I'm in Love Again](https://open.spotify.com/track/4wGPXraznAXLV1a0eUGLA3) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE) | 2:55 | 2023-12-13 | 2024-07-15 |
 | [Dancin' Right into the Flame](https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:03 | 2023-12-13 |  |
-| [Electrified](https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:11 | 2023-12-13 | 2025-06-14 |
+| [Electrified](https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:11 | 2023-12-13 |  |
 | [Forever and Back](https://open.spotify.com/track/3AdWEZiqAccgQlWfCoTIi2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE) | 3:39 | 2023-12-13 | 2024-03-06 |
 | [Forever In Our Hearts](https://open.spotify.com/track/2SHGmeRFSgp6xABH8tsOmp) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Forever In Our Hearts](https://open.spotify.com/album/7BtoCu1PGBoSijLUA56G8V) | 4:37 | 2025-02-18 | 2025-05-25 |
 | [Forever In Our Hearts](https://open.spotify.com/track/75hDg01ShKQ817pJzWIebE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Forever In Our Hearts](https://open.spotify.com/album/0nW8iVtU6MxCIu2LIdxc9i) | 4:37 | 2025-02-15 | 2025-02-18 |
@@ -49,7 +50,7 @@
 | [Just Take My Heart \[Acoustic\] \- 2021 Remastered](https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:49 | 2023-12-13 |  |
 | [Lost In America](https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:52 | 2023-12-13 |  |
 | [Merciless \- 2023 Remastered](https://open.spotify.com/track/5fsGBKkvOXOJ5pMNSw1xZt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 3:55 | 2025-01-12 | 2025-02-11 |
-| [My Kinda Woman \- 2021 Remastered](https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 4:12 | 2023-12-13 |  |
+| [My Kinda Woman \- 2021 Remastered](https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 4:12 | 2023-12-13 | 2026-02-26 |
 | [Never Say Never](https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:49 | 2023-12-13 | 2025-01-03 |
 | [Not One Night](https://open.spotify.com/track/6V515Poan7LK5imto1SIZI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 3:38 | 2023-12-13 |  |
 | [Nothin' Bad \('Bout Feelin' Good\)](https://open.spotify.com/track/2UJ0FA7Gmw2XIEK9h8PhvQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 4:00 | 2024-12-11 | 2025-02-25 |

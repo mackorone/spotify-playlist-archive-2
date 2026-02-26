@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-19 15:00:12",
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2026-02-19 15:00:12",
+      "album": {
         "name": "Wish I Didn't",
         "url": "https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
-    },
-    {
-      "added_at": "2026-02-19 15:00:12",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "added_at": "2026-02-19 15:00:12",

@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-320 songs - 15 hr 19 min
+321 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,9 +169,10 @@
 | [Jatt di Jawani](https://open.spotify.com/track/6ZpBZB9XIeN7dvFa3Dn8Zf) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Brown Maan](https://open.spotify.com/artist/6WFyfNCIvHGxfjiR1LwrAZ), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Jatt di Jawani](https://open.spotify.com/album/5s8DizqHxfJQUGSQik9O9r) | 2:16 | 2024-11-28 | 2024-12-14 |
 | [Jatt Nahi Dekhya](https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Jatt Nahi Dekhya](https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m) | 2:27 | 2025-06-18 |  |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-07-18 | 2024-09-13 |
+| [Jawani](https://open.spotify.com/track/2RvFLJn8BJeBriyr9UmxUe) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Deep Sra](https://open.spotify.com/artist/2osYSyOGZHqTsbgBxIIPrg), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Jawani](https://open.spotify.com/album/0PnBjgFDZksWEFlLu8vqFI) | 2:52 | 2026-02-25 |  |
 | [Jee La Leya](https://open.spotify.com/track/4IK66CIBMmtZ4mDpLzo4U6) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jee La Leya](https://open.spotify.com/album/4XBFEzjFChMDCkxSEPmo5x) | 2:55 | 2024-11-28 | 2024-12-11 |
 | [Jigra](https://open.spotify.com/track/4PlWvbhxBHxUbeAKyX5rVh) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:37 | 2023-07-18 | 2024-01-31 |
-| [Jigre](https://open.spotify.com/track/2GUYaTIMOweN2qrpHbSQJS) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Shxxn](https://open.spotify.com/artist/2e7MteHx8L5XYlCa52qJnE) | [Jigre](https://open.spotify.com/album/78wnbPyqE9Bk5kj0ZHggmy) | 2:58 | 2026-01-23 |  |
+| [Jigre](https://open.spotify.com/track/2GUYaTIMOweN2qrpHbSQJS) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Shxxn](https://open.spotify.com/artist/2e7MteHx8L5XYlCa52qJnE) | [Jigre](https://open.spotify.com/album/78wnbPyqE9Bk5kj0ZHggmy) | 2:58 | 2026-01-23 | 2026-02-26 |
 | [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 | 2024-10-09 |
 | [JUST DANCE](https://open.spotify.com/track/5IRU4LPylqFkkCFHkGr9FE) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [MOODBOARD](https://open.spotify.com/album/0dEWzhpR6tABssev2QxWDT) | 2:28 | 2025-08-07 | 2025-08-22 |
 | [K Million](https://open.spotify.com/track/2PF5MO5PEtJ3K40bacZACB) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [K Million](https://open.spotify.com/album/07yt4l5Xw6qh1PIA39tC42) | 2:48 | 2025-08-13 | 2025-09-20 |

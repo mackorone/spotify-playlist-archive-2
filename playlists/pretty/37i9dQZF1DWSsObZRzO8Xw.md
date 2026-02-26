@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: eleventwelfth
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,988 likes - 130 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,046 likes - 130 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 71 | [Beow](https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab) | [Suffer Like G Did](https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf) | [Beow](https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl) | 3:28 |
 | 72 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
 | 73 | [Have You Ever Seen Milk](https://open.spotify.com/track/4Q0XClBarblfHusW6dzFIE) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Health](https://open.spotify.com/album/6aBLOoBnvopfwq7PaZ9LUx) | 6:29 |
-| 74 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
-| 75 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
+| 74 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
+| 75 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
 | 76 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 77 | [What Is Your Landmass](https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [As Seen from Above](https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX) | 2:54 |
 | 78 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
-| 79 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
-| 80 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 |
+| 79 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 |
+| 80 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
 | 81 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
 | 82 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |
 | 83 | [Alexander Supertramp](https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis) | [Bangladesh](https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF) | [Alexander Supertramp](https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj) | 4:37 |

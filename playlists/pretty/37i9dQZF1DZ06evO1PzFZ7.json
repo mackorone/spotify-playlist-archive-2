@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152037,
+  "num_followers": 152036,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZuYgAAAAAB+j2oX+5mkK4uGePrQvpL5",
+  "snapshot_id": "aZzqAAAAAABPbMTYKYO+iL3UeTfELNSv",
   "tracks": [
     {
       "added_at": null,
@@ -678,11 +678,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     },
     {
       "added_at": null,
@@ -723,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gotitas Saladas",
-        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
       "artists": [
         {
@@ -732,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 203021,
-      "name": "Gotitas Saladas",
-      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
     },
     {
       "added_at": null,
@@ -746,15 +750,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "added_at": null,

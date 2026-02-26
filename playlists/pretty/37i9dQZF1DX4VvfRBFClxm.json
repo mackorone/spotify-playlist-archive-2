@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1466550,
+  "num_followers": 1466562,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "MEAN!",
         "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 143960,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "S.O.S.: Save Our Soul",
-        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
+        "name": "New Rules (Acoustic)",
+        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
       },
       "artists": [
         {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 278146,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
+      "duration_ms": 213436,
+      "name": "New Rules - Acoustic",
+      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "New Rules (Acoustic)",
-        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
+        "name": "S.O.S.: Save Our Soul",
+        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
         }
       ],
-      "duration_ms": 213436,
-      "name": "New Rules - Acoustic",
-      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
+      "duration_ms": 278146,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Tee Shirt",
-        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Tee Shirt - Soundtrack Version",
-      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Mercy (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 221200,
       "name": "Mercy - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Tee Shirt",
+        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Tee Shirt - Soundtrack Version",
+      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify, London)",
         "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Por Favor",
-        "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Cassidy",
-      "url": "https://open.spotify.com/track/2JR7RCUN6pZIoyNzaqxdUa"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Once In a While (Acoustic)",
         "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 231582,
       "name": "Once In a While - Acoustic",
       "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Por Favor",
+        "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Cassidy",
+      "url": "https://open.spotify.com/track/2JR7RCUN6pZIoyNzaqxdUa"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Craving (Acoustic)",
         "url": "https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 226240,
       "name": "Craving - Acoustic Version",
       "url": "https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
