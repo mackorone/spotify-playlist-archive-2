@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 186673,
       "name": "10:30",
       "url": "https://open.spotify.com/track/5GRP3fOiczysJeKsREk3NE"
@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180000,
       "name": "50 Bro's (Tweemans)",
       "url": "https://open.spotify.com/track/66Yys0SfboOeIFVXl80O2T"
@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/6aXLk4I0vYBcGjAp11Clfj"
+      },
+      "artists": [
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107443,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/0FgZJIyEzNEJdeeHbRDIe4"
+    },
+    {
+      "album": {
         "name": "SummerPack",
         "url": "https://open.spotify.com/album/3Eo4fhEIk0ysenx3REaveM"
       },
@@ -1228,6 +1246,24 @@
       "duration_ms": 200904,
       "name": "CHAMPIONS LEAGUE (feat. Chivv)",
       "url": "https://open.spotify.com/track/4CMEBMzz8j1jz4s0c3ftxZ"
+    },
+    {
+      "album": {
+        "name": "CHOSSEL BABY",
+        "url": "https://open.spotify.com/album/5XqJtZNvt8GUAfxTZp5u8c"
+      },
+      "artists": [
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152946,
+      "name": "CHOSSEL BABY",
+      "url": "https://open.spotify.com/track/6igUXLlbjCE1mocZR7048w"
     },
     {
       "album": {
@@ -1887,6 +1923,28 @@
     },
     {
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
+    },
+    {
+      "album": {
         "name": "feelings",
         "url": "https://open.spotify.com/album/7dSubBkrzYpTIhNyNnnD3e"
       },
@@ -2042,6 +2100,28 @@
       "duration_ms": 143617,
       "name": "Friss",
       "url": "https://open.spotify.com/track/26y8MJMucjn9jzCE7mHSKK"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118403,
+      "name": "Fysio",
+      "url": "https://open.spotify.com/track/5kSdTWUvY0Pqx2svJ6Q3ss"
     },
     {
       "album": {
@@ -3287,6 +3367,36 @@
     },
     {
       "album": {
+        "name": "Kraslot",
+        "url": "https://open.spotify.com/album/5UIAIc3JgDiIa53hPhef4O"
+      },
+      "artists": [
+        {
+          "name": "Drechter",
+          "url": "https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj"
+        },
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        },
+        {
+          "name": "JayEliano",
+          "url": "https://open.spotify.com/artist/1cKw3DLJk6yhRbSjsiv0Re"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kraslot",
+      "url": "https://open.spotify.com/track/1joA71Sm3YHfHA8kjAIJk4"
+    },
+    {
+      "album": {
         "name": "Grijze",
         "url": "https://open.spotify.com/album/4J0OXItwOZUFT4QXPu18dw"
       },
@@ -4052,7 +4162,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 125684,
       "name": "MOCRO MAFFIA",
       "url": "https://open.spotify.com/track/6H9OaYy3fL3etUx7iAaQ39"
@@ -4304,7 +4414,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 198485,
       "name": "Navigatie \u2013 Freestyle #2",
       "url": "https://open.spotify.com/track/5IFIK55onVh7sonND8yWFX"
@@ -5030,7 +5140,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180754,
       "name": "Pasje",
       "url": "https://open.spotify.com/track/3g4pObI6su3KsbOAdosPVm"
@@ -5361,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194221,
+      "name": "Psycholoog",
+      "url": "https://open.spotify.com/track/3LiNpN9qg5p2wJAnQum1Yt"
+    },
+    {
+      "album": {
         "name": "Purosangue",
         "url": "https://open.spotify.com/album/1xJvxHbK2fPTbPPvI2WqXl"
       },
@@ -5456,7 +5584,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 188516,
       "name": "Rodney",
       "url": "https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o"
@@ -5789,6 +5917,32 @@
     },
     {
       "album": {
+        "name": "Shoulder Lean",
+        "url": "https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154310,
+      "name": "Shoulder Lean",
+      "url": "https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP"
+    },
+    {
+      "album": {
         "name": "Fresh Prince Van Noord Deluxe",
         "url": "https://open.spotify.com/album/0I8EbLqQri54Ol6ywVEQ3x"
       },
@@ -5844,7 +5998,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 135211,
       "name": "SKYEINDY",
       "url": "https://open.spotify.com/track/3yGBnT8VokFV1qYhp1t8lo"
@@ -6294,7 +6448,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 154000,
       "name": "This Life",
       "url": "https://open.spotify.com/track/6xfElTPLOarnO35HNSUYol"
@@ -6382,6 +6536,24 @@
       "duration_ms": 225312,
       "name": "To the Max",
       "url": "https://open.spotify.com/track/5XjhvR5rKcug7q8DKyxzlm"
+    },
+    {
+      "album": {
+        "name": "Toedels!",
+        "url": "https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf"
+      },
+      "artists": [
+        {
+          "name": "Cor",
+          "url": "https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172251,
+      "name": "Toedels!",
+      "url": "https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg"
     },
     {
       "album": {

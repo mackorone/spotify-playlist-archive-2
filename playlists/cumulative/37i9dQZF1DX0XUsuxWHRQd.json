@@ -27145,6 +27145,32 @@
     },
     {
       "album": {
+        "name": "Mista Don't Play: Everythangs Workin",
+        "url": "https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw"
+      },
+      "artists": [
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Namond Lumpkin",
+          "url": "https://open.spotify.com/artist/4s8NUFZU7vQ5s4yT3paDpw"
+        },
+        {
+          "name": "Edgar Fletcher",
+          "url": "https://open.spotify.com/artist/0A9t7hQJTPECh5yinJPwb0"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254373,
+      "name": "Life We Live (feat. Namond Lumpkin & Edgar Fletcher)",
+      "url": "https://open.spotify.com/track/3A4S0o95OxSgRbqEnEMsn4"
+    },
+    {
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
       },

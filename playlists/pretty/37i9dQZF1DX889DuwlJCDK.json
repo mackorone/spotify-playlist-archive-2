@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u6c34\u5e73\u7dda",
-  "num_followers": 21779,
+  "num_followers": 21786,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "\u30df\u30b9\u30fb\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/0CYzd1sMB9BSLfl1o4lmQU"
-      },
-      "artists": [
-        {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "\u5915\u7a7a",
-      "url": "https://open.spotify.com/track/6XbeoVuZXIqcK2y3KgDUYw"
-    },
-    {
-      "added_at": "2026-02-24 16:19:26",
-      "album": {
         "name": "\u30ec\u30e2\u30f3\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/5JqtmZMMzMBNvEXJVM9LjD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 228766,
       "name": "\u30ec\u30e2\u30f3\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3i8Qdz9u9vS1Hv9VGbhbwa"
+    },
+    {
+      "added_at": "2026-02-24 16:19:26",
+      "album": {
+        "name": "\u30df\u30b9\u30fb\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/0CYzd1sMB9BSLfl1o4lmQU"
+      },
+      "artists": [
+        {
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "\u5915\u7a7a",
+      "url": "https://open.spotify.com/track/6XbeoVuZXIqcK2y3KgDUYw"
     },
     {
       "added_at": "2026-02-24 16:19:26",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/0qLdA1qsMczkAI1zbLon9x"
-      },
-      "artists": [
-        {
-          "name": "\u3064\u304d\u307f",
-          "url": "https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq"
-        }
-      ],
-      "duration_ms": 228286,
-      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1GWxuJLpa3ezQa1qym3hi2"
-    },
-    {
-      "added_at": "2026-02-24 16:19:26",
-      "album": {
         "name": "Waruihito",
         "url": "https://open.spotify.com/album/6Z3QXH7reG3pihAN393Btq"
       },
@@ -1231,34 +1215,18 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "\u4e16\u754c\u306e\u7a93\u969b\u304b\u3089 e.p",
-        "url": "https://open.spotify.com/album/6tbhnHfNrokdjDMd0vNiRc"
+        "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/0qLdA1qsMczkAI1zbLon9x"
       },
       "artists": [
         {
-          "name": "\u7a93\u969b\u307c\u3063\u3061\u5036\u697d\u90e8",
-          "url": "https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ"
+          "name": "\u3064\u304d\u307f",
+          "url": "https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq"
         }
       ],
-      "duration_ms": 172000,
-      "name": "\u73fe\u5b9f\u3068\u3044\u3046\u540d\u306e\u30a2\u30d7\u30ea",
-      "url": "https://open.spotify.com/track/5lmB0MuDe4y5ObJJHTaufj"
-    },
-    {
-      "added_at": "2026-02-24 16:19:26",
-      "album": {
-        "name": "Headbang Baby",
-        "url": "https://open.spotify.com/album/6hGyEHIAeuK7ZsNeuUcnoQ"
-      },
-      "artists": [
-        {
-          "name": "EMNW",
-          "url": "https://open.spotify.com/artist/0TwqpQOStb1pMXxlGWFYxZ"
-        }
-      ],
-      "duration_ms": 199900,
-      "name": "Headbang Baby",
-      "url": "https://open.spotify.com/track/0LisHA2tKWn63kuD1FE2BP"
+      "duration_ms": 228286,
+      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1GWxuJLpa3ezQa1qym3hi2"
     },
     {
       "added_at": "2026-02-24 16:19:26",
@@ -1279,6 +1247,38 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
+        "name": "Headbang Baby",
+        "url": "https://open.spotify.com/album/6hGyEHIAeuK7ZsNeuUcnoQ"
+      },
+      "artists": [
+        {
+          "name": "EMNW",
+          "url": "https://open.spotify.com/artist/0TwqpQOStb1pMXxlGWFYxZ"
+        }
+      ],
+      "duration_ms": 199900,
+      "name": "Headbang Baby",
+      "url": "https://open.spotify.com/track/0LisHA2tKWn63kuD1FE2BP"
+    },
+    {
+      "added_at": "2026-02-24 16:19:26",
+      "album": {
+        "name": "\u4e16\u754c\u306e\u7a93\u969b\u304b\u3089 e.p",
+        "url": "https://open.spotify.com/album/6tbhnHfNrokdjDMd0vNiRc"
+      },
+      "artists": [
+        {
+          "name": "\u7a93\u969b\u307c\u3063\u3061\u5036\u697d\u90e8",
+          "url": "https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u73fe\u5b9f\u3068\u3044\u3046\u540d\u306e\u30a2\u30d7\u30ea",
+      "url": "https://open.spotify.com/track/5lmB0MuDe4y5ObJJHTaufj"
+    },
+    {
+      "added_at": "2026-02-24 16:19:26",
+      "album": {
         "name": "Try add",
         "url": "https://open.spotify.com/album/1aioqtEvsaxZXgzfRiuFLu"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "JUST",
-        "url": "https://open.spotify.com/album/5d8WCGbijeDvWADfZBMvNZ"
-      },
-      "artists": [
-        {
-          "name": "Bray me",
-          "url": "https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h"
-        }
-      ],
-      "duration_ms": 239050,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/1f4iyIH0FXg1oku5JJkC0N"
-    },
-    {
-      "added_at": "2026-02-24 16:19:26",
-      "album": {
         "name": "\u30ad\u30b9\u3057\u3066\u307b\u3057\u3044",
         "url": "https://open.spotify.com/album/49mlCBCLM2OhTNnUkPvDay"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 179050,
       "name": "\u30ad\u30b9\u3057\u3066\u307b\u3057\u3044",
       "url": "https://open.spotify.com/track/2fHQfko2gx7Hgzj5sjPg4o"
+    },
+    {
+      "added_at": "2026-02-24 16:19:26",
+      "album": {
+        "name": "JUST",
+        "url": "https://open.spotify.com/album/5d8WCGbijeDvWADfZBMvNZ"
+      },
+      "artists": [
+        {
+          "name": "Bray me",
+          "url": "https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h"
+        }
+      ],
+      "duration_ms": 239050,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/1f4iyIH0FXg1oku5JJkC0N"
     },
     {
       "added_at": "2026-02-24 16:19:26",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "\u5360\u3044\u305f\u3044\u3063\uff01",
-        "url": "https://open.spotify.com/album/0Z7AfFQIwR8pRkBZLJLEFn"
+        "name": "\u30a2\u30a4\u30b9\u30af\u30ea\u30a3\u30e0\u30e2\u30a9\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/50gL9XLh8QrYMx2gvB6M8V"
       },
       "artists": [
         {
-          "name": "\u4e09\u56db\u5c11\u5973",
-          "url": "https://open.spotify.com/artist/5vvyC8VELrIam8i6hKfyBS"
+          "name": "Slump Girl",
+          "url": "https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15"
         }
       ],
-      "duration_ms": 264983,
-      "name": "\u5360\u3044\u305f\u3044\u3063\uff01",
-      "url": "https://open.spotify.com/track/5rHgmWM65vFy5b0lk3O5Eu"
+      "duration_ms": 236643,
+      "name": "\u30a2\u30a4\u30b9\u30af\u30ea\u30a3\u30e0\u30e2\u30a9\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/74lJ5aY2fJXdF6lEkubn01"
     },
     {
       "added_at": "2026-02-24 16:19:26",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "\u30a2\u30a4\u30b9\u30af\u30ea\u30a3\u30e0\u30e2\u30a9\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/50gL9XLh8QrYMx2gvB6M8V"
+        "name": "\u5360\u3044\u305f\u3044\u3063\uff01",
+        "url": "https://open.spotify.com/album/0Z7AfFQIwR8pRkBZLJLEFn"
       },
       "artists": [
         {
-          "name": "Slump Girl",
-          "url": "https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15"
+          "name": "\u4e09\u56db\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/5vvyC8VELrIam8i6hKfyBS"
         }
       ],
-      "duration_ms": 236643,
-      "name": "\u30a2\u30a4\u30b9\u30af\u30ea\u30a3\u30e0\u30e2\u30a9\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/74lJ5aY2fJXdF6lEkubn01"
+      "duration_ms": 264983,
+      "name": "\u5360\u3044\u305f\u3044\u3063\uff01",
+      "url": "https://open.spotify.com/track/5rHgmWM65vFy5b0lk3O5Eu"
     },
     {
       "added_at": "2026-02-24 16:19:26",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "\u30d5\u30ea\u30fc\u30b8\u30a2\u30f3",
-        "url": "https://open.spotify.com/album/343MdGEvG3952q0XF3hI2z"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30ea\u30fc\u30b8\u30a2\u30f3",
-          "url": "https://open.spotify.com/artist/503GZq7ekQt3VgeUZ946ef"
-        }
-      ],
-      "duration_ms": 149900,
-      "name": "\u30d5\u30ea\u30fc\u30b8\u30a2\u30f3",
-      "url": "https://open.spotify.com/track/1pEahhRcunifTujLUbk7mk"
-    },
-    {
-      "added_at": "2026-02-24 16:19:26",
-      "album": {
         "name": "\u6688\u3051\u305f\u8133",
         "url": "https://open.spotify.com/album/5dY0zPIrlsjiks7ErbRSL5"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 284531,
       "name": "\u6688\u3051\u305f\u8133",
       "url": "https://open.spotify.com/track/4J6fyg0vmnorwHMvr6E4Nw"
+    },
+    {
+      "added_at": "2026-02-24 16:19:26",
+      "album": {
+        "name": "\u30d5\u30ea\u30fc\u30b8\u30a2\u30f3",
+        "url": "https://open.spotify.com/album/343MdGEvG3952q0XF3hI2z"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ea\u30fc\u30b8\u30a2\u30f3",
+          "url": "https://open.spotify.com/artist/503GZq7ekQt3VgeUZ946ef"
+        }
+      ],
+      "duration_ms": 149900,
+      "name": "\u30d5\u30ea\u30fc\u30b8\u30a2\u30f3",
+      "url": "https://open.spotify.com/track/1pEahhRcunifTujLUbk7mk"
     },
     {
       "added_at": "2026-02-24 16:19:26",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-24 16:19:26",
       "album": {
-        "name": "\u307e\u3060\u9078\u3070\u308c\u3066\u3044\u306a\u3044\u50d5\u3089\u3078",
-        "url": "https://open.spotify.com/album/5JR74OWjWDCl9cjOJazzxg"
-      },
-      "artists": [
-        {
-          "name": "\u5b9f\u6765",
-          "url": "https://open.spotify.com/artist/4TufRbB2y5COx24iXhKDYh"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "\u307e\u3060\u9078\u3070\u308c\u3066\u3044\u306a\u3044\u50d5\u3089\u3078",
-      "url": "https://open.spotify.com/track/3wiJTrKBbmjr5hBKoeMZvL"
-    },
-    {
-      "added_at": "2026-02-24 16:19:26",
-      "album": {
         "name": "Inside Game",
         "url": "https://open.spotify.com/album/26tQMudbKubkWqP0uD738r"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 180231,
       "name": "Inside Game",
       "url": "https://open.spotify.com/track/5o6dNPA5i5ABKGvpaY18qx"
+    },
+    {
+      "added_at": "2026-02-24 16:19:26",
+      "album": {
+        "name": "\u30a4\u30c3\u30c4\u30aa\u30fc\u30eb\u30e9\u30a4\u30c8\uff01",
+        "url": "https://open.spotify.com/album/0wFSYJiz3o4TkqTzuKQ19b"
+      },
+      "artists": [
+        {
+          "name": "THE BOYS&GIRLS",
+          "url": "https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T"
+        }
+      ],
+      "duration_ms": 225856,
+      "name": "\u30a4\u30c3\u30c4\u30aa\u30fc\u30eb\u30e9\u30a4\u30c8\uff01",
+      "url": "https://open.spotify.com/track/7GtOeNmvrEuzTc97wI18By"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

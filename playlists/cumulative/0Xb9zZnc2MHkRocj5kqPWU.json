@@ -6033,24 +6033,6 @@
     },
     {
       "album": {
-        "name": "Mozart Paradox",
-        "url": "https://open.spotify.com/album/0G8kmLl872QJc2dBIxwCGN"
-      },
-      "artists": [
-        {
-          "name": "Thomas Enhco",
-          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
-        }
-      ],
-      "date_added": "2025-07-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276000,
-      "name": "Piano Sonata in A major",
-      "url": "https://open.spotify.com/track/2YU0wP7NCBWasA1O205I5q"
-    },
-    {
-      "album": {
         "name": "Piano Sonata in A major",
         "url": "https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu"
       },
@@ -6066,6 +6048,24 @@
       "duration_ms": 276000,
       "name": "Piano Sonata in A major",
       "url": "https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF"
+    },
+    {
+      "album": {
+        "name": "Mozart Paradox",
+        "url": "https://open.spotify.com/album/0G8kmLl872QJc2dBIxwCGN"
+      },
+      "artists": [
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Piano Sonata in A Major (After the First Movement of Piano Sonata No. 11 in A Major, K. 331) [Arr. for Piano Solo by T. Enhco]",
+      "url": "https://open.spotify.com/track/2YU0wP7NCBWasA1O205I5q"
     },
     {
       "album": {

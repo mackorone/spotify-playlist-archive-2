@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166842,
+  "num_followers": 166850,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176159,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Sinners (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 314906,
       "name": "I Lied to You",
       "url": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Let The Church Sing",
         "url": "https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 210054,
-      "name": "Everything Is Peaceful Love",
-      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1395,6 +1379,22 @@
       "duration_ms": 233562,
       "name": "As Alive As You Need Me To Be",
       "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Cowboys And Dreamers",
-        "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Honky Tonk Hall Of Fame",
-      "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "CORITOS Vol. 1",
         "url": "https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 576916,
       "name": "Coritos de Fuego",
       "url": "https://open.spotify.com/track/5lwcDrXrC1npHBasWkeQT6"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Cowboys And Dreamers",
+        "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Honky Tonk Hall Of Fame",
+      "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "EUB DELUXE",
-        "url": "https://open.spotify.com/album/1XCqLkq4DKi1rfcVWG5PY0"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 183910,
-      "name": "CRUZ",
-      "url": "https://open.spotify.com/track/1QOc7M6q10UilnJOGu3KFh"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Wild and Clear and Blue",
         "url": "https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 214762,
       "name": "Ancient Light",
       "url": "https://open.spotify.com/track/7zW1oZZy5m8zpJZfRfwGKv"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "EUB DELUXE",
+        "url": "https://open.spotify.com/album/1XCqLkq4DKi1rfcVWG5PY0"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 183910,
+      "name": "CRUZ",
+      "url": "https://open.spotify.com/track/1QOc7M6q10UilnJOGu3KFh"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Heart & Soul",
-        "url": "https://open.spotify.com/album/5WvviNYHAOcmqqk2MYhXw3"
+        "name": "BLXXD & FYAH",
+        "url": "https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "Keznamdi",
+          "url": "https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60"
         }
       ],
-      "duration_ms": 181894,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD"
+      "duration_ms": 139906,
+      "name": "Serious Times",
+      "url": "https://open.spotify.com/track/7it0fDiLEGPQYJwZoLgA7U"
     },
     {
       "added_at": "2025-11-12 17:50:29",

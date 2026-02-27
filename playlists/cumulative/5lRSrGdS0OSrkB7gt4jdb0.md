@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-64 songs - 3 hr 41 min
+65 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/7s6QbvQJVPh0VbfK7Pkwm7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [50 Years of the Piano Man](https://open.spotify.com/album/4nFLLh5qSlp2z2FuLpVERX) | 3:30 | 2022-05-06 |  |
 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 | 2024-12-07 |  |
 | [Not Quite Almost Christmas Time](https://open.spotify.com/track/4mAianxMp7W4tdUzO2n1Zc) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Not Quite Almost Christmas Time](https://open.spotify.com/album/4w2jz5EKlp9gViIxVSqvKF) | 3:11 | 2022-05-06 |  |
+| [Novocaine](https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:46 | 2026-02-26 |  |
 | [Oceanographer's Choice](https://open.spotify.com/track/53HgikeNYCtqNCKC0aHsej) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa) | 4:08 | 2024-12-04 |  |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2024-12-12 |  |
 | [School](https://open.spotify.com/track/2dHqn394dziubxaN5vuhy8) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 5:34 | 2024-09-19 |  |

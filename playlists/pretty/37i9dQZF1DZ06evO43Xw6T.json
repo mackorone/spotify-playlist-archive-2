@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 180999,
+  "num_followers": 181036,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADhP0xNlcWpPiaHvI8Hp33m",
+  "snapshot_id": "aZ47gAAAAABTuTGppAAzRZfFRo9AI+ll",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas",
-        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "CLEOPATRA",
-      "url": "https://open.spotify.com/track/6AnNmJG2OlQutOcfsE4B7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pienso En Ella",
         "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 159552,
       "name": "Pienso En Ella",
       "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/6AnNmJG2OlQutOcfsE4B7e"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCONDIDAS",
-        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 173034,
-      "name": "ESCONDIDAS",
-      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESCONDIDAS",
+        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 173034,
+      "name": "ESCONDIDAS",
+      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
     },
     {
       "added_at": null,
@@ -731,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BAYAM\u00d3N",
+        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Esteban Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "BAYAM\u00d3N",
+      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Pedo",
         "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 270328,
       "name": "REGALO DE DIOS",
       "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BAYAM\u00d3N",
-        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
-      },
-      "artists": [
-        {
-          "name": "Capo",
-          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Esteban Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "BAYAM\u00d3N",
-      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 189869,
-      "name": "SARGENTO",
-      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 169758,
       "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
       "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 189869,
+      "name": "SARGENTO",
+      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
     },
     {
       "added_at": null,

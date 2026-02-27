@@ -1,13 +1,29 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Eugene Racaza\n",
-  "num_followers": 71635,
+  "description": "Fresh releases from your future favorite artists. Cover: Seiya\n",
+  "num_followers": 71686,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHcaxQkBWZ0pr2tzYipef9Pp1dpy",
+  "snapshot_id": "AAAAALtZ6TlCC4tYeG4cJ80g8PgwacFl",
   "tracks": [
+    {
+      "added_at": "2026-02-26 16:00:28",
+      "album": {
+        "name": "Misay",
+        "url": "https://open.spotify.com/album/654DBQ2NdveN5NuyQq8203"
+      },
+      "artists": [
+        {
+          "name": "Seiya",
+          "url": "https://open.spotify.com/artist/07yCIOd67torzVSgDgDPU8"
+        }
+      ],
+      "duration_ms": 239674,
+      "name": "Misay",
+      "url": "https://open.spotify.com/track/4MKX6j3m2v6mWuXoU35b7s"
+    },
     {
       "added_at": "2026-02-12 16:00:35",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 196000,
       "name": "King of Sadtown",
       "url": "https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT"
+    },
+    {
+      "added_at": "2026-02-12 16:00:35",
+      "album": {
+        "name": "Na Para Bang",
+        "url": "https://open.spotify.com/album/6sA8ASBXrpBIO11PfAnlp1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "duration_ms": 228131,
+      "name": "Na Para Bang",
+      "url": "https://open.spotify.com/track/0iiCLCYke4dscHvr5SaPrH"
+    },
+    {
+      "added_at": "2026-02-05 16:00:36",
+      "album": {
+        "name": "ilaw ng buwan",
+        "url": "https://open.spotify.com/album/1shwpOWVTxQCtngpQnJaoY"
+      },
+      "artists": [
+        {
+          "name": "FENDER",
+          "url": "https://open.spotify.com/artist/3INW0EOV0w9NyMM3TxbFUO"
+        }
+      ],
+      "duration_ms": 224861,
+      "name": "ilaw ng buwan",
+      "url": "https://open.spotify.com/track/2DgdMoMM91q0sG41AajVPX"
     },
     {
       "added_at": "2026-02-12 16:00:35",
@@ -79,22 +127,6 @@
     {
       "added_at": "2026-02-12 16:00:35",
       "album": {
-        "name": "Na Para Bang",
-        "url": "https://open.spotify.com/album/6sA8ASBXrpBIO11PfAnlp1"
-      },
-      "artists": [
-        {
-          "name": "Mariah Deborah",
-          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
-        }
-      ],
-      "duration_ms": 228131,
-      "name": "Na Para Bang",
-      "url": "https://open.spotify.com/track/0iiCLCYke4dscHvr5SaPrH"
-    },
-    {
-      "added_at": "2026-02-12 16:00:35",
-      "album": {
         "name": "nahihiya, umaatras",
         "url": "https://open.spotify.com/album/17UZIIwGREcndutYeSQC4l"
       },
@@ -139,22 +171,6 @@
       "duration_ms": 210857,
       "name": "Aling Nena",
       "url": "https://open.spotify.com/track/71FhQiBcPUBfSpyDrHSMwB"
-    },
-    {
-      "added_at": "2026-02-05 16:00:36",
-      "album": {
-        "name": "ilaw ng buwan",
-        "url": "https://open.spotify.com/album/1shwpOWVTxQCtngpQnJaoY"
-      },
-      "artists": [
-        {
-          "name": "FENDER",
-          "url": "https://open.spotify.com/artist/3INW0EOV0w9NyMM3TxbFUO"
-        }
-      ],
-      "duration_ms": 224861,
-      "name": "ilaw ng buwan",
-      "url": "https://open.spotify.com/track/2DgdMoMM91q0sG41AajVPX"
     },
     {
       "added_at": "2026-02-05 16:00:36",

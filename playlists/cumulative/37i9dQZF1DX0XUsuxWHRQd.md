@@ -4,7 +4,7 @@
 
 > New music from Baby Keem, Central Cee and Don Toliver.
 
-2,667 songs - 5 day 18 hr 21 min
+2,668 songs - 5 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1294,6 +1294,7 @@
 | [Life Of Mr\. Carter](https://open.spotify.com/track/0EzUUIfVPuzzNXEEU9CxU9) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter V \(Deluxe\)](https://open.spotify.com/album/4ljsev5vUnwB2BUFAMvwwy) | 3:40 | 2020-09-25 | 2020-10-09 |
 | [Life Of The Party \(with André 3000\)](https://open.spotify.com/track/2yBb1CRq98SSWRuDSn36SZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 6:31 | 2021-11-16 | 2021-11-27 |
 | [Life Support](https://open.spotify.com/track/0zLbwjpP1Xea8bv4tvoAds) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell Tracks](https://open.spotify.com/album/1gVa7pOEzPblaAJ0rhSVVu) | 3:53 | 2021-09-11 | 2021-11-14 |
+| [Life We Live \(feat\. Namond Lumpkin & Edgar Fletcher\)](https://open.spotify.com/track/3A4S0o95OxSgRbqEnEMsn4) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Namond Lumpkin](https://open.spotify.com/artist/4s8NUFZU7vQ5s4yT3paDpw), [Edgar Fletcher](https://open.spotify.com/artist/0A9t7hQJTPECh5yinJPwb0) | [Mista Don't Play: Everythangs Workin](https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw) | 4:14 | 2026-02-26 |  |
 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 | 2024-06-06 | 2024-06-08 |
 | [Lifetime](https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lifetime](https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb) | 2:15 | 2022-04-08 | 2022-04-16 |
 | [Light Year \(Practice\)](https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:44 | 2024-11-22 | 2024-11-30 |

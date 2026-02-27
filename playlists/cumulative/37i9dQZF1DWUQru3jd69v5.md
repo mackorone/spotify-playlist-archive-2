@@ -2,9 +2,9 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> Kuremino in cover della playlist con il futuro del rap italiano 📈
+> Nabi in cover della playlist con il futuro del rap italiano 📈
 
-2,286 songs - 4 day 0 hr 38 min
+2,287 songs - 4 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1719,7 +1719,7 @@
 | [RainMan](https://open.spotify.com/track/0N02e1qf0mRMiJnRedzXKc) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [RainMan](https://open.spotify.com/album/5dYTGxy5K8H7RgD8xbxi5e) | 2:57 | 2022-08-26 | 2022-09-16 |
 | [Rame](https://open.spotify.com/track/1BVOgvigFRjWvmo1MIYEDa) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Rame](https://open.spotify.com/album/6nla5FUuCdCDsU6KgHFr9k) | 2:29 | 2023-05-25 | 2023-06-02 |
 | [Range Rover](https://open.spotify.com/track/0pLavGsB5ZqeQzcR2LDuXx) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [Range Rover](https://open.spotify.com/album/0TaULo5su8az6DvUZAkFG3) | 2:38 | 2022-11-24 | 2023-01-27 |
-| [RAPPER \(feat\. Flaco G\)](https://open.spotify.com/track/6Roni9ASPjKcY7DYz7LAAh) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 2:50 | 2026-02-12 |  |
+| [RAPPER \(feat\. Flaco G\)](https://open.spotify.com/track/6Roni9ASPjKcY7DYz7LAAh) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 2:50 | 2026-02-12 | 2026-02-27 |
 | [RAPTOR](https://open.spotify.com/track/1eSIww3FeZYxwCu3u3tkVR) | [Astro Centauri](https://open.spotify.com/artist/027y7WtCHLPyUJr50Q0p6E), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [RAPTOR](https://open.spotify.com/album/06iK8SVSFFChu6hGDuBRMT) | 2:12 | 2023-03-16 | 2023-04-14 |
 | [Ras](https://open.spotify.com/track/3evUxneGFhCcxdgHneAKbB) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [Ras](https://open.spotify.com/album/4Mu8BnijGhIZpq47xjyKW0) | 2:11 | 2024-05-02 | 2024-06-07 |
 | [RATATA](https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [RATATA](https://open.spotify.com/album/2wr4eGrYA8CzZ2VXUAxrNK) | 2:24 | 2023-08-24 | 2023-11-17 |
@@ -2178,6 +2178,7 @@
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-08-20 | 2024-10-04 |
 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 | 2023-06-15 | 2023-10-13 |
 | [Veleno \(feat\. Melons\)](https://open.spotify.com/track/6zrqFmqFfx2wfGB4Q0pwmQ) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [LIMITLESS](https://open.spotify.com/album/3KMc2fY6MgdjJ9OOR8NFP7) | 2:40 | 2026-01-13 | 2026-02-20 |
+| [VELENO \(feat\. Néza\)](https://open.spotify.com/track/0a4drTfDdtdqXu2qvFFll8) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 2:39 | 2026-02-26 |  |
 | [VELENOSA](https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [VELENOSA](https://open.spotify.com/album/5uITow6TE09bajpTaySfkY) | 2:23 | 2023-06-29 | 2023-07-14 |
 | [Vendetta Freestyle](https://open.spotify.com/track/7LfcI5izfeDK5wFSSpbgtz) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [Vendetta Freestyle](https://open.spotify.com/album/1p15Kg2ZLLc9ZVJyrsd59K) | 1:52 | 2024-11-21 | 2024-12-06 |
 | [Vene Blu](https://open.spotify.com/track/4TrVYq92rPUCGZBQ8jnCGe) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Vene Blu](https://open.spotify.com/album/6JdBWh0MIe5r0dHzaoeAQP) | 1:50 | 2025-11-27 | 2025-12-12 |

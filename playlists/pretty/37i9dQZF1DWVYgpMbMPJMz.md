@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Passion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,922 likes - 79 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,187 likes - 79 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 5 | [Break Open](https://open.spotify.com/track/7FGPDdVSHQ36b7jeHsDk26) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0ukSxSrrlKpSSOzeig5xKE) | 6:24 |
 | 6 | [Cling To The Cross](https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Cling To The Cross](https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY) | 4:08 |
 | 7 | [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 |
-| 8 | [God I'm Just Grateful](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
+| 8 | [God I'm Just Grateful \- Radio Version](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful \(Radio Version\)](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
 | 9 | [Help My Unbelief \- Acoustic](https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:26 |
 | 10 | [Just That Good](https://open.spotify.com/track/53fIGsvNyKO15Huu3nFnsK) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/29PYVen9YZ7QjjQoYQ6rze) | 3:44 |
 | 11 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |

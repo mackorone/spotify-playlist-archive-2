@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "Brick By Brick",
+        "url": "https://open.spotify.com/album/0X30EwgT0OaGGBTPJgYYGy"
+      },
+      "artists": [
+        {
+          "name": "Karma K",
+          "url": "https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199823,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/20hJR3U7Ar0WE7vQrl3iWp"
+    },
+    {
+      "album": {
         "name": "Cullinan",
         "url": "https://open.spotify.com/album/04MPrXHuTkaGeSVmtWp9j7"
       },
@@ -435,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Liever Alleen",
+        "url": "https://open.spotify.com/album/4Yamfa5h6uuFgs6xJtClDf"
+      },
+      "artists": [
+        {
+          "name": "Gior",
+          "url": "https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Liever Alleen",
+      "url": "https://open.spotify.com/track/0DwZRtAdpj1LXx7U3m3oko"
+    },
+    {
+      "album": {
         "name": "MULALA",
         "url": "https://open.spotify.com/album/7ykykZsyyh5fEVBmkkZZwc"
       },
@@ -552,7 +588,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 154603,
       "name": "Op De Strip",
       "url": "https://open.spotify.com/track/3rXvuORfigmA83I00PWbBQ"
@@ -582,6 +618,24 @@
       "duration_ms": 202830,
       "name": "Orkest",
       "url": "https://open.spotify.com/track/6YlSycjgTKCA3GQGgxjMhc"
+    },
+    {
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/5SYnYcGipW5R4kh1mpwhQt"
+      },
+      "artists": [
+        {
+          "name": "Joella T",
+          "url": "https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/3EQ8F3JNlCPvbmNgu2pwlb"
     },
     {
       "album": {

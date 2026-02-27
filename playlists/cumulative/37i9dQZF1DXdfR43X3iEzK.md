@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️<br/>cover: hannes
+> my alt/pop could mean anything ⚔️<br/>cover: bella kay
 
-595 songs - 1 day 8 hr 7 min
+599 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [digital emotional](https://open.spotify.com/track/2OjlCM4BoucwcJIqqeHwP0) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [digital emotional](https://open.spotify.com/album/3krbJzvRnqxeRUJrstAD4b) | 3:37 | 2025-03-21 | 2025-04-25 |
 | [Digital Sex](https://open.spotify.com/track/7CXKDR1R6chTmixAh6z3rY) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw), [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Digital Sex](https://open.spotify.com/album/4kAjksDn0vkkvIzUYWEkhy) | 2:17 | 2025-03-21 | 2025-04-04 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 | 2025-03-14 |
+| [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-02-27 |  |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-06-07 | 2025-03-08 |
 | [Do Not Go Gentle into Goodbyes](https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Anti\-People Pleaser, Pt\. 1](https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu) | 4:13 | 2025-03-14 | 2025-04-04 |
 | [Do Yourself A Favour](https://open.spotify.com/track/4MciVC2MmCsNofeQI6yrdX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Do Yourself A Favour](https://open.spotify.com/album/2jcI7VzkSVbC9CVnPozQyU) | 3:07 | 2025-07-10 | 2025-11-14 |
@@ -189,6 +190,7 @@
 | [Feel Anything](https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Feel Anything](https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a) | 2:42 | 2025-02-14 | 2025-03-28 |
 | [Feel My Feelings](https://open.spotify.com/track/0m2PIy7YXNPK44p7LRoFwA) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:44 | 2024-06-07 | 2024-07-14 |
 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 | 2025-05-15 | 2025-06-27 |
+| [Fine](https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Fine](https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh) | 3:21 | 2026-02-27 |  |
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-10 | 2025-06-27 |
 | [floater friend](https://open.spotify.com/track/2LOgNm6SUXZBiucfL3dBeT) | [cathrine doll](https://open.spotify.com/artist/34IHawqPllizVsoq3udkZE) | [floater friend](https://open.spotify.com/album/2T9SFX98jcl7690IzVok08) | 3:34 | 2025-11-07 | 2026-02-06 |
 | [Floods](https://open.spotify.com/track/4GHTJzG3FV8TptOoPJPoo2) | [Paige Bea](https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA) | [Flutters](https://open.spotify.com/album/0yG6w4iiylJyAGcR9TsdzZ) | 3:21 | 2025-04-03 | 2025-05-31 |
@@ -202,7 +204,7 @@
 | [front seat honey](https://open.spotify.com/track/5bwErSkWEn7erwob3o00d0) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:07 | 2025-03-21 | 2025-04-18 |
 | [Fuck It](https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w) | 2:16 | 2025-03-14 | 2025-04-04 |
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-10 | 2026-01-30 |
-| [G.OD](https://open.spotify.com/track/2KC52ALH0ecP7LIcmXpnXk) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [G.OD](https://open.spotify.com/album/2Xe4aBZ6KPeLR6or2K5IQP) | 4:00 | 2025-10-23 |  |
+| [G.OD](https://open.spotify.com/track/2KC52ALH0ecP7LIcmXpnXk) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [G.OD](https://open.spotify.com/album/2Xe4aBZ6KPeLR6or2K5IQP) | 4:00 | 2025-10-23 | 2026-02-27 |
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-10-10 | 2025-03-21 |
 | [GEEKS](https://open.spotify.com/track/5KSQlhN1qMNOP54pH3uR51) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [GEEKS](https://open.spotify.com/album/0Rj54qKAZOzwwW3msHk0u7) | 2:32 | 2026-02-20 |  |
 | [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 | 2025-07-17 | 2025-11-14 |
@@ -283,6 +285,7 @@
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-04-04 |
 | [if you're alone just let me know](https://open.spotify.com/track/5DGXfsIsoleOVD4zWEMJlB) | [si crisi](https://open.spotify.com/artist/44e3B4kDrg0Jl8lT04uRF1) | [endless conversation](https://open.spotify.com/album/5fw6jKofKEAz3X5ZmffKtt) | 2:28 | 2025-03-28 | 2025-04-04 |
 | [Iknowthatyoudontknow](https://open.spotify.com/track/07FVoLtva9AxVSDfTTyBle) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [Iknowthatyoudontknow](https://open.spotify.com/album/0FpGOUEYWoZVDtPfIgq839) | 1:57 | 2025-03-28 | 2025-04-18 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-02-27 |  |
 | [Imaginary](https://open.spotify.com/track/37XitqFfR3YiWf9x3NCGVz) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Imaginary](https://open.spotify.com/album/5KZHjC5BKfUqunElvrZk4x) | 3:20 | 2024-06-07 | 2024-08-09 |
 | [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 | 2025-11-28 |  |
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-10-10 | 2025-03-21 |
@@ -301,7 +304,7 @@
 | [It's you](https://open.spotify.com/track/7BMosyyfESXA8PoYJWm6N5) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [It's you](https://open.spotify.com/album/1XnIi6LnbvwXafL4gntBCD) | 2:50 | 2025-07-10 | 2025-10-03 |
 | [I’m sad and I’m angry and I’m scared that you hate me](https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Productive Pain](https://open.spotify.com/album/525ZS2Bwq3EgvyEtio5iHh) | 2:51 | 2025-03-07 | 2025-04-18 |
 | [JACKIN’ THE SYSTEM](https://open.spotify.com/track/0rJQhqLVu9phFCbhFwk0vp) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [JACKIN’ THE SYSTEM](https://open.spotify.com/album/4x38wTeIhE0eIdSCOtgJVL) | 3:08 | 2024-08-23 | 2024-10-11 |
-| [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 | 2025-09-11 |  |
+| [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 | 2025-09-11 | 2026-02-27 |
 | [Jennifer's Body](https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Jennifer's Body](https://open.spotify.com/album/1mOHFGk4ujYJT06VRxWfvL) | 2:32 | 2025-04-10 | 2025-05-23 |
 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 |  |
 | [Jim](https://open.spotify.com/track/4p5sL5mKAdMP0w4aAkUQY2) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Jim](https://open.spotify.com/album/2OkJPYBYQCTlRkzknoZTdF) | 4:49 | 2025-03-07 | 2025-04-11 |
@@ -393,7 +396,7 @@
 | [Nightmare\-1000](https://open.spotify.com/track/5AJFzzHaJSiog0iU61haCF) | [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Nightmare\-1000](https://open.spotify.com/album/1zOa3iFibeCxIv2LmyUN2n) | 4:30 | 2025-03-14 | 2025-03-28 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-10-10 | 2025-03-14 |
 | [Nosebleeds](https://open.spotify.com/track/1y8dE03i6y4c5wCODt4pxr) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Nosebleeds / Open Season](https://open.spotify.com/album/0RTlR2Q599mgWnBiR8jq2z) | 3:09 | 2025-03-21 | 2025-04-11 |
-| [Nosedive](https://open.spotify.com/track/7H5O0aoIWMU5rfGSqGzLDB) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Nosedive](https://open.spotify.com/album/1kgFz7lLSrIfQ9sEaNigdP) | 2:51 | 2025-11-28 |  |
+| [Nosedive](https://open.spotify.com/track/7H5O0aoIWMU5rfGSqGzLDB) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Nosedive](https://open.spotify.com/album/1kgFz7lLSrIfQ9sEaNigdP) | 2:51 | 2025-11-28 | 2026-02-27 |
 | [not getting along](https://open.spotify.com/track/2yZnzMCyLWvHB9YMGwKcAp) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [not getting along](https://open.spotify.com/album/1AOP4J43V30HpyhsxF2gWf) | 2:19 | 2025-07-24 | 2025-09-20 |
 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 | 2025-06-19 | 2025-10-10 |
 | [Now What?](https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Now What?](https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7) | 3:13 | 2025-04-17 | 2026-01-30 |
@@ -402,6 +405,7 @@
 | [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 | 2025-06-19 | 2025-08-22 |
 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-05-30 | 2025-07-11 |
 | [Old Me](https://open.spotify.com/track/6cuJsVA2GrUZDHP2cYnD1f) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Old Me](https://open.spotify.com/album/5WfbbIDRiUQOBQ2E6Sqi8g) | 3:37 | 2025-11-07 |  |
+| [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 | 2026-02-27 |  |
 | [omw2u](https://open.spotify.com/track/5rckGAJIVOXMYwkjl0LREw) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree \(more! there's more!\)](https://open.spotify.com/album/5C6ZbCBOEK4iAotPDFAXct) | 3:28 | 2025-03-28 | 2025-05-02 |
 | [On Fire](https://open.spotify.com/track/7uJgoGxsNfVqoMbjqfUBOG) | [Good Hugg](https://open.spotify.com/artist/2Hsyzkw6WlQxtJuuR0ZMct) | [Six Two](https://open.spotify.com/album/6c0V2xsysKghGWIu1TRH4r) | 3:11 | 2025-06-06 | 2025-08-22 |
 | [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Ste The Beautiful Martyr 1st Attempt](https://open.spotify.com/album/55QB0uS2Bp83KLN1qW5UGB) | 2:56 | 2025-05-01 | 2025-07-25 |
@@ -587,7 +591,7 @@
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-06-07 | 2024-07-13 |
 | [wild flower](https://open.spotify.com/track/4TchkLQGxjFlrPVnaQAKoK) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [in waves](https://open.spotify.com/album/6y1BndaDRT2FtLEHLg301e) | 4:10 | 2025-04-10 | 2025-05-23 |
 | [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 | 2024-10-10 | 2025-03-21 |
-| [Will You Think Of Me?](https://open.spotify.com/track/4hayZUGO3xFqhikvPyoVRg) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Will You Think Of Me?](https://open.spotify.com/album/4CVNnBnDDViyB1vs6QCsqK) | 3:09 | 2025-08-15 |  |
+| [Will You Think Of Me?](https://open.spotify.com/track/4hayZUGO3xFqhikvPyoVRg) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Will You Think Of Me?](https://open.spotify.com/album/4CVNnBnDDViyB1vs6QCsqK) | 3:09 | 2025-08-15 | 2026-02-27 |
 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 | 2024-06-07 | 2025-02-14 |
 | [Wishbone](https://open.spotify.com/track/3dB0KvsRNfSg3vv7l9JPam) | [Isaac Jones](https://open.spotify.com/artist/07Otr2GoEFP3sRUUXpYMQN) | [Wishbone](https://open.spotify.com/album/0Mq2xOwG0LAKVXBy7nBhWX) | 3:01 | 2025-03-28 | 2025-05-02 |
 | [Wolf River](https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Wolf River](https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx) | 3:41 | 2025-05-30 | 2025-07-11 |

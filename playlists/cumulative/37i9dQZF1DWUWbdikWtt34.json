@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Cincin Kepalsuan",
+        "url": "https://open.spotify.com/album/6Sjtc1kGTX45UfxOxqYZj8"
+      },
+      "artists": [
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336615,
+      "name": "Cincin Kepalsuan",
+      "url": "https://open.spotify.com/track/635cvp7jE8hZXu8F85Ek4f"
+    },
+    {
+      "album": {
         "name": "Cinta Dalam Khayalan",
         "url": "https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO"
       },
@@ -2854,6 +2872,24 @@
       "duration_ms": 293538,
       "name": "Matematika Cinta",
       "url": "https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw"
+    },
+    {
+      "album": {
+        "name": "Maunya Apa Sih?",
+        "url": "https://open.spotify.com/album/129lOLBQMRnOPWJcY8nC4e"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ali",
+          "url": "https://open.spotify.com/artist/4eBRdZqPrrm48UmWCYngha"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220443,
+      "name": "Maunya Apa Sih?",
+      "url": "https://open.spotify.com/track/5ztHGFd8hHMYPSGERevtOY"
     },
     {
       "album": {

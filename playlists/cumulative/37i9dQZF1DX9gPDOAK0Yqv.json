@@ -3549,6 +3549,28 @@
     },
     {
       "album": {
+        "name": "Distorted Love",
+        "url": "https://open.spotify.com/album/3zYXTglqvKAOFtbELVNpdJ"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Distorted Love",
+      "url": "https://open.spotify.com/track/7qhw9e6NTSdEQSnrVlWe0u"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO"
       },
@@ -4484,7 +4506,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195726,
       "name": "Enough",
       "url": "https://open.spotify.com/track/6CCMEOmpBDtetTzmP8if9o"
@@ -5906,7 +5928,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 402302,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
@@ -8248,7 +8270,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 205687,
       "name": "Kick It - Andrea Botez Remix",
       "url": "https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP"
@@ -9909,6 +9931,32 @@
     },
     {
       "album": {
+        "name": "Mind Illuminate",
+        "url": "https://open.spotify.com/album/1hC1LUMQUyiBYxCUbVDkt3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171825,
+      "name": "Mind Illuminate",
+      "url": "https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo"
+    },
+    {
+      "album": {
         "name": "Mind Trip",
         "url": "https://open.spotify.com/album/3rNc2OkY3q7FmEo3IVIl4I"
       },
@@ -10070,6 +10118,28 @@
       "duration_ms": 356307,
       "name": "Moi",
       "url": "https://open.spotify.com/track/3yDjQd0EVv0MCInujX8Hfh"
+    },
+    {
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5JbnxSY7fjom9WaIFwCZOV"
+      },
+      "artists": [
+        {
+          "name": "MERCY. MERCY. MERCY.",
+          "url": "https://open.spotify.com/artist/4dISa0JRkcDejaBcsloVin"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313846,
+      "name": "Moondance",
+      "url": "https://open.spotify.com/track/7wMsPOFTA3QZoJ4LRIvt0h"
     },
     {
       "album": {
@@ -12178,7 +12248,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 200440,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/60P2oWucNoN42kb80XRiaW"
@@ -13140,6 +13210,24 @@
       "duration_ms": 146490,
       "name": "Rondo",
       "url": "https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3"
+    },
+    {
+      "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174701,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx"
     },
     {
       "album": {

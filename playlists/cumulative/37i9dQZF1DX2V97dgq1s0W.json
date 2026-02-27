@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The voices shaping R&B. Cover: Tiana Major9",
+  "description": "The voices shaping R&B. Cover: kwn",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 170564,
       "name": "BROWN SUGAH",
       "url": "https://open.spotify.com/track/2lP4A3vu4O8SwZz1Tss6IC"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 158115,
       "name": "Hard Part (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
@@ -4236,6 +4236,24 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
+    },
+    {
+      "album": {
+        "name": "Honour / I Want In",
+        "url": "https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250152,
+      "name": "Honour",
+      "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
     },
     {
       "album": {
@@ -5575,6 +5593,24 @@
     },
     {
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/18rKM5MD8hCKyAQpAD0IJS"
+      },
+      "artists": [
+        {
+          "name": "Melina Malone",
+          "url": "https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192593,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/7xjD1xcqCBNyQq7nPPZ3vW"
+    },
+    {
+      "album": {
         "name": "LOML",
         "url": "https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf"
       },
@@ -6170,6 +6206,24 @@
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
+    },
+    {
+      "album": {
+        "name": "Mercenary",
+        "url": "https://open.spotify.com/album/3buDFufXTD8bf5s5SkKSGY"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139622,
+      "name": "Mercenary",
+      "url": "https://open.spotify.com/track/5s0l8YyXuAtX1OsKb5faoF"
     },
     {
       "album": {
@@ -6904,7 +6958,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 196270,
       "name": "NOT FAIR",
       "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"

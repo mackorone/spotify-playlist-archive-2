@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Dis\-moi oui" de SANTA est le Grand Hit de la semaine.
+> "Quand même" de M\. Pokora est le Grand Hit de la semaine.
 
-315 songs - 16 hr 9 min
+317 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Chez toi, chez moi](https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Chez toi, chez moi](https://open.spotify.com/album/5P5y6ZjwvDvVkn5VOekb2T) | 2:39 | 2024-07-11 | 2024-07-27 |
 | [Chiens](https://open.spotify.com/track/51qMciprNwFso3R3XioUUu) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chiens](https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG) | 3:02 | 2025-10-09 |  |
 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 | 2024-11-14 | 2025-06-27 |
-| [Coeur maladroit](https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt) | 2:40 | 2025-06-05 |  |
+| [Coeur maladroit](https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt) | 2:40 | 2025-06-05 | 2026-02-27 |
 | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC) | 3:22 | 2024-12-05 | 2025-06-27 |
 | [Comme toutes les filles](https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Comme toutes les filles](https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B) | 2:47 | 2025-12-18 |  |
 | [Comment on fait](https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Comment on fait](https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS) | 3:00 | 2023-09-28 | 2024-04-26 |
@@ -117,7 +117,7 @@
 | [Hey Bro](https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Hey Bro](https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD) | 2:30 | 2023-09-28 | 2024-04-19 |
 | [Holidays \- Ofenbach Rework](https://open.spotify.com/track/1tZQQot5H6wxWXiwsclT13) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Holidays \(Ofenbach Rework\)](https://open.spotify.com/album/3GoqRd7odk60LOJW8fvftD) | 2:26 | 2023-09-28 | 2024-01-26 |
 | [HORIZON](https://open.spotify.com/track/5RwpbhPihTkwqLWldaMTE1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/2qyAcVIZv3wwnmAUOIXInf) | 3:12 | 2023-09-28 | 2023-10-24 |
-| [HORS DU TEMPS](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [HORS DU TEMPS](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 | 2025-08-07 |  |
+| [HORS DU TEMPS](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [HORS DU TEMPS](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 | 2025-08-07 | 2026-02-27 |
 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 | 2024-10-10 | 2025-01-17 |
 | [Il faudrait](https://open.spotify.com/track/62raj97K1yOi8mk54SLohm) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Il faudrait](https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796) | 3:42 | 2023-10-05 | 2023-12-09 |
 | [Il y a](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 | 2023-12-07 | 2024-02-02 |
@@ -176,6 +176,7 @@
 | [Le chemin](https://open.spotify.com/track/2b8XJIr3d9XbNwwO2TXrgq) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 3:11 | 2024-04-04 | 2024-10-18 |
 | [Le chemin \(Lénie & Pierre\)](https://open.spotify.com/track/0N6vb3WsrfQqadaq7lWrnb) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/38uH901kwJKt0N1DkIextc) | 3:12 | 2024-02-15 | 2024-03-12 |
 | [Le chemin \(Lénie & Pierre\)](https://open.spotify.com/track/6QSNzAdn3lJeYtO3qynUUR) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:12 | 2024-03-07 | 2024-03-15 |
+| [Le choix](https://open.spotify.com/track/7ysVNnjg2Grayml3fkh7u3) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre..\. Encore](https://open.spotify.com/album/0WgiE58DiPwPyAfn8uKMHi) | 2:48 | 2026-02-26 |  |
 | [Le feu](https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/6XC68VDmRFxnFcybq2D0UP) | 3:57 | 2023-12-07 | 2024-03-01 |
 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-09-28 | 2023-12-09 |
 | [Le fou et le roi](https://open.spotify.com/track/7d1ZInihycTtV0pwkoiXI5) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Le fou et le roi](https://open.spotify.com/album/5NOoVKuN5JRv6t7HS3LMUp) | 3:22 | 2025-01-09 | 2025-01-31 |
@@ -281,6 +282,7 @@
 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 | 2024-09-05 | 2025-02-14 |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-28 | 2024-01-12 |
 | [Sincère](https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T) | 2:49 | 2025-02-06 | 2025-06-20 |
+| [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 | 2026-02-26 |  |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2025-01-09 | 2025-03-07 |
 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-06-26 |  |
 | [Sommet](https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Sommet](https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF) | 2:27 | 2024-07-18 | 2024-09-06 |

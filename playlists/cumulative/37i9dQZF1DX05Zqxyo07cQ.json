@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Apastron",
+        "url": "https://open.spotify.com/album/1bnZhYeL1Z2dNiFhD2o358"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Apastron",
+      "url": "https://open.spotify.com/track/2NoQByFcJqc2ztjhuufB5c"
+    },
+    {
+      "album": {
         "name": "Aphelia",
         "url": "https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93"
       },
@@ -10413,6 +10431,24 @@
     },
     {
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/6kf9gvPL57bb4rUAcxpEIq"
+      },
+      "artists": [
+        {
+          "name": "Drift three",
+          "url": "https://open.spotify.com/artist/5zNZGZ98YGTSbVHTAHUQZn"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/4oE9p4JvXJvnqTmGvVseIV"
+    },
+    {
+      "album": {
         "name": "Nebulith",
         "url": "https://open.spotify.com/album/4Y1DKGsMwxMEefEvwLhOG3"
       },
@@ -11306,7 +11342,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164190,
       "name": "Optometry",
       "url": "https://open.spotify.com/track/2pfEixutjM3M37Z1xolMCV"
@@ -17672,7 +17708,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 175408,
       "name": "\u00c1ureo",
       "url": "https://open.spotify.com/track/5TooMlsbZrt4LaLY454ncm"

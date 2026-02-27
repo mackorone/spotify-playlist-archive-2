@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14048,
+  "num_followers": 14056,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAilMZW9pIb4BnhFmBcycb1",
+  "snapshot_id": "aZ47gAAAAADTutVBQ/0/GeBe3azmXcge",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 223166,
-      "name": "Can't Let You Go",
-      "url": "https://open.spotify.com/track/0VePjMxhV52EBof5HD3lYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 172577,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 223166,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/0VePjMxhV52EBof5HD3lYM"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lavida Loca (feat. Lasmid)",
-        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "Lavida Loca (feat. Lasmid)",
-      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jamz",
         "url": "https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 206077,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0CE5rrrM0UqlbtVzDb4kTT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lavida Loca (feat. Lasmid)",
+        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "Lavida Loca (feat. Lasmid)",
+      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oluwa Ni (Wemi You)",
-        "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 197467,
-      "name": "Oluwa Ni (Wemi You)",
-      "url": "https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M3Gye Wo Girl",
         "url": "https://open.spotify.com/album/0Hj7mjkuVK8u6Lf4sGrV4t"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 206896,
       "name": "M3Gye Wo Girl",
       "url": "https://open.spotify.com/track/1GrasNMqiO24le1C5KTeKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oluwa Ni (Wemi You)",
+        "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 197467,
+      "name": "Oluwa Ni (Wemi You)",
+      "url": "https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W"
     },
     {
       "added_at": null,
@@ -719,6 +719,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Boys",
         "url": "https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 227080,
       "name": "The Boys",
       "url": "https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "CCTV",
-      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 149504,
       "name": "BRAG",
       "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,

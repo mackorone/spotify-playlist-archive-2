@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 100891,
+  "num_followers": 100956,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAB62l90ocGLjO5logw9dM+h",
+  "snapshot_id": "aZ47gAAAAAA6WBLJCPmNu4oqOqfaZt3u",
   "tracks": [
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Amores, V\u00edcios e Obsess\u00f5es",
-      "url": "https://open.spotify.com/track/4peu9YxoCAmkS52XNZV1mT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 230400,
       "name": "N\u00e3o Adianta Chorar",
       "url": "https://open.spotify.com/track/5gxljBy1tymSkb9hJZJaEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 194478,
+      "name": "Amores, V\u00edcios e Obsess\u00f5es",
+      "url": "https://open.spotify.com/track/4peu9YxoCAmkS52XNZV1mT"
     },
     {
       "added_at": null,
@@ -792,21 +792,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         },
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         },
         {
           "name": "Gigantes",
           "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
         }
       ],
-      "duration_ms": 206378,
-      "name": "Em nome do que sinto",
-      "url": "https://open.spotify.com/track/32i85bbgGRH6ls0OXdcigN"
+      "duration_ms": 237941,
+      "name": "Se eu n\u00e3o lembrar",
+      "url": "https://open.spotify.com/track/7muDgXKZhU3qXR7ylkAXCq"
     },
     {
       "added_at": null,
@@ -908,21 +908,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
         },
         {
           "name": "Gigantes",
           "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
         }
       ],
-      "duration_ms": 237941,
-      "name": "Se eu n\u00e3o lembrar",
-      "url": "https://open.spotify.com/track/7muDgXKZhU3qXR7ylkAXCq"
+      "duration_ms": 206378,
+      "name": "Em nome do que sinto",
+      "url": "https://open.spotify.com/track/32i85bbgGRH6ls0OXdcigN"
     },
     {
       "added_at": null,

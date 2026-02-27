@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: kulturr
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: KeBlack x Franglish
 
-906 songs - 1 day 20 hr 4 min
+907 songs - 1 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-11-17 | 2023-02-10 |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2021-12-27 | 2022-03-08 |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-06-27 | 2024-10-25 |
-| [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 | 2025-10-23 |  |
+| [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 | 2025-10-23 | 2026-02-27 |
 | [Hm Hm hm](https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [VENIN](https://open.spotify.com/album/6oWVZRNxLYd8K32YuRAbzz) | 2:11 | 2024-08-15 | 2025-04-11 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-04-28 |
 | [Holy Father](https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 3:04 | 2021-12-27 | 2022-03-16 |
@@ -437,6 +437,7 @@
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-04-11 | 2024-10-25 |
 | [Jusqu'à demain](https://open.spotify.com/track/5inaMIqw4pp7PtJELvraCj) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Jusqu'à demain](https://open.spotify.com/album/4ntHZfs7UQ8b2rqeCcYmA7) | 2:37 | 2023-08-31 | 2023-11-17 |
 | [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 | 2025-05-08 | 2025-07-11 |
+| [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-02-26 |  |
 | [KATCHU\-KATA](https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [BON QU'À ÇA](https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv) | 2:00 | 2025-06-26 | 2025-07-11 |
 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 | 2023-11-16 | 2023-12-22 |
 | [Kel bail](https://open.spotify.com/track/6g3fzFlpdd834RWaL4O56o) | [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Kel bail](https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE) | 3:21 | 2022-06-23 | 2022-07-01 |
@@ -872,7 +873,7 @@
 | [Vitamine \- \(Remix\) feat\. Ya Levis](https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Vitamine \(Remix\)](https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q) | 2:34 | 2022-01-13 | 2022-05-27 |
 | [WAHALA](https://open.spotify.com/track/1fCDZFT7cAYMWSJPwrihge) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:12 | 2022-06-30 | 2022-07-22 |
 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-04-25 | 2025-03-28 |
-| [Waist](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 | 2025-11-13 |  |
+| [WAIST](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [WAIST](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 | 2025-11-13 |  |
 | [Waka Waka](https://open.spotify.com/track/6ZVv3M4whMsgo26ZSg9Zxl) | [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc) | [Waka Waka](https://open.spotify.com/album/7uKmucLvh9qvW3YXgWQjIi) | 2:28 | 2023-05-18 | 2023-06-16 |
 | [WANGANA \(feat\. Ya Levis\)](https://open.spotify.com/track/2s6NHVwzYTg7ThzIiMvsZg) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [RELATIONS \(SAISON 1\)](https://open.spotify.com/album/2wJ1gNdP3LKeRWdqgQN6VG) | 3:26 | 2022-06-16 | 2022-09-09 |
 | [Want me](https://open.spotify.com/track/7LgIhhfi7JJD6RfbyM6c8p) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Want me](https://open.spotify.com/album/1PfnjM06cDq83Z4GOZZI9r) | 2:48 | 2023-04-13 | 2023-06-02 |

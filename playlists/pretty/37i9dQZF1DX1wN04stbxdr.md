@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hør årets tolkninger her!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,735 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,849 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

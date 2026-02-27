@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44966,
+  "num_followers": 44973,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADUfnS5/u/53+K/4TTWQAEE",
+  "snapshot_id": "aZ47gAAAAADLeWZ3wGoFzxphq7eoVSq4",
   "tracks": [
     {
       "added_at": null,
@@ -55,22 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Five Hours",
-        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 326887,
-      "name": "Five Hours",
-      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Five Hours",
+        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 326887,
+      "name": "Five Hours",
+      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Caes Muy Bien",
+        "url": "https://open.spotify.com/album/0aInpD3IS1snQgX22Mte2s"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Me Caes Muy Bien",
+      "url": "https://open.spotify.com/track/0b4duJmsCyhHlw2i86IVcr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flashlight",
         "url": "https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 232500,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Caes Muy Bien",
-        "url": "https://open.spotify.com/album/0aInpD3IS1snQgX22Mte2s"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Me Caes Muy Bien",
-      "url": "https://open.spotify.com/track/0b4duJmsCyhHlw2i86IVcr"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168753,
+      "name": "Yee",
+      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tomate",
         "url": "https://open.spotify.com/album/31ADV8Q4Xn6eqxaB6l4I1f"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 259708,
       "name": "El Tomate",
       "url": "https://open.spotify.com/track/3ZpMX9D7h8racm8EJiE5dw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168753,
-      "name": "Yee",
-      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando",
         "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 170189,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNDERDOGS",
         "url": "https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH"
       },
@@ -671,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -703,6 +703,26 @@
       "duration_ms": 206228,
       "name": "Rise and Shine",
       "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": null,
@@ -727,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+        "name": "Front To Back",
+        "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Polar Bears",
+          "url": "https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI"
         }
       ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+      "duration_ms": 147323,
+      "name": "Front To Back",
+      "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
     },
     {
       "added_at": null,
@@ -771,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Front To Back",
-        "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Polar Bears",
-          "url": "https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI"
-        }
-      ],
-      "duration_ms": 147323,
-      "name": "Front To Back",
-      "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Teemu",
+          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
+        }
+      ],
+      "duration_ms": 229099,
+      "name": "Turn Back Time (feat. Teemu)",
+      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Knockout",
         "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 143359,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Teemu",
-          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
-        }
-      ],
-      "duration_ms": 229099,
-      "name": "Turn Back Time (feat. Teemu)",
-      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ushua\u00efa",
-        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Ushua\u00efa",
-      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Random White Dude Be Everywhere",
         "url": "https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 281250,
       "name": "Freak (feat. Steve Bays)",
       "url": "https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ushua\u00efa",
+        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Ushua\u00efa",
+      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
     },
     {
       "added_at": null,

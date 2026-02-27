@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAj22IRgtRn/MTuKRFLlPKi",
+  "snapshot_id": "aZ47gAAAAADIzr00pUCwP4xTCFzaaHOl",
   "tracks": [
     {
       "added_at": null,
@@ -99,30 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africallez",
-        "url": "https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Jaylann",
-          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 178032,
-      "name": "Africallez",
-      "url": "https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever United",
         "url": "https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ"
       },
@@ -143,6 +119,30 @@
       "duration_ms": 169578,
       "name": "Mama Africa (feat. Ang\u00e9lique Kidjo et Youssou Ndour)",
       "url": "https://open.spotify.com/track/27N8TFqYeZhdrgFITRJncP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africallez",
+        "url": "https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 178032,
+      "name": "Africallez",
+      "url": "https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 170785,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lamomali Totem",
         "url": "https://open.spotify.com/album/4VJJRtcT8tGXwxGkHq51Hy"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 247943,
       "name": "Le peuple qui danse",
       "url": "https://open.spotify.com/track/6ozUDG42d9w7InKIoiHqyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JERUSALEMA",
+        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 329189,
+      "name": "JERUSALEMA",
+      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5Th Dimension",
         "url": "https://open.spotify.com/album/57CR17REkRzvwpVjafGDSx"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 225565,
       "name": "Manodzi",
       "url": "https://open.spotify.com/track/6OSAPzdQHqfWpTiIRp7cgc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JERUSALEMA",
-        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 329189,
-      "name": "JERUSALEMA",
-      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Ces Petits Riens",
-      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fifa",
         "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 255333,
       "name": "Wombo Lombo",
       "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternamente Omara",
         "url": "https://open.spotify.com/album/7KuOwzB6ZJ7fJmYvfxxeVm"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 277527,
       "name": "Guantanamera (feat. Angelique Kidjo)",
       "url": "https://open.spotify.com/track/7K4u5bxc2SVotPItpmVAe4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep Rising (The Woman King)",
         "url": "https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 194164,
       "name": "Keep Rising - The Woman King",
       "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
     },
     {
       "added_at": null,

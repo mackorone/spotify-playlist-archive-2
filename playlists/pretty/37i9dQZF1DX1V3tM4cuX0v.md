@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: MAX BARSKIH
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Adam ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,294 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,302 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Не складається](https://open.spotify.com/track/2Vv2butM4lUAJFcQJusFof) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Не складається](https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN) | 3:31 |
-| 2 | [Енкарапіста](https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Енкарапіста](https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq) | 2:58 |
+| 1 | [Сильно Сильно](https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Сильно Сильно](https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH) | 3:24 |
+| 2 | [Не складається](https://open.spotify.com/track/2Vv2butM4lUAJFcQJusFof) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Не складається](https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN) | 3:31 |
 | 3 | [boy](https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [boy](https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl) | 2:26 |
-| 4 | [Не Пʼяна \- Закохана \- за участі ансамблю «Кралиця»](https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Не Пʼяна \- Закохана \(за участі ансамблю «Кралиця»\)](https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2) | 3:43 |
-| 5 | [Сильно Сильно](https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Сильно Сильно](https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH) | 3:24 |
-| 6 | [Японія](https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Японія](https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx) | 2:34 |
-| 7 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
-| 8 | [Ridnym](https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym](https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn) | 2:58 |
-| 9 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
-| 10 | [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 |
-| 11 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
-| 12 | [LIGHTKEEPER](https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [LIGHTKEEPER](https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE) | 2:59 |
-| 13 | [Смарагдове небо](https://open.spotify.com/track/29qDVTQqe4jWIiPzQcQOev) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Смарагдове небо](https://open.spotify.com/album/1rKN15if8zlJbuBVyKb6fw) | 3:06 |
-| 14 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 15 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 |
-| 16 | [Афини](https://open.spotify.com/track/0wcmkRMI8LXdwo33vu8onJ) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Афини](https://open.spotify.com/album/51n7THK4a91U6S6QJDpqFs) | 3:22 |
-| 17 | [Гандзя](https://open.spotify.com/track/1xPNyPMjOqmbStqV5vSgxP) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Гандзя](https://open.spotify.com/album/61hQMFiZDZDyPh583rpASv) | 3:37 |
-| 18 | [Не ходи](https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV), [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Не ходи](https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv) | 2:40 |
+| 4 | [LIGHTKEEPER](https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [LIGHTKEEPER](https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE) | 2:59 |
+| 5 | [Енкарапіста](https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Енкарапіста](https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq) | 2:58 |
+| 6 | [Не Пʼяна \- Закохана \- за участі ансамблю «Кралиця»](https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Не Пʼяна \- Закохана \(за участі ансамблю «Кралиця»\)](https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2) | 3:43 |
+| 7 | [Японія](https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Японія](https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx) | 2:34 |
+| 8 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
+| 9 | [Ridnym](https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym](https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn) | 2:58 |
+| 10 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
+| 11 | [Смарагдове небо](https://open.spotify.com/track/29qDVTQqe4jWIiPzQcQOev) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Смарагдове небо](https://open.spotify.com/album/1rKN15if8zlJbuBVyKb6fw) | 3:06 |
+| 12 | [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 |
+| 13 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
+| 14 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 |
+| 15 | [Афини](https://open.spotify.com/track/0wcmkRMI8LXdwo33vu8onJ) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Афини](https://open.spotify.com/album/51n7THK4a91U6S6QJDpqFs) | 3:22 |
+| 16 | [Гандзя](https://open.spotify.com/track/1xPNyPMjOqmbStqV5vSgxP) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Гандзя](https://open.spotify.com/album/61hQMFiZDZDyPh583rpASv) | 3:37 |
+| 17 | [Не ходи](https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV), [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Не ходи](https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv) | 2:40 |
+| 18 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 19 | [Питань нема](https://open.spotify.com/track/7bXv03fXWRWpXUajb9F0WY) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Питань нема](https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7) | 2:47 |
 | 20 | [Миленький](https://open.spotify.com/track/0K5dkhupd2LyXehp0zbO1h) | [TAYANNA](https://open.spotify.com/artist/68MDO1qEjlimdYonMiWEZt), [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Миленький](https://open.spotify.com/album/0wUyl9j02U3IkieEErkAui) | 3:12 |
 | 21 | [З якого ти поверху неба?](https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 3:16 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 43 | [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 |
 | 44 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 |
 | 45 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 |
-| 46 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
-| 47 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
+| 46 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
+| 47 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 | 48 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 49 | [Тьотя](https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Тьотя](https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn) | 3:05 |
 | 50 | [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 |
 
-Snapshot ID: `AAAAAEOJ+Wn6PAZWSP6IF/i2oKatoekh`
+Snapshot ID: `AAAAALjLFNvKClvO5UCoHltBuVPagPLK`

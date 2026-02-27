@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-192 songs - 1 day 22 hr 25 min
+193 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Gayatri Mantra](https://open.spotify.com/track/1eFNVWquDgTQHAo2lBnztM) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:06 | 2022-01-24 | 2024-04-19 |
 | [Gayatri Mantra](https://open.spotify.com/track/6VLGI7ZeWgcAEIgK6xiA5i) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:06 | 2022-08-05 | 2022-11-13 |
 | [Gayatri Mantra](https://open.spotify.com/track/6hqclMTlC1XSreZ7Ij4e87) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7) | 45:06 | 2022-01-24 | 2024-12-31 |
+| [Gayatri Mantra](https://open.spotify.com/track/6Pxkly12ehE2VNASvzIixs) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Gayatri Mantra](https://open.spotify.com/album/1X42voH71W82ExkkJfno1Z) | 3:08 | 2026-02-19 |  |
 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/3DsFfzvxc9kHbG1q7l5eZJ) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/3KuTEH3Gcspp4jz1icbKzi) | 36:50 | 2024-02-15 | 2024-04-19 |
 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB) | 36:50 | 2023-09-15 | 2024-12-31 |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 | 2022-01-24 | 2023-06-23 |
@@ -74,7 +75,7 @@
 | [Laxmi Mantra 108 Times](https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa) | [Nipun Aggarwal](https://open.spotify.com/artist/5yp0kBtdnmEAqQE02L7Wox) | [Laxmi Mantra 108 Times](https://open.spotify.com/album/4OkDBv1NEa6MgxffSMF3mz) | 14:56 | 2023-05-23 |  |
 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 | 2025-02-07 | 2025-09-15 |
 | [Lingashtakam](https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:33 | 2024-12-30 |  |
-| [Maa Durga Mantra Chanting](https://open.spotify.com/track/2PP5xopzHgueAWdSPEjTao) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maa Durga Mantra Chanting](https://open.spotify.com/album/28B8NZ23mcROWkeuraQnTH) | 15:45 | 2025-02-04 |  |
+| [Maa Durga Mantra Chanting](https://open.spotify.com/track/2PP5xopzHgueAWdSPEjTao) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maa Durga Mantra Chanting](https://open.spotify.com/album/28B8NZ23mcROWkeuraQnTH) | 15:45 | 2025-02-04 | 2026-02-27 |
 | [Maha Mritunjay Mantra](https://open.spotify.com/track/2VPMBwthYsmETrZ6WGsPcD) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maha Mritunjay Mantra](https://open.spotify.com/album/33n1vZq8hq2yOwm6nk1Rwm) | 17:12 | 2025-06-05 |  |
 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 | 2022-01-24 |  |
 | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/album/4e49HqCPY3g4Abog1pQSKx) | 8:09 | 2024-12-03 | 2025-10-09 |

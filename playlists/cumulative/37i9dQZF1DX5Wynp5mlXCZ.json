@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Klavdia Petrivna",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Kler",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "album": {
         "name": "No Time to Cry",
         "url": "https://open.spotify.com/album/1jJR2WVlgeyuKPxT6n8ktw"
       },
@@ -3226,6 +3244,24 @@
       "duration_ms": 221831,
       "name": "Old Phone",
       "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+    },
+    {
+      "album": {
+        "name": "ONE DAY",
+        "url": "https://open.spotify.com/album/6t48BSbDEPUA1hVoUFAgeH"
+      },
+      "artists": [
+        {
+          "name": "ZLATA OGNEVICH",
+          "url": "https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231312,
+      "name": "ONE DAY",
+      "url": "https://open.spotify.com/track/5cCoTmJkTIw7cV8qERwaXK"
     },
     {
       "album": {
@@ -3530,6 +3566,24 @@
       "duration_ms": 180032,
       "name": "Revolving door",
       "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "album": {
@@ -5398,7 +5452,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180988,
       "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
@@ -7027,6 +7081,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u043e\u0454 \u0441\u0435\u0440\u0446\u0435",
+        "url": "https://open.spotify.com/album/43PiZaxbvJe2z1Q1aGHf7i"
+      },
+      "artists": [
+        {
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210185,
+      "name": "\u041c\u043e\u0454 \u0441\u0435\u0440\u0446\u0435",
+      "url": "https://open.spotify.com/track/29FWJAJlgznEFR3qdFWpSE"
+    },
+    {
+      "album": {
         "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
         "url": "https://open.spotify.com/album/6oMmhKjvV4gI1yGHic6Zkk"
       },
@@ -7222,7 +7294,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 213625,
       "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
       "url": "https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh"
@@ -7704,7 +7776,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167841,
       "name": "\u041e\u0431\u0456\u0439\u043c\u0430\u0439",
       "url": "https://open.spotify.com/track/1MhXxwj0Eu1CHCCo2BP3kY"

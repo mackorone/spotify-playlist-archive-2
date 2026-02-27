@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 40535,
+  "num_followers": 40536,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAACQ20SUpCSFpaj9Gdt8uX7h",
+  "snapshot_id": "aZ47gAAAAADet74O/eWd4DpD1YxaLQZM",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "This Is All Now",
-      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victory Style, Vol. 5",
         "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 232066,
       "name": "The Ballad Of Sal Villanueva",
       "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "This Is All Now",
+      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Best Places To Be A Mom",
-      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 219963,
       "name": "Stood A Chance",
       "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Best Places To Be A Mom",
+      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Faith (When I Let You Down)",
-      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Transformers: Revenge Of The Fallen The Album",
         "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Faith (When I Let You Down)",
+      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 195733,
-      "name": "Quit Trying",
-      "url": "https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti"
+      "duration_ms": 195600,
+      "name": "New Music Friday",
+      "url": "https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 195600,
-      "name": "New Music Friday",
-      "url": "https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1"
+      "duration_ms": 195733,
+      "name": "Quit Trying",
+      "url": "https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti"
     },
     {
       "added_at": null,

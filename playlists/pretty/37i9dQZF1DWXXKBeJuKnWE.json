@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: DON BROCO, Nickelback",
-  "num_followers": 494988,
+  "num_followers": 494952,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 132476,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
-    },
-    {
-      "added_at": "2026-02-13 12:39:31",
-      "album": {
         "name": "Gifted Every Strength",
         "url": "https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 370111,
       "name": "Gifted Every Strength",
       "url": "https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG"
+    },
+    {
+      "added_at": "2026-02-13 12:39:31",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 132476,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
-        "name": "Unravel",
-        "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 175446,
-      "name": "Unravel",
-      "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
-    },
-    {
-      "added_at": "2026-02-13 12:39:31",
-      "album": {
         "name": "Nice Guy (feat. Ekoh)",
         "url": "https://open.spotify.com/album/6USpargOEBNeYfcXzn9dJe"
       },
@@ -959,6 +943,42 @@
       "duration_ms": 185945,
       "name": "Nice Guy (feat. Ekoh)",
       "url": "https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2"
+    },
+    {
+      "added_at": "2026-02-13 12:39:31",
+      "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 175446,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
+    },
+    {
+      "added_at": "2026-02-20 10:27:47",
+      "album": {
+        "name": "Good Enough (feat. Caskets)",
+        "url": "https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        },
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 165970,
+      "name": "Good Enough (feat. Caskets)",
+      "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -991,26 +1011,6 @@
       "duration_ms": 316634,
       "name": "Bury Me With My Screams",
       "url": "https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y"
-    },
-    {
-      "added_at": "2026-02-20 10:27:47",
-      "album": {
-        "name": "Good Enough (feat. Caskets)",
-        "url": "https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH"
-      },
-      "artists": [
-        {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
-        },
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 165970,
-      "name": "Good Enough (feat. Caskets)",
-      "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
     },
     {
+      "added_at": "2026-02-20 10:27:47",
+      "album": {
+        "name": "The New Flesh",
+        "url": "https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "Spared From The Guillotine",
+      "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
+    },
+    {
       "added_at": "2026-02-13 12:39:31",
       "album": {
         "name": "Perfect Soul",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
-        "name": "Our Parting Ways",
-        "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
-      },
-      "artists": [
-        {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Our Parting Ways",
-      "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
-    },
-    {
-      "added_at": "2026-02-13 12:39:31",
-      "album": {
         "name": "BEST OF (Volume 2)",
         "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
+        "name": "Our Parting Ways",
+        "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Our Parting Ways",
+      "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
+    },
+    {
+      "added_at": "2026-02-13 12:39:31",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 172759,
       "name": "For You",
       "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
-    },
-    {
-      "added_at": "2026-02-20 10:27:47",
-      "album": {
-        "name": "The New Flesh",
-        "url": "https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "Spared From The Guillotine",
-      "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 177429,
+      "name": "To The Death",
+      "url": "https://open.spotify.com/track/6yapE54zUo0JTT2o6hJOTp"
+    },
+    {
+      "added_at": "2026-02-13 12:39:31",
+      "album": {
         "name": "human props",
         "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
-    },
-    {
-      "added_at": "2026-02-13 12:39:31",
-      "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 177429,
-      "name": "To The Death",
-      "url": "https://open.spotify.com/track/6yapE54zUo0JTT2o6hJOTp"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
-        "name": "Punks And Demons",
-        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "Punks And Demons",
-      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
-    },
-    {
-      "added_at": "2026-02-13 12:39:31",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
-        "name": "Pain Is A Must",
-        "url": "https://open.spotify.com/album/2lWJXMUqoP0IP0loTZ453q"
+        "name": "Punks And Demons",
+        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
       },
       "artists": [
         {
-          "name": "Angel Du$t",
-          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 144306,
-      "name": "Pain Is A Must",
-      "url": "https://open.spotify.com/track/0wL1k37TOX2ej1eCMpA3io"
+      "duration_ms": 157106,
+      "name": "Punks And Demons",
+      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -1491,6 +1475,22 @@
       "duration_ms": 281124,
       "name": "GUTSY",
       "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
+    },
+    {
+      "added_at": "2026-02-13 12:39:31",
+      "album": {
+        "name": "Pain Is A Must",
+        "url": "https://open.spotify.com/album/2lWJXMUqoP0IP0loTZ453q"
+      },
+      "artists": [
+        {
+          "name": "Angel Du$t",
+          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        }
+      ],
+      "duration_ms": 144306,
+      "name": "Pain Is A Must",
+      "url": "https://open.spotify.com/track/0wL1k37TOX2ej1eCMpA3io"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
-        "name": "We Were Never The Same",
-        "url": "https://open.spotify.com/album/53yI8BS9n5ujuSs7A7vMJM"
+        "name": "Zenith",
+        "url": "https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb"
       },
       "artists": [
         {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
         }
       ],
-      "duration_ms": 253169,
-      "name": "We Were Never the Same",
-      "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
+      "duration_ms": 235640,
+      "name": "Violent Nature",
+      "url": "https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT"
     },
     {
       "added_at": "2026-02-13 12:39:31",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-02-13 12:39:31",
       "album": {
-        "name": "Zenith",
-        "url": "https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb"
+        "name": "We Were Never The Same",
+        "url": "https://open.spotify.com/album/53yI8BS9n5ujuSs7A7vMJM"
       },
       "artists": [
         {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
         }
       ],
-      "duration_ms": 235640,
-      "name": "Violent Nature",
-      "url": "https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT"
+      "duration_ms": 253169,
+      "name": "We Were Never the Same",
+      "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
     },
     {
       "added_at": "2026-02-13 12:39:31",

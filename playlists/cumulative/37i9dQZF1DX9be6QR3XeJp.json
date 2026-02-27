@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Absolutely",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Erin LeCount",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2448,6 +2448,24 @@
       "duration_ms": 216760,
       "name": "Hungover",
       "url": "https://open.spotify.com/track/70JprBohaP4XFM1a9qgeUZ"
+    },
+    {
+      "album": {
+        "name": "I BELIEVE",
+        "url": "https://open.spotify.com/album/52vIwZaFvtkqjKRVL9gFAX"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "I BELIEVE",
+      "url": "https://open.spotify.com/track/65wnRdFa9Hjl3Qw46zijJy"
     },
     {
       "album": {

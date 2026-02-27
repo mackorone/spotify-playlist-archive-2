@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Linze.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ultraligera.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 183428,
       "name": "ARDE LA RIVIERA",
       "url": "https://open.spotify.com/track/05Ck5EFVbCdSpvSCCongUr"
@@ -2245,6 +2245,28 @@
     },
     {
       "album": {
+        "name": "Demasiado normal",
+        "url": "https://open.spotify.com/album/3UQm3EFrgSlmSsFIosmwoR"
+      },
+      "artists": [
+        {
+          "name": "Sobrezero",
+          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
+        },
+        {
+          "name": "\u00c9xtasis",
+          "url": "https://open.spotify.com/artist/4OjT4aZHr6PZH2K2P6uK4j"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "Demasiado normal",
+      "url": "https://open.spotify.com/track/7hBidUrc1mI4RFqbbP0caZ"
+    },
+    {
+      "album": {
         "name": "Demasiados Deseos",
         "url": "https://open.spotify.com/album/7HsP5xchqdjIduuOr5tGTy"
       },
@@ -2632,6 +2654,24 @@
       "duration_ms": 206874,
       "name": "Duele",
       "url": "https://open.spotify.com/track/01bQAmMz0ShvNyUtwkji4e"
+    },
+    {
+      "album": {
+        "name": "Dulce Subid\u00f3n",
+        "url": "https://open.spotify.com/album/0XXZpw9hyOdBG7VgFuTdkw"
+      },
+      "artists": [
+        {
+          "name": "Carmen 113",
+          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217053,
+      "name": "Dulce Subid\u00f3n",
+      "url": "https://open.spotify.com/track/5UFyI3L7rZCd8SuZgBj7ye"
     },
     {
       "album": {
@@ -4139,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Harakiri",
+        "url": "https://open.spotify.com/album/0Yq0Wz8bDbxo8nzj2mayte"
+      },
+      "artists": [
+        {
+          "name": "Carrera Blanca",
+          "url": "https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161026,
+      "name": "Harakiri",
+      "url": "https://open.spotify.com/track/1LMZT6dGl9LXI52zxpJuT5"
+    },
+    {
+      "album": {
         "name": "Hasta Que Duela La Noche",
         "url": "https://open.spotify.com/album/1FwNFfWQVmoTlSNX6vSkeD"
       },
@@ -4186,7 +4244,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 209122,
       "name": "Hasta que el mundo estalle",
       "url": "https://open.spotify.com/track/7adXGhhyZ2yBI7FxKqxJlM"
@@ -4454,6 +4512,24 @@
       "duration_ms": 171428,
       "name": "Intemperie",
       "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
+    },
+    {
+      "album": {
+        "name": "Nadie nos recordar\u00e1",
+        "url": "https://open.spotify.com/album/683IHlWMy2WIGFqwnbeXJW"
+      },
+      "artists": [
+        {
+          "name": "Error 97",
+          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186005,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/2g6zKuPmftAOmRA0jZN2aH"
     },
     {
       "album": {
@@ -5090,6 +5166,24 @@
       "duration_ms": 152762,
       "name": "La Vida Ca\u00f1\u00f3n",
       "url": "https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee"
+    },
+    {
+      "album": {
+        "name": "Lapsus",
+        "url": "https://open.spotify.com/album/50MmSo6jaCpsBd585e4oOP"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260789,
+      "name": "Lapsus",
+      "url": "https://open.spotify.com/track/5gaHUShVDYB2kn5s0xzIAi"
     },
     {
       "album": {
@@ -7684,6 +7778,24 @@
       "duration_ms": 219428,
       "name": "Pedro Bicicletas",
       "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
+    },
+    {
+      "album": {
+        "name": "Pedro Pascal",
+        "url": "https://open.spotify.com/album/1WT9b9C3WIU6BQulztnPvw"
+      },
+      "artists": [
+        {
+          "name": "Vosotras Ver\u00e9is",
+          "url": "https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138098,
+      "name": "Pedro Pascal",
+      "url": "https://open.spotify.com/track/5IVchpy9uyRte1r45GCBi9"
     },
     {
       "album": {
@@ -10804,6 +10916,24 @@
       "duration_ms": 154937,
       "name": "WANANI (37 MARICONES)",
       "url": "https://open.spotify.com/track/300jry8CpUjPvKviTDACc5"
+    },
+    {
+      "album": {
+        "name": "William Wallace en Lancaster",
+        "url": "https://open.spotify.com/album/1KeWt9d2MVNyvqVY5zk3uu"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214991,
+      "name": "William Wallace en Lancaster",
+      "url": "https://open.spotify.com/track/53rKlY6KQYn9WixDYbc4Nq"
     },
     {
       "album": {

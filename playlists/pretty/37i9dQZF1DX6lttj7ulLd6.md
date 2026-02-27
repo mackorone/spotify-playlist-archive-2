@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,328 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,539 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 25 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 |
 | 26 | [Can't Stop Now](https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:15 |
 | 27 | [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 |
-| 28 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 |
-| 29 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 |
+| 28 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 |
+| 29 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 |
 | 30 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
 | 31 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 |
 | 32 | [Read Between the Lines](https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:22 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 37 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 |
 | 38 | [All Night](https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 5:25 |
 | 39 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 |
-| 40 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
-| 41 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
+| 40 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
+| 41 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
 | 42 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 |
 | 43 | [Déjà Vu](https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Playin' Favorites](https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH) | 4:29 |
 | 44 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
@@ -94,16 +94,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 84 | [Chesterfield](https://open.spotify.com/track/6hNgsrHsGMeeN9BOGXZX8X) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Chesterfield](https://open.spotify.com/album/3t0D1c9i4CSbrI0d02PdTE) | 3:03 |
 | 85 | [Southend Sunset](https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1) | [Afterglow Society](https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g) | [Southend Sunset](https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap) | 4:21 |
 | 86 | [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 |
-| 87 | [Pop's Cool Groove](https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:23 |
+| 87 | [Stay Sharp](https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf) | [Elastic Union](https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr) | [Stay Sharp](https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC) | 2:09 |
 | 88 | [Backseat Romance](https://open.spotify.com/track/7EqnDxQXOpCxTGyPvB0P3G) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Backseat Romance](https://open.spotify.com/album/2rQHi14GepxBeBkB1l9jMp) | 2:30 |
-| 89 | [Stay Sharp](https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf) | [Elastic Union](https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr) | [Stay Sharp](https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC) | 2:09 |
-| 90 | [Down / Fade](https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Down / Fade](https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG) | 2:04 |
-| 91 | [Picante](https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [Picante](https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw) | 5:02 |
+| 89 | [Down / Fade](https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Down / Fade](https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG) | 2:04 |
+| 90 | [Picante](https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [Picante](https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw) | 5:02 |
+| 91 | [Pop's Cool Groove](https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:23 |
 | 92 | [Winning’s Easy \(When You Want It To Be\)](https://open.spotify.com/track/2Pd1HYBk7du6vgBkJvIUr9) | [Canary Motion](https://open.spotify.com/artist/4AvusCOQLahqaWhcZMnIp5) | [Winning’s Easy \(When You Want It To Be\)](https://open.spotify.com/album/5uLwe7jvlIH89BInp8tWtu) | 4:42 |
 | 93 | [Lost and Found](https://open.spotify.com/track/58bVhACMXuFvNVfojvvDKC) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 4:22 |
 | 94 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 |
-| 95 | [When You Love Somebody](https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk) | 4:24 |
-| 96 | [BeatBack](https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [BeatBack](https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR) | 3:52 |
+| 95 | [BeatBack](https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [BeatBack](https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR) | 3:52 |
+| 96 | [When You Love Somebody](https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk) | 4:24 |
 | 97 | [Givin' It Up](https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:01 |
 | 98 | [Squeeze Me](https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 6:54 |
 | 99 | [Secret Affair](https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 5:39 |

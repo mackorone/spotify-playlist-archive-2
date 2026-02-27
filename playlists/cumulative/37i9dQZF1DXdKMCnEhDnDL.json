@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: Ronnie Flex, Acda en de Munnik",
+  "description": "De beste Nederlandse liedjes. Cover: Robert van Hemert & Donnie",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 207905,
       "name": "Dit Is Zo'n Dag",
       "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 146400,
       "name": "Hart In Brand",
       "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
@@ -3727,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "Iedereen Gaat Vreemd",
+        "url": "https://open.spotify.com/album/5AUkK4ahh3iAGw257s2iIx"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143168,
+      "name": "Iedereen Gaat Vreemd",
+      "url": "https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81"
+    },
+    {
+      "album": {
         "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
         "url": "https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC"
       },
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 204645,
       "name": "It\u2019s Only Love",
       "url": "https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ"
@@ -5330,6 +5348,24 @@
       "duration_ms": 202826,
       "name": "Mijn Kleine Presidentje",
       "url": "https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ"
+    },
+    {
+      "album": {
+        "name": "Mijn Liefste",
+        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190086,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "album": {
@@ -8150,6 +8186,24 @@
       "duration_ms": 148467,
       "name": "Vluchtstrook",
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+    },
+    {
+      "album": {
+        "name": "Op Mijn Tijd",
+        "url": "https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164402,
+      "name": "Voelen Dat Ik Leef",
+      "url": "https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq"
     },
     {
       "album": {

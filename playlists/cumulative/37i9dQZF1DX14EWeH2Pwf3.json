@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Pyrex in cover della playlist urban pi\u00f9 grande d'Italia \ud83e\udd1d\ud83c\udffb",
+  "description": "nayt in cover della playlist urban pi\u00f9 grande d'Italia \ud83e\udd1d\ud83c\udffb",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 209802,
       "name": "10 AD",
       "url": "https://open.spotify.com/track/1r6AV5MMjO8xAkBB9g8Cde"
@@ -5813,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165922,
+      "name": "DAVVERODAVVERO",
+      "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
+    },
+    {
+      "album": {
         "name": "KG",
         "url": "https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS"
       },
@@ -7126,7 +7144,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 172067,
       "name": "Fanculo (feat. Marracash)",
       "url": "https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f"
@@ -11112,7 +11130,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 132000,
       "name": "LE PAROLE CHE NON TI HO DETTO",
       "url": "https://open.spotify.com/track/4lFkZOGYndTJt4uwThq3se"
@@ -11998,7 +12016,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 148346,
       "name": "MANESKIN (feat. Ghali, Shiva)",
       "url": "https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6"

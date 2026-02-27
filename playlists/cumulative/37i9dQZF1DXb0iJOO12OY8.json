@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "D\u00f8gnrytme",
+        "url": "https://open.spotify.com/album/3yjF4FoEzF4N0rNtuMUDPs"
+      },
+      "artists": [
+        {
+          "name": "Problembarn",
+          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "D\u00f8gnrytme",
+      "url": "https://open.spotify.com/track/6xGdQujsUr5SjbYTDfzvlZ"
+    },
+    {
+      "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
       },
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 99545,
       "name": "Fisker I Havet",
       "url": "https://open.spotify.com/track/6Kj1oHqI5qd0WVNbYAtQaF"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 126666,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/104eKHpLYOeVxw3joHrZnw"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164973,
       "name": "Hvor mange ganger m\u00e5 jeg make it?",
       "url": "https://open.spotify.com/track/0TMzSem4dRj3oSTK5FpHwR"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
@@ -2318,6 +2336,24 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "album": {
+        "name": "Marokkansk",
+        "url": "https://open.spotify.com/album/1SQLH0FVtcfzkYYwQCLHNY"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Marokkansk",
+      "url": "https://open.spotify.com/track/2oRbqKvN9sR8fakOSBi6LF"
     },
     {
       "album": {

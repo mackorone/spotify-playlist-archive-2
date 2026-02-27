@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,407 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,447 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 41 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |
 | 42 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
 | 43 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 |
-| 44 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 |
-| 45 | [Kuharap Duka Ini Selamanya](https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Kuharap Duka Ini Selamanya](https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts) | 4:22 |
+| 44 | [Kuharap Duka Ini Selamanya](https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Kuharap Duka Ini Selamanya](https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts) | 4:22 |
+| 45 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 |
 | 46 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 |
 | 47 | [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 |
 | 48 | [Salah Tapi Baik](https://open.spotify.com/track/2WoOsj3iKTbDhIHvndRh0R) | [Safira Zaza](https://open.spotify.com/artist/5NxVpojpPiq02sqDD4hWap) | [Salah Tapi Baik](https://open.spotify.com/album/4HNENDyea9xr7kF2HBF4t9) | 4:23 |

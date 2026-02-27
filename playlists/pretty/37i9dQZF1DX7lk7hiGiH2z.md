@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,404 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,400 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 40 | [Leise rieselt der Schnee](https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:25 |
 | 41 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 |
 | 42 | [Ich will Schnee](https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61) | [Deniz & Ove](https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X), [WIM](https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:11 |
-| 43 | [Lametta](https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD) | [Pauken und Planeten](https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:55 |
-| 44 | [Winterkinder](https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:18 |
+| 43 | [Winterkinder](https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:18 |
+| 44 | [Lametta](https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD) | [Pauken und Planeten](https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:55 |
 | 45 | [Wo ist der Schneemann?](https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M) | [Raketen Erna](https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb) | [Lamettawetter EP](https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ) | 3:23 |
-| 46 | [Pingpong im Dezember](https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO) | [Sebastian Krämer](https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:36 |
-| 47 | [Backe, backe Kuchen \(I\)](https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp) | [Kinderchor SingsalaSing](https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi), [Klaus Weigele](https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS) | [Kinderleicht\. Lieder und mehr für viele bunte Tage](https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH) | 1:26 |
+| 46 | [Backe, backe Kuchen \(I\)](https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp) | [Kinderchor SingsalaSing](https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi), [Klaus Weigele](https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS) | [Kinderleicht\. Lieder und mehr für viele bunte Tage](https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH) | 1:26 |
+| 47 | [Pingpong im Dezember](https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO) | [Sebastian Krämer](https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:36 |
 | 48 | [Der Baum ist schief](https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:03 |
 | 49 | [Ein ganzes Jahr](https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G) | [Larissa Pesch](https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:42 |
 | 50 | [Schneeflöckchen](https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE) | [eneMene](https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB) | [eneMene Kinderlieder \- die Grüne](https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC) | 1:28 |

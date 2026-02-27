@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
@@ -2840,6 +2840,24 @@
       "duration_ms": 214186,
       "name": "Kamilla Og Tyven",
       "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+    },
+    {
+      "album": {
+        "name": "Kan det snu?",
+        "url": "https://open.spotify.com/album/6wyLOzpVBqFlUCFNHNVfMX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180547,
+      "name": "Kan det snu?",
+      "url": "https://open.spotify.com/track/4PD6BMeTbrxcQv5J9651ec"
     },
     {
       "album": {

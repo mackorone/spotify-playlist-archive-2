@@ -1,13 +1,29 @@
 {
   "description": "Dendang dangdut ngetop Tanah Air. Cover: Eby, Zahra Sima",
-  "num_followers": 197935,
+  "num_followers": 197985,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFToCeN65fIIyG/Lg1Zv6w93+dkI",
+  "snapshot_id": "AAAAAKkxH19QFnJsobfPRNbKrHvSqdRd",
   "tracks": [
+    {
+      "added_at": "2026-02-26 17:00:33",
+      "album": {
+        "name": "Cincin Kepalsuan",
+        "url": "https://open.spotify.com/album/6Sjtc1kGTX45UfxOxqYZj8"
+      },
+      "artists": [
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "duration_ms": 336615,
+      "name": "Cincin Kepalsuan",
+      "url": "https://open.spotify.com/track/635cvp7jE8hZXu8F85Ek4f"
+    },
     {
       "added_at": "2026-02-19 17:05:20",
       "album": {
@@ -43,6 +59,22 @@
       "duration_ms": 247228,
       "name": "Seperti Mati Lampu",
       "url": "https://open.spotify.com/track/42v0kZBM2ZuurbBamHYMlT"
+    },
+    {
+      "added_at": "2026-02-26 17:00:33",
+      "album": {
+        "name": "Maunya Apa Sih?",
+        "url": "https://open.spotify.com/album/129lOLBQMRnOPWJcY8nC4e"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ali",
+          "url": "https://open.spotify.com/artist/4eBRdZqPrrm48UmWCYngha"
+        }
+      ],
+      "duration_ms": 220443,
+      "name": "Maunya Apa Sih?",
+      "url": "https://open.spotify.com/track/5ztHGFd8hHMYPSGERevtOY"
     },
     {
       "added_at": "2026-02-19 17:05:20",

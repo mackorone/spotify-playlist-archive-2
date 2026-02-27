@@ -1,6 +1,6 @@
 {
   "description": "The UK's biggest rock playlist. Cover: American Football",
-  "num_followers": 1045608,
+  "num_followers": 1045516,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+    },
+    {
+      "added_at": "2026-02-26 00:00:11",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "added_at": "2026-02-26 00:00:11",
@@ -567,6 +583,22 @@
       "duration_ms": 211407,
       "name": "Power Games",
       "url": "https://open.spotify.com/track/1HtbLJkQ8PzTaoCjtRDiCs"
+    },
+    {
+      "added_at": "2026-02-26 00:00:11",
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/2rVHGc0YWHFfKTcrVhmeLn"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 136922,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/5qGlVj7q8E5kJRznWOD12a"
     },
     {
       "added_at": "2026-02-26 00:00:11",

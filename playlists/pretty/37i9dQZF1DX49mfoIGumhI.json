@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 269034,
+  "num_followers": 269115,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 344786,
-      "name": "Nadie Igual Que tu",
-      "url": "https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 344786,
+      "name": "Nadie Igual Que tu",
+      "url": "https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "El Original Y Unico",
         "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
       },
@@ -475,38 +475,6 @@
       "duration_ms": 376733,
       "name": "Quiero Morir En Tu Piel",
       "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Me Niegas Tanto Amor",
-      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -527,6 +495,38 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Me Niegas Tanto Amor",
+      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Seda",
-      "url": "https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 391320,
       "name": "Siento",
       "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Seda",
+      "url": "https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 336160,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 336160,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "SALSEANDO CON... UNO",
-        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
       },
       "artists": [
         {
-          "name": "Salseando",
-          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
         }
       ],
-      "duration_ms": 309386,
-      "name": "Fantasia Herida",
-      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
+      "duration_ms": 321706,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1035,34 +1035,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
+        "name": "SALSEANDO CON... UNO",
+        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
       },
       "artists": [
         {
-          "name": "Viti Ruiz",
-          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
         }
       ],
-      "duration_ms": 321706,
-      "name": "Caricias Prohibidas",
-      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+      "duration_ms": 309386,
+      "name": "Fantasia Herida",
+      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1079,6 +1063,22 @@
       "duration_ms": 328760,
       "name": "Si Me Ves Llorar",
       "url": "https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2024-07-11 00:51:42",

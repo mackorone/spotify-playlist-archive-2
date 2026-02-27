@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Absolutely
+> Discover your new favourite artists from UK&IE\. Cover: Erin LeCount
 
-344 songs - 18 hr 27 min
+345 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Hungover](https://open.spotify.com/track/2pHEFGVwMMcSDIVQ15aMMY) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 3:36 | 2022-09-22 | 2024-04-19 |
 | [Hungover](https://open.spotify.com/track/58z2lQaugyYqDausYuYvev) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 3:36 | 2022-07-28 | 2022-10-06 |
 | [Hungover](https://open.spotify.com/track/70JprBohaP4XFM1a9qgeUZ) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Hungover](https://open.spotify.com/album/18OwIh08SEdS09STX6cys3) | 3:36 | 2022-02-18 |  |
+| [I BELIEVE](https://open.spotify.com/track/65wnRdFa9Hjl3Qw46zijJy) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [I BELIEVE](https://open.spotify.com/album/52vIwZaFvtkqjKRVL9gFAX) | 3:16 | 2026-02-27 |  |
 | [I Can't Go There](https://open.spotify.com/track/3X2zPuuOzFAbupE0LOigfn) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [I Can't Go There](https://open.spotify.com/album/2KEDQNs9BLogSL7xI0Iikf) | 3:10 | 2024-08-22 |  |
 | [I Don't Want Your Money](https://open.spotify.com/track/1a2fG9pKo7jR6Fot0GJQM1) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Don't Want Your Money](https://open.spotify.com/album/5rm8vpCa1QCUdKErG4Y3a6) | 3:00 | 2022-02-18 |  |
 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 | 2025-06-20 |  |

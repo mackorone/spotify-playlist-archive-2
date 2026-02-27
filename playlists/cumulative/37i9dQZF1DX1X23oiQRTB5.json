@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Niska x Genezio au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "La Rvfleuze au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Cipriani",
+        "url": "https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Amori Stupidi",
+      "url": "https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8"
+    },
+    {
+      "album": {
         "name": "Anunnaki",
         "url": "https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d"
       },
@@ -687,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Argent Sale - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Argent Sale - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
+    },
+    {
+      "album": {
         "name": "Astrid",
         "url": "https://open.spotify.com/album/3jSB6Lto6ZLx8paXGWwarY"
       },
@@ -702,7 +742,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 165637,
       "name": "Astrid",
       "url": "https://open.spotify.com/track/1n8fHxto2OMcsDBE1fR70H"
@@ -1870,7 +1910,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 152112,
       "name": "Connexion macabre",
       "url": "https://open.spotify.com/track/2qoMCkSjfBzKShOcX72vSc"
@@ -4712,7 +4752,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 181417,
       "name": "MALABAR",
       "url": "https://open.spotify.com/track/1GlnCL1v7D90Hl2MZIFxyq"
@@ -8140,6 +8180,28 @@
       "duration_ms": 115810,
       "name": "Vengeance !",
       "url": "https://open.spotify.com/track/6R7Efh28yqv5a21h3G7Qbg"
+    },
+    {
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/781KI2jUgJ7w6gyDExPxH9"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "XVI",
+          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126280,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/6RwydXnLDQQm7zJe2hNrel"
     },
     {
       "album": {

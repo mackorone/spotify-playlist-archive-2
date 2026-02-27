@@ -35,26 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Altostratus 26",
-        "url": "https://open.spotify.com/album/6AcJedElU5BzLJVrbmJkWs"
-      },
-      "artists": [
-        {
-          "name": "Antonis Vlavo",
-          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
-        },
-        {
-          "name": "Dimi De San",
-          "url": "https://open.spotify.com/artist/36z49zlZxwuFOoYUO0HZHX"
-        }
-      ],
-      "duration_ms": 271597,
-      "name": "Altostratus 26",
-      "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.I.V.E. \u2013 Fear Increases Violent Emotions",
         "url": "https://open.spotify.com/album/64lC6jyoTfKplb7eHzdRA3"
       },
@@ -71,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
-      },
-      "artists": [
-        {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
-        }
-      ],
-      "duration_ms": 296199,
-      "name": "Motivation - Single Edit",
-      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say What You Want",
         "url": "https://open.spotify.com/album/5gmB0I61nuLKuLd7fleS98"
       },
@@ -99,46 +63,6 @@
       "duration_ms": 204500,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/2fvKCHlsP7AboO4HMRrub3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' Out The Trash",
-        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Takin' Out The Trash",
-      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BANSHEE",
-        "url": "https://open.spotify.com/album/6Hz218L6JqeKeBym3wkeJ0"
-      },
-      "artists": [
-        {
-          "name": "Danz CM",
-          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
-        },
-        {
-          "name": "Cody Crump",
-          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
-        }
-      ],
-      "duration_ms": 120754,
-      "name": "BANSHEE",
-      "url": "https://open.spotify.com/track/4gpzZ49746dFN5gks3nA6E"
     },
     {
       "added_at": null,
@@ -179,18 +103,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sprouting from the Gums",
-        "url": "https://open.spotify.com/album/1THkLFzkkWeocJ8DGUXllb"
+        "name": "Takin' Out The Trash",
+        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
       },
       "artists": [
         {
-          "name": "Creeping Jenny",
-          "url": "https://open.spotify.com/artist/3bRIb2TQGyY1V8yvsXmg2q"
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
         }
       ],
-      "duration_ms": 191468,
-      "name": "Hardcase",
-      "url": "https://open.spotify.com/track/0mMO60Pg8XY70T0EC5uOdR"
+      "duration_ms": 152000,
+      "name": "Takin' Out The Trash",
+      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dissipate",
+        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
+      },
+      "artists": [
+        {
+          "name": "KOSTIGAN",
+          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
+        }
+      ],
+      "duration_ms": 192796,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cleansed by Fire",
+        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
+      },
+      "artists": [
+        {
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+        }
+      ],
+      "duration_ms": 230433,
+      "name": "Cleansed by Fire",
+      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Gasoline (Edit)",
+        "url": "https://open.spotify.com/album/6EpylYAowc3qpI4IkuwbAq"
+      },
+      "artists": [
+        {
+          "name": "giglinger",
+          "url": "https://open.spotify.com/artist/0Tfa8OzRrLJOHhwOtC0H3p"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Holy Gasoline - Edit",
+      "url": "https://open.spotify.com/track/49bFx42WNt6Cha7VpwdqQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lich Tree / Sei\u00f0r",
+        "url": "https://open.spotify.com/album/5ie4eSVK4zoyGFIyHOhtC7"
+      },
+      "artists": [
+        {
+          "name": "Sparkling Cyanide",
+          "url": "https://open.spotify.com/artist/5Bo0RERjwt6aG13ny1d6dY"
+        }
+      ],
+      "duration_ms": 253020,
+      "name": "Lich Tree",
+      "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
     },
     {
       "added_at": null,
@@ -215,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sprouting from the Gums",
+        "url": "https://open.spotify.com/album/1THkLFzkkWeocJ8DGUXllb"
+      },
+      "artists": [
+        {
+          "name": "Creeping Jenny",
+          "url": "https://open.spotify.com/artist/3bRIb2TQGyY1V8yvsXmg2q"
+        }
+      ],
+      "duration_ms": 191468,
+      "name": "Hardcase",
+      "url": "https://open.spotify.com/track/0mMO60Pg8XY70T0EC5uOdR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Within Cells Interlinked Pt. 2",
         "url": "https://open.spotify.com/album/43LVL45Aw2e8xKvwpyEJYu"
       },
@@ -231,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark City",
+        "url": "https://open.spotify.com/album/1wzS4vwKO9nnSn6gucuzqa"
+      },
+      "artists": [
+        {
+          "name": "Tower of Silence",
+          "url": "https://open.spotify.com/artist/2nMzAysuwhOPwmsjLNCvHU"
+        }
+      ],
+      "duration_ms": 241972,
+      "name": "Dark City",
+      "url": "https://open.spotify.com/track/0Gp2X1eYk64a0pst7Vfuru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Die Like a God",
         "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
       },
@@ -243,38 +267,6 @@
       "duration_ms": 190006,
       "name": "To Die And I",
       "url": "https://open.spotify.com/track/1jxbjZSaH6HBD6ld0ycfaI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lich Tree / Sei\u00f0r",
-        "url": "https://open.spotify.com/album/5ie4eSVK4zoyGFIyHOhtC7"
-      },
-      "artists": [
-        {
-          "name": "Sparkling Cyanide",
-          "url": "https://open.spotify.com/artist/5Bo0RERjwt6aG13ny1d6dY"
-        }
-      ],
-      "duration_ms": 253020,
-      "name": "Lich Tree",
-      "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Gasoline (Edit)",
-        "url": "https://open.spotify.com/album/6EpylYAowc3qpI4IkuwbAq"
-      },
-      "artists": [
-        {
-          "name": "giglinger",
-          "url": "https://open.spotify.com/artist/0Tfa8OzRrLJOHhwOtC0H3p"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Holy Gasoline - Edit",
-      "url": "https://open.spotify.com/track/49bFx42WNt6Cha7VpwdqQQ"
     },
     {
       "added_at": null,
@@ -299,54 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked Rat Dance",
-        "url": "https://open.spotify.com/album/4tUzffWuxTYlapD7EgFJhU"
-      },
-      "artists": [
-        {
-          "name": "The Guilt",
-          "url": "https://open.spotify.com/artist/5UlgkihcxCXPOqnkcSpdPH"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no thank you",
-        "url": "https://open.spotify.com/album/1XkzZSp2zEabycRxWRX6Rf"
-      },
-      "artists": [
-        {
-          "name": "no thnx",
-          "url": "https://open.spotify.com/artist/6MgpPILG407JHynHhPdd7q"
-        }
-      ],
-      "duration_ms": 167830,
-      "name": "no thank you",
-      "url": "https://open.spotify.com/track/5DXHMz3iJWgw8MvfBoakze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuck War! (Remix)",
-        "url": "https://open.spotify.com/album/3useDp57yqqGwmcHcUfHoJ"
-      },
-      "artists": [
-        {
-          "name": "Electric BlindFold",
-          "url": "https://open.spotify.com/artist/2OzZt06pUFhxbinEGey4Ng"
-        }
-      ],
-      "duration_ms": 176821,
-      "name": "Fuck War! - Remix I",
-      "url": "https://open.spotify.com/track/30ech3YFPEWg5dvWFLMyoo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deadtime Stories",
         "url": "https://open.spotify.com/album/6LNJswYZkDk5BpEw299Id2"
       },
@@ -363,6 +307,58 @@
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I WANNA KNOW",
+        "url": "https://open.spotify.com/album/3XmLj0BwsIyJxnj5LMZsI1"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ivey",
+          "url": "https://open.spotify.com/artist/5fRQoYAheFtrnz4GM879Cy"
+        }
+      ],
+      "duration_ms": 152185,
+      "name": "I WANNA KNOW",
+      "url": "https://open.spotify.com/track/7GlKSGGjBpuVVfCQO48yM1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Altostratus 26",
+        "url": "https://open.spotify.com/album/6AcJedElU5BzLJVrbmJkWs"
+      },
+      "artists": [
+        {
+          "name": "Antonis Vlavo",
+          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
+        },
+        {
+          "name": "Dimi De San",
+          "url": "https://open.spotify.com/artist/36z49zlZxwuFOoYUO0HZHX"
+        }
+      ],
+      "duration_ms": 271597,
+      "name": "Altostratus 26",
+      "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Nothing",
+        "url": "https://open.spotify.com/album/014766IfNR7l5ANwajU1CZ"
+      },
+      "artists": [
+        {
+          "name": "Harsh Language",
+          "url": "https://open.spotify.com/artist/49ubEC2uDCVzXu4X6BBu9s"
+        }
+      ],
+      "duration_ms": 234717,
+      "name": "To Nothing",
+      "url": "https://open.spotify.com/track/65vk97TWbixyEpOPUJiIPa"
     },
     {
       "added_at": null,
@@ -387,18 +383,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Story (UN)Told",
-        "url": "https://open.spotify.com/album/56gzfHPWmqfYYbj1ISkyqu"
+        "name": "apoca-lips",
+        "url": "https://open.spotify.com/album/1SdOW9lKmUogRo6lLSAwGj"
       },
       "artists": [
         {
-          "name": "Ursula",
-          "url": "https://open.spotify.com/artist/6BzI2DqZsIoTl1QseaCbjt"
+          "name": "Hex Formes",
+          "url": "https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM"
+        },
+        {
+          "name": "D1NTR",
+          "url": "https://open.spotify.com/artist/2yEbq5vZ6gKDqXoE3TZUaM"
         }
       ],
-      "duration_ms": 258480,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/1UIlEp367m4nDBJOaOtTjx"
+      "duration_ms": 220000,
+      "name": "apoca-lips",
+      "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6ddksmWBpvTweONoUz3HZs"
+      },
+      "artists": [
+        {
+          "name": "Lewis Tivey",
+          "url": "https://open.spotify.com/artist/6rMQpa1tR5sI8xGboy8mXR"
+        }
+      ],
+      "duration_ms": 259840,
+      "name": "Living The Dream",
+      "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puppets Know",
+        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
     },
     {
       "added_at": null,
@@ -412,41 +444,9 @@
           "url": "https://open.spotify.com/artist/5UlgkihcxCXPOqnkcSpdPH"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Weaponry",
-      "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Dark Dream",
-        "url": "https://open.spotify.com/album/5RAvn7Tvl7lJjbiAz7L5xO"
-      },
-      "artists": [
-        {
-          "name": "Psychic Guilt",
-          "url": "https://open.spotify.com/artist/6vxE00KfU0Mkwms712w4Eb"
-        }
-      ],
-      "duration_ms": 217778,
-      "name": "A Dark Dream",
-      "url": "https://open.spotify.com/track/0UG6GMOOMsnS9hW1vO7u5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toy !",
-        "url": "https://open.spotify.com/album/7AcpfzdiQl79nyHpDGnfsc"
-      },
-      "artists": [
-        {
-          "name": "Erudition",
-          "url": "https://open.spotify.com/artist/5J5vPzyct2PrzpYJzjx7QK"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Toy ! - Single mix",
-      "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
+      "duration_ms": 141000,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
     },
     {
       "added_at": null,
@@ -475,66 +475,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "I WANNA KNOW",
-        "url": "https://open.spotify.com/album/3XmLj0BwsIyJxnj5LMZsI1"
+        "name": "Fuck War! (Remix)",
+        "url": "https://open.spotify.com/album/3useDp57yqqGwmcHcUfHoJ"
       },
       "artists": [
         {
-          "name": "Tyler Ivey",
-          "url": "https://open.spotify.com/artist/5fRQoYAheFtrnz4GM879Cy"
+          "name": "Electric BlindFold",
+          "url": "https://open.spotify.com/artist/2OzZt06pUFhxbinEGey4Ng"
         }
       ],
-      "duration_ms": 152185,
-      "name": "I WANNA KNOW",
-      "url": "https://open.spotify.com/track/7GlKSGGjBpuVVfCQO48yM1"
+      "duration_ms": 176821,
+      "name": "Fuck War! - Remix I",
+      "url": "https://open.spotify.com/track/30ech3YFPEWg5dvWFLMyoo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cleansed by Fire",
-        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
+        "name": "Vantage Point",
+        "url": "https://open.spotify.com/album/3rerUGhrvGrfz7nRXItHiX"
       },
       "artists": [
         {
-          "name": "JZ",
-          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+          "name": "Dan Lu Rockstar",
+          "url": "https://open.spotify.com/artist/5HEu9Ugf1Zz5btqap9POox"
         }
       ],
-      "duration_ms": 230433,
-      "name": "Cleansed by Fire",
-      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
+      "duration_ms": 198391,
+      "name": "Cut Me Loose",
+      "url": "https://open.spotify.com/track/4u1SCkmOp9hWkG7cX8FCjp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Naked Rat Dance",
-        "url": "https://open.spotify.com/album/4tUzffWuxTYlapD7EgFJhU"
+        "name": "A Story (UN)Told",
+        "url": "https://open.spotify.com/album/56gzfHPWmqfYYbj1ISkyqu"
       },
       "artists": [
         {
-          "name": "The Guilt",
-          "url": "https://open.spotify.com/artist/5UlgkihcxCXPOqnkcSpdPH"
+          "name": "Ursula",
+          "url": "https://open.spotify.com/artist/6BzI2DqZsIoTl1QseaCbjt"
         }
       ],
-      "duration_ms": 175000,
-      "name": "War in My Kitchen",
-      "url": "https://open.spotify.com/track/1h0fxGZNkSKxOcM2ZgezTv"
+      "duration_ms": 258480,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/1UIlEp367m4nDBJOaOtTjx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Splash",
-        "url": "https://open.spotify.com/album/5kf99PYVfYFOvyMqkZVGaU"
+        "name": "HAIR KILLER",
+        "url": "https://open.spotify.com/album/4OOjEheTxm1p6RKdjy6qLD"
       },
       "artists": [
         {
-          "name": "The Perjury Revival",
-          "url": "https://open.spotify.com/artist/1xW9We24ylNHAeqiPnDdiw"
+          "name": "Black Marine",
+          "url": "https://open.spotify.com/artist/4ldRd8z0FkjQw4RTbQI8VN"
+        },
+        {
+          "name": "MX the American",
+          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
         }
       ],
-      "duration_ms": 105097,
-      "name": "Poison Apples",
-      "url": "https://open.spotify.com/track/7w8MZgEgwbalijZLrlCMK4"
+      "duration_ms": 175982,
+      "name": "HAIR KILLER",
+      "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
     },
     {
       "added_at": null,
@@ -575,50 +579,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Darkness",
-        "url": "https://open.spotify.com/album/6F2OcyLZMcFZMLicnUYXuF"
+        "name": "Toy !",
+        "url": "https://open.spotify.com/album/7AcpfzdiQl79nyHpDGnfsc"
       },
       "artists": [
         {
-          "name": "Splitter Conspiracy",
-          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
+          "name": "Erudition",
+          "url": "https://open.spotify.com/artist/5J5vPzyct2PrzpYJzjx7QK"
         }
       ],
-      "duration_ms": 248956,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
+      "duration_ms": 192026,
+      "name": "Toy ! - Single mix",
+      "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Politics of Love",
-        "url": "https://open.spotify.com/album/3WaA61bkw9dwRWRjf2i4f2"
+        "name": "They Don't Care (About You)",
+        "url": "https://open.spotify.com/album/3vXUDacurGsc1sYMhMP7Ls"
       },
       "artists": [
         {
-          "name": "Maira 3",
-          "url": "https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow"
+          "name": "Cozmicsoulfire",
+          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
         }
       ],
-      "duration_ms": 254117,
-      "name": "Politics of Love",
-      "url": "https://open.spotify.com/track/6WxM7FGGsL2CZvgZEXmGzw"
+      "duration_ms": 233045,
+      "name": "They Don't Care (About You)",
+      "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/07QSGmg7yZ4EEuLl3gXScx"
+        "name": "A Dark Dream",
+        "url": "https://open.spotify.com/album/5RAvn7Tvl7lJjbiAz7L5xO"
       },
       "artists": [
         {
-          "name": "Double Eyelid",
-          "url": "https://open.spotify.com/artist/41M5MTURUb7IgtmqNXWQk2"
+          "name": "Psychic Guilt",
+          "url": "https://open.spotify.com/artist/6vxE00KfU0Mkwms712w4Eb"
         }
       ],
-      "duration_ms": 325360,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
+      "duration_ms": 217778,
+      "name": "A Dark Dream",
+      "url": "https://open.spotify.com/track/0UG6GMOOMsnS9hW1vO7u5N"
     },
     {
       "added_at": null,
@@ -643,70 +647,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embers Are My Crown",
-        "url": "https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC"
+        "name": "Split Realities",
+        "url": "https://open.spotify.com/album/6vdDOrHiJnguQ03fpIc4Fi"
       },
       "artists": [
         {
-          "name": "Synthetik Blonde",
-          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
+          "name": "Ebonie",
+          "url": "https://open.spotify.com/artist/6OmjjVsh6fA27sguwKpq8E"
         }
       ],
-      "duration_ms": 252461,
-      "name": "Embers Are My Crown",
-      "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
+      "duration_ms": 230164,
+      "name": "Split Realities",
+      "url": "https://open.spotify.com/track/0G7ro4Mul84jHShHCT9RJ2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6ddksmWBpvTweONoUz3HZs"
+        "name": "Don't Look Back (Radio Edit)",
+        "url": "https://open.spotify.com/album/7sAQSZ70a0ynetSd1wzJmd"
       },
       "artists": [
         {
-          "name": "Lewis Tivey",
-          "url": "https://open.spotify.com/artist/6rMQpa1tR5sI8xGboy8mXR"
+          "name": "The Creeping Candies",
+          "url": "https://open.spotify.com/artist/1AO5x0L3ufgU1AgFFaNSrg"
         }
       ],
-      "duration_ms": 259840,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
+      "duration_ms": 234320,
+      "name": "Things Have Changed - Radio Edit",
+      "url": "https://open.spotify.com/track/3SmreUsJpTRubF2f69Ub9y"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/6zB6MkrVCLkiEtpfLawC2E"
+        "name": "Naked Rat Dance",
+        "url": "https://open.spotify.com/album/4tUzffWuxTYlapD7EgFJhU"
       },
       "artists": [
         {
-          "name": "Love The Boy",
-          "url": "https://open.spotify.com/artist/2lrhPUC1tKuuYpYGpRa7D3"
+          "name": "The Guilt",
+          "url": "https://open.spotify.com/artist/5UlgkihcxCXPOqnkcSpdPH"
         }
       ],
-      "duration_ms": 206896,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/6zOTd6Pahvwas06vzXh3Dr"
+      "duration_ms": 160000,
+      "name": "Weaponry",
+      "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "apoca-lips",
-        "url": "https://open.spotify.com/album/1SdOW9lKmUogRo6lLSAwGj"
+        "name": "From Darkness",
+        "url": "https://open.spotify.com/album/6F2OcyLZMcFZMLicnUYXuF"
       },
       "artists": [
         {
-          "name": "Hex Formes",
-          "url": "https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM"
-        },
-        {
-          "name": "D1NTR",
-          "url": "https://open.spotify.com/artist/2yEbq5vZ6gKDqXoE3TZUaM"
+          "name": "Splitter Conspiracy",
+          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
         }
       ],
-      "duration_ms": 220000,
-      "name": "apoca-lips",
-      "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
+      "duration_ms": 248956,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
     },
     {
       "added_at": null,
@@ -720,61 +720,13 @@
           "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
         },
         {
-          "name": "Louise",
-          "url": "https://open.spotify.com/artist/3FkEt8v3EuHSFYQ26d1nQC"
+          "name": "Chinos",
+          "url": "https://open.spotify.com/artist/2VBV2v6soBsoAfTep9VlJZ"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puppets Know",
-        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
-      },
-      "artists": [
-        {
-          "name": "Evil Level Live",
-          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "They Don't Care (About You)",
-        "url": "https://open.spotify.com/album/3vXUDacurGsc1sYMhMP7Ls"
-      },
-      "artists": [
-        {
-          "name": "Cozmicsoulfire",
-          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
-        }
-      ],
-      "duration_ms": 233045,
-      "name": "They Don't Care (About You)",
-      "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muse to Sirens",
-        "url": "https://open.spotify.com/album/2zMjxG5SuNmJCs8dJ6aJ5M"
-      },
-      "artists": [
-        {
-          "name": "Muse to Sirens",
-          "url": "https://open.spotify.com/artist/1i0dgLkTmX9ihwcuB47G99"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Chasing Crows",
-      "url": "https://open.spotify.com/track/1IBcjm6bxYn0SX8gzfiMmW"
+      "duration_ms": 206000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
     },
     {
       "added_at": null,
@@ -791,6 +743,58 @@
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vampire's Kiss",
+        "url": "https://open.spotify.com/album/2gbFzOOZryAvnvERghh0R8"
+      },
+      "artists": [
+        {
+          "name": "Hex Formes",
+          "url": "https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM"
+        },
+        {
+          "name": "Scott Baker Graham",
+          "url": "https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "a short term effect",
+      "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puppets Know",
+        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "A song for the broken",
+      "url": "https://open.spotify.com/track/0DMPMjuPkq7jfRuqpgNYXx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Universe",
+        "url": "https://open.spotify.com/album/4PD2nlgoABzqcLnnXNKLRo"
+      },
+      "artists": [
+        {
+          "name": "Purple Universe",
+          "url": "https://open.spotify.com/artist/2OpC5QjBcIPjqqjprF7Tca"
+        }
+      ],
+      "duration_ms": 197888,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
     },
     {
       "added_at": null,
@@ -815,8 +819,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine & Dandy",
-        "url": "https://open.spotify.com/album/08xmiDxIyoRhXxPLLWFmw8"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4NNnqnCch1RxKs8fZ1TZiK"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/1Qbk7kyYVkfMzrMjvFSHyH"
+        }
+      ],
+      "duration_ms": 205250,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/6W6ktN80W3pwJ6AlD424xg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
       },
       "artists": [
         {
@@ -824,57 +844,41 @@
           "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
         }
       ],
-      "duration_ms": 137054,
-      "name": "Fine & Dandy - Single Edit",
-      "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
+      "duration_ms": 296199,
+      "name": "Motivation - Single Edit",
+      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Radar Ranger",
-        "url": "https://open.spotify.com/album/6NcWagRWgH9fisACytWlN7"
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/4nwoo4IN5sxn3fuuYSMbRg"
       },
       "artists": [
         {
-          "name": "The Ramey Memo",
-          "url": "https://open.spotify.com/artist/1zpk6QOCwtN6GWu8G8b6JV"
+          "name": "Blake Harley",
+          "url": "https://open.spotify.com/artist/0QLKEJIWFE4TSLUUHskwwB"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Electron Echo",
-      "url": "https://open.spotify.com/track/6J9sNFT4cgfHCw2s23L8nJ"
+      "duration_ms": 171284,
+      "name": "Dance in the Dungeon",
+      "url": "https://open.spotify.com/track/1djlouVTNO65GRUQ6kV44G"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vantage Point",
-        "url": "https://open.spotify.com/album/3rerUGhrvGrfz7nRXItHiX"
+        "name": "When it comes to weaving tales I'm like a demon with a tapestry needle",
+        "url": "https://open.spotify.com/album/6cRG88zLbm6c1kqDtthiAN"
       },
       "artists": [
         {
-          "name": "Dan Lu Rockstar",
-          "url": "https://open.spotify.com/artist/5HEu9Ugf1Zz5btqap9POox"
+          "name": "Flowers For Juno",
+          "url": "https://open.spotify.com/artist/19NcQpUIKDWzzmMdeLMMeM"
         }
       ],
-      "duration_ms": 198391,
-      "name": "Cut Me Loose",
-      "url": "https://open.spotify.com/track/4u1SCkmOp9hWkG7cX8FCjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/0E5yCjlgy9wNmkZyR2bpVu"
-      },
-      "artists": [
-        {
-          "name": "The Frestonians",
-          "url": "https://open.spotify.com/artist/50NBwQmfWZi9hEQGa1sYbr"
-        }
-      ],
-      "duration_ms": 214909,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
+      "duration_ms": 186803,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
     }
   ],
   "unique_name": "DePitcha Radio",

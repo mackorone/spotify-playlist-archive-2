@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,978 likes - 99 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,019 likes - 99 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [God I'm Just Grateful](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
+| 1 | [God I'm Just Grateful \- Radio Version](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful \(Radio Version\)](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
 | 2 | [I Got Saved \(feat\. Chris Brown\)](https://open.spotify.com/track/0Fcu29KCsISZx8SIFIuGWw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:13 |
 | 3 | [Hunger](https://open.spotify.com/track/380rX1XZL7XLmLOO7FE2er) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Hunger](https://open.spotify.com/album/3R2RTLpJtl704e5hWzaVxI) | 5:28 |
 | 4 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |

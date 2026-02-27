@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,011 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,059 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 18 | [No Pienso Llorar](https://open.spotify.com/track/5eEIKYWxmdYdtpA4Oeiv3M) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:32 |
 | 19 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 |
 | 20 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
-| 21 | [Guapa!](https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Slim](https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP) | [Guapa!](https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo) | 5:14 |
-| 22 | [Tú tienes el son](https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Antes del alba](https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe) | 3:01 |
+| 21 | [Tú tienes el son](https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Antes del alba](https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe) | 3:01 |
+| 22 | [Guapa!](https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Slim](https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP) | [Guapa!](https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo) | 5:14 |
 | 23 | [Andrómeda](https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:55 |
 | 24 | [Yo No Me Quiero Morir](https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Yo No Me Quiero Morir](https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0) | 3:23 |
 | 25 | [Pétalos](https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Suave](https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suave](https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv) | 3:34 |
 | 50 | [Lejos de Aquí](https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sin Maletas](https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf) | 2:43 |
 
-Snapshot ID: `aZzqAAAAAABGfKI6XSRyZIxNQtJwJqp6`
+Snapshot ID: `aZ47gAAAAADuj9l6O8ERxLpzNmrfGeGE`

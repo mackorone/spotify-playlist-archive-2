@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: Ledbyher",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: Sade Olutola",
   "name": "We Move",
   "tracks": [
     {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Arrow Heart",
+        "url": "https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c"
+      },
+      "artists": [
+        {
+          "name": "Sade Olutola",
+          "url": "https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "2099",
+      "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
+    },
+    {
+      "album": {
         "name": "40 Doors",
         "url": "https://open.spotify.com/album/50mql4nHa72ylubgL32the"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 91200,
       "name": "B.A.B.Y",
       "url": "https://open.spotify.com/track/05xpB7tbfqbl9m12mOKhZb"
@@ -146,7 +164,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 80970,
       "name": "Bk2life",
       "url": "https://open.spotify.com/track/6DNrEpJjg5xtWGxNrx3cCL"
@@ -426,7 +444,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 168107,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2sne1i9emLeNbT6kSe1KMG"
@@ -444,7 +462,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 111483,
       "name": "contagious",
       "url": "https://open.spotify.com/track/42Gvh4bGIuvyE9R1hWyM6E"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 98297,
       "name": "Do Too Much",
       "url": "https://open.spotify.com/track/7iPrQixC1StJegCF468i5T"
@@ -594,7 +612,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 140357,
       "name": "elephant roundabout",
       "url": "https://open.spotify.com/track/3Uaf0Ds7eYrMtTgJumzziS"
@@ -652,10 +670,46 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173455,
       "name": "EVERYBODY KNOW",
       "url": "https://open.spotify.com/track/4fUuR2Z9UR2JNjer9CY3DI"
+    },
+    {
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/5MykttFGutQ8FE4C6bSP7J"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118235,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0eTBOGiX3nHdoUkP3QcqDA"
+    },
+    {
+      "album": {
+        "name": "FIGS0 FL0W",
+        "url": "https://open.spotify.com/album/5UK6akpiiKAhV6uLeKlA3T"
+      },
+      "artists": [
+        {
+          "name": "Figs0",
+          "url": "https://open.spotify.com/artist/0pGaXt1m03ZQBxzVqc6oHP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "FIGS0 FL0W",
+      "url": "https://open.spotify.com/track/5x2UNjWgJev0C1aUARd1TO"
     },
     {
       "album": {
@@ -728,6 +782,24 @@
       "duration_ms": 160870,
       "name": "fml .",
       "url": "https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue"
+    },
+    {
+      "album": {
+        "name": "Fucking City",
+        "url": "https://open.spotify.com/album/1XxMzVdnpaFG8juiO28E97"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198071,
+      "name": "Fucking City",
+      "url": "https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU"
     },
     {
       "album": {
@@ -912,7 +984,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 151750,
       "name": "Hideout",
       "url": "https://open.spotify.com/track/6QWdHbwyi9Nqp53SNh7imF"
@@ -992,7 +1064,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 223846,
       "name": "i hope you're ready",
       "url": "https://open.spotify.com/track/5aG0VbqVEE7Egpdc2YLBzZ"
@@ -1324,7 +1396,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 144562,
       "name": "MAKE IT HOME",
       "url": "https://open.spotify.com/track/01RMH5GzzR6FzWyEnAmCAK"
@@ -1342,10 +1414,32 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 151253,
       "name": "Matcha",
       "url": "https://open.spotify.com/track/18j6mt9YnltS9IW4E5tWZJ"
+    },
+    {
+      "album": {
+        "name": "matcha bros",
+        "url": "https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg"
+      },
+      "artists": [
+        {
+          "name": "Taifunds",
+          "url": "https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr"
+        },
+        {
+          "name": "00ab",
+          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140432,
+      "name": "matcha bros",
+      "url": "https://open.spotify.com/track/6j039F1GAbxnO4un1630wK"
     },
     {
       "album": {
@@ -1512,7 +1606,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
@@ -1566,7 +1660,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 120000,
       "name": "pentecost of living",
       "url": "https://open.spotify.com/track/13npRfHx2c2FhUXk84vwBO"
@@ -1588,7 +1682,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -1624,7 +1718,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 98405,
       "name": "Polka dot",
       "url": "https://open.spotify.com/track/7sZ9IdFPv0GkiIrvTdzPvs"
@@ -2204,7 +2298,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 144616,
       "name": "Take A Touch",
       "url": "https://open.spotify.com/track/0YeVu5fmRos8tD0JRO1FGb"
@@ -2307,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "TURNING 10!",
+        "url": "https://open.spotify.com/album/1S7c912LzcQrBEG0YNM07L"
+      },
+      "artists": [
+        {
+          "name": "JAY10!",
+          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123857,
+      "name": "THE SURVEY - (JAY10! MIX)",
+      "url": "https://open.spotify.com/track/5pVCiBlFLVoRdN8sGXw6RC"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z"
       },
@@ -2318,7 +2430,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 123770,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
@@ -2416,7 +2528,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 163043,
       "name": "twenty four",
       "url": "https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM"
@@ -2438,7 +2550,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 154736,
       "name": "twoblaccbois",
       "url": "https://open.spotify.com/track/3A6z7lhMM5popptpx3G5Wm"
@@ -2500,6 +2612,24 @@
       "duration_ms": 111342,
       "name": "Valet",
       "url": "https://open.spotify.com/track/246MSbcmuI8gaJtmb77K7C"
+    },
+    {
+      "album": {
+        "name": "VEINS",
+        "url": "https://open.spotify.com/album/0ez1ZrNyveKJ3gGlE8dojC"
+      },
+      "artists": [
+        {
+          "name": "CEE5IVE",
+          "url": "https://open.spotify.com/artist/2ktRMWS8SU1AYM6PkEyb3I"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108307,
+      "name": "VEINS",
+      "url": "https://open.spotify.com/track/1npr6DcnOo85sqQALH3AED"
     },
     {
       "album": {
@@ -2623,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Whine Am",
+        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Whine Am",
+      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
+    },
+    {
+      "album": {
         "name": "Toys Out The Pram",
         "url": "https://open.spotify.com/album/60x5A0WgKdGQlfKQYVKP9i"
       },
@@ -2718,6 +2866,24 @@
       "duration_ms": 128000,
       "name": "WYM",
       "url": "https://open.spotify.com/track/0mjKjy6rnqi3MuHCdM2MUZ"
+    },
+    {
+      "album": {
+        "name": "Y PREE",
+        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140870,
+      "name": "Y PREE",
+      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
     },
     {
       "album": {

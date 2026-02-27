@@ -4,7 +4,7 @@
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Jason Chan
 
-141 songs - 8 hr 56 min
+142 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [會痊癒的 PTSD](https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [會痊癒的 PTSD](https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa) | 3:40 | 2025-10-23 |  |
 | [未來的歌](https://open.spotify.com/track/4KjnXaHhY2FQ09AXUe8MyP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [未來的歌](https://open.spotify.com/album/483w7AHmaDk6FzRu12frdN) | 4:11 | 2025-11-20 |  |
 | [未存在的我們](https://open.spotify.com/track/7pPYZ8pQcoqHJTOOW4llei) | [PER SE](https://open.spotify.com/artist/4MR8lE0GqFrysJi3s18woQ) | [未存在的我們](https://open.spotify.com/album/3KA4gvnARpTIaNvOYbRYgg) | 4:00 | 2025-11-20 |  |
+| [枇杷](https://open.spotify.com/track/7kk5iqxiUHOaLPfnqSNHOW) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [枇杷](https://open.spotify.com/album/2se1VXV7AhCI5J3vVh3UJR) | 3:39 | 2026-02-26 |  |
 | [某種老朋友](https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [某種老朋友](https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii) | 4:30 | 2022-07-07 | 2025-08-14 |
 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-07-07 | 2025-08-14 |
 | [永久損毀](https://open.spotify.com/track/2T8ppyUVF1TJT1Mjd7nmWK) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 3:52 | 2024-08-13 | 2025-08-14 |

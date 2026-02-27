@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: RICKY",
+  "description": "The best new and classic South African Rock. Cover: We Kill Cowboys",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 181406,
       "name": "Boogie Woogie",
       "url": "https://open.spotify.com/track/1BF4oTxrDPU85NV9YwjovF"
@@ -2905,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "Cowboys Of Doom",
+        "url": "https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        },
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299720,
+      "name": "Cowboys Of Doom",
+      "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
+    },
+    {
+      "album": {
         "name": "Crazy Meisie",
         "url": "https://open.spotify.com/album/4ArWlcEJMCqRt5CIWNX8hU"
       },
@@ -3046,7 +3068,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 158994,
       "name": "Cul-de-Sac",
       "url": "https://open.spotify.com/track/3ZKCi1xpt4lhucJX0zFsjm"
@@ -4404,6 +4426,24 @@
       "duration_ms": 141633,
       "name": "ek voel ek droom",
       "url": "https://open.spotify.com/track/7HuYCgwSa2bizw72pSXwvn"
+    },
+    {
+      "album": {
+        "name": "Ek Weet Nie Waar Ek Is Nie",
+        "url": "https://open.spotify.com/album/1Mp5UTeogrvoP0w4DUzHmt"
+      },
+      "artists": [
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/24qoC16krMl7flCFz8yi7N"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Ek Weet Nie Waar Ek Is Nie",
+      "url": "https://open.spotify.com/track/5WtT4r7kHaa235M9iNdqCE"
     },
     {
       "album": {
@@ -7072,7 +7112,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 181000,
       "name": "I Do",
       "url": "https://open.spotify.com/track/6mtr3n3If2PI2ekWyyxjm8"
@@ -7220,7 +7260,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 279327,
       "name": "I'm Afraid of Americans",
       "url": "https://open.spotify.com/track/2llxtfarQAta5xhYZsq6EA"
@@ -7682,7 +7722,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
@@ -14010,7 +14050,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 200704,
       "name": "Te Laat",
       "url": "https://open.spotify.com/track/0vCl4unZggtG0YQEcTtzqF"
@@ -15186,7 +15226,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 245277,
       "name": "Vacillate",
       "url": "https://open.spotify.com/track/76PlaHwjReExboeosTe7jm"
@@ -15424,7 +15464,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 189895,
       "name": "Victor Ludorum",
       "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover:Kethan & Tuku Kantu",
+  "description": "What is your love language? Say it in Swahili.  Cover: Watendawili",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195419,
       "name": "Baridi",
       "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
@@ -592,6 +592,28 @@
       "duration_ms": 174418,
       "name": "Best Couple (feat. Rudeboy)",
       "url": "https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2"
+    },
+    {
+      "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/2K6u2p51mwoN9MbDNWzFAI"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        },
+        {
+          "name": "Wendy Kimani",
+          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/48FW62a8isVS443e7EaIUE"
     },
     {
       "album": {
@@ -738,7 +760,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 253764,
       "name": "Cham Thum (Atoti)",
       "url": "https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ"
@@ -3865,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Hekaya",
+        "url": "https://open.spotify.com/album/2kTsEaD1ueaIy6diuV7qKP"
+      },
+      "artists": [
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Naogelea",
+      "url": "https://open.spotify.com/track/0yr8s0uDixBYcKjAVdvQZF"
+    },
+    {
+      "album": {
         "name": "Napendwa",
         "url": "https://open.spotify.com/album/7uSvaZCFzAnZTxSuLcUu4O"
       },
@@ -4812,7 +4852,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 250169,
       "name": "Pere",
       "url": "https://open.spotify.com/track/57nGA4UFRfISiYSRbemAJS"

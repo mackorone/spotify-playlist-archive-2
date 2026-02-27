@@ -6573,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "MT. DS EP",
+        "url": "https://open.spotify.com/album/2i4OGGjgQl7BBJluGyYTLE"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385948,
+      "name": "Lost Project",
+      "url": "https://open.spotify.com/track/5kXl3zSfTMIv1ohWapUxGK"
+    },
+    {
+      "album": {
         "name": "Poly",
         "url": "https://open.spotify.com/album/0l7zF0wmKvo2smjzhOBzHh"
       },
@@ -7220,6 +7242,28 @@
       "duration_ms": 341538,
       "name": "Movin' In Slowly",
       "url": "https://open.spotify.com/track/62bseztlpPySEmmSkkQEj9"
+    },
+    {
+      "album": {
+        "name": "MT. DS EP",
+        "url": "https://open.spotify.com/album/2i4OGGjgQl7BBJluGyYTLE"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314901,
+      "name": "MT. DS",
+      "url": "https://open.spotify.com/track/6XWXTB5PurCkKtlkT5xjk8"
     },
     {
       "album": {

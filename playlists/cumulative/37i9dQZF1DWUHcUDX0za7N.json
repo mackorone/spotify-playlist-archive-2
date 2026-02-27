@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
+  "description": "Hip hop and rap music from Nigeria. Cover: Kidd Carder",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -1722,6 +1722,28 @@
       "duration_ms": 143042,
       "name": "Big 7",
       "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
+    },
+    {
+      "album": {
+        "name": "Big Bum Bum",
+        "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Big Bum Bum",
+      "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
     },
     {
       "album": {
@@ -6231,6 +6253,24 @@
     },
     {
       "album": {
+        "name": "I DEY ABUJA",
+        "url": "https://open.spotify.com/album/1B3he5xpzSAlAsUevQ2P2V"
+      },
+      "artists": [
+        {
+          "name": "Toocoldbaby",
+          "url": "https://open.spotify.com/artist/7IsbSKYoGSIWo0NMqxjOCM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111566,
+      "name": "I DEY ABUJA",
+      "url": "https://open.spotify.com/track/6AAKc2ijypXA3aAGvL40i7"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
       },
@@ -9089,6 +9129,28 @@
     },
     {
       "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/2wVwXPEm98Bk9mzH9XsAau"
+      },
+      "artists": [
+        {
+          "name": "Yung6ix",
+          "url": "https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/4ekIPVGA4HemeWHGNz35WV"
+    },
+    {
+      "album": {
         "name": "World Citizens",
         "url": "https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4"
       },
@@ -9606,7 +9668,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208000,
       "name": "Nzogbu",
       "url": "https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh"
@@ -10924,7 +10986,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 159428,
       "name": "Pompous",
       "url": "https://open.spotify.com/track/4EfHXHVSCcWt64s8EkBQ0j"
@@ -11486,7 +11548,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 121021,
       "name": "Reason",
       "url": "https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2"

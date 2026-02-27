@@ -1,29 +1,13 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Kenta204.\n",
-  "num_followers": 210229,
+  "num_followers": 210243,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFyyAdSX92nygHCZ/z+iV+Kd09g",
+  "snapshot_id": "AAAAAOYmMJaBM/Z+5CzlghN3q8Mw+rBZ",
   "tracks": [
-    {
-      "added_at": "2026-02-18 20:21:45",
-      "album": {
-        "name": "Every Storm Hardens The Earth (Mixtape)",
-        "url": "https://open.spotify.com/album/5D5FYq24LxVsuxFUxwl9TR"
-      },
-      "artists": [
-        {
-          "name": "Kenta204",
-          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
-        }
-      ],
-      "duration_ms": 167108,
-      "name": "Every Storm Hardens The Earth",
-      "url": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
-    },
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
@@ -41,6 +25,62 @@
       "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
     },
     {
+      "added_at": "2026-02-26 18:54:06",
+      "album": {
+        "name": "Daddy's Got A Gun",
+        "url": "https://open.spotify.com/album/6rcpBsXMlpZ7hCGKFGlum0"
+      },
+      "artists": [
+        {
+          "name": "Allnight",
+          "url": "https://open.spotify.com/artist/0s8cHQ7qsebgXl9G5QvwOK"
+        },
+        {
+          "name": "L0-G",
+          "url": "https://open.spotify.com/artist/141tVOTrAyMU3VdELgMMqP"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Daddy's Got A Gun",
+      "url": "https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U"
+    },
+    {
+      "added_at": "2026-02-26 18:54:06",
+      "album": {
+        "name": "333 dance songs",
+        "url": "https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l"
+      },
+      "artists": [
+        {
+          "name": "Silent Boy",
+          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
+        },
+        {
+          "name": "defyer",
+          "url": "https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "dance 4 infinity",
+      "url": "https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ"
+    },
+    {
+      "added_at": "2026-02-18 20:21:45",
+      "album": {
+        "name": "Every Storm Hardens The Earth (Mixtape)",
+        "url": "https://open.spotify.com/album/5D5FYq24LxVsuxFUxwl9TR"
+      },
+      "artists": [
+        {
+          "name": "Kenta204",
+          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
+        }
+      ],
+      "duration_ms": 167108,
+      "name": "Every Storm Hardens The Earth",
+      "url": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
+    },
+    {
       "added_at": "2026-02-18 20:21:45",
       "album": {
         "name": "Loverr",
@@ -55,6 +95,26 @@
       "duration_ms": 200761,
       "name": "Loverr",
       "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+    },
+    {
+      "added_at": "2026-02-26 18:54:06",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/0wO7jlEeVdkKoB1unZAHbh"
+      },
+      "artists": [
+        {
+          "name": "Polezsky",
+          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
+        },
+        {
+          "name": "Kang Brul\u00e8e",
+          "url": "https://open.spotify.com/artist/5ZeHRvCKe43tfiVYy7w7Sj"
+        }
+      ],
+      "duration_ms": 227337,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2nWpOoHMnIDHeK7CTnx7VG"
     },
     {
       "added_at": "2026-02-18 20:21:45",
@@ -781,22 +841,6 @@
       "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
     },
     {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Hold On / Tip Off",
-        "url": "https://open.spotify.com/album/5o7WUSg1bVi0kigPP73QHy"
-      },
-      "artists": [
-        {
-          "name": "ROKAR",
-          "url": "https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/700RWaQjL1fKlIIXBzORp7"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "tenk(e)i",
@@ -881,22 +925,6 @@
       "url": "https://open.spotify.com/track/2so0hkOdT7OknXeIc5TaMW"
     },
     {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "Only Here For You",
-        "url": "https://open.spotify.com/album/6Wg6O05FkAFYI2G3ounA2z"
-      },
-      "artists": [
-        {
-          "name": "Eros for you",
-          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
-        }
-      ],
-      "duration_ms": 185568,
-      "name": "Only Here For You",
-      "url": "https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Certi EP",
@@ -943,26 +971,6 @@
       "duration_ms": 181860,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/3INBlTUmrormg1YJ7f4jZH"
-    },
-    {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "YOUR SAFE PLACE",
-        "url": "https://open.spotify.com/album/0XXCoNG0TyRzOeEOLay8jR"
-      },
-      "artists": [
-        {
-          "name": "Lennor Trax",
-          "url": "https://open.spotify.com/artist/5vjDcVulWQcEU3QQ4Yrjpf"
-        },
-        {
-          "name": "Kennon",
-          "url": "https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9"
-        }
-      ],
-      "duration_ms": 128955,
-      "name": "BLACK BOOTS",
-      "url": "https://open.spotify.com/track/2KpEBx6HTXlO6LJMJwEx81"
     },
     {
       "added_at": "2026-01-16 05:00:41",

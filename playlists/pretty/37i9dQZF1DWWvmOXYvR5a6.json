@@ -463,26 +463,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "Push (Feat. REI (IVE))",
-        "url": "https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav"
-      },
-      "artists": [
-        {
-          "name": "JOOHONEY",
-          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
-        },
-        {
-          "name": "REI (IVE)",
-          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Push (Feat. REI (IVE))",
-      "url": "https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "Push (Feat. REI (IVE))",
+        "url": "https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "REI (IVE)",
+          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Push (Feat. REI (IVE))",
+      "url": "https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -995,18 +995,22 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
       },
       "artists": [
         {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jung Zi So",
+          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
         }
       ],
-      "duration_ms": 164586,
-      "name": "200",
-      "url": "https://open.spotify.com/track/7dggO2kHQVRfeJGgkTW5rj"
+      "duration_ms": 190773,
+      "name": "Life Is A Movie (Feat. Jung Zi So)",
+      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "HANDS",
-        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jung Zi So",
-          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Life Is A Movie (Feat. Jung Zi So)",
-      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
+      "duration_ms": 164586,
+      "name": "200",
+      "url": "https://open.spotify.com/track/7dggO2kHQVRfeJGgkTW5rj"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "Rodeo Girls",
         "url": "https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH"
       },
@@ -1315,26 +1295,22 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "EVERYWHERE",
-        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 182300,
-      "name": "Sunday (feat. HEIZE, Jay Park)",
-      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1363,6 +1339,30 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
+        "name": "EVERYWHERE",
+        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 182300,
+      "name": "Sunday (feat. HEIZE, Jay Park)",
+      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 116722,
-      "name": "00:01",
-      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "Delphinium",
         "url": "https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 136000,
       "name": "So bad",
       "url": "https://open.spotify.com/track/3kqZEueNSpbDnjDjniyBgy"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 116722,
+      "name": "00:01",
+      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 293754,
-      "name": "Thread(1.11)",
-      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "BAPPI",
         "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 174900,
       "name": "BAPPI",
       "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 293754,
+      "name": "Thread(1.11)",
+      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "WHAT HAVE WE DONE",
         "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 234000,
       "name": "EASY (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2N4XsISPAYbi37LlxhfIT7"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "1,2,3,4,5",
-        "url": "https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "1,2,3,4,5",
-      "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "1,2,3,4,5",
+        "url": "https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "1,2,3,4,5",
+      "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
     },
     {
       "added_at": "2026-02-06 02:08:16",

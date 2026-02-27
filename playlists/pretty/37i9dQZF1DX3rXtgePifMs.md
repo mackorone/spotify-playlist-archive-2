@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,173 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,169 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 71 | [Running Water](https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Running Water](https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt) | 4:00 |
 | 72 | [The World's Biggest Paving Slab](https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [The World’s Biggest Paving Slab](https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6) | 3:05 |
 | 73 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 |
-| 74 | [Waiting To Go](https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Waiting To Go](https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP) | 2:30 |
-| 75 | [Paradox](https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [DICHOTOMY](https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg) | 3:43 |
+| 74 | [Paradox](https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [DICHOTOMY](https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg) | 3:43 |
+| 75 | [Waiting To Go](https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Waiting To Go](https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP) | 2:30 |
 | 76 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
 | 77 | [Better Than I?](https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG) | [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Better Than I?](https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5) | 2:25 |
 | 78 | [We Are The Ones \- FC24 Version](https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [We Are The Ones \(FC24 Version\)](https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO) | 2:15 |

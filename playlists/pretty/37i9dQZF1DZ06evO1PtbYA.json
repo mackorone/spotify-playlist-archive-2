@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 69662,
+  "num_followers": 69740,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADcd8dLtKQW57KSQZ/rU/S3",
+  "snapshot_id": "aZ47gAAAAAB/mTxRFhq6e7aQc37RATwh",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Protect Sarz At All Costs",
-        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 174743,
-      "name": "Happiness \u200b(f\u200beat\u200b. Asake, Gunna\u200b)",
-      "url": "https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN"
+      "duration_ms": 182976,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
     },
     {
       "added_at": null,
@@ -455,18 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+        "name": "Protect Sarz At All Costs",
+        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
       "artists": [
         {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 182976,
-      "name": "Worldwide",
-      "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
+      "duration_ms": 174743,
+      "name": "Happiness \u200b(f\u200beat\u200b. Asake, Gunna\u200b)",
+      "url": "https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN"
     },
     {
       "added_at": null,

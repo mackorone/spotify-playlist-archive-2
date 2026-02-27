@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "\"EMHDM\"",
+        "url": "https://open.spotify.com/album/3biFY6bFZVVEqy9DPYu5KI"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183761,
+      "name": "\"EMHDM\"",
+      "url": "https://open.spotify.com/track/5NbIHx26LyFkW2oSNSCYBV"
+    },
+    {
+      "album": {
         "name": "$extape",
         "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
       },
@@ -212,6 +234,24 @@
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "album": {
+        "name": "11:11pm",
+        "url": "https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195481,
+      "name": "11:11pm",
+      "url": "https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7"
     },
     {
       "album": {
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
@@ -4504,6 +4544,28 @@
       "duration_ms": 170699,
       "name": "Chamaquita",
       "url": "https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ"
+    },
+    {
+      "album": {
+        "name": "SUPERARTE",
+        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207984,
+      "name": "CHAMPAGNE",
+      "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
     },
     {
       "album": {
@@ -19725,6 +19787,24 @@
     },
     {
       "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
+    },
+    {
+      "album": {
         "name": "Otro M\u00e1s",
         "url": "https://open.spotify.com/album/3ExskaeeLRZhz0M8pUNDGW"
       },
@@ -21840,7 +21920,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208003,
       "name": "QUIERO QUERERTE",
       "url": "https://open.spotify.com/track/6ZBeo7yt5smSdrM3KtQxiA"
@@ -22622,7 +22702,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 186128,
       "name": "S I S T E M A S O L A R",
       "url": "https://open.spotify.com/track/1h0DRnMU0D0o82eMGEoV5Z"
@@ -26874,7 +26954,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173710,
       "name": "UN DIA",
       "url": "https://open.spotify.com/track/3iPYnV9WRHto3sy1kn4DDZ"

@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 295800,
+  "num_followers": 295817,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Coincidir",
+        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
+      },
+      "artists": [
+        {
+          "name": "Alberto Escobar",
+          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Al Final de Este Viaje...",
         "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Coincidir",
-        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
       "artists": [
         {
-          "name": "Alberto Escobar",
-          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
         }
       ],
-      "duration_ms": 246200,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
+      "duration_ms": 240866,
+      "name": "Todo El A\u00f1o",
+      "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -711,22 +727,6 @@
       "duration_ms": 253190,
       "name": "De Vez en Cuando - Ac\u00fastica",
       "url": "https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Todo El A\u00f1o",
-      "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
     },
     {
       "added_at": "2021-07-29 16:46:05",

@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
+    },
+    {
+      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
@@ -10244,7 +10262,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -19567,6 +19585,24 @@
     },
     {
       "album": {
+        "name": "\u4e24\u4e09\u53e5",
+        "url": "https://open.spotify.com/album/312kTgu87L6DEyXmzvmtzu"
+      },
+      "artists": [
+        {
+          "name": "\u5289\u745e\u7426",
+          "url": "https://open.spotify.com/artist/4mpD7eRd38R1tUcheDWrxQ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233148,
+      "name": "\u4e24\u4e09\u53e5",
+      "url": "https://open.spotify.com/track/0BkBM5rY934yzHViRhd8Em"
+    },
+    {
+      "album": {
         "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
         "url": "https://open.spotify.com/album/26Ng5PX95XAECI5JlhNL6p"
       },
@@ -23272,7 +23308,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 292666,
       "name": "\u611b\u6211\u9084\u662f\u4ed6",
       "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
@@ -24982,7 +25018,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 277026,
       "name": "\u6953",
       "url": "https://open.spotify.com/track/1pALOIA4ytESmhl7Fxjdic"
@@ -25690,7 +25726,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
@@ -25962,7 +25998,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 260794,
       "name": "\u770b\u7740\u6211\u7684\u773c\u775b\u8bf4",
       "url": "https://open.spotify.com/track/7d6eShN6yVeR4Y2Md9uCA4"
@@ -28226,6 +28262,24 @@
     {
       "album": {
         "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
+        "url": "https://open.spotify.com/album/6ymLDK67aM8l3bcG0H98OT"
+      },
+      "artists": [
+        {
+          "name": "Evangeline Wong",
+          "url": "https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233882,
+      "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
+      "url": "https://open.spotify.com/track/23WLgtD54AeluEPRr5muHo"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
         "url": "https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz"
       },
       "artists": [
@@ -28236,7 +28290,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 233882,
       "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
       "url": "https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby"

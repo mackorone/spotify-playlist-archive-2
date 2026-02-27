@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Fejo
 
-532 songs - 1 day 3 hr 23 min
+533 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Panchaara](https://open.spotify.com/track/25BLenQ3yKgH9p2CKK0owX) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P), [Ashley Milred](https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA), [Dj Cross](https://open.spotify.com/artist/2DmxMyIevr0QYdRuiLeV9H) | [Panchaara](https://open.spotify.com/album/02PhCXciHQt0uS9pGtbrbY) | 2:32 | 2025-09-15 | 2025-11-21 |
 | [Panchayath Kinar](https://open.spotify.com/track/56Xhc2nRo7mQLGmDzBDBWA) | [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5), [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Panchayath Kinar](https://open.spotify.com/album/2tXM6Zea2UnpSxwxQMtxSF) | 2:32 | 2025-01-09 | 2025-03-27 |
 | [Pandu Thotte](https://open.spotify.com/track/6BXftLsxnw9cgSKaKkjO2k) | [Nomadic Voice](https://open.spotify.com/artist/1oze8SLXENyjFZJbdfemfT), [16bars](https://open.spotify.com/artist/7qLiDZ7AveASlnEWpBpDc7), [VKDKV](https://open.spotify.com/artist/2is3kAPzIxjgRHXd9qZB3n) | [Pandu Thotte](https://open.spotify.com/album/2SHreN0cgRVxO5Vbcq3bxS) | 2:48 | 2022-04-22 | 2023-07-24 |
-| [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 | 2021-12-03 |  |
+| [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 | 2021-12-03 | 2026-02-27 |
 | [Panipaali\-2](https://open.spotify.com/track/4DkshUNprCxqUt2tRdTNO5) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Panipaali\-2](https://open.spotify.com/album/4md2GkBem01yXH7CsAeHIz) | 3:38 | 2021-12-03 | 2024-05-22 |
 | [Panth](https://open.spotify.com/track/1rF58Eo5WYzBkBOG90TANz) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [AjOopaan](https://open.spotify.com/artist/2Y145zR3OhtZPZtQoEqIJY) | [Panth](https://open.spotify.com/album/1qIl1f55pkRtMn4YAoKxJT) | 3:41 | 2025-03-21 | 2025-05-17 |
 | [Panthalchant](https://open.spotify.com/track/3pdqA52jfLMiIGx6Xma0OT) | [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ) | [Panthalchant](https://open.spotify.com/album/33dJvXVV2C0DcnVVBdYNz3) | 3:49 | 2025-11-20 |  |
@@ -538,6 +538,7 @@
 | [Workil Aanu Karyam](https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Workil Aanu Karyam](https://open.spotify.com/album/4xkntbV9pfipF2v9hrfLRG) | 4:57 | 2022-06-23 | 2023-09-12 |
 | [YEDA YUNG \(Malayalam Remix\)](https://open.spotify.com/track/5WVtnkAexBxsRGzbAx7nml) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG \(Malayalam Remix\)](https://open.spotify.com/album/3Uvat15PoPpq7VaNKDnxgI) | 1:37 | 2025-08-13 | 2025-11-21 |
 | [yenthina \(from "nilapad"\)](https://open.spotify.com/track/7rtpgV74gMPXM2ancRANyo) | [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [yenthina \(from "nilapad"\)](https://open.spotify.com/album/7c6ZXL1JJbJEMzjCSWTV4V) | 1:58 | 2025-04-11 | 2025-05-24 |
+| [ZILL](https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Shafi Kollam](https://open.spotify.com/artist/0udTsqVsPijUXCJgdVKYWp), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [ZILL](https://open.spotify.com/album/25D2wFqxvv4SupOGBIxXCM) | 4:07 | 2026-02-26 |  |
 | [Zone](https://open.spotify.com/track/66WHMvBjGEOu72hMQ8rXA8) | [SWAT](https://open.spotify.com/artist/69OLk01c5cxpeLmuAiMRL1), [sleepy](https://open.spotify.com/artist/4lcdVsKp56wTjk4DCl1Iev) | [Zone](https://open.spotify.com/album/6SDpQiS8uKzTHbw97Z4kx1) | 1:31 | 2023-11-10 | 2024-02-13 |
 | [മിന്നി മറഞ്ഞു](https://open.spotify.com/track/4A1T3FWBYEi5XQ8eLv9rFs) | [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [GATE](https://open.spotify.com/album/76aZGm2avDSL6BrJwsjuNi) | 2:57 | 2025-08-25 |  |
 

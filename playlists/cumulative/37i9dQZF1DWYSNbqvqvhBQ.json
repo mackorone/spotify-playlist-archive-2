@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: DI-RECT",
+  "description": "Nieuwe tijdloze muziek. Cover: Bruno Mars",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6vH4VuIH29cx6laIIbAxtL"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/2Grp2IRpIyRtCxECP6jkxh"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv"
       },
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 154160,
       "name": "Catch A Rainbow",
       "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 186033,
       "name": "Come Clean",
       "url": "https://open.spotify.com/track/0356jTnvzAyupYNibjTg7M"
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 251301,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/6vVMaiofg4IFJtn8yYqQ8x"
@@ -5903,6 +5921,24 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t Win",
+        "url": "https://open.spotify.com/album/39FbspoePNxq4byTBM5H6M"
+      },
+      "artists": [
+        {
+          "name": "Caro",
+          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210085,
+      "name": "I Can\u2019t Win",
+      "url": "https://open.spotify.com/track/3RR4Wmb9NaHyUPwBac0Pn3"
+    },
+    {
+      "album": {
         "name": "I Could Be Wrong",
         "url": "https://open.spotify.com/album/3ujt1l1rq1UnLM3KXHYPEx"
       },
@@ -6022,7 +6058,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 212637,
       "name": "I Guess I'm Sure",
       "url": "https://open.spotify.com/track/6UsRZit9dmciyAigtef9tn"
@@ -6586,7 +6622,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 287143,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/3cxBEkmOaCVUdJOkgF8lJb"
@@ -8205,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/3EXkmEMlnEh2BfExp4jZOH"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171339,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2I3dBfT6TKeAz94hK4RmJr"
+    },
+    {
+      "album": {
         "name": "Something Out Of Nothing",
         "url": "https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW"
       },
@@ -8695,6 +8749,24 @@
     },
     {
       "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "album": {
         "name": "Nine Lives",
         "url": "https://open.spotify.com/album/5Ct1RQG2vHREzV3Jjpjxfm"
       },
@@ -9088,6 +9160,24 @@
       "duration_ms": 179599,
       "name": "OMG It's Happening",
       "url": "https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
     },
     {
       "album": {
@@ -10880,7 +10970,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -10934,7 +11024,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 187467,
       "name": "Socrates Smiled",
       "url": "https://open.spotify.com/track/7KnPqZ12WBmU8GJUy3ljAM"
@@ -11573,6 +11663,24 @@
     },
     {
       "album": {
+        "name": "Still Champagne",
+        "url": "https://open.spotify.com/album/7zpeK7KW3wkYhwSVFsl97Y"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221218,
+      "name": "Still Champagne",
+      "url": "https://open.spotify.com/track/5O2Ut0Ka1wthWEuarwCWSJ"
+    },
+    {
+      "album": {
         "name": "Still Got It Goin' On (Radio Edit)",
         "url": "https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz"
       },
@@ -11804,7 +11912,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 191611,
       "name": "Stripes",
       "url": "https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8"
@@ -12422,7 +12530,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 223893,
       "name": "That's What I Call Love",
       "url": "https://open.spotify.com/track/4XelJWzJswwdO5tXsr2QFA"
@@ -12846,7 +12954,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 228402,
       "name": "The Road Ahead (Life The Way It Is) - Radio version",
       "url": "https://open.spotify.com/track/3POcaDOC7ojGvpFOdbMHgG"
@@ -14840,7 +14948,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167282,
       "name": "Won't You Be My Baby",
       "url": "https://open.spotify.com/track/4uqikSbQ5wADuWAoKvENkf"
@@ -15226,6 +15334,32 @@
       "duration_ms": 391438,
       "name": "Your Garden",
       "url": "https://open.spotify.com/track/2DxYd2MdwR9WvrU5NnXAtl"
+    },
+    {
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taras Topolia",
+          "url": "https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266312,
+      "name": "Yours Eternally (feat. Ed Sheeran & Taras Topolia)",
+      "url": "https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ"

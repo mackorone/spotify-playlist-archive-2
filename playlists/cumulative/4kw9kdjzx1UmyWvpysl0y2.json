@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 206292,
       "name": "Badman",
       "url": "https://open.spotify.com/track/0EgZN1lzPldXsSxmpRQMxN"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 156000,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/7cRN38N0djEeO6YDFAtHrc"
@@ -3402,6 +3402,28 @@
       "duration_ms": 255172,
       "name": "Burbank Nights",
       "url": "https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu"
+    },
+    {
+      "album": {
+        "name": "Burn It Down",
+        "url": "https://open.spotify.com/album/4Jj4XNp5s5Y3vLPOr8C5os"
+      },
+      "artists": [
+        {
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        },
+        {
+          "name": "Nokae",
+          "url": "https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/0148LGbNSeHx6qSWdou7WP"
     },
     {
       "album": {
@@ -5192,7 +5214,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 193793,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3pZiQdpk32YuxLSU3RTzD2"
@@ -13472,7 +13494,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 169000,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/098jJf7Hk5rgvBCVwLMYFg"
@@ -17400,7 +17422,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 231000,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/1v1y5wqUBNc3xxY2ZJfz8b"
@@ -21588,7 +21610,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 158181,
       "name": "The Speaker",
       "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"

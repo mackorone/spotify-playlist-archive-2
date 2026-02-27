@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "\u6787\u6777",
+        "url": "https://open.spotify.com/album/2se1VXV7AhCI5J3vVh3UJR"
+      },
+      "artists": [
+        {
+          "name": "Cath Wong",
+          "url": "https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219050,
+      "name": "\u6787\u6777",
+      "url": "https://open.spotify.com/track/7kk5iqxiUHOaLPfnqSNHOW"
+    },
+    {
+      "album": {
         "name": "\u67d0\u7a2e\u8001\u670b\u53cb",
         "url": "https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii"
       },

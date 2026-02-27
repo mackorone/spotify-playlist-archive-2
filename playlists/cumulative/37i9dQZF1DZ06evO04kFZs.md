@@ -4,7 +4,7 @@
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 30 min
+75 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Invincible](https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:07 | 2023-06-07 |  |
 | [Lane Switcha \(feat\. A$AP Rocky, Juicy J & Project Pat\)](https://open.spotify.com/track/3O7rBns1WnpXueDRcI5TgI) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Lane Switcha \(feat\. A$AP Rocky, Juicy J & Project Pat\)](https://open.spotify.com/album/6MqVcIbsIBBGE5lNl9xxxR) | 2:48 | 2024-06-21 | 2024-06-22 |
 | [Light It Up \(feat\. Pop Smoke\)](https://open.spotify.com/track/5rIjbX7rQMj8Gh9Oxd4Vrc) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:29 | 2024-07-20 | 2024-07-21 |
-| [Like Me \(with PnB Rock\)](https://open.spotify.com/track/7knEYd7b0UcbjgChHX7QBq) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:10 | 2023-06-07 |  |
+| [Like Me](https://open.spotify.com/track/2B33IkmDtRcU0fPMxJs7rc) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/67GSw1YQhA9WGVVUSYtIGb) | 3:10 | 2026-02-27 |  |
+| [Like Me \(with PnB Rock\)](https://open.spotify.com/track/7knEYd7b0UcbjgChHX7QBq) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:10 | 2023-06-07 | 2026-02-27 |
 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 | 2023-06-07 | 2024-07-06 |
 | [Mannequin \(feat\. Lil Tjay\)](https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:40 | 2023-06-07 |  |
 | [Meet the Woo](https://open.spotify.com/track/4kdKKsPHWsyNrvFsZrcg52) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 2:01 | 2023-06-07 |  |

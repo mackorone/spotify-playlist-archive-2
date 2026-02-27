@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1564949,
+  "num_followers": 1565129,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -367,46 +367,6 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
-        "name": "FASTLIFE 5 : Audio Luxury",
-        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205727,
-      "name": "Think About It (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4SoFYjj0p7W1MRyZFF2fLk"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236759,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -427,6 +387,46 @@
       "duration_ms": 237733,
       "name": "Feel The Music",
       "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236759,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205727,
+      "name": "Think About It (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4SoFYjj0p7W1MRyZFF2fLk"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
         "name": "Ziplock / Rich Don't Stop",
         "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 198960,
       "name": "Ziplock",
       "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
         "name": "Dos Uvas (PJ's Flip)",
         "url": "https://open.spotify.com/album/6uPTpysbCOXLo0aEwtEtwI"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 221842,
       "name": "Dos Uvas - PJ's Flip",
       "url": "https://open.spotify.com/track/5czfp4hTYMr0W7JFTjAKrZ"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "Resurrection",
-      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
-        "name": "Red Herring",
-        "url": "https://open.spotify.com/album/4t4goUpjyk86iqV8HVTJkH"
+        "name": "Scarecrows",
+        "url": "https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         },
         {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Red Herring",
-      "url": "https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5"
+      "duration_ms": 206174,
+      "name": "456 semm",
+      "url": "https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
-        "name": "Scarecrows",
-        "url": "https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj"
+        "name": "Red Herring",
+        "url": "https://open.spotify.com/album/4t4goUpjyk86iqV8HVTJkH"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         },
         {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
         }
       ],
-      "duration_ms": 206174,
-      "name": "456 semm",
-      "url": "https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA"
+      "duration_ms": 254200,
+      "name": "Red Herring",
+      "url": "https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 147906,
       "name": "BLAH",
       "url": "https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
+        "name": "GREEN LIGHT",
+        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "GREEN LIGHT",
+      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
         "name": "COLLECTION PLATES (feat. Young Chris)",
         "url": "https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z"
       },
@@ -1567,46 +1587,6 @@
       "duration_ms": 270604,
       "name": "COLLECTION PLATES (feat. Young Chris)",
       "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
-        "name": "Ultimate Dump Gawd 2",
-        "url": "https://open.spotify.com/album/4BK1I0k2gg8PmhBPMiV1ac"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Blk Luster S",
-      "url": "https://open.spotify.com/track/5mtYUulyfrFWugzqHLe8mw"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -1663,6 +1643,26 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
+        "name": "Ultimate Dump Gawd 2",
+        "url": "https://open.spotify.com/album/4BK1I0k2gg8PmhBPMiV1ac"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Blk Luster S",
+      "url": "https://open.spotify.com/track/5mtYUulyfrFWugzqHLe8mw"
     },
     {
       "added_at": "2026-02-23 17:36:53",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-02-23 17:36:53",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
-    },
-    {
-      "added_at": "2026-02-23 17:36:53",
-      "album": {
         "name": "DON'T GROW UP TOO SOON",
         "url": "https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 233802,
       "name": "Spinnin These Blocks (feat. BJ The Chicago Kid, Maxo Kream & Paul Wall)",
       "url": "https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK"
+    },
+    {
+      "added_at": "2026-02-23 17:36:53",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2026-02-23 17:36:53",

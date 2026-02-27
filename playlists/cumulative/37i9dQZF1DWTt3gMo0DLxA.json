@@ -924,7 +924,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 256000,
       "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
       "url": "https://open.spotify.com/track/7oPSWYvSHoC8UA8WVUngq4"
@@ -2806,13 +2806,17 @@
       },
       "artists": [
         {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 266715,
       "name": "Inkem Inkem Inkem Kaavaale",
       "url": "https://open.spotify.com/track/3hglFJgXWPZUlHLfiDO35b"
@@ -4801,6 +4805,10 @@
         "url": "https://open.spotify.com/album/4Qo2GygetQ72mekmB7D7Hg"
       },
       "artists": [
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        },
         {
           "name": "Adnan Sami",
           "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"

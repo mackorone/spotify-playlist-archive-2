@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-501 songs - 1 day 2 hr 35 min
+505 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [borde sagt hejdå för ett tag sen](https://open.spotify.com/track/4jh8asgmeHD8IU8V2Yw1K7) | [ASTE](https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ) | [borde sagt hejdå för ett tag sen](https://open.spotify.com/album/5nj39MtTjPwl1E7XkDzNDl) | 2:25 | 2024-06-28 | 2024-08-16 |
 | [Borderline Iconic](https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Borderline Iconic](https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK) | 3:06 | 2024-06-28 | 2024-08-23 |
 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 | 2024-06-28 | 2024-09-20 |
+| [Brevväxling](https://open.spotify.com/track/0yc5W54asefIkrHrCnh638) | [Knut€](https://open.spotify.com/artist/7n3qgKSD6IGnbzODQWnGTa) | [Brevväxling](https://open.spotify.com/album/0ND0fB9sYG4IdsZ81IG5qW) | 2:22 | 2026-02-26 |  |
 | [broken paradise](https://open.spotify.com/track/2dnBqp1fbuxotdW31xddUj) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [broken paradise](https://open.spotify.com/album/2lIuWlIWooFwWvPqL2JZem) | 4:02 | 2026-02-19 |  |
 | [Bromsa](https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW) | [Bromsa](https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN) | 2:33 | 2026-02-12 |  |
 | [Bränner mitt namn](https://open.spotify.com/track/2OUFNk0Vwld7NNTJ1hdYZQ) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Bränner mitt namn](https://open.spotify.com/album/5KWvSSuIQnV7t7HgdOt5Og) | 2:32 | 2025-04-17 | 2025-04-27 |
@@ -90,7 +91,7 @@
 | [Catch & Release](https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Catch & Release](https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg) | 2:57 | 2026-01-12 |  |
 | [Catch Me](https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Catch Me](https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq) | 2:57 | 2024-11-08 | 2025-05-23 |
 | [Ce Soir?](https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Ce Soir?](https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1) | 3:18 | 2024-08-22 | 2024-11-09 |
-| [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 |  |
+| [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 | 2026-02-27 |
 | [cherry flip](https://open.spotify.com/track/6lXI82PJUgsMjJCtKP79Jc) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [cherry flip](https://open.spotify.com/album/7rUD0Vje4bYqjrlI2jfGpR) | 3:29 | 2026-02-12 |  |
 | [Clairvoyant](https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n) | 3:33 | 2026-02-12 |  |
 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 | 2024-06-28 | 2024-09-20 |
@@ -99,7 +100,7 @@
 | [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 | 2025-05-15 | 2025-09-09 |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-28 | 2024-08-16 |
 | [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-16 | 2025-03-09 |
-| [Dallas](https://open.spotify.com/track/37YwXzdP7EdR487VhhCPdP) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Dallas](https://open.spotify.com/album/7IcbNnWX8Lp2S0ZgkGwb0X) | 2:04 | 2026-02-19 |  |
+| [Dallas](https://open.spotify.com/track/37YwXzdP7EdR487VhhCPdP) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Dallas](https://open.spotify.com/album/7IcbNnWX8Lp2S0ZgkGwb0X) | 2:04 | 2026-02-19 | 2026-02-27 |
 | [Damned](https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Damned](https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn) | 2:34 | 2025-09-04 | 2026-02-20 |
 | [Dance Alone](https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Dance Alone](https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H) | 2:38 | 2024-10-24 | 2025-06-06 |
 | [Dancing Around The Truth](https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Dancing Around The Truth](https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe) | 3:50 | 2025-03-20 | 2025-09-19 |
@@ -145,7 +146,7 @@
 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 | 2025-03-20 | 2025-08-22 |
 | [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Feelings You Don't Say Out Loud](https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP) | 2:54 | 2025-11-13 |  |
 | [Fel](https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [YAKO](https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT) | 2:38 | 2025-10-30 |  |
-| [Fel för mig](https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLODMÅNE](https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s) | 2:13 | 2025-10-30 |  |
+| [Fel för mig](https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLODMÅNE](https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s) | 2:13 | 2025-10-30 | 2026-02-27 |
 | [FEST](https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [FEST](https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3) | 2:53 | 2025-05-22 | 2025-08-24 |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-06-28 | 2024-08-16 |
 | [Figure Out](https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Figure Out](https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2) | 3:03 | 2024-10-10 | 2024-12-22 |
@@ -200,7 +201,7 @@
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-28 | 2025-04-25 |
 | [Hejdå för alltid](https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Hejdå för alltid](https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc) | 3:25 | 2024-08-15 | 2024-11-15 |
 | [hela havet stormar](https://open.spotify.com/track/4NxQBdrdcVnFAQuBDDGPGH) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [hela havet stormar](https://open.spotify.com/album/0eqBlZxanvXLzrQ8xYnZSY) | 3:29 | 2025-02-21 | 2025-03-23 |
-| [Hennessy](https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hennessy](https://open.spotify.com/album/2sHBTZk91B9ztITUyhoFT1) | 2:20 | 2025-09-11 |  |
+| [Hennessy](https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hennessy](https://open.spotify.com/album/2sHBTZk91B9ztITUyhoFT1) | 2:20 | 2025-09-11 | 2026-02-27 |
 | [Hey Little Love](https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hey Little Love](https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9) | 2:38 | 2024-06-28 | 2024-08-30 |
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-09-19 | 2025-05-09 |
 | [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 | 2024-08-22 | 2025-04-18 |
@@ -231,6 +232,7 @@
 | [I'll be fine](https://open.spotify.com/track/34JnZt7LU9dKbkbopyFu1G) | [FRANKIE OCTOBER](https://open.spotify.com/artist/40DZ0XYPJCrVu76o6nzyHw) | [I'll be fine](https://open.spotify.com/album/49MrsIN3l1vn2TtQJ3ilqt) | 2:22 | 2025-05-22 | 2025-05-30 |
 | [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 | 2024-06-28 | 2024-09-15 |
 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 | 2024-06-28 | 2024-09-27 |
+| [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 | 2026-02-26 |  |
 | [I'm So Sorry](https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Headache](https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ) | 4:00 | 2024-11-08 | 2025-04-27 |
 | [Idioti](https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Idioti](https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe) | 3:13 | 2024-06-28 | 2025-02-22 |
 | [Igen](https://open.spotify.com/track/3RNTLflckFVMuAQq42qT1j) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54), [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Igen](https://open.spotify.com/album/2OEdLFHWLWmbJd9Gvg2Ggb) | 2:08 | 2025-09-04 | 2025-09-14 |
@@ -338,6 +340,7 @@
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-06-28 | 2024-08-23 |
 | [Ner till sjön](https://open.spotify.com/track/756n8OYYga1NCuO0HibXix) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Nästa sommar EP](https://open.spotify.com/album/2qiMW6bQAxZohW39y8fVkt) | 2:20 | 2025-11-06 | 2025-11-14 |
 | [Nere på golvet](https://open.spotify.com/track/4KYz0f2OYDQLJEE5B8y2Zy) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Nere på golvet](https://open.spotify.com/album/3GnlXSvdW3BO8SFlOGrsiE) | 2:51 | 2025-04-24 | 2025-08-11 |
+| [Never Be Over](https://open.spotify.com/track/7co3hAzTZT3HbdITNnyywZ) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Never Be Over](https://open.spotify.com/album/5ysXlIX0TG7RCwspi59ek8) | 3:15 | 2026-02-26 |  |
 | [New Year's Eve](https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [New Year's Eve](https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw) | 2:51 | 2026-02-19 |  |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-12 | 2026-02-13 |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-28 | 2024-09-20 |
@@ -467,6 +470,7 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-23 |  |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-10-03 |
 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2026-01-01 |  |
+| [Track 12](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 0:00 | 2026-02-26 |  |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Tro på en ängel](https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Tro på en ängel](https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH) | 2:40 | 2026-02-19 |  |

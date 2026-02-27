@@ -4,7 +4,7 @@
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Eby, Zahra Sima
 
-296 songs - 23 hr 30 min
+298 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bukan Ku Tak Sudi \- \(Live Ska Reggae\)](https://open.spotify.com/track/2RZJ97Bl5WfrbnBYNG9e9r) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bukan Ku Tak Sudi \(Live Ska Reggae\)](https://open.spotify.com/album/6pnHrH876sQ5cAQsHSm4I3) | 4:17 | 2024-05-02 | 2024-07-19 |
 | [Calon Jenazah](https://open.spotify.com/track/76ZWu54R9aAMQsWEW5IqPh) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Calon Jenazah](https://open.spotify.com/album/6UrKQ4AgAhGkI8x2m5KU59) | 4:19 | 2025-02-07 | 2025-06-14 |
 | [Cincin Kepalsuan](https://open.spotify.com/track/7h16Oq3zKrQmY0NurK5DlT) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Cincin Kepalsuan](https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7) | 6:56 | 2023-07-21 | 2026-02-20 |
+| [Cincin Kepalsuan](https://open.spotify.com/track/635cvp7jE8hZXu8F85Ek4f) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cincin Kepalsuan](https://open.spotify.com/album/6Sjtc1kGTX45UfxOxqYZj8) | 5:36 | 2026-02-26 |  |
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 | 2023-07-14 |
 | [CINTA DAN DOSA](https://open.spotify.com/track/6LJzmQIwnB0tDzphJwUivJ) | [Irwan D'Academy](https://open.spotify.com/artist/1fYBFwAuNK3xemOOe9uB2D), [Laila Ayu](https://open.spotify.com/artist/7qUkW940N7g7WlRYmNmPOH), [SIMPATIK MUSIC](https://open.spotify.com/artist/7zywIHdV2JQDyuMIi3qyAe) | [CINTA DAN DOSA](https://open.spotify.com/album/0CNyk02MY1ZGz65uA7Ck9S) | 6:11 | 2025-11-06 |  |
 | [Cinta Palsu](https://open.spotify.com/track/7BrsMnzb83KxyC8lvEzXqg) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [IsDa](https://open.spotify.com/album/0ricRhNidM6AMUXeF0DATq) | 3:37 | 2024-11-21 | 2025-07-25 |
@@ -160,6 +161,7 @@
 | [Mataharimu](https://open.spotify.com/track/7hrrK9IGXA1V30nLkLI7Ei) | [Sridevi](https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3) | [Mataharimu](https://open.spotify.com/album/2vmrg3VSTLe3uMvwofdVQq) | 5:17 | 2023-02-16 | 2023-07-14 |
 | [Matamu](https://open.spotify.com/track/4567XBj0AIseDcylxH3VMD) | [Meli](https://open.spotify.com/artist/11s9ZlR5AfrRW2vXUkpBO4) | [Matamu](https://open.spotify.com/album/08kfLLPvmYHfr8Zaqcrrsf) | 3:06 | 2023-05-18 | 2023-08-25 |
 | [Matematika Cinta](https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw) | [Novi Ayla](https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1) | [Matematika Cinta](https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK) | 4:53 | 2023-11-17 | 2024-11-29 |
+| [Maunya Apa Sih?](https://open.spotify.com/track/5ztHGFd8hHMYPSGERevtOY) | [Tommy Ali](https://open.spotify.com/artist/4eBRdZqPrrm48UmWCYngha) | [Maunya Apa Sih?](https://open.spotify.com/album/129lOLBQMRnOPWJcY8nC4e) | 3:40 | 2026-02-26 |  |
 | [Melepasmu](https://open.spotify.com/track/5ahhrL4PMspbYlIqJEzIlv) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Melepasmu](https://open.spotify.com/album/5WumsUdGgys96NP3fT6XL6) | 6:10 | 2025-06-26 |  |
 | [Memandangmu](https://open.spotify.com/track/2rbRJydS6cK2TYDDHgTYG2) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [Danang](https://open.spotify.com/artist/5m5iTd6Xa4fITHqaN8d6eG) | [Memandangmu](https://open.spotify.com/album/6MzfZ9RzjxnbYO1S3RhvW1) | 5:05 | 2025-03-20 |  |
 | [Memori Berkasih](https://open.spotify.com/track/5LYzAfMFzCALsCw3wXzkIa) | [Arief](https://open.spotify.com/artist/4oKMJxfKAUkddjrPMPdk5k), [Fany Zee](https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v) | [Memori Berkasih](https://open.spotify.com/album/3Mi3AYmKgWKQNLQtPhOJmZ) | 5:54 | 2025-10-09 |  |

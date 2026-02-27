@@ -37,7 +37,7 @@
 | [Shadows Movement \- Original Mix](https://open.spotify.com/track/2o8LquXob4vqSAQ8rOptR5) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Shadows Movement / Fox And A Shooting Star](https://open.spotify.com/album/3TwYqZ57JFxUmRXYTSzlrp) | 7:59 | 2025-08-11 |  |
 | [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2025-08-11 |  |
 | [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2025-08-11 |  |
-| [Stormwatcher](https://open.spotify.com/track/1hd9l0AxbkeNyZTtwf8plY) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Need You EP](https://open.spotify.com/album/2otRshkbzv74U9KH8X6CER) | 6:34 | 2025-08-11 |  |
+| [Stormwatcher](https://open.spotify.com/track/1hd9l0AxbkeNyZTtwf8plY) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Need You EP](https://open.spotify.com/album/2otRshkbzv74U9KH8X6CER) | 6:34 | 2025-08-11 |  |
 | [Tuesday Maybe](https://open.spotify.com/track/6gWwDlXoYPFqrIdEjivBh5) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z) | [Tuesday Maybe](https://open.spotify.com/album/1jCD24WnDO6bPODoaQSCRx) | 8:11 | 2025-08-11 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

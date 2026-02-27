@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189378,
       "name": "Bas Tera Hi - Duet Version",
       "url": "https://open.spotify.com/track/091vrTnIlp5dp9nzBl3Wjx"
@@ -1982,6 +1982,28 @@
       "duration_ms": 169405,
       "name": "Chand Ka Takiya",
       "url": "https://open.spotify.com/track/2okMPDIxBxWwlyCD9KMpIM"
+    },
+    {
+      "album": {
+        "name": "Chand Takiye",
+        "url": "https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Chand Takiye",
+      "url": "https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4"
     },
     {
       "album": {

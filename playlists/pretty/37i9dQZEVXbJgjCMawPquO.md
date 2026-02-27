@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [AURORA](https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:12 |
 | 50 | [Entre El Cielo, Vos y Yo](https://open.spotify.com/track/3kPL8x7RFdMfH07VPaHUTI) | [Explosión Cumbiera](https://open.spotify.com/artist/4SMeiEST1BPqTgELZ3vDWM) | [Entre El Cielo, Vos y Yo](https://open.spotify.com/album/4ZXbCnEaDvRDHOSfstDuqH) | 4:04 |
 
-Snapshot ID: `MTJcQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTOtwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Joyce Manor
 
-613 songs - 1 day 6 hr 39 min
+614 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-12-02 | 2023-04-03 |
 | [AUTO\-HARMONIC ASS FIXATION](https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | […Is Committed](https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R) | 2:48 | 2024-05-31 | 2024-07-21 |
 | [autofocus on the prime directive](https://open.spotify.com/track/3gLTpQl26RIqcqLm9JaHD0) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [the world is still here and so are we](https://open.spotify.com/album/7KNMtMnDyvJhks1KnaPrOI) | 2:19 | 2025-05-08 | 2025-07-20 |
-| [Autopilot](https://open.spotify.com/track/5ZTFhPucwVWNd1C3kHMAWM) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Autopilot](https://open.spotify.com/album/5FqFZZ114IA18NpJKgy32X) | 3:12 | 2025-09-04 |  |
+| [Autopilot](https://open.spotify.com/track/5ZTFhPucwVWNd1C3kHMAWM) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Autopilot](https://open.spotify.com/album/5FqFZZ114IA18NpJKgy32X) | 3:12 | 2025-09-04 | 2026-02-27 |
 | [B.A.B.E.](https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [B.A.B.E.](https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw) | 2:33 | 2025-02-21 | 2025-05-09 |
 | [B.I.Y.L.C](https://open.spotify.com/track/6xGIQ8VQfH0la3Y3Vq4IBM) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [B.I.Y.L.C](https://open.spotify.com/album/3EJE4xPtidCgKjrJmVwIwO) | 1:36 | 2024-06-14 | 2024-06-28 |
 | [Baby, I Had an Abortion](https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby](https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx) | 3:12 | 2023-03-03 | 2023-03-21 |
@@ -474,6 +474,7 @@
 | [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 | 2023-01-18 | 2023-04-17 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 | 2023-03-03 | 2023-11-18 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-12-02 | 2023-01-30 |
+| [Semi\-Detached Furnished Home](https://open.spotify.com/track/426Pcd366bBkCCUAlJMgnP) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Semi\-Detached Furnished Home](https://open.spotify.com/album/3bLXWvtmvJS7HBwKoVop6B) | 2:13 | 2026-02-20 |  |
 | [Sense of Humor](https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Sense of Humor](https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4) | 3:15 | 2025-07-04 | 2025-10-05 |
 | [Separation Anxiety](https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Intermittent Fast Living](https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth) | 2:47 | 2024-04-25 | 2024-06-15 |
 | [Separation Anxiety](https://open.spotify.com/track/42GnEj7ZhK9g8I0LttHUdc) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Separation Anxiety](https://open.spotify.com/album/2nYoLJ0l9vgDsgIiajn2ja) | 2:47 | 2023-11-13 | 2023-12-21 |

@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 111 | [Favorite Nightmare](https://open.spotify.com/track/3rxs3sb4kIzcF0gGXIgH99) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch The World](https://open.spotify.com/album/1f6kyzMUyeVkp7si9VGNVo) | 4:24 |
 | 112 | [Guts!](https://open.spotify.com/track/2LzEmHpz8aaJukwPtYr1Pb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:31 |
 | 113 | [Phantom Feelings](https://open.spotify.com/track/6M2TeVN6SOxOm9hSs4CxbC) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:13 |
-| 114 | [Slot Machine](https://open.spotify.com/track/3sL8sWyHiI5nLudacZMlDj) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:40 |
-| 115 | [Breathe If You Love Me](https://open.spotify.com/track/7gD5ZxyHHdKH02kl4zyRxP) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 2:22 |
+| 114 | [Breathe If You Love Me](https://open.spotify.com/track/7gD5ZxyHHdKH02kl4zyRxP) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 2:22 |
+| 115 | [Slot Machine](https://open.spotify.com/track/3sL8sWyHiI5nLudacZMlDj) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:40 |
 | 116 | [Smoke One More](https://open.spotify.com/track/2lwv76UH9Au1Wbcy1EG36s) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:14 |
 | 117 | [Dandelions](https://open.spotify.com/track/2cxruexwZMiqnT0VgiKcDz) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:43 |
 | 118 | [Life Is Fucking Beautiful](https://open.spotify.com/track/0lXEbSLXE7Tvj06p7GuwOb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 3:52 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 127 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcKpagAAAADLTwLw3uL47vmr4hJNwVww`
+Snapshot ID: `AcKvHgAAAACymFvutqhxDmStOhmfko8+`

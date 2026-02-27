@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Jamie MacDonald
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,719 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,690 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 14 | [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 |
 | 15 | [THANK GOD I'M FREE](https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [THANK GOD I'M FREE](https://open.spotify.com/album/50w6pz7MRBPunUgo02zsxO) | 5:04 |
 | 16 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
-| 17 | [God I'm Just Grateful](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
+| 17 | [God I'm Just Grateful \- Radio Version](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful \(Radio Version\)](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
 | 18 | [Lord Send Revival \- Live](https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Lord Send Revival \(Live\)](https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF) | 6:42 |
 | 19 | [Way Maker](https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08) | [SINACH](https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV) | [Way Maker](https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq) | 4:46 |
 | 20 | [Still Waters \(Psalm 23\)](https://open.spotify.com/track/4TzpQkanZkYjzGdthyyw7f) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Psalm 23\)](https://open.spotify.com/album/3Qh5t7e0qpdA8rgsGTTArI) | 3:56 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MUN",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mariana Pereira, Rafaell Dior",
   "name": "Seda",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 138979,
       "name": "Alta Cultura - Babygirl",
       "url": "https://open.spotify.com/track/0r59zpiDDbZk8PEdIyGqBQ"
@@ -2536,6 +2536,24 @@
       "duration_ms": 221538,
       "name": "Calor",
       "url": "https://open.spotify.com/track/0hJQmqriIYh2lL8nqOPQLq"
+    },
+    {
+      "album": {
+        "name": "Camisa 10 (Primavera)",
+        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
+      },
+      "artists": [
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Camisa 10 (Primavera)",
+      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
     },
     {
       "album": {
@@ -4751,6 +4769,28 @@
     },
     {
       "album": {
+        "name": "D\u00f3i",
+        "url": "https://open.spotify.com/album/5j9j5FJyTsUbpSx7yofANe"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        },
+        {
+          "name": "Rafaell Dior",
+          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "D\u00f3i",
+      "url": "https://open.spotify.com/track/2YUyNW6Im8CJiEti9LYRvy"
+    },
+    {
+      "album": {
         "name": "E Se Amanh\u00e3 Eu N\u00e3o Acordar?",
         "url": "https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV"
       },
@@ -6878,7 +6918,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 113829,
       "name": "Hoje",
       "url": "https://open.spotify.com/track/6MDcpI3jbYdG7nkieRyAKC"
@@ -10156,7 +10196,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 137739,
       "name": "Nome",
       "url": "https://open.spotify.com/track/3xVRBV0qAmdPH57EkAWodj"
@@ -11660,7 +11700,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195348,
       "name": "Perto",
       "url": "https://open.spotify.com/track/5ZUmKYx06j9nfAFrQzLh7h"

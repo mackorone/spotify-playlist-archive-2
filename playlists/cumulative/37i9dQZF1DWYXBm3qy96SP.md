@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Twenty One Pilots
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: American Football
 
-1,814 songs - 4 day 8 hr 57 min
+1,816 songs - 4 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [bad idea right?](https://open.spotify.com/track/7MEj3sZBfizVsLRV9xJAD9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp) | 3:04 | 2024-03-21 | 2024-03-29 |
 | [BAD INFLUENCE](https://open.spotify.com/track/2Zb0EFTUJPE75ga3EJGaTI) | [Fuller](https://open.spotify.com/artist/6u0sR7YTLPNf5CdyBg3ZE1) | [BAD INFLUENCE](https://open.spotify.com/album/2LFQ1ci8QLwO4EVLqDgrja) | 2:46 | 2024-02-29 | 2024-05-03 |
 | [Bad Joke](https://open.spotify.com/track/3aUUiMQGt2WPM38NjodKpj) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Good Drugs // Bad Joke](https://open.spotify.com/album/4WJJepmUt5zsXqeyF1B2sA) | 2:38 | 2023-06-22 | 2023-06-30 |
+| [Bad Moons](https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [Bad Moons](https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p) | 8:13 | 2026-02-26 |  |
 | [Bad Muthafucker](https://open.spotify.com/track/55D6mC3e2u1XK4mAJ7OzHo) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [AMEN](https://open.spotify.com/album/5GcQhWvQf2nEqCylA5dgpc) | 3:48 | 2023-04-20 | 2023-04-28 |
 | [Bad Remake](https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens \(5th Anniversary Edition\)](https://open.spotify.com/album/3GbofUquULdgvfmK83AXVz) | 3:08 | 2024-07-18 | 2024-08-02 |
 | [Bad Time](https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bad Time](https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty) | 2:55 | 2023-11-30 | 2023-12-08 |
@@ -763,6 +764,7 @@
 | [I Just Don't Know](https://open.spotify.com/track/0AIcHzqhHN5IjIl3qlh90R) | [Duff McKagan](https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1), [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Lighthouse](https://open.spotify.com/album/1yiipBDOi6JJZecycXOlE7) | 5:27 | 2023-10-19 | 2023-10-27 |
 | [I Keep On Messing It Up](https://open.spotify.com/track/3dGU74UBKhHkeCAO8kyyPK) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [I Keep On Messing It Up](https://open.spotify.com/album/03kfZ6iKeJfyJkYPAvt8py) | 2:43 | 2025-02-27 | 2025-03-07 |
 | [I Knew We'd Talk About It One Day](https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [I Knew We'd Talk About It One Day](https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y) | 3:27 | 2025-08-08 | 2025-08-15 |
+| [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-02-26 |  |
 | [I Love America And She Hates Me](https://open.spotify.com/track/57YAiU79py7qXu05oW0cNI) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 3:39 | 2025-02-14 | 2025-02-21 |
 | [I Love It When It Rains](https://open.spotify.com/track/2iRpC6staR7gkZgitFa6rQ) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Love It When It Rains](https://open.spotify.com/album/2D8aGAzCrpTESFd4r1cJpm) | 3:18 | 2024-05-02 | 2024-07-08 |
 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 | 2025-05-01 | 2025-05-23 |
@@ -1505,7 +1507,7 @@
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-11 | 2025-01-17 |
 | [taking over me](https://open.spotify.com/track/2cSr0CZ3q0kvCH6NKj0Pqr) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [HEADSPLIT](https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL) | 2:23 | 2024-05-02 | 2024-05-09 |
 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 | 2023-06-15 | 2024-09-27 |
-| [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 | 2025-10-16 |  |
+| [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 | 2025-10-16 | 2026-02-27 |
 | [Tangerine](https://open.spotify.com/track/6zxovpxhuNQwQBVv52gioP) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Tangerine](https://open.spotify.com/album/6gpNZaAhggcDoW6PIPWtll) | 2:36 | 2023-08-31 | 2023-09-08 |
 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 | 2025-06-19 | 2025-07-09 |
 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 | 2025-07-10 | 2025-08-16 |
@@ -1783,7 +1785,7 @@
 | [You Plus Me](https://open.spotify.com/track/2YLSw7VocLFF4MNr5X7qeM) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [You Plus Me](https://open.spotify.com/album/72qAfy89DFIPG6AHkZsL4G) | 3:12 | 2023-10-05 | 2023-10-13 |
 | [You're the Best](https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [You're the Best](https://open.spotify.com/album/69jGwOCfLDLfps1E7nXMPg) | 2:01 | 2024-06-20 | 2024-07-19 |
 | [You've Got The Nerve](https://open.spotify.com/track/3QiIyZ6uVHDIBHIcD9NguN) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [You've Got The Nerve](https://open.spotify.com/album/7lNgBcxF1c0tuU3uHd3n4z) | 2:28 | 2024-02-29 | 2024-04-19 |
-| [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 | 2025-05-08 |  |
+| [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 | 2025-05-08 | 2026-02-27 |
 | [Young In America](https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Young In America](https://open.spotify.com/album/1ZIQTACUeZjcf9xHHvCpQp) | 3:44 | 2023-09-28 | 2023-10-06 |
 | [Your Apartment](https://open.spotify.com/track/4Fi7oEopcTe2GkmVOeNdoZ) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Your Apartment](https://open.spotify.com/album/27uE4MarekqLyFPzbiPAw9) | 3:31 | 2023-03-23 | 2023-03-31 |
 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2023-10-05 | 2024-02-09 |

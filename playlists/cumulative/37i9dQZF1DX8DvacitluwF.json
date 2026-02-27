@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Brent Faiyaz",
+  "description": "The best in South African and international R&B. Cover: Zo\u00eb Modiga",
   "name": "R&Beats",
   "tracks": [
     {
@@ -9845,6 +9845,24 @@
     },
     {
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/46KvZeQrMhFyn6VxUuNlTN"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273440,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/4bPiHiin4XEnhZDPOCo9Mf"
+    },
+    {
+      "album": {
         "name": "Sonini",
         "url": "https://open.spotify.com/album/0nTT2okOPit3hf14FwSGtl"
       },
@@ -12142,7 +12160,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 197027,
       "name": "When You're Around",
       "url": "https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc"

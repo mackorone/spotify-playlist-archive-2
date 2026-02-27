@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Brent Faiyaz
+> The best in South African and international R&B\. Cover: Zoë Modiga
 
-630 songs - 1 day 9 hr 56 min
+631 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Soft \(feat\. Chlöe & Halle\) \[Unlocked\]](https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Access All Areas: Unlocked](https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB) | 3:11 | 2024-11-29 | 2025-04-25 |
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-09-11 | 2025-06-28 |
 | [Someone Like You](https://open.spotify.com/track/49gDQkf5v2JFaBe9SjljNy) | [SuperCye](https://open.spotify.com/artist/2CpDiyZe7RLNgxRWkHVQYt) | [Desires](https://open.spotify.com/album/1jxx3QjNXfKNRkpN6bkdvz) | 3:09 | 2024-02-08 | 2024-04-26 |
+| [Something New](https://open.spotify.com/track/4bPiHiin4XEnhZDPOCo9Mf) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Something New](https://open.spotify.com/album/46KvZeQrMhFyn6VxUuNlTN) | 4:33 | 2026-02-27 |  |
 | [Sonini](https://open.spotify.com/track/6Dy6xKYYOyEjI2iXFS5lri) | [siinaye](https://open.spotify.com/artist/4iCyRYyLMg9tzqpWRFbQhm), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Sonini](https://open.spotify.com/album/0nTT2okOPit3hf14FwSGtl) | 3:05 | 2025-09-05 | 2025-11-22 |
 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 | 2025-01-17 | 2025-04-25 |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-10-12 | 2024-09-12 |
@@ -617,7 +618,7 @@
 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 | 2024-03-14 | 2024-04-05 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-22 | 2024-05-10 |
 | [When He's Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/0uYBQGchK3LIkNpxnrA6k7) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 4:28 | 2024-09-11 | 2024-12-02 |
-| [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-11 |  |
+| [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-11 | 2026-02-27 |
 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 | 2024-11-08 |
 | [WHY](https://open.spotify.com/track/2HXgTKf6UouGfax3SqNdj3) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 2:59 | 2026-02-13 | 2026-02-20 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-26 | 2024-03-22 |

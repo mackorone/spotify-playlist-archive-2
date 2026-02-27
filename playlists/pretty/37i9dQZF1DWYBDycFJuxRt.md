@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: HANA \*👉 <a href="https://spice.eplus.jp/articles/344304">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,083 likes - 93 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,100 likes - 93 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 46 | [ブルーシャドウにのっかって](https://open.spotify.com/track/62jFkV1ctIh9lJzvWiaIRJ) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [aero](https://open.spotify.com/album/2IFLkSxv2u8ISZTEl0Ba4o) | 2:53 |
 | 47 | [GOMEN](https://open.spotify.com/track/5bG0tX2QEA0sjRK0riTR8A) | [Kaikun](https://open.spotify.com/artist/2yXYV0qNsatMoSA2B5uKSj), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [GOMEN](https://open.spotify.com/album/6HIKhSFBCdxD3nMlePgATO) | 2:55 |
 | 48 | [Kyukyusha \(feat\. Jinmenusagi\)](https://open.spotify.com/track/3SRNiXDtH2Wne3W9TiGlk1) | [C6ix](https://open.spotify.com/artist/4g0NGiHJAVMSqJKTCtzZzE), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Kyukyusha \(feat\. Jinmenusagi\)](https://open.spotify.com/album/4S29V2BnrQwO0l2CS1D5nv) | 2:45 |
-| 49 | [Yα Boy!!](https://open.spotify.com/track/2KZeSOk8Cri20hcqnZLpjl) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Yα Boy!!](https://open.spotify.com/album/4RT9pfWS6VNkU6sVckHgT3) | 3:55 |
+| 49 | [Yα Boy!!](https://open.spotify.com/track/2KZeSOk8Cri20hcqnZLpjl) | [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Yα Boy!!](https://open.spotify.com/album/4RT9pfWS6VNkU6sVckHgT3) | 3:55 |
 | 50 | [Flaaash!](https://open.spotify.com/track/1p3xYoDptoZ7wcOx2nRKqK) | [K E I\_H A Y A S H I](https://open.spotify.com/artist/4fQ023lP2bX27W1YYw9DIc) | [Flaaash!](https://open.spotify.com/album/2cMDCGYwXKfLJZ3uN7JY49) | 3:26 |
 | 51 | [よろこび](https://open.spotify.com/track/7pxqWl7DfKmLON2pyGDTvc) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [よろこび](https://open.spotify.com/album/3RAYICz4xSIe8NNu7CTMvY) | 4:57 |
 | 52 | [轉角](https://open.spotify.com/track/22jzzU4SuZPTN8EbuF4L2y) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq), [Ami Tseng](https://open.spotify.com/artist/4lhNiM1o0Qc6hGRkNcc3yG) | [轉角](https://open.spotify.com/album/6XjnxQn8Mya6cz7a6AoLXO) | 3:28 |

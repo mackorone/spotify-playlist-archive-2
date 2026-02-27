@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/5PblGV3rZOaVQLHKRFHDms"
+      },
+      "artists": [
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/7yuq2YAERvdU11fdpT3U4U"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176328,
+      "name": "BAD IDEA",
+      "url": "https://open.spotify.com/track/454QBjmfFC8tAiEGWvVVvx"
+    },
+    {
+      "album": {
         "name": "BANDIDO FUNK",
         "url": "https://open.spotify.com/album/3ho4KiO44oOR46s9SNwy2n"
       },

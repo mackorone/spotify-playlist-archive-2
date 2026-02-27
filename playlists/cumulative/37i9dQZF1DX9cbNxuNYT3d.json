@@ -46,7 +46,7 @@
       },
       "artists": [
         {
-          "name": "\u00c9tienne de Cr\u00e9cy",
+          "name": "Etienne de Cr\u00e9cy ",
           "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
         }
       ],
@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Prix Choc Remixes - EP",
+        "url": "https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8"
+      },
+      "artists": [
+        {
+          "name": "Etienne de Cr\u00e9cy ",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "Prix Choc - Radio Edit - High Mix",
+      "url": "https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D"
+    },
+    {
+      "album": {
         "name": "Prix Choc",
         "url": "https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O"
       },
@@ -1488,24 +1506,6 @@
       "duration_ms": 235906,
       "name": "Prix Choc - Radio Edit - High Mix",
       "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"
-    },
-    {
-      "album": {
-        "name": "Prix Choc Remixes - EP",
-        "url": "https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne de Cr\u00e9cy",
-          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
-        }
-      ],
-      "date_added": "2022-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235906,
-      "name": "Prix Choc - Radio Edit - High Mix",
-      "url": "https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D"
     },
     {
       "album": {
@@ -1670,7 +1670,7 @@
       },
       "artists": [
         {
-          "name": "\u00c9tienne de Cr\u00e9cy",
+          "name": "Etienne de Cr\u00e9cy ",
           "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
         },
         {

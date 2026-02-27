@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Foo Fighters",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: ITCHY",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 199573,
       "name": "Accept Myself",
       "url": "https://open.spotify.com/track/2eK6zmnseWIMW52PR2Z0t1"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189718,
       "name": "All Alive",
       "url": "https://open.spotify.com/track/7IYjvKGRz2EMTCwXY0eWPE"
@@ -2096,6 +2096,24 @@
       "duration_ms": 224310,
       "name": "Bobby Sox",
       "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+    },
+    {
+      "album": {
+        "name": "Born To Kill",
+        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Born To Kill",
+      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
     },
     {
       "album": {
@@ -4767,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "F.T.W. 84",
+      "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
+    },
+    {
+      "album": {
         "name": "Failure",
         "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
       },
@@ -5116,6 +5152,24 @@
       "duration_ms": 203999,
       "name": "Fractured",
       "url": "https://open.spotify.com/track/5vVmVvGSIJrNKw7qHtJR3V"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "album": {
@@ -7752,7 +7806,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 243833,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/4wAp760R9vENNSfPT3QjV4"
@@ -8358,7 +8412,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 191181,
       "name": "Love Is Dying",
       "url": "https://open.spotify.com/track/7lvEhN2C6ZubBJfqrlPQQF"
@@ -9644,7 +9698,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 224268,
       "name": "NO WAY TO LIVE",
       "url": "https://open.spotify.com/track/5pGOk7tBOrCrFWwTOKkQWi"
@@ -10169,6 +10223,24 @@
     },
     {
       "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/3Qxms75iFFEBACANdN1nns"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150753,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/3tffqhqjhbLMfefbsMupgL"
+    },
+    {
+      "album": {
         "name": "Overcompensate",
         "url": "https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz"
       },
@@ -10326,6 +10398,24 @@
       "duration_ms": 180615,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des"
+    },
+    {
+      "album": {
+        "name": "Paradox Man",
+        "url": "https://open.spotify.com/album/3Of6FVyVd8Qm9UGgY3xnsi"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107477,
+      "name": "Paradox Man",
+      "url": "https://open.spotify.com/track/3MblpbLCZ6ZaBGwlampVlx"
     },
     {
       "album": {
@@ -11548,7 +11638,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167259,
       "name": "Save Your Roses",
       "url": "https://open.spotify.com/track/7qWKbKxjWIh6Yq0jcba8s2"
@@ -11812,6 +11902,24 @@
       "duration_ms": 224466,
       "name": "Sharp Shooter",
       "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
+    },
+    {
+      "album": {
+        "name": "Shattered Horizons",
+        "url": "https://open.spotify.com/album/1xj03wQ9bC5yPpjQaUWsYy"
+      },
+      "artists": [
+        {
+          "name": "GRAYWOLF",
+          "url": "https://open.spotify.com/artist/5h5NC0ORZrrvqVzrQdz4fC"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204748,
+      "name": "Shattered Horizons",
+      "url": "https://open.spotify.com/track/5EmniXw4mKaF7eyP3t1hsB"
     },
     {
       "album": {
@@ -14263,6 +14371,24 @@
     },
     {
       "album": {
+        "name": "Tribute Song",
+        "url": "https://open.spotify.com/album/0hn6fg81VgSojwZWMOqZV1"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198175,
+      "name": "Tribute Song",
+      "url": "https://open.spotify.com/track/5rg5QYqijRKDz9coVQmAIo"
+    },
+    {
+      "album": {
         "name": "True Believer",
         "url": "https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62"
       },
@@ -15092,7 +15218,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 147253,
       "name": "WEAPON",
       "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"

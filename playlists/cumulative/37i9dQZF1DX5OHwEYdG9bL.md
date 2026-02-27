@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: ATEEZ\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: Hearts2Hearts\) \(Enjoy a playlist of songs that support music video features!\)
 
-186 songs - 10 hr 18 min
+188 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bitter Sweet](https://open.spotify.com/track/5cnQKFiGw1qVfnbhGBbTPx) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Bitter Sweet](https://open.spotify.com/album/0LZZQWGxIn73Zx3joZTbyN) | 2:49 | 2026-01-03 |  |
 | [Blue Valentine](https://open.spotify.com/track/3oW83DopZrJSdXG6T8FHJ8) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0CthFjhDsahYkAhEY7X8kx) | 3:14 | 2025-10-24 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/0Tql32l0iKbng4WDok0SgE) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5TI8s1Kjo4nNFKyqxpMKjK) | 4:03 | 2025-07-15 | 2025-08-20 |
+| [BOTH SIDES](https://open.spotify.com/track/3fBp1fqRxFAH5NWhIY9lMq) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES](https://open.spotify.com/album/7fECU0kA1n5hxYzz7PpHmN) | 3:16 | 2026-02-27 |  |
 | [BRUISE](https://open.spotify.com/track/2PgRbGGGKgTTAQJWMcuwsL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [BRUISE](https://open.spotify.com/album/3f3zoSdNknY1cVivGbEyC9) | 3:29 | 2026-01-28 |  |
 | [BTG](https://open.spotify.com/track/65R0GRTYAygptqXHwQMDQG) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [BTG](https://open.spotify.com/album/27P5shDmd4RpYH7UgWJYSk) | 3:14 | 2025-07-15 |  |
 | [BTTF](https://open.spotify.com/track/0JrmsSNpFZHSGuOV55aZum) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [BTTF](https://open.spotify.com/album/6sRwi5sEg3lBOucOAQPvwV) | 3:41 | 2025-07-15 |  |
@@ -148,6 +149,7 @@
 | [R&B ME \(feat\. Changbin\)](https://open.spotify.com/track/0Uxh4wV2FSgCEDQyhwnkYb) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Dear my muse](https://open.spotify.com/album/33XQGNALxI7Lu76Yx0SUOA) | 2:55 | 2025-10-24 |  |
 | [REBEL HEART](https://open.spotify.com/track/2itoCOiuGnbeEE8AkCPEOK) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/1j9jMOd3leVxC05E8Rx17t) | 3:13 | 2025-07-15 | 2025-08-20 |
 | [Rich Man](https://open.spotify.com/track/2stuLR7ix3QFg5XQbC6CoW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man](https://open.spotify.com/album/2bvecqTmvOzEL8VnzlI6gJ) | 3:29 | 2025-10-24 |  |
+| [RUDE!](https://open.spotify.com/track/1G4U1zoIdkKaGFLzJ3autY) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/43AUpx51ume5mvtbnafghd) | 3:35 | 2026-02-27 |  |
 | [Running Wild](https://open.spotify.com/track/5QM9uyKvDfAAH1lRSdAyIY) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild](https://open.spotify.com/album/1kVFc1BCTKDjOktEXwNbUK) | 3:15 | 2025-07-15 | 2025-08-20 |
 | [Sensitive](https://open.spotify.com/track/5Ukal3E7V4mnm6tsJDhzji) | [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Sensitive](https://open.spotify.com/album/2rI3sHX3ODdxoWjLsk7jqY) | 3:12 | 2025-08-13 |  |
 | [ShaLala](https://open.spotify.com/track/3UvBnrsBR9f9cMuQiKwuEc) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [ShaLala](https://open.spotify.com/album/7mdeEX98Eio0vM7j55rAEy) | 3:02 | 2025-07-15 | 2025-08-20 |

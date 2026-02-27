@@ -22431,6 +22431,32 @@
     },
     {
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/5ljSRA2BAMvHe6iHpHUy3s"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/243zvdGFWl6GurMRSp0XNQ"
+    },
+    {
+      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/45rMynAlvFewRTrfYT7c9F"
       },

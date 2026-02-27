@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 186300,
       "name": "ALTCEVA",
       "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
@@ -2049,6 +2049,36 @@
     },
     {
       "album": {
+        "name": "Geniu",
+        "url": "https://open.spotify.com/album/5XPssYdwEP3dhsPjxbueyj"
+      },
+      "artists": [
+        {
+          "name": "Electric Brother",
+          "url": "https://open.spotify.com/artist/3L3EmIHHjHMzHpupi2N2mj"
+        },
+        {
+          "name": "Psihotrop",
+          "url": "https://open.spotify.com/artist/4xbiHB22kFlnrPzVrLqfKf"
+        },
+        {
+          "name": "Omu Gnom",
+          "url": "https://open.spotify.com/artist/4oCETdxS79OLGsfTVZA21e"
+        },
+        {
+          "name": "Norzeatic",
+          "url": "https://open.spotify.com/artist/0Pa13I7WcADoMaT3fJXve3"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Geniu",
+      "url": "https://open.spotify.com/track/65MDFQDnI3jwYBhgCudKSJ"
+    },
+    {
+      "album": {
         "name": "RADIOFONIC",
         "url": "https://open.spotify.com/album/28TjBMndTDtdBNWHbgtcbL"
       },
@@ -2867,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "MAROC",
+        "url": "https://open.spotify.com/album/2SWazH4hYRDoeNRYSkrCwe"
+      },
+      "artists": [
+        {
+          "name": "Vali Miron",
+          "url": "https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "MAROC",
+      "url": "https://open.spotify.com/track/09ePeeqELKQhxRPED0Fakf"
+    },
+    {
+      "album": {
         "name": "Meditez",
         "url": "https://open.spotify.com/album/1NiNEqg5QMusfJEzTlyhFv"
       },
@@ -3050,7 +3098,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 179340,
       "name": "Ne vedem acas\u0103",
       "url": "https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83"

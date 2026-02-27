@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 814879,
+  "num_followers": 814935,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Dear Marie",
-      "url": "https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Chicago 18 (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 343280,
       "name": "Will You Still Love Me? - 2009 Remaster",
       "url": "https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Dear Marie",
+      "url": "https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Gotta Get Thru This",
-        "url": "https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bedingfield",
-          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "If You're Not The One",
-      "url": "https://open.spotify.com/track/6B6aCxSBsECsulzOkJRxGv"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Ultimate Manilow",
-        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
+        "name": "Gotta Get Thru This",
+        "url": "https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Daniel Bedingfield",
+          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
+      "duration_ms": 257026,
+      "name": "If You're Not The One",
+      "url": "https://open.spotify.com/track/6B6aCxSBsECsulzOkJRxGv"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 273600,
       "name": "The Actor",
       "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Ultimate Manilow",
+        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Take Me Home: Yearbook Edition",
+        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
         "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 290960,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Take Me Home: Yearbook Edition",
-        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Elton John (Remastered Version)",
+        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Deep Cuts: The Best Of The Ballads",
         "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
       },
@@ -2247,22 +2263,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "...Hits",
         "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
       },
@@ -2279,34 +2279,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Elton John (Remastered Version)",
-        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+        "name": "In The Lonely Hour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2327,18 +2311,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes - Edit",
-      "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2371,6 +2355,22 @@
       "duration_ms": 366640,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes - Edit",
+      "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
     },
     {
       "added_at": "2022-08-26 12:00:00",

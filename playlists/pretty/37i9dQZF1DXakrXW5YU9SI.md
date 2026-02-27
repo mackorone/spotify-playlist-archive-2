@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,862 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,844 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 12 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 13 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
 | 14 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
-| 15 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
+| 15 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 16 | [Treehouse](https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Treehouse](https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W) | 3:44 |
-| 17 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
+| 17 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
 | 18 | [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [LOVE YOU LESS](https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG) | 3:21 |
 | 19 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 20 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 46 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 |
 | 47 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 |
 | 48 | [Riksarkivet](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Sentimental Value](https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO) | 3:17 |
-| 49 | [Silently](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do) | 3:29 |
-| 50 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |
+| 49 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |
+| 50 | [Silently](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do) | 3:29 |
 | 51 | [City Walls](https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [City Walls](https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8) | 5:11 |
-| 52 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
-| 53 | [Sexy doll](https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Obywatelka K.L.](https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g) | 4:05 |
-| 54 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
+| 52 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
+| 53 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
+| 54 | [Sexy doll](https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Obywatelka K.L.](https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g) | 4:05 |
 | 55 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
 | 56 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 57 | [Wolę Cię kochać, niż mieć](https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Wolę Cię kochać, niż mieć](https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP) | 2:57 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 61 | [Pełnia](https://open.spotify.com/track/0Cl0eIyCH09ydNi7FvmDD3) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY) | [Pełnia](https://open.spotify.com/album/3y5HIfYJAm3O6nFqigjvc7) | 3:07 |
 | 62 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
 | 63 | [płuca](https://open.spotify.com/track/2TxsC8ggcshcT7ldo9Oj0f) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [płuca](https://open.spotify.com/album/2nleTUCQmlHT1NFDgCL8LN) | 4:00 |
-| 64 | [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 |
+| 64 | [I'm Just A Human](https://open.spotify.com/track/35qsyv0ZY5ycTB7078RUQF) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [I'm Just A Human](https://open.spotify.com/album/0dPhjzf74VV7Q8VsshoEXN) | 2:54 |
 | 65 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
-| 66 | [Pyszny](https://open.spotify.com/track/62HzWhYc6gFKFxw65riAvt) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [SAFE](https://open.spotify.com/album/0QwkQLmsLskXfYDtLO7H9Z) | 4:20 |
-| 67 | [List z wielkiego miasta](https://open.spotify.com/track/5vAcemWiqZ9V8KXYSfn4WM) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [List z wielkiego miasta](https://open.spotify.com/album/1MUgXGUpJMziJxVAWGTl2i) | 3:57 |
+| 66 | [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 |
+| 67 | [Pyszny](https://open.spotify.com/track/62HzWhYc6gFKFxw65riAvt) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [SAFE](https://open.spotify.com/album/0QwkQLmsLskXfYDtLO7H9Z) | 4:20 |
 | 68 | [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 |
-| 69 | [I'm Just A Human](https://open.spotify.com/track/35qsyv0ZY5ycTB7078RUQF) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [I'm Just A Human](https://open.spotify.com/album/0dPhjzf74VV7Q8VsshoEXN) | 2:54 |
+| 69 | [List z wielkiego miasta](https://open.spotify.com/track/5vAcemWiqZ9V8KXYSfn4WM) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [List z wielkiego miasta](https://open.spotify.com/album/1MUgXGUpJMziJxVAWGTl2i) | 3:57 |
 | 70 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
 
 Snapshot ID: `AAAAAIpREXA0dQYgMvN+ooFRZlHYad/s`

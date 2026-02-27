@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-417 songs - 23 hr 0 min
+418 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 | 2022-02-04 | 2024-11-02 |
 | [Clouds Come By](https://open.spotify.com/track/22QpETyov5UfGA9AinrKSu) | [Temperance Space](https://open.spotify.com/artist/2DPK0zJqIfqXdS6R7IVLiO) | [Clouds Come By](https://open.spotify.com/album/4wuAL4aslivLUKRHgn7xHI) | 4:42 | 2020-12-08\* | 2021-07-24 |
 | [Coincide](https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Coincide](https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp) | 2:14 | 2023-01-20 | 2025-10-03 |
+| [Cold Truths](https://open.spotify.com/track/2F6aZFIB9PSnZXGn9qO6A5) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Cold Truths](https://open.spotify.com/album/6UFWgGvxoX9fStl5swwj6j) | 2:33 | 2026-02-12 |  |
 | [Colored Abyss](https://open.spotify.com/track/70KMLoUKbqkUOVPF1SJx61) | [Pete McMurray](https://open.spotify.com/artist/0axEcnxjPL29xOVtOW2RSN) | [Colored Abyss](https://open.spotify.com/album/5RNcOxVxZj9wjNvN1Bik8X) | 2:41 | 2025-02-26 | 2026-02-13 |
 | [Comfort Zone](https://open.spotify.com/track/6UrBPZ1zQTheV7sn9PuZif) | [General Fuzz](https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r) | [Soulful Filling](https://open.spotify.com/album/6NPMX9kAPtqG09mZKQDwU8) | 6:02 | 2020-12-08\* | 2022-07-29 |
 | [Comfort Zone](https://open.spotify.com/track/2f8jLjm7Jzmgiqu3Kgjuuz) | [General Fuzz](https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r) | [Soulful Filling](https://open.spotify.com/album/4rrihMjg9wVglC8qzyz5Fs) | 6:02 | 2022-07-22 | 2024-04-19 |
@@ -421,7 +422,7 @@
 | [Whispers Of Tomorrow](https://open.spotify.com/track/6gTHikNHtALWpLA4RKwpj1) | [Intunement](https://open.spotify.com/artist/4T9KclnNdDHCaeuc0k7pPN) | [Whispers Of Tomorrow](https://open.spotify.com/album/6RkA2N5iox9JCHEVWxkhWu) | 2:53 | 2024-03-14 |  |
 | [Who Tends a Garden](https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS) | 4:40 | 2023-01-13 | 2024-12-06 |
 | [Winds of Change \(feat\. myndstream\)](https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:03 | 2025-01-14 | 2025-02-27 |
-| [With Every Breath](https://open.spotify.com/track/0glkF3QxKPvIOkdpVyxkVf) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [With Every Breath](https://open.spotify.com/album/6ilLwgYlZ09AmwHww4iOcb) | 3:05 | 2024-11-14 |  |
+| [With Every Breath](https://open.spotify.com/track/0glkF3QxKPvIOkdpVyxkVf) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [With Every Breath](https://open.spotify.com/album/6ilLwgYlZ09AmwHww4iOcb) | 3:05 | 2024-11-14 | 2026-02-27 |
 | [With The Motions](https://open.spotify.com/track/3CUdK7G9Io6fFlu60KRkLu) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [With The Motions \(Dream House\)](https://open.spotify.com/album/5wSqncubBlBKqiwhD4JABh) | 3:11 | 2024-06-10 |  |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-12-08\* | 2021-01-07 |
 | [Zenith](https://open.spotify.com/track/1S8d3I6D4hqGCq4DJ5Ddhk) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Zenith](https://open.spotify.com/album/2sWQYLr4ZtuoYBEzxWq5i6) | 2:46 | 2025-07-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,415 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,458 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 58 | [Love Is Here To Stay](https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Great Britain's](https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR) | 2:50 |
 | 59 | [Night And Day](https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq), [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [John Simmons](https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9), [Alvin Stoller](https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk) | [The Best Of Art Tatum](https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms) | 6:07 |
 | 60 | [Polka Dots And Moonbeams \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell, Vol\. 2 \(2001 RVG Edition\)](https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM) | 4:04 |
-| 61 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
-| 62 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
-| 63 | [I'm Glad There Is You](https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:52 |
+| 61 | [I'm Glad There Is You](https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:52 |
+| 62 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
+| 63 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
 | 64 | [High Wire](https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Ready Take One](https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM) | 3:47 |
 | 65 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 66 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 7](https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG) | 3:55 |

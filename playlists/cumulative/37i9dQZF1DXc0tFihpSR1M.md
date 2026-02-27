@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-471 songs - 1 day 0 hr 36 min
+473 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 | 2024-09-17 |
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-15 | 2025-07-11 |
 | [Brightly Shining](https://open.spotify.com/track/5r5HW0Ozj5OQ6sBjnYmDtM) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Stargate \- en julefortelling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tJ60NYdBtgiLLAV9Kn2qA) | 4:03 | 2025-10-16 | 2025-10-24 |
-| [Bring It](https://open.spotify.com/track/4Gqk05iNREv4ln3txoADwg) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Bring It](https://open.spotify.com/album/1zhEdgjIV87BqV6k2eJmUK) | 2:41 | 2026-01-23 |  |
+| [Bring It](https://open.spotify.com/track/4Gqk05iNREv4ln3txoADwg) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Bring It](https://open.spotify.com/album/1zhEdgjIV87BqV6k2eJmUK) | 2:41 | 2026-01-23 | 2026-02-27 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-20 | 2025-11-28 |
 | [Call Me](https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Call Me](https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz) | 3:48 | 2025-10-23 | 2025-11-07 |
 | [Call Me](https://open.spotify.com/track/7I8ebrCiAjFs5y4wXPDunW) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Call Me](https://open.spotify.com/album/6LELKKMXI1lMMm9tBf55OO) | 2:46 | 2024-09-12 | 2024-09-27 |
@@ -238,6 +238,7 @@
 | [Jeg hater deg](https://open.spotify.com/track/5Q2cbjla7Ix468vl7SRoUk) | [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Jeg hater deg](https://open.spotify.com/album/6B30YfLbkpAP6NlHisd4Ds) | 2:22 | 2024-10-03 | 2024-10-18 |
 | [Jeg spør for en venn](https://open.spotify.com/track/2icHHKPqztIkn5neapSswk) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Jeg spør for en venn](https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy) | 3:13 | 2026-01-08 | 2026-01-17 |
 | [Jeg tror Peter Pan hadde rett](https://open.spotify.com/track/0ELL7YctWJCX1UUby7btbJ) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Jeg tror Peter Pan hadde rett](https://open.spotify.com/album/77oadxwGqKYq1QKLBqNfA8) | 2:53 | 2026-01-01 |  |
+| [Jessica](https://open.spotify.com/track/2cgyrxw33orB2wTVTGCHE6) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Jessica](https://open.spotify.com/album/6thc6P1FYS3Kzl1hYNPzK5) | 2:36 | 2026-02-26 |  |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-28 | 2025-09-05 |
 | [Kaffe med noen andre](https://open.spotify.com/track/0L4rEAmtzXvkAj33S4oZsX) | [Thea Marlene](https://open.spotify.com/artist/5nOOv72ZNvxffWQB5WPqDN), [Oven](https://open.spotify.com/artist/1EPCst185uNHrufVIP3TE8) | [Kaffe med noen andre](https://open.spotify.com/album/4oUGhoTiLLBXtyPvSy5P0U) | 2:16 | 2025-02-20 | 2025-03-14 |
 | [Kjendis](https://open.spotify.com/track/02qSZOLIipk28y3MRmUSe3) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Kjendis](https://open.spotify.com/album/2FAK6vqSdaIrRc9pGZ77Iw) | 2:51 | 2024-11-07 | 2024-12-06 |
@@ -300,7 +301,7 @@
 | [No Heartbreak's Killed Me Yet](https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [No Heartbreak's Killed Me Yet](https://open.spotify.com/album/65xHRIaffZ3DYvtKvSrLHW) | 2:37 | 2025-09-18 | 2026-01-17 |
 | [No One Knows You Better](https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [No One Knows You Better](https://open.spotify.com/album/4Hzx9Y7qPmAQhcvUpuBWRT) | 3:34 | 2025-11-13 | 2025-11-28 |
 | [Noe mere](https://open.spotify.com/track/4kShoXoqe2QniNPnLNHyT4) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Noe mere](https://open.spotify.com/album/220NnZ6lJVzdgmY9YPr86n) | 2:17 | 2025-02-06 | 2025-02-14 |
-| [Northern Lights](https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8) | [emma](https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V) | [Northern Lights](https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU) | 2:57 | 2026-01-29 |  |
+| [Northern Lights](https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8) | [emma](https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V) | [Northern Lights](https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU) | 2:57 | 2026-01-29 | 2026-02-27 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-03-27 | 2025-11-28 |
 | [Not That Deep](https://open.spotify.com/track/5ZM5xEprSUaLoAEqxBaVE5) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [PEPERONCINA](https://open.spotify.com/album/5j285vtL2LtYJZja0GPABv) | 2:31 | 2025-11-13 | 2025-11-28 |
 | [Now and Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now and Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 | 2025-01-02 | 2025-01-10 |
@@ -458,6 +459,7 @@
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-16 |  |
 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 | 2024-10-10 | 2024-11-02 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-27 | 2024-11-02 |
+| [Weight of light](https://open.spotify.com/track/1dgBTuMRptCw691pKbNNKp) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Weight of light](https://open.spotify.com/album/0OG6EaHBRdtM0GKueulBiK) | 3:16 | 2026-02-26 |  |
 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 | 2025-07-03 | 2025-08-22 |
 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-10 | 2025-08-12 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-15 |  |

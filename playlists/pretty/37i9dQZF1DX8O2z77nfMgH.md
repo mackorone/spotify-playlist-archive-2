@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: La Joaqui con Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,344 likes - 64 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,177 likes - 64 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 19 | [Tres Veladoras](https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Tres Veladoras](https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o) | 3:28 |
 | 20 | [Garett](https://open.spotify.com/track/3euM6EeeOdB4i2Wb6dVUxJ) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Liiro Demon](https://open.spotify.com/artist/4xlV4eET4h56QyGmIz68ut), [Millo Gang](https://open.spotify.com/artist/6IKqDxEXrL2gkiwAkh6cDn) | [Garett](https://open.spotify.com/album/3yAVmn8qctO6sYVvRUHU9F) | 2:56 |
 | 21 | [Si Mijo Si](https://open.spotify.com/track/2e8PCkrS5WCU0GlLuMhZD3) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [LA M RECORDS](https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X) | [Si Mijo Si](https://open.spotify.com/album/0OabI9SfygET4knnpTB2Fn) | 3:30 |
-| 22 | [Todavia Me Duele](https://open.spotify.com/track/2RBrYgrOZWvXZHwkQKnNqn) | [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3) | [Todavia Me Duele](https://open.spotify.com/album/6Y3bjkIY1KBm8Le8K9B12U) | 3:21 |
+| 22 | [Todavia Me Duele](https://open.spotify.com/track/2RBrYgrOZWvXZHwkQKnNqn) | [La Factoria](https://open.spotify.com/artist/4eABfHsWUkFG2IjSn8uLzy) | [Todavia Me Duele](https://open.spotify.com/album/6Y3bjkIY1KBm8Le8K9B12U) | 3:21 |
 | 23 | [Bachatón](https://open.spotify.com/track/37nLlcSGtaY7ZGiZgpoMxb) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Bachatón](https://open.spotify.com/album/2LK3SFlVeLSRWVg3UydRXS) | 2:19 |
 | 24 | [El ruido](https://open.spotify.com/track/51H81Y7lkWH01Z4GFrVWh2) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El ruido](https://open.spotify.com/album/3LDDr6TGshRKotHlPpotRz) | 3:19 |
 | 25 | [Viejo](https://open.spotify.com/track/6Q1LWROdxd2eA8J9XzZgEy) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Viejo](https://open.spotify.com/album/28llD8Q5D1hjwpbpM3iUde) | 2:58 |

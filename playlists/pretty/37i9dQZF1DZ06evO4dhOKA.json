@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 69100,
+  "num_followers": 69110,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAfUZ078XQxagx7pEEq+mTk",
+  "snapshot_id": "aZ47gAAAAAB4M/S72SxX+XA3IaUjl9kz",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visi\u00f3n 20.20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Bonita - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Jefes",
         "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 221693,
       "name": "Corrido De Los P\u00e9rez",
       "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Bonita - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coraz\u00f3n Indeseable",
+        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Que Me Perdone Dios",
+      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapayeka (En Vivo)",
         "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 155250,
       "name": "Tragos de Amargo Licor (En Vivo)",
       "url": "https://open.spotify.com/track/3RBmPRXKcOe3kbQ3WonU1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n Indeseable",
-        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Que Me Perdone Dios",
-      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
     },
     {
       "added_at": null,

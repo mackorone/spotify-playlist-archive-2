@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 50239,
+  "num_followers": 50245,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Cuatro Tigres",
+        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "La Danza de los Simpsons",
+      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "1000 Watts",
         "url": "https://open.spotify.com/album/1MJPr8WRsmKslDood4yJIS"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 199077,
       "name": "Chambac\u00fa",
       "url": "https://open.spotify.com/track/5R2hXwoRB4gIgoNXoUuK51"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Cuatro Tigres",
-        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "La Danza de los Simpsons",
-      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 162581,
       "name": "Vampiro Sabanero",
       "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Yo Bailo Sola",
+        "url": "https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 317375,
+      "name": "Yo Bailo Sola",
+      "url": "https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/1JbW8zIG1gp5vnDV7N5LJN"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/7p6CgRGbeR6WyidudAzbsf"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Yo Bailo Sola",
-        "url": "https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 317375,
-      "name": "Yo Bailo Sola",
-      "url": "https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Caminito de mi Pueblo",
         "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 243114,
       "name": "Caminito de mi Pueblo",
       "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia del Metr\u00f3nomo",
-        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
-      },
-      "artists": [
-        {
-          "name": "Las Muiscas",
-          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Cumbia del Metr\u00f3nomo",
-      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Savage Love",
         "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 234812,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbia del Metr\u00f3nomo",
+        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
+      },
+      "artists": [
+        {
+          "name": "Las Muiscas",
+          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Cumbia del Metr\u00f3nomo",
+      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
         "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 250000,
       "name": "Mary Sol",
       "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Paso Palante",
-        "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 245831,
-      "name": "Paso Palante",
-      "url": "https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Chucha",
         "url": "https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 147469,
       "name": "Chucha",
       "url": "https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Paso Palante",
+        "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 245831,
+      "name": "Paso Palante",
+      "url": "https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 198469,
       "name": "Por Ah\u00ed",
       "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Porrov\u00eda",
+        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Porrov\u00eda",
+      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Amaru Tribe",
         "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 308864,
       "name": "Palermo's Grunch",
       "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Porrov\u00eda",
-        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Porrov\u00eda",
-      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Qu\u00e9malo",
         "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 220986,
       "name": "Qu\u00e9malo",
       "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
       "added_at": "2025-05-19 17:05:09",

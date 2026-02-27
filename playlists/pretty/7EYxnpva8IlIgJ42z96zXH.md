@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,256 likes - 92 songs - 4 hr 50 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,250 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,6 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 90 | [Get Right](https://open.spotify.com/track/6eKJ2f4krilnklIXlVs2vK) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Get Right](https://open.spotify.com/album/4GX4TjznT6VPHHXhZepZZd) | 2:56 |
 | 91 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 |
 | 92 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |
+| 93 | [Lifting](https://open.spotify.com/track/5FYqQZJG2PRl2WqttIseZ1) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Lifting](https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg) | 2:51 |
 
-Snapshot ID: `AAAQQ+06l6PjtarkQ5wM4xy+1KUQe0x5`
+Snapshot ID: `AAAQRBAvaa9nbgG3HEU75XmVEsGZRXox`

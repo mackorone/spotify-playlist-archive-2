@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 37 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
 | 38 | [Pertinho de Jesus](https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Tia Emily](https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t) | [Pertinho de Jesus](https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO) | 2:09 |
 | 39 | [Fico Feliz](https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Rafael de Oliveira](https://open.spotify.com/artist/4qRoHdCs4qUXd7ptMkjs80), [Lara Maria](https://open.spotify.com/artist/2u6lfISZVmVMzhOv5KHWf2), [Alyce Maria](https://open.spotify.com/artist/4wQVjWUP0rzD6PhfFCAMVj), [Ana Lunna](https://open.spotify.com/artist/7DJnoHcMYpn6e685BbPGC8) | [Gba Stage Kids](https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW) | 4:40 |
-| 40 | [Assim Desse Jeito: Yasminzinha](https://open.spotify.com/track/1u0BbK2qfbg94OQGkeNgrh) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Assim Desse Jeito: Yasminzinha](https://open.spotify.com/album/7cTS8Sb4b4DU5EM86JmoMY) | 1:49 |
-| 41 | [Filho Amado](https://open.spotify.com/track/3Ug5PKPPaga1Gb01gzAEuE) | [Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Filho Amado](https://open.spotify.com/album/4rDSXn5PW1KF7fZMctr357) | 2:33 |
+| 40 | [Filho Amado](https://open.spotify.com/track/3Ug5PKPPaga1Gb01gzAEuE) | [Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Filho Amado](https://open.spotify.com/album/4rDSXn5PW1KF7fZMctr357) | 2:33 |
+| 41 | [Assim Desse Jeito: Yasminzinha](https://open.spotify.com/track/1u0BbK2qfbg94OQGkeNgrh) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Assim Desse Jeito: Yasminzinha](https://open.spotify.com/album/7cTS8Sb4b4DU5EM86JmoMY) | 1:49 |
 | 42 | [Arruma essa Bagunça](https://open.spotify.com/track/2ZeoLb6KQP97c6oRl11z1G) | [Bixulinhos](https://open.spotify.com/artist/1xHWjhQTU48284c6swha63) | [Arruma essa Bagunça](https://open.spotify.com/album/0L9iuH2MwMJb66Sd6RkpwW) | 1:58 |
 | 43 | [Toc Toc Toc \- Baby Fun \- Remix](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun \(Remix\)](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
 | 44 | [Filipenses \- Ao Vivo](https://open.spotify.com/track/0r8wj5qmDS8UmrONRWEyFv) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [ImaginAline](https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN) | [ImaginAline \- Uma Viagem no Tempo \(Ao Vivo\)](https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y) | 4:06 |

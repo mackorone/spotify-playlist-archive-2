@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Okekel",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet, \u017babson, Asster, Zalia, god.wifi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1984,6 +1984,24 @@
       "duration_ms": 256933,
       "name": "BEZ STRESU",
       "url": "https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG"
+    },
+    {
+      "album": {
+        "name": "Bez Zmian",
+        "url": "https://open.spotify.com/album/5VDjfaOAWQq8jwmUtnoetB"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Bez Zmian",
+      "url": "https://open.spotify.com/track/2J0D0nNMWodilLYyLezMtd"
     },
     {
       "album": {
@@ -4205,6 +4223,32 @@
     },
     {
       "album": {
+        "name": "Def Jam World Tour: LOS ANGELES",
+        "url": "https://open.spotify.com/album/5aIfHjnLRhJec89yZFxbWQ"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "CZARY",
+      "url": "https://open.spotify.com/track/6TucPx4rUeHWgHmyZXs64I"
+    },
+    {
+      "album": {
         "name": "CZAS 2",
         "url": "https://open.spotify.com/album/0yp2NhstLTIngELOeIGZq3"
       },
@@ -6407,6 +6451,40 @@
     },
     {
       "album": {
+        "name": "GDY CI\u0118 NIE MA",
+        "url": "https://open.spotify.com/album/7CloeB4eqcvFwq3vPKtzSY"
+      },
+      "artists": [
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        },
+        {
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "GDY CI\u0118 NIE MA",
+      "url": "https://open.spotify.com/track/5EZ2fRLHlpkveCZpwQH8Qu"
+    },
+    {
+      "album": {
         "name": "autumn freestyle",
         "url": "https://open.spotify.com/album/0c6U5XSAKHw8erE0QuoYnP"
       },
@@ -6804,7 +6882,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 190833,
       "name": "GUARDIAN ANGEL ULTRA MAX",
       "url": "https://open.spotify.com/track/5OoRgwQhV6BSkYGFsWPkxp"
@@ -8640,10 +8718,32 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 157826,
       "name": "Kawior",
       "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
+    },
+    {
+      "album": {
+        "name": "KC",
+        "url": "https://open.spotify.com/album/12HbtScV1Un9BfaI6AzoM9"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "KC",
+      "url": "https://open.spotify.com/track/7fdLsQYUuAdIeR11XBn8wn"
     },
     {
       "album": {
@@ -8930,10 +9030,28 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 152571,
       "name": "KLASYK",
       "url": "https://open.spotify.com/track/7MhPXeXKs9DIQFR31in4hQ"
+    },
+    {
+      "album": {
+        "name": "KLEOPATRA",
+        "url": "https://open.spotify.com/album/5I8Xk3MVxeLXTqAVWHV6Ak"
+      },
+      "artists": [
+        {
+          "name": "kidzlori",
+          "url": "https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109241,
+      "name": "KLEOPATRA",
+      "url": "https://open.spotify.com/track/30bl3YZdLNx3m1KlRzKEGw"
     },
     {
       "album": {
@@ -12326,7 +12444,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 147000,
       "name": "NAWET NIE WIESZ JAK CHCIA\u0141BYM M\u00d3C TO POCZU\u0106 JESZCZE RAZ",
       "url": "https://open.spotify.com/track/6mzhtZbzJrjbnKwUp3XQee"
@@ -13426,7 +13544,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 225751,
       "name": "NORADRENALINA",
       "url": "https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W"
@@ -14775,6 +14893,32 @@
     },
     {
       "album": {
+        "name": "PENTHOUSE 2",
+        "url": "https://open.spotify.com/album/5gKyqPOTXacxlIWbOpK64y"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Koneser",
+          "url": "https://open.spotify.com/artist/3iXrMGww8ozzbsPVkoysgG"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "PENTHOUSE 2",
+      "url": "https://open.spotify.com/track/2GKWGd6NXm1bhWGBYOKtUV"
+    },
+    {
+      "album": {
         "name": "Perfidia",
         "url": "https://open.spotify.com/album/4lNxQxl274ShD76FlPEObl"
       },
@@ -15454,7 +15598,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210213,
       "name": "Polsilver",
       "url": "https://open.spotify.com/track/2BG7eli63SGzeJaWn3wiSw"
@@ -16698,6 +16842,52 @@
       "duration_ms": 173233,
       "name": "Rodzina Gambino",
       "url": "https://open.spotify.com/track/55jonuEXtkxyf4rk2AaJdI"
+    },
+    {
+      "album": {
+        "name": "ROLLOUT",
+        "url": "https://open.spotify.com/album/6GBi8r2zUDOilqKJJWWItV"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Janusz Walczuk",
+          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
+        },
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "zuziula",
+          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
+        },
+        {
+          "name": "Olinda",
+          "url": "https://open.spotify.com/artist/2euulReYuHuStwIAbMXGta"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Albert RCB",
+          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
+        },
+        {
+          "name": "YARSKI",
+          "url": "https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212432,
+      "name": "ROLLOUT",
+      "url": "https://open.spotify.com/track/7nv0QLBZDAEik1LzruI5ir"
     },
     {
       "album": {
@@ -20092,7 +20282,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 170958,
       "name": "WIDZIA\u0141AM JU\u017b WSZYSTKO",
       "url": "https://open.spotify.com/track/1UBZRfCnZZfggUooQCJ0Wn"

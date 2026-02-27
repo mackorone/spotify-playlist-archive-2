@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1433700,
+  "num_followers": 1433823,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAABkk7GlHYLDS2Oq127/Bc8J",
+  "snapshot_id": "aZ47gAAAAADNktR7ALQ2L5EeTkM/0C/M",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 267720,
-      "name": "Car Radio",
-      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
+      "duration_ms": 175044,
+      "name": "Shy Away",
+      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
     },
     {
       "added_at": null,
@@ -383,54 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 175044,
-      "name": "Shy Away",
-      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "The Contract",
-      "url": "https://open.spotify.com/track/22BA9h34P0Q2PGZudsEBco"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Vignette",
-      "url": "https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
@@ -440,25 +392,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 163880,
-      "name": "House of Gold",
-      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 216758,
-      "name": "The Outside",
-      "url": "https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J"
+      "duration_ms": 267720,
+      "name": "Car Radio",
+      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
     },
     {
       "added_at": null,
@@ -479,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
       "artists": [
         {
@@ -488,9 +424,25 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Jumpsuit",
-      "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
+      "duration_ms": 202133,
+      "name": "Vignette",
+      "url": "https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 216758,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J"
     },
     {
       "added_at": null,
@@ -504,9 +456,41 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 263733,
-      "name": "Holding on to You",
-      "url": "https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO"
+      "duration_ms": 163880,
+      "name": "House of Gold",
+      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/22BA9h34P0Q2PGZudsEBco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Jumpsuit",
+      "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
     },
     {
       "added_at": null,
@@ -527,38 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Nico and the Niners",
-      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
@@ -568,25 +520,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 239014,
-      "name": "Migraine",
-      "url": "https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 172232,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
+      "duration_ms": 263733,
+      "name": "Holding on to You",
+      "url": "https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO"
     },
     {
       "added_at": null,
@@ -616,9 +552,25 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 258853,
-      "name": "Morph",
-      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
+      "duration_ms": 225040,
+      "name": "Nico and the Niners",
+      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 172232,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
     },
     {
       "added_at": null,
@@ -632,9 +584,41 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 273335,
-      "name": "Guns for Hands",
-      "url": "https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K"
+      "duration_ms": 239014,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 258853,
+      "name": "Morph",
+      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 223065,
       "name": "Choker",
       "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 273335,
+      "name": "Guns for Hands",
+      "url": "https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K"
     },
     {
       "added_at": null,

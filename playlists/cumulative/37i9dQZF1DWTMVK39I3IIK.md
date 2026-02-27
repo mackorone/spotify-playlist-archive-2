@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  Barselona
+> de skarpeste knive i dansk musik  📸  Mathias Ranch
 
-391 songs - 19 hr 56 min
+394 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2025-01-23 |
 | [Dopamin](https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Dopamin](https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs) | 2:28 | 2024-06-27 | 2025-08-01 |
 | [drikker med mig selv](https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [vågner](https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w) | 2:30 | 2025-02-20 |  |
-| [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 |  |
+| [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 | 2026-02-27 |
 | [Drømmer](https://open.spotify.com/track/0LygyTQgwgub7hlSnxniKJ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 2:32 | 2025-03-20 | 2025-03-22 |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-07 | 2025-05-30 |
 | [Dårligste Bedste Idé](https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Dårligste Bedste Idé](https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl) | 3:16 | 2024-06-27 | 2025-04-09 |
@@ -99,6 +99,7 @@
 | [En Fremmed](https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Liber](https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj) | 3:40 | 2024-06-27 | 2025-05-04 |
 | [En Som Dig](https://open.spotify.com/track/4hCLByf2DyXB4RPsC2mNZd) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [En Som Dig](https://open.spotify.com/album/40AJcpbZh1cji3B6hgOXc0) | 2:32 | 2025-01-23 | 2025-03-02 |
 | [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 | 2025-07-10 | 2025-08-15 |
+| [En Stor Lykkelig Familie](https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [En Stor Lykkelig Familie](https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh) | 3:15 | 2026-02-26 |  |
 | [En Vandretur i Peru](https://open.spotify.com/track/08IL88yJTN613mf0G7IIiz) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [En Vandretur i Peru](https://open.spotify.com/album/7vL0hjoIGeOqDO2rWdz7YU) | 3:28 | 2025-04-10 | 2025-05-07 |
 | [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 | 2025-10-23 |  |
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 | 2024-09-19 |
@@ -113,6 +114,7 @@
 | [Fint Uden Mig](https://open.spotify.com/track/2oyl5wr2KLUwsiJ8o6Vtgw) | [Malou](https://open.spotify.com/artist/3rHfFG3C4laxZQQojPUexc) | [Fint Uden Mig](https://open.spotify.com/album/3OejBbCD4amRjryxFmhaAG) | 3:41 | 2025-08-21 | 2025-08-29 |
 | [fisk i havet](https://open.spotify.com/track/4Tb2FQOqTmsGHuOdN2hKDH) | [Rebekka Ruby](https://open.spotify.com/artist/3M6a4CWJoFU5vzWF2PRBlr) | [fisk i havet](https://open.spotify.com/album/46sdf3VHh7fN08af6blbI3) | 3:05 | 2025-11-06 | 2026-01-02 |
 | [Folk Forsvinder](https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr) | [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [Folk Forsvinder](https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc) | 2:53 | 2025-09-18 |  |
+| [For gamle ting](https://open.spotify.com/track/3s5FEMJxracb3iGPS87YZJ) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kravler før vi går](https://open.spotify.com/album/2bcOShjWYuvZO2PEmnG460) | 3:55 | 2026-02-26 |  |
 | [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 | 2025-06-07 |
 | [FOR OS](https://open.spotify.com/track/3VwWhdt75AfDVuXaai6PKs) | [BRANDZ](https://open.spotify.com/artist/6uRoBsykra8GXLj9JRMjEf) | [FOR OS](https://open.spotify.com/album/3hhtdqPyvhjsixUSbMfjp8) | 2:08 | 2025-07-24 | 2025-08-01 |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 | 2024-09-13 |
@@ -205,7 +207,7 @@
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 | 2025-05-11 |
 | [Kun For Festerne](https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN) | [FØNS](https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi) | [Kun For Festerne](https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn) | 2:39 | 2025-06-26 | 2025-09-05 |
 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 | 2025-06-05 |  |
-| [Kys før fald](https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kys før fald](https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx) | 3:14 | 2025-08-21 |  |
+| [Kys før fald](https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kys før fald](https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx) | 3:14 | 2025-08-21 | 2026-02-27 |
 | [Kærligheden Vinder](https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Kærligheden Vinder](https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt) | 3:32 | 2024-06-27 | 2025-02-25 |
 | [Lad Dig Gå](https://open.spotify.com/track/5aLQybTzAGTgbY9QFkMzMH) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Lad Dig Gå](https://open.spotify.com/album/2e4MVybCUxC94Ic5obJPvA) | 2:57 | 2025-04-17 | 2025-08-01 |
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |
@@ -232,8 +234,8 @@
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-09-05 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-18 | 2025-10-10 |
-| [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 | 2026-01-22 |  |
-| [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 | 2025-09-11 | 2026-02-23 |
+| [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 | 2026-01-22 | 2026-02-27 |
+| [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 | 2025-09-11 |  |
 | [Nak Og Æd](https://open.spotify.com/track/0niH1XyGXvtIxa77UvHO53) | [Godt Gået Frej](https://open.spotify.com/artist/2nPa8GSEhLI81oFZA06k7H) | [Nak Og Æd](https://open.spotify.com/album/5CKWRghpo2RXMJegmbvQ7L) | 3:06 | 2025-06-12 | 2025-06-20 |
 | [Ned Fra Månen](https://open.spotify.com/track/0JprUaYDxtSqBqzrG0L0jG) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Ned Fra Månen](https://open.spotify.com/album/17QzIJjOJFtzwAZG6jvdUl) | 2:38 | 2025-02-06 | 2025-02-24 |
 | [Neon Glow](https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Neon Glow](https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4) | 3:00 | 2024-10-03 | 2024-10-11 |
@@ -269,7 +271,7 @@
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
 | [PUPILLER](https://open.spotify.com/track/1xoSUw7Ph8zlE1VR526FBB) | [Cano](https://open.spotify.com/artist/2Qd4bMMZa3Wc5Qaawf9Oho), [Salomon Stampe](https://open.spotify.com/artist/75TXnvyqAZUdfmD54jAaKd) | [PUPILLER](https://open.spotify.com/album/7jQF1UbqL3UI2ez2rYhfcZ) | 2:44 | 2025-10-30 | 2025-11-07 |
-| [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-06 |  |
+| [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-06 | 2026-02-27 |
 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 | 2025-01-09 | 2025-01-24 |
 | [PÅ TIL DET SAMME](https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [PÅ TIL DET SAMME](https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO) | 1:56 | 2025-10-02 | 2025-11-14 |
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 | 2025-09-12 |
@@ -279,6 +281,7 @@
 | [Regnvejr](https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [EP](https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8) | 3:16 | 2025-09-25 | 2026-02-22 |
 | [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 | 2025-11-14 |
 | [Rewind](https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:45 | 2026-02-05 | 2026-02-20 |
+| [Ring, når du har tid](https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Kristoffer Jessen](https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC), [Pernille Rosendahl](https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE), [Pia Raug](https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm), [Søren Huss](https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P) | [Ring, når du har tid](https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy) | 6:34 | 2026-02-26 |  |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 | 2025-09-05 |
 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 | 2025-09-04 | 2025-10-16 |
 | [Same Thing](https://open.spotify.com/track/3zVEaAiVKKqo6JC9bhhQMx) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Same Thing](https://open.spotify.com/album/5qHDM4ltRazpBL3pdVcAMi) | 5:08 | 2025-11-06 | 2025-11-09 |

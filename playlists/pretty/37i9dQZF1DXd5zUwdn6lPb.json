@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 584031,
+  "num_followers": 584231,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
+        "name": "Experience (Solo Piano)",
+        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 307202,
+      "name": "Experience - Solo Piano",
+      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
         "name": "Lullabies for Mila",
         "url": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 220773,
       "name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
       "url": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
-        "name": "Experience (Solo Piano)",
-        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 307202,
-      "name": "Experience - Solo Piano",
-      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -447,6 +447,26 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        },
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
         "name": "Glass: Tissue No. 7 (Musical Moments)",
         "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
       },
@@ -471,26 +491,6 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        },
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
         "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
         "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 176585,
       "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
       "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
+        "name": "Respiro 1",
+        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 181984,
+      "name": "Respiro 1",
+      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -535,18 +551,22 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Respiro 1",
-        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
       "artists": [
         {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
         }
       ],
-      "duration_ms": 181984,
-      "name": "Respiro 1",
-      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -571,26 +591,6 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
         "name": "Gjeilo: Winter Light",
         "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 170080,
       "name": "Winter Light",
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -647,30 +631,6 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
-        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
-        }
-      ],
-      "duration_ms": 119146,
-      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
-      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -691,6 +651,46 @@
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
+        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
+        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "duration_ms": 119146,
+      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
+      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -1935,18 +1935,34 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Dreamy",
-        "url": "https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze"
+        "name": "Danzi: Music for Clarinet & Orchestra",
+        "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+          "name": "Franz Danzi",
+          "url": "https://open.spotify.com/artist/6k3Ws6wp7iOp7lN7pxsfjT"
+        },
+        {
+          "name": "Eduard Brunner",
+          "url": "https://open.spotify.com/artist/1YZbTL8pA4Xe9Ha7V4tLBu"
+        },
+        {
+          "name": "Klaus Thunemann",
+          "url": "https://open.spotify.com/artist/0HLqp813o9kv2t8JtVLH4a"
+        },
+        {
+          "name": "Munich Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/43CmLUkZNUzmvPNUhxeoSU"
+        },
+        {
+          "name": "Hans Stadlmair",
+          "url": "https://open.spotify.com/artist/2nSo5GklA6StFDLyVq0uEA"
         }
       ],
-      "duration_ms": 179800,
-      "name": "Dreamy",
-      "url": "https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn"
+      "duration_ms": 169000,
+      "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante",
+      "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -1991,34 +2007,26 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Danzi: Music for Clarinet & Orchestra",
-        "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
       "artists": [
         {
-          "name": "Franz Danzi",
-          "url": "https://open.spotify.com/artist/6k3Ws6wp7iOp7lN7pxsfjT"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Eduard Brunner",
-          "url": "https://open.spotify.com/artist/1YZbTL8pA4Xe9Ha7V4tLBu"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
         },
         {
-          "name": "Klaus Thunemann",
-          "url": "https://open.spotify.com/artist/0HLqp813o9kv2t8JtVLH4a"
-        },
-        {
-          "name": "Munich Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/43CmLUkZNUzmvPNUhxeoSU"
-        },
-        {
-          "name": "Hans Stadlmair",
-          "url": "https://open.spotify.com/artist/2nSo5GklA6StFDLyVq0uEA"
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante",
-      "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -2047,30 +2055,6 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -2095,6 +2079,30 @@
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+      },
+      "artists": [
+        {
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+        },
+        {
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
+      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
     }
   ],
   "unique_name": "Classical Focus",

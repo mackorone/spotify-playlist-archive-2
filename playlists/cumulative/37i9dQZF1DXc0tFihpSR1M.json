@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 161818,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/4Gqk05iNREv4ln3txoADwg"
@@ -4353,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "Jessica",
+        "url": "https://open.spotify.com/album/6thc6P1FYS3Kzl1hYNPzK5"
+      },
+      "artists": [
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156134,
+      "name": "Jessica",
+      "url": "https://open.spotify.com/track/2cgyrxw33orB2wTVTGCHE6"
+    },
+    {
+      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
@@ -5544,7 +5562,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 177306,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8"
@@ -8490,6 +8508,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "album": {
+        "name": "Weight of light",
+        "url": "https://open.spotify.com/album/0OG6EaHBRdtM0GKueulBiK"
+      },
+      "artists": [
+        {
+          "name": "Markella",
+          "url": "https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196260,
+      "name": "Weight of light",
+      "url": "https://open.spotify.com/track/1dgBTuMRptCw691pKbNNKp"
     },
     {
       "album": {

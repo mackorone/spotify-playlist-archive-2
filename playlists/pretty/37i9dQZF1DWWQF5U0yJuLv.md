@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,449 likes - 150 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,487 likes - 150 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 77 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 78 | [Sui Shop](https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:12 |
 | 79 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
-| 80 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 |
-| 81 | [Balani](https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 5:44 |
+| 80 | [Balani](https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 5:44 |
+| 81 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 |
 | 82 | [Side Two](https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619) | [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Side Two](https://open.spotify.com/album/41tCgU8N21F069SHpUn9CI) | 5:27 |
 | 83 | [Years and Elements](https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 2:30 |
 | 84 | [Cathart](https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Lucky Cat](https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8) | 5:12 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 124 | [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 |
 | 125 | [Magnetica](https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr) | 2:50 |
 | 126 | [Thurs Jung Yout](https://open.spotify.com/track/0gG7H4snjFftZCReVrdZBj) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Thurs Jung Yout](https://open.spotify.com/album/00wPi6Nswwcpr7oZTcj5gQ) | 3:41 |
-| 127 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |
-| 128 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
+| 127 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
+| 128 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |
 | 129 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 130 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 |
 | 131 | [City 66](https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:44 |

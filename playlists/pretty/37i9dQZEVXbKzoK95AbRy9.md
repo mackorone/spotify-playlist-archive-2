@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,853 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,884 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Semi Nua](https://open.spotify.com/track/4kqz2VSAmiLm06X90jmktL) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [MC RN do Capão](https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Semi Nua](https://open.spotify.com/album/3tPQoE3kBpT18MQz0Pgy3i) | 9:08 |
 | 50 | [Esse Cupido Não Me Ajuda](https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL) | [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u), [DJ QUIRINO](https://open.spotify.com/artist/7lpdjvBflQskU8qfdHuCSF), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Ascending](https://open.spotify.com/artist/4LkHFz8KqQUcE5TGf0IapL) | [Esse Cupido Não Me Ajuda](https://open.spotify.com/album/7kMvEhtZxd5CdhVqQBYtG2) | 2:04 |
 
-Snapshot ID: `MTJcQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTOtwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

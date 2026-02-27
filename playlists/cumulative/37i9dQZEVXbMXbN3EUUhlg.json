@@ -8612,7 +8612,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 155306,
       "name": "Dedinho de Por Alian\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/7w5Q1hqnEtRwmPqflWI5Ql"
@@ -9284,7 +9284,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
@@ -26350,7 +26350,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 171797,
       "name": "Pelo Bem da Minha Saudade",
       "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"
@@ -26968,7 +26968,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 135692,
       "name": "Pique Anos 80",
       "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
@@ -28548,6 +28548,28 @@
       "duration_ms": 178251,
       "name": "Quase Algo - Ao Vivo Em Nova Iorque / 2022",
       "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
+    },
+    {
+      "album": {
+        "name": "Que Del\u00edcia",
+        "url": "https://open.spotify.com/album/5WeyrWSrGXzFHCYyLGvXvg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        },
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "Que Del\u00edcia",
+      "url": "https://open.spotify.com/track/62ZeAs3fShuWFRYsV1TFFF"
     },
     {
       "album": {
@@ -30190,7 +30212,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"

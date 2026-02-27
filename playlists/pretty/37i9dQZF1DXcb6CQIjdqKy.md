@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,630,459 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,630,481 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 7 | [Let It Be Jesus](https://open.spotify.com/track/6maw7SjTyCyI567yXNTe3N) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/0QiMDbTi1TJ8RGUKU11jZr) | 3:37 |
 | 8 | [Reaching For The Light](https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Hero & The Villain](https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz) | 3:19 |
 | 9 | [YOURS](https://open.spotify.com/track/0xu5VjV7kddmyDlGzWncCI) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [BOY](https://open.spotify.com/album/3GQjuxVsdoWLcbkC17O45F) | 3:24 |
-| 10 | [God I'm Just Grateful](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
+| 10 | [God I'm Just Grateful \- Radio Version](https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful \(Radio Version\)](https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB) | 3:54 |
 | 11 | [THE NAME ABOVE ALL NAMES](https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [IT NEEDS TO BE SAID](https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY) | 4:57 |
 | 12 | [Faith Hope Love](https://open.spotify.com/track/1KpuHYjrDPTkAjaxxsSVDQ) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Faith Hope Love](https://open.spotify.com/album/334TQf2aWDT8YRb5Ji9NaI) | 3:22 |
 | 13 | [Life With You](https://open.spotify.com/track/1tnR8SHJKG3XBIDKUB5Ys1) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Life With You](https://open.spotify.com/album/07PemxQ0IHwoeZofljquDK) | 3:12 |

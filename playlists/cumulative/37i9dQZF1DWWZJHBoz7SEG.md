@@ -4,7 +4,7 @@
 
 > ¡Lentes de sol, una gorrita y las rolitas más hot para empezar el finde con Yeyo y Luis Díazz! 😎
 
-11,295 songs - 25 day 6 hr 1 min
+11,296 songs - 25 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6014,6 +6014,7 @@
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-21 | 2023-04-29 |
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 | 2023-05-27 |
 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 | 2023-06-02 | 2023-06-10 |
+| [Me Espera](https://open.spotify.com/track/6iO6oxfLNayu4Yhu9iWLCo) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Me Espera](https://open.spotify.com/album/2Eng3HNbgVvZx0tU149Dqx) | 3:18 | 2026-02-20 |  |
 | [Me Esta Pesando](https://open.spotify.com/track/3L6xWkOsP2scRMkyXHLSS7) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Duele, Pero Se Canta](https://open.spotify.com/album/410eb1lpq1T5qo2cUOcjWw) | 3:33 | 2025-10-24 | 2025-11-01 |
 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-02-17 | 2023-02-25 |
 | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 | 2025-06-20 | 2025-06-28 |
@@ -9970,7 +9971,7 @@
 | [Todas](https://open.spotify.com/track/3QpkrbrwmJIoVsxARBSCXl) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [Todas](https://open.spotify.com/album/0WcGKLFamuZxU43Mx7oLln) | 3:03 | 2025-11-14 | 2025-11-22 |
 | [todas las veces](https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [todas las veces](https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj) | 2:50 | 2025-07-04 | 2025-07-12 |
 | [TODAS MIENTEN](https://open.spotify.com/track/42E4XgpjJ761uEtDBzfIZx) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [JS Beatz](https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK) | [TODAS MIENTEN](https://open.spotify.com/album/5aMMZx34F53EvwWj2LJEBC) | 3:15 | 2025-03-14 | 2025-03-22 |
-| [Todavia Me Duele](https://open.spotify.com/track/2RBrYgrOZWvXZHwkQKnNqn) | [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3) | [Todavia Me Duele](https://open.spotify.com/album/6Y3bjkIY1KBm8Le8K9B12U) | 3:21 | 2026-02-20 |  |
+| [Todavia Me Duele](https://open.spotify.com/track/2RBrYgrOZWvXZHwkQKnNqn) | [La Factoria](https://open.spotify.com/artist/4eABfHsWUkFG2IjSn8uLzy) | [Todavia Me Duele](https://open.spotify.com/album/6Y3bjkIY1KBm8Le8K9B12U) | 3:21 | 2026-02-20 |  |
 | [Todavía](https://open.spotify.com/track/75IxkcCUKre23vw4VZQU4v) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch), [Pixe Saga](https://open.spotify.com/artist/6GPvPayrWXU1qg8Sj5rAgf) | [Todavía](https://open.spotify.com/album/6aODXIiJyVFhvBywTIm7Nm) | 3:58 | 2026-01-16 | 2026-01-24 |
 | [Todavía](https://open.spotify.com/track/4GmJwnvrPhZXkk8JpNhxEC) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Todavía](https://open.spotify.com/album/4vmovQuSBbCyAgdVOGGgRJ) | 2:42 | 2022-07-29 | 2022-08-06 |
 | [Todavía DF](https://open.spotify.com/track/5G0hhtScq1r2GclaMBfkp8) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Todavía DF](https://open.spotify.com/album/17IzDpLdEPyXCeBifVExI2) | 3:11 | 2025-05-02 | 2025-05-10 |

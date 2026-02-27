@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167441,
       "name": "Antonio Tuttle",
       "url": "https://open.spotify.com/track/0IEP5dQOX5Km8IG626FG9Q"
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 222040,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
@@ -2312,6 +2312,28 @@
       "duration_ms": 160000,
       "name": "Otha World",
       "url": "https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua"
+    },
+    {
+      "album": {
+        "name": "Scottie Trippin",
+        "url": "https://open.spotify.com/album/0Ho8i5gxFkp5yGeOjrvDoO"
+      },
+      "artists": [
+        {
+          "name": "TRAPMAT SAVIOR",
+          "url": "https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139633,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/2XnJTYMLha9cJVZd7Ar3sB"
     },
     {
       "album": {
@@ -3466,7 +3488,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 165925,
       "name": "Trapezoid",
       "url": "https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS"

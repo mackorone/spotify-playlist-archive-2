@@ -1,6 +1,6 @@
 {
   "description": "Die Musik f\u00fcr die H\u00fctten Gaudi!",
-  "num_followers": 491520,
+  "num_followers": 491564,
   "original_name": "Apr\u00e8s Ski Party 2026",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Oben unten (Party Edit)",
-        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
-      },
-      "artists": [
-        {
-          "name": "R\u00e4uber",
-          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Oben unten - Party Edit",
-      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
         "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 136551,
       "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
       "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Oben unten (Party Edit)",
+        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4uber",
+          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Oben unten - Party Edit",
+      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Octopus (100.000 H\u00e4nde)",
-        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
-      },
-      "artists": [
-        {
-          "name": "Mountain Crew",
-          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
-        }
-      ],
-      "duration_ms": 225787,
-      "name": "Octopus (100.000 H\u00e4nde)",
-      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
         "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
       },
@@ -355,34 +339,18 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+        "name": "Octopus (100.000 H\u00e4nde)",
+        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
       },
       "artists": [
         {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
         }
       ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
-        "name": "Mountain Man",
-        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gabalier",
-          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
-        }
-      ],
-      "duration_ms": 180252,
-      "name": "Hulapalu",
-      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+      "duration_ms": 225787,
+      "name": "Octopus (100.000 H\u00e4nde)",
+      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -407,6 +375,22 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gabalier",
+          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
+        }
+      ],
+      "duration_ms": 180252,
+      "name": "Hulapalu",
+      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
         "name": "WOW!",
         "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 119248,
       "name": "WOW!",
       "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Karnevalsmaus",
-        "url": "https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K"
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
       "artists": [
         {
-          "name": "Druckluft",
-          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
         }
       ],
-      "duration_ms": 193884,
-      "name": "Karnevalsmaus",
-      "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+        "name": "Karnevalsmaus",
+        "url": "https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K"
       },
       "artists": [
         {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        },
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "Druckluft",
+          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+      "duration_ms": 193884,
+      "name": "Karnevalsmaus",
+      "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1235,26 +1235,6 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
-        "name": "Lass uns nicht geh'n (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
-      },
-      "artists": [
-        {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Lass uns nicht geh'n - Stereoact Remix",
-      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1283,22 +1263,22 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Midnight Lady",
-        "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
+        "name": "Lass uns nicht geh'n (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
       },
       "artists": [
         {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
         },
         {
-          "name": "Knossi",
-          "url": "https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 207554,
-      "name": "Midnight Lady",
-      "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
+      "duration_ms": 164840,
+      "name": "Lass uns nicht geh'n - Stereoact Remix",
+      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1319,6 +1299,26 @@
       "duration_ms": 168750,
       "name": "Chaos im Kopf",
       "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Midnight Lady",
+        "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        },
+        {
+          "name": "Knossi",
+          "url": "https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T"
+        }
+      ],
+      "duration_ms": 207554,
+      "name": "Midnight Lady",
+      "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1355,26 +1355,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
-        "name": "Ich liebe das Leben (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
-      },
-      "artists": [
-        {
-          "name": "Vicky Leandros",
-          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 203900,
-      "name": "Ich liebe das Leben - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1419,6 +1399,26 @@
       "duration_ms": 149976,
       "name": "Oberteil",
       "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
+      },
+      "artists": [
+        {
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2026-02-19 23:00:48",

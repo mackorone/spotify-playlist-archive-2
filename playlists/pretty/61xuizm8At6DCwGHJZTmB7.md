@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,309 likes - 127 songs - 11 hr 48 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,305 likes - 127 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 63 | [Christus Victor \(Amen\)](https://open.spotify.com/track/4ltlOXaegEK4TWdhesU1fo) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Christus Victor \(Amen\)](https://open.spotify.com/album/5mtZSoghlKO0tHiiOchpzA) | 5:53 |
 | 64 | [Is He Worthy \- Live](https://open.spotify.com/track/2csjJckE7HhTfX899G0uud) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [Is He Worthy \(Live\)](https://open.spotify.com/album/31WiiwsJKffo12eFQBI5cL) | 8:55 |
 | 65 | ['Tis So Sweet / Turn Your Eyes \- Chapel Sessions](https://open.spotify.com/track/3JVRYMkGQ8DBFtBoiYAqMQ) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/4jYLJGHlwngGQaoLfbZvpJ) | 5:48 |
-| 66 | [Blood Of Christ](https://open.spotify.com/track/4FpSdYB6a8U97dVgZaThML) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Blood Of Christ](https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l) | 7:15 |
+| 66 | [Blood Of Christ](https://open.spotify.com/track/4FpSdYB6a8U97dVgZaThML) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Emma Fargnoli](https://open.spotify.com/artist/66vp1Xgi5koKUndk6ajMTI) | [Blood Of Christ](https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l) | 7:15 |
 | 67 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
 | 68 | [Empty](https://open.spotify.com/track/6e5NhZKh6BILKjZ8GWg03O) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Ofa Fakatoumafi](https://open.spotify.com/artist/6IyvQ62FFOjdHmDkrAEg7d) | [Empty](https://open.spotify.com/album/5cztPq9IQz1J7jw1y3Rvmo) | 5:18 |
 | 69 | [At the heart of it \- From Worship Together](https://open.spotify.com/track/6jURYt7pmRYeJcmXyIux9T) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [At the heart of it \(From Worship Together\)](https://open.spotify.com/album/3j8FJx5Exz0PPsSp2Y059k) | 5:35 |

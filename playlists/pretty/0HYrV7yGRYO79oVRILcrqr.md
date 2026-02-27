@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,714 likes - 153 songs - 9 hr 46 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,713 likes - 154 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,5 +161,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 151 | [Parar respirar pensar y actuar](https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Parar respirar pensar y actuar](https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ) | 5:00 |
 | 152 | [Maldito Antro](https://open.spotify.com/track/78KBfIKs7GKPRPv4j35xyX) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Maldito Antro](https://open.spotify.com/album/0ehJgzhkbrUz1EBt13KaV4) | 3:31 |
 | 153 | [One of the Reasons](https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [One of the Reasons](https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB) | 2:40 |
+| 154 | [Don't Waste Your Time No More](https://open.spotify.com/track/6k1cjP7gtHTtPbR5L2J4pZ) | [Steve Schmitt](https://open.spotify.com/artist/6IXauAqsGDqYJzEA4FAJyc) | [Getting Old Is Killing Me](https://open.spotify.com/album/4vweKvkQJZ1ZtwbEmW2mSg) | 5:44 |
 
-Snapshot ID: `AAAKq/uvMcPwHFU8K8n8kOWx6KHKnkjX`
+Snapshot ID: `AAAKrM7YyoPC51PZ8QvdJ6kpxm0FifWF`

@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Don't You Say I'm in Love",
+        "url": "https://open.spotify.com/album/2OlZzIkYsmzTRbNaxjH1Rt"
+      },
+      "artists": [
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230313,
+      "name": "Don't You Say I'm in Love",
+      "url": "https://open.spotify.com/track/2wExzqXugXYiquPFiQSpaO"
+    },
+    {
+      "album": {
         "name": "Sorry for Everything Goodbye Forever",
         "url": "https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI"
       },

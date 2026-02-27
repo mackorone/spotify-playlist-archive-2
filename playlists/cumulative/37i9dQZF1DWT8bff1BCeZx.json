@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208039,
       "name": "Able God",
       "url": "https://open.spotify.com/track/2Ue6g61Wf4qZdXH8vPQoJX"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 166857,
       "name": "Alle Eer",
       "url": "https://open.spotify.com/track/2QTTNVu5gpfYnesPh42u7M"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 239662,
       "name": "Asante Sana",
       "url": "https://open.spotify.com/track/6P6TvnQ2LWAANNdadNJa0K"
@@ -1420,6 +1420,24 @@
       "duration_ms": 204800,
       "name": "Authority",
       "url": "https://open.spotify.com/track/2BvhzAhQ2hWQKts94ZpC3p"
+    },
+    {
+      "album": {
+        "name": "Available",
+        "url": "https://open.spotify.com/album/5t2SLnK7fLlEqVnRvm081u"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188288,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/7IB7VmuWJV0IsMy9pQfcdm"
     },
     {
       "album": {
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 478000,
       "name": "Baba/you make me wonder/Somebody say baba - Medley",
       "url": "https://open.spotify.com/track/5FcbPL756b2dcFx4je23yt"
@@ -1715,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Banza (Without Jesus)",
+        "url": "https://open.spotify.com/album/3cEmJLaIcKREowNKLiUHzV"
+      },
+      "artists": [
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130446,
+      "name": "Banza (Without Jesus)",
+      "url": "https://open.spotify.com/track/5GyFW4lcghMWglw92neqKO"
+    },
+    {
+      "album": {
         "name": "Battalion",
         "url": "https://open.spotify.com/album/2j4gzwXojMMhhKrTpMEk2S"
       },
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 204959,
       "name": "Be Magnified",
       "url": "https://open.spotify.com/track/7m6fLplCGhM9Fr70QK1SNS"
@@ -1974,7 +2010,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 177777,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/4g2KcVy7FpRLzAZMHbijmx"
@@ -2686,10 +2722,32 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 222439,
       "name": "Child of the Lion",
       "url": "https://open.spotify.com/track/4HbTegUOWyZ8jRe6pHwlQ1"
+    },
+    {
+      "album": {
+        "name": "Children Of God",
+        "url": "https://open.spotify.com/album/2H9zdb01cFY4JkCIPMBLrL"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180735,
+      "name": "Children Of God",
+      "url": "https://open.spotify.com/track/5zLMWMh0ezQx5ViHTDg3dp"
     },
     {
       "album": {
@@ -3529,6 +3587,28 @@
     },
     {
       "album": {
+        "name": "Dance Like David",
+        "url": "https://open.spotify.com/album/2ifOguXcgPwFkw6KD5dMmr"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1QREgi3vk6vWdQK5ZKltgX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "Dance Like David",
+      "url": "https://open.spotify.com/track/0AVYx4AftpfptSBZwSoefi"
+    },
+    {
+      "album": {
         "name": "Dans Tes Mains",
         "url": "https://open.spotify.com/album/4oq9RhPHkaLxa5O7kJbWFl"
       },
@@ -3896,6 +3976,24 @@
       "duration_ms": 214793,
       "name": "Dream Again - Live",
       "url": "https://open.spotify.com/track/4n6DD6vbMvyoZUYNytENUo"
+    },
+    {
+      "album": {
+        "name": "Dumije",
+        "url": "https://open.spotify.com/album/1qIrvb21SxtTlmpjYKmlvq"
+      },
+      "artists": [
+        {
+          "name": "Joseph Briggs",
+          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "Dumije",
+      "url": "https://open.spotify.com/track/0jYCGKF8WaWIAVgNDEC3Na"
     },
     {
       "album": {
@@ -5742,7 +5840,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 132519,
       "name": "God's Love",
       "url": "https://open.spotify.com/track/7240uGoDsILNW2ujEvKSsA"
@@ -5830,7 +5928,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 209454,
       "name": "GOOD",
       "url": "https://open.spotify.com/track/7d2uC1DX0nR4zCk5JiKZoV"
@@ -6308,6 +6406,24 @@
       "duration_ms": 151578,
       "name": "Halle",
       "url": "https://open.spotify.com/track/2sXiwh0GsUlj6Cvbs0IpVJ"
+    },
+    {
+      "album": {
+        "name": "HALLE",
+        "url": "https://open.spotify.com/album/01qm6W6VAxwvecTf4p81RL"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "HALLE",
+      "url": "https://open.spotify.com/track/60V58dNFVz1Imx8NT9UrBm"
     },
     {
       "album": {
@@ -6965,6 +7081,32 @@
     },
     {
       "album": {
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/6EvveehL6Gg3JF17niRJk6"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
+    },
+    {
+      "album": {
         "name": "Holy Turn Up",
         "url": "https://open.spotify.com/album/1Kay4db1Cij844FcU430fi"
       },
@@ -6994,7 +7136,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 118742,
       "name": "Home",
       "url": "https://open.spotify.com/track/5xOd60gq4AkBft2pfuORl1"
@@ -7078,6 +7220,28 @@
       "duration_ms": 253090,
       "name": "I am Excited",
       "url": "https://open.spotify.com/track/5PY8SCjjE6UgZoRZvnpQbY"
+    },
+    {
+      "album": {
+        "name": "I CALL YOU JESUS (Live)",
+        "url": "https://open.spotify.com/album/2xzHAvtdJWCwEuNXSMOzsA"
+      },
+      "artists": [
+        {
+          "name": "Joshua Oyetunde",
+          "url": "https://open.spotify.com/artist/6kfC2W7iy7tJDoXMKzaRNg"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 619601,
+      "name": "I CALL YOU JESUS - Live",
+      "url": "https://open.spotify.com/track/3vT6yc4cy6kNIdDZpdp8Ct"
     },
     {
       "album": {
@@ -7636,7 +7800,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 220969,
       "name": "Ije Love",
       "url": "https://open.spotify.com/track/3R069Tqyd0ZfulXuSBSNMn"
@@ -7812,7 +7976,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 154479,
       "name": "In the Blood 2",
       "url": "https://open.spotify.com/track/3moqoaDy2sNTt5zmC6BHNA"
@@ -8009,6 +8173,28 @@
     },
     {
       "album": {
+        "name": "Jabez's Prayer",
+        "url": "https://open.spotify.com/album/1tiMjr4tShZs3HJGPwxYDw"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139694,
+      "name": "Jabez's Prayer",
+      "url": "https://open.spotify.com/track/3Zrt7CSH0wcRez0Q9Sjq6i"
+    },
+    {
+      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/0X6GYTN82L7U25f8gxYpSg"
       },
@@ -8082,10 +8268,32 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 148806,
       "name": "Jericho (Sempe)",
       "url": "https://open.spotify.com/track/5BC3vCM7hkbTY7lfpsmOUv"
+    },
+    {
+      "album": {
+        "name": "Jesu Ni",
+        "url": "https://open.spotify.com/album/45nDWS71Eu1YxtnlDgupdn"
+      },
+      "artists": [
+        {
+          "name": "Samuel Folabi",
+          "url": "https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Jesu Ni",
+      "url": "https://open.spotify.com/track/6tYErAAwdY1kXzdbAxLTpM"
     },
     {
       "album": {
@@ -8717,6 +8925,24 @@
     },
     {
       "album": {
+        "name": "RANSOMED (Live)",
+        "url": "https://open.spotify.com/album/2Rb3oh0CwTFIWRjCGbP36N"
+      },
+      "artists": [
+        {
+          "name": "IBKSings",
+          "url": "https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452712,
+      "name": "Kosi - Live",
+      "url": "https://open.spotify.com/track/7b4wNaxJi4hcEoR4A78f23"
+    },
+    {
+      "album": {
         "name": "Kount Ur Blessings",
         "url": "https://open.spotify.com/album/1VuaD4rhuwn35s02W9zoOF"
       },
@@ -8824,7 +9050,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 108279,
       "name": "Liberty Anthem 1",
       "url": "https://open.spotify.com/track/3ZAz9q1uWQj0vDfLqJ2ZSz"
@@ -8864,6 +9090,28 @@
       "duration_ms": 255503,
       "name": "Lift Up Our Hands",
       "url": "https://open.spotify.com/track/0NdThd7jlzdRRvmFUoIu5D"
+    },
+    {
+      "album": {
+        "name": "Lifter Of Men (Higher)",
+        "url": "https://open.spotify.com/album/2mTZSMh9NW1Ep8tMdJvrzH"
+      },
+      "artists": [
+        {
+          "name": "Pv Idemudia",
+          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
+        },
+        {
+          "name": "YYC Worship",
+          "url": "https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443614,
+      "name": "Lifter Of Men - Higher",
+      "url": "https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ"
     },
     {
       "album": {
@@ -13307,6 +13555,32 @@
     },
     {
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/0iDzHo6oWzhdPcLXKCbpGP"
+      },
+      "artists": [
+        {
+          "name": "Twish Alaga",
+          "url": "https://open.spotify.com/artist/2dXppf5qpzfPfa5zn2KskF"
+        },
+        {
+          "name": "Timbun",
+          "url": "https://open.spotify.com/artist/6YKi7sHVU5o6KYYn8B4Y0n"
+        },
+        {
+          "name": "Boma Eke",
+          "url": "https://open.spotify.com/artist/0rByTjEQewxFOqZGQQ1Dz9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/0unioS3xZmgPKn58zhBpDB"
+    },
+    {
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
       },
@@ -13730,7 +14004,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 275748,
       "name": "Sacrifice of Praise",
       "url": "https://open.spotify.com/track/3MuKocqGJEJdT9UEH53UYL"
@@ -14730,7 +15004,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 220833,
       "name": "Taking The Battlefield",
       "url": "https://open.spotify.com/track/117LzodQtQid9YdTxBr14l"
@@ -14817,6 +15091,24 @@
     },
     {
       "album": {
+        "name": "TAMUNO",
+        "url": "https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1"
+      },
+      "artists": [
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "TAMUNO",
+      "url": "https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh"
+    },
+    {
+      "album": {
         "name": "Tehillah Gbedu",
         "url": "https://open.spotify.com/album/6UEEtKQFjxAaeNexLuv8TX"
       },
@@ -14866,6 +15158,24 @@
       "duration_ms": 154124,
       "name": "Testify",
       "url": "https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg"
+    },
+    {
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/2WM9Kn4hSMzBFQjis4Ra4d"
+      },
+      "artists": [
+        {
+          "name": "Richy Okechukwu",
+          "url": "https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206504,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/3XC8ZwFfShSkYPPi3uFu2q"
     },
     {
       "album": {
@@ -15844,7 +16154,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 322255,
       "name": "TURNING AROUND",
       "url": "https://open.spotify.com/track/6hrLilhSwvVNplz9aV6QAE"
@@ -16577,6 +16887,28 @@
     },
     {
       "album": {
+        "name": "We No Dey Tire",
+        "url": "https://open.spotify.com/album/1WgnOitVV6Knlxh0ypgqL9"
+      },
+      "artists": [
+        {
+          "name": "Streams Of Joy",
+          "url": "https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173064,
+      "name": "We No Dey Tire",
+      "url": "https://open.spotify.com/track/7bFSU8Vb2J1wKJOgHdHpiJ"
+    },
+    {
+      "album": {
         "name": "We Outside",
         "url": "https://open.spotify.com/album/4RmmwLWxkxihUhOFlFJQ0h"
       },
@@ -16836,7 +17168,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 158064,
       "name": "Who did it?",
       "url": "https://open.spotify.com/track/6PQIgGb6HgasFf8BwvaCZd"

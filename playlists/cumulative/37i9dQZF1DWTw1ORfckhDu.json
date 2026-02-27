@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7pxpxkErvrZgMu1SGgSrWe"
+      },
+      "artists": [
+        {
+          "name": "BLANKS",
+          "url": "https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136050,
+      "name": "21",
+      "url": "https://open.spotify.com/track/4uwwyTTZghTJ87uCTFxlqJ"
+    },
+    {
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/2GpSzKe87fYEtw9luJcKvI"
       },
@@ -1012,6 +1030,24 @@
       "duration_ms": 175970,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
+    },
+    {
+      "album": {
+        "name": "ALIBI",
+        "url": "https://open.spotify.com/album/5VMY4rBbCqsxa2zDToeCND"
+      },
+      "artists": [
+        {
+          "name": "Gabri",
+          "url": "https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160827,
+      "name": "ALIBI",
+      "url": "https://open.spotify.com/track/5YyPs8z96MtGuiu8dKO0XL"
     },
     {
       "album": {
@@ -2310,7 +2346,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 199671,
       "name": "Cocaina (feat. JVG)",
       "url": "https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp"
@@ -2416,6 +2452,28 @@
       "duration_ms": 185624,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4tOtBFHKI0C1LEcnUM7gBy"
+    },
+    {
+      "album": {
+        "name": "Costi x OFF THE BOOTH (Taxin vika)",
+        "url": "https://open.spotify.com/album/05BwBT7kYPLtqNUZ3cUjvD"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "OFF THE BOOTH",
+          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122750,
+      "name": "Costi x OFF THE BOOTH (Taxin vika)",
+      "url": "https://open.spotify.com/track/5wa57ymHinnOMOUpjLUsWP"
     },
     {
       "album": {
@@ -2912,6 +2970,32 @@
       "duration_ms": 170909,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2SaeNCMjfmBLJmHnm2BpeP"
+    },
+    {
+      "album": {
+        "name": "Edami",
+        "url": "https://open.spotify.com/album/1lttpKBQsLlfqJ8Yoq4Iww"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4ngi",
+          "url": "https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr"
+        },
+        {
+          "name": "Voittajafiilis",
+          "url": "https://open.spotify.com/artist/1awQrhqa1PRBrqLKoJmv1J"
+        },
+        {
+          "name": "DJ Massimo",
+          "url": "https://open.spotify.com/artist/71qkSHIyLGgk1ffDbcbEAj"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Edami",
+      "url": "https://open.spotify.com/track/6BCI3pPuwUUYz6Ff6CCckv"
     },
     {
       "album": {
@@ -5169,6 +5253,28 @@
     },
     {
       "album": {
+        "name": "Horo",
+        "url": "https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Horo",
+      "url": "https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318"
+    },
+    {
+      "album": {
         "name": "HOTLINE (feat. Gabri)",
         "url": "https://open.spotify.com/album/2kBcr2daDwvo92nMCoVLVG"
       },
@@ -5924,7 +6030,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 154443,
       "name": "Ik\u00e4v\u00e4 mua",
       "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
@@ -6460,7 +6566,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 138935,
       "name": "Jos ei oo meit",
       "url": "https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV"
@@ -7785,6 +7891,24 @@
     },
     {
       "album": {
+        "name": "Kii Saa",
+        "url": "https://open.spotify.com/album/03ZT3h9yMUImm0ZLcHUVdO"
+      },
+      "artists": [
+        {
+          "name": "Albo & Kd",
+          "url": "https://open.spotify.com/artist/5pkS4XbpfZoubdr9TNPym3"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160993,
+      "name": "Kii Saa",
+      "url": "https://open.spotify.com/track/1vsCt4tpnbQPCzA4VR9oVL"
+    },
+    {
+      "album": {
         "name": "KIIRE",
         "url": "https://open.spotify.com/album/4wBag1NtoF9kKxfAihKKE4"
       },
@@ -8637,6 +8761,36 @@
     },
     {
       "album": {
+        "name": "Kui paljon (Remix)",
+        "url": "https://open.spotify.com/album/4TebmnW0jxbBVKixLi2Xfi"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160129,
+      "name": "Kui paljon - Remix",
+      "url": "https://open.spotify.com/track/2bBhjebWhLpeumAdojsJyO"
+    },
+    {
+      "album": {
         "name": "Laatikko EP",
         "url": "https://open.spotify.com/album/4Sfu4sUyIaJhvrToINwZkH"
       },
@@ -9240,7 +9394,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 140296,
       "name": "K\u00e4vin t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
@@ -11306,7 +11460,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 201037,
       "name": "MEININKI",
       "url": "https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7"
@@ -13342,7 +13496,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 166114,
       "name": "Niille joil on paha olla - Unitas Sigma",
       "url": "https://open.spotify.com/track/2W1xOqSzZ5cbMdB3nV6Zjd"
@@ -18700,7 +18854,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 172949,
       "name": "Syyp\u00e4\u00e4 sun hymyyn - Unitas Sigma",
       "url": "https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX"
@@ -19820,7 +19974,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
@@ -20386,7 +20540,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195194,
       "name": "T\u00e4hdet",
       "url": "https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ"

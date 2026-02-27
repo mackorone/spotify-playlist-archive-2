@@ -2,9 +2,9 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> \#fyp songs voor je playlist! Cover: Yade Lauren
+> \#fyp songs voor je playlist \| "schouder in de kom hij vliegt er bijna uit" \- Siggy & D1ns
 
-855 songs - 1 day 18 hr 57 min
+857 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 | 2024-09-19 | 2025-02-11 |
 | [Ik Swing Met Me Banana](https://open.spotify.com/track/03Wnm1HE0brjAkXFpmlAj4) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Ik Swing Met Me Banana](https://open.spotify.com/album/6AMxldBjFarAX5EC4p6hfc) | 2:58 | 2025-04-09 | 2025-05-08 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-07-01 | 2025-11-25 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-02-26 |  |
 | [In De Brand \(Tatu Tatu\)](https://open.spotify.com/track/1450zwvqtMB5fPk8Jhgcwq) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [In De Brand \(Tatu Tatu\)](https://open.spotify.com/album/4se8SlxveYTBAAjjWRDrUK) | 2:36 | 2023-11-09 | 2023-12-30 |
 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 | 2025-06-27 | 2025-10-22 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-12 | 2025-03-06 |
@@ -668,6 +669,7 @@
 | [She Know What She Wanted \- Jersey Club Remix Slowed](https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU) | [Godard](https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [She Know What She Wanted \(Jersey Club Remix Slowed\)](https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb) | 2:13 | 2024-03-18 | 2024-04-06 |
 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0ceuoClMDzpyl6I6OkGgtg) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner](https://open.spotify.com/album/6FhFyGMPDbGjXXxXukKcnq) | 4:56 | 2024-10-03 | 2024-12-04 |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 | 2025-12-05 |  |
+| [Shoulder Lean](https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Shoulder Lean](https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl) | 2:34 | 2026-02-26 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-27 | 2025-10-17 |
 | [Si Maatje](https://open.spotify.com/track/2xHlin7fgfTCSOlpBgdXiP) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Anthony Kruijver](https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn) | [Si Maatje](https://open.spotify.com/album/2LBFqJ971pYnPLMbdjhuCE) | 2:30 | 2024-08-01 | 2025-05-09 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-02 | 2024-02-09 |

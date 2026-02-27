@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 676733,
+  "num_followers": 676820,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAABGJCIFrGU1POsti36OOwWb",
+  "snapshot_id": "aZ47gAAAAAAki0SQKBR6KG6Tk98lEI22",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aute Cuture",
+        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 147626,
+      "name": "Aute Cuture",
+      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aute Cuture",
-        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 147626,
-      "name": "Aute Cuture",
-      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Pal\u00e9",
         "url": "https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "QUE NO SALGA LA LUNA - Cap.2: Boda",
-      "url": "https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fucking Money Man",
         "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 138370,
       "name": "Milion\u00e0ria",
       "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "QUE NO SALGA LA LUNA - Cap.2: Boda",
+      "url": "https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a"
     }
   ],
   "unique_name": "This Is ROSAL\u00cdA",

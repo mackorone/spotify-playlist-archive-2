@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 980600,
+  "num_followers": 980754,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAB5vUiLumwVSYDxIGuo2ISL",
+  "snapshot_id": "aZ47gAAAAADNQY2MVG4i0DvWc34nM9cB",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4PIsExpUeEzF6qJcKc95Yb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/3QCO2C8SougLIlfSGqvnHD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 228440,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Space",
-        "url": "https://open.spotify.com/album/4PIsExpUeEzF6qJcKc95Yb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/3QCO2C8SougLIlfSGqvnHD"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey"
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
       },
       "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 188065,
-      "name": "The Mourning After",
-      "url": "https://open.spotify.com/track/17u8liQfMVc8WKiTzmdbzq"
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     }
   ],
   "unique_name": "This Is Mac Miller",

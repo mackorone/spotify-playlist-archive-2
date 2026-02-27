@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Kidene Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,091 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,101 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 62 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 |
 | 63 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 |
 | 64 | [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 |
-| 65 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
-| 66 | [Niaminishe](https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Niaminishe](https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka) | 4:32 |
+| 65 | [Niaminishe](https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Niaminishe](https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka) | 4:32 |
+| 66 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
 | 67 | [Maokoto](https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Maokoto](https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG) | 2:34 |
 | 68 | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [2Fani](https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD), [Chobamc](https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM) | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7) | 4:52 |
 | 69 | [Makombolelo singeli version](https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs) | [Mazegele Boy](https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ) | [Makombolelo singeli version](https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb) | 2:13 |

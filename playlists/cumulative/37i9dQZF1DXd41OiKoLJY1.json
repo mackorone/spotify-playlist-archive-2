@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: Eugene Racaza\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Seiya\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -43432,6 +43432,24 @@
       "duration_ms": 130567,
       "name": "MIRACLE",
       "url": "https://open.spotify.com/track/2Z1OVvsQZFbBuVdd5bvDQB"
+    },
+    {
+      "album": {
+        "name": "Misay",
+        "url": "https://open.spotify.com/album/654DBQ2NdveN5NuyQq8203"
+      },
+      "artists": [
+        {
+          "name": "Seiya",
+          "url": "https://open.spotify.com/artist/07yCIOd67torzVSgDgDPU8"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239674,
+      "name": "Misay",
+      "url": "https://open.spotify.com/track/4MKX6j3m2v6mWuXoU35b7s"
     },
     {
       "album": {

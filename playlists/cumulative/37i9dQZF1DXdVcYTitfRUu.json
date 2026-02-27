@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Crazy Love Song",
+        "url": "https://open.spotify.com/album/6IwHj5oL5ZwHiCcYiVP2Fn"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Crazy Love Song",
+      "url": "https://open.spotify.com/track/5WaEGsWNjzDc50VYN8NkjA"
+    },
+    {
+      "album": {
         "name": "Crush on you",
         "url": "https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 187000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6rEl0Yj0Y7Zp84ur7soQHY"
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 213000,
       "name": "One More Drink",
       "url": "https://open.spotify.com/track/3sgY0rXSs0QwS1iDCC7Lne"
@@ -4633,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Who I've Become",
+        "url": "https://open.spotify.com/album/7mFAFVgcpV59tAZ6Isy3FZ"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236964,
+      "name": "Who I've Become",
+      "url": "https://open.spotify.com/track/3buxRmvpflSFLLhkXeVcwv"
+    },
+    {
+      "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
       },
@@ -4926,6 +4962,24 @@
       "duration_ms": 300689,
       "name": "\ubbf8\ub798\uc758 \ub108\uc5d0\uac8c \uace0\ub9c8\uc6cc (Thank you, future you.)",
       "url": "https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\ub2e4",
+        "url": "https://open.spotify.com/album/3oZ2xjTHAJ1FWtWKEDw2kb"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\ub2e4",
+      "url": "https://open.spotify.com/track/3fIjMrLEe4R0CeOGj1BNqJ"
     },
     {
       "album": {

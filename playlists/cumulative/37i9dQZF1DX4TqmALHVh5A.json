@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : TH\u00c9A",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : miki",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1362,6 +1362,24 @@
       "duration_ms": 187986,
       "name": "COLL\u00c9 SERR\u00c9",
       "url": "https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy"
+    },
+    {
+      "album": {
+        "name": "Comme des hy\u00e8nes",
+        "url": "https://open.spotify.com/album/7gyRUNtOcs0LnDlVZRI96P"
+      },
+      "artists": [
+        {
+          "name": "Belfour",
+          "url": "https://open.spotify.com/artist/0Dqz4WMcjzUzvkLOauuMqN"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203740,
+      "name": "Comme des hy\u00e8nes",
+      "url": "https://open.spotify.com/track/3DVvnkok2V9fHs7IJr5glQ"
     },
     {
       "album": {
@@ -4940,7 +4958,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 287650,
       "name": "Na\u00eff de Coeur",
       "url": "https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA"
@@ -6623,6 +6641,24 @@
     },
     {
       "album": {
+        "name": "JOYBOY",
+        "url": "https://open.spotify.com/album/07WovYq28qEgFfshFH42Xh"
+      },
+      "artists": [
+        {
+          "name": "Peet",
+          "url": "https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176431,
+      "name": "Silencieux",
+      "url": "https://open.spotify.com/track/39KQPpuNyoNVM97LOizaxm"
+    },
+    {
+      "album": {
         "name": "Jour",
         "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
       },
@@ -6688,7 +6724,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 127000,
       "name": "Soucis dans la t\u00eate",
       "url": "https://open.spotify.com/track/14diKmKKPZS0PI24p8HOKM"

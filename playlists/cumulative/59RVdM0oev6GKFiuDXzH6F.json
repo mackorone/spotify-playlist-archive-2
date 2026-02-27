@@ -12741,6 +12741,32 @@
     },
     {
       "album": {
+        "name": "Mind Illuminate",
+        "url": "https://open.spotify.com/album/1hC1LUMQUyiBYxCUbVDkt3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171825,
+      "name": "Mind Illuminate",
+      "url": "https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo"
+    },
+    {
+      "album": {
         "name": "Mine (feat. Dawty Music, Preston Harris & Sophia Sugarman)",
         "url": "https://open.spotify.com/album/5Iw4CNfp4ly6AYBcpFgyQn"
       },
@@ -20646,6 +20672,36 @@
       "duration_ms": 186093,
       "name": "Turn The Lights Off (Hypaton Remix)",
       "url": "https://open.spotify.com/track/0sbdU6J0TXPuRcSeIa7glU"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Off (Tvilling Remix)",
+        "url": "https://open.spotify.com/album/1wbkNGXKBrkDPrRY1kMYVs"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "Tvilling",
+          "url": "https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183984,
+      "name": "Turn The Lights Off (Tvilling Remix)",
+      "url": "https://open.spotify.com/track/4DlWQSxLGdlTlhSh3RszBO"
     },
     {
       "album": {

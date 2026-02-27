@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,344 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,354 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 12 | [Making Love](https://open.spotify.com/track/1UpKK7U9ow2K1G6qNw9wnW) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:44 |
 | 13 | [Killing Me Softly With His Song \- 2006 Remaster](https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 4:47 |
 | 14 | [Do What You Gotta Do](https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:09 |
-| 15 | [Tryin' Times](https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 5:08 |
+| 15 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 16 | [If Ever I See You Again](https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta Flack](https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY) | 3:40 |
 | 17 | [I \(Who Have Nothing\)](https://open.spotify.com/track/2gd06mQH4bk07b7klXpkyV) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 5:03 |
 | 18 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/5nM4eEn2NYvJFTvoIahTLn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 4:14 |
-| 19 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
+| 19 | [Tryin' Times](https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 5:08 |
 | 20 | [Mr\. Magic](https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 3:58 |
 | 21 | [You've Got a Friend](https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:23 |
 | 22 | [To Love Somebody](https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 6:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 49 | [In the Name of Love](https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:58 |
 | 50 | [After You](https://open.spotify.com/track/4h6zTXHpPwq11aqE6IpyRw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 3:53 |
 
-Snapshot ID: `aZzqAAAAAAD3BWKIzrkspqSHEA32ZZYZ`
+Snapshot ID: `aZ47gAAAAABaYZ/sPR/wPcFX7LdJX7bL`

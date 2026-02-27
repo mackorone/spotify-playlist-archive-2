@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-302 songs - 1 day 16 hr 54 min
+304 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [HOSANNA WORSHIP \- LIVE](https://open.spotify.com/track/4Asm8IIFNfcV3tOsbBCZQ6) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [HOSANNA WORSHIP \(LIVE\)](https://open.spotify.com/album/2fDU0leYnl2rlfPFor0K1a) | 8:48 | 2025-04-11 | 2025-05-09 |
 | [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-20 |
 | [I Believe \- Live](https://open.spotify.com/track/08AX9RgUhQFXw3zhE27SE8) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [I Believe \(Live\)](https://open.spotify.com/album/7osnuQho9iApFDA1WRCLOB) | 6:13 | 2024-11-15 | 2025-01-17 |
+| [I CALL YOU JESUS \- Live](https://open.spotify.com/track/3vT6yc4cy6kNIdDZpdp8Ct) | [Joshua Oyetunde](https://open.spotify.com/artist/6kfC2W7iy7tJDoXMKzaRNg), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [I CALL YOU JESUS \(Live\)](https://open.spotify.com/album/2xzHAvtdJWCwEuNXSMOzsA) | 10:19 | 2026-02-27 |  |
 | [I Decree \- Live](https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [I Decree \(Live\)](https://open.spotify.com/album/4MwqnWVW9SNkQ6GZJ4Bjli) | 6:06 | 2025-08-01 | 2025-08-29 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-02-23 |  |
 | [I Know \- Live](https://open.spotify.com/track/4NGtFSuxqx4px2MAyYD5y4) | [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [I Know \(Live\)](https://open.spotify.com/album/0b2OP2eyJkmHQ89DzoKOhV) | 9:06 | 2025-10-24 | 2025-11-14 |
@@ -154,6 +155,7 @@
 | [Kingdom Come \- Live](https://open.spotify.com/track/3Q7oyCiwMOYyUlGhYfxU2i) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Hallel](https://open.spotify.com/artist/46UGxcEh5kqVkGG9O09U4S), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc), [CJ Nonso](https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F), [Favvy Sings](https://open.spotify.com/artist/7scyetePnpih3zaBZIZE8t) | [Kingdom Come \(Live\)](https://open.spotify.com/album/2qc2BQ2DpXKbChrvM02Djq) | 10:34 | 2024-11-08 | 2024-12-20 |
 | [KINGS AND PRIESTS \- Live](https://open.spotify.com/track/3V5B57fJImvhzpWuzrVyKi) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Caleb David](https://open.spotify.com/artist/7C2oEPctxS2j9pXPODStKz) | [KINGS AND PRIESTS \(Live\)](https://open.spotify.com/album/4VVIg3orQVZqpGEg3imi6C) | 11:36 | 2025-05-23 | 2025-10-17 |
 | [Kosi \- Live](https://open.spotify.com/track/7D9UWAQcr3QkMT77nMWLM1) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Kosi \(Live\)](https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx) | 7:16 | 2024-09-13 | 2024-11-01 |
+| [Kosi \- Live](https://open.spotify.com/track/7b4wNaxJi4hcEoR4A78f23) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [RANSOMED \(Live\)](https://open.spotify.com/album/2Rb3oh0CwTFIWRjCGbP36N) | 7:32 | 2026-02-27 |  |
 | [KÁBÍYÈSÍ RĘ \- Live](https://open.spotify.com/track/4r0LxRMfz4ZRrGCVDLDjq7) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [KÁBÍYÈSÍ RĘ \(Live\)](https://open.spotify.com/album/7FN0eyrL29SlrbvHzDq8OQ) | 9:56 | 2026-02-20 |  |
 | [Let Them Know \- Live](https://open.spotify.com/track/0HqvZlBUawha81zBQ5wnFl) | [David Ekene](https://open.spotify.com/artist/5A7uVlEs5QcS92rQl9A2IJ) | [Let Them Know \(Live\)](https://open.spotify.com/album/5V9HkW2CNncaS6dI8K3WG9) | 9:07 | 2024-09-20 | 2024-11-15 |
 | [Lift Up Your Voices \- Live](https://open.spotify.com/track/0TXH1EyG4FsKHpp8CIBK4I) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Lift Up Your Voices \(Live\)](https://open.spotify.com/album/66rGbvNL1jJAcKHf6fqMi7) | 9:17 | 2024-09-13 | 2025-02-21 |

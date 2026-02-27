@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,734 likes - 48 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,759 likes - 48 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 40 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
 | 41 | [Vacancy \(feat\. Just Liv\)](https://open.spotify.com/track/0CS4UnPB1EoMWGB0DFjUy4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Just Liv](https://open.spotify.com/artist/0TkJwaDSQ3kVhCxEPX0wey) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 4:03 |
 | 42 | [Brick by Brick \- Durand Bernarr Version](https://open.spotify.com/track/7p9tm4Z4JZm7FsvoyyR9sT) | [The Voices of Saturday Church](https://open.spotify.com/artist/3p1fkrf1vEETjpSULCYpe4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Saturday Church \(Official Concept Album\)](https://open.spotify.com/album/5MUbWieT5aVx5oVtrSgHxG) | 3:44 |
-| 43 | [on the way](https://open.spotify.com/track/3JDNeF55NncbrcyUpD1VNk) | [Solomon Fox](https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [speedrun](https://open.spotify.com/album/29ZCjRcwhInToOIopeI2Bk) | 1:18 |
-| 44 | [MIXXED](https://open.spotify.com/track/1e1HrWgSMfRwDyPGgiAo4i) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 1:36 |
+| 43 | [MIXXED](https://open.spotify.com/track/1e1HrWgSMfRwDyPGgiAo4i) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 1:36 |
+| 44 | [on the way](https://open.spotify.com/track/3JDNeF55NncbrcyUpD1VNk) | [Solomon Fox](https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [speedrun](https://open.spotify.com/album/29ZCjRcwhInToOIopeI2Bk) | 1:18 |
 | 45 | [minding\_my business](https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 4:28 |
 | 46 | [Alone Again](https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId) | [Ballad](https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Alone Again](https://open.spotify.com/album/7fpCTI1h9vyPGzrCGAjKrf) | 3:25 |
 | 47 | [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 |
 | 48 | [Hangin'](https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [B\-Boys Blues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ) | 3:16 |
 
-Snapshot ID: `aZzqAAAAAACw4rlYKOqL6osXPafFnufq`
+Snapshot ID: `aZ47gAAAAADuH6deqdk0QEQS9xwABpYT`

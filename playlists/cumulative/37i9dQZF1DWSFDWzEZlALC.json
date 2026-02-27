@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: herbst",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: mo\u00e9",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 204600,
       "name": "All die sch\u00f6nen Worte feat. Faber",
       "url": "https://open.spotify.com/track/6d7QE9925lkSV8IxaNC55s"
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 143606,
       "name": "baby T",
       "url": "https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf"
@@ -4074,7 +4074,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180582,
       "name": "blume (aus dem garten gegen\u00fcber)",
       "url": "https://open.spotify.com/track/2vQowEF3P6bCrZpaVeCdy8"
@@ -8904,7 +8904,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 121461,
       "name": "Flaschenpost",
       "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
@@ -9866,7 +9866,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 159533,
       "name": "f\u00fcr immer kind bleiben",
       "url": "https://open.spotify.com/track/7qAnJ6dSXymBTYEinAFvmt"
@@ -10194,7 +10194,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 156041,
       "name": "geklaut",
       "url": "https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy"
@@ -10882,7 +10882,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 113755,
       "name": "Gro\u00dfstadtkinder",
       "url": "https://open.spotify.com/track/1ZBpgyrzhn8jD3iXC65D5t"
@@ -11837,6 +11837,28 @@
     },
     {
       "album": {
+        "name": "helden",
+        "url": "https://open.spotify.com/album/0sXdARjWxj1EhNxUBOzUXR"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        },
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189143,
+      "name": "helden",
+      "url": "https://open.spotify.com/track/2TYB7NAnjy6zzcM9wXbEW1"
+    },
+    {
+      "album": {
         "name": "Helium",
         "url": "https://open.spotify.com/album/5tSFG6YkSHuxZCYQBc8pzG"
       },
@@ -12338,6 +12360,24 @@
       "duration_ms": 127317,
       "name": "H\u00f6henflug",
       "url": "https://open.spotify.com/track/59mWhcCe79JH9zHSbYNKTk"
+    },
+    {
+      "album": {
+        "name": "H\u00f6r auf keinen mehr",
+        "url": "https://open.spotify.com/album/7hjQNHIK1z4UWGjiSYlyoV"
+      },
+      "artists": [
+        {
+          "name": "Florin",
+          "url": "https://open.spotify.com/artist/1UE7cPF2mLRuQmxLwJaOnO"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117200,
+      "name": "H\u00f6r auf keinen mehr",
+      "url": "https://open.spotify.com/track/64wojHBwwRr4rDTUrNu1DV"
     },
     {
       "album": {
@@ -13786,6 +13826,24 @@
       "duration_ms": 231985,
       "name": "Ist schon ok",
       "url": "https://open.spotify.com/track/2bj4uIB30s0hm9G4d5wo6b"
+    },
+    {
+      "album": {
+        "name": "istdasalles",
+        "url": "https://open.spotify.com/album/6fB2iuOAdWxCDrBRzk5ptH"
+      },
+      "artists": [
+        {
+          "name": "l\u00f6nneberger",
+          "url": "https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "istdasalles",
+      "url": "https://open.spotify.com/track/4fsHnEIFRKi7TZ8ya2W4U6"
     },
     {
       "album": {
@@ -15787,6 +15845,24 @@
     },
     {
       "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/4JHhiQQpbBKu8iOjbuoh1p"
+      },
+      "artists": [
+        {
+          "name": "Yasola",
+          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146201,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/7En6dZXLv38QMRsqIaJjW3"
+    },
+    {
+      "album": {
         "name": "Lala",
         "url": "https://open.spotify.com/album/5xgoUKZpPZ4Va5rKNZdq4r"
       },
@@ -16872,7 +16948,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 166917,
       "name": "Lila",
       "url": "https://open.spotify.com/track/2Mx3CTtLVNgkf1dwSrDllV"
@@ -18213,6 +18289,24 @@
     },
     {
       "album": {
+        "name": "Mich selbst",
+        "url": "https://open.spotify.com/album/0GVBQN5S6CykRYpprV3l0d"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228813,
+      "name": "Mich selbst",
+      "url": "https://open.spotify.com/track/42qXgF9aACLBZjcMnpfO36"
+    },
+    {
+      "album": {
         "name": "MIESES LEBEN / WOLKEN (feat. Haiyti)",
         "url": "https://open.spotify.com/album/7dQJSvxjsFTyccNHvbsRQ5"
       },
@@ -18474,6 +18568,24 @@
       "duration_ms": 163555,
       "name": "Moment",
       "url": "https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/2hSUljyMp7i3ZwmpHn7yAc"
+      },
+      "artists": [
+        {
+          "name": "Haus F",
+          "url": "https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240756,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/4bnEgWcP40jmE0DTIBsEfA"
     },
     {
       "album": {
@@ -18991,6 +19103,24 @@
     },
     {
       "album": {
+        "name": "Nein sagen",
+        "url": "https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5"
+      },
+      "artists": [
+        {
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Nein sagen",
+      "url": "https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT"
+    },
+    {
+      "album": {
         "name": "Nero",
         "url": "https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS"
       },
@@ -19282,7 +19412,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 181056,
       "name": "Nie gleich",
       "url": "https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR"
@@ -27417,6 +27547,24 @@
     },
     {
       "album": {
+        "name": "VIELLEICHT",
+        "url": "https://open.spotify.com/album/03ZYXhSmj5NjMIj4jLdREZ"
+      },
+      "artists": [
+        {
+          "name": "Sharaktah",
+          "url": "https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236043,
+      "name": "VIELLEICHT",
+      "url": "https://open.spotify.com/track/5TscnF85MnT7q8gqGBYxeO"
+    },
+    {
+      "album": {
         "name": "Vielleicht bin ich dumm",
         "url": "https://open.spotify.com/album/40mKK8Xg2if2cg42up1i5y"
       },
@@ -29248,7 +29396,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 238693,
       "name": "Wieder zur\u00fcck (feat. Edwin Rosen)",
       "url": "https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9"
@@ -30026,6 +30174,42 @@
       "duration_ms": 204413,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl"
+    },
+    {
+      "album": {
+        "name": "Zeug",
+        "url": "https://open.spotify.com/album/5ZDiAGpXF7A2TgOCiJcANY"
+      },
+      "artists": [
+        {
+          "name": "ok.danke.tsch\u00fcss",
+          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176493,
+      "name": "Zeug",
+      "url": "https://open.spotify.com/track/3ECyrtEB5DJHQjOmn7G6XX"
+    },
+    {
+      "album": {
+        "name": "ZICKZACK",
+        "url": "https://open.spotify.com/album/46vocArEiFAjtgffnrUp73"
+      },
+      "artists": [
+        {
+          "name": "COSIE",
+          "url": "https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141461,
+      "name": "ZICKZACK",
+      "url": "https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31"
     },
     {
       "album": {

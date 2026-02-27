@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: The Jungle Giants",
+  "description": "All the new indie tracks worth knowing about. Cover: The Temper Trap",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "A Perfect Storm",
+        "url": "https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "A Perfect Storm",
+      "url": "https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2"
+    },
+    {
+      "album": {
         "name": "Take It All",
         "url": "https://open.spotify.com/album/4RTRjHA4AMlGA841eZ25wc"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 216426,
       "name": "Against The Current",
       "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
@@ -2075,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Bad Moons",
+        "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493146,
+      "name": "Bad Moons",
+      "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
+    },
+    {
+      "album": {
         "name": "Baited",
         "url": "https://open.spotify.com/album/2VfPY2Zw8zio3uhqhryA1s"
       },
@@ -2606,6 +2642,24 @@
       "duration_ms": 204080,
       "name": "Billie",
       "url": "https://open.spotify.com/track/2vuE4jq2pPT2Af2iAIK9va"
+    },
+    {
+      "album": {
+        "name": "Biting Heels",
+        "url": "https://open.spotify.com/album/39HpqcEfge1SW7r3gfuUMa"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152399,
+      "name": "Biting Heels",
+      "url": "https://open.spotify.com/track/25wRsFqWoCNqcnRTjpoxH1"
     },
     {
       "album": {
@@ -5368,7 +5422,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 245358,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
@@ -7543,6 +7597,24 @@
     },
     {
       "album": {
+        "name": "THE WARNING",
+        "url": "https://open.spotify.com/album/0WUCpp0NYid1BJuhWTY0xt"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "FAULT LINE",
+      "url": "https://open.spotify.com/track/1dkjDwZB0YM433fQaxpCcI"
+    },
+    {
+      "album": {
         "name": "Favourite",
         "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
       },
@@ -8572,7 +8644,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178333,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/22yzFzFoICiGnFjgdl0JAk"
@@ -8644,7 +8716,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 187346,
       "name": "Girls Night",
       "url": "https://open.spotify.com/track/0qr0PdHKhYtePWIPUWE4nl"
@@ -10695,6 +10767,24 @@
     },
     {
       "album": {
+        "name": "I Know!",
+        "url": "https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214304,
+      "name": "I Know!",
+      "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
+    },
+    {
+      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -11189,6 +11279,24 @@
     },
     {
       "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
+    },
+    {
+      "album": {
         "name": "If I Were A Fish",
         "url": "https://open.spotify.com/album/6KmgAsCHvtqmWTpBbmIcvM"
       },
@@ -11338,6 +11446,24 @@
       "duration_ms": 209942,
       "name": "Images of Love (with Dominic Fike)",
       "url": "https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh"
+    },
+    {
+      "album": {
+        "name": "Important To You",
+        "url": "https://open.spotify.com/album/7C2csEjcqWRELvgYe1nSj6"
+      },
+      "artists": [
+        {
+          "name": "Lottie McLeod",
+          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247442,
+      "name": "Important To You",
+      "url": "https://open.spotify.com/track/07gZ76RlqtJPXnZKjmpGec"
     },
     {
       "album": {
@@ -11562,6 +11688,24 @@
       "duration_ms": 342680,
       "name": "Into Gold",
       "url": "https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV"
+    },
+    {
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2HtXNtYOhoPOCDbAduR3oy"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221388,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2"
     },
     {
       "album": {
@@ -12110,7 +12254,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 185759,
       "name": "K1",
       "url": "https://open.spotify.com/track/06U0rHt2uLxygtCmbUBUFp"
@@ -12374,7 +12518,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -12428,7 +12572,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 149866,
       "name": "Last of a Dying Breed",
       "url": "https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI"
@@ -13918,6 +14062,24 @@
       "duration_ms": 231546,
       "name": "Mango Season",
       "url": "https://open.spotify.com/track/6bjcpk0L4ldnJeYk2iGd9i"
+    },
+    {
+      "album": {
+        "name": "Mantis/Sugar Plum",
+        "url": "https://open.spotify.com/album/0GGa1FKiyveo2FPZnvDkKh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280547,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/4H7gZWrCfKN4Yc8HMGvmNw"
     },
     {
       "album": {
@@ -15792,7 +15954,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 344302,
       "name": "Numbers 31:17-18",
       "url": "https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr"
@@ -16936,7 +17098,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 201637,
       "name": "Pigeon",
       "url": "https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok"
@@ -19057,6 +19219,24 @@
     },
     {
       "album": {
+        "name": "Skin Contact",
+        "url": "https://open.spotify.com/album/33RCJMSu9XP1gvjauj3mC4"
+      },
+      "artists": [
+        {
+          "name": "Pamela.",
+          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174807,
+      "name": "Skin Contact",
+      "url": "https://open.spotify.com/track/0rBteQ3pBzNP1tOPgHk1DP"
+    },
+    {
+      "album": {
         "name": "Amber Skies",
         "url": "https://open.spotify.com/album/0NsOjvWtMD3hnWrhj32bR8"
       },
@@ -19068,7 +19248,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 220527,
       "name": "Skip the Stones",
       "url": "https://open.spotify.com/track/6xLK6NAd7yCR4Dup5PTc3q"
@@ -19086,7 +19266,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 230129,
       "name": "SLATHER ON THE HONEY",
       "url": "https://open.spotify.com/track/1c4cTw79dH5vuCrVn81zeW"
@@ -19166,6 +19346,24 @@
       "duration_ms": 156586,
       "name": "Sliver",
       "url": "https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz"
+    },
+    {
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "album": {
@@ -21111,6 +21309,24 @@
     },
     {
       "album": {
+        "name": "Tell Me (U Want It)",
+        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Tell Me (U Want It)",
+      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
+    },
+    {
+      "album": {
         "name": "Tell Me How It Feels",
         "url": "https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l"
       },
@@ -21733,6 +21949,44 @@
     },
     {
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Asha Puthli",
+          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        },
+        {
+          "name": "Dave Jolicoeur",
+          "url": "https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297787,
+      "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
+      "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
+    },
+    {
+      "album": {
         "name": "The Old Law",
         "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
       },
@@ -22184,7 +22438,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 281786,
       "name": "This Is The World (I Made It For You)",
       "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
@@ -23914,7 +24168,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189853,
       "name": "Where's My Phone?",
       "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
@@ -24632,6 +24886,24 @@
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "album": {
+        "name": "You Have Been Blessed",
+        "url": "https://open.spotify.com/album/0bq3II9Uj1J9wb94NnA439"
+      },
+      "artists": [
+        {
+          "name": "EXEK",
+          "url": "https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307306,
+      "name": "You Have Been Blessed",
+      "url": "https://open.spotify.com/track/7idM3k12zC9u0wckoDIFRq"
     },
     {
       "album": {

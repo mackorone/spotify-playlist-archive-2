@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Arcángel
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,706 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,718 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 19 | [Palabras](https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Canto Pa No Llorar](https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf) | 3:02 |
 | 20 | [Todo Va A Estar Bien](https://open.spotify.com/track/0ZTfbTfUdC4E0MgGC53Ms0) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Canto Pa No Llorar](https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf) | 3:08 |
 | 21 | [Carta Al Corazón](https://open.spotify.com/track/4DJI6b34ZU14L7xu8iseIh) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Canto Pa No Llorar](https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf) | 3:27 |
-| 22 | [En El Club](https://open.spotify.com/track/1jt1JLQB7iopUUuxzhPBgS) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [RED ROOM](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 2:24 |
-| 23 | [OH Shit OH Ma](https://open.spotify.com/track/5Cz5WCnlx9flh5ys9SA8rD) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [RED ROOM](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 1:45 |
-| 24 | [OD](https://open.spotify.com/track/7LkilQwylRvST1us9aT68w) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [RED ROOM](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 2:16 |
+| 22 | [En El Club](https://open.spotify.com/track/1jt1JLQB7iopUUuxzhPBgS) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Cuarto Rojo](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 2:24 |
+| 23 | [OH Shit OH Ma](https://open.spotify.com/track/5Cz5WCnlx9flh5ys9SA8rD) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Cuarto Rojo](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 1:45 |
+| 24 | [OD](https://open.spotify.com/track/7LkilQwylRvST1us9aT68w) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Cuarto Rojo](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 2:16 |
 | 25 | [EN EL BARRIO DE LAS FLORES](https://open.spotify.com/track/2dq4b2x87XYMl8EY7fT12G) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1) | [EL PLUGGG 3 OVA 2](https://open.spotify.com/album/0c6D3rRgLwIoV00tdf84wx) | 3:21 |
 | 26 | [DALE HASTA ABAJO](https://open.spotify.com/track/0ijfp5UZxAzR3eNANozXm8) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Baby Maikol](https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U), [Dave Produce](https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9) | [DALE HASTA ABAJO](https://open.spotify.com/album/5GQoSc0HPVcgRV31INhGI8) | 3:15 |
 | 27 | [ANSIEDAD](https://open.spotify.com/track/2m2uskCPWRLeCIVMXgcCUr) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [EL PLUGGG 3 OVA 2](https://open.spotify.com/album/0c6D3rRgLwIoV00tdf84wx) | 3:30 |

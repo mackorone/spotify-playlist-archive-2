@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Zom Marie",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tattoo Colour",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/0InyEXHcJGbgEFow7lAYtb"
+      },
+      "artists": [
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170381,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/53h4D5x6WLazzBfPljOKu7"
+    },
+    {
+      "album": {
         "name": "Mr. Saxo Love",
         "url": "https://open.spotify.com/album/1pgPCeqG28ldc3BIIvhgUB"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 170381,
       "name": "Banana",
       "url": "https://open.spotify.com/track/6EXi5YqbAzH0DE5UIGUATJ"
@@ -3413,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -4114,7 +4150,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 190285,
       "name": "Take Our Time (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\")",
       "url": "https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ"
@@ -4982,7 +5018,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210697,
       "name": "You Give Me Butterflies",
       "url": "https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O"
@@ -5414,7 +5450,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 309856,
       "name": "\u0e02\u0e2d\u0e07\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/7zj80Zr7PN40hxNwnTMqPh"
@@ -5552,6 +5588,24 @@
       "duration_ms": 295300,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
       "url": "https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e17\u0e31\u0e49\u0e07\u0e04\u0e39\u0e48\u0e42\u0e0a\u0e04\u0e14\u0e35 (Good Luck to The Both of Us)",
+        "url": "https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236335,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e17\u0e31\u0e49\u0e07\u0e04\u0e39\u0e48\u0e42\u0e0a\u0e04\u0e14\u0e35 (Good Luck to The Both of Us)",
+      "url": "https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam"
     },
     {
       "album": {
@@ -7864,7 +7918,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 248000,
       "name": "\u0e1b\u0e23\u0e19\u0e31\u0e22",
       "url": "https://open.spotify.com/track/1keLw7k8AHchStVnMcL6pA"
@@ -9598,6 +9652,24 @@
       "duration_ms": 197746,
       "name": "\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e48\u0e32\u0e07 (do it without me)",
       "url": "https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e04\u0e19\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (I'm here)",
+        "url": "https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e04\u0e19\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (I'm here)",
+      "url": "https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAA/rnUcXwLkbppX59Ey9PCOnJxz4co",
+  "snapshot_id": "AAABBusK0duC3gQdcgGNZh8Tems1MN1Z",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -2935,6 +2935,142 @@
       "duration_ms": 158520,
       "name": "Threw It On The Ground",
       "url": "https://open.spotify.com/track/0IaR6HCEObaHxA52i0fdKU"
+    },
+    {
+      "added_at": "2026-02-26 05:09:57",
+      "album": {
+        "name": "bbno$",
+        "url": "https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 135200,
+      "name": "two",
+      "url": "https://open.spotify.com/track/02qqbVSYkDc6FTClN5gwH5"
+    },
+    {
+      "added_at": "2026-02-26 05:10:12",
+      "album": {
+        "name": "bbno$",
+        "url": "https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 106813,
+      "name": "yezzir",
+      "url": "https://open.spotify.com/track/2F1fOmmTrcEnnjf5S8ClJV"
+    },
+    {
+      "added_at": "2026-02-26 05:10:21",
+      "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/5HqurM3VfrMc6UbtbOc4Yx"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 146432,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/3X1LErJuyzAEjH6X11ooMS"
+    },
+    {
+      "added_at": "2026-02-26 05:10:28",
+      "album": {
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "edamame",
+      "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
+    },
+    {
+      "added_at": "2026-02-26 05:10:38",
+      "album": {
+        "name": "check",
+        "url": "https://open.spotify.com/album/7hCpAt99Yn4Ny26WZUBuBi"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
+    },
+    {
+      "added_at": "2026-02-26 05:10:44",
+      "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        }
+      ],
+      "duration_ms": 209515,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
+    },
+    {
+      "added_at": "2026-02-26 05:14:10",
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Don't Threaten Me with a Good Time",
+      "url": "https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"
+    },
+    {
+      "added_at": "2026-02-26 05:14:18",
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
     }
   ],
   "unique_name": "Questionable Bops",

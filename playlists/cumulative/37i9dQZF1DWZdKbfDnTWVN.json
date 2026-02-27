@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=E8krK0emQUe67utr5J7XmQ\"> Buruklyn Boyz</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=cjCK2_7MT6WQIGojlVLkkg\"> Toxic Lyrikali</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -210,6 +210,28 @@
       "duration_ms": 168975,
       "name": "6 PM",
       "url": "https://open.spotify.com/track/1oLZAlIjrddE4BK6qt6Tni"
+    },
+    {
+      "album": {
+        "name": "88 Bars 2",
+        "url": "https://open.spotify.com/album/7cXYbAziuXaew9vzFt0HvC"
+      },
+      "artists": [
+        {
+          "name": "Moti the NRG",
+          "url": "https://open.spotify.com/artist/6sDVFYZNKm4ptJrKaJo2CI"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "88 Bars 2",
+      "url": "https://open.spotify.com/track/73ZImg0oR84KSCpsOOLo3r"
     },
     {
       "album": {
@@ -482,7 +504,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173533,
       "name": "Backbencher",
       "url": "https://open.spotify.com/track/040zksag8ezHjbAN6aSAQY"
@@ -3440,7 +3462,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 159439,
       "name": "HUJANIACHA",
       "url": "https://open.spotify.com/track/2J2usoCEl3rGHYtjoQ5XGm"
@@ -8304,6 +8326,28 @@
       "duration_ms": 186462,
       "name": "Starshine",
       "url": "https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF"
+    },
+    {
+      "album": {
+        "name": "Stick",
+        "url": "https://open.spotify.com/album/6PGhi1qr9j4NQ225Ml79l2"
+      },
+      "artists": [
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        },
+        {
+          "name": "Mr right",
+          "url": "https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155746,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/4aIRrp8XnsnOQMRgN672Gq"
     },
     {
       "album": {

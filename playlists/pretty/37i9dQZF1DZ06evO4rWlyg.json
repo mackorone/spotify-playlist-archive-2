@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 152352,
+  "num_followers": 152365,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADjFGqNyPgiVmIOpycP0cSg",
+  "snapshot_id": "aZ47gAAAAAATpRoSztOyhFJEF415xFLV",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's In Our Hands, Vol. 1",
         "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 257519,
       "name": "It's In Our Hands",
       "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 319600,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Selma Songs",
         "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fossora",
         "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 306400,
+      "name": "Mutual Core",
+      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 237346,
       "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
       "url": "https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 306400,
-      "name": "Mutual Core",
-      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Estos son los hits de la electr\u00f3nica en el 2026!",
-  "num_followers": 732461,
+  "num_followers": 732641,
   "original_name": "Electr\u00f3nica & Dance Music",
   "owner": {
     "name": "Spotify",
@@ -379,21 +379,21 @@
     {
       "added_at": "2026-01-23 17:00:09",
       "album": {
-        "name": "Alors On Danse (DubDogz Remix)",
+        "name": "Alors On Danse (feat. Stromae)",
         "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
       },
       "artists": [
         {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
           "name": "Dubdogz",
           "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
         }
       ],
       "duration_ms": 168576,
-      "name": "Alors On Danse - DubDogz Remix",
+      "name": "Alors On Danse (feat. Stromae)",
       "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
     },
     {

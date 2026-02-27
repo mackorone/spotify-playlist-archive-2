@@ -5272,7 +5272,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
@@ -7036,6 +7036,32 @@
       "duration_ms": 136124,
       "name": "Was im Club passiert",
       "url": "https://open.spotify.com/track/45BiMfZarF8PkihqmtvQAj"
+    },
+    {
+      "album": {
+        "name": "WAS LOS?",
+        "url": "https://open.spotify.com/album/4vy3eIgkTlLqxoaQJciQgF"
+      },
+      "artists": [
+        {
+          "name": "Zensery",
+          "url": "https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "District Red",
+          "url": "https://open.spotify.com/artist/6vE6w11R6JasBRdD6juhqO"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147617,
+      "name": "WAS LOS?",
+      "url": "https://open.spotify.com/track/31baymElZm1jcHdVZejQyF"
     },
     {
       "album": {

@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 177641,
       "name": "Kayo",
       "url": "https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k"
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 191611,
       "name": "Stripes",
       "url": "https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8"
@@ -3274,6 +3274,24 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
+        "name": "The Road Ahead (Life The Way It Is)",
+        "url": "https://open.spotify.com/album/6xrrAKEOF4Qb5MSripRerU"
+      },
+      "artists": [
+        {
+          "name": "City To City",
+          "url": "https://open.spotify.com/artist/7vDb491yruvfnR8vu2dH4o"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228402,
+      "name": "The Road Ahead (Life The Way It Is) - Radio version",
+      "url": "https://open.spotify.com/track/3POcaDOC7ojGvpFOdbMHgG"
     },
     {
       "album": {

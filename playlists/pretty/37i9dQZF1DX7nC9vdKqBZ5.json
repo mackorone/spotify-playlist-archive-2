@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1509905,
+  "num_followers": 1509836,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "VI",
+        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Por Onde Voc\u00ea Anda?",
+      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "VI",
-        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
-      },
-      "artists": [
-        {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Por Onde Voc\u00ea Anda?",
-      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Onde A Gente Chegou",
-        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "Onde A Gente Chegou",
-      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Onde A Gente Chegou",
+        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "Onde A Gente Chegou",
+      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
     },
     {
       "added_at": "2024-08-02 18:37:00",

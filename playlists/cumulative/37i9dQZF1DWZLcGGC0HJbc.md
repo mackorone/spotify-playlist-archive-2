@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-282 songs - 16 hr 55 min
+283 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [She Says](https://open.spotify.com/track/5EJYO3Oa6qFUVcOOKB15w3) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/7J1PTpRtEdcaUAlSFo4t7k) | 4:10 | 2025-07-03 | 2025-09-20 |
 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 | 2025-11-20 | 2026-01-23 |
 | [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |
+| [Six Missed Calls](https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Speak Softly](https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP) | 5:01 | 2026-02-26 |  |
 | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/track/4pGpa879o8xiiHSJyhiMMZ) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/album/1HmFzWDqZsky5phafS74qD) | 3:18 | 2025-12-11 |  |
 | [so i let you \(15th of june \- evening\)](https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [so i let you \(15th of june \- evening\)](https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h) | 3:19 | 2025-07-03 | 2025-09-20 |
 | [Sober](https://open.spotify.com/track/3WKFCNvNqQNlyqrjGdZGRe) | [Norah Hendriks](https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:42 | 2025-07-03 | 2025-09-20 |
@@ -227,7 +228,7 @@
 | [Solitude](https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2025-07-03 | 2025-09-20 |
 | [Sounds Of An Early Morning](https://open.spotify.com/track/3JZqG72YPLiIChom7dGCau) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [Sounds Of An Early Morning](https://open.spotify.com/album/6yeVsvCmUKoc967n5mzkVD) | 3:09 | 2025-08-28 | 2025-09-20 |
 | [Spare](https://open.spotify.com/track/4etImuKYSTUblC9MBa2B3D) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Spare](https://open.spotify.com/album/4GSKZGEdk85RyoWm4wL4Jh) | 3:38 | 2025-07-03 | 2025-09-20 |
-| [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-05-15 |  |
+| [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-05-15 | 2026-02-27 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2025-07-03 | 2025-09-20 |
 | [Still Feel It All](https://open.spotify.com/track/3Wg3B7XlnEWsKBSb2IzGQ3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it's OK](https://open.spotify.com/album/3pkvixHVOMIgXE0Y3TiVUt) | 3:21 | 2025-07-03 | 2025-09-20 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-27 | 2025-02-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 530561,
+  "num_followers": 530609,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Anthem of Our Dying Day",
-      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 205160,
       "name": "I Caught Fire",
       "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Anthem of Our Dying Day",
+      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "The Words \"Best Friend\" Become Redefined",
-      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 176373,
       "name": "A Box Full of Sharp Objects",
       "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "The Words \"Best Friend\" Become Redefined",
+      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+        "name": "On Letting Go",
+        "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
         }
       ],
-      "duration_ms": 207693,
-      "name": "The Days Of The Phoenix",
-      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
+      "duration_ms": 257693,
+      "name": "The Difference Between Medicine And Poison Is In The Dose",
+      "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "On Letting Go",
-        "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
       "artists": [
         {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 257693,
-      "name": "The Difference Between Medicine And Poison Is In The Dose",
-      "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
+      "duration_ms": 207693,
+      "name": "The Days Of The Phoenix",
+      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 203706,
       "name": "Walls",
       "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Accidents",
-      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 247426,
       "name": "Roses for the Dead",
       "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "What To Do When You Are Dead",
-        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
-      },
-      "artists": [
-        {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Remember To Feel Real",
-      "url": "https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Gutter Phenomenon",
         "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 172653,
       "name": "The New Black",
       "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "What To Do When You Are Dead",
+        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
+      },
+      "artists": [
+        {
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Remember To Feel Real",
+      "url": "https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Mu Empire",
-      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Big Dirty",
         "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 204720,
       "name": "We'rewolf",
       "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Mu Empire",
+      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
     },
     {
       "added_at": "2025-11-24 12:49:27",

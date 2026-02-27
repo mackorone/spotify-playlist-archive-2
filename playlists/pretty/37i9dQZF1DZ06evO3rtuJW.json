@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35649,
+  "num_followers": 35650,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADP7NGOnn7ul38ZNrAmFUE6",
+  "snapshot_id": "aZ47gAAAAAD9JVPWoVYTiqFEhpbD+cIH",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "1 Chance",
-      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 164770,
       "name": "High Speed",
       "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "1 Chance",
+      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 256052,
+      "name": "Same Me",
+      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survivor\u2019s Guilt (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 183703,
       "name": "Survivor\u2019s Guilt (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 256052,
-      "name": "Same Me",
-      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Graduation (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Gangsta Graduation (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 221815,
       "name": "Cry No More",
       "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Graduation (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Gangsta Graduation (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 181607,
-      "name": "Where Would I Be?",
-      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Childhood Trauma",
         "url": "https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 150600,
       "name": "GooD KarMa (feat. G Herbo) (Remix)",
       "url": "https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 181607,
+      "name": "Where Would I Be?",
+      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
     },
     {
       "added_at": null,

@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "ChoCo La Familia",
+        "url": "https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8"
+      },
+      "artists": [
+        {
+          "name": "ChoCo1",
+          "url": "https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi"
+        },
+        {
+          "name": "ChoCo2",
+          "url": "https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "FRENZY",
+      "url": "https://open.spotify.com/track/2i7wAvt3J23eaFF6d2HXE8"
+    },
+    {
+      "album": {
         "name": "Friends Don\u2019t Kiss",
         "url": "https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU"
       },

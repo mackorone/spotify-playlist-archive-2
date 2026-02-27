@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 187611,
       "name": "5 In De Klok",
       "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 230203,
       "name": "Ik Laat Je Nooit Meer Gaan",
       "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
@@ -1593,6 +1593,32 @@
     },
     {
       "album": {
+        "name": "Nooit Meer Voorbij",
+        "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150741,
+      "name": "Nooit Meer Voorbij",
+      "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
+    },
+    {
+      "album": {
         "name": "Jongen Uit De Stad",
         "url": "https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr"
       },
@@ -1604,7 +1630,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 160123,
       "name": "Ontspanje",
       "url": "https://open.spotify.com/track/449CDQDtHMg18Y5KuMPhMx"

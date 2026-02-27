@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,752 likes - 430 songs - 1 day 0 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,756 likes - 430 songs - 1 day 0 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 25 | [Circus Clown](https://open.spotify.com/track/3ivUULyDompLCGZWbfgC3r) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 2:05 |
 | 26 | [Daydreaming](https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Daydreaming](https://open.spotify.com/album/7AMbD95QaNlzyVEt0YPjW8) | 4:17 |
 | 27 | [Four](https://open.spotify.com/track/3aSRXoNXPDMafKcQb4Y6GA) | [Meghan and Marcy](https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq) | [Four](https://open.spotify.com/album/58N5E4VQs8F3KuhPFBOf9Y) | 2:44 |
-| 28 | [Pop](https://open.spotify.com/track/6VRRHGNt3ewRm8oRlXnyJO) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Rock Candy](https://open.spotify.com/album/6An9Rzzsvht8ewXVhulBf8) | 1:50 |
-| 29 | [love love love](https://open.spotify.com/track/6pTTpk6Q8JvxLW779LiTKH) | [the death of internet](https://open.spotify.com/artist/6w4oq7sY6HdgZF8lt8wwFN) | [love love love](https://open.spotify.com/album/7oACCo89YSzsYqR2kI8Chp) | 3:21 |
+| 28 | [love love love](https://open.spotify.com/track/6pTTpk6Q8JvxLW779LiTKH) | [the death of internet](https://open.spotify.com/artist/6w4oq7sY6HdgZF8lt8wwFN) | [love love love](https://open.spotify.com/album/7oACCo89YSzsYqR2kI8Chp) | 3:21 |
+| 29 | [Pop](https://open.spotify.com/track/6VRRHGNt3ewRm8oRlXnyJO) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Rock Candy](https://open.spotify.com/album/6An9Rzzsvht8ewXVhulBf8) | 1:50 |
 | 30 | [Slow High](https://open.spotify.com/track/7wgHkDKCvsGYlSi2WbQrgI) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Slow High](https://open.spotify.com/album/7a4RhELoCxUXtPvsVv4HnS) | 3:24 |
 | 31 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 |
 | 32 | [Just Chemistry](https://open.spotify.com/track/7CPnUNBJpRAlXl1LOb9KGD) | [Dance Lessons](https://open.spotify.com/artist/52VhFwZRpWWiHCtoBMA6na) | [Beginners](https://open.spotify.com/album/4xsWzLYA4wlx5KNuFdNtEh) | 3:58 |
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 65 | [Great Expectations](https://open.spotify.com/track/6pQJTKEbTazGQGGutE3GT6) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Noam](https://open.spotify.com/artist/2JcqTFHHpB7rYEuwv5HL8p) | [Great Expectations](https://open.spotify.com/album/3yNhczLbYrRBPTdDCqn398) | 2:08 |
 | 66 | [S.W.G.M.](https://open.spotify.com/track/4uCg4tipOy6UbskPUe7TkQ) | [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [S.W.G.M.](https://open.spotify.com/album/76xRKT55WLewB6N2V2oHG0) | 3:31 |
 | 67 | [Merry Make](https://open.spotify.com/track/0mxH1n0GDVef6ynVA2dZpa) | [Claire Givens](https://open.spotify.com/artist/0RFmUvURA7c08gR415HMSP), [MoPodna](https://open.spotify.com/artist/6nJSWJJFGmzFnoQRjnLZas) | [Merry Make](https://open.spotify.com/album/5OY7y67SqR38XrtzQD34q7) | 3:46 |
-| 68 | [Tell Me](https://open.spotify.com/track/5xrJQz0agpmgf0Y3ZQYtw5) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [Tell Me](https://open.spotify.com/album/1f6iPT6ez7BxIQyiqVEmOn) | 4:12 |
-| 69 | [A Curse](https://open.spotify.com/track/33VRDrRjXU6xNsjx8DsK8N) | [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Soft Stuff](https://open.spotify.com/album/2Zifb33eGFldMPadESxhmh) | 2:47 |
-| 70 | [Shooting Star](https://open.spotify.com/track/3qI76fd56ASO38YDPER0Qv) | [Richard In Your Mind](https://open.spotify.com/artist/0C265GO9bFApbZLSMltWOB) | [Ponderosa](https://open.spotify.com/album/6c8zXkxSbFpMMjuKSQS2S2) | 3:51 |
-| 71 | [Into the Darkness](https://open.spotify.com/track/2RVJ3RpAH2O0PqjyCQKwjj) | [Ultimate Painting](https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj) | [Into the Darkness](https://open.spotify.com/album/0UQzoy547pOiP5dKEDIrVh) | 4:39 |
-| 72 | [Feb.](https://open.spotify.com/track/0OJ9KgLAyiyApTfjiFy7lb) | [On! Air! Library!](https://open.spotify.com/artist/6of9JX9CZzkTR72NJm46x8) | [On! Air! Library!](https://open.spotify.com/album/6ofHZ2xCcfBXJDR4YkwQWM) | 2:14 |
-| 73 | [Waiting for the sun](https://open.spotify.com/track/1t9KXUCJThN5DJWgHqm7Av) | [Macadamian](https://open.spotify.com/artist/287oO72gmyHNhslikkobDL) | [Waiting for the sun](https://open.spotify.com/album/2r8DgHA5E1T6HRSdif2ZlQ) | 4:05 |
-| 74 | [On My Way](https://open.spotify.com/track/1SpF27m9JcposBcL52TilB) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [On My Way/Tamarin](https://open.spotify.com/album/1UCmSN6pfXqxWPJFMrFnTZ) | 3:04 |
-| 75 | [Too Cold to Golf](https://open.spotify.com/track/6rbpAv4XSd1rbWzYGHZrD1) | [Jesus Christ Taxi Driver](https://open.spotify.com/artist/4Z3yQdWB1RBn7DXi4x5NVM) | [Too Cold to Golf](https://open.spotify.com/album/7nhdpVNKVXEG028OaprE0n) | 3:50 |
-| 76 | [Virgin Soil](https://open.spotify.com/track/71JKBAuXDBu6A9IkkNO3SB) | [1000 Rabbits](https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA) | [Virgin Soil](https://open.spotify.com/album/5I7mZdoalfmV0j3xeKvtix) | 3:30 |
+| 68 | [Virgin Soil](https://open.spotify.com/track/71JKBAuXDBu6A9IkkNO3SB) | [1000 Rabbits](https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA) | [Virgin Soil](https://open.spotify.com/album/5I7mZdoalfmV0j3xeKvtix) | 3:30 |
+| 69 | [Tell Me](https://open.spotify.com/track/5xrJQz0agpmgf0Y3ZQYtw5) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [Tell Me](https://open.spotify.com/album/1f6iPT6ez7BxIQyiqVEmOn) | 4:12 |
+| 70 | [A Curse](https://open.spotify.com/track/33VRDrRjXU6xNsjx8DsK8N) | [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Soft Stuff](https://open.spotify.com/album/2Zifb33eGFldMPadESxhmh) | 2:47 |
+| 71 | [Shooting Star](https://open.spotify.com/track/3qI76fd56ASO38YDPER0Qv) | [Richard In Your Mind](https://open.spotify.com/artist/0C265GO9bFApbZLSMltWOB) | [Ponderosa](https://open.spotify.com/album/6c8zXkxSbFpMMjuKSQS2S2) | 3:51 |
+| 72 | [Into the Darkness](https://open.spotify.com/track/2RVJ3RpAH2O0PqjyCQKwjj) | [Ultimate Painting](https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj) | [Into the Darkness](https://open.spotify.com/album/0UQzoy547pOiP5dKEDIrVh) | 4:39 |
+| 73 | [Feb.](https://open.spotify.com/track/0OJ9KgLAyiyApTfjiFy7lb) | [On! Air! Library!](https://open.spotify.com/artist/6of9JX9CZzkTR72NJm46x8) | [On! Air! Library!](https://open.spotify.com/album/6ofHZ2xCcfBXJDR4YkwQWM) | 2:14 |
+| 74 | [Waiting for the sun](https://open.spotify.com/track/1t9KXUCJThN5DJWgHqm7Av) | [Macadamian](https://open.spotify.com/artist/287oO72gmyHNhslikkobDL) | [Waiting for the sun](https://open.spotify.com/album/2r8DgHA5E1T6HRSdif2ZlQ) | 4:05 |
+| 75 | [On My Way](https://open.spotify.com/track/1SpF27m9JcposBcL52TilB) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [On My Way/Tamarin](https://open.spotify.com/album/1UCmSN6pfXqxWPJFMrFnTZ) | 3:04 |
+| 76 | [Too Cold to Golf](https://open.spotify.com/track/6rbpAv4XSd1rbWzYGHZrD1) | [Jesus Christ Taxi Driver](https://open.spotify.com/artist/4Z3yQdWB1RBn7DXi4x5NVM) | [Too Cold to Golf](https://open.spotify.com/album/7nhdpVNKVXEG028OaprE0n) | 3:50 |
 | 77 | [Light Hearted](https://open.spotify.com/track/1Re8SogSDkKbAkqNmVZEBN) | [Twice Eyes](https://open.spotify.com/artist/1Vnla1zhuG8GGOyomO8i1q) | [Light Hearted](https://open.spotify.com/album/4pZYQnpzSyQRDc0BLrHII2) | 3:58 |
 | 78 | [Flood](https://open.spotify.com/track/1p1JEX1sUFll32oXfOddlV) | [Trimmo](https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW) | [Flood](https://open.spotify.com/album/14Gil1bi80e0kN46zil1XG) | 3:24 |
 | 79 | [Can You Hear Me?](https://open.spotify.com/track/19MbFxBgT8zeCcjFvoHB8I) | [16 Underground](https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS) | [Drifting Deeper](https://open.spotify.com/album/4lOt97PtbfG98VpgIiCFcn) | 3:42 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 429 | [Last One Home](https://open.spotify.com/track/1TcqYv9wLbeRgGFrQfviPG) | [Sloe Noon](https://open.spotify.com/artist/7aFg44sQWEwIlVme3S9Ei9) | [Last One Home](https://open.spotify.com/album/1KIFJBY1Kc74RZMFREjVvp) | 2:35 |
 | 430 | [Love Jaunt](https://open.spotify.com/track/0z8zkVF4Z98vsxVGWg1Af3) | [Dawuna](https://open.spotify.com/artist/5EWXvpxUaFhmjgWJZlXlVY) | [Love Jaunt](https://open.spotify.com/album/1mh7YGKW9SV6dHb7wLPfQU) | 3:08 |
 
-Snapshot ID: `AAAwUNeD13oo6qtTt1b1IBmp6Ij7Voop`
+Snapshot ID: `AAAwUnmDfdbdZPuWr00p9FeZ+SzXCUXA`

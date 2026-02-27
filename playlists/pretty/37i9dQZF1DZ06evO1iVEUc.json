@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAA03cACfZj5md+b2gJy88UL",
+  "snapshot_id": "aZ47gAAAAACXsGPRGzqgHcEILgCsryXl",
   "tracks": [
     {
       "added_at": null,
@@ -238,11 +238,15 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 281960,
-      "name": "Pissed Off",
-      "url": "https://open.spotify.com/track/4yorDWFzW0orW36OMr9WSS"
+      "duration_ms": 236240,
+      "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
+      "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
     },
     {
       "added_at": null,
@@ -306,15 +310,11 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 236240,
-      "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
-      "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
+      "duration_ms": 281960,
+      "name": "Pissed Off",
+      "url": "https://open.spotify.com/track/4yorDWFzW0orW36OMr9WSS"
     },
     {
       "added_at": null,
@@ -407,34 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worldwide Underground",
-        "url": "https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 326226,
-      "name": "Love Of My Life Worldwide",
-      "url": "https://open.spotify.com/track/7sfv48GFGTACbipv2osobB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -463,6 +435,34 @@
       "duration_ms": 248480,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 326226,
+      "name": "Love Of My Life Worldwide",
+      "url": "https://open.spotify.com/track/7sfv48GFGTACbipv2osobB"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backup Plan",
-        "url": "https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Backup Plan",
-      "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Covered in Soul",
         "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 185333,
       "name": "O-O-H Child",
       "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backup Plan",
+        "url": "https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Backup Plan",
+      "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
       },
@@ -595,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
       "artists": [
         {
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 245173,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
+      "duration_ms": 82866,
+      "name": "Go Back To Your Life",
+      "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 289271,
       "name": "Love TKO",
       "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 82866,
-      "name": "Go Back To Your Life",
-      "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Human Stone (feat. Angie Stone)",
         "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 207656,
       "name": "The Human Stone (feat. Angie Stone)",
       "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Come Home (Live With Me)",
+      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 243641,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Come Home (Live With Me)",
-      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
     },
     {
       "added_at": null,

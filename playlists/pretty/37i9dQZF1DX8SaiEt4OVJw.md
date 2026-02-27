@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Soundtracking the greatest sporting tournament in the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,642 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,652 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 23 | [DX3 \(Dégâts X3\)](https://open.spotify.com/track/7FRniN2WWFoH77P3gFf51r) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [DX3 \(Dégâts X3\)](https://open.spotify.com/album/2Hv2DBDO4UX2AJrFsVoHkT) | 1:58 |
 | 24 | [Rato Laka](https://open.spotify.com/track/46NRGSM8TnSkJexKnQtoKw) | [Shebeshxt](https://open.spotify.com/artist/4bDFUYafgZILBp9Yv71mCS), [Naqua SA](https://open.spotify.com/artist/4ZBGTuegA9imRSv755wQVe), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Slidoo Man](https://open.spotify.com/artist/432Q2ltFbOkFFBdAOxEdjD) | [Rato Laka](https://open.spotify.com/album/3mxwqhlLvT40u1dJhTvJmk) | 5:34 |
 | 25 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
-| 26 | [Waist](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 |
+| 26 | [WAIST](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [WAIST](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 |
 | 27 | [Cello](https://open.spotify.com/track/2q1PFwmdwFwb4dDZuCvDeI) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [Cello](https://open.spotify.com/album/4AcEqMst0MGek6p8BnpELs) | 2:21 |
 | 28 | [Mizane](https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc) | 2:57 |
 | 29 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |

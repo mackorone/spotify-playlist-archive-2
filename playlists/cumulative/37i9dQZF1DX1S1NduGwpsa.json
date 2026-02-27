@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: WILLOW",
+  "description": "The best jazz new releases. Cover: Judith Owen",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 171349,
       "name": "Cato Keto",
       "url": "https://open.spotify.com/track/1HPJAgazdyuIIzjQ3GB7kz"
@@ -9435,6 +9435,28 @@
     },
     {
       "album": {
+        "name": "La femme aux yeux de sel (Le long voyage)",
+        "url": "https://open.spotify.com/album/19cOuppxMbe9gXxFwLdDjA"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Arat Kilo",
+          "url": "https://open.spotify.com/artist/0QgLLqX1bVlbkMxHKCy47t"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317888,
+      "name": "Les larmes d'un temps pass\u00e9 (feat. Arat Kilo)",
+      "url": "https://open.spotify.com/track/1oZQlBq8HMYi3Ud8AFvjSG"
+    },
+    {
+      "album": {
         "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G"
       },
@@ -10680,7 +10702,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 125186,
       "name": "Mellow Mood",
       "url": "https://open.spotify.com/track/0Pe1KapRTQUTfPyVrBD8Iv"
@@ -11148,6 +11170,28 @@
       "duration_ms": 239643,
       "name": "Moon of Knives",
       "url": "https://open.spotify.com/track/5N8AMFYZN3ktluzN1y8Drs"
+    },
+    {
+      "album": {
+        "name": "Moon to Dry",
+        "url": "https://open.spotify.com/album/6H004xz47ju5coUQUd8OdP"
+      },
+      "artists": [
+        {
+          "name": "Ben Flocks",
+          "url": "https://open.spotify.com/artist/57Ce6izcYKvFOFlhsUFzLJ"
+        },
+        {
+          "name": "Jacksonport",
+          "url": "https://open.spotify.com/artist/5WDHcjQUDXBkjoIL9qBkgL"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322249,
+      "name": "Moon to Dry",
+      "url": "https://open.spotify.com/track/7xac3WDBVnUnLbhiHZSMTC"
     },
     {
       "album": {
@@ -12740,7 +12784,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 355180,
       "name": "O\u00f9 c'est ? Qui sait ?",
       "url": "https://open.spotify.com/track/2TFF8jHQpPuALKQr81dLso"
@@ -16694,7 +16738,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 276589,
       "name": "The Shadow Of Your Smile",
       "url": "https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR"
@@ -17412,6 +17456,42 @@
       "duration_ms": 397341,
       "name": "Top of My Head (Live)",
       "url": "https://open.spotify.com/track/3MNiy7awkWDXeJ8C4CiUdY"
+    },
+    {
+      "album": {
+        "name": "LOOPS",
+        "url": "https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj"
+      },
+      "artists": [
+        {
+          "name": "loopgarden",
+          "url": "https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU"
+    },
+    {
+      "album": {
+        "name": "Side-Eye III+",
+        "url": "https://open.spotify.com/album/4KsyZ4rh9jSNqtCy2aBAmm"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/2SzqtnBIJZyKEZzwj6GoEX"
     },
     {
       "album": {

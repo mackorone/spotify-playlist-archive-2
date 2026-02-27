@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,713 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,719 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 48 | [Fell In Love With An Alien](https://open.spotify.com/track/7ByhqIL2dqk4W0jPTkWc9A) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [Almost Heaven](https://open.spotify.com/album/15g36gwo1i1sQOheZG7GHh) | 3:11 |
 | 49 | [Joyride \- Single Version](https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:01 |
 | 50 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 |
-| 51 | [Narcotic \- Radio Edit](https://open.spotify.com/track/1H5VQuShs4qfwBXyHF0PeH) | [Liquido](https://open.spotify.com/artist/0wgLwvDNCHdJ9FblyyD4Dc) | [Narcotic](https://open.spotify.com/album/79EDJF2fJnnM7YVKCAeQXj) | 3:56 |
-| 52 | [High](https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Postcards From Heaven](https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1) | 5:10 |
+| 51 | [High](https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Postcards From Heaven](https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1) | 5:10 |
+| 52 | [Narcotic \- Radio Edit](https://open.spotify.com/track/1H5VQuShs4qfwBXyHF0PeH) | [Liquido](https://open.spotify.com/artist/0wgLwvDNCHdJ9FblyyD4Dc) | [Narcotic](https://open.spotify.com/album/79EDJF2fJnnM7YVKCAeQXj) | 3:56 |
 | 53 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [The Long Road Back](https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU) | 3:37 |
 | 54 | [I'm Outta Love \- Radio Edit](https://open.spotify.com/track/2CaseM6BKvQpi6blK8nbxC) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Pieces of A Dream](https://open.spotify.com/album/6PN0LmMblPpj9yfa91Waa0) | 4:05 |
 | 55 | [Het Regent Zonnestralen](https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb) | 3:45 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 61 | [Going to the Run](https://open.spotify.com/track/4fL4pBXaN76ERHoGYoA01M) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Bloody Buccaneers](https://open.spotify.com/album/6232SATUJ2bUYwBLcczjan) | 3:53 |
 | 62 | [All 'Bout the Money](https://open.spotify.com/track/72qwRwnHNGCnn8sFlVOwr4) | [Meja](https://open.spotify.com/artist/4eYjWapog2qNOYRnqBvGXP) | [Seven Sisters](https://open.spotify.com/album/2jWNlpcgPn4BPKge3PIGx2) | 2:52 |
 | 63 | [R U Kiddin' Me](https://open.spotify.com/track/3FD3gEw8o1Kb5OPBZr8rhy) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Urban Solitude](https://open.spotify.com/album/1r1ojSn9TwXWeYY481dTR1) | 3:20 |
-| 64 | [Als Ze Er Niet Is](https://open.spotify.com/track/1IQLFJXaUNVkFI4QzMmrxe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:31 |
-| 65 | [Show Me Heaven \- From "Days Of Thunder"](https://open.spotify.com/track/7vOhmiURT3Bv8iFeNxw7Oh) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Ultimate Collection: Maria McKee](https://open.spotify.com/album/5x7nIDj7mL0iyWuDOsZBye) | 3:44 |
+| 64 | [Show Me Heaven \- From "Days Of Thunder"](https://open.spotify.com/track/7vOhmiURT3Bv8iFeNxw7Oh) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Ultimate Collection: Maria McKee](https://open.spotify.com/album/5x7nIDj7mL0iyWuDOsZBye) | 3:44 |
+| 65 | [Als Ze Er Niet Is](https://open.spotify.com/track/1IQLFJXaUNVkFI4QzMmrxe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:31 |
 | 66 | [Touch Me There](https://open.spotify.com/track/2ZxPLEwZ5F6DdEVh08dqrU) | [Total Touch](https://open.spotify.com/artist/10Apoi1zownt1wjwVy9FOZ) | [Total Touch](https://open.spotify.com/album/6oNaYb5y17Om6cDX0YlvPz) | 3:57 |
 | 67 | [In Nije Dei \(Live\)](https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Niets te verliezen](https://open.spotify.com/album/432zDZZ4qvY2MJxIYruxg8) | 4:58 |
 | 68 | [Più bella cosa](https://open.spotify.com/track/4UutvpXhqzToPI8oNc4C2F) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:24 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 92 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
 | 93 | [Luv U More](https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Super Dance Hits From The Nineties](https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u) | 3:50 |
 | 94 | [Say What You Want](https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw) | 3:53 |
-| 95 | [Run To You](https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 3:52 |
-| 96 | [I've Been Thinking About You](https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0) | [Londonbeat](https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn) | [Best! The Singles](https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC) | 3:49 |
+| 95 | [I've Been Thinking About You](https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0) | [Londonbeat](https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn) | [Best! The Singles](https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC) | 3:49 |
+| 96 | [Run To You](https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 3:52 |
 | 97 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The New Best Of \(All Hits & Remixes\) 2016](https://open.spotify.com/album/39gSR80KryAcX955TARfGg) | 3:53 |
 | 98 | [Love Shine a Light](https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Love Shine a Light \(15th Anniversary Edition\)](https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk) | 3:07 |
 | 99 | [Something Got Me Started](https://open.spotify.com/track/13ujo68nFbY4f1M3BrsI7L) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars Collectors Edition](https://open.spotify.com/album/1zvH8LHk0DxYj9Dr1c4igA) | 4:00 |

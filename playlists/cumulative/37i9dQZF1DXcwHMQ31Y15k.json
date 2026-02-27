@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Northsle",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: NDX A.K.A.",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 259200,
       "name": "Asing",
       "url": "https://open.spotify.com/track/6G0NSuLgeigUIqpwC69ac4"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 307975,
       "name": "GULU PEDOT",
       "url": "https://open.spotify.com/track/3Pelf4g0PhBY8Qf9Xdcebr"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 390000,
       "name": "Kawitaning Sinawang",
       "url": "https://open.spotify.com/track/4ucL4cmsyrFHuPBeNCEIDi"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 321465,
       "name": "KAWITANING SINAWANG",
       "url": "https://open.spotify.com/track/3EPFbJPrZXSgr2Wqk4KEVS"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 299403,
       "name": "Mawar",
       "url": "https://open.spotify.com/track/5WGLul5iR1qPmuq9hSZdYn"
@@ -6421,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "NOTO",
+        "url": "https://open.spotify.com/album/38w7jKNuo32QhJ6YHTN4yK"
+      },
+      "artists": [
+        {
+          "name": "Gilga Sahid",
+          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342325,
+      "name": "NOTO",
+      "url": "https://open.spotify.com/track/4Y00qBQr1stACixu1qpkEP"
+    },
+    {
+      "album": {
         "name": "Nresnani",
         "url": "https://open.spotify.com/album/5uhAn7VJZPkpkPpcJCYbRs"
       },
@@ -6828,7 +6846,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 418000,
       "name": "Ojo Njaluk Pegat",
       "url": "https://open.spotify.com/track/1cylp0hgJSunHAQyXjoHAZ"
@@ -7078,7 +7096,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 299520,
       "name": "Patgulipat",
       "url": "https://open.spotify.com/track/5WEDt9oj53o10BovgXzA3S"
@@ -8103,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "Remukan Ati (New Version)",
+        "url": "https://open.spotify.com/album/76nSJ014YDSTXQgXhSK6GE"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265598,
+      "name": "Remukan Ati - New Version",
+      "url": "https://open.spotify.com/track/4Y92EDbM18PzscXNzegTlz"
+    },
+    {
+      "album": {
         "name": "Resiko Tresna Sejati",
         "url": "https://open.spotify.com/album/2wS1bp3iPDQarwtK1pXnFP"
       },
@@ -8690,7 +8726,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 343000,
       "name": "Sampeyan",
       "url": "https://open.spotify.com/track/0HODYghtMn99N7189LLFWI"
@@ -8760,6 +8796,24 @@
       "duration_ms": 304311,
       "name": "Sanes",
       "url": "https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw"
+    },
+    {
+      "album": {
+        "name": "Sasi Pasa",
+        "url": "https://open.spotify.com/album/44gYjvz746TVZFNydvyYDJ"
+      },
+      "artists": [
+        {
+          "name": "KAJAWI",
+          "url": "https://open.spotify.com/artist/4JLFY6fICG1BFaw8Jc5KzR"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252462,
+      "name": "Sasi Pasa",
+      "url": "https://open.spotify.com/track/75TWfmIO5QbHdfmy8AYRCw"
     },
     {
       "album": {

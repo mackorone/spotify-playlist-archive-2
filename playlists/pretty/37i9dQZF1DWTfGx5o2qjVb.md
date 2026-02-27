@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,680 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,705 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 2 | [7th Heaven](https://open.spotify.com/track/1FYhlSDuEV5X3yESpaDeJy) | [Dave Guy](https://open.spotify.com/artist/2utx4zYP2ZjaDBC0Qw2Mpp) | [Ruby](https://open.spotify.com/album/1EaUBFpTbXQWQhmmYuMVFf) | 2:39 |
 | 3 | [Postman](https://open.spotify.com/track/4Jz1Zk4OQrKPVabWjjUGEZ) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 2:40 |
 | 4 | [Brewster](https://open.spotify.com/track/4TZ234hxa4ufXE6fJZlCkb) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/1eJtpdFGEXaOwcq0z065JS) | 2:24 |
-| 5 | [How Do You Make Me Feel](https://open.spotify.com/track/7E0WeZmkyGs3CBtMh8UqAg) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [B.E.D](https://open.spotify.com/album/0iej9ho9Aro520crqw0Lzf) | 2:05 |
+| 5 | [How Do You Make Me Feel](https://open.spotify.com/track/7E0WeZmkyGs3CBtMh8UqAg) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [B.E.D](https://open.spotify.com/album/0iej9ho9Aro520crqw0Lzf) | 2:05 |
 | 6 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 |
 | 7 | [Mum Does the Washing](https://open.spotify.com/track/46RISRIJYtpue6ulWtmpN3) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Mum Does the Washing](https://open.spotify.com/album/7xEx0OAAjXoUcndkHp3yBh) | 3:52 |
 | 8 | [Somethin' Somethin'](https://open.spotify.com/track/2hRq6g52CRUNb9z8jqBRrl) | [King Pari](https://open.spotify.com/artist/7jkQRoULRK5aqPmmF4rrtp) | [There It Goes](https://open.spotify.com/album/70Wo0yvWR4qxvctGmfh3Fl) | 3:57 |

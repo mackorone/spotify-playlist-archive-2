@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-503 songs - 1 day 6 hr 27 min
+504 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Pop It](https://open.spotify.com/track/1CFeZJuTbLuTejzToWJsXX) | [Wetmo](https://open.spotify.com/artist/0Vr1oXEQQmcQzCQTZp144m), [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU) | [Pop It](https://open.spotify.com/album/2vJ3H44uIff7wiFirOQf2D) | 3:43 | 2023-11-26 | 2024-02-05 |
 | [Potion](https://open.spotify.com/track/7gYRwtk5htZEHexDo42cp3) | [Flo.Von](https://open.spotify.com/artist/6QSpwoXNHKuyxV43biHlYV) | [Deeper Feelings](https://open.spotify.com/album/5DRMhnlRxQJjSH9DFpgp3I) | 4:01 | 2023-11-26 | 2024-02-05 |
 | [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 | 2023-02-19 | 2023-03-20 |
+| [Present State](https://open.spotify.com/track/5sOWrNfV8fyQNKZm4DzOYP) | [DARCOS LIFE](https://open.spotify.com/artist/0C2us4WTI9QWkRCl7eGkFv) | [Present State](https://open.spotify.com/album/1rbBtG9EsLJURxpXaPKXyI) | 5:00 | 2026-02-27 |  |
 | [Prodigy](https://open.spotify.com/track/6HIV6cFs5NWjduJ5CJvmuy) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [Betty](https://open.spotify.com/album/4nMJrwnDEK64HL3Bxnvu8V) | 3:22 | 2024-02-04 | 2024-03-11 |
 | [Promise](https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Promise](https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK) | 2:37 | 2022-05-26 | 2023-05-13 |
 | [Prophet](https://open.spotify.com/track/6C4TSZaIUH0emM3uiJcisg) | [Ocean Roulette](https://open.spotify.com/artist/4eP4v7Dqre2Xh5RFp4UH9U) | [Sorry About This](https://open.spotify.com/album/2SH9SlyClyS69max5GmecD) | 4:35 | 2023-09-17 | 2023-12-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 473571,
+  "num_followers": 474026,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 199804,
-      "name": "MAD",
-      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 140986,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 199804,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1491,6 +1491,50 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 227735,
+      "name": "\u2060\u2060Butterflies",
+      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1519,50 +1563,6 @@
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
-        }
-      ],
-      "duration_ms": 227735,
-      "name": "\u2060\u2060Butterflies",
-      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1599,22 +1599,26 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
+        "name": "Inside Our Hearts",
+        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
+      "duration_ms": 234086,
+      "name": "Inside Our Hearts",
+      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -1643,26 +1647,22 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Inside Our Hearts",
-        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         }
       ],
-      "duration_ms": 234086,
-      "name": "Inside Our Hearts",
-      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
+      "duration_ms": 181874,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
     },
     {
       "added_at": "2026-02-20 05:00:47",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2026-02-20 05:00:47",
       "album": {
-        "name": "Tokyo Drift",
-        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Vion Konger",
-          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
-        }
-      ],
-      "duration_ms": 146433,
-      "name": "Tokyo Drift",
-      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
-    },
-    {
-      "added_at": "2026-02-20 05:00:47",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 150000,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p"
+    },
+    {
+      "added_at": "2026-02-20 05:00:47",
+      "album": {
+        "name": "Tokyo Drift",
+        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "duration_ms": 146433,
+      "name": "Tokyo Drift",
+      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
     },
     {
       "added_at": "2026-02-20 05:00:47",

@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Youth",
-  "num_followers": 733897,
+  "num_followers": 733968,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANyqTWhTFV3BiZrHB/iDftblNRBx",
+  "snapshot_id": "AAAAAGY6w2tXaFuFgWR9UhC+/hc6IxIT",
   "tracks": [
     {
       "added_at": "2026-02-08 09:46:23",
@@ -95,6 +95,30 @@
       "duration_ms": 303055,
       "name": "Thangame Thangame - From \"Idhayam Murali\"",
       "url": "https://open.spotify.com/track/6KmTMjHQ6fpBilsfH43EHV"
+    },
+    {
+      "added_at": "2026-02-26 03:38:54",
+      "album": {
+        "name": "Akkadi (From \"Sattendru Maarudhu Vaanilai\")",
+        "url": "https://open.spotify.com/album/71XwMCXc53hF4ShYbvvUZI"
+      },
+      "artists": [
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Girishh G",
+          "url": "https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        }
+      ],
+      "duration_ms": 187005,
+      "name": "Akkadi (From \"Sattendru Maarudhu Vaanilai\")",
+      "url": "https://open.spotify.com/track/2JeN6RnmzACsK2OwysJB7V"
     },
     {
       "added_at": "2026-02-23 07:49:59",
@@ -321,6 +345,38 @@
       "url": "https://open.spotify.com/track/5MWqs1JB14NzF8oSUBkoNw"
     },
     {
+      "added_at": "2026-02-26 03:55:41",
+      "album": {
+        "name": "Haffa Haffa (From \"Mustafa Mustafa\")",
+        "url": "https://open.spotify.com/album/7FBqW6e8uJnV90hVT3IGMY"
+      },
+      "artists": [
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        },
+        {
+          "name": "M.S.Jones Rupert",
+          "url": "https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID"
+        },
+        {
+          "name": "Anushya Murugesh",
+          "url": "https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8"
+        },
+        {
+          "name": "Sathish",
+          "url": "https://open.spotify.com/artist/1Zr26G0OND2Q0iVFP0BJ1Z"
+        },
+        {
+          "name": "Naveen Bharathi",
+          "url": "https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S"
+        }
+      ],
+      "duration_ms": 144905,
+      "name": "Haffa Haffa (From \"Mustafa Mustafa\")",
+      "url": "https://open.spotify.com/track/30fqPUxxYnyiTSiVvLbrd7"
+    },
+    {
       "added_at": "2026-02-24 10:57:42",
       "album": {
         "name": "Madi Saayavaa (Tamil Version)",
@@ -345,28 +401,36 @@
       "url": "https://open.spotify.com/track/5fe3bt3JimVRoec0K4XZxD"
     },
     {
-      "added_at": "2025-11-27 13:27:46",
+      "added_at": "2026-02-26 03:38:54",
       "album": {
-        "name": "Pattuma (From \"Love Insurance Kompany\")",
-        "url": "https://open.spotify.com/album/6bLlVZkULJ3iJTPodyqnE2"
+        "name": "Euphoria (Tamil)",
+        "url": "https://open.spotify.com/album/6fDNz7p8vNyOSoNWyQCdNy"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
         },
         {
-          "name": "Ananthakrrishnan",
-          "url": "https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR"
+          "name": "Vallavan",
+          "url": "https://open.spotify.com/artist/31JlpIXSw3SDT7wrDOU4bz"
         },
         {
-          "name": "Vignesh Shivan",
-          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+          "name": "Gayathri Suresh",
+          "url": "https://open.spotify.com/artist/17KMGAxvstqpaHy7JnxI51"
+        },
+        {
+          "name": "Kathikan",
+          "url": "https://open.spotify.com/artist/1T6kyUAgTu7WWEF2wsvZV0"
+        },
+        {
+          "name": "Naveen Bharathi",
+          "url": "https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Pattuma (From \"Love Insurance Kompany\")",
-      "url": "https://open.spotify.com/track/5oieVOqzZzYEgmrOis1gbU"
+      "duration_ms": 218191,
+      "name": "Fly High (Tamil)",
+      "url": "https://open.spotify.com/track/19lMyuy2UDyR4Y2ffTzaN1"
     },
     {
       "added_at": "2026-02-14 04:32:52",
@@ -1693,30 +1757,6 @@
       "url": "https://open.spotify.com/track/72AcP6p8aBKk3YimQwl5oX"
     },
     {
-      "added_at": "2025-12-01 11:41:11",
-      "album": {
-        "name": "Mannichiru (From \"Sirai\")",
-        "url": "https://open.spotify.com/album/2MCVMK5bjpZUYslJy3wuGh"
-      },
-      "artists": [
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Aanandi Joshi",
-          "url": "https://open.spotify.com/artist/7qj8b5tuzeSkb4ff01h5rJ"
-        },
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        }
-      ],
-      "duration_ms": 233624,
-      "name": "Mannichiru (From \"Sirai\")",
-      "url": "https://open.spotify.com/track/6k9Vll55i6BtXr7IhWwmwu"
-    },
-    {
       "added_at": "2026-01-03 16:19:24",
       "album": {
         "name": "Parasakthi (Tamil)",
@@ -1743,34 +1783,6 @@
       "duration_ms": 197142,
       "name": "Tharakku Tharakku",
       "url": "https://open.spotify.com/track/0QPWLyG7VbDdup033hLJyK"
-    },
-    {
-      "added_at": "2025-11-26 11:22:18",
-      "album": {
-        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
-      },
-      "artists": [
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        },
-        {
-          "name": "Mari Selvaraj",
-          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
-        }
-      ],
-      "duration_ms": 303203,
-      "name": "Rekka Rekka",
-      "url": "https://open.spotify.com/track/7irQXVDibbl9ijrLajUVap"
     }
   ],
   "unique_name": "Latest Tamil",

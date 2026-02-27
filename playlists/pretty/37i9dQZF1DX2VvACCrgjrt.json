@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313479,
+  "num_followers": 1313455,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Focus (feat. CLOVES) [Alok Remix]",
         "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 207761,
       "name": "Focus (feat. CLOVES) - Alok Remix",
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2026-02-13 05:00:34",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Aha",
-        "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "RELOVA",
-          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
-        }
-      ],
-      "duration_ms": 215538,
-      "name": "Aha",
-      "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Freedom (Body Ocean Remix)",
         "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Aha",
+        "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "RELOVA",
+          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
+        }
+      ],
+      "duration_ms": 215538,
+      "name": "Aha",
+      "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2053,6 +2053,22 @@
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
+        "name": "Stop Me Fallin",
+        "url": "https://open.spotify.com/album/04nX2OQQal62zA9hICovFt"
+      },
+      "artists": [
+        {
+          "name": "Nash Rly",
+          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
+        }
+      ],
+      "duration_ms": 231555,
+      "name": "Stop Me Fallin",
+      "url": "https://open.spotify.com/track/11ClmGAC9GtDfuC7xvGc2A"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Grind It",
@@ -2115,22 +2131,6 @@
       "duration_ms": 110769,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
-    },
-    {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "Stop Me Fallin",
-        "url": "https://open.spotify.com/album/04nX2OQQal62zA9hICovFt"
-      },
-      "artists": [
-        {
-          "name": "Nash Rly",
-          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
-        }
-      ],
-      "duration_ms": 231555,
-      "name": "Stop Me Fallin",
-      "url": "https://open.spotify.com/track/11ClmGAC9GtDfuC7xvGc2A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2235,26 +2235,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/40VpDGfBH04QMJI9jSU3Mb"
-      },
-      "artists": [
-        {
-          "name": "G-POL",
-          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
-        },
-        {
-          "name": "ANSWER (CN)",
-          "url": "https://open.spotify.com/artist/15bEUD9D3zRtYSVk0Y5ePW"
-        }
-      ],
-      "duration_ms": 224179,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/33S857xw5q9fPkepdtKXtN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Nothing Is Real (feat. Gene Farris)",
         "url": "https://open.spotify.com/album/2aVUYs524BHl1hKaw5ps7h"
       },
@@ -2291,6 +2271,26 @@
       "duration_ms": 181850,
       "name": "Good Girls",
       "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/40VpDGfBH04QMJI9jSU3Mb"
+      },
+      "artists": [
+        {
+          "name": "G-POL",
+          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
+        },
+        {
+          "name": "ANSWER (CN)",
+          "url": "https://open.spotify.com/artist/15bEUD9D3zRtYSVk0Y5ePW"
+        }
+      ],
+      "duration_ms": 224179,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/33S857xw5q9fPkepdtKXtN"
     },
     {
       "added_at": "2026-01-09 16:39:37",

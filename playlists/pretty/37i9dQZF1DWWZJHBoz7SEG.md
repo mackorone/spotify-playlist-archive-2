@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Lentes de sol, una gorrita y las rolitas más hot para empezar el finde con Yeyo y Luis Díazz! 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,214 likes - 66 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,200 likes - 67 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 57 | [ERES INCREIBLE](https://open.spotify.com/track/1dH3R9AxxIk1AG9HS5sVDs) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [ERES INCREIBLE](https://open.spotify.com/album/4FHLVoiKluh25qWHjEFMsf) | 3:36 |
 | 58 | [Los Malaventurados No Lloran](https://open.spotify.com/track/6XvKFvFk8ZF1gvQw3hTzh0) | [Kross Vazquez](https://open.spotify.com/artist/2XsoadLmNstbslctx5O9b4), [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Los Malaventurados No Lloran](https://open.spotify.com/album/3mM4Rc25A4uJnEx0xOTTnL) | 3:50 |
 | 59 | [Gata Oficial](https://open.spotify.com/track/7hKVe53E4qYRGoRGk7tfYC) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Gata Oficial](https://open.spotify.com/album/2g3M1blidvaFb5seJsNLnZ) | 3:23 |
-| 60 | [Todavia Me Duele](https://open.spotify.com/track/2RBrYgrOZWvXZHwkQKnNqn) | [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3) | [Todavia Me Duele](https://open.spotify.com/album/6Y3bjkIY1KBm8Le8K9B12U) | 3:21 |
+| 60 | [Todavia Me Duele](https://open.spotify.com/track/2RBrYgrOZWvXZHwkQKnNqn) | [La Factoria](https://open.spotify.com/artist/4eABfHsWUkFG2IjSn8uLzy) | [Todavia Me Duele](https://open.spotify.com/album/6Y3bjkIY1KBm8Le8K9B12U) | 3:21 |
 | 61 | [DINERO DIGITAL](https://open.spotify.com/track/5JxXI902FR8CFgE6GONBU9) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [DINERO DIGITAL](https://open.spotify.com/album/2ydJ2pKmiIPieFhSnEoTYi) | 2:34 |
 | 62 | [No es tan fácil](https://open.spotify.com/track/2ihRfEB03JL2QSANnyldT4) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [No es tan fácil](https://open.spotify.com/album/14hixKDQGRBaKdVZ0d24MM) | 1:48 |
 | 63 | [11:11pm](https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [11:11pm](https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp) | 3:15 |
 | 64 | [AFRODITA](https://open.spotify.com/track/3k9woQZrD4JUw9dp07jbwZ) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u) | [AFRODITA](https://open.spotify.com/album/4gSzerCEYsOEGdhAjdKgqz) | 3:04 |
 | 65 | [DISFRAZ](https://open.spotify.com/track/6elAmmsLGB0JMJPKAp9zkM) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [DISFRAZ](https://open.spotify.com/album/2t4VWnsVlWoNOPqjNh8pux) | 4:09 |
 | 66 | [Cuidado Con el Michi](https://open.spotify.com/track/3i8gRBAExYq827jDuavgNP) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Cuidado Con el Michi](https://open.spotify.com/album/33vHVdqlyFEcGHTKOF6sDI) | 2:42 |
+| 67 | [Me Espera](https://open.spotify.com/track/6iO6oxfLNayu4Yhu9iWLCo) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Me Espera](https://open.spotify.com/album/2Eng3HNbgVvZx0tU149Dqx) | 3:18 |
 
 Snapshot ID: `AAAAAKWQWwssDtCD9l4CwSmBb19cLZZE`

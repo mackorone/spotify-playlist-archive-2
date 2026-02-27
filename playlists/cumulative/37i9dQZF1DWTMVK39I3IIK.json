@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Barselona",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mathias Ranch",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 150416,
       "name": "Driving me crazy",
       "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
@@ -1704,6 +1704,24 @@
       "duration_ms": 192474,
       "name": "En Som Dig",
       "url": "https://open.spotify.com/track/2D70stXApX10H7JKusia0x"
+    },
+    {
+      "album": {
+        "name": "En Stor Lykkelig Familie",
+        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195777,
+      "name": "En Stor Lykkelig Familie",
+      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
     },
     {
       "album": {
@@ -1956,6 +1974,24 @@
       "duration_ms": 173041,
       "name": "Folk Forsvinder",
       "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "album": {
+        "name": "Kravler f\u00f8r vi g\u00e5r",
+        "url": "https://open.spotify.com/album/2bcOShjWYuvZO2PEmnG460"
+      },
+      "artists": [
+        {
+          "name": "Downtown July",
+          "url": "https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "For gamle ting",
+      "url": "https://open.spotify.com/track/3s5FEMJxracb3iGPS87YZJ"
     },
     {
       "album": {
@@ -3666,7 +3702,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 194937,
       "name": "Kys f\u00f8r fald",
       "url": "https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz"
@@ -4160,7 +4196,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 245342,
       "name": "moving in",
       "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
@@ -4178,7 +4214,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "M\u00f8ntvask",
       "url": "https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP"
@@ -4862,7 +4898,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 199344,
       "name": "Push & Pull",
       "url": "https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi"
@@ -5028,6 +5064,40 @@
       "duration_ms": 165144,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7"
+    },
+    {
+      "album": {
+        "name": "Ring, n\u00e5r du har tid",
+        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kristoffer Jessen",
+          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
+        },
+        {
+          "name": "Pernille Rosendahl",
+          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
+        },
+        {
+          "name": "Pia Raug",
+          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
+        },
+        {
+          "name": "S\u00f8ren Huss",
+          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394340,
+      "name": "Ring, n\u00e5r du har tid",
+      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
     },
     {
       "album": {

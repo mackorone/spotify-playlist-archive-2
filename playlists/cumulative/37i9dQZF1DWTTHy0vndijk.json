@@ -6698,7 +6698,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 194600,
       "name": "SCIENTIST",
       "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
@@ -6972,6 +6972,24 @@
       "duration_ms": 206880,
       "name": "SHUT DOWN",
       "url": "https://open.spotify.com/track/55nWobiFbQcUSXSP0ZjkfN"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/0htkcyoyK6SXnI1uaREk8A"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/6R6zXjhbvw7VtCDdKbuCTQ"
     },
     {
       "album": {

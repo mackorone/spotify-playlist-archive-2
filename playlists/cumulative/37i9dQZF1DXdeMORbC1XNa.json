@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A perfect link up to soundtrack your day. Cover: Theodora",
+  "description": "A perfect link up to soundtrack your day. Cover: MOLIY, bees & honey",
   "name": "The ACS",
   "tracks": [
     {
@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Anyting",
+        "url": "https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122592,
+      "name": "Anyting",
+      "url": "https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "Black Girl Magic",
       "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 169195,
       "name": "Choppa (with Lil Baby & Rvssian)",
       "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 150870,
       "name": "Continent",
       "url": "https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG"
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 144315,
       "name": "Do Me",
       "url": "https://open.spotify.com/track/2m8yLRwDDjKh3CWSTLqEdN"
@@ -3264,7 +3282,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 158263,
       "name": "D\u00e9sarmer",
       "url": "https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 205238,
       "name": "Fall In Love (feat. Ayo Jay)",
       "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
@@ -3674,7 +3692,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
@@ -3918,10 +3936,32 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 168461,
       "name": "forever",
       "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
+    },
+    {
+      "album": {
+        "name": "BLXXD & FYAH",
+        "url": "https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv"
+      },
+      "artists": [
+        {
+          "name": "Keznamdi",
+          "url": "https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245628,
+      "name": "Forever Grateful",
+      "url": "https://open.spotify.com/track/4EPXfugV9mM66inwJIyLaU"
     },
     {
       "album": {
@@ -3976,7 +4016,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 156473,
       "name": "Free Service",
       "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
@@ -4058,7 +4098,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
@@ -4452,7 +4492,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 156093,
       "name": "Gogo",
       "url": "https://open.spotify.com/track/1bDaEMD1EmC3xQoSq0Hfce"
@@ -4474,7 +4514,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
@@ -5710,7 +5750,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 157756,
       "name": "JUJU (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
@@ -5882,7 +5922,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 174053,
       "name": "Kese (Dance)",
       "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
@@ -5976,7 +6016,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 147330,
       "name": "KOFFEE",
       "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
@@ -6592,7 +6632,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 175130,
       "name": "Lomo Lomo",
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
@@ -6610,7 +6650,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
@@ -7468,7 +7508,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
@@ -8290,7 +8330,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 150783,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
@@ -8316,7 +8356,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
@@ -8761,6 +8801,28 @@
     },
     {
       "album": {
+        "name": "PARTYGYAL",
+        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167355,
+      "name": "PARTYGYAL",
+      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
+    },
+    {
+      "album": {
         "name": "Passport Bros (with J. Cole)",
         "url": "https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe"
       },
@@ -8990,7 +9052,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 259354,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
@@ -9326,7 +9388,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -9526,7 +9588,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 157149,
       "name": "RHUDE GYAL! (with Darkoo)",
       "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"
@@ -10808,7 +10870,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 291500,
       "name": "soso - JOSEPH Remix",
       "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
@@ -10830,6 +10892,28 @@
       "duration_ms": 204755,
       "name": "Soundgasm",
       "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "album": {
+        "name": "Soyaiya",
+        "url": "https://open.spotify.com/album/455cwBlTEdol2whwOFRY5j"
+      },
+      "artists": [
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        },
+        {
+          "name": "Iliya Entertainment Music",
+          "url": "https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142524,
+      "name": "Soyaiya",
+      "url": "https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw"
     },
     {
       "album": {
@@ -11055,6 +11139,24 @@
     },
     {
       "album": {
+        "name": "Superfuji(GOBE)",
+        "url": "https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232269,
+      "name": "Superfuji(GOBE)",
+      "url": "https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji"
+    },
+    {
+      "album": {
         "name": "Surveillance (feat. NSG)",
         "url": "https://open.spotify.com/album/5zY56A2o54CfxAhkFLmQT1"
       },
@@ -11150,7 +11252,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 244049,
       "name": "Sweetie",
       "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
@@ -11984,10 +12086,32 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 207865,
       "name": "Update",
       "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
+    },
+    {
+      "album": {
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "album": {
@@ -12302,7 +12426,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
@@ -12854,7 +12978,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 150760,
       "name": "YAYO",
       "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"

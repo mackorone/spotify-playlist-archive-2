@@ -778,6 +778,24 @@
     {
       "album": {
         "name": "I Miss You Already + I Haven\u2019t Left Yet",
+        "url": "https://open.spotify.com/album/5hPUHlf9lwHK4PZ1Fp0QoV"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Doll House",
+      "url": "https://open.spotify.com/track/0lY79Da40npqJ8nYpTXKyq"
+    },
+    {
+      "album": {
+        "name": "I Miss You Already + I Haven\u2019t Left Yet",
         "url": "https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM"
       },
       "artists": [
@@ -788,7 +806,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 191000,
       "name": "Doll House",
       "url": "https://open.spotify.com/track/6U8ckPIrR0xi2a4BdtHDJk"

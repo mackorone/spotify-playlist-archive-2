@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: MAY-A",
+  "description": "The best in new rock. Cover: Pacific Avenue",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -672,6 +672,24 @@
       "duration_ms": 269433,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/086U7cmrWRR6StP7Xt4GZw"
+      },
+      "artists": [
+        {
+          "name": "Crocodylus",
+          "url": "https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179485,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2hywpEEjU5tqMrUPZD0vfi"
     },
     {
       "album": {
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 130994,
       "name": "God\u2019s Eye",
       "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189166,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A"
@@ -8236,6 +8254,24 @@
       "duration_ms": 181220,
       "name": "Taught by Experts",
       "url": "https://open.spotify.com/track/6uY90KiItyiy7Zh9v1pZLa"
+    },
+    {
+      "album": {
+        "name": "Lovesick Sentimental",
+        "url": "https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288410,
+      "name": "Tell Me It Ain't Over",
+      "url": "https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg"
     },
     {
       "album": {

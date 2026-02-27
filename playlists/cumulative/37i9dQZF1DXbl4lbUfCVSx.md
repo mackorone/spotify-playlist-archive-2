@@ -4,7 +4,7 @@
 
 > Sa k'ap fèt! Enjoy Haïti’s national music, a smooth modern méringue sound.
 
-90 songs - 6 hr 55 min
+91 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 | 2020-06-03 | 2024-04-19 |
 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 | 2020-06-03 |  |
 | [Ayiti \- Bang Bang](https://open.spotify.com/track/2c8QOX0nztxqKjK2QtP9Nb) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Bang Bang](https://open.spotify.com/album/4LxfQP8a6lHhZ6gU3AFnn4) | 5:08 | 2024-04-06 | 2024-04-19 |
+| [Ba ba bakshot](https://open.spotify.com/track/5L5nECGuHCwJXtSHUlbyqu) | [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI), [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [The Shynerz](https://open.spotify.com/artist/48IAawb6CCIP3cyEVVhfKw) | [Ba ba bakshot](https://open.spotify.com/album/4wcviZ0EfqaKll3ssOwkJZ) | 3:52 | 2026-02-26 |  |
 | [Banm Bagay La](https://open.spotify.com/track/2F7is4x8kYIidEEdbAouWF) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Banm Bagay La](https://open.spotify.com/album/501IQJZV5F6ZABRzUVZmRP) | 4:18 | 2024-07-03 | 2024-10-12 |
 | [Bif](https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM), [Mickael Guirand](https://open.spotify.com/artist/43vOXEBUxefgXGncnaeYUn) | [Time To Shine](https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK) | 4:45 | 2024-10-11 |  |
 | [Biznis pam](https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH) | [Djakout Mizik](https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe) | [Zouk soirée privée \(Danse avec moi\)](https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR) | 6:34 | 2020-06-03 | 2023-09-22 |
@@ -53,7 +54,7 @@
 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 | 2020-06-03 |  |
 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 | 2020-06-03 | 2026-02-21 |
 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 | 2020-06-03 |  |
-| [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 | 2020-06-03 |  |
+| [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 | 2020-06-03 | 2026-02-27 |
 | [Magic Gouyad \#3](https://open.spotify.com/track/32SZRFOF9JUQRxAIOfaEkd) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Magic Gouyad \#3](https://open.spotify.com/album/7ydEyjwDsDDH0tdoRKnwZA) | 5:04 | 2024-04-06 |  |
 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 | 2020-06-03 | 2026-02-21 |
 | [Metro Gouyad](https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr) | [Chambre 12](https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe) | 3:36 | 2024-04-06 |  |

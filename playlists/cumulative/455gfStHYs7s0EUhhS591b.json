@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Amalong",
+        "url": "https://open.spotify.com/album/3DjGhnpPoommIjTbxMhjEx"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243934,
+      "name": "Amalong",
+      "url": "https://open.spotify.com/track/3vF70xmAZzofW6CPw6VLHA"
+    },
+    {
+      "album": {
         "name": "Levante / Amanecer",
         "url": "https://open.spotify.com/album/2P1rqNcjXNLhK4ste8W21Y"
       },

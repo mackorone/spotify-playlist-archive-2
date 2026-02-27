@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 169941,
+  "num_followers": 170115,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAB7QicqMFONCohUevB2qXhh",
+  "snapshot_id": "aZ47gAAAAADWG1HSvR3cpNj3Tko38i9R",
   "tracks": [
     {
       "added_at": null,
@@ -383,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Again",
-        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
+        "name": "Grandma Calls The Boy Bad News (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI"
       },
       "artists": [
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
+      "duration_ms": 206731,
+      "name": "Grandma Calls The Boy Bad News - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF"
     },
     {
       "added_at": null,
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandma Calls The Boy Bad News (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI"
+        "name": "Love Me Again",
+        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
       },
       "artists": [
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 206731,
-      "name": "Grandma Calls The Boy Bad News - From F1\u00ae The Movie",
-      "url": "https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF"
+      "duration_ms": 198133,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
     },
     {
       "added_at": null,

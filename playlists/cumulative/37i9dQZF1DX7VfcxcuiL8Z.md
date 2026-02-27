@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: MAY\-A
+> The best in new rock\. Cover: Pacific Avenue
 
-552 songs - 1 day 8 hr 14 min
+554 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 |  |
 | [Ask Someone Else](https://open.spotify.com/track/1aBYi3eh45AFdGtlnSLvGc) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Yips](https://open.spotify.com/album/6sWgSbyVRgGCdRM2dQtut6) | 3:32 | 2025-07-10 | 2025-10-17 |
 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 | 2025-10-23 |  |
+| [Attention](https://open.spotify.com/track/2hywpEEjU5tqMrUPZD0vfi) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Attention](https://open.spotify.com/album/086U7cmrWRR6StP7Xt4GZw) | 2:59 | 2026-02-26 |  |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-21 | 2025-01-17 |
 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 | 2026-01-22 |  |
 | [B A D I D E A](https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [B A D I D E A](https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr) | 1:49 | 2025-08-14 | 2025-10-24 |
@@ -187,7 +188,7 @@
 | [God Owes Me Money](https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Owes Me Money](https://open.spotify.com/album/7tbEM7bL2urcY7uRoUyA78) | 3:21 | 2025-10-17 |  |
 | [God's Lonely Man](https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [God’s Lonely Man](https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7) | 2:43 | 2026-02-12 |  |
 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 | 2025-05-22 | 2025-06-27 |
-| [God’s Eye](https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [God's Eye](https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi) | 2:10 | 2026-01-22 |  |
+| [God’s Eye](https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [God's Eye](https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi) | 2:10 | 2026-01-22 | 2026-02-27 |
 | [Good Faith](https://open.spotify.com/track/3QtBcoUHLb4t2nbpbGVrTN) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Good Faith](https://open.spotify.com/album/0yHblQTIkCC6o6RTIbPVcK) | 2:52 | 2025-08-07 | 2025-10-10 |
 | [Goodbye My Valentine](https://open.spotify.com/track/3NPwaceUBOfE0viH93lYWA) | [Benjamin Stewart](https://open.spotify.com/artist/4HxybppEuBP6KDY0DDmnub) | [Junkdrawers](https://open.spotify.com/album/6ARPCupjZGnB8r8dv0S4lm) | 4:12 | 2025-12-11 |  |
 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-19 | 2025-09-12 |
@@ -215,7 +216,7 @@
 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 | 2024-10-03 | 2025-03-21 |
 | [Higher](https://open.spotify.com/track/6PSOiV7Kb6x9MXSCnjExjk) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Longing](https://open.spotify.com/album/4MDM4dRocyfz1ufgaslgYK) | 3:10 | 2025-10-09 | 2025-11-07 |
 | [Hold On](https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Hold On](https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX) | 3:10 | 2024-06-20 | 2024-11-15 |
-| [Hold Onto Me](https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Hold Onto Me](https://open.spotify.com/album/5uCj1UeRtqhqk5fQ4UHhyV) | 3:09 | 2025-09-11 |  |
+| [Hold Onto Me](https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Hold Onto Me](https://open.spotify.com/album/5uCj1UeRtqhqk5fQ4UHhyV) | 3:09 | 2025-09-11 | 2026-02-27 |
 | [Holding On](https://open.spotify.com/track/6b1rteUzofKjQVnPN3Lv6N) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Holding On](https://open.spotify.com/album/4QtFGNKcYlWPqlN9uYz7A4) | 3:37 | 2024-06-27 | 2024-08-16 |
 | [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 | 2025-11-06 |  |
 | [Hollow](https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Hollow](https://open.spotify.com/album/4qmjNRyaVlTiOOW197MTGC) | 3:25 | 2024-09-19 | 2025-03-21 |
@@ -457,6 +458,7 @@
 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 | 2024-10-10 | 2025-07-11 |
 | [Taste](https://open.spotify.com/track/2w9zVGPqawOlE0rrdGqDWx) | [Melrose Avenue](https://open.spotify.com/artist/21VOqis8anMJTRx6GqI13b) | [Taste](https://open.spotify.com/album/6KfypxhpTW4yLxvlhFOjpY) | 3:12 | 2026-02-05 |  |
 | [Taught by Experts](https://open.spotify.com/track/6uY90KiItyiy7Zh9v1pZLa) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Taught by Experts](https://open.spotify.com/album/0scNkybavk92Oy52wopl8l) | 3:01 | 2024-08-01 | 2024-10-18 |
+| [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:48 | 2026-02-26 |  |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 | 2024-12-13 |
 | [That's What You Do For Love](https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [That's What You Do For Love](https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo) | 5:24 | 2025-05-29 | 2025-08-01 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-30 | 2024-08-09 |

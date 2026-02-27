@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 155316,
+  "num_followers": 155288,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "NJWMX",
-        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Ditto (250 Remix)",
-      "url": "https://open.spotify.com/track/6JVXVLqCPaodBSEwRFUN8w"
+      "duration_ms": 236500,
+      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -227,22 +231,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 236500,
-      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
+      "duration_ms": 201866,
+      "name": "Ditto (250 Remix)",
+      "url": "https://open.spotify.com/track/6JVXVLqCPaodBSEwRFUN8w"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "NJWMX",
-        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "OMG (FRNK Remix)",
-      "url": "https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Butter (Holiday Remix)",
         "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
       },
@@ -315,22 +299,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 130613,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Christmas Fever",
         "url": "https://open.spotify.com/album/5J2XvmVymUphtXV8lJwhcs"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 210308,
       "name": "Christmas Fever",
       "url": "https://open.spotify.com/track/5zJgLkNMU7p9xGhMshV46X"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "OMG (FRNK Remix)",
+      "url": "https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Shin Wooseok's Urban Fairy Tale EP.1 'The Christmas Song'",
-        "url": "https://open.spotify.com/album/7MJZs2gPJpAkFdtXQRszOI"
-      },
-      "artists": [
-        {
-          "name": "Wooseok Byeon",
-          "url": "https://open.spotify.com/artist/73XnhTLe7F55vqqCr0qL7a"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "THE CHRISTMAS SONG",
-      "url": "https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "1st Intermixxion Single <Funky Glitter Christmas>",
         "url": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 190306,
       "name": "Funky Glitter Christmas",
       "url": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Shin Wooseok's Urban Fairy Tale EP.1 'The Christmas Song'",
+        "url": "https://open.spotify.com/album/7MJZs2gPJpAkFdtXQRszOI"
+      },
+      "artists": [
+        {
+          "name": "Wooseok Byeon",
+          "url": "https://open.spotify.com/artist/73XnhTLe7F55vqqCr0qL7a"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "THE CHRISTMAS SONG",
+      "url": "https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Will You Be My Home",
         "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 217866,
       "name": "Lonely Christmas",
       "url": "https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 269012,
-      "name": "Save Our Christmas",
-      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Solo Christmas",
         "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 269012,
+      "name": "Save Our Christmas",
+      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Winter Bloom",
         "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
       },
@@ -1211,38 +1211,6 @@
       "duration_ms": 179684,
       "name": "Winter Bloom",
       "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "5 Christmas Languages",
-        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "5 Christmas Languages",
-      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Wonderland (Carol ver.)",
-      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1263,18 +1231,34 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Mr. Santa",
-        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
       "artists": [
         {
-          "name": "LUNCH",
-          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Mr. Santa",
-      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "5 Christmas Languages",
+        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "5 Christmas Languages",
+      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1291,6 +1275,38 @@
       "duration_ms": 231093,
       "name": "Candles",
       "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Mr. Santa",
+        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mr. Santa",
+      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "PRESENT",
+      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1331,22 +1347,6 @@
       "duration_ms": 206520,
       "name": "Christmas is Coming (feat. Kelsey Kuan & prettyhappy)",
       "url": "https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "PRESENT",
-      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Dancing on Christmas",
-        "url": "https://open.spotify.com/album/3Lhq5jOH1ki9Tck6PnNdb3"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 196565,
-      "name": "Dancing on Christmas",
-      "url": "https://open.spotify.com/track/1tHnzNY5NgKkTEcM3lYi3s"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Christmas Dance",
         "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Dancing on Christmas",
+        "url": "https://open.spotify.com/album/3Lhq5jOH1ki9Tck6PnNdb3"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 196565,
+      "name": "Dancing on Christmas",
+      "url": "https://open.spotify.com/track/1tHnzNY5NgKkTEcM3lYi3s"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Heart of Christmas",
         "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
       },
@@ -1587,38 +1587,6 @@
       "duration_ms": 211000,
       "name": "Heart of Christmas",
       "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "C9 Single Album '2022 C9 Christmas'",
-        "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        },
-        {
-          "name": "CIX",
-          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
-        },
-        {
-          "name": "cignature",
-          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
-        },
-        {
-          "name": "EPEX",
-          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Merry Merry Christmas",
-      "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1655,6 +1623,38 @@
       "duration_ms": 222160,
       "name": "Love Wishes",
       "url": "https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "C9 Single Album '2022 C9 Christmas'",
+        "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        },
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        },
+        {
+          "name": "cignature",
+          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
+        },
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Merry Merry Christmas",
+      "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "FOCUS",
-        "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 146962,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
         "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 206439,
       "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
       "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 146962,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
+      "duration_ms": 237080,
+      "name": "D-day",
+      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
     },
     {
       "added_at": "2026-01-20 05:01:24",

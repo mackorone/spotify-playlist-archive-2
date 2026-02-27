@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: R2Bees
 
-316 songs - 19 hr 34 min
+317 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-03-04 | 2024-08-31 |
 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 | 2025-12-19 |  |
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2024-10-18 | 2024-11-23 |
+| [Babylon](https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Babylon](https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB) | 2:40 | 2026-02-27 |  |
 | [Back 2 Sender](https://open.spotify.com/track/5UpqMuJ6xGpkwml44uvwQK) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [G.I.N.A](https://open.spotify.com/album/5FP1OJulMa7Y7siPhErW2F) | 3:07 | 2024-03-04 | 2024-03-15 |
 | [Back To Sender \(Taamiawu\)](https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca) | [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Back To Sender \(Taamiawu\)](https://open.spotify.com/album/1m1j17DRfl9ESfDXELGjmi) | 3:43 | 2024-05-03 | 2024-07-06 |
 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 | 2024-03-04 | 2025-08-23 |

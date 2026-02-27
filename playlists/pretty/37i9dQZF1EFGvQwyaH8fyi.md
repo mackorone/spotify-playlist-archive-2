@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 98 | [Good Girl](https://open.spotify.com/track/2lVgHyQt2Jp5GbcNzjqls4) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
 | 99 | [YOU](https://open.spotify.com/track/45VihpAEU7N6LS6BK4XZpb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:16 |
 | 100 | [HOTBOX](https://open.spotify.com/track/2UcHKgT00bLP7Cjkni3Itg) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:02 |
-| 101 | [LIGHT AGAIN!](https://open.spotify.com/track/3dIuilnw3QX0KkQNpERaDD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:57 |
-| 102 | [Sometimes](https://open.spotify.com/track/1daFcmkDEXxCNZIBINQ3Ui) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:03 |
+| 101 | [Sometimes](https://open.spotify.com/track/1daFcmkDEXxCNZIBINQ3Ui) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:03 |
+| 102 | [LIGHT AGAIN!](https://open.spotify.com/track/3dIuilnw3QX0KkQNpERaDD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:57 |
 | 103 | [Opening](https://open.spotify.com/track/5COQeGCkntn6AgXTHMKpdC) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 4:00 |
 | 104 | [The Vow](https://open.spotify.com/track/6ehJSlppdOEGiY0B5mMv5m) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:32 |
 | 105 | [Dream Police](https://open.spotify.com/track/2zyodCmgNx5slEG5tOlXX2) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Dream Police](https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF) | 3:10 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 127 | [hopeless romantic](https://open.spotify.com/track/35yqgRHkbeld95jku81ZSr) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [on to better things](https://open.spotify.com/album/6rkycywW8HIa4U5nJa2e5l) | 2:48 |
 | 128 | [In The Dark](https://open.spotify.com/track/6xd51Blf4S1T98r9iykAER) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:52 |
 | 129 | [Nicotine](https://open.spotify.com/track/4Q2SJQAfMAiZHzJwkPdyzP) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/5w1ZUSCUiYue1B796N9w61) | 2:46 |
-| 130 | [Cut It Off](https://open.spotify.com/track/0f7kuCy13GwfYXMTEcwaeo) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:34 |
-| 131 | [more to lose](https://open.spotify.com/track/3cQTIOOJeyRiZPsaAhBFa8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:54 |
+| 130 | [more to lose](https://open.spotify.com/track/3cQTIOOJeyRiZPsaAhBFa8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:54 |
+| 131 | [Cut It Off](https://open.spotify.com/track/0f7kuCy13GwfYXMTEcwaeo) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:34 |
 | 132 | [Praying 4 Love](https://open.spotify.com/track/3efc1ZMCTGsuLJgpCJCKIt) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:36 |
 | 133 | [Play Pretend](https://open.spotify.com/track/1US8tshuJbmSTfBgom1uaq) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 2:42 |
 | 134 | [jazz burger](https://open.spotify.com/track/0LqqWpieFCkt7jtA6RafAG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 3:11 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 140 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 141 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 
-Snapshot ID: `AcKpagAAAAD+lcgDSaOsqHQFCkCMA/iV`
+Snapshot ID: `AcKvHgAAAABpNi/i95xTw81DprQzg9so`

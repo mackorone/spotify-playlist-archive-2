@@ -2139,6 +2139,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+    },
+    {
+      "album": {
         "name": "Because The Night",
         "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
       },
@@ -5254,7 +5276,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 182700,
       "name": "Ein Teil - CRO & OSWALD Rmx",
       "url": "https://open.spotify.com/track/7kaHzWzuPRXwr4gOQS03PG"
@@ -5724,7 +5746,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178205,
       "name": "FADE",
       "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
@@ -6230,6 +6252,28 @@
       "duration_ms": 180937,
       "name": "First Girl On The Moon",
       "url": "https://open.spotify.com/track/7e5mu6P9XOBH3uLCT3JitQ"
+    },
+    {
+      "album": {
+        "name": "Flames (feat. Bandit)",
+        "url": "https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179746,
+      "name": "Flames (feat. Bandit)",
+      "url": "https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo"
     },
     {
       "album": {
@@ -10470,7 +10514,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 186428,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/2Kq88ecbX0ZnuVbt8aqe4M"
@@ -14768,7 +14812,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 133846,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7"
@@ -14890,6 +14934,32 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5LRgIJesYCJMxeopeVLPjK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/25PNm205FTgi0etwvYmuM8"
     },
     {
       "album": {
@@ -17318,7 +17388,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 201376,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu"
@@ -19635,6 +19705,24 @@
     },
     {
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6uyaHqMzeYS6ElEhyIoe6l"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118641,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3aiWcgTwj9t0nGiahrV5GW"
+    },
+    {
+      "album": {
         "name": "Up To No Good",
         "url": "https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S"
       },
@@ -19732,6 +19820,32 @@
       "duration_ms": 148551,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5yvxgPwdYkBvvblqTmkGKU"
+      },
+      "artists": [
+        {
+          "name": "AVALAN ROKSTON",
+          "url": "https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G"
+        },
+        {
+          "name": "Avalan",
+          "url": "https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw"
+        },
+        {
+          "name": "Rokston",
+          "url": "https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154319,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6kw5fiFSxFTUUmn6ynSwrD"
     },
     {
       "album": {

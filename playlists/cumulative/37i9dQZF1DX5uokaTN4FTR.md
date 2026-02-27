@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Milky, Mall Grab
+> The UK's biggest dance playlist! Cover: Ewan McVicar
 
-732 songs - 1 day 14 hr 5 min
+733 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 | 2022-03-08 | 2022-03-10 |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-03-04 | 2022-05-20 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-03-01 | 2025-02-28 |
-| [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-15 |  |
+| [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-15 | 2026-02-27 |
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-04-15 | 2022-07-01 |
 | [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 | 2025-03-28 |  |
 | [Lies](https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/2hvJIyjOG3bn3hNRS2za58) | 3:16 | 2022-03-08 | 2022-03-10 |
@@ -453,6 +453,7 @@
 | [My Heart's Been Waiting for You \(feat\. Duvall\)](https://open.spotify.com/track/5CDdnP62YjCVbp8epDMdLY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [My Heart's Been Waiting For You \(feat\. Duvall\)](https://open.spotify.com/album/1JXZJkssqEVjgN6hE0lVVW) | 3:26 | 2022-04-15 | 2022-07-08 |
 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 | 2021-11-05 | 2022-03-04 |
 | [My Love](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love](https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE) | 2:36 | 2022-06-16 | 2022-09-16 |
+| [My Loving](https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [My Loving](https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3) | 2:50 | 2026-02-27 |  |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-01-19 | 2024-11-08 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-16 | 2025-02-21 |
 | [Never Let You Go](https://open.spotify.com/track/1Jy0KzjB5zXPR0Mq50unST) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g) | 3:01 | 2026-02-06 |  |

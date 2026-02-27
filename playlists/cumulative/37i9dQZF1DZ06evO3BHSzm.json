@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161609,
+      "name": "(Love Is Like A) Heat Wave - Stereo Version",
+      "url": "https://open.spotify.com/track/256Zg68d999bstEnYlnfPL"
+    },
+    {
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 58840,
       "name": "Heinz Baked Beans - Mono Version",
       "url": "https://open.spotify.com/track/0iuIIska9fyaf6neCtenZY"

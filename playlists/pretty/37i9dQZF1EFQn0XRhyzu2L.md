@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,460 likes - 401 songs - 22 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,462 likes - 401 songs - 22 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 112 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 113 | [Are You](https://open.spotify.com/track/7wHOe00vTfOqi8WX3Hr82v) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:31 |
 | 114 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
-| 115 | [When a Woman](https://open.spotify.com/track/6MFVCPU3QN3YqMjJz4mtFe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:18 |
-| 116 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
+| 115 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
+| 116 | [When a Woman](https://open.spotify.com/track/6MFVCPU3QN3YqMjJz4mtFe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:18 |
 | 117 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 |
 | 118 | [Surefire](https://open.spotify.com/track/34JBZjGLUZonoqFjtbC31v) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 4:03 |
 | 119 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 |
@@ -241,8 +241,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 231 | [He Loves Me, But...](https://open.spotify.com/track/24Yn3IkIQOklbhWvyRgh0A) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:26 |
 | 232 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
 | 233 | [self crucify](https://open.spotify.com/track/36devlce37d8V3cICTukvN) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [elated!](https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1) | 4:00 |
-| 234 | [When I Was A Little Girl](https://open.spotify.com/track/1Cg4hAWU9Ox1HpaN2oWg4P) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:28 |
-| 235 | [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 |
+| 234 | [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 |
+| 235 | [When I Was A Little Girl](https://open.spotify.com/track/1Cg4hAWU9Ox1HpaN2oWg4P) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:28 |
 | 236 | [Walking the Wire / My Life \- Live in Vegas](https://open.spotify.com/track/79Dw44YYmsTgYgGqvGyhAe) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons Live in Vegas](https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0) | 6:32 |
 | 237 | [Switch](https://open.spotify.com/track/59vpl8fDWIIisaOx628oKj) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/5mQKMz8qdYqO6gpbb07DzP) | 3:00 |
 | 238 | [Red Flag](https://open.spotify.com/track/1gAIlQzOWmFol3tqFKk7Dz) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:20 |
@@ -351,12 +351,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 341 | [Company Hunting](https://open.spotify.com/track/05ZZoNpRrlq50z5rNQ2EQU) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Company Hunting](https://open.spotify.com/album/3RfMYoc6ypAt7N5kmHhn2u) | 2:52 |
 | 342 | [Leave A Little Light On](https://open.spotify.com/track/337fiM9RuaS2fDjIzVm9RQ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Something Beautiful \(Deluxe Version\)](https://open.spotify.com/album/3MhNuSt8uRLn46yXvjFnZa) | 4:09 |
 | 343 | [COMPLICATED](https://open.spotify.com/track/5WLNFK0rQzsnQp7I1XMRMx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:04 |
-| 344 | [Drama Queen](https://open.spotify.com/track/0AmFcj0d26SyLs82rTHliE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:01 |
-| 345 | [1%](https://open.spotify.com/track/2NlkgVciKV8f5uNwNmnNqR) | [Rich White Ladies](https://open.spotify.com/artist/0B2368o7srjJnRrzmpRWj7) | [Rich White Ladies](https://open.spotify.com/album/1NcEnLyvUB5InbFzscqJKX) | 3:15 |
-| 346 | [Tribe](https://open.spotify.com/track/1CjvIsA4llVSjZfNhC9jcn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Come Up](https://open.spotify.com/album/6lPgOGy21QZdStzIQHlrVF) | 4:22 |
-| 347 | [Window](https://open.spotify.com/track/4DFpxzGwflpwsUGlpHCZqX) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Window](https://open.spotify.com/album/5YWbfTZIrQG0zsPeywWwk8) | 3:11 |
-| 348 | [Dirty Dishes](https://open.spotify.com/track/3WUTTfwAOXBZDC4l1LU4ZG) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:34 |
-| 349 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 |
+| 344 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 |
+| 345 | [Drama Queen](https://open.spotify.com/track/0AmFcj0d26SyLs82rTHliE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:01 |
+| 346 | [1%](https://open.spotify.com/track/2NlkgVciKV8f5uNwNmnNqR) | [Rich White Ladies](https://open.spotify.com/artist/0B2368o7srjJnRrzmpRWj7) | [Rich White Ladies](https://open.spotify.com/album/1NcEnLyvUB5InbFzscqJKX) | 3:15 |
+| 347 | [Tribe](https://open.spotify.com/track/1CjvIsA4llVSjZfNhC9jcn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Come Up](https://open.spotify.com/album/6lPgOGy21QZdStzIQHlrVF) | 4:22 |
+| 348 | [Window](https://open.spotify.com/track/4DFpxzGwflpwsUGlpHCZqX) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Window](https://open.spotify.com/album/5YWbfTZIrQG0zsPeywWwk8) | 3:11 |
+| 349 | [Dirty Dishes](https://open.spotify.com/track/3WUTTfwAOXBZDC4l1LU4ZG) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:34 |
 | 350 | [Revenge Body](https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [PARAVI](https://open.spotify.com/album/27d1Ladlcuhf4E10k07EVR) | 2:53 |
 | 351 | [Put A Diamond In It](https://open.spotify.com/track/3gorRpgFSxRa3iEy5IJeYn) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [You Love You](https://open.spotify.com/album/6hwVVJuEBCHwAYnkMttS6S) | 3:09 |
 | 352 | [Normal to Feel](https://open.spotify.com/track/2WdmFuT1675qqu7o4tbn1d) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Normal to Feel](https://open.spotify.com/album/3nW4GaITknS7y4RZBxB0SH) | 3:20 |
@@ -410,4 +410,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 400 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 401 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcKpagAAAAC19XA959anTbfx8ara/B+C`
+Snapshot ID: `AcKvHgAAAADrPK59ZpHdCbPR6UbMl89M`

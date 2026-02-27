@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,754 likes - 76 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,758 likes - 76 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 50 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 |
 | 51 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
 | 52 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |
-| 53 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
-| 54 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 |
+| 53 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 |
+| 54 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
 | 55 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
 | 56 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 |
 | 57 | [Masche](https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU) | [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [Edén](https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR) | 6:37 |

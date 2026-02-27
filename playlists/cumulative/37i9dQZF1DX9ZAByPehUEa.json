@@ -3441,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t You Want Some More",
+        "url": "https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204985,
+      "name": "Don\u2019t You Want Some More",
+      "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6CRxXtlUhJoGLBtKV8jEnr"
       },
@@ -4220,7 +4238,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 188640,
       "name": "Fighting Love",
       "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
@@ -4624,6 +4642,24 @@
       "duration_ms": 158729,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/34ipfQgRIZbhoj6cS1ALct"
+    },
+    {
+      "album": {
+        "name": "Get Down EP",
+        "url": "https://open.spotify.com/album/2nsH4ojUsSjvmvUp4EYSzS"
+      },
+      "artists": [
+        {
+          "name": "TwoSlice",
+          "url": "https://open.spotify.com/artist/7tjeiMlhaZh3n8VqyNcMG1"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3YRnHTcW7COuLLpczz5wUB"
     },
     {
       "album": {
@@ -8202,7 +8238,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 192120,
       "name": "Love Got High - The Magician Remix",
       "url": "https://open.spotify.com/track/621EBjdaQom5sL13w30RPS"

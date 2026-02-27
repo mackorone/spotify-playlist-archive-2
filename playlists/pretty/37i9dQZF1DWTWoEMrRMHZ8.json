@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 355564,
+  "num_followers": 355557,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-20 14:31:12",
       "album": {
-        "name": "Mares E Desertos",
-        "url": "https://open.spotify.com/album/04QCA0sevXuUw7bxhRv9Dg"
-      },
-      "artists": [
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
-        }
-      ],
-      "duration_ms": 221483,
-      "name": "Mares E Desertos",
-      "url": "https://open.spotify.com/track/05Z0DbEJquaV7AJTkMIRA5"
-    },
-    {
-      "added_at": "2026-02-20 14:31:12",
-      "album": {
         "name": "Que isso nunca acabe",
         "url": "https://open.spotify.com/album/4XZfBpwSg4HahwGZUbUKnb"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2026-02-20 14:31:12",
       "album": {
-        "name": "Vila do Sossego",
-        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
+        "name": "Mares E Desertos",
+        "url": "https://open.spotify.com/album/04QCA0sevXuUw7bxhRv9Dg"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
         }
       ],
-      "duration_ms": 249798,
-      "name": "Vila do Sossego",
-      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
+      "duration_ms": 221483,
+      "name": "Mares E Desertos",
+      "url": "https://open.spotify.com/track/05Z0DbEJquaV7AJTkMIRA5"
     },
     {
       "added_at": "2026-02-20 14:31:12",
@@ -763,6 +747,22 @@
       "duration_ms": 139658,
       "name": "Se Acaso Voc\u00ea Chegasse",
       "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
+    },
+    {
+      "added_at": "2026-02-20 14:31:12",
+      "album": {
+        "name": "Vila do Sossego",
+        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Vila do Sossego",
+      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
     },
     {
       "added_at": "2026-02-20 14:31:12",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-02-20 14:31:12",
       "album": {
-        "name": "Fulor\u00e1",
-        "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
-      },
-      "artists": [
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        },
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z"
-    },
-    {
-      "added_at": "2026-02-20 14:31:12",
-      "album": {
         "name": "Entre Amores e Danos",
         "url": "https://open.spotify.com/album/4ruqOYj0aotFUurQDz00qz"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 221684,
       "name": "Entre Amores e Danos",
       "url": "https://open.spotify.com/track/7dI4arfkb8h4yQKLVlkrBH"
+    },
+    {
+      "added_at": "2026-02-20 14:31:12",
+      "album": {
+        "name": "Fulor\u00e1",
+        "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z"
     },
     {
       "added_at": "2026-02-20 14:31:12",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-20 14:31:12",
       "album": {
-        "name": "Homem com H",
-        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 121015,
-      "name": "O Mundo \u00e9 um Moinho",
-      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2026-02-20 14:31:12",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
       },
@@ -1087,6 +1071,46 @@
       "duration_ms": 240301,
       "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
       "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
+    },
+    {
+      "added_at": "2026-02-20 14:31:12",
+      "album": {
+        "name": "Homem com H",
+        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 121015,
+      "name": "O Mundo \u00e9 um Moinho",
+      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
+    },
+    {
+      "added_at": "2026-02-20 14:31:12",
+      "album": {
+        "name": "Mandinga",
+        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "L\u00e9o da Bodega",
+          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Mandinga",
+      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
     },
     {
       "added_at": "2026-02-20 14:31:12",
@@ -1123,30 +1147,6 @@
       "duration_ms": 271285,
       "name": "Beleza",
       "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
-    },
-    {
-      "added_at": "2026-02-20 14:31:12",
-      "album": {
-        "name": "Mandinga",
-        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        },
-        {
-          "name": "L\u00e9o da Bodega",
-          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Mandinga",
-      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
     },
     {
       "added_at": "2026-02-20 14:31:12",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-02-20 14:31:12",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
-    },
-    {
-      "added_at": "2026-02-20 14:31:12",
-      "album": {
         "name": "Um Trem para as Estrelas",
         "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 216425,
       "name": "Um Trem Para as Estrelas",
       "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
+    },
+    {
+      "added_at": "2026-02-20 14:31:12",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2026-02-20 14:31:12",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-02-20 14:31:12",
       "album": {
-        "name": "O Lado B da Bossa",
-        "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 148762,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
-    },
-    {
-      "added_at": "2026-02-20 14:31:12",
-      "album": {
         "name": "A hist\u00f3ria da nossa l\u00edngua",
         "url": "https://open.spotify.com/album/62n6upnCeTwn0P1n77kAIm"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 286869,
       "name": "A hist\u00f3ria da nossa l\u00edngua",
       "url": "https://open.spotify.com/track/5Lw3gwWGtaZ2mHbdKL8kbF"
+    },
+    {
+      "added_at": "2026-02-20 14:31:12",
+      "album": {
+        "name": "O Lado B da Bossa",
+        "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        }
+      ],
+      "duration_ms": 148762,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
     },
     {
       "added_at": "2026-02-20 14:31:12",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-20 14:31:12",
       "album": {
-        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
-      },
-      "artists": [
-        {
-          "name": "Vander Lee",
-          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
-        }
-      ],
-      "duration_ms": 247847,
-      "name": "Onde Deus possa me ouvir - Ao vivo",
-      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
-    },
-    {
-      "added_at": "2026-02-20 14:31:12",
-      "album": {
         "name": "Fico a Fim",
         "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 190000,
       "name": "Fico a Fim",
       "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
+    },
+    {
+      "added_at": "2026-02-20 14:31:12",
+      "album": {
+        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
+      },
+      "artists": [
+        {
+          "name": "Vander Lee",
+          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
+        }
+      ],
+      "duration_ms": 247847,
+      "name": "Onde Deus possa me ouvir - Ao vivo",
+      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
     },
     {
       "added_at": "2026-02-20 14:31:12",

@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 7888,
+  "num_followers": 7897,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Demara",
-        "url": "https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm"
+        "name": "Fakye",
+        "url": "https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5"
       },
       "artists": [
         {
-          "name": "Amanzeba",
-          "url": "https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m"
+          "name": "Nana Quame",
+          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
+        },
+        {
+          "name": "Sass Squad",
+          "url": "https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Wogbe",
-      "url": "https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg"
+      "duration_ms": 389666,
+      "name": "Me Nko Meda",
+      "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Fakye",
-        "url": "https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5"
+        "name": "Demara",
+        "url": "https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm"
       },
       "artists": [
         {
-          "name": "Nana Quame",
-          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
-        },
-        {
-          "name": "Sass Squad",
-          "url": "https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx"
+          "name": "Amanzeba",
+          "url": "https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m"
         }
       ],
-      "duration_ms": 389666,
-      "name": "Me Nko Meda",
-      "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
+      "duration_ms": 283640,
+      "name": "Wogbe",
+      "url": "https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg"
     },
     {
       "added_at": "2026-02-20 08:28:52",

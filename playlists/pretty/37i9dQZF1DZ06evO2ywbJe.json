@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7443,
+  "num_followers": 7450,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAABeWXznaCzwNz2M8g1s9qlG",
+  "snapshot_id": "aZ47gAAAAAAHQxd0RBF792U/lXDIV45Z",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Bottles",
+        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 178936,
+      "name": "10 Bottles",
+      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hallelu",
         "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 213492,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Bottles",
-        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 178936,
-      "name": "10 Bottles",
-      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killin Dem",
+        "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220884,
+      "name": "Killin Dem",
+      "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 178347,
       "name": "Oganigwe",
       "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killin Dem",
-        "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220884,
-      "name": "Killin Dem",
-      "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
     },
     {
       "added_at": null,
@@ -979,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agege",
+        "url": "https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 196257,
+      "name": "Agege",
+      "url": "https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elon Musk (Remix)",
         "url": "https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd"
       },
@@ -1003,22 +1023,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agege",
-        "url": "https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR"
+        "name": "Marleba The EP",
+        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Drey Spencer",
+          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
         }
       ],
-      "duration_ms": 196257,
-      "name": "Agege",
-      "url": "https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud"
+      "duration_ms": 144993,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
     },
     {
       "added_at": null,
@@ -1043,30 +1067,6 @@
       "duration_ms": 200973,
       "name": "Only Fan",
       "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marleba The EP",
-        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
-      },
-      "artists": [
-        {
-          "name": "DaBlixx Osha",
-          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Drey Spencer",
-          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
-        }
-      ],
-      "duration_ms": 144993,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
     }
   ],
   "unique_name": "This Is Zlatan",

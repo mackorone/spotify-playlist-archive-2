@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ⚡️ qui un sacco di musica giovane ⚡️ Cover: Elena D'Elia
+> ⚡️ qui un sacco di musica giovane ⚡️ Cover: LDA e Aka 7even
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,447 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,410 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wanda](https://open.spotify.com/track/3eh9Xjh0bmSkd0Q1N7jx3Y) | [Elena D'Elia](https://open.spotify.com/artist/1uWkqyyuDWWp2rcrFl1LrN) | [Wanda](https://open.spotify.com/album/1Y7jxt6YFaj5Rr9I9yPYcg) | 3:12 |
-| 2 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
-| 3 | [NATURALE](https://open.spotify.com/track/4pvQiqOrowCEHeCpIDKQyP) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [NATURALE](https://open.spotify.com/album/5jn5yKOtZjpgrBk2Z6UxqK) | 3:02 |
-| 4 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
-| 5 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 |
-| 6 | [ACQUARIO](https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ACQUARIO](https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3) | 3:13 |
+| 1 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
+| 2 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
+| 3 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
+| 4 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 |
+| 5 | [ACQUARIO](https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ACQUARIO](https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3) | 3:13 |
+| 6 | [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 |
 | 7 | [Avvoltoi](https://open.spotify.com/track/3ByNcS81LqRYUvJjpWhZ7T) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Avvoltoi](https://open.spotify.com/album/2Pm3fClssWE7Bhnijoi7E1) | 2:45 |
-| 8 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
-| 9 | [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 |
-| 10 | [RoseRovi](https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [RoseRovi](https://open.spotify.com/album/48HGfVfD57X1WDlWj3m9Yo) | 2:17 |
+| 8 | [NATURALE](https://open.spotify.com/track/4pvQiqOrowCEHeCpIDKQyP) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [NATURALE](https://open.spotify.com/album/5jn5yKOtZjpgrBk2Z6UxqK) | 3:02 |
+| 9 | [RoseRovi](https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [RoseRovi](https://open.spotify.com/album/48HGfVfD57X1WDlWj3m9Yo) | 2:17 |
+| 10 | [Wanda](https://open.spotify.com/track/3eh9Xjh0bmSkd0Q1N7jx3Y) | [Elena D'Elia](https://open.spotify.com/artist/1uWkqyyuDWWp2rcrFl1LrN) | [Wanda](https://open.spotify.com/album/1Y7jxt6YFaj5Rr9I9yPYcg) | 3:12 |
 | 11 | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 |
 | 12 | [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 |
 | 13 | [Nei miei DM](https://open.spotify.com/track/2CvhzdXKzJ90JQj6iLg5qI) | [Blind](https://open.spotify.com/artist/5OHbkBRl9kGeloz8JjAwDP), [EL MA](https://open.spotify.com/artist/3UNrwyIzyGeIc8xXFYInEM), [SONIKO](https://open.spotify.com/artist/73DHfRZvWObprsw4AJV2bS) | [Nei miei DM](https://open.spotify.com/album/1Wp7sg5ihwxmd0DTVU9k9n) | 3:03 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 84 | [niagara](https://open.spotify.com/track/37DX42Kw57adheqsD1D1BI) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CHE ME NE FACCIO DEL TEMPO](https://open.spotify.com/album/7wo8Dh80MUfpde8P135MQR) | 2:56 |
 | 85 | [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 |
 
-Snapshot ID: `AAAAAPsJErjhNOA8ZwCtipGC/G4cuC+5`
+Snapshot ID: `AAAAAOoTuikLlOcISY3gOLvLubT+j3oS`

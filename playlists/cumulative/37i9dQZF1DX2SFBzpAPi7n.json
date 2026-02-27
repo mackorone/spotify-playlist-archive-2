@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: SORAN) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: BIG Naughty (\uc11c\ub3d9\ud604)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Bye, Summer",
       "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
@@ -7287,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "Between Cobalt and Navy",
+        "url": "https://open.spotify.com/album/0YSVtDyZSsU0MbYUHP8xLe"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Highs and Goodbyes",
+      "url": "https://open.spotify.com/track/2R8AgS1dQcau9LXnfKBIGa"
+    },
+    {
+      "album": {
         "name": "Highteen",
         "url": "https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW"
       },
@@ -9520,7 +9538,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 228340,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt"
@@ -11044,7 +11062,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 183013,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
@@ -11296,7 +11314,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 228000,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/5YSKkQQmw6UZC4jwDXq8NY"
@@ -14145,6 +14163,24 @@
     },
     {
       "album": {
+        "name": "Remnant Flower (4moments Original Soundtrack Part.1)",
+        "url": "https://open.spotify.com/album/6Bn9Ldk4xPfN9ETA5VYd77"
+      },
+      "artists": [
+        {
+          "name": "kimseungjoo",
+          "url": "https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181216,
+      "name": "Remnant Flower (4moments Original Soundtrack Part.1)",
+      "url": "https://open.spotify.com/track/0dk889fQmOCtw1xrEQEMdA"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/3KfQzfa9ojrhFNoOFsE8B8"
       },
@@ -15036,7 +15072,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 222911,
       "name": "Seasonal Crime",
       "url": "https://open.spotify.com/track/5texqcjmxCt08GyAb268T3"
@@ -17698,7 +17734,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 250000,
       "name": "There Was No One Left",
       "url": "https://open.spotify.com/track/0qzDOoGh8TywjSv88jUDrI"

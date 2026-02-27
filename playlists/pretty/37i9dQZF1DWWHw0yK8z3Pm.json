@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Mumford & Sons, Chris Stapleton",
-  "num_followers": 69684,
+  "num_followers": 69678,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -97,20 +97,24 @@
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
+      "added_at": "2026-02-20 13:24:26",
       "album": {
-        "name": "Night Diving (The Cost of Growing Up)",
-        "url": "https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
       "artists": [
         {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 193707,
-      "name": "Forever Ain't Long Enough",
-      "url": "https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV"
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -145,24 +149,20 @@
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
     },
     {
-      "added_at": "2026-02-20 13:24:26",
+      "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+        "name": "Night Diving (The Cost of Growing Up)",
+        "url": "https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Badlands (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+      "duration_ms": 193707,
+      "name": "Forever Ain't Long Enough",
+      "url": "https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV"
     },
     {
       "added_at": "2026-02-06 05:01:26",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Field Song.",
-        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 139530,
-      "name": "Field Song.",
-      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
-    },
-    {
       "added_at": "2025-12-19 01:32:26",
       "album": {
         "name": "I'm In Love with a Man",
@@ -803,6 +787,22 @@
       "duration_ms": 181846,
       "name": "I'm In Love with a Man",
       "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Field Song.",
+        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 139530,
+      "name": "Field Song.",
+      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
     },
     {
       "added_at": "2026-01-09 10:02:10",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
     },
     {
+      "added_at": "2026-02-20 13:24:26",
+      "album": {
+        "name": "Blue Water",
+        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
+    },
+    {
       "added_at": "2026-01-30 05:01:55",
       "album": {
         "name": "Dublin Blues",
@@ -903,22 +919,6 @@
       "duration_ms": 207160,
       "name": "1800 Miles",
       "url": "https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD"
-    },
-    {
-      "added_at": "2026-02-20 13:24:26",
-      "album": {
-        "name": "Blue Water",
-        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
     },
     {
+      "added_at": "2026-02-20 13:24:26",
+      "album": {
+        "name": "A Perfect Dive",
+        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "duration_ms": 206284,
+      "name": "A Perfect Dive",
+      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
+    },
+    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Everything I Wanted",
@@ -1195,26 +1211,6 @@
     {
       "added_at": "2025-10-31 00:01:27",
       "album": {
-        "name": "Knew It All Along (With Nic D)",
-        "url": "https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 183321,
-      "name": "Knew It All Along (With Nic D)",
-      "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
-    },
-    {
-      "added_at": "2025-10-31 00:01:27",
-      "album": {
         "name": "The Longer You Hold On",
         "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
       },
@@ -1245,20 +1241,24 @@
       "url": "https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct"
     },
     {
-      "added_at": "2026-02-20 13:24:26",
+      "added_at": "2025-10-31 00:01:27",
       "album": {
-        "name": "A Perfect Dive",
-        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+        "name": "Knew It All Along (With Nic D)",
+        "url": "https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA"
       },
       "artists": [
         {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
         }
       ],
-      "duration_ms": 206284,
-      "name": "A Perfect Dive",
-      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
+      "duration_ms": 183321,
+      "name": "Knew It All Along (With Nic D)",
+      "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Baby Blue",
-        "url": "https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Goldie Montana",
         "url": "https://open.spotify.com/album/1yU6oeWp9QFRGZO4hwRQYk"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 245076,
       "name": "Goldie Montana",
       "url": "https://open.spotify.com/track/5vKml30abCjY2IAlborIm2"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "Maybe For Once",
-        "url": "https://open.spotify.com/album/3T97rdVL9AGz3s1EUJUQ0z"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 187841,
-      "name": "Maybe For Once",
-      "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
-    },
-    {
       "added_at": "2025-10-17 08:01:09",
       "album": {
         "name": "Hell of a Daydream",
@@ -1523,6 +1507,22 @@
       "duration_ms": 198060,
       "name": "Hell of a Daydream",
       "url": "https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Maybe For Once",
+        "url": "https://open.spotify.com/album/3T97rdVL9AGz3s1EUJUQ0z"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 187841,
+      "name": "Maybe For Once",
+      "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
     },
     {
       "added_at": "2025-10-06 15:34:36",

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-225 songs - 18 hr 17 min
+226 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Después de todo](https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Chapeando](https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78) | 6:08 | 2020-08-25 |  |
 | [Dime Cuánto \- Remasterizado](https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Llegó La Verdad \(Remasterizado\)](https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe) | 5:15 | 2022-12-30 | 2024-04-19 |
 | [Dime Cuánto \- Remasterizado](https://open.spotify.com/track/19Ur1l6X2txD4iJFDjM57e) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Llegó la Verdad \(Remasterizado\)](https://open.spotify.com/album/0gZeDkfRsMCUT5GIDWJziQ) | 5:15 | 2020-08-25 | 2022-05-07 |
+| [Disco Azúcar](https://open.spotify.com/track/7uQOfh1O1a6IA8g4VWFrd8) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Grandes Exitos, Juan Formell Y Los Van Van](https://open.spotify.com/album/4AWlWv6nqxy33XFDBv0aUo) | 5:24 | 2025-03-07 |  |
 | [Dónde Va Chichi?](https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 5:13 | 2020-08-25 | 2022-11-13 |
 | [El Aguila](https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Contra Todos los Pronósticos](https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh) | 6:27 | 2020-08-25 |  |
 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 | 2020-08-25 | 2023-11-04 |
@@ -176,7 +177,7 @@
 | [Regalito de Dios](https://open.spotify.com/track/5nH7F3gTB1gy1wFAXMtbOw) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:46 | 2020-08-25 | 2022-07-28 |
 | [Represent](https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m) | 3:46 | 2020-08-25 |  |
 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 | 2020-08-25 | 2024-04-19 |
-| [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 | 2020-08-25 |  |
+| [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 | 2020-08-25 | 2026-02-27 |
 | [Se Acabaron los Guapos en la Habana](https://open.spotify.com/track/5txaxw6xYhvpz5IAVHGMDi) | [Lazarito Valdés](https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s), [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Caramelo Con Picante](https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1) | 5:05 | 2020-08-25 | 2022-06-10 |
 | [Señora](https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [El Charanguero Mayor](https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4) | 6:32 | 2024-03-19 |  |
 | [Si Te Descuidas](https://open.spotify.com/track/4DWVZPTIoJ4unA04fqxm28) | [Giraldo Piloto y Klímax](https://open.spotify.com/artist/33WgNRXej4nmjEnbGw9deR) | [I Dance Cuban Salsa 2014 \(Salsa y Timba Hits\)](https://open.spotify.com/album/5XqLtc36FdyDQWzjSzV45b) | 5:33 | 2020-08-25 | 2022-05-30 |

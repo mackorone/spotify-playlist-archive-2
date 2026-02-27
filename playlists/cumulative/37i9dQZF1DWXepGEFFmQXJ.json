@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Megan Moroney",
+  "description": "The cream of today's country crop. Cover: Max McNown",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 196470,
       "name": "Beer Back Home",
       "url": "https://open.spotify.com/track/5Lks14NDn8Te1lgAF7tJZP"
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Boat Named After You",
+        "url": "https://open.spotify.com/album/3B3bBKTlR45AgSI26GVsjv"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236880,
+      "name": "Boat Named After You",
+      "url": "https://open.spotify.com/track/04MDXwZ7JPyf1NGB8CNjPV"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/52xjNFo20vTAb4AHMRtJyn"
       },
@@ -2516,6 +2534,24 @@
       "duration_ms": 220540,
       "name": "Born To Be Country",
       "url": "https://open.spotify.com/track/6uZchRDY8ZnURdWgyeOBva"
+    },
+    {
+      "album": {
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/1st86zpqY8SU5GYRHFDqrH"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206498,
+      "name": "Born To Be Yours",
+      "url": "https://open.spotify.com/track/1Bdo8ojZ6wO1UYZxZ6Ii60"
     },
     {
       "album": {
@@ -3105,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/6DhnIrxXCMzkShjGiaJLIs"
+      },
+      "artists": [
+        {
+          "name": "Tyla Rodrigues",
+          "url": "https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Can't Keep Doing This",
+      "url": "https://open.spotify.com/track/65EI5wAUiOuIT7fcoeI8nu"
+    },
+    {
+      "album": {
         "name": "Can't Pass The Bar",
         "url": "https://open.spotify.com/album/0Y70X8MDQbVtz0XtdflzAV"
       },
@@ -3354,7 +3408,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 234939,
       "name": "Cherry Rose",
       "url": "https://open.spotify.com/track/5VRjDEwfUu07wC5iTpdbG8"
@@ -4976,7 +5030,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 184546,
       "name": "Don't Ruin Flowers",
       "url": "https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX"
@@ -5016,6 +5070,42 @@
       "duration_ms": 204648,
       "name": "Don't Wanna Say Goodnight",
       "url": "https://open.spotify.com/track/7ksSpM2Q281PTYVxcSOKOB"
+    },
+    {
+      "album": {
+        "name": "Done For",
+        "url": "https://open.spotify.com/album/1cGgULJ45qb2qOvPuKQcXH"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153315,
+      "name": "Done For",
+      "url": "https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt"
+    },
+    {
+      "album": {
+        "name": "Don't Tell On Me",
+        "url": "https://open.spotify.com/album/3s3TWoBcdu8AUX9qlORSdf"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184751,
+      "name": "Don\u2019t Tell On Me",
+      "url": "https://open.spotify.com/track/2yM6Cs4w85hn1HtBTnxEKn"
     },
     {
       "album": {
@@ -5399,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "Easy On The Eyes",
+        "url": "https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224568,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/4fIAnqinLU9HISWz9PeCqf"
       },
@@ -5446,7 +5554,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 136746,
       "name": "Emerald City",
       "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
@@ -10010,7 +10118,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 187716,
       "name": "Kickin' Stones",
       "url": "https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z"
@@ -10575,6 +10683,24 @@
     },
     {
       "album": {
+        "name": "Like God Intended",
+        "url": "https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176837,
+      "name": "Like God Intended",
+      "url": "https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh"
+    },
+    {
+      "album": {
         "name": "Like I Love Country Music",
         "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
       },
@@ -10890,7 +11016,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 155160,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/4OqCBYBpBHkndBO2EeCvOb"
@@ -11360,7 +11486,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 252733,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy"
@@ -11422,6 +11548,24 @@
       "duration_ms": 187269,
       "name": "Mamaw's House",
       "url": "https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8"
+    },
+    {
+      "album": {
+        "name": "Man Downstairs",
+        "url": "https://open.spotify.com/album/3nBSeiODQ7GDrzjpuXT0NH"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154133,
+      "name": "Man Downstairs",
+      "url": "https://open.spotify.com/track/63jyN3zXtA4Du2rUqBR4MG"
     },
     {
       "album": {
@@ -15086,7 +15230,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 232718,
       "name": "Safe Place To Break",
       "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
@@ -16761,6 +16905,24 @@
     },
     {
       "album": {
+        "name": "Steel Town",
+        "url": "https://open.spotify.com/album/4GwGToAN52feKmW0VdRrZt"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199830,
+      "name": "Steel Town",
+      "url": "https://open.spotify.com/track/6jRRqFZkAYYuRXyLmoW0f1"
+    },
+    {
+      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55"
       },
@@ -17924,7 +18086,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 166983,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/4Sez6emXMIkW5CYtJvdFtK"

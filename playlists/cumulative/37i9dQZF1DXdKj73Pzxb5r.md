@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Boy Warongan & The Palmeiros
 
-490 songs - 1 day 7 hr 22 min
+491 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Doa Terima Kasih](https://open.spotify.com/track/1tZS5E6Ltac2knz4OUWLzh) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Doa Terima Kasih](https://open.spotify.com/album/3FNHfvgztF0EokCZW3goRu) | 3:50 | 2024-06-27 | 2025-02-21 |
 | [Don't Let It Slip Away](https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BLEU HOUSE](https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M) | [White Couch In The House](https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss) | 5:38 | 2024-07-11 | 2024-09-06 |
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-07-16 | 2024-12-06 |
+| [Don't You Say I'm in Love](https://open.spotify.com/track/2wExzqXugXYiquPFiQSpaO) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Don't You Say I'm in Love](https://open.spotify.com/album/2OlZzIkYsmzTRbNaxjH1Rt) | 3:50 | 2026-02-26 |  |
 | [Dont You Forget About Me](https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Sorry for Everything Goodbye Forever](https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI) | 4:25 | 2024-06-27 | 2024-07-19 |
 | [Dream Girl](https://open.spotify.com/track/2y990bGSyAdyoqflOOW0Ni) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Dream Girl](https://open.spotify.com/album/11K3wztTjLdOChvFITyvvy) | 2:58 | 2025-02-20 | 2025-06-13 |
 | [Dreamscape](https://open.spotify.com/track/7iQ5HEi9HHzlQTZHvF7lM2) | [Peonies](https://open.spotify.com/artist/7AwVFAfR7FOu8r4oZ8vwOp) | [Dreamscape](https://open.spotify.com/album/0dejROLfRMDRahNLvpB57E) | 4:28 | 2024-09-20 | 2025-01-03 |

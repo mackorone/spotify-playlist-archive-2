@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> JANAKI in cover della playlist dell'R&B italiano 🫀
+> Salomèe in cover della playlist dell'R&B italiano 🫀
 
-992 songs - 2 day 0 hr 57 min
+993 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Brixia](https://open.spotify.com/track/2Kgai7MbbCzZBd1sGuVQBf) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Brixia](https://open.spotify.com/album/7rE6eqxEz93zbs3PLRuvLB) | 3:10 | 2025-01-16 | 2025-06-27 |
 | [Brooklyn](https://open.spotify.com/track/31EmbdSqvWvBMZUFWySeC9) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Brooklyn](https://open.spotify.com/album/7hDr4TuhR0b4jBF9fEuzcd) | 2:42 | 2025-04-03 | 2025-11-14 |
 | [Bruciami](https://open.spotify.com/track/3FdKyrHYU1MQVoKhyaPuVH) | [PABA](https://open.spotify.com/artist/1FXgKZygyeJ7sgiBygQ6gP) | [Bruciami](https://open.spotify.com/album/0dHoTlUchft7epHmdGdQsm) | 2:41 | 2023-06-22 | 2023-07-21 |
+| [Brutto show](https://open.spotify.com/track/6qADo5jm9XZxWPh1IboHyH) | [Salomèe](https://open.spotify.com/artist/1KlD1JXtUV44n7tdzmiXit) | [BRUTTO SHOW](https://open.spotify.com/album/2RQeHCCDEx6kv8TAJdJjA1) | 2:44 | 2026-02-26 |  |
 | [Bugia](https://open.spotify.com/track/6Bw24711z7zzY57vlfRVrF) | [Stefano Pitasi](https://open.spotify.com/artist/0ozNQ8pTOdO2W2YBJpy9FD) | [Bugia](https://open.spotify.com/album/2fvBz6sntImVs5qGgNlsUq) | 2:54 | 2025-03-20 | 2025-06-13 |
 | [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 | 2024-01-18 | 2024-03-21 |
 | [Buio Mare \(feat\. Martina May & Kuban\)](https://open.spotify.com/track/2cq3MwF9tXyPzKiqixFCzC) | [MONIA](https://open.spotify.com/artist/0tkXc6TxpenV4sRjT1TiPo), [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Buio Mare \(feat\. Martina May & Kuban\)](https://open.spotify.com/album/5MYpreK3XmZp3EvBbMNKRT) | 3:35 | 2025-11-20 |  |

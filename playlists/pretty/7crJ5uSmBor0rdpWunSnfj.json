@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAEOV74oMDecbJEWnun8NsV4HTykAj",
+  "snapshot_id": "AAAAEZLbMEVDsefFMHXJtLRt+jD0J3f9",
   "tracks": [
     {
       "added_at": "2023-11-22 08:49:28",
@@ -199,6 +199,22 @@
       "duration_ms": 215560,
       "name": "Comin' Home",
       "url": "https://open.spotify.com/track/0aK0NO0XEApqsssSfmV88H"
+    },
+    {
+      "added_at": "2026-02-26 05:09:02",
+      "album": {
+        "name": "The Heart Goes to Heaven, The Head Goes to Hell",
+        "url": "https://open.spotify.com/album/4sXc1Um0c1BMee1T4T70G7"
+      },
+      "artists": [
+        {
+          "name": "That Handsome Devil",
+          "url": "https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "Charlie's Inferno",
+      "url": "https://open.spotify.com/track/6mjtuSfqwMmvtvocsgT8xu"
     }
   ],
   "unique_name": "Clawing For It",

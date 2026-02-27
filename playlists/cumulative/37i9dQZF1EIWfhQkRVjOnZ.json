@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 230533,
       "name": "A Call To The Faithful",
       "url": "https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 217253,
       "name": "Assistant To The Regional Manager",
       "url": "https://open.spotify.com/track/1ZS0Lgc8Esdg0Bf1JO6KF0"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 244786,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/46lrZpGWwCBPCqtlCzuCBx"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 190106,
       "name": "Confined",
       "url": "https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 252666,
       "name": "Convalescence",
       "url": "https://open.spotify.com/track/49ujOeGn9ErIbGIMNJZDsf"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 241440,
       "name": "Danger: Wildman",
       "url": "https://open.spotify.com/track/1okd0AdSAmPxGOb7z4jFB7"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 228920,
       "name": "DEMON(S)",
       "url": "https://open.spotify.com/track/6t1Bmjef4I067PKxd6CRlQ"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 295360,
       "name": "It's Myself Vs. Being A Man",
       "url": "https://open.spotify.com/track/4wsUqakU0XttKbHC7eMCZR"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 297173,
       "name": "Love Lost In A Hail Of Gun Fire",
       "url": "https://open.spotify.com/track/7gkoQwKoaiPWUs9bkrAWjq"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 85853,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/1RcdFNgUuKdFnuvt2ppD03"
@@ -3574,7 +3574,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 252973,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/360TKUCv2K4SywHYjUOxiF"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 242346,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/5VYcGJLKYHvrTD3MUzQkR6"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 211333,
       "name": "So Cold I Could See My Breath",
       "url": "https://open.spotify.com/track/6R3hFLF5jJC7ddCltVbgQz"
@@ -3898,7 +3898,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 256093,
       "name": "Strength in Numbers - Remastered",
       "url": "https://open.spotify.com/track/2hbdFPHthdlDjX5wt0bc3x"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/0kMwWzfhFVAiUFyTIPpLRy"
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "The Fear In Your Eyes",
       "url": "https://open.spotify.com/track/4QpMKLBnPPjU1KTq3usyTC"
@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 230400,
       "name": "The Seduction",
       "url": "https://open.spotify.com/track/4pVmA9mRD6FYrVQYhi8lEF"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
@@ -5248,7 +5248,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
@@ -5302,7 +5302,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 253826,
       "name": "You're Ever So Inviting",
       "url": "https://open.spotify.com/track/5rK0oa87GjgVTJ8bGcaape"

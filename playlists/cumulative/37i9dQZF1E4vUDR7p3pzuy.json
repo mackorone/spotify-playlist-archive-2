@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 209536,
       "name": "A song for the broken",
       "url": "https://open.spotify.com/track/0DMPMjuPkq7jfRuqpgNYXx"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 120754,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/4gpzZ49746dFN5gks3nA6E"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 206896,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/6zOTd6Pahvwas06vzXh3Dr"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 148239,
       "name": "Chasing Crows",
       "url": "https://open.spotify.com/track/1IBcjm6bxYn0SX8gzfiMmW"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 171284,
       "name": "Dance in the Dungeon",
       "url": "https://open.spotify.com/track/1djlouVTNO65GRUQ6kV44G"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 241972,
       "name": "Dark City",
       "url": "https://open.spotify.com/track/0Gp2X1eYk64a0pst7Vfuru"
@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4NNnqnCch1RxKs8fZ1TZiK"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/1Qbk7kyYVkfMzrMjvFSHyH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205250,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/6W6ktN80W3pwJ6AlD424xg"
+    },
+    {
+      "album": {
         "name": "Dirty Hard Beats (XXX)",
         "url": "https://open.spotify.com/album/2WNDvmuqXZn6vK4nwJJD7k"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 153000,
       "name": "Electron Echo",
       "url": "https://open.spotify.com/track/6J9sNFT4cgfHCw2s23L8nJ"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 137054,
       "name": "Fine & Dandy - Single Edit",
       "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 175982,
       "name": "HAIR KILLER",
       "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
@@ -3746,7 +3764,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -4768,7 +4786,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167830,
       "name": "no thank you",
       "url": "https://open.spotify.com/track/5DXHMz3iJWgw8MvfBoakze"
@@ -5154,7 +5172,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 105097,
       "name": "Poison Apples",
       "url": "https://open.spotify.com/track/7w8MZgEgwbalijZLrlCMK4"
@@ -5172,7 +5190,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 254117,
       "name": "Politics of Love",
       "url": "https://open.spotify.com/track/6WxM7FGGsL2CZvgZEXmGzw"
@@ -5878,7 +5896,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -6410,7 +6428,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 230164,
       "name": "Split Realities",
       "url": "https://open.spotify.com/track/0G7ro4Mul84jHShHCT9RJ2"
@@ -7187,6 +7205,24 @@
     },
     {
       "album": {
+        "name": "Don't Look Back (Radio Edit)",
+        "url": "https://open.spotify.com/album/7sAQSZ70a0ynetSd1wzJmd"
+      },
+      "artists": [
+        {
+          "name": "The Creeping Candies",
+          "url": "https://open.spotify.com/artist/1AO5x0L3ufgU1AgFFaNSrg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Things Have Changed - Radio Edit",
+      "url": "https://open.spotify.com/track/3SmreUsJpTRubF2f69Ub9y"
+    },
+    {
+      "album": {
         "name": "This Elegant Deal",
         "url": "https://open.spotify.com/album/4nh13tkfPRPTQcFrvD9nfn"
       },
@@ -7357,6 +7393,24 @@
     },
     {
       "album": {
+        "name": "To Nothing",
+        "url": "https://open.spotify.com/album/014766IfNR7l5ANwajU1CZ"
+      },
+      "artists": [
+        {
+          "name": "Harsh Language",
+          "url": "https://open.spotify.com/artist/49ubEC2uDCVzXu4X6BBu9s"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234717,
+      "name": "To Nothing",
+      "url": "https://open.spotify.com/track/65vk97TWbixyEpOPUJiIPa"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0dDlOkj4qPx4bhc5eoleLX"
       },
@@ -7386,7 +7440,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -7660,7 +7714,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -7802,7 +7856,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 175000,
       "name": "War in My Kitchen",
       "url": "https://open.spotify.com/track/1h0fxGZNkSKxOcM2ZgezTv"

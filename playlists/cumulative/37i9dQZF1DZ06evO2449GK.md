@@ -102,6 +102,6 @@
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/3vIsw56YkzZr2AmtP3Iz6i) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 4:00 | 2026-02-05 |  |
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2023-12-30 | 2026-02-05 |
 | [Una Resaca Mas](https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:58 | 2023-12-30 | 2026-02-24 |
-| [Una Resaca Mas](https://open.spotify.com/track/60LFqvmgxoncGyBFCLmw9u) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE) | 3:58 | 2026-02-25 | 2026-02-26 |
+| [Una Resaca Mas](https://open.spotify.com/track/60LFqvmgxoncGyBFCLmw9u) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE) | 3:58 | 2026-02-25 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

@@ -615,26 +615,6 @@
     {
       "added_at": "2026-01-12 14:01:02",
       "album": {
-        "name": "Meu Jeitinho",
-        "url": "https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db"
-      },
-      "artists": [
-        {
-          "name": "Lav\u00ednia",
-          "url": "https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Meu Jeitinho",
-      "url": "https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ"
-    },
-    {
-      "added_at": "2026-01-12 14:01:02",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/6lhd9FDNmM9ba9sqOAk6Ka"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 168225,
       "name": "Ain\u2019t Got No",
       "url": "https://open.spotify.com/track/4MUOuZNzV7OEv1dcCxbGn5"
+    },
+    {
+      "added_at": "2026-01-12 14:01:02",
+      "album": {
+        "name": "Meu Jeitinho",
+        "url": "https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db"
+      },
+      "artists": [
+        {
+          "name": "Lav\u00ednia",
+          "url": "https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Meu Jeitinho",
+      "url": "https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ"
     },
     {
       "added_at": "2026-01-12 14:01:02",

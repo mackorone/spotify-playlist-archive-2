@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Bokoesam & Bryan Mg",
+  "description": "Motion & good vibes! Cover: Kybba",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
@@ -5233,6 +5233,32 @@
     },
     {
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jerr",
+          "url": "https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158431,
+      "name": "Body2Body",
+      "url": "https://open.spotify.com/track/3laxByLYsXqPsOJydgbO2q"
+    },
+    {
+      "album": {
         "name": "Bombastic Side Eye",
         "url": "https://open.spotify.com/album/1Dn2loB5kPWXMgzKlMouwK"
       },
@@ -6773,6 +6799,32 @@
     },
     {
       "album": {
+        "name": "Chaser",
+        "url": "https://open.spotify.com/album/6KGP6il0q7m191ZPaGGzss"
+      },
+      "artists": [
+        {
+          "name": "SOUNDPLUG",
+          "url": "https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX"
+        },
+        {
+          "name": "Gwamz",
+          "url": "https://open.spotify.com/artist/5asNjXXCZBu2NfJDarWlRR"
+        },
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Chaser",
+      "url": "https://open.spotify.com/track/3YEGaf5uV9yo52wBdRiwOP"
+    },
+    {
+      "album": {
         "name": "Cheesecake",
         "url": "https://open.spotify.com/album/2Eafh6rgUTf1uNA4Z0mu3G"
       },
@@ -8194,7 +8246,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 162973,
       "name": "Dans",
       "url": "https://open.spotify.com/track/0OTujEGFH01lCNvARKmYDr"
@@ -9770,7 +9822,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 137083,
       "name": "Done",
       "url": "https://open.spotify.com/track/4vUJrd0JQ3CdLiBeHJUsvp"
@@ -9832,7 +9884,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 158709,
       "name": "Doorgaan",
       "url": "https://open.spotify.com/track/6i1dClWdhk2YOzMub46GIg"
@@ -10903,6 +10955,28 @@
     },
     {
       "album": {
+        "name": "Gemengde Gevoelens",
+        "url": "https://open.spotify.com/album/3CSe0pMc9mifZMIGnfnfzK"
+      },
+      "artists": [
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Falling 4 Ya",
+      "url": "https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel"
+    },
+    {
+      "album": {
         "name": "Faltona",
         "url": "https://open.spotify.com/album/2lPFLypGrNYcrW94hb6tZF"
       },
@@ -10960,6 +11034,28 @@
       "duration_ms": 151035,
       "name": "Fantasie (Moto Moto)",
       "url": "https://open.spotify.com/track/0CBVBurneEdNqgYifxu8Pd"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
     },
     {
       "album": {
@@ -12164,7 +12260,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 141250,
       "name": "Galactica",
       "url": "https://open.spotify.com/track/5AeIVEdsBHbJBpeaFrftxh"
@@ -12608,6 +12704,28 @@
       "duration_ms": 172800,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/74qMas7bU9KI0YnC9OYf4Q"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/5k67my16ec6cSLKsAxrCEM"
     },
     {
       "album": {
@@ -23565,6 +23683,40 @@
     },
     {
       "album": {
+        "name": "Nobody Body Remix",
+        "url": "https://open.spotify.com/album/11ruZOYd2w8mCz9a4ed7sE"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Giniio",
+          "url": "https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM"
+        },
+        {
+          "name": "Quina01",
+          "url": "https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        },
+        {
+          "name": "Bringhim",
+          "url": "https://open.spotify.com/artist/6MuiAYubYY3YXAc1LkBNpR"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237777,
+      "name": "Nobody Body Remix",
+      "url": "https://open.spotify.com/track/4MzBvMN0XC1RrhHitjeuXh"
+    },
+    {
+      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
       },
@@ -27826,7 +27978,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 170204,
       "name": "Rosalie",
       "url": "https://open.spotify.com/track/18mAaCStrNW0yUbMQW8hgD"
@@ -31977,6 +32129,32 @@
     },
     {
       "album": {
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
+    },
+    {
+      "album": {
         "name": "TONTON",
         "url": "https://open.spotify.com/album/2pFBPJDD4bxlGV3QrGKdLe"
       },
@@ -32788,7 +32966,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
@@ -34325,7 +34503,7 @@
     },
     {
       "album": {
-        "name": "Waist",
+        "name": "WAIST",
         "url": "https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd"
       },
       "artists": [
@@ -34338,7 +34516,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165625,
-      "name": "Waist",
+      "name": "WAIST",
       "url": "https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS"
     },
     {

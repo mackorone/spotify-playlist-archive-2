@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuran \u015fark\u0131lar.",
-  "num_followers": 287512,
+  "num_followers": 287503,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,6 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "Yerinde Dur",
-        "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "Demet Akal\u0131n",
-          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Yerinde Dur",
-      "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
         "name": "A\u015fiyan",
         "url": "https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 163888,
       "name": "A\u015fiyan",
       "url": "https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
+        "name": "Yerinde Dur",
+        "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Yerinde Dur",
+      "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
     },
     {
       "added_at": "2025-09-05 15:48:11",
@@ -351,22 +351,18 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "Yasemin",
-        "url": "https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ"
+        "name": "Mosmor Perde",
+        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
       },
       "artists": [
         {
-          "name": "Burak Bulut",
-          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
-        },
-        {
-          "name": "Serdar Orta\u00e7",
-          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Yasemin",
-      "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"
+      "duration_ms": 156774,
+      "name": "Mosmor Perde",
+      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
     },
     {
       "added_at": "2025-09-05 15:48:11",
@@ -387,18 +383,22 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "Mosmor Perde",
-        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
+        "name": "Yasemin",
+        "url": "https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ"
       },
       "artists": [
         {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
         }
       ],
-      "duration_ms": 156774,
-      "name": "Mosmor Perde",
-      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
+      "duration_ms": 186000,
+      "name": "Yasemin",
+      "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"
     },
     {
       "added_at": "2025-09-05 15:48:11",

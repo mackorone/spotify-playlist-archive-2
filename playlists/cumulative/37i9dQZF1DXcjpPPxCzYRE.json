@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 221837,
       "name": "4 de Febrero",
       "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195882,
       "name": "Amor del bueno",
       "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 123874,
       "name": "EL CORAZ\u00d3N MANDA",
       "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 229247,
       "name": "Entre quererte y no s\u00e9",
       "url": "https://open.spotify.com/track/15t5U7fSsetlfBP3tUaNBc"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 212660,
       "name": "Eterna Primavera",
       "url": "https://open.spotify.com/track/6YtxeABGxbtWYZ67oPq8f4"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 144744,
       "name": "Holy",
       "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 183217,
       "name": "Killing Time - Acoustic Version",
       "url": "https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL"
@@ -5179,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+    },
+    {
+      "album": {
         "name": "moments of glory",
         "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
       },
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 126115,
       "name": "moments of glory",
       "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
@@ -6449,6 +6467,32 @@
     },
     {
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
+    },
+    {
+      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
@@ -6630,7 +6674,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 190583,
       "name": "Pro Mundo Ouvir",
       "url": "https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ"
@@ -7950,7 +7994,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189000,
       "name": "Temblor - Acoustic",
       "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
@@ -8192,7 +8236,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
       "url": "https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu"
@@ -8518,6 +8562,24 @@
       "duration_ms": 177920,
       "name": "Un Cielo Azul",
       "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
+    },
+    {
+      "album": {
+        "name": "un desastre",
+        "url": "https://open.spotify.com/album/5VDZWoJyx2LhSWK8eqWOmu"
+      },
+      "artists": [
+        {
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167350,
+      "name": "un desastre",
+      "url": "https://open.spotify.com/track/1yp3NkKI8iQGv5Rs27aS8W"
     },
     {
       "album": {

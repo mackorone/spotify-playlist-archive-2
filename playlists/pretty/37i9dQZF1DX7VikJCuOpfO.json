@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Michelle Maciel \ud83d\udcf8",
-  "num_followers": 366790,
+  "num_followers": 366807,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Una Limosna",
-        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "Una Limosna",
-      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
         "name": "Bien, \u00bfy t\u00fa?",
         "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 180000,
       "name": "Bien, \u00bfy t\u00fa?",
       "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Una Limosna",
+        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "Una Limosna",
+      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Pagar\u00e9 Condena",
-        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
       },
       "artists": [
         {
-          "name": "Juan Pablo Tostado",
-          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 164960,
-      "name": "Pagar\u00e9 Condena",
-      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Cuando Yo Quiera Has De Volver",
-        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+        "name": "Pagar\u00e9 Condena",
+        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "Juan Pablo Tostado",
+          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
         }
       ],
-      "duration_ms": 212126,
-      "name": "Cuando Yo Quiera Has De Volver",
-      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+      "duration_ms": 164960,
+      "name": "Pagar\u00e9 Condena",
+      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
         "name": "Ebrio de Amor",
         "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 204850,
       "name": "Bailando De A Cart\u00f3n",
       "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
+        "name": "Costumbres",
+        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 259144,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
         "name": "Veracruz",
         "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 310500,
       "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
       "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 259144,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "As\u00ed Son Las Cosas",
-        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 171529,
-      "name": "As\u00ed Son Las Cosas",
-      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/2Ml3uMdJW2Dzub5GkfTSUp"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 168493,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/7pVzMxG8AWgqZAbltLxjGB"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "As\u00ed Son Las Cosas",
+        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 171529,
+      "name": "As\u00ed Son Las Cosas",
+      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Despecho Puro (En Vivo)",
-        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
-      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
         "name": "Playa Sola",
         "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 164460,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Despecho Puro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
+      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2026-02-20 06:00:35",

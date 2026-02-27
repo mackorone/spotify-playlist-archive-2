@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: 阿蘭 AC
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,615 likes - 36 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,617 likes - 36 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [失望](https://open.spotify.com/track/3cUREh7XUvZ62mRVEjIsn7) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [都是自己拿來的](https://open.spotify.com/album/52p2QaT9aJ0ozKRbZkkB4k) | 3:51 |
 | 36 | [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 |
 
-Snapshot ID: `AAAAADKfStkcUV26e6WhSUpYtqIsdY3J`
+Snapshot ID: `AAAAACRFs9VNKtpxvBCAbZLhuDrURnJF`

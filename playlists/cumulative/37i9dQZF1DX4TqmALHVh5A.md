@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : THÉA
+> La scène française branchée sur courant alternatif\. Photo : miki
 
-436 songs - 22 hr 58 min
+438 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [CLAIRIÈRE](https://open.spotify.com/track/2oMkFzQlvWaJBYjJPcHiMU) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [CLAIRIÈRE](https://open.spotify.com/album/089lVl2UqcXFCc6Xy87WCP) | 2:49 | 2024-03-28 | 2024-05-03 |
 | [Clover Paradise](https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Clover Paradise](https://open.spotify.com/album/2suW4wxHSdhU0uK4gGuMui) | 5:09 | 2024-09-05 | 2025-02-21 |
 | [COLLÉ SERRÉ](https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy) | [BRIQUE ARGENT](https://open.spotify.com/artist/6oEiRjlcIxYaZvnjlMiYLw) | [COLLÉ SERRÉ](https://open.spotify.com/album/1qRHnXgeDKChBP6iu16FQF) | 3:07 | 2023-09-28 | 2023-11-17 |
+| [Comme des hyènes](https://open.spotify.com/track/3DVvnkok2V9fHs7IJr5glQ) | [Belfour](https://open.spotify.com/artist/0Dqz4WMcjzUzvkLOauuMqN) | [Comme des hyènes](https://open.spotify.com/album/7gyRUNtOcs0LnDlVZRI96P) | 3:23 | 2026-02-26 |  |
 | [Comme tout le monde](https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Comme tout le monde](https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS) | 2:39 | 2024-05-02 | 2025-01-24 |
 | [Comme Un Animal](https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Comme Un Animal](https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd) | 3:05 | 2024-04-18 | 2024-10-18 |
 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 | 2024-04-12 |
@@ -276,7 +277,7 @@
 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 | 2023-11-02 | 2024-03-29 |
 | [N.I.O\. \(New Information Order\)](https://open.spotify.com/track/6jnFRht548xiPuQFznKips) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [New Information Order](https://open.spotify.com/album/6bDpiFnOispMLbo3U5w1bG) | 4:10 | 2024-10-24 | 2024-11-08 |
 | [Nana](https://open.spotify.com/track/0SZQ1yYJCgS3P7ivXysJuO) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [Nana](https://open.spotify.com/album/3G0xHh4EF9Ncfvf1754HiG) | 2:46 | 2025-05-15 | 2025-10-03 |
-| [Naïf de Coeur](https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Naïf de Coeur](https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r) | 4:47 | 2025-11-27 |  |
+| [Naïf de Coeur](https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Naïf de Coeur](https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r) | 4:47 | 2025-11-27 | 2026-02-27 |
 | [ne croquez pas cette pomme](https://open.spotify.com/track/1ghb1yDkwk3Jah3xnaOEtm) | [Adieu Salvatore](https://open.spotify.com/artist/4qIhDVc6BugjA7w4vscA9y), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [L'AMOUR](https://open.spotify.com/album/4j9w6qqk8IbTSIWIi8P5fp) | 2:36 | 2024-12-05 | 2025-04-25 |
 | [ne pas regarder en bas](https://open.spotify.com/track/4aZjNBd7e3HI6w3kkHwGEA) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [ne pas regarder en bas](https://open.spotify.com/album/4j9nAsPRUp5HQfexdBKN97) | 2:52 | 2025-04-10 | 2025-09-19 |
 | [Ne T'En Fais Pas Pour Elle](https://open.spotify.com/track/339AZu1ohdLOfABPMevryC) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Ne T'En Fais Pas Pour Elle](https://open.spotify.com/album/6Nfy2yDPAVkyMBRNaXRRcH) | 2:55 | 2025-11-13 | 2026-01-16 |
@@ -367,10 +368,11 @@
 | [si tu veux on va voir la mer](https://open.spotify.com/track/50oYuuu1dN4Ld47YkO6SVP) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [si tu veux on va voir la mer](https://open.spotify.com/album/165OtpCQM1BgC6TPnaiMQx) | 2:32 | 2025-07-10 | 2025-10-24 |
 | [Side Story](https://open.spotify.com/track/0xsFtIwmGpPT2CG8NBTPSS) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Side Story](https://open.spotify.com/album/5nLDMPMkZGqvU8MlmqC2LZ) | 2:45 | 2025-04-24 | 2025-09-26 |
 | [silence](https://open.spotify.com/track/5yVrLyZgKW1n3EBnDA6HIx) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [silence / Inner Peace](https://open.spotify.com/album/7MpVARok1Vah01ndl4Wj3e) | 3:33 | 2025-01-16 | 2025-05-23 |
+| [Silencieux](https://open.spotify.com/track/39KQPpuNyoNVM97LOizaxm) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l) | [JOYBOY](https://open.spotify.com/album/07WovYq28qEgFfshFH42Xh) | 2:56 | 2026-02-26 |  |
 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 | 2024-02-01 | 2024-06-07 |
 | [sortir faire la fête](https://open.spotify.com/track/4sr9TyrHO5XTnbqs0V51qn) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [si t'essayais d'être heureux ?](https://open.spotify.com/album/0JAuF1R6ZwlprcI5fnEnXc) | 2:00 | 2026-01-23 |  |
 | [Sosies](https://open.spotify.com/track/0AlhIiLhWYMQXuBzdgqG3V) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Le Mal Partout](https://open.spotify.com/album/25jxcQ585QFuTIppDu6S3D) | 2:06 | 2024-01-26 | 2024-03-15 |
-| [Soucis dans la tête](https://open.spotify.com/track/14diKmKKPZS0PI24p8HOKM) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [Prolétaire](https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV) | 2:07 | 2025-11-27 |  |
+| [Soucis dans la tête](https://open.spotify.com/track/14diKmKKPZS0PI24p8HOKM) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [Prolétaire](https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV) | 2:07 | 2025-11-27 | 2026-02-27 |
 | [Sourire à la mort](https://open.spotify.com/track/02qD17m6YN4UG20x7SgcSf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA), [ZZERO](https://open.spotify.com/artist/2TSyPh1tPtbFXauzwu7Kq0), [Puff Natas](https://open.spotify.com/artist/2FKH5WgOBz0RfFbyeLMnQ8) | [Sourire à la mort](https://open.spotify.com/album/4A8Jq1S03D05RdSlRzTyZ8) | 3:08 | 2024-04-25 | 2025-01-17 |
 | [Sous l'orage](https://open.spotify.com/track/47mWFxsuplk9J8Ia1l0oaZ) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [Sous l'orage](https://open.spotify.com/album/43sLf9uog1cBNQxpTKmNIL) | 2:49 | 2025-02-27 | 2025-06-06 |
 | [Soustraction](https://open.spotify.com/track/6puJaBG3ECZSMWuICFDGIX) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [ADDITION / SOUSTRACTION](https://open.spotify.com/album/3rewEAyDU74VfTIqSmTBWk) | 4:00 | 2024-03-14 | 2024-05-17 |

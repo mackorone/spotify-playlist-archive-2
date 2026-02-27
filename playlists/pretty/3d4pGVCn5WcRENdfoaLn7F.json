@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 518,
+  "num_followers": 522,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACzT8maWjkV/dXpojYn0oChebMGpz0",
+  "snapshot_id": "AAAC0O4YFtcp8PMNk08l7teVYvMt51vF",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -983,6 +983,54 @@
       "duration_ms": 229833,
       "name": "Dark Echoes",
       "url": "https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK"
+    },
+    {
+      "added_at": "2026-02-26 15:47:43",
+      "album": {
+        "name": "EQUINOCCIO",
+        "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
+      },
+      "artists": [
+        {
+          "name": "Rodeo Manhattan",
+          "url": "https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "No Queda Mas",
+      "url": "https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy"
+    },
+    {
+      "added_at": "2026-02-26 15:56:06",
+      "album": {
+        "name": "Consumer Unit",
+        "url": "https://open.spotify.com/album/0bBXbmdNWYauccx4abtnGU"
+      },
+      "artists": [
+        {
+          "name": "Captain Side Eye",
+          "url": "https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Consumer Unit",
+      "url": "https://open.spotify.com/track/2O7KnLBqPako9l0JfkwGEp"
+    },
+    {
+      "added_at": "2026-02-26 15:58:43",
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO"
+      },
+      "artists": [
+        {
+          "name": "Sean Blu",
+          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
+        }
+      ],
+      "duration_ms": 165651,
+      "name": "Fool Me Once",
+      "url": "https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

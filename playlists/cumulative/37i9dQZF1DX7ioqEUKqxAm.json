@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "\u6b21\u4e16\u4ee3\u306e\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u3092\u62c5\u3046\u65b0\u9032\u6c17\u92ed\u306e\u30af\u30ea\u30a8\u30a4\u30bf\u30fc4\u7d44\u3092\u7279\u96c6 (cover: \u30c8\u30ad\u30c8\u30b1\u30c8\u30fc\u30af)",
+  "description": "\u6b21\u4e16\u4ee3\u306e\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u3092\u62c5\u3046\u65b0\u9032\u6c17\u92ed\u306e\u30af\u30ea\u30a8\u30a4\u30bf\u30fc4\u7d44\u3092\u7279\u96c6 (cover: \u5c71\u7530\u7531\u68a8\u306e\u7720\u308c\u306a\u3044\u306a\u3089\u8336\u3092\u306e\u3093\u3067)",
   "name": "RADAR: Podcasters 2026",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 2113254,
       "name": "#25\u3010\u30c0\u30a6\u84ee\u898b\u00d7\u30e9\u30e9\u30f3\u30c9\u30cb\u30b7\u30c0\u3011\u3067\u304d\u306a\u3044\u30ad\u30e3\u30e9\u3068\u30d7\u30e9\u30a4\u30c9\u306e\u305b\u3081\u304e\u5408\u3044",
       "url": "https://open.spotify.com/episode/4WI1246dJ9jixLYFAhSGCX"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 2102125,
       "name": "#29 \u30e9\u30c3\u30d7\u30d0\u30c8\u30eb\u306b\u6311\u6226\u3057\u3066\u304d\u305f\u30d4\u30fc\u30ca\u30c3\u30c4\u304f\u3093",
       "url": "https://open.spotify.com/episode/1Med8WPLsbjjjV8yOOyOEo"
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "\u307d\u3053\u30d4\u30fc\u306e\u3086\u3081\u3046\u3064\u3064",
+        "url": "https://open.spotify.com/album/315rSWYLluySzZ23ubctEZ"
+      },
+      "artists": [
+        {
+          "name": "\u307d\u3053\u30d4\u30fc\u306e\u3086\u3081\u3046\u3064\u3064",
+          "url": "https://open.spotify.com/show/315rSWYLluySzZ23ubctEZ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2055546,
+      "name": "#44 \u65b0\u5e79\u7dda\u3067\u96a3\u306e\u4eba\u304c\u30ad\u30e0\u30c1\u3092\u98df\u3079\u3060\u3057\u305f",
+      "url": "https://open.spotify.com/episode/24Ak5khmyAgyPxG1DTCYPR"
+    },
+    {
+      "album": {
         "name": "\u30aa\u30c8\u30b3\u306e\u5b50\u80b2\u3066\u3088\u3082\u3082\u3084\u307e\u3070\u306a\u3057",
         "url": "https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g"
       },
@@ -470,6 +488,24 @@
       "duration_ms": 2052648,
       "name": "#48 \u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3068\u30a2\u30c6\u30f3\u30b7\u30e7\u30f3\u3092\u3081\u3050\u308b\u5ea7\u8ac7 w/\u30ef\u30c3\u30b3",
       "url": "https://open.spotify.com/episode/2mUqDLkUOjnclArAkzpF0P"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30ad\u30c8\u30b1\u30c8\u30fc\u30af",
+        "url": "https://open.spotify.com/album/0HElb0ko3duIHrLzoOFBvo"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30ad\u30c8\u30b1\u30c8\u30fc\u30af",
+          "url": "https://open.spotify.com/show/0HElb0ko3duIHrLzoOFBvo"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2551667,
+      "name": "#49\u3010\u30c0\u30a6\u84ee\u898b\u00d7\u5927\u5cf6\u80b2\u5b99\u3011\u30b3\u30f3\u30c6\u30f3\u30c4\u98fd\u548c\u6642\u4ee3\u306e\u611f\u60f3\u306e\u96e3\u3057\u3055",
+      "url": "https://open.spotify.com/episode/5Ilzgx9d1KG9EXK87oZ8jk"
     },
     {
       "album": {
@@ -664,7 +700,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 2655869,
       "name": "EP26.\u4eba\u6a29\u306e\u8a71\u3057\u3088\ud83e\udd1d",
       "url": "https://open.spotify.com/episode/2GqoOuRBi0f027pFE5SLPp"
@@ -704,6 +740,24 @@
       "duration_ms": 2847451,
       "name": "EP30.\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u738b\u3078\u306e\u9053\ud83d\udc51(\u30b2\u30b9\u30c8\uff1a\u77f3\u5c71\u84ee\u83ef\u3055\u3093)",
       "url": "https://open.spotify.com/episode/2yBbxb740PEuE7F8anrAVF"
+    },
+    {
+      "album": {
+        "name": "\u5c71\u7530\u7531\u68a8\u306e\u7720\u308c\u306a\u3044\u306a\u3089\u8336\u3092\u306e\u3093\u3067",
+        "url": "https://open.spotify.com/album/63etPExLjrbEZjXI7ut6mt"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u7530\u7531\u68a8\u306e\u7720\u308c\u306a\u3044\u306a\u3089\u8336\u3092\u306e\u3093\u3067",
+          "url": "https://open.spotify.com/show/63etPExLjrbEZjXI7ut6mt"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000382,
+      "name": "EP34.30\u4ee3\u306e\u808c\u3001\u305d\u3057\u3066\u7269\u4f5c\u308a\ud83d\ude42\u200d\u2195\ufe0f(\u30b2\u30b9\u30c8\uff1aharu.)",
+      "url": "https://open.spotify.com/episode/4TL9Vu3LFurnobxIKsYRVH"
     },
     {
       "album": {

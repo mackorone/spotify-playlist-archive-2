@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: KUOKO",
+  "description": "New music off the beaten track. Cover: Ang\u00e8le, Justice",
   "name": "OFF POP",
   "tracks": [
     {
@@ -11648,7 +11648,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
@@ -12190,6 +12190,28 @@
       "duration_ms": 187584,
       "name": "iinsects",
       "url": "https://open.spotify.com/track/5xO5Tkm7A12LDYab6PmIM8"
+    },
+    {
+      "album": {
+        "name": "Illegal + Four Tet",
+        "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Illegal + Four Tet",
+      "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
     },
     {
       "album": {
@@ -18378,7 +18400,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164227,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess"
@@ -21464,7 +21486,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 224300,
       "name": "Sexistential - Arca\u2019s Take",
       "url": "https://open.spotify.com/track/6EqCdqx5oY3J9PUsq54AMp"
@@ -22996,7 +23018,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 230312,
       "name": "Start/Stop/Rewind - David Bay Remix",
       "url": "https://open.spotify.com/track/7HoW3RLJQ0ipyLyyifm40D"
@@ -23670,6 +23692,28 @@
       "duration_ms": 147497,
       "name": "Sunshine After Rain",
       "url": "https://open.spotify.com/track/7Cz7380pHAT02HQGSeeibY"
+    },
+    {
+      "album": {
+        "name": "The Cocktail Hour",
+        "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
+      },
+      "artists": [
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Supercolor (feat. CECI)",
+      "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
     },
     {
       "album": {
@@ -26359,6 +26403,24 @@
     },
     {
       "album": {
+        "name": "Uncomfortable",
+        "url": "https://open.spotify.com/album/2TyyA3oJlayDtyZf8cQfo9"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195661,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/5qAwZr4jOrI0SueP421ivO"
+    },
+    {
+      "album": {
         "name": "Under The Light (Cut Copy Remix)",
         "url": "https://open.spotify.com/album/6ahvgtYtPtSjSRR9bmmLPC"
       },
@@ -27792,6 +27854,28 @@
       "duration_ms": 178586,
       "name": "what would i give",
       "url": "https://open.spotify.com/track/5nalxn6TBuHgo53VGBux9F"
+    },
+    {
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
     },
     {
       "album": {

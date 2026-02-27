@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,290 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,348 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 28 | [If I Ever Feel Better](https://open.spotify.com/track/1Rcv4ZShoftlDh5dZ3JUVf) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [If I Ever Feel Better](https://open.spotify.com/album/0LCOGmBBXonkoUQyoH7w0j) | 3:42 |
 | 29 | [I <3 U SO](https://open.spotify.com/track/1mizZEavK16AN2Jo4mG93O) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/3wnLAWP3OtHM8aKRdGcMSc) | 3:42 |
 | 30 | [Poison Lips](https://open.spotify.com/track/3zf7uD8ClQ2TXGMZlXISup) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Flashmob](https://open.spotify.com/album/4yUXPQs1dQpMw6GmHYsx3N) | 3:54 |
-| 31 | [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 3:55 |
+| 31 | [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 3:55 |
 | 32 | [Pocket Piano](https://open.spotify.com/track/6XFzZqAuJKpbPvU2IFBvxK) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5Eqtp8axXrFe0R4VU8yPWm) | 4:33 |
 | 33 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
 | 34 | [Walkman](https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Ross Ross Ross](https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv) | 4:59 |
-| 35 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
+| 35 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
 | 36 | [The Beat Goes On](https://open.spotify.com/track/4tClmTsIP0y4VVkkflKGIj) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [III](https://open.spotify.com/album/4N0w6QcQRd6jCTDCX23SoF) | 2:59 |
 | 37 | [Venus \(Sunshine People\) \[DJ Gregory Remix\]](https://open.spotify.com/track/3xUHVU3Cfqfs5I7tECQt2g) | [Cheek](https://open.spotify.com/artist/5QIYgDc1bwHkXS00viPLyC) | [Venus \(sunshine people\)](https://open.spotify.com/album/415kVuJ4SOCGDaLrE73yuQ) | 4:56 |
 | 38 | [Tonight](https://open.spotify.com/track/2xHFrZUKjKtDBOR3NPKGks) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight](https://open.spotify.com/album/22qL6wSWqQxmYw1xhXdkFL) | 4:13 |
 | 39 | [The Sound of Violence](https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Au Rêve \(Deluxe Edition\)](https://open.spotify.com/album/5At8zb3djitRXkrKQ8Wo97) | 7:13 |
 | 40 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/5UJS6tW0EvYT1lsPOb07Jc) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/26ac4Qu0zXl9S5qP4vV0Rk) | 3:57 |
 | 41 | [In Love With You](https://open.spotify.com/track/2MciXM60hrG1cz5DE7ZWzK) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ) | [In Love With You \- Single](https://open.spotify.com/album/1tYPQUdo3Sxv21ILqO8gDJ) | 4:14 |
-| 42 | [Smile \(feat\. Alex Gopher & Asher Roth\) \- Vocal Mix](https://open.spotify.com/track/4SpXkrjuPnyErjE504cnFE) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(feat\. Alex Gopher & Asher Roth\) \[Vocal Mix\]](https://open.spotify.com/album/2cjuifDt6OjHxPj3NINWje) | 3:26 |
+| 42 | [Smile \(feat\. Alex Gopher & Asher Roth\) \- Vocal Mix](https://open.spotify.com/track/4SpXkrjuPnyErjE504cnFE) | [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(feat\. Alex Gopher & Asher Roth\) \[Vocal Mix\]](https://open.spotify.com/album/2cjuifDt6OjHxPj3NINWje) | 3:26 |
 | 43 | [Adore](https://open.spotify.com/track/5z44PxNBSF4Bd50jE5K6Mb) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 7:02 |
 | 44 | [The Child \- Radio Edit](https://open.spotify.com/track/137Ve8N4t05BGoL1JiObsi) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [The Child](https://open.spotify.com/album/5xSSe8xbmsaTbcTbVul1Mq) | 3:40 |
 | 45 | [In Your Arms \(We Gonna Make It\)](https://open.spotify.com/track/3rZdigkSi1XFgyNCWJ0sVd) | [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim) | [Strange Attitude \(Special Edition\)](https://open.spotify.com/album/7nZuvoy22KyZweKBwJpXvY) | 4:21 |

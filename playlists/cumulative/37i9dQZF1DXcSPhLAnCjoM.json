@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Dis-moi oui\" de SANTA est le Grand Hit de la semaine.  ",
+  "description": "\"Quand m\u00eame\" de M. Pokora est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -952,7 +952,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 160573,
       "name": "Coeur maladroit",
       "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173887,
       "name": "HORS DU TEMPS",
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
@@ -3194,6 +3194,24 @@
       "duration_ms": 192320,
       "name": "Le chemin (L\u00e9nie & Pierre)",
       "url": "https://open.spotify.com/track/6QSNzAdn3lJeYtO3qynUUR"
+    },
+    {
+      "album": {
+        "name": "Vivre... Encore",
+        "url": "https://open.spotify.com/album/0WgiE58DiPwPyAfn8uKMHi"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/7ysVNnjg2Grayml3fkh7u3"
     },
     {
       "album": {
@@ -5180,6 +5198,24 @@
       "duration_ms": 169578,
       "name": "Sinc\u00e8re",
       "url": "https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU"
+    },
+    {
+      "album": {
+        "name": "Soir\u00e9e mondaine",
+        "url": "https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m"
+      },
+      "artists": [
+        {
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Soir\u00e9e mondaine",
+      "url": "https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn"
     },
     {
       "album": {

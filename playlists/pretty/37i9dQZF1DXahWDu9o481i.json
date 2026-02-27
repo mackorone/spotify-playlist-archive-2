@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: waterbaby",
-  "num_followers": 70939,
+  "num_followers": 71017,
   "original_name": "Editors' Picks: Best Songs of January",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "BACKWARD",
         "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 166687,
       "name": "THEMSELVES",
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Death Wish",
-        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Fara",
         "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 182472,
       "name": "Fara",
       "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
+        "name": "GOLDSTAR",
+        "url": "https://open.spotify.com/album/3WgNg4UjdpwWWyNQtjwZTY"
+      },
+      "artists": [
+        {
+          "name": "The Sophs",
+          "url": "https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE"
+        }
+      ],
+      "duration_ms": 199054,
+      "name": "GOLDSTAR",
+      "url": "https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
         "name": "Drag",
         "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 260978,
       "name": "Smoke Screen",
       "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
-        "name": "GOLDSTAR",
-        "url": "https://open.spotify.com/album/3WgNg4UjdpwWWyNQtjwZTY"
-      },
-      "artists": [
-        {
-          "name": "The Sophs",
-          "url": "https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE"
-        }
-      ],
-      "duration_ms": 199054,
-      "name": "GOLDSTAR",
-      "url": "https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2"
     },
     {
       "added_at": "2026-02-04 14:20:34",

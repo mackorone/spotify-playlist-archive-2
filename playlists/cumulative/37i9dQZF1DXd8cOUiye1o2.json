@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Fresh from the recording to your ears. Latest Hindi music, right here.  Cover - Battle of Galwan",
+  "description": "Volume badhaao because 'Ram Ji Aake Bhala Karenge' is out from Bhooth Bangla.",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -342,6 +342,32 @@
       "duration_ms": 251919,
       "name": "Aap Is Dhoop Mein - From \"Gustaakh Ishq\"",
       "url": "https://open.spotify.com/track/0XFZbeXmPQoMcoFZWkKxcT"
+    },
+    {
+      "album": {
+        "name": "Parvana",
+        "url": "https://open.spotify.com/album/5haaCvmWOSBI362b3NRdZk"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403580,
+      "name": "Aashiqana",
+      "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy"
     },
     {
       "album": {
@@ -7308,7 +7334,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 264966,
       "name": "Kya Baat Hai",
       "url": "https://open.spotify.com/track/0tZzXy5k8CqtLJBbggULOO"
@@ -10527,6 +10553,36 @@
     },
     {
       "album": {
+        "name": "Ram Ji Aake Bhala Karenge (From \"Bhooth Bangla\")",
+        "url": "https://open.spotify.com/album/5Ht9mM4fiMphsDAKPkmlQE"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Dev Arijit",
+          "url": "https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "Ram Ji Aake Bhala Karenge - From \"Bhooth Bangla\"",
+      "url": "https://open.spotify.com/track/76amTizokuA7JolW7aAZ16"
+    },
+    {
+      "album": {
         "name": "Ranjhe Nu Heer (From the Movie \"Kis Kisko Pyaar Karoon 2\")",
         "url": "https://open.spotify.com/album/5lBl2cPYPKySfJTXA1XH9j"
       },
@@ -10670,7 +10726,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 155294,
       "name": "Rico Rico",
       "url": "https://open.spotify.com/track/64IyyLn8ioAEBgXSIz7EVv"

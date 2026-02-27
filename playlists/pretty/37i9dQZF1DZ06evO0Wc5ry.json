@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 166853,
+  "num_followers": 166864,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAC7LvN3Wb+AC/a0I582xb+Y",
+  "snapshot_id": "aZ47gAAAAAAEjJly6theS4t4Vr96IVAG",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
       },
       "artists": [
         {
@@ -668,17 +668,13 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "Scar",
-          "url": "https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
         }
       ],
-      "duration_ms": 264400,
-      "name": "Morris Brown (feat. Scar & Sleepy Brown)",
-      "url": "https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1"
+      "duration_ms": 260284,
+      "name": "In Due Time (with Cee-Lo)",
+      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
     },
     {
       "added_at": null,
@@ -703,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
       },
       "artists": [
         {
@@ -712,13 +708,17 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+          "name": "Scar",
+          "url": "https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
         }
       ],
-      "duration_ms": 260284,
-      "name": "In Due Time (with Cee-Lo)",
-      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
+      "duration_ms": 264400,
+      "name": "Morris Brown (feat. Scar & Sleepy Brown)",
+      "url": "https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
-      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Boi & Dre Present...OutKast",
         "url": "https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 274013,
       "name": "Funkin' Around",
       "url": "https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 304059,
-      "name": "Speedballin'",
-      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
     },
     {
       "added_at": null,
@@ -826,19 +794,27 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 323000,
-      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
+      "duration_ms": 204160,
+      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
+      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stankonia (25th Anniversary)",
+        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 304059,
+      "name": "Speedballin'",
+      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
     },
     {
       "added_at": null,
@@ -871,6 +847,30 @@
       "duration_ms": 288293,
       "name": "Trans DF Express (feat. Cee-Lo, Outkast, Big Gipp & Backbone) - Club Mix",
       "url": "https://open.spotify.com/track/14W0RdvOB36Hcu2gvTgXrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
     },
     {
       "added_at": null,

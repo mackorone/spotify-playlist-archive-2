@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/1UQDjhNSUJq1Qt02fdXzN3"
+    },
+    {
+      "album": {
         "name": "BUZZKILL",
         "url": "https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE"
       },

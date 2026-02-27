@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008,318 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008,291 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 63 | [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 |
 | 64 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 |
 | 65 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 |
-| 66 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 |
-| 67 | [Mukiwa](https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mukiwa](https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo) | 4:18 |
+| 66 | [Mukiwa](https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mukiwa](https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo) | 4:18 |
+| 67 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 |
 | 68 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 |
 | 69 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 |
 | 70 | [Big Jet Plane](https://open.spotify.com/track/1AcpKqom3BJtk24rd6CP3A) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Duke Chaine](https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt), [blakke](https://open.spotify.com/artist/1ZsbGfIYCahTeY9RyejokW) | [Big Jet Plane](https://open.spotify.com/album/6ejYy9egIKbzME90xHySOL) | 2:07 |
@@ -82,18 +82,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 72 | [Distance](https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn) | [Dreweybear](https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM) | [Distance](https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9) | 3:49 |
 | 73 | [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 |
 | 74 | [Your Light](https://open.spotify.com/track/15zgTTprtCpllRcMPUWG4f) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Your Light](https://open.spotify.com/album/6HZj6UYuBMmQFnj3Al8z6v) | 2:42 |
-| 75 | [Missing You](https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Missing You](https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP) | 2:28 |
-| 76 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 |
-| 77 | [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 |
-| 78 | [Atogo](https://open.spotify.com/track/6LzUulc4VJhyu9IRfSIA8B) | [Pedro Amblar](https://open.spotify.com/artist/4X2KYm3AxSmnslRkjs0A22) | [Atogo](https://open.spotify.com/album/0WTOz1D16ucAlVwYrzMFGu) | 2:49 |
+| 75 | [Atogo](https://open.spotify.com/track/6LzUulc4VJhyu9IRfSIA8B) | [Pedro Amblar](https://open.spotify.com/artist/4X2KYm3AxSmnslRkjs0A22) | [Atogo](https://open.spotify.com/album/0WTOz1D16ucAlVwYrzMFGu) | 2:49 |
+| 76 | [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 |
+| 77 | [Missing You](https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Missing You](https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP) | 2:28 |
+| 78 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 |
 | 79 | [As Long As You Love Me](https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [As Long As You Love Me](https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m) | 2:38 |
-| 80 | [Sun Goes Down](https://open.spotify.com/track/0J8wOtwMFkHrSYqPv28Irw) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Sun Goes Down](https://open.spotify.com/album/3LZ18ndeOi2BU2ZTZNXZya) | 2:28 |
-| 81 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 |
-| 82 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 |
-| 83 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 |
-| 84 | [Further](https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Further](https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt) | 5:18 |
-| 85 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
-| 86 | [Imotski](https://open.spotify.com/track/6jxHr45dbSbKuGin1pHNbp) | [M.O.S.](https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR) | [Imotski](https://open.spotify.com/album/5PzM6KWTgaekJTnQ7x2rTk) | 7:33 |
+| 80 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 |
+| 81 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 |
+| 82 | [Sun Goes Down](https://open.spotify.com/track/0J8wOtwMFkHrSYqPv28Irw) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Sun Goes Down](https://open.spotify.com/album/3LZ18ndeOi2BU2ZTZNXZya) | 2:28 |
+| 83 | [Further](https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Further](https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt) | 5:18 |
+| 84 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 |
+| 85 | [Imotski](https://open.spotify.com/track/6jxHr45dbSbKuGin1pHNbp) | [M.O.S.](https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR) | [Imotski](https://open.spotify.com/album/5PzM6KWTgaekJTnQ7x2rTk) | 7:33 |
+| 86 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
 | 87 | [Player](https://open.spotify.com/track/4sHGQLz3wAengeEOncVzBB) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Player](https://open.spotify.com/album/558JaPHhCYap28lBWhyS7A) | 3:03 |
 | 88 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 |
 | 89 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 93 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 |
 | 94 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 |
 | 95 | [Let the Kids Play](https://open.spotify.com/track/5hH8EqncZlJc60QrImkJXW) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Let the Kids Play](https://open.spotify.com/album/4QshFT2fLj004RTZjDRCWr) | 3:52 |
-| 96 | [Serene](https://open.spotify.com/track/4cBshIyiiAzbl61Ij0FjHD) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Serene](https://open.spotify.com/album/3yRGknNxEatUwMpSCSwG2C) | 2:54 |
-| 97 | [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 |
-| 98 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 |
+| 96 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 |
+| 97 | [Serene](https://open.spotify.com/track/4cBshIyiiAzbl61Ij0FjHD) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Serene](https://open.spotify.com/album/3yRGknNxEatUwMpSCSwG2C) | 2:54 |
+| 98 | [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 |
 | 99 | [Never Thought](https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Never Thought](https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st) | 6:34 |
 | 100 | [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 |
 

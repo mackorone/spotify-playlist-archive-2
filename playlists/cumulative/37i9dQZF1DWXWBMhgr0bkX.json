@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Homegrown emerging pop! Cover: Absolutely",
+  "description": "Homegrown emerging pop! Cover: Erin LeCount",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 192662,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2"
@@ -470,6 +470,24 @@
       "duration_ms": 199173,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
+    },
+    {
+      "album": {
+        "name": "ALICE",
+        "url": "https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279488,
+      "name": "ALICE",
+      "url": "https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7"
     },
     {
       "album": {
@@ -772,7 +790,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 206350,
       "name": "Am I A Dreamer",
       "url": "https://open.spotify.com/track/39cvcPijx9ZG8ymIZ7IdBX"
@@ -1295,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "back to you!",
+        "url": "https://open.spotify.com/album/5p1hvw0U3Loq0TD4wiUXPv"
+      },
+      "artists": [
+        {
+          "name": "marli",
+          "url": "https://open.spotify.com/artist/3VF7MG3VRTTOlRTlYwAUYW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193225,
+      "name": "back to you!",
+      "url": "https://open.spotify.com/track/7fQpP6BJeg4xteS93AgfwQ"
+    },
+    {
+      "album": {
         "name": "backwards loving",
         "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
       },
@@ -1408,6 +1444,24 @@
       "duration_ms": 184421,
       "name": "BAD IDEA",
       "url": "https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u"
+    },
+    {
+      "album": {
+        "name": "Be My Love",
+        "url": "https://open.spotify.com/album/0HlI5t6vSAc4UX6Utmt32G"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Steer",
+          "url": "https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Be My Love",
+      "url": "https://open.spotify.com/track/52oAg84vPElHHPfbabV9ar"
     },
     {
       "album": {
@@ -1588,6 +1642,24 @@
       "duration_ms": 137469,
       "name": "Before The Kiss",
       "url": "https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh"
+    },
+    {
+      "album": {
+        "name": "Begging On My Birthday",
+        "url": "https://open.spotify.com/album/4CF0G4scPc3jfq513XYebY"
+      },
+      "artists": [
+        {
+          "name": "CHARLS",
+          "url": "https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222023,
+      "name": "Begging On My Birthday",
+      "url": "https://open.spotify.com/track/3GaqrfHgR2UcIu4UffeSoT"
     },
     {
       "album": {
@@ -2016,7 +2088,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178699,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5RE5OVVSjSWfxfWwtXzXmG"
@@ -2254,7 +2326,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 184560,
       "name": "Boy, you're a writer",
       "url": "https://open.spotify.com/track/22N7aCpfwSEtGCXTZAOgyz"
@@ -2891,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Can't Help Falling Out Of Love",
+        "url": "https://open.spotify.com/album/4xZRmWBKj6uJm7TaTvN8lo"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Can't Help Falling Out Of Love",
+      "url": "https://open.spotify.com/track/29611npNQh1axCvcVR2wzt"
+    },
+    {
+      "album": {
         "name": "Can't Keep A Beat",
         "url": "https://open.spotify.com/album/0JhrgHd4xaN2nDedGAopZ6"
       },
@@ -3082,7 +3172,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 156478,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/3XqVZir88UNWitDqg07yk3"
@@ -3620,6 +3710,24 @@
       "duration_ms": 183500,
       "name": "clover",
       "url": "https://open.spotify.com/track/2xUMt6RPghz7Bn26LDAuCX"
+    },
+    {
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/32t0ImhVhPJY8BQf3GpJUR"
+      },
+      "artists": [
+        {
+          "name": "Hutch",
+          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
     },
     {
       "album": {
@@ -5904,7 +6012,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180778,
       "name": "fall in love with the dj",
       "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
@@ -7471,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "hardwired",
+        "url": "https://open.spotify.com/album/27oEClKfkquIGPt3ev7rPI"
+      },
+      "artists": [
+        {
+          "name": "Lydia Shute",
+          "url": "https://open.spotify.com/artist/26SW72wF94NksuwUeDu2Ju"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "hardwired",
+      "url": "https://open.spotify.com/track/1SrTtKDHovylW3h4A7kWvh"
+    },
+    {
+      "album": {
         "name": "Harry",
         "url": "https://open.spotify.com/album/3LaLvHmot92o6mTdNNwNv2"
       },
@@ -8224,7 +8350,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210222,
       "name": "how the f*** does everybody else manage?",
       "url": "https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN"
@@ -8754,6 +8880,24 @@
       "duration_ms": 234609,
       "name": "I Won't Miss A Thing",
       "url": "https://open.spotify.com/track/5UgPB3ivHBCkhftx2wGBy2"
+    },
+    {
+      "album": {
+        "name": "I'd Do Anything",
+        "url": "https://open.spotify.com/album/6I7Cscx9NaCR5LjDQeEZcv"
+      },
+      "artists": [
+        {
+          "name": "Ruby Roberts",
+          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224980,
+      "name": "I'd Do Anything",
+      "url": "https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197"
     },
     {
       "album": {
@@ -9326,7 +9470,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 169872,
       "name": "It's Not You It's Him",
       "url": "https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1"
@@ -9784,6 +9928,24 @@
       "duration_ms": 236954,
       "name": "L.O.V.E.",
       "url": "https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe"
+    },
+    {
+      "album": {
+        "name": "Lady Friend",
+        "url": "https://open.spotify.com/album/0LyvEC8fy6hhKFlRP7kFI1"
+      },
+      "artists": [
+        {
+          "name": "Kat Penkin",
+          "url": "https://open.spotify.com/artist/1T5oohg2vb4T6d5kAdaCgs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Lady Friend",
+      "url": "https://open.spotify.com/track/7BCBfOueEI2M7URrdOQJzF"
     },
     {
       "album": {
@@ -10327,6 +10489,24 @@
     },
     {
       "album": {
+        "name": "Love Is Enough",
+        "url": "https://open.spotify.com/album/1PzVn1ZGQAIT83GPKnjweC"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224330,
+      "name": "Love Is Enough",
+      "url": "https://open.spotify.com/track/48tTHKvnKpFwifzHJ4VwRT"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T"
       },
@@ -10342,6 +10522,24 @@
       "duration_ms": 177543,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM"
+    },
+    {
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176887,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
     },
     {
       "album": {
@@ -11412,7 +11610,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 184973,
       "name": "Must Confess",
       "url": "https://open.spotify.com/track/4bsjRXyZxMQjYhmtWMvFJr"
@@ -12142,7 +12340,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167624,
       "name": "ohmygod!",
       "url": "https://open.spotify.com/track/2pxw43ycOory6Ghyo2WOSa"
@@ -12996,7 +13194,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 201063,
       "name": "Please Don't Hate Me",
       "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
@@ -13908,6 +14106,24 @@
       "duration_ms": 186000,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL"
+    },
+    {
+      "album": {
+        "name": "Romantic Sadness",
+        "url": "https://open.spotify.com/album/1kAgWBMgfjgQ3MFTTccRaD"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172479,
+      "name": "Romantic Sadness",
+      "url": "https://open.spotify.com/track/50yfmUOxiMOCV3ybCsQpi2"
     },
     {
       "album": {
@@ -15032,7 +15248,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 158396,
       "name": "Slap On The Wrist",
       "url": "https://open.spotify.com/track/54t4eAvCmdEWh2QwelmCXC"
@@ -15306,6 +15522,24 @@
       "duration_ms": 199398,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/4vkXqsEML2t4PJuWdGLKrU"
+    },
+    {
+      "album": {
+        "name": "Guess I'm Alright",
+        "url": "https://open.spotify.com/album/0wzCh2FVwBYJFXijNXAq6E"
+      },
+      "artists": [
+        {
+          "name": "Niamh McCrystal",
+          "url": "https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162135,
+      "name": "Someone Else's Love",
+      "url": "https://open.spotify.com/track/2Bw8PW8vGuDJ92n50vxVDZ"
     },
     {
       "album": {
@@ -15788,7 +16022,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 138329,
       "name": "Suck My MP3",
       "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
@@ -16937,6 +17171,24 @@
     },
     {
       "album": {
+        "name": "There's a Bridge",
+        "url": "https://open.spotify.com/album/346sFMjZ1DUCWrRDMsYMgg"
+      },
+      "artists": [
+        {
+          "name": "Alpha Maria",
+          "url": "https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168312,
+      "name": "There's a Bridge",
+      "url": "https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt"
+    },
+    {
+      "album": {
         "name": "Things I Really Mean",
         "url": "https://open.spotify.com/album/3cxyV5ddJhlyCR9KmshfLR"
       },
@@ -17388,7 +17640,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173389,
       "name": "Trust My Gut",
       "url": "https://open.spotify.com/track/3t9eWYb5DIYLDHncJXkyeX"
@@ -17568,7 +17820,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 241905,
       "name": "ULTRA LIGHT",
       "url": "https://open.spotify.com/track/4BK0kEHNPK0jntire6ZWY2"
@@ -17720,6 +17972,24 @@
       "duration_ms": 202937,
       "name": "Waiting For The Walls To Change",
       "url": "https://open.spotify.com/track/3lLHICs9iYNNt0kV8u8GZk"
+    },
+    {
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176828,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
     },
     {
       "album": {

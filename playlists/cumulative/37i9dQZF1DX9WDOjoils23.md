@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-106 songs - 12 hr 45 min
+107 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Akhiyan Udeek Diyan](https://open.spotify.com/track/7zCeqf8je5o2XooGm634mK) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 13:43 | 2023-12-18 | 2025-05-14 |
 | [Akhiyan Udeekdiyan](https://open.spotify.com/track/48zjsBmOTxv9xQNF3SEggy) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [All Time Best Qawwalies](https://open.spotify.com/album/3eKIaSsSENYsvd1oeJp3Kd) | 16:18 | 2025-04-08 | 2025-05-14 |
 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 | 2025-01-17 |  |
+| [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 | 2026-02-26 |  |
 | [Athra Ishq Ni Saon Denda](https://open.spotify.com/track/4Q9rdsluj3EWB9A41vO2K6) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Top 50 Punjabi Qawwalies](https://open.spotify.com/album/64UchtwEtAGWd4sTZDQzF0) | 15:25 | 2023-12-18 | 2025-05-14 |
 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 | 2023-12-18 |  |
 | [Bawa](https://open.spotify.com/track/7MMZySuMHhENxAWnSiJahb) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Punjabi Hits, Vol\. 1 & 2](https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u) | 5:20 | 2023-02-15 | 2024-04-19 |
@@ -84,7 +85,7 @@
 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 | 2025-02-01 |  |
 | [Qubool Hai](https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu), [Anhad Kaur](https://open.spotify.com/artist/1xTTsDAwaJ17ufCVjpyV86) | [Qubool Hai](https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6) | 6:49 | 2026-02-17 |  |
 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 | 2023-02-15 |  |
-| [Ranjheya Ve](https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1) | 4:38 | 2025-03-19 |  |
+| [Ranjheya Ve](https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1) | 4:38 | 2025-03-19 | 2026-02-27 |
 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 | 2025-05-13 |  |
 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 | 2023-02-15 |  |
 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 5:15 | 2025-02-01 |  |

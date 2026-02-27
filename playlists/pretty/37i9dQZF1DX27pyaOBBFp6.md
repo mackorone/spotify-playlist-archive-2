@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,170 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,177 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 28 | [De Wandelclub](https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H) | [Jasperina de Jong](https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:30 |
 | 29 | [Soerabaja](https://open.spotify.com/track/6WgIBSj3JIImcRurWWt63T) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:28 |
 | 30 | [Ik Kan Geen Kikker Van De Kant Afduwen](https://open.spotify.com/track/3UzgV7RakYC3cwMa1zcCeJ) | [Lowland Trio](https://open.spotify.com/artist/0UWgpDfVMPO1mVVcYdIy48) | [Lowland Trio](https://open.spotify.com/album/5cuRfpQZqI2F6cahasPgwE) | 3:23 |
-| 31 | [De Wereld Is Leeg Zonder Jou](https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry](https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i) | 2:53 |
-| 32 | [De Kat Van Ome Willem](https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10), [Hetty Blok](https://open.spotify.com/artist/0VwzejS59E7wzdAEomSwoU) | [Het Mooiste Van Wim Sonneveld](https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB) | 2:09 |
+| 31 | [De Kat Van Ome Willem](https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10), [Hetty Blok](https://open.spotify.com/artist/0VwzejS59E7wzdAEomSwoU) | [Het Mooiste Van Wim Sonneveld](https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB) | 2:09 |
+| 32 | [De Wereld Is Leeg Zonder Jou](https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry](https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i) | 2:53 |
 | 33 | [Middellandse Zee](https://open.spotify.com/track/5VJZNUSVtEntXztFaJWcZt) | [Anita Berry](https://open.spotify.com/artist/2Lrqb1RPGQ8vXNVTL65uL0) | [Middellandse Zee](https://open.spotify.com/album/1yLrPvd8Y5bV2pHkKxjgZz) | 3:08 |
 | 34 | [Waarom Heb Jij Me Laten Staan?](https://open.spotify.com/track/5LjIT56CJ7NeH5k3cC5j71) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:12 |
 | 35 | [Batje Vier](https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:46 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 67 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
 | 68 | [Da Doo Ron Ron](https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:17 |
 | 69 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |
-| 70 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
-| 71 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
+| 70 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
+| 71 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
 | 72 | [Mama Vertel Me](https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Hollands Glorie](https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd) | 3:11 |
 | 73 | [Schemering \(Wanneer De Zon Verkleurt Tot Oranje\) \- Remastered](https://open.spotify.com/track/0hKoOOgxib2r9hNoGtyTyI) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Favorieten Expres](https://open.spotify.com/album/7ghZOFhVXnKPQrcsZ0mJXl) | 2:38 |
 | 74 | [Mona Lisa](https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollandse Sterren](https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs) | 2:39 |

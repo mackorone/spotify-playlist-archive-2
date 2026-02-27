@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-404 songs - 21 hr 45 min
+405 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Locked Up](https://open.spotify.com/track/6NURhpGBxcPREjrtBdfWeL) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [The Keymaker](https://open.spotify.com/album/5STLj7Mkx2nwrCKdrSOnoR) | 3:53 | 2024-01-24 | 2024-04-19 |
 | [Loco](https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Loco](https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g) | 3:33 | 2022-12-08 | 2023-10-26 |
 | [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 | 2023-11-17 | 2024-04-16 |
-| [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 | 2025-10-13 |  |
+| [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 | 2025-10-13 | 2026-02-27 |
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 | 2023-12-22 |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 | 2023-12-22 |
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |
@@ -321,6 +321,7 @@
 | [So Druff \- D\-Fence Remix](https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu) | [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [So Druff \(D\-Fence Remix\)](https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v) | 2:46 | 2022-12-15 | 2024-11-19 |
 | [Somebody Scream](https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Somebody Scream](https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf) | 3:04 | 2022-12-08 | 2023-09-02 |
 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 | 2024-03-11 | 2025-06-20 |
+| [Sound The Alarm](https://open.spotify.com/track/77RXsitsubxemClFhtM8Kr) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Sound The Alarm](https://open.spotify.com/album/1bSFo51TYynrW9FGhJiuJG) | 3:29 | 2026-02-26 |  |
 | [Spacestorm](https://open.spotify.com/track/66lM2053Cgq8Xm7TUMR475) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Jax](https://open.spotify.com/artist/74qgM5Rvsk16SBXAdXeWmG) | [Showtime](https://open.spotify.com/album/0P8MdMLHjzqHzVd8twfxe5) | 2:18 | 2022-12-08 | 2023-01-20 |
 | [Spellbound](https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Spellbound](https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf) | 3:26 | 2024-05-02 | 2024-11-09 |
 | [Stop Playing](https://open.spotify.com/track/2Ys7qaDAMTbgmHZRJxmeBZ) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Stop Playing](https://open.spotify.com/album/0cUyM46EZCAv2uKx0PugP4) | 2:26 | 2024-04-18 | 2024-11-09 |

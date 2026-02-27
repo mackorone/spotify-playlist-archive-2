@@ -1,13 +1,37 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
-  "num_followers": 624394,
+  "num_followers": 624916,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN6O+TCV4zBKcwr59O7vedvnuTlZ",
+  "snapshot_id": "AAAAAPHTwIUyBi/sDlPZjSRYWqjNaMAE",
   "tracks": [
+    {
+      "added_at": "2026-02-26 09:58:49",
+      "album": {
+        "name": "ZILL",
+        "url": "https://open.spotify.com/album/25D2wFqxvv4SupOGBIxXCM"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Shafi Kollam",
+          "url": "https://open.spotify.com/artist/0udTsqVsPijUXCJgdVKYWp"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        }
+      ],
+      "duration_ms": 247272,
+      "name": "ZILL",
+      "url": "https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x"
+    },
     {
       "added_at": "2025-11-26 07:40:57",
       "album": {
@@ -85,26 +109,6 @@
       "url": "https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8"
     },
     {
-      "added_at": "2026-02-18 04:59:09",
-      "album": {
-        "name": "Chambakka",
-        "url": "https://open.spotify.com/album/4fqZOlmxIHjFIVCIlBtIg7"
-      },
-      "artists": [
-        {
-          "name": "Eechuu",
-          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
-        },
-        {
-          "name": "Muthu",
-          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "Chambakka",
-      "url": "https://open.spotify.com/track/5fFTGsDwAFrphUk8hdeCZI"
-    },
-    {
       "added_at": "2026-01-07 07:41:31",
       "album": {
         "name": "Vellarathaaram (From \"Sarvam Maya\")",
@@ -127,6 +131,78 @@
       "duration_ms": 279600,
       "name": "Vellarathaaram (From \"Sarvam Maya\")",
       "url": "https://open.spotify.com/track/2LzLaaGYFBzg7esTGqmpDR"
+    },
+    {
+      "added_at": "2026-02-26 10:14:47",
+      "album": {
+        "name": "Ennakaruppi",
+        "url": "https://open.spotify.com/album/1hhc40RRyJBxaU71OLcvI4"
+      },
+      "artists": [
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "gouthammm",
+          "url": "https://open.spotify.com/artist/43Vt9P8hBXvNLz23OGzYoU"
+        },
+        {
+          "name": "nichesluck",
+          "url": "https://open.spotify.com/artist/5o0U7xMRW1IxdOuwJ5z8ln"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Ennakaruppi",
+      "url": "https://open.spotify.com/track/02bvAijBB6U4VeVF1mLEcI"
+    },
+    {
+      "added_at": "2026-02-26 10:11:07",
+      "album": {
+        "name": "Cringe Paattu",
+        "url": "https://open.spotify.com/album/7bAb1KTkiuKFYRgvFeNBxY"
+      },
+      "artists": [
+        {
+          "name": "Eechuu",
+          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
+        },
+        {
+          "name": "E3Y",
+          "url": "https://open.spotify.com/artist/1kfF1kkbyruQ6Abd540tNL"
+        },
+        {
+          "name": "Suhas",
+          "url": "https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Cringe Paattu",
+      "url": "https://open.spotify.com/track/4bcOWgsod1G0ZBwaxty2sk"
+    },
+    {
+      "added_at": "2026-02-26 10:08:13",
+      "album": {
+        "name": "Haal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TCgcD0kzPASO874pZU9q0"
+      },
+      "artists": [
+        {
+          "name": "Nandhagopan V",
+          "url": "https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y"
+        },
+        {
+          "name": "Ramya Nambessan",
+          "url": "https://open.spotify.com/artist/2jLNoI1JBkPjnIa0qCWLVa"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Barakallah",
+      "url": "https://open.spotify.com/track/34e7QY2XDUvmSra1H12ath"
     },
     {
       "added_at": "2026-02-17 06:27:53",
@@ -323,6 +399,26 @@
       "duration_ms": 262285,
       "name": "Puthu Mazha (From \"Sarvam Maya\")",
       "url": "https://open.spotify.com/track/1T2BaoynY8mttTMb6t51gF"
+    },
+    {
+      "added_at": "2026-02-18 04:59:09",
+      "album": {
+        "name": "Chambakka",
+        "url": "https://open.spotify.com/album/4fqZOlmxIHjFIVCIlBtIg7"
+      },
+      "artists": [
+        {
+          "name": "Eechuu",
+          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "Chambakka",
+      "url": "https://open.spotify.com/track/5fFTGsDwAFrphUk8hdeCZI"
     },
     {
       "added_at": "2025-10-06 04:58:08",
@@ -829,26 +925,6 @@
       "url": "https://open.spotify.com/track/3EPHaxloBVjAiCSW235Zh5"
     },
     {
-      "added_at": "2025-07-14 08:44:00",
-      "album": {
-        "name": "Kejah (From Saina Music Indie)",
-        "url": "https://open.spotify.com/album/1iC5eqNcHO5v8HExIL43be"
-      },
-      "artists": [
-        {
-          "name": "MBL_",
-          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
-        },
-        {
-          "name": "AYARKAY",
-          "url": "https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P"
-        }
-      ],
-      "duration_ms": 211475,
-      "name": "Kejah - From Saina Music Indie",
-      "url": "https://open.spotify.com/track/0JxsBVBtlxC7e5ZTHmn9XS"
-    },
-    {
       "added_at": "2025-04-02 11:53:45",
       "album": {
         "name": "Thattathil (From \"Abhilasham\")",
@@ -1013,58 +1089,6 @@
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
     },
     {
-      "added_at": "2025-04-08 06:35:21",
-      "album": {
-        "name": "Sundari Laila (From \"Abhilasham\")",
-        "url": "https://open.spotify.com/album/26TC5642qGK3KGChlXZ52F"
-      },
-      "artists": [
-        {
-          "name": "Sreehari K",
-          "url": "https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx"
-        },
-        {
-          "name": "Lal Krishna",
-          "url": "https://open.spotify.com/artist/6T9d3iP4qFaKzPATYC0lYE"
-        },
-        {
-          "name": "Bharath Sajikumar",
-          "url": "https://open.spotify.com/artist/1p8cN7ow4EE4F0vNE1gz6i"
-        },
-        {
-          "name": "Aswin Vijayan",
-          "url": "https://open.spotify.com/artist/28GxfEqJSbq0Q2ckxxSxos"
-        },
-        {
-          "name": "Sharfu",
-          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
-        }
-      ],
-      "duration_ms": 80984,
-      "name": "Sundari Laila (From \"Abhilasham\")",
-      "url": "https://open.spotify.com/track/6KZegrgrc28ZjqWnJSwcTi"
-    },
-    {
-      "added_at": "2025-06-03 07:37:38",
-      "album": {
-        "name": "Vaada Veda (From \"Narivetta\")",
-        "url": "https://open.spotify.com/album/3NWG1BlajaLq6xXGyFrckV"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        }
-      ],
-      "duration_ms": 239354,
-      "name": "Vaada Veda (From \"Narivetta\")",
-      "url": "https://open.spotify.com/track/71rsifxqhk2Gd2AsfqAwDX"
-    },
-    {
       "added_at": "2025-03-12 10:30:31",
       "album": {
         "name": "Neon Ride (From \"Officer On Duty\")",
@@ -1091,22 +1115,6 @@
       "duration_ms": 191808,
       "name": "Neon Ride (From \"Officer On Duty\")",
       "url": "https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X"
-    },
-    {
-      "added_at": "2025-01-06 06:56:44",
-      "album": {
-        "name": "Aayiram Aura",
-        "url": "https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ"
-      },
-      "artists": [
-        {
-          "name": "Fejo",
-          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
-        }
-      ],
-      "duration_ms": 256488,
-      "name": "Aayiram Aura",
-      "url": "https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1"
     },
     {
       "added_at": "2024-09-09 04:58:27",

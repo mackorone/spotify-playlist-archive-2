@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,195 songs - 2 day 3 hr 39 min
+1,196 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,6 +995,7 @@
 | [Sun Is Rising](https://open.spotify.com/track/68gqfdmUcUNMRINRYMxUd0) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG) | [Relax & Chill 2025](https://open.spotify.com/album/3t6h8xKSGz0GwJje8JPkOC) | 1:59 | 2026-01-02 |  |
 | [Sunbeams](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Sunbeams](https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY) | 2:27 | 2023-09-22 | 2023-12-30 |
 | [Sunday Morning](https://open.spotify.com/track/5GL6mdzyFK2HbJiH0pg9nM) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Sunday Morning](https://open.spotify.com/album/7yhwtF7rgZsmMnYMjRohMU) | 2:33 | 2025-08-25 |  |
+| [Sunlight](https://open.spotify.com/track/243zvdGFWl6GurMRSp0XNQ) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Sunlight](https://open.spotify.com/album/5ljSRA2BAMvHe6iHpHUy3s) | 2:34 | 2026-02-26 |  |
 | [Sunny](https://open.spotify.com/track/6gtJ6fD4Z71KwIrpXiMOP8) | [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL), [Alto Moon](https://open.spotify.com/artist/2W4YmwLWetZICb80JxlNwS) | [Sunny](https://open.spotify.com/album/45rMynAlvFewRTrfYT7c9F) | 2:05 | 2024-10-13 | 2024-11-18 |
 | [Sunny](https://open.spotify.com/track/6S7kQc0wVJ1UqhzOCOCSQQ) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [CALUA](https://open.spotify.com/artist/6mnaOeRMNT2abTk8NncpQi) | [Sunny](https://open.spotify.com/album/3FB7CtqIL0PtSTodmdBaqj) | 2:43 | 2025-07-04 | 2026-01-05 |
 | [Sunny](https://open.spotify.com/track/6iolYWSFGkTNXEi7MOMeRs) | [Yume](https://open.spotify.com/artist/6jhofN6VeIi3EciznDCfCv) | [Sunny](https://open.spotify.com/album/7KHdVDoix9UsFrRT95OQqs) | 2:45 | 2024-04-13 | 2024-05-13 |

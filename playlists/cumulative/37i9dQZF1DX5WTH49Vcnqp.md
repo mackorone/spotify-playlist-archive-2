@@ -2,9 +2,9 @@
 
 ### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
-> Music that's hard to define but easy to love\. Cover: Fred again.\. & Jamie T
+> Music that's hard to define but easy to love\. Cover: Arlo Parks
 
-1,814 songs - 4 day 8 hr 9 min
+1,817 songs - 4 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 | 2024-02-15 | 2024-04-26 |
 | [Far Side of the Moon](https://open.spotify.com/track/5S7Jok7NAJks2akNJPSoWt) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Far Side of the Moon](https://open.spotify.com/album/1AAUSquFaEbVPlazWqvKMJ) | 3:33 | 2025-07-24 | 2026-02-13 |
 | [Farewell Warning](https://open.spotify.com/track/4nqgpwVl6hLIRUaisrxecY) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:43 | 2023-04-06 | 2023-04-14 |
+| [FAULT LINE](https://open.spotify.com/track/1dkjDwZB0YM433fQaxpCcI) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [THE WARNING](https://open.spotify.com/album/0WUCpp0NYid1BJuhWTY0xt) | 4:07 | 2026-02-26 |  |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-27 | 2024-08-23 |
 | [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 | 2024-10-31 | 2025-06-06 |
 | [Fck Love](https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Fck Love](https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5) | 2:31 | 2022-06-16 | 2022-08-05 |
@@ -769,6 +770,7 @@
 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 | 2022-02-17 | 2022-04-01 |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2023-02-09 | 2023-03-10 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-07-13 | 2023-09-01 |
+| [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-02-26 |  |
 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 | 2023-09-06 | 2023-12-01 |
 | [I Like It Like](https://open.spotify.com/track/1J1BneZ7n94exyy4B9Qobx) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Between The Head & The Heart](https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH) | 3:30 | 2022-07-04 | 2022-08-26 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-04 | 2025-01-17 |
@@ -828,6 +830,7 @@
 | [Incinerate](https://open.spotify.com/track/0lDoG5fQ9cmpvpenwR7Jln) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Rather Ripped](https://open.spotify.com/album/706OL6kpsbf73LRdXD1dCB) | 4:55 | 2023-04-06 | 2023-04-14 |
 | [infinyte](https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [infinyte](https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs) | 2:11 | 2025-02-20 | 2025-03-28 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2021-12-28 | 2022-04-01 |
+| [Into The Wild](https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Into The Wild](https://open.spotify.com/album/2HtXNtYOhoPOCDbAduR3oy) | 3:41 | 2026-02-26 |  |
 | [Into You](https://open.spotify.com/track/3Zux11namsFgz7LIGeNuLU) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Into You](https://open.spotify.com/album/1AWhTuxn0iTkGqWy6F3jQs) | 2:48 | 2022-09-15 | 2022-12-16 |
 | [Into Your Room](https://open.spotify.com/track/6fseCeuOF8hFsuYiVkg69J) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:29 | 2023-11-16 | 2023-12-01 |
 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 | 2023-11-30 | 2024-01-26 |

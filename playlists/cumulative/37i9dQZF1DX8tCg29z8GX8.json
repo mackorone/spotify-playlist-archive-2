@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "African King",
+        "url": "https://open.spotify.com/album/0Bno7z2yVU82F0Yd5VgmdD"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "African King",
+      "url": "https://open.spotify.com/track/6ggYw77QdcBDBj0thdtMAl"
+    },
+    {
+      "album": {
         "name": "AFRIKANA",
         "url": "https://open.spotify.com/album/3Xty3EB0LLI6AaDtvb49Bz"
       },
@@ -702,7 +720,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 156233,
       "name": "Alhaji Popping",
       "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 163018,
       "name": "Araba",
       "url": "https://open.spotify.com/track/3j2DRJtmWdcDjzipkdTzPa"
@@ -1500,6 +1518,24 @@
       "duration_ms": 160264,
       "name": "Baajo",
       "url": "https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo"
+    },
+    {
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
     },
     {
       "album": {
@@ -3583,6 +3619,32 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/0o03yi54DW1bVidSYt9hZZ"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140109,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1Qt93wdcRF1sgRNnJeeldt"
+    },
+    {
+      "album": {
         "name": "Date Rush",
         "url": "https://open.spotify.com/album/2PkbKApYqcnLJloiZjHyph"
       },
@@ -4252,7 +4314,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 197522,
       "name": "Enter",
       "url": "https://open.spotify.com/track/1NwssiNfFaYnuCf8qFizTW"
@@ -9008,7 +9070,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 187500,
       "name": "Millicent",
       "url": "https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o"
@@ -9100,6 +9162,24 @@
       "duration_ms": 339928,
       "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
       "url": "https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8"
+    },
+    {
+      "album": {
+        "name": "Mon Bebe",
+        "url": "https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121348,
+      "name": "Mon Bebe",
+      "url": "https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq"
     },
     {
       "album": {

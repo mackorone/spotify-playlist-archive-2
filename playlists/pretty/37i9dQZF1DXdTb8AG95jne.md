@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 공원 \(gongwon\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,888 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,942 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All of me](https://open.spotify.com/track/0GPbxTKmIt498pYnWl5e31) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [\[0\]](https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H) | 4:42 |
+| 1 | [All of me](https://open.spotify.com/track/0GPbxTKmIt498pYnWl5e31) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [0](https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H) | 4:42 |
 | 2 | [Who I've Become](https://open.spotify.com/track/3buxRmvpflSFLLhkXeVcwv) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Who I've Become](https://open.spotify.com/album/7mFAFVgcpV59tAZ6Isy3FZ) | 3:56 |
 | 3 | [firefly](https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [firefly](https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf) | 4:29 |
 | 4 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 |

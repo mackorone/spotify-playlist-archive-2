@@ -4540,7 +4540,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -8653,6 +8653,24 @@
     },
     {
       "album": {
+        "name": "Where We Are",
+        "url": "https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/5PRnMwcqQuHzlRU14QRUN6"
+    },
+    {
+      "album": {
         "name": "Shake (with Ne-Yo & Carmen DeLeon)",
         "url": "https://open.spotify.com/album/3jO5b1PrRk1i9Yb8kiQszZ"
       },
@@ -10584,7 +10602,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 273960,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne"

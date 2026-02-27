@@ -2,7 +2,7 @@
 
 ### [Kollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ)
 
-> Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
+> Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
 223 songs - 6 hr 43 min
 
@@ -116,7 +116,7 @@
 | [Kokkarako](https://open.spotify.com/track/1jdestcFzmrUNefnpH1UaZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 1:44 | 2024-05-15 | 2024-06-08 |
 | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/track/2r0ROhr7pRN4MXDMT1fEmd) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh) | 1:37 | 2024-01-09 | 2025-05-28 |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |
-| [Lokiverse 2.0](https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 1:54 | 2023-10-19 |  |
+| [Lokiverse 2.0](https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 1:54 | 2023-10-19 | 2026-02-27 |
 | [Love Blooms](https://open.spotify.com/track/6yOLWskuPn8rvrIT4T9aHS) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Lover \(Original Score\)](https://open.spotify.com/album/2ckveWEr2jwpwwhkKVOFS1) | 2:05 | 2024-03-17 | 2024-05-16 |
 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 | 2021-11-27 |  |
 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 | 2021-11-01 |  |
@@ -197,7 +197,7 @@
 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 | 2022-07-08 |  |
 | [The Fall of Pandya](https://open.spotify.com/track/1VtExYv1dUAAZM2uIX1IYE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Ilango Krishnan](https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 1:51 | 2024-01-08 | 2024-06-08 |
 | [The Killing](https://open.spotify.com/track/6Cgkmsai7JA4fay7mJ3P66) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 1:50 | 2024-05-15 | 2024-06-08 |
-| [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 | 2021-11-01 | 2026-02-22 |
+| [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 | 2021-11-01 |  |
 | [The Name is Vikram \- Background Score](https://open.spotify.com/track/0rMCafW7oH94gTtArlESWU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:49 | 2022-07-08 | 2023-01-26 |
 | [The OG Thug \(From "Thug Life"\)](https://open.spotify.com/track/13BijBtySer5TbVfi2R8vN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Alexandra Joy](https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79) | [The OG Thug \(From "Thug Life"\)](https://open.spotify.com/album/6nwruUy2eySbzUPq86Yn1H) | 0:42 | 2024-11-13 |  |
 | [The Rise](https://open.spotify.com/track/3M0yJxkUkEyn8ku3zBPLfX) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Viduthalai \(Original Background Score\)](https://open.spotify.com/album/640AWcG0puLErrZs6J6uCd) | 1:16 | 2024-03-19 | 2024-05-16 |

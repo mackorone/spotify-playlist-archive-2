@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Low\-Red in cover della playlist dello street rap italiano ⛓️
+> Pyrex in cover della playlist dello street rap italiano ⛓️
 
 1,003 songs - 1 day 21 hr 43 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk kamu dan teman\-temanmu yang paling ngejar sehat
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,448 likes - 92 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,514 likes - 92 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 32 | [Serasa X Juwita](https://open.spotify.com/track/4tBWE1YXuLOKalCHyAgRvq) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Serasa X Juwita](https://open.spotify.com/album/7ieS8TtZfUqKCycMTAkPHh) | 6:32 |
 | 33 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 |
 | 34 | [Ya Sudahlah](https://open.spotify.com/track/0OjiV7FpVCrOIq53ZSH1EM) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Fade2Black](https://open.spotify.com/artist/6gvA9QkTBrrVgC61J4YaA8) | [For All](https://open.spotify.com/album/0LTNM8p3hEvAPbidxNtg7Q) | 4:14 |
-| 35 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 |
+| 35 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 |
 | 36 | [Lamunan Di Kota Itu II](https://open.spotify.com/track/2mWNTjU0DCB0QNHEkucRXF) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Lamunan Di Kota Itu II](https://open.spotify.com/album/2NE5OIGmKMF12hyBs5TUtA) | 4:08 |
 | 37 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 |
 | 38 | [Terima Kasih](https://open.spotify.com/track/1bzzbWLQd5O1CE57VSkpYj) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:51 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 41 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 |
 | 42 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 |
 | 43 | [Djakarta](https://open.spotify.com/track/4rfdBCU8fRgmtwpuR0rCOQ) | [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Djakarta](https://open.spotify.com/album/0M8VdQEeFGKbuJ1LutcvmX) | 3:56 |
-| 44 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 |
+| 44 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 |
 | 45 | [LOVE ME LIKE YOU](https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [LOVE ME LIKE YOU](https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8) | 3:02 |
 | 46 | [Lugu](https://open.spotify.com/track/0VpYj9jndkaPDthq4edPyE) | [Celine & Nadya](https://open.spotify.com/artist/4OGf00YGOzQiuIjQdhiYTy) | [Love, Youth, You, Ch\. 1](https://open.spotify.com/album/7j9m5lJCGc6PTyFH9KimAz) | 3:17 |
 | 47 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 |

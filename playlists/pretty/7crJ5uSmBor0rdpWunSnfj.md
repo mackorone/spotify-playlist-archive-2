@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 
 > Desperation
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 12 songs - 43 min 4 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 13 songs - 46 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,5 +20,6 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 | 10 | [Lion's Teeth](https://open.spotify.com/track/3V9DfXLPjXVzD0o5wO7fRh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:25 |
 | 11 | [Heel Turn 2](https://open.spotify.com/track/0i440uC3N8RxHzB3TXG24b) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 5:58 |
 | 12 | [Comin' Home](https://open.spotify.com/track/0aK0NO0XEApqsssSfmV88H) | [Murder By Death](https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3) | [Red of Tooth and Claw](https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK) | 3:35 |
+| 13 | [Charlie's Inferno](https://open.spotify.com/track/6mjtuSfqwMmvtvocsgT8xu) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/4sXc1Um0c1BMee1T4T70G7) | 3:44 |
 
-Snapshot ID: `AAAAEOV74oMDecbJEWnun8NsV4HTykAj`
+Snapshot ID: `AAAAEZLbMEVDsefFMHXJtLRt+jD0J3f9`

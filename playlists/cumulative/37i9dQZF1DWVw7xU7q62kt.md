@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-783 songs - 1 day 9 hr 21 min
+784 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [ADHD Jazz](https://open.spotify.com/track/5gQrmtrxLVo01wzlS2Ep1J) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [ADHD Jazz](https://open.spotify.com/album/6fFw8aIwA1X171KQN8eET1) | 1:35 | 2026-01-30 | 2026-02-10 |
 | [Afterdawn](https://open.spotify.com/track/0V4TpiZBeby9w9CvBrVaNL) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ) | [Afterdawn](https://open.spotify.com/album/3RcVSU8SZMO57YXbAstpFU) | 2:31 | 2025-05-23 | 2026-02-21 |
 | [Agave](https://open.spotify.com/track/5bGuXwRnEiewbYYE2NCQqc) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Agave](https://open.spotify.com/album/6r8jn5NGZv72u1MHgfzE6r) | 2:11 | 2024-08-23 | 2025-05-17 |
-| [aira](https://open.spotify.com/track/49polIddIb1koqFVXqkp8I) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [aira](https://open.spotify.com/album/7L8z1Iv5n71rwl969MYTX0) | 2:00 | 2025-12-26 |  |
+| [aira](https://open.spotify.com/track/49polIddIb1koqFVXqkp8I) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [aira](https://open.spotify.com/album/7L8z1Iv5n71rwl969MYTX0) | 2:00 | 2025-12-26 | 2026-02-27 |
 | [all i ever wanted](https://open.spotify.com/track/1k8t0FtCfQ8HH9fprP4w6p) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [all i ever wanted](https://open.spotify.com/album/5ImmrUceRa6fuaU93s7esc) | 2:24 | 2025-11-14 | 2026-02-07 |
+| [All Night](https://open.spotify.com/track/3Wf0Z7B7Aldhjn9jqV9z5r) | [Lazy Elias](https://open.spotify.com/artist/6hJhvGKRLfcdvnpQD3gxzC), [Jack Hinks](https://open.spotify.com/artist/1thYUakSFMSbTktMO4hteb), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [All Night](https://open.spotify.com/album/7m5LhJbJwAuhOwZkZjox9x) | 1:54 | 2026-02-20 |  |
 | [Alleyway](https://open.spotify.com/track/7BZRoLGiX8nVYbp4fkLxXC) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Alleyway](https://open.spotify.com/album/7uyVBjIYZlTLLS3tTt2SXS) | 2:12 | 2025-10-10 | 2025-12-12 |
 | [Allure](https://open.spotify.com/track/04ooGGf7K6S82kmzceMqX3) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Allure](https://open.spotify.com/album/2WVuxyDtbBCTRqBgnuah9g) | 2:24 | 2025-09-26 | 2025-11-29 |
 | [Altered Sine](https://open.spotify.com/track/60f6EbhrEope346BnF3G6J) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Altered Sine](https://open.spotify.com/album/4ZlHTbQtEDzz72oLt4jVlg) | 2:57 | 2024-09-13 | 2025-11-15 |
@@ -181,7 +182,7 @@
 | [Echoes](https://open.spotify.com/track/4tJCiHYrzBVepbLgbjJRbE) | [Nat Walker](https://open.spotify.com/artist/40BcKXWOaxLXJU26BNJEEp) | [Echoes](https://open.spotify.com/album/4YZvPr05HgyrHQ4hCpwE8d) | 1:30 | 2026-02-20 |  |
 | [Eclissi](https://open.spotify.com/track/3jMEMZMDA5pgjVjcgQxVPg) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Yawuh](https://open.spotify.com/artist/5dFzAFmO3MGNTFcAApR6UR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Eclissi](https://open.spotify.com/album/1OSYdn5iGqohrOsHOCPnHa) | 2:49 | 2025-10-17 | 2025-11-22 |
 | [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 |  |
-| [Eldstaden](https://open.spotify.com/track/0RJaXClmRBz77vnVGjw0lL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Eldstaden](https://open.spotify.com/album/5nCJ4HB1xhdQTZA73JotEr) | 2:36 | 2025-02-07 |  |
+| [Eldstaden](https://open.spotify.com/track/0RJaXClmRBz77vnVGjw0lL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Eldstaden](https://open.spotify.com/album/5nCJ4HB1xhdQTZA73JotEr) | 2:36 | 2025-02-07 | 2026-02-27 |
 | [Elements](https://open.spotify.com/track/5jLagdhjTqE0tx8U1dZGiq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Elements](https://open.spotify.com/album/7eNFkCGeXCtLAaHG7XTVlL) | 2:03 | 2024-10-18 | 2025-05-10 |
 | [Elixier](https://open.spotify.com/track/6GeYp27nYXMNkhzJoqZM8F) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [Mount Neverest](https://open.spotify.com/album/19rJkUEV3Ye0Eo47FCvjl1) | 2:21 | 2025-12-26 |  |
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 | 2024-12-23 |
@@ -777,7 +778,7 @@
 | [While She Waits](https://open.spotify.com/track/7hrEY12YhKpa6wPruwHrag) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/1C8EQLLSiDZoXRiwgaUPB7) | 2:16 | 2024-03-20 | 2024-08-24 |
 | [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-18 | 2025-03-08 |
 | [Whipped Cream](https://open.spotify.com/track/1jVoZ9548ZVdU8oEA3NHwY) | [uBeyond](https://open.spotify.com/artist/1fg6FOcNJXJNFg2ejI6ZXc), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Whipped Cream](https://open.spotify.com/album/4ZmMwxcjIKNLSSLbUsSf2e) | 2:10 | 2026-01-09 |  |
-| [white nights](https://open.spotify.com/track/5IAttO7JWJWIfuSsxfvMuw) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [white nights](https://open.spotify.com/album/3Bb4hgXKhJtDmLT6lsUxEe) | 2:06 | 2025-11-07 | 2026-02-26 |
+| [white nights](https://open.spotify.com/track/5IAttO7JWJWIfuSsxfvMuw) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [white nights](https://open.spotify.com/album/3Bb4hgXKhJtDmLT6lsUxEe) | 2:06 | 2025-11-07 |  |
 | [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 | 2025-05-25 |
 | [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 | 2025-04-12 |
 | [Window Pane](https://open.spotify.com/track/3oH3TnUBAHJUMBPwJTynv2) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Window Pane](https://open.spotify.com/album/1AaDQgeyo7tbApFPiCfXiU) | 2:00 | 2025-03-03 | 2025-03-18 |

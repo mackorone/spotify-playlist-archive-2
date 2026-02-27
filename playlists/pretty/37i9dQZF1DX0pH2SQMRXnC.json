@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1522501,
+  "num_followers": 1522767,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
+        "name": "Wanna Play?",
+        "url": "https://open.spotify.com/album/4jp7msyicuMV06txLOdvbF"
+      },
+      "artists": [
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "duration_ms": 201451,
+      "name": "Wanna Play?",
+      "url": "https://open.spotify.com/track/6iBL6TOzsO75Yz0cG1MO0o"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
         "name": "WHAT THA HELLY (SOMEONE CALL THE AMBULANCE)",
         "url": "https://open.spotify.com/album/5nKOeJM9R1jMkJHUAuyWgf"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 189352,
       "name": "WHAT THA HELLY (SOMEONE CALL THE AMBULANCE)",
       "url": "https://open.spotify.com/track/1QIBLPZqpqETKtuMLpHAN4"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
-        "name": "Wanna Play?",
-        "url": "https://open.spotify.com/album/4jp7msyicuMV06txLOdvbF"
-      },
-      "artists": [
-        {
-          "name": "The Prophet",
-          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
-        }
-      ],
-      "duration_ms": 201451,
-      "name": "Wanna Play?",
-      "url": "https://open.spotify.com/track/6iBL6TOzsO75Yz0cG1MO0o"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
-        "name": "Can Can",
-        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
-      },
-      "artists": [
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 128812,
-      "name": "Can Can",
-      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/1m2EoGXSA9QtXdRawROTEZ"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 170916,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/7wyv2NMXiktbhdvcFagS4G"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
+        "name": "Can Can",
+        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
+      },
+      "artists": [
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "duration_ms": 128812,
+      "name": "Can Can",
+      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
-        "name": "Dia De Los Muertos",
-        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215590,
-      "name": "Dia De Los Muertos",
-      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
         "name": "OG Raver",
         "url": "https://open.spotify.com/album/6sTm1dxK93wQK2LP2PaCXB"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 173070,
       "name": "OG Raver",
       "url": "https://open.spotify.com/track/022updRO7JlJd8CczURSqU"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
+        "name": "Dia De Los Muertos",
+        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215590,
+      "name": "Dia De Los Muertos",
+      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
-        "name": "Anadrol",
-        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
-      },
-      "artists": [
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        }
-      ],
-      "duration_ms": 139947,
-      "name": "Anadrol",
-      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/5ZF6HWdSkytZGUSqZpL3eV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 228340,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/7aIgUTEPXjRH19raLJwRMG"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
+        "name": "Anadrol",
+        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
+      },
+      "artists": [
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "duration_ms": 139947,
+      "name": "Anadrol",
+      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
-        "name": "Feel Your Love (Dimitri Vegas Vinyl Only Remix)",
-        "url": "https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        }
-      ],
-      "duration_ms": 138189,
-      "name": "Feel Your Love - Dimitri Vegas Vinyl Only Remix",
-      "url": "https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
         "name": "Make That Body Move (Warrior Workout 2024 OST)",
         "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 120937,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
+        "name": "Feel Your Love (Dimitri Vegas Vinyl Only Remix)",
+        "url": "https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 138189,
+      "name": "Feel Your Love - Dimitri Vegas Vinyl Only Remix",
+      "url": "https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -2255,26 +2255,6 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
-        "name": "World On Fire",
-        "url": "https://open.spotify.com/album/0hip6zVMbgqrbtyobAOuay"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        }
-      ],
-      "duration_ms": 217303,
-      "name": "World On Fire",
-      "url": "https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
         "name": "LEFT - RIGHT",
         "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
       },
@@ -2299,6 +2279,26 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/0hip6zVMbgqrbtyobAOuay"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "duration_ms": 217303,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
         "name": "HOOYAH",
         "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
       },
@@ -2311,22 +2311,6 @@
       "duration_ms": 104400,
       "name": "HOOYAH",
       "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -2347,6 +2331,22 @@
       "duration_ms": 223213,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
-        "name": "Turn The Tide Revisited",
-        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
-      },
-      "artists": [
-        {
-          "name": "Lowriderz",
-          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Turn The Tide Revisited",
-      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
         "name": "Big City Life (BassWar & CaoX Remix)",
         "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
       },
@@ -2775,6 +2755,26 @@
       "duration_ms": 211764,
       "name": "Big City Life - BassWar & CaoX Remix",
       "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
       "added_at": "2026-02-16 15:59:39",
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2026-02-16 15:59:39",
       "album": {
-        "name": "Het Ergste Moet Nog Komen",
-        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        }
-      ],
-      "duration_ms": 211144,
-      "name": "Justify",
-      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
-    },
-    {
-      "added_at": "2026-02-16 15:59:39",
-      "album": {
         "name": "Sandstorm",
         "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
       },
@@ -2963,6 +2947,22 @@
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+    },
+    {
+      "added_at": "2026-02-16 15:59:39",
+      "album": {
+        "name": "Het Ergste Moet Nog Komen",
+        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "duration_ms": 211144,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
     },
     {
       "added_at": "2026-02-16 15:59:39",

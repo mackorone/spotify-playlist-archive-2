@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 67 | [In the Shadow of the Western Hills](https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Steal Smoked Fish / In the Shadow of the Western Hills](https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc) | 2:34 |
 | 68 | [Bottom of the Pit \(feat\. Sam Haft\)](https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [In Sound Mind \- Original Soundtrack](https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr) | 4:00 |
 
-Snapshot ID: `AAAASqMqM24HH0uyS2aVCc9GyGP7RQ3T`
+Snapshot ID: `AAAATCTvK0jV3SqjsXK5dwemLqRLAKVd`

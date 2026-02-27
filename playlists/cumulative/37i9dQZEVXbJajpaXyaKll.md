@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,132 songs - 4 day 17 hr 2 min
+2,133 songs - 4 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [Corte Caco \- Remix](https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Corte Caco \(Remix\)](https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN) | 3:34 | 2024-05-14 | 2024-06-03 |
 | [Cosa Linda](https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:30 | 2024-12-22 | 2024-12-30 |
 | [Cosas Pendientes](https://open.spotify.com/track/4ddD3WUjKR3EzAmQeGKCSg) | [Soy tu Sol](https://open.spotify.com/artist/7s6B9JKCf164EQOQvatr5E) | [Cosas Pendientes](https://open.spotify.com/album/5iA9vj6SLAb9R7MeRPSWkh) | 2:56 | 2025-04-26 | 2025-05-17 |
-| [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2026-02-21 |  |
+| [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2026-02-21 | 2026-02-27 |
 | [Cosas Que Odio de Vos](https://open.spotify.com/track/2KG2LRfvIcK0AyFHMsnS0Q) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:17 | 2024-09-26 | 2024-10-03 |
 | [COSAS RICAS](https://open.spotify.com/track/6VU4Itrp66sFoD6cMe4ZA7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:40 | 2024-05-07 | 2024-05-14 |
 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 | 2024-09-17 | 2024-10-02 |
@@ -467,6 +467,7 @@
 | [DEJA DE SUFRIR](https://open.spotify.com/track/1YopQmeeJjiwp1BYPaCvtK) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [DEJA DE SUFRIR](https://open.spotify.com/album/0VOsFWnvJ8GE75qVnsk4H6) | 2:16 | 2025-11-25 | 2025-12-03 |
 | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Lamelodiadelhampa](https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/album/3W3S0gSwBs27p6bE64BxHo) | 3:00 | 2025-06-24 | 2025-09-12 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-16 | 2024-04-20 |
+| [Dejense Ver](https://open.spotify.com/track/7lNP89UiIKjpBM6qC8g8cj) | [BICHOTAMUSICIA](https://open.spotify.com/artist/71aZqR3e1g5qFYmbRNzyA4) | [Dejense Ver](https://open.spotify.com/album/0peOyQyTVEojsVLYsccmJd) | 1:55 | 2026-02-26 |  |
 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2026-01-15 | 2026-01-21 |
 | [Demonia](https://open.spotify.com/track/5EPoBhzd687s1e55055EyM) | [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Demonia](https://open.spotify.com/album/1ezhVbyFCLiVAHDBf046e6) | 2:50 | 2025-07-01 | 2025-07-06 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2024-12-23 | 2025-03-23 |

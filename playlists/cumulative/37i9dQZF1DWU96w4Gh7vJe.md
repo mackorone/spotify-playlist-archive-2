@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-198 songs - 12 hr 34 min
+199 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,8 +136,9 @@
 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 | 2025-11-07 |  |
 | [pamasahe](https://open.spotify.com/track/0YbqgaBE1LwZhalqK09iQf) | [GY](https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37) | [pamasahe](https://open.spotify.com/album/1XfrJx9J2gJ3JhCRuio6qi) | 2:48 | 2026-02-18 |  |
 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 | 2025-02-12 |  |
-| [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 | 2024-02-07 |  |
+| [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 | 2024-02-07 | 2026-02-27 |
 | [Paraiso](https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH) | [JetNekko](https://open.spotify.com/artist/2Zz4iF0WqUSduXhnJFos5o) | [Paraiso](https://open.spotify.com/album/5nEVhJoyzg7K9S8DRwO3xy) | 5:01 | 2025-12-08 | 2026-01-20 |
+| [Paramdam](https://open.spotify.com/track/0ewqLShg1DRv2yvOApI5XC) | [FINA](https://open.spotify.com/artist/55svyNcngicNYNing9V9QP) | [Paramdam](https://open.spotify.com/album/4zxO3Mr0TPtosqc9kiM8Fo) | 3:34 | 2026-02-26 |  |
 | [Paru\-Paro](https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:21 | 2025-11-10 | 2026-02-03 |
 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 | 2023-10-25 | 2024-04-19 |
 | [Past Life](https://open.spotify.com/track/0wYLEZ4UAF7JuIDkbJfmH6) | [Kremesoda](https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf) | [For Years](https://open.spotify.com/album/25hgON0XcqY2ir4ZHbSfcp) | 4:26 | 2025-02-12 | 2025-05-01 |

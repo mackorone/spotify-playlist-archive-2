@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
 
-724 songs - 1 day 17 hr 15 min
+726 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Oru Vazhip Paatha](https://open.spotify.com/track/5KNWO4AbtG5LBKt03aXh3N) | [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Varuon Thushyanthan](https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ), [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR), [Mc Ra](https://open.spotify.com/artist/7wM1TbG6AaogJDIA4b7S2O) | [Oru Vazhip Paatha](https://open.spotify.com/album/3JzNYISCqRXhgPfPhDvOKo) | 3:13 | 2024-10-18 | 2025-02-15 |
 | [Oru Vina](https://open.spotify.com/track/6GZn9kBgICX6JBjpSbgHSq) | [Kenny Roy](https://open.spotify.com/artist/6fslDBbv64YjU15jafPFbx), [Sensaaayyy](https://open.spotify.com/artist/0VTWhw0OefeXM9Gefh2CJu) | [Oru Vina](https://open.spotify.com/album/7KdyXKENxyjJPhhwSAQAfi) | 1:31 | 2025-07-11 | 2025-09-05 |
 | [Oruvan Varuvan](https://open.spotify.com/track/6HkWmT4Kb5dha2URWxl36W) | [Vathshan](https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz), [Arish](https://open.spotify.com/artist/4Rdq83q6jEyKm1d93sMHqX), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Oruvan Varuvan](https://open.spotify.com/album/6BHB20kJ59M72ifNUrduHh) | 3:28 | 2026-01-27 |  |
+| [Ottikita \(01\)](https://open.spotify.com/track/4QyhVCxgAhugXPfzxilA0Q) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Ottikita \(01\)](https://open.spotify.com/album/4owBfV36cG7NOD9JnXd1SK) | 2:45 | 2026-02-26 |  |
 | [Ovvoru Ponnukkum \- DEAFFROGS RECORDS](https://open.spotify.com/track/7f8jsmd782N8XsqUwk9fV2) | [Voltage B](https://open.spotify.com/artist/1sPbhUJNlDdgq2x9r4if18) | [Ovvoru Ponnukkum \(DEAFFROGS RECORDS\)](https://open.spotify.com/album/4FqX3n33fZ6QbXhd7H9wRV) | 3:19 | 2024-02-23 | 2024-03-09 |
 | [Oye WiFi](https://open.spotify.com/track/4OJlaha9SL0hg2T71TrajY) | [MV Renju](https://open.spotify.com/artist/3FF68P1H15lpkam4dm9u9V), [Maguvi](https://open.spotify.com/artist/2W6PplXI1Za8fhlceez0V3) | [Oye WiFi](https://open.spotify.com/album/5ISe0jUvgvW0oL4cUfHpfv) | 5:42 | 2024-07-25 | 2024-09-19 |
 | [Paal Nila](https://open.spotify.com/track/0I0p29zNDsgavfgxUwjzC0) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Shilvi Sharon](https://open.spotify.com/artist/0CF2xFxAubE3okREUvLY1g) | [Paal Nila](https://open.spotify.com/album/5CauH88kJTq4TEQZrYezbe) | 3:01 | 2024-08-30 | 2024-09-21 |
@@ -561,6 +562,7 @@
 | [SOODA](https://open.spotify.com/track/3pooF21TkvwlapuPwhfhmT) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Amos Paul](https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9), [Ahashe](https://open.spotify.com/artist/2taTlDnfwjHmQWPf780NP9), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [SOODA](https://open.spotify.com/album/1rwU2JKbH8FpC1sv6m9oKQ) | 3:44 | 2025-04-04 | 2026-01-15 |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 | 2023-07-18 |
 | [Soorpanagai](https://open.spotify.com/track/3YrotPydUy2kflbzZxtBIw) | [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f), [Niru Musical](https://open.spotify.com/artist/0gmdF5FhV5xu0IfojeZhDf) | [Soorpanagai](https://open.spotify.com/album/6BguCRhRJRXBa6TtQ4k5Of) | 3:08 | 2025-11-21 | 2026-01-29 |
+| [Sorgame Stun Aagum](https://open.spotify.com/track/4eZVXQSqNFGwASklUaYPyy) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Sorgame Stun Aagum](https://open.spotify.com/album/0slcTlopbFcegmXRBLbBqx) | 3:03 | 2026-02-26 |  |
 | [Soul](https://open.spotify.com/track/5IalEiACOaWwafT5K0CENa) | [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Punitha Ramakrishnan](https://open.spotify.com/artist/1eSxNM0BFeaFCV3OQ7sipM) | [Soul](https://open.spotify.com/album/5jRl6diqbmVdmNzmvBxBN3) | 3:35 | 2025-03-22 | 2025-06-04 |
 | [Story Rewrite](https://open.spotify.com/track/0bshpuYtyPBYkVUiJxzbtq) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/4SJTkS0FQtEsam4O81LXnx) | 2:59 | 2023-09-14 | 2024-02-16 |
 | [Story Rewrite](https://open.spotify.com/track/7jQHimJTn5joGqtUXFnTvA) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/48IgWLickNf0lBCE5zLOoZ) | 2:59 | 2023-09-14 | 2024-01-07 |

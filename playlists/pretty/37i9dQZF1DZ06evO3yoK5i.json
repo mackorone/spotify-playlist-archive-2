@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 248666,
+  "num_followers": 248726,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADNISG8SIcsLI1QY80ZL4wL",
+  "snapshot_id": "aZ47gAAAAADapLk3AJK5giA27d4tZ+L9",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
-        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Il mio giorno preferito",
-      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 203026,
       "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
       "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
+        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Il mio giorno preferito",
+      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 180279,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "Solo junto a ti",
+      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hay Vida",
         "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 210626,
       "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "Solo junto a ti",
-      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un pugno di stelle",
-        "url": "https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Solo un volo",
-      "url": "https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 250760,
       "name": "Solo ieri",
       "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un pugno di stelle",
+        "url": "https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Solo un volo",
+      "url": "https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fred again.., Jamie T",
-  "num_followers": 41149,
+  "num_followers": 41176,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "Ah Ya",
-        "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "Thee Diane",
-          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "Ah Ya",
-      "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
         "name": "Say\u014dnara",
         "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 184734,
       "name": "Say\u014dnara",
       "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
+        "name": "Ah Ya",
+        "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "Ah Ya",
+      "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
     },
     {
       "added_at": "2026-02-13 00:00:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200207,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200207,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2026-02-13 00:00:17",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
@@ -1007,38 +1023,6 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
     },
     {
       "added_at": "2026-02-13 00:00:17",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "Soulseek",
-        "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Soltera",
-          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "Soulseek",
-      "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
       },
@@ -1155,22 +1135,22 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "Sort It Out",
-        "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
+        "name": "Soulseek",
+        "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         },
         {
-          "name": "Clouds",
-          "url": "https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim"
+          "name": "Soltera",
+          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
         }
       ],
-      "duration_ms": 271415,
-      "name": "Sort It Out",
-      "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
+      "duration_ms": 311666,
+      "name": "Soulseek",
+      "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
     },
     {
       "added_at": "2026-02-13 00:00:17",
@@ -1187,6 +1167,26 @@
       "duration_ms": 238316,
       "name": "To Survive",
       "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
+        "name": "Sort It Out",
+        "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Clouds",
+          "url": "https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim"
+        }
+      ],
+      "duration_ms": 271415,
+      "name": "Sort It Out",
+      "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
     },
     {
       "added_at": "2026-02-13 00:00:17",

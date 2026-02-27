@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 ### [Hits Français 80](https://open.spotify.com/playlist/37i9dQZF1DX0zyaFj8e28t)
 
-> Les plus grands tubes français des années 80\. Photo : France Gall
+> Les plus grands tubes français des années 80\. Photo : Renaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,829 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,869 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 34 | [Disparue](https://open.spotify.com/track/280p8WbpK05bAptetUzEcx) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Disparue \- EP](https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc) | 3:09 |
 | 35 | [Duel au soleil \- 2006 Remaster](https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Pop Satori \(2006 Remaster\)](https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb) | 4:21 |
 | 36 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
-| 37 | [Cargo \- 2024 Remaster](https://open.spotify.com/track/60WiEteADDUQKn62YIrlBx) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd) | [Cargo \- EP \(2024 Remaster\)](https://open.spotify.com/album/6qDDn1u921qNWzS8FqHfk5) | 4:50 |
-| 38 | [Elle a les yeux revolver](https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of 85\-95](https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN) | 3:36 |
+| 37 | [Elle a les yeux revolver](https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of 85\-95](https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN) | 3:36 |
+| 38 | [Cargo \- 2024 Remaster](https://open.spotify.com/track/60WiEteADDUQKn62YIrlBx) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd) | [Cargo \- EP \(2024 Remaster\)](https://open.spotify.com/album/6qDDn1u921qNWzS8FqHfk5) | 4:50 |
 | 39 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 |
 | 40 | [En l'an 2001](https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j) | [Pierre Bachelet](https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4) | [Le Meilleur De](https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN) | 5:27 |
 | 41 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |

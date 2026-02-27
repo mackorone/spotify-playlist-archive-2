@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291353,
+  "num_followers": 291350,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "\u00cdm\u00e3",
+      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "\u00cdm\u00e3",
-      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "O Amor \u00c9 Cego",
         "url": "https://open.spotify.com/album/0xtIrrJED43w9Ic4mRi97g"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 144444,
       "name": "O Amor \u00c9 Cego",
       "url": "https://open.spotify.com/track/5qVkfOE2iXVVWDj0aC5mN6"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2026-02-23 14:14:13",

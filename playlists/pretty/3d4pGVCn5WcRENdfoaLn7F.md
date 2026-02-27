@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 518 likes - 61 songs - 3 hr 46 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 522 likes - 64 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 59 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 |
 | 60 | [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 |
 | 61 | [Dark Echoes](https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:49 |
+| 62 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 |
+| 63 | [Consumer Unit](https://open.spotify.com/track/2O7KnLBqPako9l0JfkwGEp) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Consumer Unit](https://open.spotify.com/album/0bBXbmdNWYauccx4abtnGU) | 3:05 |
+| 64 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 |
 
-Snapshot ID: `AAACzT8maWjkV/dXpojYn0oChebMGpz0`
+Snapshot ID: `AAAC0O4YFtcp8PMNk08l7teVYvMt51vF`

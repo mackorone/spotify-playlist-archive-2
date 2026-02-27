@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1040033,
+  "num_followers": 1039998,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
+        "name": "M\u00edrame Ahora (Salud mi Reina)",
+        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "M\u00edrame Ahora - Salud mi Reina",
+      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
+    },
+    {
+      "added_at": "2026-02-20 08:46:04",
+      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -903,34 +919,22 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
-        "name": "M\u00edrame Ahora (Salud mi Reina)",
-        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
+        "name": "ESTA ES TU CASA NENA",
+        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "M\u00edrame Ahora - Salud mi Reina",
-      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
-    },
-    {
-      "added_at": "2026-02-20 08:46:04",
-      "album": {
-        "name": "Wapa",
-        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
-      },
-      "artists": [
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 159776,
-      "name": "Wapa",
-      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+      "duration_ms": 209616,
+      "name": "ESTA ES TU CASA NENA",
+      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
     },
     {
       "added_at": "2026-02-20 08:46:04",
@@ -963,22 +967,18 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
-        "name": "ESTA ES TU CASA NENA",
-        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 209616,
-      "name": "ESTA ES TU CASA NENA",
-      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "added_at": "2026-02-20 08:46:04",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Garc\u00eda",
+      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
+    },
+    {
+      "added_at": "2026-02-20 08:46:04",
+      "album": {
         "name": "LA FKN VIBRA",
         "url": "https://open.spotify.com/album/5lu19nkiqp1kMfj3d1RyDg"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 165300,
       "name": "LA FKN VIBRA",
       "url": "https://open.spotify.com/track/27jPEr2DWvpzcvEjW1OFPJ"
-    },
-    {
-      "added_at": "2026-02-20 08:46:04",
-      "album": {
-        "name": "GARC\u00cdA",
-        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Garc\u00eda",
-      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
     },
     {
       "added_at": "2026-02-20 08:46:04",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+    },
+    {
+      "added_at": "2026-02-20 08:46:04",
+      "album": {
         "name": "NO SUPISTE CUIDARNOS (Respuesta #2)",
         "url": "https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ"
       },
@@ -1459,24 +1475,8 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
-    },
-    {
-      "added_at": "2026-02-20 08:46:04",
-      "album": {
-        "name": "Besito en la Frente",
-        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
       },
       "artists": [
         {
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 161622,
-      "name": "Besito en la Frente",
-      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
     },
     {
       "added_at": "2026-02-20 08:46:04",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+        "name": "Besito en la Frente",
+        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
       },
       "artists": [
         {
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 254705,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+      "duration_ms": 161622,
+      "name": "Besito en la Frente",
+      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
     },
     {
       "added_at": "2026-02-20 08:46:04",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
-        "name": "capaz (merengueton)",
-        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
-    },
-    {
-      "added_at": "2026-02-20 08:46:04",
-      "album": {
         "name": "Feriado",
         "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
       },
@@ -1815,22 +1795,22 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
-        "name": "LA ULTIMA VEZ",
-        "url": "https://open.spotify.com/album/7KeFVEFiQfzlK2ltgbuZqN"
+        "name": "capaz (merengueton)",
+        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
       },
       "artists": [
         {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
         },
         {
-          "name": "mariano",
-          "url": "https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 141818,
-      "name": "LA ULTIMA VEZ",
-      "url": "https://open.spotify.com/track/0NGz9DiN1pGvvB8wG9qBi4"
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
     },
     {
       "added_at": "2026-02-20 08:46:04",
@@ -1867,18 +1847,38 @@
     {
       "added_at": "2026-02-20 08:46:04",
       "album": {
-        "name": "Dej\u00e1ndolo Pasar",
-        "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
+        "name": "LA ULTIMA VEZ",
+        "url": "https://open.spotify.com/album/7KeFVEFiQfzlK2ltgbuZqN"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        },
+        {
+          "name": "mariano",
+          "url": "https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9"
         }
       ],
-      "duration_ms": 179112,
-      "name": "Dej\u00e1ndolo Pasar",
-      "url": "https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT"
+      "duration_ms": 141818,
+      "name": "LA ULTIMA VEZ",
+      "url": "https://open.spotify.com/track/0NGz9DiN1pGvvB8wG9qBi4"
+    },
+    {
+      "added_at": "2026-02-20 08:46:04",
+      "album": {
+        "name": "Dame Un Break",
+        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Dame Un Break",
+      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

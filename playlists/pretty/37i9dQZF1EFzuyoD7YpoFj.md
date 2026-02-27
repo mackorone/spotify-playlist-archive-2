@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 133 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
 | 134 | [Kiss Me, Kate](https://open.spotify.com/track/26opGuN3ZdAVST2RRqWio2) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:54 |
 | 135 | [A Picture Of Me Without You](https://open.spotify.com/track/27g4zNA0c77PQlTzQwweQP) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 1:59 |
-| 136 | [Never Give Anything Away \(2023 Remastered\)](https://open.spotify.com/track/53liLAg6ggj6mYhagOyNhs) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 3:13 |
-| 137 | [The Cocktail Party](https://open.spotify.com/track/6xTtj1qK9RhyrdcHHNlYDl) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:26 |
+| 136 | [The Cocktail Party](https://open.spotify.com/track/6xTtj1qK9RhyrdcHHNlYDl) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:26 |
+| 137 | [Never Give Anything Away \(2023 Remastered\)](https://open.spotify.com/track/53liLAg6ggj6mYhagOyNhs) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 3:13 |
 | 138 | [I'm in Love With You](https://open.spotify.com/track/5aGY6rUptvzDkL7CPpE9od) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Iconic Swing, Jazz & Love Songs Collection](https://open.spotify.com/album/7yuzXVRn9Xs6k8NeyIvgiU) | 3:04 |
 | 139 | [I've Come To Wive It Wealthily In Padua](https://open.spotify.com/track/5T0i46U2lhpQwSwpS5tagh) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:09 |
 | 140 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 |
@@ -260,8 +260,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 250 | [Träume heißen du \- I Concentrate on You \- Remastered](https://open.spotify.com/track/5NWgSeLUcp4jDlj2wWMlDO) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Hildegard Knef singt Cole Porter \(Remastered\)](https://open.spotify.com/album/33AGapq36esdBwQwgbFFoL) | 3:28 |
 | 251 | [She's Got That Thing Performed By Uncle Willie](https://open.spotify.com/track/1sWUsrYbmriB1CBgIQguJO) | [John Mcmartin](https://open.spotify.com/artist/6lpPLbDpXX20IEZyluDqxY) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 2:24 |
 | 252 | [Montmart'](https://open.spotify.com/track/2jSCogyx3D26wlQX2ORJTE) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Can Can](https://open.spotify.com/album/5YlJ5Cmw0eqqgESfmgWkxD) | 2:39 |
-| 253 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 |
-| 254 | [Fated to Be Mated / All Of You \- Extended Version](https://open.spotify.com/track/3JZ7V700G3k9k2umXPxW6G) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Cyd Charisse](https://open.spotify.com/artist/3W7fZs1wfwxljPW0dHzNCj) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 6:34 |
+| 253 | [Fated to Be Mated / All Of You \- Extended Version](https://open.spotify.com/track/3JZ7V700G3k9k2umXPxW6G) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Cyd Charisse](https://open.spotify.com/artist/3W7fZs1wfwxljPW0dHzNCj) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 6:34 |
+| 254 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 |
 | 255 | [Why Am I So Gone About That Gal](https://open.spotify.com/track/2GQWbSdThi6IkHsFty3w4T) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [Gene](https://open.spotify.com/album/0OOIgQ1Eq97p2QNoS8TMSB) | 4:37 |
 | 256 | [Waltz Down The Aisle](https://open.spotify.com/track/7fVGqjsCqFSGsyNrazMSoV) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [The Highlights](https://open.spotify.com/album/7lgvgiJzqEgTqMlafeaOkP) | 3:04 |
 | 257 | [I Loved Him but He Didn't Love Me](https://open.spotify.com/track/070yPZkLaRjTq3cEXcS0wS) | [Tom Andersen](https://open.spotify.com/artist/5d9yqyyepW4VwhVrKN6Jio) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:35 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcKpagAAAADibELwYtJPvuX+osXzwlCu`
+Snapshot ID: `AcKvFAAAAAB9PhfgXjMtxYcf4XHnx2TI`

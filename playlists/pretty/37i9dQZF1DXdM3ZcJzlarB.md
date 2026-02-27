@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Ezequiel Arias
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,790 likes - 100 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,802 likes - 100 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 3 | [Attention \- Hernan Cattaneo & Mercurio Remix](https://open.spotify.com/track/30DM7ulLASrlTCJFtB624S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG), [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Attention \(Hernan Cattaneo & Mercurio Remix\)](https://open.spotify.com/album/2vVBmB5T2kTyWsZmiIwLWk) | 3:03 |
 | 4 | [Circular](https://open.spotify.com/track/69NLNjIbA3aNf1vOV0PLWT) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN) | [Circular](https://open.spotify.com/album/0sneAQVgbeyI1XIRWrUrMN) | 5:19 |
 | 5 | [Muskegaan](https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Poison EP](https://open.spotify.com/album/5SijqkYbzz8HmoHYrGtYc9) | 6:14 |
-| 6 | [Something Right \- Ezequiel Arias Remix](https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Something Right \(Ezequiel Arias Remix\)](https://open.spotify.com/album/7jIaFcVE1D6er8DA47vTZf) | 4:03 |
+| 6 | [Something Right \- Ezequiel Arias Remix](https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Something Right \(Ezequiel Arias Remix\)](https://open.spotify.com/album/7jIaFcVE1D6er8DA47vTZf) | 4:03 |
 | 7 | [Auch](https://open.spotify.com/track/2ZoyaD9MIlhZU6fijYxUjz) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Auch](https://open.spotify.com/album/6eeLPlVw9wMj6vS5OoR98P) | 5:12 |
 | 8 | [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 |
 | 9 | [Loaded Clipz](https://open.spotify.com/track/5xEk58vFuuHuOeFIjAFbd5) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Loaded Clipz](https://open.spotify.com/album/2Ymgeh9CkTcrhfYiv0de74) | 3:30 |

@@ -1,6 +1,6 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 37522,
+  "num_followers": 37533,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Nowadays Pressure",
+        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
+      },
+      "artists": [
+        {
+          "name": "NameBrandSound",
+          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
+        }
+      ],
+      "duration_ms": 228002,
+      "name": "Hip Thruster",
+      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 193072,
       "name": "Pass That",
       "url": "https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Nowadays Pressure",
-        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
-      },
-      "artists": [
-        {
-          "name": "NameBrandSound",
-          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
-        }
-      ],
-      "duration_ms": 228002,
-      "name": "Hip Thruster",
-      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -287,6 +287,34 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "HNADFUL OF SAND",
+        "url": "https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV"
+      },
+      "artists": [
+        {
+          "name": "x.nte",
+          "url": "https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA"
+        },
+        {
+          "name": "Elevation",
+          "url": "https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY"
+        },
+        {
+          "name": "Empress Lex",
+          "url": "https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm"
+        },
+        {
+          "name": "NO EYES",
+          "url": "https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm"
+        }
+      ],
+      "duration_ms": 150375,
+      "name": "HNADFUL OF SAND",
+      "url": "https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/7jlA2sFirrhCJamcIvaEmy"
       },
@@ -315,34 +343,6 @@
       "duration_ms": 183480,
       "name": "WFM",
       "url": "https://open.spotify.com/track/4V7vv7lvro6yMyJZm9Z96F"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "HNADFUL OF SAND",
-        "url": "https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV"
-      },
-      "artists": [
-        {
-          "name": "x.nte",
-          "url": "https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA"
-        },
-        {
-          "name": "Elevation",
-          "url": "https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY"
-        },
-        {
-          "name": "Empress Lex",
-          "url": "https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm"
-        },
-        {
-          "name": "NO EYES",
-          "url": "https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm"
-        }
-      ],
-      "duration_ms": 150375,
-      "name": "HNADFUL OF SAND",
-      "url": "https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP"
     },
     {
       "added_at": "2023-06-30 04:00:00",

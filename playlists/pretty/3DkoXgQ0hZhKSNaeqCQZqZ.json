@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1008,
+  "num_followers": 1011,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAE+3mvitK4Oeuf8REiOnAJqQGRiCXZ",
+  "snapshot_id": "AAAFAdYVNE2f8q52R+fKRySxdIvMPnLs",
   "tracks": [
+    {
+      "added_at": "2026-02-26 23:31:20",
+      "album": {
+        "name": "NI4NI",
+        "url": "https://open.spotify.com/album/0nOAwAvokahlFr5LEeWttF"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "duration_ms": 252705,
+      "name": "NI4NI",
+      "url": "https://open.spotify.com/track/2UmXnlHwi4dsPl9eizEhlI"
+    },
     {
       "added_at": "2026-02-22 13:00:33",
       "album": {
@@ -37,20 +53,20 @@
       "url": "https://open.spotify.com/track/1d0yjcfqJcgyM2jcTsNF9Z"
     },
     {
-      "added_at": "2026-02-25 14:44:39",
+      "added_at": "2026-02-26 13:20:04",
       "album": {
-        "name": "AFTERPARTY (REBOUND)",
-        "url": "https://open.spotify.com/album/6cCyVjH2D4Ne2bN6qFxiHF"
+        "name": "anything4u",
+        "url": "https://open.spotify.com/album/4uqZBwMo4q1FZE1FaxxGhp"
       },
       "artists": [
         {
-          "name": "BASSDOG",
-          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+          "name": "mayflowers",
+          "url": "https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z"
         }
       ],
-      "duration_ms": 100449,
-      "name": "PARTY SONG (REBOUND)",
-      "url": "https://open.spotify.com/track/3z7lzSmS78799IxjBfkJUp"
+      "duration_ms": 210857,
+      "name": "anything4u",
+      "url": "https://open.spotify.com/track/10ovr4LpA0ZP7yYoNmhKuP"
     },
     {
       "added_at": "2026-02-22 13:02:28",
@@ -67,6 +83,22 @@
       "duration_ms": 98668,
       "name": "what would my phone do without me",
       "url": "https://open.spotify.com/track/3MBBdWC2F0OdPEtEMsWGwu"
+    },
+    {
+      "added_at": "2026-02-25 14:44:39",
+      "album": {
+        "name": "AFTERPARTY (REBOUND)",
+        "url": "https://open.spotify.com/album/6cCyVjH2D4Ne2bN6qFxiHF"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "duration_ms": 100449,
+      "name": "PARTY SONG (REBOUND)",
+      "url": "https://open.spotify.com/track/3z7lzSmS78799IxjBfkJUp"
     },
     {
       "added_at": "2026-02-25 14:44:39",

@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Noni
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Heiakim
 
-583 songs - 1 day 10 hr 5 min
+587 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Alone Together](https://open.spotify.com/track/6FdZ6ROBj0l3EpRW6NpCu0) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Top 5](https://open.spotify.com/album/08Qll2maWwJ3Siah405k7c) | 3:00 | 2025-07-18 | 2025-10-04 |
 | [Amazing Grace](https://open.spotify.com/track/5zrTbyQPohSKWRBk9M7wcj) | [Edo Kondologit](https://open.spotify.com/artist/27B9bqgXcAatghbLzNrYY1) | [Amazing Grace](https://open.spotify.com/album/5mNbw4PoMtAhZ0ZR9AzjDe) | 6:29 | 2024-12-05 | 2025-03-14 |
 | [angee song](https://open.spotify.com/track/23nDdaGHCXniwDuK1Te0cr) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [m\. album tiga](https://open.spotify.com/album/4NZUlGR0ON7wZDmczN2vqH) | 5:05 | 2024-09-26 | 2025-01-24 |
+| [another eve](https://open.spotify.com/track/4S2Jni29AVhvtpRxCa7QMB) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [another eve](https://open.spotify.com/album/1inidCLPoiPPwa3SmSR8xF) | 3:24 | 2026-02-26 |  |
 | [Another Heartbreak](https://open.spotify.com/track/72PQZ3k0SfV1Oi10DXuWTf) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Another Heartbreak](https://open.spotify.com/album/5nxEyXGMN43tMCgFds6Kuu) | 4:05 | 2024-06-27 | 2024-08-30 |
 | [Anti ∞ Hero](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero](https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6) | 3:30 | 2024-10-24 | 2025-01-24 |
 | [Are You Ready?](https://open.spotify.com/track/5aKdwua6dUc5tanuER7jDM) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Akeey](https://open.spotify.com/artist/57pK9aeCJdlHlCEcGQ4kzI), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Are You Ready?](https://open.spotify.com/album/07eS3tozCxCPmz79QDdzrm) | 3:01 | 2025-05-01 | 2025-10-31 |
@@ -60,6 +61,7 @@
 | [Back To You](https://open.spotify.com/track/2gglT6HrpQJhv4nU1fIZT3) | [Nowela Mikhelia](https://open.spotify.com/artist/4e53a3HRkUEiIAUnShZPSr) | [Back To You](https://open.spotify.com/album/4KZAzRq5qFNBFN0NGkFgNu) | 4:22 | 2024-10-24 | 2025-01-24 |
 | [Bad Bad](https://open.spotify.com/track/02XgMsdfJr6GjTD4sSPD8J) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2) | [Bad Bad](https://open.spotify.com/album/5sQj4trXRrUSsGnAYD1Sk7) | 3:33 | 2025-04-17 | 2025-06-13 |
 | [Bad Tattoo](https://open.spotify.com/track/58lElp3BVghKIEURYqzOF6) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [Bad Tattoo](https://open.spotify.com/album/7en3ZzXQI26PJVHlp0PjL1) | 3:37 | 2025-01-23 | 2025-04-18 |
+| [Bandar Batavia](https://open.spotify.com/track/13YxsURDGCfwVBBcr7wiGM) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4), [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Bandar Batavia](https://open.spotify.com/album/2NOEzRnet7nm58ysaPGgNG) | 4:14 | 2026-02-26 |  |
 | [Be My Baby](https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Be My Baby](https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR) | 2:31 | 2025-02-28 | 2025-06-13 |
 | [Be My Bee](https://open.spotify.com/track/0tviaBrX0d4oi6eX8VmRF0) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Be My Bee](https://open.spotify.com/album/4LRTgGRSpf8sFtwLpzPLYl) | 3:16 | 2025-02-13 | 2025-10-31 |
 | [Be Okay](https://open.spotify.com/track/2fpTQ96rmDiG1OF7thuQOn) | [Manerole](https://open.spotify.com/artist/3xlUrDBWcUTE1Su96f9L3s), [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Be Okay](https://open.spotify.com/album/057yKn8ofGrnK3057HMXNn) | 4:19 | 2026-01-15 |  |
@@ -300,6 +302,7 @@
 | [Just You](https://open.spotify.com/track/4T96Q59QUuTiRrzoRdZWqE) | [El merry](https://open.spotify.com/artist/3KbgXfkhIm2fGHjpE0HZCh) | [Just You](https://open.spotify.com/album/6bKQ9baanwliyMi9K2xG5H) | 3:06 | 2025-07-18 | 2025-10-17 |
 | [KIDDIN'](https://open.spotify.com/track/0BQEXEBuN6i872rhcnDQXX) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2) | [KIDDIN'](https://open.spotify.com/album/3ErAhv46wywsXuQvQzN8cH) | 3:00 | 2024-12-12 | 2025-04-25 |
 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 | 2025-07-10 | 2025-10-04 |
+| [kYuUt](https://open.spotify.com/track/4FoUJVHvGqapfo1Tl7DUHQ) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [kYuUt](https://open.spotify.com/album/2a7QJ46tBN20XEaRqpd7NU) | 2:30 | 2026-02-26 |  |
 | [L.A.T.E](https://open.spotify.com/track/7khGfl0yp52y7RMlFmp1OA) | [Tamima](https://open.spotify.com/artist/5tOzsSVDNJLfTOCKz1rptf), [Ari Pramundito](https://open.spotify.com/artist/5yOnMxwH74WVk8dP5dlQjz) | [L.A.T.E](https://open.spotify.com/album/6dJQbouCzW1lw3tY2CWb1D) | 3:53 | 2025-02-28 | 2025-04-25 |
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-17 | 2025-05-09 |
 | [La Loba](https://open.spotify.com/track/6PVGDYVAcIDkflpb3ZyHWC) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [recall,](https://open.spotify.com/album/0VSCvK27N3QPQrDLl6gH4B) | 4:45 | 2025-05-01 | 2025-06-13 |
@@ -559,6 +562,7 @@
 | [Waking Up Together With You \- Live](https://open.spotify.com/track/6J6mlw6HcctswDHkz1hq6r) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip \(Live\)](https://open.spotify.com/album/1Z5jq2dspoyfjtzq1Dm5x0) | 3:36 | 2024-12-12 | 2025-09-30 |
 | [Want Me Back](https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Want Me Back](https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx) | 2:55 | 2024-09-12 | 2024-11-29 |
 | [Waste](https://open.spotify.com/track/2HbR7OAomFZAlKGtJZCiX6) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [Waste](https://open.spotify.com/album/6swdCGmsrBr5jobm2vrlgR) | 3:26 | 2025-03-27 | 2025-05-09 |
+| [Waste!](https://open.spotify.com/track/6NwyKtwBmGKQ3vSsjpvGBO) | [SlushSoPretty](https://open.spotify.com/artist/4hHleTlwosAC1aDMf09usc) | [Waste!](https://open.spotify.com/album/0bT34uw6PY5lr5aapg7pHm) | 2:08 | 2026-02-26 |  |
 | [Wasted Love](https://open.spotify.com/track/4jLR1GRsmUmvfAUO1wCGIr) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm) | [Wasted Love](https://open.spotify.com/album/36vdskrDeCy3mUbPFzNVI6) | 4:28 | 2024-09-26 | 2025-01-18 |
 | [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 | 2024-09-12 | 2024-11-29 |
 | [way too far](https://open.spotify.com/track/5izeu7OwFRJMxqGaxdCMUX) | [michaelachel](https://open.spotify.com/artist/4ZwwHAFJx5G4tEtZmzT8nz) | [when we were](https://open.spotify.com/album/1nHoavkxm8i1Di9n8LMPfO) | 3:24 | 2025-05-08 | 2025-06-13 |

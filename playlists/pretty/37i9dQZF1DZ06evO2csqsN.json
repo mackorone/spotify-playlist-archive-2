@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 39625,
+  "num_followers": 39630,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAn6ZozhAZJk8FU0ZbFqalu",
+  "snapshot_id": "aZ47gAAAAADmtdf8kGseUpB70Vwn1so4",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "Brokey",
+      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAT HAPPENED TO THE STREETS?",
         "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 197306,
       "name": "POP IT",
       "url": "https://open.spotify.com/track/3BBMNT5kxTsYxe1r0DukIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "Brokey",
-      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 3",
-        "url": "https://open.spotify.com/album/4ZAcg9Y4vCRGrkTWroSKsk"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 211917,
-      "name": "Wet (feat. Latto) - Remix",
-      "url": "https://open.spotify.com/track/0j51R3QEjwpSp9XJqtSh78"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Get Enough (feat. Latto)",
         "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 207284,
       "name": "Can't Get Enough (feat. Latto)",
       "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well 3",
+        "url": "https://open.spotify.com/album/4ZAcg9Y4vCRGrkTWroSKsk"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 211917,
+      "name": "Wet (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/0j51R3QEjwpSp9XJqtSh78"
     },
     {
       "added_at": null,

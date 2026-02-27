@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP KRIT",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -14193,6 +14193,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e01\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e25\u0e48 (Not That Bad)",
+        "url": "https://open.spotify.com/album/2yCAMwOhZ1mOtQRmUQ1mMr"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202068,
+      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e01\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e25\u0e48 (Not That Bad)",
+      "url": "https://open.spotify.com/track/04j2NAyFozCMD79a2nDGLs"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e04\u0e48\u0e40\u0e07\u0e32 (Hide)",
         "url": "https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj"
       },
@@ -14766,7 +14784,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 174703,
       "name": "\u0e42\u0e25\u0e40\u0e25 \u0e42\u0e22\u0e40\u0e22 \u0e42\u0e21\u0e40\u0e21 (No Way)",
       "url": "https://open.spotify.com/track/0XD4SwzwVcepNKCtr2i37z"

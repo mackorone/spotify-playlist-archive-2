@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Central Cee",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kidwild",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 187564,
       "name": "4C",
       "url": "https://open.spotify.com/track/2JZXSSxPJ49MHuY0GuexUN"
@@ -1824,6 +1824,24 @@
       "duration_ms": 149375,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/7pqdicMgQUmLojKUvxsdKm"
+    },
+    {
+      "album": {
+        "name": "Abu Dhabi",
+        "url": "https://open.spotify.com/album/3BCbvJKaW8QAmAwlRtkHBj"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Abu Dhabi",
+      "url": "https://open.spotify.com/track/3G5iyDPHbIHUL4AhC6rEs4"
     },
     {
       "album": {
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 123380,
       "name": "askeladd",
       "url": "https://open.spotify.com/track/5RvUqHb8YrOvy4V5MWDbX8"
@@ -20526,7 +20544,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173333,
       "name": "I'm So",
       "url": "https://open.spotify.com/track/7gDNfsOHByamepCcGlutLi"
@@ -25769,6 +25787,28 @@
     },
     {
       "album": {
+        "name": "matcha bros",
+        "url": "https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg"
+      },
+      "artists": [
+        {
+          "name": "Taifunds",
+          "url": "https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr"
+        },
+        {
+          "name": "00ab",
+          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140432,
+      "name": "matcha bros",
+      "url": "https://open.spotify.com/track/6j039F1GAbxnO4un1630wK"
+    },
+    {
+      "album": {
         "name": "Matching",
         "url": "https://open.spotify.com/album/2Kov4OSKfl2bJ8zuG7L1eK"
       },
@@ -26600,6 +26640,28 @@
       "duration_ms": 184107,
       "name": "Missing",
       "url": "https://open.spotify.com/track/69Y3i7ASWucfc4xyziEb4b"
+    },
+    {
+      "album": {
+        "name": "RYDERHOOD 2",
+        "url": "https://open.spotify.com/album/7e8B78YouQDyU1pH41KQuc"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "MXNO",
+          "url": "https://open.spotify.com/artist/1FKB1zYVzrlZPpIrP5teg2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Mission Impossible - Raw",
+      "url": "https://open.spotify.com/track/5TTVPES1GhmkTWOOU1HNvR"
     },
     {
       "album": {
@@ -28608,7 +28670,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 112394,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/4lzNhnPPUkyqavqQyqNnqz"
@@ -31129,6 +31191,24 @@
     },
     {
       "album": {
+        "name": "Job's Not Done",
+        "url": "https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "Pac-Man",
+      "url": "https://open.spotify.com/track/7CT6uTCmVIMnFR9VVag8Hr"
+    },
+    {
+      "album": {
         "name": "Packs and Potions",
         "url": "https://open.spotify.com/album/1VkcWtwCE0ktxyiZqjkCzu"
       },
@@ -31538,7 +31618,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164886,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0eoGHsJMApwkfSbWNx26bv"
@@ -32574,6 +32654,24 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs"
+    },
+    {
+      "album": {
+        "name": "Point To Prove",
+        "url": "https://open.spotify.com/album/0Ol9zAyCJMU86fDjdodJpK"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138165,
+      "name": "Point To Prove",
+      "url": "https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs"
     },
     {
       "album": {

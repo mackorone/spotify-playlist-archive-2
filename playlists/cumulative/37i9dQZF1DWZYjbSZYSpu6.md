@@ -4,7 +4,7 @@
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: GIRIBOY & Heize\)
 
-276 songs - 16 hr 15 min
+277 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [After the uphill road](https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: After the uphill road](https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF) | 4:16 | 2022-12-21 | 2023-07-08 |
 | [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 | 2022-03-24 |  |
 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 | 2023-12-13 | 2025-06-01 |
+| [Always](https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Always](https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW) | 3:35 | 2026-02-26 |  |
 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 | 2022-03-24 |  |
 | [ANOTHER I](https://open.spotify.com/track/5UK77o7OlzxEfp66YGIP8p) | [소울 스테이지](https://open.spotify.com/artist/6lIcFqetqjxjmkKXECwOjQ) | [ANOTHER I](https://open.spotify.com/album/61P9irs8qiOxt8pNHbDz36) | 3:37 | 2022-03-24 | 2022-04-20 |
 | [As I Wished 뜻대로](https://open.spotify.com/track/53l6zTxcgzRMAgD3eS6zqF) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [05](https://open.spotify.com/album/1cP958luLNOn9sYtH83Xl8) | 4:15 | 2022-03-24 | 2022-07-11 |
@@ -243,7 +244,7 @@
 | [Urban Girl](https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:00 | 2022-03-24 | 2022-04-21 |
 | [Vacance in September](https://open.spotify.com/track/3SZit36toAsecvUWqMrit4) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Pocket List 8/12](https://open.spotify.com/album/5Ib1hk6lyDWr3OR3JNHBTi) | 3:27 | 2022-05-03 | 2022-07-04 |
 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 | 2022-03-24 |  |
-| [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/track/1IOQtbBsqtSZVD32LQ2lTx) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/album/7pqvmRg7MgVDeSLdrNR6F4) | 2:51 | 2025-08-01 |  |
+| [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/track/1IOQtbBsqtSZVD32LQ2lTx) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/album/7pqvmRg7MgVDeSLdrNR6F4) | 2:51 | 2025-08-01 | 2026-02-27 |
 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 | 2022-07-25 |  |
 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2022-03-24 | 2025-06-04 |
 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 | 2022-11-06 | 2025-04-19 |

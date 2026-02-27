@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The Heart Goes to Heaven, The Head Goes to Hell",
+        "url": "https://open.spotify.com/album/4sXc1Um0c1BMee1T4T70G7"
+      },
+      "artists": [
+        {
+          "name": "That Handsome Devil",
+          "url": "https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224908,
+      "name": "Charlie's Inferno",
+      "url": "https://open.spotify.com/track/6mjtuSfqwMmvtvocsgT8xu"
+    },
+    {
+      "album": {
         "name": "Red of Tooth and Claw",
         "url": "https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK"
       },

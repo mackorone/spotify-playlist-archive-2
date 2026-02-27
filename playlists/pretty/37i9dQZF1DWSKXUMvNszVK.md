@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,747 likes - 62 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,802 likes - 62 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 31 | [Love Generation \- Edit](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Edit\)](https://open.spotify.com/album/65crznT6OSNgS5riyglAKu) | 3:24 |
 | 32 | [Point of View \- Radio Edit](https://open.spotify.com/track/1Jlt67b4oOhCoFW9GQwL9T) | [DB Boulevard](https://open.spotify.com/artist/17jVKTope5TIJoBQBTzaxj) | [Point of View](https://open.spotify.com/album/4DsEZFC6juc9cUhMSK8DXi) | 3:51 |
 | 33 | [Another Chance \- Radio Edit](https://open.spotify.com/track/0EoGXXi91KSqAIY7SSgizW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/7Mn4QEaFm9H2hVrfLdgocm) | 3:27 |
-| 34 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
+| 34 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
 | 35 | [Intro](https://open.spotify.com/track/60hb5H9yL4P4SPz7lrTvUw) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running](https://open.spotify.com/album/2OazLMNTr5Vf2YmetCJshL) | 4:54 |
 | 36 | [Saturday \- Mousse T.'s House Edit](https://open.spotify.com/track/6oblKNYDOZprcV0VViK03Z) | [Cunnie Williams](https://open.spotify.com/artist/3Do1VN5HFp6Gucpnr1ExOg) | [Peppermint Jam Records Pres\. Catch the Groove, Vol\. 5](https://open.spotify.com/album/6Sxq5IyM8NXJCNGqmCcEuN) | 3:26 |
 | 37 | [Cassius 1999 \- Radio Edit](https://open.spotify.com/track/4CHGyhVoq5AVpG47klsVrL) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 3:41 |

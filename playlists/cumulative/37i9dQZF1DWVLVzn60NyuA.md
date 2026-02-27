@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-569 songs - 1 day 5 hr 46 min
+570 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Bad](https://open.spotify.com/track/2WrxGpnCvpwiQkcHDDmVXc) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/63pt4WgsnKd5kJ3O5DBPD6) | 2:30 | 2021-12-16 | 2022-07-29 |
 | [Bad](https://open.spotify.com/track/4p1yzpajuKXwZKBQ7PyH9x) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/3uCJttNNrmUgW1jVKRHDWv) | 2:30 | 2022-07-28 | 2023-04-07 |
 | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/track/7FOqaLMa7WYCwFHfZPmgqh) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/album/2BAPA4h1cirlhNLDuQYqPY) | 3:29 | 2021-12-16 | 2022-01-11 |
-| [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-16 |  |
+| [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-16 | 2026-02-27 |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-03-25 | 2022-07-08 |
 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-05-29 |  |
 | [Badman Love \- Remix](https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Badman Love](https://open.spotify.com/album/7CSNUozGeW1fzxvDjY1RvA) | 2:48 | 2021-12-16 | 2023-04-06 |
@@ -380,6 +380,7 @@
 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2024-01-31 | 2025-11-08 |
 | [On the Low](https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:05 | 2021-12-16 |  |
 | [One Night](https://open.spotify.com/track/6mrs3TiZ3fnUnJu72OkCrG) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Isolation Room](https://open.spotify.com/album/5emWvZXLpOj5CrtK8NOuJp) | 3:43 | 2021-12-16 | 2023-04-07 |
+| [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 | 2026-02-26 |  |
 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 | 2022-07-28 | 2025-02-23 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2021-12-16 | 2022-07-29 |
 | [Oso Deh](https://open.spotify.com/track/2PebmrsrzbKxn4worrNdrx) | [Jahari](https://open.spotify.com/artist/4w0QJkFl9n9KUZxPdIMB83) | [Oso Deh](https://open.spotify.com/album/356DaM4uEodJrXX8700UYk) | 2:35 | 2021-12-16 | 2022-12-15 |

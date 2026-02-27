@@ -12305,7 +12305,7 @@
     },
     {
       "album": {
-        "name": "[0]",
+        "name": "0",
         "url": "https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H"
       },
       "artists": [
@@ -23636,7 +23636,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 160000,
       "name": "Beautiful Days",
       "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
@@ -33446,7 +33446,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189122,
       "name": "Breathing (Prod. SUMSHER)",
       "url": "https://open.spotify.com/track/65cc53tlHCprgUBpp5Lopu"
@@ -76658,7 +76658,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 269222,
       "name": "firefly",
       "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
@@ -92654,7 +92654,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 182282,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO"
@@ -98820,6 +98820,24 @@
       "duration_ms": 179660,
       "name": "HIGHLIGHT (GARBAGE TIME)",
       "url": "https://open.spotify.com/track/2cwkACF8riWTldVJcYwH3T"
+    },
+    {
+      "album": {
+        "name": "Between Cobalt and Navy",
+        "url": "https://open.spotify.com/album/0YSVtDyZSsU0MbYUHP8xLe"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Highs and Goodbyes",
+      "url": "https://open.spotify.com/track/2R8AgS1dQcau9LXnfKBIGa"
     },
     {
       "album": {
@@ -112653,6 +112671,28 @@
     },
     {
       "album": {
+        "name": "Yearbook 2025",
+        "url": "https://open.spotify.com/album/3CrEHQgT5Qxprpcmh9W6bP"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Lee Seohyun",
+          "url": "https://open.spotify.com/artist/5VEYpf0gkH9AyF7FdM2qrF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225659,
+      "name": "I'd Also Love to See You Dying (Feat. Lee Seohyun)",
+      "url": "https://open.spotify.com/track/7GZ3lZiEOwpvIueAV7qGwV"
+    },
+    {
+      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
       },
@@ -115676,7 +115716,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 207000,
       "name": "If I hadn\u2032t known you",
       "url": "https://open.spotify.com/track/0tYkNfEzbyTOWfZDNjt4Ud"
@@ -131584,6 +131624,24 @@
       "duration_ms": 175480,
       "name": "laugh!",
       "url": "https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh"
+    },
+    {
+      "album": {
+        "name": "Laughter Hole",
+        "url": "https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K"
+      },
+      "artists": [
+        {
+          "name": "Kim Chang-Wan",
+          "url": "https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113546,
+      "name": "Laughter Hole",
+      "url": "https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9"
     },
     {
       "album": {
@@ -148437,6 +148495,24 @@
     },
     {
       "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/0mSvhciNZZou7S0a1xkWd5"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Luv U",
+      "url": "https://open.spotify.com/track/5T1pvo7hV4jo6iZ9gf7u0H"
+    },
+    {
+      "album": {
         "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
         "url": "https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj"
       },
@@ -162821,6 +162897,24 @@
     },
     {
       "album": {
+        "name": "My Prelude",
+        "url": "https://open.spotify.com/album/5Qh1BSrlzsviVbB4qUFuEI"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "My Prelude",
+      "url": "https://open.spotify.com/track/4HlAj9P2Tdk3Fg2ohfQI13"
+    },
+    {
+      "album": {
         "name": "MY PRIDE",
         "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
       },
@@ -163602,7 +163696,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 211800,
       "name": "My you",
       "url": "https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw"
@@ -188130,7 +188224,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 211000,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
@@ -194050,6 +194144,24 @@
       "duration_ms": 192470,
       "name": "Reminiscent of memory",
       "url": "https://open.spotify.com/track/23wJjE6G8kImCiLYYP39QG"
+    },
+    {
+      "album": {
+        "name": "Remnant Flower (4moments Original Soundtrack Part.1)",
+        "url": "https://open.spotify.com/album/6Bn9Ldk4xPfN9ETA5VYd77"
+      },
+      "artists": [
+        {
+          "name": "kimseungjoo",
+          "url": "https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181216,
+      "name": "Remnant Flower (4moments Original Soundtrack Part.1)",
+      "url": "https://open.spotify.com/track/0dk889fQmOCtw1xrEQEMdA"
     },
     {
       "album": {
@@ -200908,6 +201020,24 @@
       "duration_ms": 193500,
       "name": "Sandfunk (feat. ELO)",
       "url": "https://open.spotify.com/track/0vM0bCUmKNGAGTmie7yv13"
+    },
+    {
+      "album": {
+        "name": "1'ONLY",
+        "url": "https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9"
+      },
+      "artists": [
+        {
+          "name": "ONE PACT",
+          "url": "https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "SANE",
+      "url": "https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s"
     },
     {
       "album": {
@@ -208180,6 +208310,24 @@
       "duration_ms": 152000,
       "name": "SHUT THAT",
       "url": "https://open.spotify.com/track/4Gym2x61AmBJnSqV9WYfeK"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/0htkcyoyK6SXnI1uaREk8A"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/6R6zXjhbvw7VtCDdKbuCTQ"
     },
     {
       "album": {
@@ -219967,6 +220115,24 @@
     },
     {
       "album": {
+        "name": "Stay here with me",
+        "url": "https://open.spotify.com/album/4i9kZ248naIF315HIh8mrA"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "Stay here with me",
+      "url": "https://open.spotify.com/track/14CBiz2JfZUOVWINmQJSnO"
+    },
+    {
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/4HfKA6oXARaF9VLhsY0Wmb"
       },
@@ -221996,6 +222162,24 @@
       "duration_ms": 208363,
       "name": "Still remember?",
       "url": "https://open.spotify.com/track/5Ry6DMof1L3yH1gPwilUOZ"
+    },
+    {
+      "album": {
+        "name": "STILL : I",
+        "url": "https://open.spotify.com/album/2SKzRvESH4uMYgg8jhcaXO"
+      },
+      "artists": [
+        {
+          "name": "ASC2NT",
+          "url": "https://open.spotify.com/artist/4w6MZBLb4aIZpffyA52Doq"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Still Rose",
+      "url": "https://open.spotify.com/track/6MgrdZL7zA381FLAQiaITj"
     },
     {
       "album": {
@@ -236896,7 +237080,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 204000,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/7G2L3lDhrwYEYGq3wGzSeL"
@@ -239080,7 +239264,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 205000,
       "name": "The way you make me happy (No tail to tell : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/3QUf78246LI8TSzH5uDtIZ"
@@ -262313,6 +262497,24 @@
     },
     {
       "album": {
+        "name": "LEESEOKHOON Digital Single \u2018When It\u2019s Called Love\u2019",
+        "url": "https://open.spotify.com/album/5cXFzlzAkJjKZU6mys5NEV"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170795,
+      "name": "When It\u2019s Called Love",
+      "url": "https://open.spotify.com/track/6iDfmFtNZGtXnpok8E7kbS"
+    },
+    {
+      "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
@@ -265606,7 +265808,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 196000,
       "name": "WHY DO YOU LOVE ME",
       "url": "https://open.spotify.com/track/4VFedNl74UrYnJ1NlEoXrH"
@@ -281664,7 +281866,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 226519,
       "name": "\ub208\ubb3c\ud3b8\uc9c0 (prod. \ubc94\uc9c4)",
       "url": "https://open.spotify.com/track/6t6owiHErleUzGk53BMFTI"

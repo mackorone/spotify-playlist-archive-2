@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 예빛 \(Yebit\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-661 songs - 1 day 14 hr 54 min
+662 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [40 Something](https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [40 Something / Those Unready Years](https://open.spotify.com/album/0FS5czCk4kQGqovOzd9qTg) | 4:07 | 2025-12-04 | 2026-01-27 |
 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 | 2024-10-16 |  |
 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 | 2024-08-22 | 2024-09-04 |
-| [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 |  |
+| [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 | 2026-02-27 |
 | [91](https://open.spotify.com/track/6VtUPmVBAJopwwMWImn252) | [지지](https://open.spotify.com/artist/1KMV5fnQtl2BbKNeQjhoqh) | [The long night is](https://open.spotify.com/album/7AhycLtXrX5cqPaw65zC7j) | 3:18 | 2025-02-18 | 2025-03-15 |
 | [A change of heart](https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU) | [on\_poem](https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL) | [A change of heart](https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY) | 3:25 | 2022-01-13 | 2022-04-20 |
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
@@ -295,6 +295,7 @@
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-04-26 | 2025-02-12 |
 | [Late Night Workout](https://open.spotify.com/track/65yx3grfHnTFhJPuYVi2QF) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [Late Night Workout](https://open.spotify.com/album/7cjr2FSE05LdsoCLgR2xkZ) | 2:29 | 2024-03-06 | 2024-03-16 |
+| [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 | 2026-02-26 |  |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2022-09-28 |
 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2022-08-18 | 2022-09-03 |
 | [Let It Pale](https://open.spotify.com/track/6fa1F99fDdvb6jsQZnzJsf) | [Sunbee](https://open.spotify.com/artist/5mWU6kFLkz7K2EBa3w7X8k) | [Sketch, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/12OnMHfBUbSNDwuRpO3MPe) | 2:46 | 2022-03-31 | 2022-04-14 |

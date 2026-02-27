@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,493 likes - 108 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,629 likes - 108 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 107 | [Bloom](https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Offering](https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl) | 2:17 |
 | 108 | [Paris City Jazz](https://open.spotify.com/track/6MKTyjA17rucsvpN4yK9Uj) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Paris City Jazz](https://open.spotify.com/album/3iPKvopT11IpQuKYsaiiKY) | 5:43 |
 
-Snapshot ID: `AAAAAFs7R7/VVGNcOx9dERBuy7RhTjiq`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

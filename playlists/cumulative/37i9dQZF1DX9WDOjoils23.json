@@ -171,6 +171,32 @@
     },
     {
       "album": {
+        "name": "Allah Toh Mangda",
+        "url": "https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra"
+      },
+      "artists": [
+        {
+          "name": "Rahul Rana",
+          "url": "https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "Arjun Sarkar",
+          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214363,
+      "name": "Allah Toh Mangda",
+      "url": "https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg"
+    },
+    {
+      "album": {
         "name": "Top 50 Punjabi Qawwalies",
         "url": "https://open.spotify.com/album/64UchtwEtAGWd4sTZDQzF0"
       },
@@ -1492,7 +1518,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"

@@ -2,7 +2,7 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Ado
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: rusino / ルシノ
 
 1,063 songs - 2 day 12 hr 56 min
 

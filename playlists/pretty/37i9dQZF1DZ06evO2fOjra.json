@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 560074,
+  "num_followers": 560155,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAABzzc4nfayffUsZGMts5nKz",
+  "snapshot_id": "aZ47gAAAAAAs8VvJnTJpyGxiJ2y7UETM",
   "tracks": [
     {
       "added_at": null,
@@ -303,18 +303,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+        "name": "The Path of Totality (Special Edition)",
+        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
         }
       ],
-      "duration_ms": 201971,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
+      "duration_ms": 190706,
+      "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
+      "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
     },
     {
       "added_at": null,
@@ -339,26 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Path of Totality (Special Edition)",
-        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
-      "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
+      "duration_ms": 201971,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain]
 
 > A selection of Anjunadeep's most iconic releases\. Find out more: <a href="https://anjunadeep.com/">Website</a> \| <a href="https://www.facebook.com/anjunadeep">Facebook</a> \| <a href="https://www.instagram.com/anjunadeep/?hl=en">Instagram</a> \| <a href="http://anjunastore.com/">Merch</a>
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 15,001 likes - 31 songs - 2 hr 53 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 15,003 likes - 31 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain]
 | 5 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 |
 | 6 | [Lie Alone \- 16BL Remix](https://open.spotify.com/track/5Fnk2uXVwy9UC6PgLUqSRD) | [L\. Doblado](https://open.spotify.com/artist/27901JqjfLO2QYhFQ1Oavo), [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Lie Alone \(16BL Remix\)](https://open.spotify.com/album/0UQ17CZ8TnAxeUN8EnbE2S) | 6:30 |
 | 7 | [Points Beyond](https://open.spotify.com/track/23N0RehCjU9KC7WfEzxdgJ) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Points Beyond](https://open.spotify.com/album/2O7HzpefeC3nKfjaD3VXNv) | 5:26 |
-| 8 | [Stormwatcher](https://open.spotify.com/track/1hd9l0AxbkeNyZTtwf8plY) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Need You EP](https://open.spotify.com/album/2otRshkbzv74U9KH8X6CER) | 6:34 |
+| 8 | [Stormwatcher](https://open.spotify.com/track/1hd9l0AxbkeNyZTtwf8plY) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Need You EP](https://open.spotify.com/album/2otRshkbzv74U9KH8X6CER) | 6:34 |
 | 9 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
 | 10 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 |
 | 11 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 |

@@ -2,9 +2,9 @@
 
 ### [indie.nl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> IJSLAND \(Abel, Sef & FAISAL\) op de cover
+> Indiepop in het Nederlands\. Cover: nonchelange
 
-297 songs - 15 hr 26 min
+299 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
 | [Discozwemmen](https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Unity](https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk) | 2:45 | 2025-02-20 | 2025-11-08 |
 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 | 2025-02-21 |
-| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 |  |
+| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 | 2026-02-27 |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
 | [DON'T BELIEVE DE KRANT](https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:38 | 2026-02-05 |  |
 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 | 2025-05-08 | 2025-12-19 |
@@ -95,7 +95,7 @@
 | [h\-e\-l\-p](https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:07 | 2025-02-03 | 2025-11-08 |
 | [Haast](https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Haast](https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f) | 3:00 | 2025-07-17 | 2025-12-01 |
 | [haat](https://open.spotify.com/track/0Nkdy8Lb6KBPcxeIGHRMYs) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [haat](https://open.spotify.com/album/0r93awg0AivOwHw6oyzZar) | 3:04 | 2024-09-19 | 2024-10-25 |
-| [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-04-24 |  |
+| [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-04-24 | 2026-02-27 |
 | [Have Fun](https://open.spotify.com/track/0TMRAlLGfejAdDUZKtA3n6) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Have Fun](https://open.spotify.com/album/550zId70EEaGEsnQirUO11) | 2:41 | 2025-01-10 | 2025-02-28 |
 | [Heilige Nacht](https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Heilige Nacht](https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU) | 3:12 | 2025-01-10 | 2025-03-14 |
 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 | 2024-10-24 | 2025-05-27 |
@@ -103,6 +103,7 @@
 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 | 2024-11-07 | 2025-05-27 |
 | [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 | 2025-03-07 | 2025-04-07 |
 | [Hete Plaat](https://open.spotify.com/track/7gjLOSH4deTDoXDxWaZoaE) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Hete Plaat](https://open.spotify.com/album/21bS7BvqWf6mwZX2bYKOO0) | 4:34 | 2025-07-17 | 2025-09-27 |
+| [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 | 2026-02-26 |  |
 | [Hotel de Goudfazanten](https://open.spotify.com/track/3k10pBkw1BbRf7gUmWARQM) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Hotel de Goudfazanten](https://open.spotify.com/album/5c3FvmDVsg3K2dNpWZGS6X) | 3:21 | 2024-10-11 | 2025-01-11 |
 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 | 2024-06-26 | 2024-09-10 |
 | [hou me vast](https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [hou me vast](https://open.spotify.com/album/2Ngl789gVEnr65lLcY4cgO) | 3:51 | 2025-04-03 | 2025-05-27 |
@@ -251,6 +252,7 @@
 | [Toen kwam jij](https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Toen kwam jij](https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ) | 4:14 | 2025-09-26 |  |
 | [TOM](https://open.spotify.com/track/2TEheyi5V6hr4P4K1F20a2) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [TOM](https://open.spotify.com/album/6hXAOu7RS5VwjGyh2zNO1h) | 4:21 | 2025-08-11 | 2026-01-15 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-06-02 | 2025-08-30 |
+| [Track 5](https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Hoofd](https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9) | 0:00 | 2026-02-26 |  |
 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 | 2024-06-26 | 2024-08-30 |
 | [troubadour](https://open.spotify.com/track/1fL4Tv0ntJcRwLpYnJL67V) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [troubadour](https://open.spotify.com/album/0BlyYPekEGbCv5RKp4Jwhi) | 2:59 | 2025-12-01 | 2025-12-03 |
 | [Très Heureux](https://open.spotify.com/track/3Iybyv19Ia1SnMO9q4kCYA) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Très Heureux](https://open.spotify.com/album/5lqubazpQwzdSX35eebdFm) | 2:58 | 2024-07-05 | 2024-09-14 |
@@ -273,11 +275,11 @@
 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 | 2025-11-08 |  |
 | [Vroeger Had Ik Alles](https://open.spotify.com/track/0xABY7pJvLdFPTRMwTVnKh) | [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Gezeik \(Soundtrack\)](https://open.spotify.com/album/66QuPm5BjL1DLk6XJVtWVW) | 1:52 | 2025-05-08 | 2025-08-04 |
 | [Waar Ontmoet Jij De Maan?](https://open.spotify.com/track/0BgXjzIyAnLf54F5hkgSJZ) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Pelumi Adejumo](https://open.spotify.com/artist/5KzL65Y4YjGMLbCewSkstC) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 5:38 | 2025-05-16 | 2025-07-19 |
-| [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 | 2025-04-11 |  |
+| [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 | 2025-04-11 | 2026-02-27 |
 | [Wauw](https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Diep In De Nacht \(Original Soundtrack\)](https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu) | 1:54 | 2025-03-28 | 2025-09-16 |
 | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/album/6pu4TsYK4brCRRwTWkiN4z) | 2:51 | 2024-06-26 | 2024-10-10 |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-26 | 2024-10-23 |
-| [We Slapen In De Lucht](https://open.spotify.com/track/5DAmgJJfetkfuKNwque4J0) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [We Slapen In De Lucht](https://open.spotify.com/album/2W7h1XL3czf36B0jL8QKpN) | 2:44 | 2026-01-30 | 2026-02-25 |
+| [We Slapen In De Lucht](https://open.spotify.com/track/5DAmgJJfetkfuKNwque4J0) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [We Slapen In De Lucht](https://open.spotify.com/album/2W7h1XL3czf36B0jL8QKpN) | 2:44 | 2026-01-30 |  |
 | [Weekenden](https://open.spotify.com/track/4oEvC47XYKLzUbcTnSMmcN) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Weekenden](https://open.spotify.com/album/5wedLTydN0F4SW2Q26wlqX) | 3:44 | 2024-08-01 | 2025-02-28 |
 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 | 2025-02-26 | 2025-06-27 |
 | [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 | 2024-07-19 |

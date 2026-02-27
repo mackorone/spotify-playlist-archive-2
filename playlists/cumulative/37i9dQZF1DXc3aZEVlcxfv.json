@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173100,
       "name": "All Joy",
       "url": "https://open.spotify.com/track/2Gpmj69SvjOvQ8VulFin1O"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 185739,
       "name": "Baba Modupe",
       "url": "https://open.spotify.com/track/5eHL0zrUKt5X0t2EBUVVi4"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 191428,
       "name": "Chineke Oma",
       "url": "https://open.spotify.com/track/13vp8PPhgZ9CTd2mRrxfVR"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189473,
       "name": "Come & See",
       "url": "https://open.spotify.com/track/2A5oGxrKWwNcEoAJcnUX4d"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 174999,
       "name": "Comforted",
       "url": "https://open.spotify.com/track/7hCfPfBRupU5PtBqbX4oYg"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 159676,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6Fg8BAc4vYhAGfMVkuSYdz"
@@ -2234,6 +2234,28 @@
       "duration_ms": 166624,
       "name": "Dance",
       "url": "https://open.spotify.com/track/4vZYHxY4vIkjA2yHbw2ZYa"
+    },
+    {
+      "album": {
+        "name": "Dance Like David",
+        "url": "https://open.spotify.com/album/2ifOguXcgPwFkw6KD5dMmr"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1QREgi3vk6vWdQK5ZKltgX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "Dance Like David",
+      "url": "https://open.spotify.com/track/0AVYx4AftpfptSBZwSoefi"
     },
     {
       "album": {
@@ -2438,7 +2460,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 134791,
       "name": "DOH",
       "url": "https://open.spotify.com/track/6wqEBk4sE8BoLfA2zxWmwO"
@@ -3152,7 +3174,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 253574,
       "name": "Eze",
       "url": "https://open.spotify.com/track/473dXnzpbJAXQqInLsiHkL"
@@ -3248,7 +3270,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 172631,
       "name": "Father",
       "url": "https://open.spotify.com/track/6cBpRahCaSlVWkFqugejDw"
@@ -4300,7 +4322,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 584411,
       "name": "Grateful - Live",
       "url": "https://open.spotify.com/track/6EhxiCqTYkJvLoZ1014BCt"
@@ -4420,7 +4442,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 221875,
       "name": "Gudu Gudu",
       "url": "https://open.spotify.com/track/7GcV1YSYuxB1nYZQOnhROZ"
@@ -4718,7 +4740,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 196493,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3J2Cqxfmgof5Vvo5MubZcZ"
@@ -4740,6 +4762,32 @@
       "duration_ms": 147692,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2Sv5TBcFr50zDLDfcwGntc"
+    },
+    {
+      "album": {
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/6EvveehL6Gg3JF17niRJk6"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
     },
     {
       "album": {
@@ -5551,6 +5599,32 @@
     },
     {
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6DYqW1UvyL3n0CbD81fxxO"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        },
+        {
+          "name": "Still Shadey",
+          "url": "https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164581,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/3Gs6YU18uwHoN72sMVJxI8"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48"
       },
@@ -5624,7 +5698,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 225142,
       "name": "Ire",
       "url": "https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4"
@@ -5894,7 +5968,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 124400,
       "name": "Joy",
       "url": "https://open.spotify.com/track/1h4Wut69zVNqNxRchJsXgn"
@@ -5930,7 +6004,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 503000,
       "name": "Joy",
       "url": "https://open.spotify.com/track/71aXJUkCNSqw16oRGJerni"
@@ -6167,6 +6241,28 @@
     },
     {
       "album": {
+        "name": "Lifter Of Men (Higher)",
+        "url": "https://open.spotify.com/album/2mTZSMh9NW1Ep8tMdJvrzH"
+      },
+      "artists": [
+        {
+          "name": "Pv Idemudia",
+          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
+        },
+        {
+          "name": "YYC Worship",
+          "url": "https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443614,
+      "name": "Lifter Of Men - Higher",
+      "url": "https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ"
+    },
+    {
+      "album": {
         "name": "Path XLV",
         "url": "https://open.spotify.com/album/52VA8Xx3KpruIXdMd1REDf"
       },
@@ -6200,7 +6296,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 213243,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/2pzRmH3yLl2Hii5qlN792v"
@@ -6500,7 +6596,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 179999,
       "name": "Lovin Me",
       "url": "https://open.spotify.com/track/1QMGcsjPnpGdBOoZOqhjVn"
@@ -7270,7 +7366,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 117462,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/0NjeULB2jjKCSCqnoTCyOf"
@@ -7988,7 +8084,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 347875,
       "name": "Oh My God O",
       "url": "https://open.spotify.com/track/1bv4gai9axfY4EQ9QHrDzz"
@@ -8080,7 +8176,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 368000,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/4sPCyyac3H3jeBzbhqdYFa"
@@ -8914,7 +9010,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210077,
       "name": "ROGIC",
       "url": "https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci"
@@ -9282,7 +9378,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 183507,
       "name": "Sunday Prayer",
       "url": "https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj"
@@ -9414,10 +9510,28 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164032,
       "name": "Synergy",
       "url": "https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4"
+    },
+    {
+      "album": {
+        "name": "TAMUNO",
+        "url": "https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1"
+      },
+      "artists": [
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "TAMUNO",
+      "url": "https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh"
     },
     {
       "album": {
@@ -9468,7 +9582,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 172637,
       "name": "Telling Everyone",
       "url": "https://open.spotify.com/track/3KpOMEy33l2fOr8ybnUjnb"
@@ -9552,7 +9666,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 188500,
       "name": "Testimony Time",
       "url": "https://open.spotify.com/track/4narPvhGzOso9SSA0PELa5"
@@ -10299,6 +10413,24 @@
     },
     {
       "album": {
+        "name": "UZWAZO ME",
+        "url": "https://open.spotify.com/album/4mEDVhMAcz8SqSGi2YxOfJ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Classik",
+          "url": "https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267679,
+      "name": "UZWAZO ME",
+      "url": "https://open.spotify.com/track/2QnLiyTitKVp7HUJTewKwz"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
@@ -10588,7 +10720,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 135822,
       "name": "What a Friend",
       "url": "https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm"

@@ -10409,6 +10409,24 @@
     },
     {
       "album": {
+        "name": "A Piece Of Strange",
+        "url": "https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA"
+      },
+      "artists": [
+        {
+          "name": "CunninLynguists",
+          "url": "https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/27SUFEhCpOTwYGdvzCbRpK"
+    },
+    {
+      "album": {
         "name": "After TTBR",
         "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
       },
@@ -24894,6 +24912,28 @@
       "duration_ms": 154399,
       "name": "Vampire Hour",
       "url": "https://open.spotify.com/track/1U29Vg8V5ivbxirZaG7XAR"
+    },
+    {
+      "album": {
+        "name": "Vaudeville Villain",
+        "url": "https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7"
+      },
+      "artists": [
+        {
+          "name": "Viktor Vaughn",
+          "url": "https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151773,
+      "name": "Vaudeville Villain",
+      "url": "https://open.spotify.com/track/6rkV9hz91Rr5iHnMRPZdEQ"
     },
     {
       "album": {

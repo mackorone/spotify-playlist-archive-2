@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: Mavo\n",
+  "description": "The future hits of today. Up Next: Kojo Blak",
   "name": "NXT",
   "tracks": [
     {
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 165000,
       "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 140011,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/0UYnnfZV0qVoYspA88nYSi"
@@ -3286,6 +3286,24 @@
       "duration_ms": 165066,
       "name": "E DON STILL ENTER",
       "url": "https://open.spotify.com/track/1rTtAqU8YnDyG86nuwuXyx"
+    },
+    {
+      "album": {
+        "name": "E-Major",
+        "url": "https://open.spotify.com/album/3hHAePr1rCWX5ImgaEdPas"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "E-Major",
+      "url": "https://open.spotify.com/track/2DQcw0LhHaTbg3JnMcV0O8"
     },
     {
       "album": {
@@ -7464,7 +7482,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 153460,
       "name": "Mama Bear",
       "url": "https://open.spotify.com/track/4E4ufQZZ3hV06rOdhJz8WX"
@@ -8865,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "Omo",
+        "url": "https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Omo",
+      "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"
+    },
+    {
+      "album": {
         "name": "Omo Temi",
         "url": "https://open.spotify.com/album/3QKCipyd2mvMeoNoN6MjRm"
       },
@@ -9424,7 +9460,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 201428,
       "name": "Piano II",
       "url": "https://open.spotify.com/track/2cTnLqq5dCxDNA6w9q5amv"
@@ -10241,6 +10277,28 @@
     },
     {
       "album": {
+        "name": "SAILOR (with Oxlade)",
+        "url": "https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184583,
+      "name": "SAILOR (with Oxlade)",
+      "url": "https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW"
+    },
+    {
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/5u4szlTB3ZXXUm2PFPGDch"
       },
@@ -10270,7 +10328,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 141176,
       "name": "SAME TIMBS",
       "url": "https://open.spotify.com/track/5ODVyCNMcfAn38zZ8d653k"
@@ -10368,6 +10426,28 @@
       "duration_ms": 266122,
       "name": "seeking happiness",
       "url": "https://open.spotify.com/track/1yiyq1dizTIrMNTyvdPxjH"
+    },
+    {
+      "album": {
+        "name": "september rush",
+        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "september rush",
+      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
     },
     {
       "album": {
@@ -11492,7 +11572,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 171807,
       "name": "Thugnificent",
       "url": "https://open.spotify.com/track/1UBvkhywSDcz9arQHOpdxZ"
@@ -11894,6 +11974,42 @@
       "duration_ms": 176000,
       "name": "Trabaye",
       "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
+    },
+    {
+      "album": {
+        "name": "TRABZ",
+        "url": "https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "TRABZ",
+      "url": "https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ"
+    },
+    {
+      "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER"
     },
     {
       "album": {
@@ -12603,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "Whine Am",
+        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Whine Am",
+      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
+    },
+    {
+      "album": {
         "name": "what a feeling",
         "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
       },
@@ -12848,7 +12982,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 176363,
       "name": "WTF",
       "url": "https://open.spotify.com/track/1lXXb8ScJCA2Fb3PwLKlfw"

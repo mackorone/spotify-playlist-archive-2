@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284102,
+  "num_followers": 284121,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Songs That Made Me Weird, Vol. 1",
         "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
       },
@@ -719,6 +703,30 @@
       "duration_ms": 251621,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+        },
+        {
+          "name": "John Cowan",
+          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
+        }
+      ],
+      "duration_ms": 315345,
+      "name": "Southern Cross",
+      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -799,30 +807,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        },
-        {
-          "name": "John Cowan",
-          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
-        }
-      ],
-      "duration_ms": 315345,
-      "name": "Southern Cross",
-      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 184687,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Humming House Party! (Live)",
-        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
-      },
-      "artists": [
-        {
-          "name": "Humming House",
-          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
-        }
-      ],
-      "duration_ms": 278854,
-      "name": "My Love (Live)",
-      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Gum Tree Canoe",
         "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 190733,
       "name": "Little Piece of My Heart",
       "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Humming House Party! (Live)",
+        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
+      },
+      "artists": [
+        {
+          "name": "Humming House",
+          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
+        }
+      ],
+      "duration_ms": 278854,
+      "name": "My Love (Live)",
+      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        }
-      ],
-      "duration_ms": 267690,
-      "name": "It's a Great Day to Be Alive",
-      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Pickin' on the 90s",
         "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
       },
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "All Will Be Well",
-        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
       "artists": [
         {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
         }
       ],
-      "duration_ms": 229000,
-      "name": "All Will Be Well",
-      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
+      "duration_ms": 267690,
+      "name": "It's a Great Day to Be Alive",
+      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1311,6 +1295,38 @@
       "duration_ms": 151466,
       "name": "Coalmine",
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "All Will Be Well",
+      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 230454,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "Holler Choir",
+          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
         }
       ],
-      "duration_ms": 230454,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+      "duration_ms": 265066,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1363,22 +1379,6 @@
       "duration_ms": 186000,
       "name": "Graceland (Live Session)",
       "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
-      },
-      "artists": [
-        {
-          "name": "Holler Choir",
-          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
-        }
-      ],
-      "duration_ms": 265066,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 396516,
       "name": "Me and Bobby McGee (2024 Mix)",
       "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",

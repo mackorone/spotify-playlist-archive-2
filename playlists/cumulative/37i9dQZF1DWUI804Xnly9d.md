@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-621 songs - 1 day 10 hr 46 min
+622 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 | 2023-09-21 | 2023-11-06 |
 | [Bas Hum Yaha](https://open.spotify.com/track/5aT7J46t6jz1qUzMv8xXgG) | [Gaurav Prasad](https://open.spotify.com/artist/50UXkbx3OJnv57kDuYq4go), [KREITTON](https://open.spotify.com/artist/4y0XL6sCyRwXqdIhMLipNz), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Bas Hum Yaha](https://open.spotify.com/album/2GGsM7tiXBfIfW3xtJTZv3) | 3:27 | 2025-06-16 |  |
 | [Bas Kaafi Hai](https://open.spotify.com/track/2yxRnMJTgBDTUf3qVX7Yu1) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Bas Kaafi Hai](https://open.spotify.com/album/0KH4Y7pf9Udh0KIP2ymRGf) | 4:57 | 2024-10-08 | 2024-11-15 |
-| [Bas Tera Hi \- Duet Version](https://open.spotify.com/track/091vrTnIlp5dp9nzBl3Wjx) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [Mouly Ganguly](https://open.spotify.com/artist/420LD7mW7SHgUZzAXQwWUv) | [Bas Tera Hi](https://open.spotify.com/album/4wXHPC3IvGekemV9B9bRwt) | 3:09 | 2025-06-16 |  |
+| [Bas Tera Hi \- Duet Version](https://open.spotify.com/track/091vrTnIlp5dp9nzBl3Wjx) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [Mouly Ganguly](https://open.spotify.com/artist/420LD7mW7SHgUZzAXQwWUv) | [Bas Tera Hi](https://open.spotify.com/album/4wXHPC3IvGekemV9B9bRwt) | 3:09 | 2025-06-16 | 2026-02-27 |
 | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/track/6fnVga9swfvgQ6r8NcRQoj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Saurabh Vaibhav](https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl) | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/album/4hxaVoj9O1DZ3bsvicYH0s) | 3:49 | 2023-08-04 | 2023-09-02 |
 | [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2023-11-21 | 2023-12-17 |
 | [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 | 2023-12-26 | 2024-01-05 |
@@ -104,6 +104,7 @@
 | [Chameli](https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chameli](https://open.spotify.com/album/5qjyXpuyhcvYmT2ruEez16) | 3:30 | 2024-11-25 | 2025-03-01 |
 | [Chand](https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS) | [Raymann Rayy](https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR) | [CHAND](https://open.spotify.com/album/3xqItK7gAwkFJPsNO6oanC) | 3:39 | 2024-09-12 | 2024-09-30 |
 | [Chand Ka Takiya](https://open.spotify.com/track/2okMPDIxBxWwlyCD9KMpIM) | [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Chand Ka Takiya](https://open.spotify.com/album/05OhJuZZurrrrTo2j5pnq6) | 2:49 | 2024-09-17 | 2025-03-01 |
+| [Chand Takiye](https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Chand Takiye](https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy) | 3:28 | 2026-02-26 |  |
 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 | 2024-02-28 | 2024-04-19 |
 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 | 2025-01-23 | 2025-02-21 |
 | [Channa Ve](https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn), [Nitin Rana](https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c) | [Channa Ve](https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2) | 3:02 | 2025-05-21 | 2025-09-27 |

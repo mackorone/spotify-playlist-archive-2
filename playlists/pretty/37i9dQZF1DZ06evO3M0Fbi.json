@@ -1,12 +1,12 @@
 {
   "description": "This is Nirvana. The essential tracks, all in one playlist.",
-  "num_followers": 1450735,
+  "num_followers": 1450824,
   "original_name": "This Is Nirvana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAah4b2/KXPuQ6l+floQMt5",
+  "snapshot_id": "aZ47gAAAAAAkdTTHCYjj88J+J46N2iRn",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Utero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 154280,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/40VSbBSYbPN10vJYeZq4tm"
+      "duration_ms": 162115,
+      "name": "School",
+      "url": "https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+        "name": "In Utero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 162115,
-      "name": "School",
-      "url": "https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j"
+      "duration_ms": 154280,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/40VSbBSYbPN10vJYeZq4tm"
     },
     {
       "added_at": null,

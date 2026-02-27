@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: TADI, Isyana Sarasvati, MAKO.
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Yung Caters
 
-216 songs - 12 hr 51 min
+219 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Back to You](https://open.spotify.com/track/3uPBDHYJPFo7ILVzShfwGS) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Forevermore](https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc) | 3:01 | 2025-10-16 |  |
 | [Bagaimana?](https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Bagaimana?](https://open.spotify.com/album/5BCij7vEkrydrOYN3EcDoG) | 4:06 | 2024-10-03 | 2025-05-02 |
 | [Balada Ibukota](https://open.spotify.com/track/0ep8KoAjChrYv8kZa5CxoD) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [Balada Ibukota](https://open.spotify.com/album/2yrrZUTQincnscYbyorV3j) | 2:54 | 2025-10-02 | 2026-02-20 |
+| [Bandung City \(UOO\)](https://open.spotify.com/track/3da5PBXzLQ3KoBGceD6QVG) | [Yung Caters](https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2) | [Bandung City \(UOO\)](https://open.spotify.com/album/093k3PKKaHm4dGiD223Opj) | 3:03 | 2026-02-26 |  |
 | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/track/5fltq57JdvtjPOz9V13N3a) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/album/1eNZ8gzpfe4ElR9U9q0iIE) | 4:24 | 2025-04-24 |  |
 | [Be My Love](https://open.spotify.com/track/5a4qqM7xdsHefJBTEzSgVb) | [I Talk Too Much When I'm Drunk](https://open.spotify.com/artist/4EvhAbrKkEcqaztPw5wouv) | [I Love Too Much When I’m Drunk](https://open.spotify.com/album/4T0HuawiX38S7XQoTO7XLZ) | 3:59 | 2025-08-28 |  |
 | [Bentang Jarak Asmara](https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP) | [Man Osman](https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF), [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Bentang Jarak Asmara](https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g) | 3:54 | 2025-06-20 |  |
@@ -102,7 +103,7 @@
 | [Ibukota](https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf) | [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Ibukota](https://open.spotify.com/album/1LhKzOU1Kxeg2HxrOm6TCS) | 3:30 | 2025-10-02 |  |
 | [If Only](https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI) | [The Skuy](https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z) | [If Only](https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL) | 4:01 | 2025-10-09 | 2026-02-13 |
 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2024-10-03 | 2025-05-02 |
-| [Istriku](https://open.spotify.com/track/21j9SPUJscVwCfxqvopLhc) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Istriku](https://open.spotify.com/album/7IgG6liynzLii4TvTVbKEa) | 2:43 | 2025-07-24 |  |
+| [Istriku](https://open.spotify.com/track/21j9SPUJscVwCfxqvopLhc) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Istriku](https://open.spotify.com/album/7IgG6liynzLii4TvTVbKEa) | 2:43 | 2025-07-24 | 2026-02-27 |
 | [Jadian](https://open.spotify.com/track/3kCvSqFu12N46Tih7acHO9) | [UNCLS](https://open.spotify.com/artist/5QElOJwHxsR83o8CcNHo0p), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jadian](https://open.spotify.com/album/4UxZp5OMWr6NegAtQHBi1B) | 3:16 | 2024-10-03 | 2025-05-02 |
 | [Jaga Nafas](https://open.spotify.com/track/0oidZ9wJZ8fRgdnXBhvI9J) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Jaga Nafas](https://open.spotify.com/album/4LNg3PmRJim465tTBQYD9d) | 3:34 | 2025-11-20 |  |
 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2024-10-03 |  |
@@ -158,6 +159,7 @@
 | [Pemula](https://open.spotify.com/track/0vAL8i68jrL5Y5L7jHgShZ) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Pemula](https://open.spotify.com/album/2q8cHBvnDPg1x8xEvof4Lt) | 3:04 | 2025-10-23 |  |
 | [Pesona](https://open.spotify.com/track/4EGJySc7IKJazb22BsuVyH) | [Daffa Reza](https://open.spotify.com/artist/1A0zhkekQcMmQDHoIC9vbG) | [Pesona](https://open.spotify.com/album/0x4zUwOC2qfyFGGQ5nc9Al) | 3:48 | 2024-10-03 | 2025-05-02 |
 | [Pesona](https://open.spotify.com/track/37cZnP06JGqD2jK01JQyfe) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Pesona](https://open.spotify.com/album/3KjunxG32U22r50ljiwpFV) | 3:55 | 2024-10-10 | 2025-10-10 |
+| [PHP](https://open.spotify.com/track/2QN6dPRKUAfeA51R2fprp1) | [Bona Pascal](https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS) | [PHP](https://open.spotify.com/album/5xzgc6Wn8gWL3PsPW8gL8n) | 4:03 | 2026-02-27 |  |
 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 | 2025-01-16 |  |
 | [porak poranda](https://open.spotify.com/track/1XxOnR2ZEs1uvVFFpYMk9D) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [porak poranda](https://open.spotify.com/album/75wb3gNnFvWFKNPyYoLjEO) | 2:50 | 2024-10-03 | 2025-08-29 |
 | [Puspa](https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Berbunga](https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg) | 3:20 | 2025-04-24 |  |
@@ -209,6 +211,7 @@
 | [Terlambat Sudah](https://open.spotify.com/track/3OGuS5aNjsncDLJfburqTo) | [Alfin Harce](https://open.spotify.com/artist/42eVd9A0XjQMzlPErbPIvy), [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Terlambat Sudah](https://open.spotify.com/album/4FQnWd3nDjvwQW0s91eExP) | 3:41 | 2024-10-03 | 2025-05-02 |
 | [Terlena](https://open.spotify.com/track/2BCvg2cfrJ0wFrRiOQyU9G) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Kasitau](https://open.spotify.com/album/3AWoEbNv1rF4sZ1Wrg751k) | 3:27 | 2025-04-24 | 2025-10-10 |
 | [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 | 2025-11-14 |
+| [The Idea of You](https://open.spotify.com/track/1c8nwr5DO8gmOhmpBX4nJQ) | [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [The Idea of You](https://open.spotify.com/album/0B76FbYfsmoJwApePOLS3H) | 4:44 | 2026-02-26 |  |
 | [THE WATCHMEN](https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP), [PB GLAS](https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG) | [THE WATCHMEN](https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki) | 3:22 | 2025-12-11 |  |
 | [Thing I Desire](https://open.spotify.com/track/0S7dD8zNVFIWOyoi06MNEQ) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/5pQjlI6nRKo113Opt38Oiy) | 3:51 | 2024-10-03 | 2025-05-02 |
 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-20 |  |

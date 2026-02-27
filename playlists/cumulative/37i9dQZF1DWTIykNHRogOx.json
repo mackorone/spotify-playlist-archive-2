@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec And\u00e9ol",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Manon Lisa",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 207986,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/6mZ6Of7cY36EhX8ILqT4rj"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 269800,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/5Q2U0R1Ije3Vbs8UCSRqpB"
@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 172053,
       "name": "Les \u00e9pines du coeur",
       "url": "https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu"
@@ -3823,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "Parano",
+        "url": "https://open.spotify.com/album/2DV7HNzGVAqi0cz1C5QEr2"
+      },
+      "artists": [
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190696,
+      "name": "Parano",
+      "url": "https://open.spotify.com/track/40VO7iidHortIPgj6ZYpbK"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v"
       },
@@ -4115,6 +4133,28 @@
     },
     {
       "album": {
+        "name": "Quand on s'engueule",
+        "url": "https://open.spotify.com/album/7FGgYIUBiknLtFO6RO666n"
+      },
+      "artists": [
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        },
+        {
+          "name": "Mathieu Canaby",
+          "url": "https://open.spotify.com/artist/74jRXWKxm3Mlc0EhyzMsW1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Quand on s'engueule",
+      "url": "https://open.spotify.com/track/2R8VKVsNT5wi8QU08n73ed"
+    },
+    {
+      "album": {
         "name": "Paris Amour",
         "url": "https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5"
       },
@@ -4130,6 +4170,24 @@
       "duration_ms": 203586,
       "name": "Que la vie est belle",
       "url": "https://open.spotify.com/track/0QDrItLjyI726Im83QR66W"
+    },
+    {
+      "album": {
+        "name": "Que Ma Peau",
+        "url": "https://open.spotify.com/album/0Uos1SYcI4YEVnnNAI5jXj"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165279,
+      "name": "Que Ma Peau",
+      "url": "https://open.spotify.com/track/1PdWbXnOiud2UTSvvklYBa"
     },
     {
       "album": {
@@ -4682,7 +4740,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 160346,
       "name": "Thelma et Louise",
       "url": "https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz"
@@ -4964,6 +5022,24 @@
       "duration_ms": 184546,
       "name": "Un homme heureux",
       "url": "https://open.spotify.com/track/6aFYcIEHx17g7tInOQFF3t"
+    },
+    {
+      "album": {
+        "name": "un th\u00e9?",
+        "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152659,
+      "name": "un th\u00e9?",
+      "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
     },
     {
       "album": {

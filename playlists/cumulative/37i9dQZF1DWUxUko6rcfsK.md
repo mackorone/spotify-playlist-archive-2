@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-208 songs - 11 hr 45 min
+209 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2024-07-01 | 2024-10-22 |
 | [Jump Right In](https://open.spotify.com/track/1W89lDI2ELorocAEH1Ttyc) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Jump Right In](https://open.spotify.com/album/7jPP5NG0VlgANDItDOZWJO) | 2:48 | 2025-10-09 |  |
 | [Just Another Road](https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Just Another Road](https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6) | 3:00 | 2026-01-10 |  |
-| [Kayo](https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-05-15 |  |
+| [Kayo](https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-05-15 | 2026-02-27 |
 | [Lari](https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Lari](https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ) | 3:29 | 2024-09-26 | 2025-05-27 |
 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 | 2025-12-04 |  |
 | [Latter Days](https://open.spotify.com/track/2CRnmDhG6LAy9qYg4fId01) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM), [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Latter Days \(Deluxe Version\)](https://open.spotify.com/album/1ALJaB4HB3VGNPb7r9wlQB) | 2:54 | 2026-02-06 |  |
@@ -172,7 +172,7 @@
 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2024-07-01 | 2025-01-10 |
 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 | 2024-07-01 | 2025-02-04 |
 | [Still Love](https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love](https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ) | 2:57 | 2024-09-19 | 2025-05-23 |
-| [Stripes](https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Stripes](https://open.spotify.com/album/5e1hRjKNjbpWu6AntxnJMM) | 3:11 | 2025-08-29 | 2026-01-15 |
+| [Stripes](https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Stripes](https://open.spotify.com/album/5e1hRjKNjbpWu6AntxnJMM) | 3:11 | 2025-08-29 |  |
 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2024-07-01 | 2025-03-08 |
 | [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 | 2026-01-29 |  |
 | [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 | 2024-07-23 | 2025-04-25 |
@@ -186,6 +186,7 @@
 | [The City](https://open.spotify.com/track/1l3h3VMG7JTXJkketTj3cJ) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [The City](https://open.spotify.com/album/4AGhuWCKdBxE7fmZnyF1Zm) | 3:59 | 2026-02-19 |  |
 | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/track/1vE88eOSWUb2hjljglRfc1) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/album/2RcjbKoEHJVmhX5DYD3PMu) | 5:39 | 2025-04-03 | 2026-02-07 |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-07-25 | 2025-05-23 |
+| [The Road Ahead \(Life The Way It Is\) \- Radio version](https://open.spotify.com/track/3POcaDOC7ojGvpFOdbMHgG) | [City To City](https://open.spotify.com/artist/7vDb491yruvfnR8vu2dH4o) | [The Road Ahead \(Life The Way It Is\)](https://open.spotify.com/album/6xrrAKEOF4Qb5MSripRerU) | 3:48 | 2026-02-26 |  |
 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2024-11-14 | 2025-10-10 |
 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-07-17 |  |
 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 | 2024-07-01 | 2024-12-21 |

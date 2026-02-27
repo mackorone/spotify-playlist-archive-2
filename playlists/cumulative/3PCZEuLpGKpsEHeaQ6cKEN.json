@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Layton Giordani &amp; Camden Cox",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Max Styler",
   "name": "Armada Today",
   "tracks": [
     {
@@ -1210,6 +1210,32 @@
       "duration_ms": 169911,
       "name": "Always And Forever - UK Radio Edit",
       "url": "https://open.spotify.com/track/1YVUM5pSCaJJSvyGhSMP8H"
+    },
+    {
+      "album": {
+        "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
+        "url": "https://open.spotify.com/album/1gcqQomUJz8hb8iXDZDApE"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Dicosis",
+          "url": "https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
+      "url": "https://open.spotify.com/track/0J53OaOuSp7RARHjj1wMTh"
     },
     {
       "album": {
@@ -3580,7 +3606,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 176000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj"
@@ -14806,7 +14832,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 170702,
       "name": "huh?!",
       "url": "https://open.spotify.com/track/5RqBCAB4zeFGYbjgvZpiVb"
@@ -25349,6 +25375,24 @@
     },
     {
       "album": {
+        "name": "Positive Energy",
+        "url": "https://open.spotify.com/album/3JfZx0R2kR3LptANyy1vGv"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Positive Energy",
+      "url": "https://open.spotify.com/track/44p0PfEWj7s2cOtxDxGQgO"
+    },
+    {
+      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -26652,6 +26696,24 @@
       "duration_ms": 216000,
       "name": "Revelation - Renato Cohen Remix",
       "url": "https://open.spotify.com/track/0sVhM9VdvNyudSmtn5R60b"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/573w61l3uXopd42kO3hiIU"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252115,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/7Kx5QPbOcxUjRM71VadKbE"
     },
     {
       "album": {

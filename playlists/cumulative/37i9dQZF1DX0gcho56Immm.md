@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Ydegirl
 
-243 songs - 14 hr 9 min
+248 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,14 +23,17 @@
 | [An Embroidery](https://open.spotify.com/track/7FG7r7bGcTqjapPULaJ2v6) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [World of Work](https://open.spotify.com/album/7r1cQPyAwQfhQIw9H9eGB5) | 4:09 | 2025-03-13 |  |
 | [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-19 | 2025-07-19 |
 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 | 2025-09-26 |  |
+| [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 | 2026-02-26 |  |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 |  |
 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-03-13 |  |
 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/6kvYlDN7rVedMOE7VxeQGg) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/album/59V4YNExoSF8HH4JVEtn6k) | 7:03 | 2025-03-13 | 2025-09-06 |
 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 | 2025-09-12 |  |
 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 | 2025-10-17 |  |
+| [Body Language](https://open.spotify.com/track/0ebIDciVUpDhnNrivrXMzv) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Body Language](https://open.spotify.com/album/4v2n6AI78jG6e3MQlQjj0C) | 3:04 | 2026-02-26 |  |
 | [Borrow](https://open.spotify.com/track/6Ro5eA9bg0rPvY2SpfK0Yl) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Sky Record](https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y) | 4:04 | 2025-09-26 |  |
 | [Boyface](https://open.spotify.com/track/16WSwwZg4SPNYwy3X4W7Ns) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [No More Like This](https://open.spotify.com/album/12DsfLStHj9iTWgbNQVoRK) | 3:16 | 2026-01-30 |  |
 | [Boys In Movies](https://open.spotify.com/track/52aOlXUlDbqSu811EeWP3H) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI), [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [I Guess Nothing Will Be The Same](https://open.spotify.com/album/5WBpaqXvTImljfXirlFZs5) | 3:44 | 2025-03-13 | 2025-08-09 |
+| [Butterfly Knives](https://open.spotify.com/track/7kSrQbne9ovuITpTocNc4i) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Butterfly Knives](https://open.spotify.com/album/4zkWLFaNafYsgjBggpjMF6) | 3:35 | 2026-02-26 |  |
 | [Bygones](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Fantasy](https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG) | 4:00 | 2025-12-05 |  |
 | [Candy Says](https://open.spotify.com/track/3kqBmvGhDR5TpwWci9vMHn) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Candy says](https://open.spotify.com/album/5PKcI4pE9f3m5JFHZ1ztfM) | 3:36 | 2025-03-13 | 2025-08-09 |
 | [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 | 2025-08-20 |
@@ -106,6 +109,7 @@
 | [helix](https://open.spotify.com/track/4kQ9vp1V2Jj6Cdqx3bu00b) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [helix](https://open.spotify.com/album/7p4qDyU5g2cuiMCnai3jAK) | 4:15 | 2025-06-26 |  |
 | [hello hello](https://open.spotify.com/track/6xl7k4T3EJGtzrCom3hBVT) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [hello hello](https://open.spotify.com/album/4BbSqqhkKfNBEJaxAbC2av) | 2:06 | 2025-06-26 | 2026-02-07 |
 | [Hello Universe](https://open.spotify.com/track/4pmAO0JC3xwsTNlxGWfhde) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Hello Universe](https://open.spotify.com/album/2jXsMO8q6Yfn2s0Uvve0Di) | 3:03 | 2025-04-24 |  |
+| [here in my room](https://open.spotify.com/track/2av0XBYiEIJMEhjya0QAnr) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [here in my room](https://open.spotify.com/album/5NjlGx8kF5BqlKzN4ovaCn) | 2:52 | 2026-02-26 |  |
 | [Hey Girl](https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Corpus](https://open.spotify.com/album/3eX3zbQQylwOS1mX7Wp2ZO) | 4:01 | 2025-03-13 | 2026-01-17 |
 | [Hibiscus](https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R) | [Carré](https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Hibiscus](https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn) | 2:59 | 2026-01-30 |  |
 | [Higher](https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Higher](https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73) | 2:36 | 2026-02-12 |  |
@@ -229,6 +233,7 @@
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-08 |  |
 | [U Projected 2](https://open.spotify.com/track/0ZMfvxORfTTH4IVITqsQoh) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Sent From My Telephone](https://open.spotify.com/album/0l5WnDIdqIofDQaVhzOkyl) | 2:06 | 2025-03-13 | 2026-01-24 |
 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-03-13 | 2025-08-09 |
+| [Under my bed](https://open.spotify.com/track/1w1a1ao2QB7I8w1vhjQkMV) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Under my bed](https://open.spotify.com/album/6PW5lLNR9cAhIEJJVlrdso) | 2:52 | 2026-02-26 |  |
 | [under your spell](https://open.spotify.com/track/7rC4bw9lF0zMF0BOJxPYsH) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [under your spell](https://open.spotify.com/album/4sWgv3Wjp4DxmtnQAtqfJg) | 3:47 | 2025-04-10 | 2026-01-24 |
 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 | 2025-05-29 |  |
 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-08-18 |  |

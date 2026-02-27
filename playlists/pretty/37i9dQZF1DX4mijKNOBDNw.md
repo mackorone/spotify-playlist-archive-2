@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,715 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,723 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 54 | [Piba Cumbia](https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Piba Cumbia](https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp) | 3:34 |
 | 55 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
 | 56 | [Noche](https://open.spotify.com/track/60y8hKEZjCMchod0EcEnN7) | [Valentina Peralta](https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId), [Fabián Hidalgo](https://open.spotify.com/artist/2ZylpF6ChLnfAkQHINmf8r) | [Noche](https://open.spotify.com/album/1rbgnjnxu4tHWNdf2OuArH) | 4:31 |
-| 57 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
-| 58 | [Lisístrata](https://open.spotify.com/track/6BxjJVZL5GMv8OnyUP587z) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/4eg8ReqTsC0N8BZwdEIHKN) | 3:57 |
+| 57 | [Lisístrata](https://open.spotify.com/track/6BxjJVZL5GMv8OnyUP587z) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/4eg8ReqTsC0N8BZwdEIHKN) | 3:57 |
+| 58 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
 | 59 | [Ni una Menos](https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Sátira](https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub) | 2:23 |
 | 60 | [Se Quemó](https://open.spotify.com/track/2x3pyIaB1hsqU7W06lfYDL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 4:43 |
 | 61 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
-| 62 | [Ni Encerradas Ni Con Miedos](https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Alma Mestiza](https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm) | 2:53 |
-| 63 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
+| 62 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
+| 63 | [Ni Encerradas Ni Con Miedos](https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Alma Mestiza](https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm) | 2:53 |
 | 64 | [Quememos el Reino](https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Quememos el Reino](https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR) | 4:27 |
 | 65 | [Idealizar, nunca más](https://open.spotify.com/track/454mv67DU2LHuuP2gKh1vx) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el) | [Idealizar, nunca más](https://open.spotify.com/album/5bcdtAzzuqKxdtDgYGAuqz) | 3:41 |
 

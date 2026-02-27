@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 49953,
+  "num_followers": 49962,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -169,24 +169,20 @@
       "url": "https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi"
     },
     {
-      "added_at": "2023-04-12 19:49:41",
+      "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Zien",
-        "url": "https://open.spotify.com/album/3fDaMcFWW1zR18e6umeiOf"
+        "name": "Onderweg",
+        "url": "https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g"
       },
       "artists": [
         {
           "name": "Marco Borsato",
           "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        },
-        {
-          "name": "Do",
-          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Voorbij",
-      "url": "https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6"
+      "duration_ms": 245200,
+      "name": "Zij",
+      "url": "https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -261,20 +257,24 @@
       "url": "https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq"
     },
     {
-      "added_at": "2020-02-10 14:27:21",
+      "added_at": "2023-04-12 19:49:41",
       "album": {
-        "name": "Onderweg",
-        "url": "https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g"
+        "name": "Zien",
+        "url": "https://open.spotify.com/album/3fDaMcFWW1zR18e6umeiOf"
       },
       "artists": [
         {
           "name": "Marco Borsato",
           "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        },
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Zij",
-      "url": "https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN"
+      "duration_ms": 246000,
+      "name": "Voorbij",
+      "url": "https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6"
     },
     {
       "added_at": "2020-02-10 14:27:21",

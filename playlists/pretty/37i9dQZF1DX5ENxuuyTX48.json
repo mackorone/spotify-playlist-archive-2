@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: Bernadya",
-  "num_followers": 27072,
+  "num_followers": 27078,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
+        "name": "Penyangkalan",
+        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        }
+      ],
+      "duration_ms": 240607,
+      "name": "Penyangkalan",
+      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
+    },
+    {
+      "added_at": "2026-01-30 11:45:04",
+      "album": {
         "name": "ambiVert",
         "url": "https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 256156,
       "name": "Tetap Bukan Kamu (feat. Rony Parulian)",
       "url": "https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA"
-    },
-    {
-      "added_at": "2026-01-30 11:45:04",
-      "album": {
-        "name": "Penyangkalan",
-        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
-      },
-      "artists": [
-        {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
-        }
-      ],
-      "duration_ms": 240607,
-      "name": "Penyangkalan",
-      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
     },
     {
       "added_at": "2026-01-30 11:45:04",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "Mengudara",
-        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 285071,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
-    },
-    {
-      "added_at": "2026-01-30 11:45:04",
-      "album": {
         "name": "work",
         "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 145756,
       "name": "work",
       "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
+    },
+    {
+      "added_at": "2026-01-30 11:45:04",
+      "album": {
+        "name": "Mengudara",
+        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 285071,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
     },
     {
       "added_at": "2026-01-30 11:45:04",

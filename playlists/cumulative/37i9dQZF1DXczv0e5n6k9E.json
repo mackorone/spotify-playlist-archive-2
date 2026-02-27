@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FANN",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ethismos",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1110,6 +1110,28 @@
       "duration_ms": 193578,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/5PNsOouwx8k8zzOxqw20kP"
+    },
+    {
+      "album": {
+        "name": "AMAZING (Remix)",
+        "url": "https://open.spotify.com/album/5n9BmLtebD4J2uuKlgTKrj"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "AMAZING - Remix",
+      "url": "https://open.spotify.com/track/2lv40gMcnHgMTYnyBX1mL9"
     },
     {
       "album": {
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 202800,
       "name": "BRO X3",
       "url": "https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB"
@@ -3255,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "DEMONS",
+        "url": "https://open.spotify.com/album/35l8x1YscSwxF8S6cKWL4A"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "4k Studio",
+          "url": "https://open.spotify.com/artist/1Z2k7DBKGZQGuvuB4RtnOo"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158766,
+      "name": "DEMONS",
+      "url": "https://open.spotify.com/track/6Wyfsu2p4Qi7I0b5l571uv"
+    },
+    {
+      "album": {
         "name": "Den Koimamai",
         "url": "https://open.spotify.com/album/5TxVXH7UsMqj5QnyOcWksg"
       },
@@ -3908,7 +3952,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 206640,
       "name": "Echo Summer",
       "url": "https://open.spotify.com/track/2HdusSddU4ImVttg4Rl9b1"
@@ -4386,7 +4430,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178146,
       "name": "EUROSHARK",
       "url": "https://open.spotify.com/track/7JRewNHAApiynU6ep0FBt8"
@@ -5839,6 +5883,28 @@
     },
     {
       "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202431,
+      "name": "Gyalinos Dromeas",
+      "url": "https://open.spotify.com/track/0vpWNB6yOXadBWhpArZpHR"
+    },
+    {
+      "album": {
         "name": "HABIBI",
         "url": "https://open.spotify.com/album/2IIfo5Gx3Uc9ihOtql0iqJ"
       },
@@ -6106,6 +6172,32 @@
       "duration_ms": 226595,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/6KIKPP18A8XR66bRVMy08k"
+    },
+    {
+      "album": {
+        "name": "Huncho Flow",
+        "url": "https://open.spotify.com/album/4yoG2fRy7PjN43GH8nH3bL"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Wez",
+          "url": "https://open.spotify.com/artist/4aRcffB8BWQZB1DcuiMPs8"
+        },
+        {
+          "name": "mi368",
+          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138459,
+      "name": "Huncho Flow",
+      "url": "https://open.spotify.com/track/6DMfgDhIODTrMBdRIlnYzH"
     },
     {
       "album": {
@@ -7477,6 +7569,28 @@
     },
     {
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/02nOn1bxTYpyCqSW6l2aiK"
+      },
+      "artists": [
+        {
+          "name": "YT K",
+          "url": "https://open.spotify.com/artist/24YLsxaeE17GVfcqwEQLpH"
+        },
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129182,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3WYEiiDx77EhR9UWggOXIG"
+    },
+    {
+      "album": {
         "name": "LOGIA",
         "url": "https://open.spotify.com/album/64XLG1PntIfSNtfQr37wvq"
       },
@@ -8185,6 +8299,24 @@
     },
     {
       "album": {
+        "name": "Medellin Baby",
+        "url": "https://open.spotify.com/album/4JbwsUOIn8Xy1wEl2dQ6tG"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Medellin Baby",
+      "url": "https://open.spotify.com/track/2jEHEz9fySJ8RXOAE37vsu"
+    },
+    {
+      "album": {
         "name": "Megali Gata",
         "url": "https://open.spotify.com/album/3duVsNE324MlMVeVSI1N3m"
       },
@@ -8394,7 +8526,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 154541,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/6IzsPGUorc1wM2AEW3Cypy"
@@ -9168,7 +9300,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 199133,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW"
@@ -10618,7 +10750,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 117556,
       "name": "PISTOLERO",
       "url": "https://open.spotify.com/track/4pZKsvyZmJUXNOzyACE1lV"
@@ -10830,7 +10962,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 169811,
       "name": "Prezi",
       "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
@@ -11812,6 +11944,24 @@
       "duration_ms": 156000,
       "name": "SCARS",
       "url": "https://open.spotify.com/track/5HABP6Jx4xqp35Lnn7Mikk"
+    },
+    {
+      "album": {
+        "name": "SCORPION",
+        "url": "https://open.spotify.com/album/6or59JTwZGG8D75dzApEce"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187327,
+      "name": "SCORPION",
+      "url": "https://open.spotify.com/track/6rDouOr62rj3byxMSzsffB"
     },
     {
       "album": {

@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 179000,
       "name": "Sun & Lemonade",
       "url": "https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167170,
       "name": "U GOT PAID !!!!",
       "url": "https://open.spotify.com/track/4AL7zQTdkSkFBr1Sk0lhDg"
@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
+        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
+      },
+      "artists": [
+        {
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340387,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
+      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
         "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
       },
@@ -2736,6 +2754,36 @@
       "duration_ms": 194149,
       "name": "\u05d0\u05e0\u05d9 \u05d7\u05d5\u05e9\u05d1 \u05e2\u05dc\u05d9\u05d4",
       "url": "https://open.spotify.com/track/15ZdDwpwC1XKOCdf126MSl"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d2\u05d9\u05dc\u05ea \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea \u05e9\u05dc \u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d0\u05d9\u05dd/\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6GDePGiF7PQ2Uu0h68Ufl1"
+      },
+      "artists": [
+        {
+          "name": "Shalom Gad",
+          "url": "https://open.spotify.com/artist/45olrcRwLHdq9uqezp67Cy"
+        },
+        {
+          "name": "Ollie Danon",
+          "url": "https://open.spotify.com/artist/1hoFAEXkhrWmmS5G9NFc6U"
+        },
+        {
+          "name": "Eran Tzur",
+          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+        },
+        {
+          "name": "Nir Shlomo",
+          "url": "https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260759,
+      "name": "\u05d0\u05e0\u05d9 \u05db\u05d5\u05ea\u05d1",
+      "url": "https://open.spotify.com/track/57VmiEvOUQSISwkMctBc70"
     },
     {
       "album": {
@@ -4521,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05d1\u05d1\u05ea \u05d0\u05d7\u05ea",
+        "url": "https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo"
+      },
+      "artists": [
+        {
+          "name": "Rotem Shafran",
+          "url": "https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191474,
+      "name": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05d1\u05d1\u05ea \u05d0\u05d7\u05ea",
+      "url": "https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05db\u05dc \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj"
       },
@@ -5412,7 +5478,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189360,
       "name": "\u05dc\u05d9\u05e9\u05d5\u05df \u05dc\u05d1\u05d3",
       "url": "https://open.spotify.com/track/6rH3mlKrrFogxYazppQREM"

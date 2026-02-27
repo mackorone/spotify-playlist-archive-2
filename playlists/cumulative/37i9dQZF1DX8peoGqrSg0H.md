@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP KRIT
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: DICE
 
-842 songs - 2 day 1 hr 29 min
+843 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [แค่คืบ \(เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม\)](https://open.spotify.com/track/0m0yjlnu8IeuDddotXQyRQ) | [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv) | [แค่คืบ \- Single](https://open.spotify.com/album/2nuWP2sSzKDOa2g1DH5WkZ) | 3:22 | 2024-01-03 | 2024-01-18 |
 | [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/track/5kO0p4CfIxfU8369CArfe7) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/album/0znjg1ojYEygDWnrvRpK5I) | 4:00 | 2022-10-21 | 2022-11-04 |
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-05 |  |
+| [แค่อกยังไม่เท่าไหล่ \(Not That Bad\)](https://open.spotify.com/track/04j2NAyFozCMD79a2nDGLs) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [แค่อกยังไม่เท่าไหล่ \(Not That Bad\)](https://open.spotify.com/album/2yCAMwOhZ1mOtQRmUQ1mMr) | 3:22 | 2026-02-26 |  |
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-05-26 | 2022-06-10 |
 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-06-02 | 2022-06-24 |
 | [แค่เธอเท่านั้น \(No One Else\) \(เพลงประกอบซีรีส์ สายรหัสเทวดา Perfect 10 Liners\)](https://open.spotify.com/track/15h2FKedbdrgOrtl4UH7eM) | [PERTH](https://open.spotify.com/artist/2rfLsJN7ezbbpFC4ItgMyQ), [Santa Pongsapak](https://open.spotify.com/artist/5RsaGNLaZQWldhLYUb4Zuj) | [แค่เธอเท่านั้น \(No One Else\) \- Single](https://open.spotify.com/album/7yQq5DTYQvQ1JyyeE2Hl1a) | 3:21 | 2024-12-26 | 2025-01-10 |
@@ -791,7 +792,7 @@
 | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/album/2hDOB63qOPVwAiJSVvZHtl) | 3:20 | 2023-02-02 | 2023-02-24 |
 | [โค้ดลับ](https://open.spotify.com/track/7yPsDvID4lBpGfm2AHliHy) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โค้ดลับ](https://open.spotify.com/album/7eSrWCLACdNQiikod3JOuU) | 3:51 | 2026-01-29 | 2026-02-06 |
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-26 | 2024-01-19 |
-| [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/track/0XD4SwzwVcepNKCtr2i37z) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/album/1nkCVldSm0BACa1JvBONAq) | 2:54 | 2026-02-12 |  |
+| [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/track/0XD4SwzwVcepNKCtr2i37z) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/album/1nkCVldSm0BACa1JvBONAq) | 2:54 | 2026-02-12 | 2026-02-27 |
 | [โสดสนิท \(100% single\)](https://open.spotify.com/track/1DCHQy6QgSlhjAsGr2wbEi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [โสดสนิท \(100% single\)](https://open.spotify.com/album/6WgtoQ25rW94D4gO7zJGZ2) | 2:55 | 2026-02-12 | 2026-02-20 |
 | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/track/1ncwheJzbPTvNhKtwvsrjM) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/album/0kcSrOXptP3PBv9T8r22Qc) | 3:04 | 2025-03-20 | 2025-04-25 |
 | [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/track/3JDHYk07aecvjfD0sGtSw5) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/album/4ZZNajw0mJqgRii3twhyDQ) | 4:06 | 2024-10-24 | 2024-11-01 |

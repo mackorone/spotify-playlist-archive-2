@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Ayo Maff",
+  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Priesst",
   "name": "afro adura ",
   "tracks": [
     {
@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Omo",
+        "url": "https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Omo",
+      "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"
+    },
+    {
+      "album": {
         "name": "Kashamadupe",
         "url": "https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D"
       },
@@ -1851,6 +1869,28 @@
     },
     {
       "album": {
+        "name": "Polanco",
+        "url": "https://open.spotify.com/album/528uEAvw5jD1jkgYGNS2dj"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138031,
+      "name": "Polanco",
+      "url": "https://open.spotify.com/track/7g5AHKoB3pi5YjfcC2rbdj"
+    },
+    {
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -1906,7 +1946,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164848,
       "name": "Pressure, Pt.2",
       "url": "https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu"
@@ -2004,7 +2044,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 147777,
       "name": "Safer",
       "url": "https://open.spotify.com/track/4h5GUtukxJVkNbFsIooGXU"
@@ -2410,7 +2450,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 221864,
       "name": "Vision 2020",
       "url": "https://open.spotify.com/track/19qcOFIW6mYHwKYSfY2HWo"
@@ -2440,7 +2480,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 182117,
       "name": "Waka",
       "url": "https://open.spotify.com/track/0mCBtZyqiep9yhdaGngqkf"

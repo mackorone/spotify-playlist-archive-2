@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Low\-Red in cover della playlist dello street rap italiano ⛓️
+> Pyrex in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,006 likes - 55 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,979 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 54 | [Tic](https://open.spotify.com/track/0Zh291dBD3BuTA3FcXMrEp) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Tic](https://open.spotify.com/album/2tanCOV74q4wP2Bm7WUNZD) | 2:17 |
 | 55 | [Street Bastard \(feat\. Jake La Furia\)](https://open.spotify.com/track/1ljlU4QoceuocGilEIpa46) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Street Bastard \(feat\. Jake La Furia\)](https://open.spotify.com/album/1Ok0FxGDnNiPeDZnlZYs6h) | 2:24 |
 
-Snapshot ID: `AAAAAIBdrvb0JK8xd/CRkW78xHwOjlG4`
+Snapshot ID: `AAAAAP0a+n8FutT3YUIDUlvc++60PyFe`

@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ⚡️ qui un sacco di musica giovane ⚡️ Cover: Elena D'Elia
+> ⚡️ qui un sacco di musica giovane ⚡️ Cover: LDA e Aka 7even
 
 1,019 songs - 1 day 23 hr 27 min
 

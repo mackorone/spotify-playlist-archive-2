@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Exchange",
+        "url": "https://open.spotify.com/album/0owYEPLNrgzycM4sSeNBx2"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262325,
+      "name": "Beautiful Exchange",
+      "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
+    },
+    {
+      "album": {
         "name": "Beautiful Thing",
         "url": "https://open.spotify.com/album/4PbdAXf6e5aecwIqEt21G1"
       },
@@ -3110,6 +3128,24 @@
       "duration_ms": 691541,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
+    },
+    {
+      "album": {
+        "name": "Dumije",
+        "url": "https://open.spotify.com/album/1qIrvb21SxtTlmpjYKmlvq"
+      },
+      "artists": [
+        {
+          "name": "Joseph Briggs",
+          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "Dumije",
+      "url": "https://open.spotify.com/track/0jYCGKF8WaWIAVgNDEC3Na"
     },
     {
       "album": {
@@ -9391,6 +9427,24 @@
     },
     {
       "album": {
+        "name": "NEVER BOW TO BAAL",
+        "url": "https://open.spotify.com/album/35OUrFXfiL2PvgTnYTaS1H"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538000,
+      "name": "NEVER BOW TO BAAL",
+      "url": "https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd"
+    },
+    {
+      "album": {
         "name": "REDEEMED",
         "url": "https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S"
       },
@@ -9958,7 +10012,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 707212,
       "name": "OLD CLASSICS",
       "url": "https://open.spotify.com/track/4zcUIRgt8G3oqMXJM0BeIR"
@@ -10284,7 +10338,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 246473,
       "name": "ONLY JESUS CAN SAVE",
       "url": "https://open.spotify.com/track/3A36Oa4VIZMyoQhRl4hG9F"
@@ -12334,7 +12388,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 562626,
       "name": "Thank You Jesus",
       "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
@@ -13720,7 +13774,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167561,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf"

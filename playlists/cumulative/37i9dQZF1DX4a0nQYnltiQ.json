@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "The #1 Destination for the best melodies in the world. Cover: Natanya",
+  "description": "The #1 Destination for the best melodies in the world. Cover: Leigh-Anne",
   "name": "Essence",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210975,
       "name": "30 Something",
       "url": "https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 185680,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 145977,
       "name": "downward spiral",
       "url": "https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI"
@@ -966,10 +966,28 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 174040,
       "name": "Go Where You're Wanted",
       "url": "https://open.spotify.com/track/31I91A2vqfBKo6z4YknN0F"
+    },
+    {
+      "album": {
+        "name": "My Ego Told Me To",
+        "url": "https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204001,
+      "name": "Goodbye Goodmorning",
+      "url": "https://open.spotify.com/track/3tT0G35LmYq159xYGCBGSU"
     },
     {
       "album": {
@@ -988,6 +1006,24 @@
       "duration_ms": 157183,
       "name": "Guitar",
       "url": "https://open.spotify.com/track/4nJkFvJmrEllCKHlrDJcN7"
+    },
+    {
+      "album": {
+        "name": "hate you bad <3",
+        "url": "https://open.spotify.com/album/0wGgsPQqo7kFJlHLDd2KqX"
+      },
+      "artists": [
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191417,
+      "name": "hate you bad <3",
+      "url": "https://open.spotify.com/track/52c7hLD3PGD3IqHWM7DLic"
     },
     {
       "album": {
@@ -1157,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176887,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
+    },
+    {
+      "album": {
         "name": "Made 4 U",
         "url": "https://open.spotify.com/album/0Z95ZYpPatQwxStl1eociG"
       },
@@ -1266,7 +1320,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 212559,
       "name": "More Light (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
@@ -1999,6 +2053,28 @@
     },
     {
       "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
+    },
+    {
+      "album": {
         "name": "9PM IN PARIS",
         "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
       },
@@ -2094,6 +2170,24 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176828,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
     },
     {
       "album": {

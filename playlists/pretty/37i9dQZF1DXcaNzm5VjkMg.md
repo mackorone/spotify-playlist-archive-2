@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,522 likes - 96 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,530 likes - 96 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 48 | [Dia Dia Dia](https://open.spotify.com/track/7htWuazarn407jLZTQZp8P) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 4:26 |
 | 49 | [Pesan Cinta](https://open.spotify.com/track/41M4whJ2Vy5UV9tvWaVt8B) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:23 |
 | 50 | [Terima Kasih, Masih Disini](https://open.spotify.com/track/5v3MURRjjVuSv1YSjIygcX) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Egen](https://open.spotify.com/album/6N1kgnyxQta615KlcCjNMD) | 3:49 |
-| 51 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 |
+| 51 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 |
 | 52 | [Nada Nada Cinta](https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Nada \- Nada Cinta](https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF) | 4:31 |
 | 53 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
 | 54 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73782,
+  "num_followers": 73783,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAa/kAQ2Z6zXjJWP5zcL69y",
+  "snapshot_id": "aZ47gAAAAADqdVh6Wy6MnYIDAPw5UqlM",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,42 @@
       "duration_ms": 416842,
       "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simples Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 233795,
+      "name": "Hoje \u00e9 tempo de louvar a Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 234103,
+      "name": "Amo o Senhor",
+      "url": "https://open.spotify.com/track/1wGL1n0b3tqhLvzN0A5y1m"
     },
     {
       "added_at": null,
@@ -151,42 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 234103,
-      "name": "Amo o Senhor",
-      "url": "https://open.spotify.com/track/1wGL1n0b3tqhLvzN0A5y1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simples Assim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Hoje \u00e9 tempo de louvar a Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
       },
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
       "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 368666,
-      "name": "Eu Vou Abrir o Meu Cora\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6007JEFykqjFKhrRddZPDk"
+      "duration_ms": 310590,
+      "name": "Cura-me",
+      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
     },
     {
       "added_at": null,
@@ -239,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
       "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 310590,
-      "name": "Cura-me",
-      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
+      "duration_ms": 368666,
+      "name": "Eu Vou Abrir o Meu Cora\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6007JEFykqjFKhrRddZPDk"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 228948,
-      "name": "Algu\u00e9m",
-      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 228948,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -599,30 +599,6 @@
       "duration_ms": 256255,
       "name": "O Amor Que Cura",
       "url": "https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Ou\u00e7o Deus Me Chamar",
-      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
     },
     {
       "added_at": null,
@@ -659,6 +635,30 @@
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 297261,
+      "name": "Liberta-me",
+      "url": "https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberta-me",
-        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 297261,
-      "name": "Liberta-me",
-      "url": "https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Anos no Brasil (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 232214,
+      "name": "Tempo de Crescer / Cacos Pelo Ch\u00e3o / Ele \u00e9 Por Mim / Vaso de Alabastro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elm0HTj8WhCED9LZdiNT2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 304813,
       "name": "Te Amo Tanto (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Anos no Brasil (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 232214,
-      "name": "Tempo de Crescer / Cacos Pelo Ch\u00e3o / Ele \u00e9 Por Mim / Vaso de Alabastro - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elm0HTj8WhCED9LZdiNT2"
     },
     {
       "added_at": null,

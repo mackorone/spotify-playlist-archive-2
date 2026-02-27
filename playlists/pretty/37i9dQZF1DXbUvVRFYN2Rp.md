@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 
 > 쇼미더머니12의 눈에 띄는 참가자들의 노래와 전 시즌 발매곡을 들어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,041 likes - 293 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,057 likes - 293 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 | 34 | [My Team](https://open.spotify.com/track/4hLw79WIR2YgBr3w6SrMWt) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [My Team](https://open.spotify.com/album/17Otr6YilTDReLkGkpItIs) | 3:00 |
 | 35 | [COD \(prod\. KayArchon\)](https://open.spotify.com/track/5VlypxNApg0yJOL4zuB7vt) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC) | [COD](https://open.spotify.com/album/5ssQa9mK2mDH8z0mwyx6HS) | 1:54 |
 | 36 | [MEMPHIS](https://open.spotify.com/track/0CqEbFOHGXMxeevqHVd1WV) | [IMO](https://open.spotify.com/artist/1MnNVa410zCIAILGmSOmNd) | [Mixtape : Subjective face](https://open.spotify.com/album/1ni5QqnwbzAX84nGpn5Bb6) | 3:06 |
-| 37 | [I said \(prod\. J.fool, O:BIN, WOOWALL & CODABeatz\)](https://open.spotify.com/track/4EAMx0C5d5EDZMSGXfXWti) | [Curlly](https://open.spotify.com/artist/05GzzbCg7RORDAyJ3cD2eU), [K P](https://open.spotify.com/artist/1r6AOeiq2Z1okP2wB2YGAo) | [HOTROOKIE RAP BATTLE SEASON 4 FINAL](https://open.spotify.com/album/1GyDtMIsLX80otuHhBJQXI) | 3:49 |
+| 37 | [I said \(prod\. J.fool, O:BIN, WOOWALL & CODABeatz\)](https://open.spotify.com/track/4EAMx0C5d5EDZMSGXfXWti) | [Curlly](https://open.spotify.com/artist/05GzzbCg7RORDAyJ3cD2eU), [KIMKIPYØ](https://open.spotify.com/artist/2tEjwojzeAyfw3efs9s4fG) | [HOTROOKIE RAP BATTLE SEASON 4 FINAL](https://open.spotify.com/album/1GyDtMIsLX80otuHhBJQXI) | 3:49 |
 | 38 | [Zombie \(feat\. DRIP TARKO\)](https://open.spotify.com/track/1FavaeOrzS5LtUz0ftzPdU) | [MilliMax](https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq), [DRIP TARKO](https://open.spotify.com/artist/07IJXoBG8CK7DOhOxaMrI1) | [Zombie \(feat\. DRIP TARKO\)](https://open.spotify.com/album/2cQt55A8K1UikUXaFGylHC) | 3:15 |
 | 39 | [CHASE](https://open.spotify.com/track/5FbdiOZLYpvFt5eeLlRG5L) | [MINAMI](https://open.spotify.com/artist/0ACSh9yjonvRa0CGnl29fd) | [CHASE](https://open.spotify.com/album/24Un7uwEgZ07hJt3CdgtZ7) | 2:10 |
 | 40 | [AUTOMATIC](https://open.spotify.com/track/2xYnqYBNL62ypPiA0wjD0s) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [AUTOMATIC](https://open.spotify.com/album/3YmYe5qrGle19WFS8eDYdq) | 4:28 |

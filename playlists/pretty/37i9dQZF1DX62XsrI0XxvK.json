@@ -1,13 +1,29 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: TADI, Isyana Sarasvati, MAKO.",
-  "num_followers": 13927,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Yung Caters",
+  "num_followers": 13930,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK6rTxDHVB+mb087O6ePi5Pyochd",
+  "snapshot_id": "AAAAAIRiH6mMxaWpr43Y6PWnOgiquGa/",
   "tracks": [
+    {
+      "added_at": "2026-02-26 19:00:07",
+      "album": {
+        "name": "Bandung City (UOO)",
+        "url": "https://open.spotify.com/album/093k3PKKaHm4dGiD223Opj"
+      },
+      "artists": [
+        {
+          "name": "Yung Caters",
+          "url": "https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Bandung City (UOO)",
+      "url": "https://open.spotify.com/track/3da5PBXzLQ3KoBGceD6QVG"
+    },
     {
       "added_at": "2026-02-19 18:00:32",
       "album": {
@@ -35,6 +51,42 @@
       "duration_ms": 218000,
       "name": "Tunggu Aku",
       "url": "https://open.spotify.com/track/0jCDcmdQ4IjqLNH8qv9x5U"
+    },
+    {
+      "added_at": "2026-02-26 19:00:07",
+      "album": {
+        "name": "The Idea of You",
+        "url": "https://open.spotify.com/album/0B76FbYfsmoJwApePOLS3H"
+      },
+      "artists": [
+        {
+          "name": "Moneva",
+          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
+        },
+        {
+          "name": "Imelda Lizal",
+          "url": "https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL"
+        }
+      ],
+      "duration_ms": 284727,
+      "name": "The Idea of You",
+      "url": "https://open.spotify.com/track/1c8nwr5DO8gmOhmpBX4nJQ"
+    },
+    {
+      "added_at": "2026-02-27 01:00:20",
+      "album": {
+        "name": "PHP",
+        "url": "https://open.spotify.com/album/5xzgc6Wn8gWL3PsPW8gL8n"
+      },
+      "artists": [
+        {
+          "name": "Bona Pascal",
+          "url": "https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS"
+        }
+      ],
+      "duration_ms": 243157,
+      "name": "PHP",
+      "url": "https://open.spotify.com/track/2QN6dPRKUAfeA51R2fprp1"
     },
     {
       "added_at": "2026-02-12 19:00:27",
@@ -1063,22 +1115,6 @@
       "duration_ms": 199163,
       "name": "Baby July",
       "url": "https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX"
-    },
-    {
-      "added_at": "2025-07-24 20:00:12",
-      "album": {
-        "name": "Istriku",
-        "url": "https://open.spotify.com/album/7IgG6liynzLii4TvTVbKEa"
-      },
-      "artists": [
-        {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
-        }
-      ],
-      "duration_ms": 163257,
-      "name": "Istriku",
-      "url": "https://open.spotify.com/track/21j9SPUJscVwCfxqvopLhc"
     },
     {
       "added_at": "2025-07-24 20:00:12",

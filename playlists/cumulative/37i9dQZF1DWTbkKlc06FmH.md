@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,187 songs - 2 day 21 hr 59 min
+1,188 songs - 2 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-08-15 | 2024-01-26 |
 | [Aliens](https://open.spotify.com/track/0vv6qG30lxAlhv8qI0N2I1) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Aliens](https://open.spotify.com/album/6RDLzM7aAIzxlWchfAJNt9) | 2:44 | 2023-05-23 | 2023-08-09 |
 | [All In](https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [All In](https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE) | 4:00 | 2022-11-10 | 2022-12-21 |
+| [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH) | 2:32 | 2026-02-25 |  |
 | [All Sunlight Must Fade](https://open.spotify.com/track/7l9SRbfxPegtQP2eSmXqyl) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Glare EP](https://open.spotify.com/album/3GoHBZf0ekERSB36XMoiQp) | 5:32 | 2023-08-03 | 2023-09-15 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 | 2023-03-25 |
 | [All Through the Night](https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z) | 3:01 | 2023-02-07 | 2023-02-22 |
@@ -739,7 +740,7 @@
 | [Precious](https://open.spotify.com/track/5kn2g75RCLUFj9FEY3aoYh) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [Precious](https://open.spotify.com/album/4XDaGZKHjIe20QW8NQJ978) | 3:11 | 2022-10-20 | 2022-10-28 |
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-09-04 |  |
 | [Present Day Present Time v2 \(feat\. SUSHIBOYS\)](https://open.spotify.com/track/6IAF73qP2HKXDOuJmcPZnO) | [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [SUSHIBOYS](https://open.spotify.com/artist/7FFaFas6TD1PhMtJ1xel8J) | [I’m fine thank you](https://open.spotify.com/album/3zZf1sDzzzdcKtrVWYi3RS) | 3:18 | 2022-12-15 | 2023-02-01 |
-| [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 | 2026-01-14 |  |
+| [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 | 2026-01-14 | 2026-02-27 |
 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 | 2025-11-26 |  |
 | [Private](https://open.spotify.com/track/7cHHIwZfGVue2yLk1QKljw) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Private](https://open.spotify.com/album/6HoymW6UA6u77eJcmDPYkQ) | 2:58 | 2025-02-05 | 2025-02-21 |
 | [Private \- Remix](https://open.spotify.com/track/0mau1gwrttKfQT2Se0l7gf) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Private \(feat\. Ryohu\) \[Remix\]](https://open.spotify.com/album/4uDUP8r65ZnXWkbvSYoKg3) | 2:58 | 2025-03-26 | 2025-04-03 |

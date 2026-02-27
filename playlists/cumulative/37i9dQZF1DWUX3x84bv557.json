@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Roxeanne Hazes",
+  "description": "Frisse Nederlandse pop. Cover: Samuel Welten & Bankzitters",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 204474,
       "name": "1 Dag",
       "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
@@ -488,6 +488,24 @@
       "duration_ms": 163969,
       "name": "3D",
       "url": "https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95563,
+      "name": "4 Seizoenen",
+      "url": "https://open.spotify.com/track/5uhf2Z3BYGaYD98MtlshaU"
     },
     {
       "album": {
@@ -1703,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Als je eerlijk bent, Ben",
+        "url": "https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "Als je eerlijk bent, Ben",
+      "url": "https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5"
+    },
+    {
+      "album": {
         "name": "Twee Stappen Voor",
         "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
       },
@@ -2446,7 +2482,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 185084,
       "name": "AU!",
       "url": "https://open.spotify.com/track/0YYpJbjCJjbcw7BBXRvcb0"
@@ -8921,6 +8957,24 @@
     },
     {
       "album": {
+        "name": "HOE?",
+        "url": "https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221291,
+      "name": "HOE?",
+      "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
+    },
+    {
+      "album": {
         "name": "Hoeveel Tranen Moet Ik Huilen",
         "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
       },
@@ -11177,6 +11231,24 @@
     },
     {
       "album": {
+        "name": "Kan Niet Alleen",
+        "url": "https://open.spotify.com/album/3pzD9FVrZtD6CaV2UuXbeE"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109564,
+      "name": "Kan Niet Alleen",
+      "url": "https://open.spotify.com/track/07Ps9tTIpjvErfsyNM2sev"
+    },
+    {
+      "album": {
         "name": "Kansen",
         "url": "https://open.spotify.com/album/7Jk5bj58KHAdhERKgUqgET"
       },
@@ -13308,7 +13380,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 150420,
       "name": "MAXIMAAL",
       "url": "https://open.spotify.com/track/5iCQpTzPYPLzuE8IieY2yE"
@@ -14010,7 +14082,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 148800,
       "name": "Misschien",
       "url": "https://open.spotify.com/track/3lRdIeteaMCxBW4iIizQhc"
@@ -14086,7 +14158,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 160678,
       "name": "Moe Van Jezelf",
       "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
@@ -14354,7 +14426,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 181495,
       "name": "Na Vandaag",
       "url": "https://open.spotify.com/track/0Itt3nXdqgB3mzddYIczm6"
@@ -15352,7 +15424,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 194661,
       "name": "Noorderlicht",
       "url": "https://open.spotify.com/track/2yy0FHQvXgj9tZHceIjZpL"
@@ -16300,7 +16372,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 230526,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/6wckDJ8EqudZePpq6jk9rB"
@@ -16881,6 +16953,24 @@
     },
     {
       "album": {
+        "name": "Rivier",
+        "url": "https://open.spotify.com/album/32xMLOBt7IDTrWiHYxX5uo"
+      },
+      "artists": [
+        {
+          "name": "Elieve",
+          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Rivier",
+      "url": "https://open.spotify.com/track/6CfzdRvHnvo9jcy7Zxd8wC"
+    },
+    {
+      "album": {
         "name": "Achtentwintig",
         "url": "https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B"
       },
@@ -17164,6 +17254,24 @@
       "duration_ms": 136291,
       "name": "Ruwe Diamant",
       "url": "https://open.spotify.com/track/3Q0XoPBcs6NxI15FQBwtyI"
+    },
+    {
+      "album": {
+        "name": "Saai",
+        "url": "https://open.spotify.com/album/343waDPIpF4NnfRbMjkBIA"
+      },
+      "artists": [
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175167,
+      "name": "Saai",
+      "url": "https://open.spotify.com/track/7GTTbP6Gz9Zu3qet2Rroga"
     },
     {
       "album": {
@@ -19147,6 +19255,24 @@
     },
     {
       "album": {
+        "name": "Tijd Heelt De Pijn",
+        "url": "https://open.spotify.com/album/2SomLjE8FzNSqrJ9lNSd75"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158008,
+      "name": "Tijd Heelt de Pijn",
+      "url": "https://open.spotify.com/track/6h2czGbgL4pxJYjyEx2FIx"
+    },
+    {
+      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },
@@ -19610,6 +19736,28 @@
       "duration_ms": 178874,
       "name": "Twijfelaar",
       "url": "https://open.spotify.com/track/5lrqGEaP1qZ3OwkKXXzEQz"
+    },
+    {
+      "album": {
+        "name": "Uitslover",
+        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155998,
+      "name": "Uitslover",
+      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
       "album": {
@@ -22133,6 +22281,24 @@
     },
     {
       "album": {
+        "name": "Pam Pam",
+        "url": "https://open.spotify.com/album/3mpXDAuJI23Y43cb4v9Ciu"
+      },
+      "artists": [
+        {
+          "name": "Adriaan Persons",
+          "url": "https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180277,
+      "name": "Ze Is Van Mij",
+      "url": "https://open.spotify.com/track/1P445KyR6wtRgY3e4iQwOw"
+    },
+    {
+      "album": {
         "name": "Ze Komt Uit Amsterdam",
         "url": "https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F"
       },
@@ -23026,7 +23192,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 177086,
       "name": "Zuidas Jimmy",
       "url": "https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ"

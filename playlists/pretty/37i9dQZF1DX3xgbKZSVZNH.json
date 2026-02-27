@@ -1,6 +1,6 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 297376,
+  "num_followers": 297424,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Playlist: The Very Best Of Meat Loaf",
-        "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 321973,
-      "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
-      "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/3DYrzx6kOGl4xqaznMzEpF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 287520,
       "name": "China In Your Hand",
       "url": "https://open.spotify.com/track/7ph8TWuva3z6E29oIH7wfY"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
+        "name": "Playlist: The Very Best Of Meat Loaf",
+        "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 321973,
+      "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
+      "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
     },
     {
       "added_at": "2024-02-07 16:26:58",

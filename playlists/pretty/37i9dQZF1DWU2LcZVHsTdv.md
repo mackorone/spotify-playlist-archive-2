@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,830 likes - 176 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,882 likes - 176 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

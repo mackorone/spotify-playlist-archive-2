@@ -749,6 +749,36 @@
     },
     {
       "album": {
+        "name": "Aaya Sher (From \"The Paradise\")",
+        "url": "https://open.spotify.com/album/69QBcx2mDOHFe2XOUhUTz9"
+      },
+      "artists": [
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Arjun Chandy",
+          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286917,
+      "name": "Aaya Sher (From \"The Paradise\")",
+      "url": "https://open.spotify.com/track/4pr6UpTPTsuzU6gzB2hpPv"
+    },
+    {
+      "album": {
         "name": "Aaye Haaye (Feat. Nora Fatehi)",
         "url": "https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC"
       },
@@ -11664,7 +11694,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/5lKE040hUfDAKOR8HLG92p"
@@ -19740,7 +19770,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 70400,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
@@ -20828,7 +20858,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 243578,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO"

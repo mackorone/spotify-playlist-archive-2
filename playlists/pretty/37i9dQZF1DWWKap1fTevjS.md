@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,340 likes - 385 songs - 17 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,544 likes - 385 songs - 17 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -394,4 +394,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 384 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 |
 | 385 | [Floating In Silence](https://open.spotify.com/track/4ubUx4TWvO1HEjF6EyWObE) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Floating In Silence](https://open.spotify.com/album/5wvyrj7lYJBXpp2FBrGBaT) | 2:28 |
 
-Snapshot ID: `AAAAAL3xTeRlvJlvCK2cvk34HPGMl3Wl`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

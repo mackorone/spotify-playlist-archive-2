@@ -21401,6 +21401,24 @@
     },
     {
       "album": {
+        "name": "Saajan",
+        "url": "https://open.spotify.com/album/1jvGQ2YVEBh1CjGT9bpf1u"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223820,
+      "name": "Saajan",
+      "url": "https://open.spotify.com/track/7DlJqM9YWWBBx3HvqnrssC"
+    },
+    {
+      "album": {
         "name": "Saajna",
         "url": "https://open.spotify.com/album/60TbH0VAHFH6y6cat7rAuN"
       },
@@ -21474,7 +21492,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 161684,
       "name": "Saanu Tere Naal",
       "url": "https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl"

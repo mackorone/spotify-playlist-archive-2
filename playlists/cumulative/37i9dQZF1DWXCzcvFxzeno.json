@@ -2953,6 +2953,28 @@
     },
     {
       "album": {
+        "name": "GOD_MODE",
+        "url": "https://open.spotify.com/album/5Kb2yX0CH8oLDLnfZRtunT"
+      },
+      "artists": [
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        },
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210003,
+      "name": "GOD_MODE",
+      "url": "https://open.spotify.com/track/4w7jPxQ0KOEKPXSNRlt3hX"
+    },
+    {
+      "album": {
         "name": "GODD (T78 Remix)",
         "url": "https://open.spotify.com/album/1iDVg0Og8IwgimtcCu6YrY"
       },
@@ -3986,7 +4008,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 285292,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/0kGg7BiTL0hpy2jJxtOJ38"
@@ -4450,7 +4472,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 243275,
       "name": "My Gasoline - Hard Edit",
       "url": "https://open.spotify.com/track/2pmk8xGNKwmKrmQBK9Vwgf"
@@ -5252,6 +5274,24 @@
       "duration_ms": 315294,
       "name": "Ragnarok",
       "url": "https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4"
+    },
+    {
+      "album": {
+        "name": "Random Nostalgia",
+        "url": "https://open.spotify.com/album/0IpDEgtC4SWz0vvbTPFXjI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234011,
+      "name": "Random Nostalgia",
+      "url": "https://open.spotify.com/track/12LPUc4gAjkj3JQoKks4zc"
     },
     {
       "album": {

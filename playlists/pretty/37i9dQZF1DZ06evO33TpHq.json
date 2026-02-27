@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 62308,
+  "num_followers": 62330,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAA9NPVev+YoyQPk+++BHarW",
+  "snapshot_id": "aZ47gAAAAADT7R4Sj0Pt9mHtEm8ku+U8",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "He Arose",
+        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289972,
+      "name": "He Arose",
+      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAVID (Soundtrack from the Angel Original Film)",
         "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
@@ -319,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "He Arose",
-        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 289972,
-      "name": "He Arose",
-      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
+      "duration_ms": 292333,
+      "name": "Sunday Is Coming",
+      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
     },
     {
       "added_at": null,
@@ -363,38 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Sunday Is Coming",
-      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Running To A Runaway",
-      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -411,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 133207,
-      "name": "I Will Not Be Afraid (Reprise)",
-      "url": "https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2"
+      "duration_ms": 239666,
+      "name": "Running To A Runaway",
+      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
     },
     {
       "added_at": null,
@@ -451,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 122626,
-      "name": "The Stand (Amen)",
-      "url": "https://open.spotify.com/track/2bFZNTrKGU2NovAq9tX6T2"
+      "duration_ms": 133207,
+      "name": "I Will Not Be Afraid (Reprise)",
+      "url": "https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2"
     },
     {
       "added_at": null,
@@ -479,6 +463,38 @@
       "duration_ms": 272391,
       "name": "Reason I Sing - Acoustic",
       "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 122626,
+      "name": "The Stand (Amen)",
+      "url": "https://open.spotify.com/track/2bFZNTrKGU2NovAq9tX6T2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 283986,
+      "name": "The Jesus Way",
+      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
     },
     {
       "added_at": null,
@@ -503,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
       "artists": [
         {
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 283986,
-      "name": "The Jesus Way",
-      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
+      "duration_ms": 233720,
+      "name": "Your Love Awakens Me",
+      "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
       "duration_ms": 273800,
       "name": "Able",
       "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Your Love Awakens Me",
-      "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Song Of The Saints",
-      "url": "https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I BELIEVE \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 323384,
       "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Song Of The Saints",
+      "url": "https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 464398,
-      "name": "Divine / Sailing / Time / Hymn - Acoustic",
-      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 240266,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 464398,
+      "name": "Divine / Sailing / Time / Hymn - Acoustic",
+      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven & Earth",
         "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 244546,
       "name": "Heaven Song",
       "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
     },
     {
       "added_at": null,

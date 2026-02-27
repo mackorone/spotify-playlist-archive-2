@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-331 songs - 20 hr 28 min
+332 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Don't look back](https://open.spotify.com/track/3USP9tP0tX1jVue701swyK) | [Andrius](https://open.spotify.com/artist/2r4P3xB3mTIzuks1cnFOYS) | [The Dark Side Of The Tune](https://open.spotify.com/album/4JcCpQvnmSKs2LYE3ZzX5x) | 3:40 | 2025-11-29 | 2025-12-17 |
 | [Don't Talk About Love](https://open.spotify.com/track/3gB5MQDUABinyLxbh7JeSY) | [The Hornets](https://open.spotify.com/artist/5JShdg4GOmLzKfUluPsQBI) | [Don't Talk About Love](https://open.spotify.com/album/3Oowl3MI12XBhZV3GU7ryo) | 3:03 | 2025-10-17 | 2025-11-28 |
 | [Don't Tell Mary](https://open.spotify.com/track/05hAnLiPMxKUWrHADwEIQF) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Don't Tell Mary](https://open.spotify.com/album/754oFY4ZwA8fFXsPzvA67E) | 2:51 | 2025-11-22 | 2025-12-17 |
+| [Don't Waste Your Time No More](https://open.spotify.com/track/6k1cjP7gtHTtPbR5L2J4pZ) | [Steve Schmitt](https://open.spotify.com/artist/6IXauAqsGDqYJzEA4FAJyc) | [Getting Old Is Killing Me](https://open.spotify.com/album/4vweKvkQJZ1ZtwbEmW2mSg) | 5:44 | 2026-02-26 |  |
 | [Don´t Bring Me Down](https://open.spotify.com/track/4jVzDkL9RP27tfWy3q78Tn) | [Elizabeth](https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW), [SinCrawler](https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho) | [Don´t Bring Me Down](https://open.spotify.com/album/3tyHhtZSfDpBbCD8tT6RW6) | 3:41 | 2025-12-22 |  |
 | [Dream Again](https://open.spotify.com/track/39eQtcHzL3h7ZFLo2rsagt) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Dream Again](https://open.spotify.com/album/0GFov3N8c9CZAbOjSUv0PW) | 4:16 | 2026-01-11 |  |
 | [Día Uno](https://open.spotify.com/track/5VsgNggxi9TqdaTZdxGu5h) | [A New Addiction](https://open.spotify.com/artist/51K7A0J9GRIFQEYVsHtoNV) | [Día Uno](https://open.spotify.com/album/14xgFMCKwyOhnNKlnZHpwq) | 3:20 | 2025-10-09 | 2025-11-28 |

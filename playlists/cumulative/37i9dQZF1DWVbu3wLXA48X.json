@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover:  Mumford & Sons",
+  "description": "Current indie tunes from Asia and around the world. Cover:  Mitski",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -144,6 +144,24 @@
       "duration_ms": 168000,
       "name": "13: 4",
       "url": "https://open.spotify.com/track/0g9QfoNxP3Y1UmCnQ357Y2"
+    },
+    {
+      "album": {
+        "name": "Ore",
+        "url": "https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "19 Underground",
+      "url": "https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp"
     },
     {
       "album": {
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 131034,
       "name": "Banner",
       "url": "https://open.spotify.com/track/45xkHhbNbaPIDZvk840dy6"
@@ -8972,7 +8990,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 142275,
       "name": "Cure",
       "url": "https://open.spotify.com/track/2EeaMpk3iHM3bor4kTgYXp"
@@ -17873,6 +17891,32 @@
     },
     {
       "album": {
+        "name": "Helicopters",
+        "url": "https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238086,
+      "name": "Helicopters",
+      "url": "https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY"
+    },
+    {
+      "album": {
         "name": "Catching Chickens EP",
         "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
       },
@@ -18560,7 +18604,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210161,
       "name": "Holo Boy",
       "url": "https://open.spotify.com/track/3Xf9TsClkc9ncSplhihsEh"
@@ -18964,6 +19008,24 @@
       "duration_ms": 305000,
       "name": "Horses",
       "url": "https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX"
+    },
+    {
+      "album": {
+        "name": "Hot Freaks",
+        "url": "https://open.spotify.com/album/2JLmTCeChnH0MSNXF2TJfs"
+      },
+      "artists": [
+        {
+          "name": "Fred Soila",
+          "url": "https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224383,
+      "name": "Hot Freaks",
+      "url": "https://open.spotify.com/track/4RMKoG6qlXMa11IWRUMjjr"
     },
     {
       "album": {
@@ -20666,6 +20728,24 @@
       "duration_ms": 171322,
       "name": "Idk",
       "url": "https://open.spotify.com/track/0PCNmy8zuWYwJFpMlFkh6t"
+    },
+    {
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
     },
     {
       "album": {
@@ -31794,7 +31874,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208720,
       "name": "Photograph of a Cyclone",
       "url": "https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE"
@@ -33884,7 +33964,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 182221,
       "name": "Rift",
       "url": "https://open.spotify.com/track/5S23vBGKmUzr3HSaHQxbzW"
@@ -36803,6 +36883,24 @@
     },
     {
       "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "album": {
         "name": "Slugger",
         "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
       },
@@ -38306,6 +38404,28 @@
       "duration_ms": 179346,
       "name": "Star",
       "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
+    },
+    {
+      "album": {
+        "name": "El Ni\u00f1o Bola",
+        "url": "https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv"
+      },
+      "artists": [
+        {
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211426,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N"
     },
     {
       "album": {
@@ -40036,7 +40156,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 188764,
       "name": "take a minute",
       "url": "https://open.spotify.com/track/1eenXCseEdOy5uid5p8n7G"
@@ -41511,6 +41631,44 @@
     },
     {
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Asha Puthli",
+          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        },
+        {
+          "name": "Dave Jolicoeur",
+          "url": "https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297787,
+      "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
+      "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
+    },
+    {
+      "album": {
         "name": "The Narcissist",
         "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
@@ -41540,7 +41698,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 225615,
       "name": "The News",
       "url": "https://open.spotify.com/track/7DBf7vpgcSNBw6dL3IIuHD"

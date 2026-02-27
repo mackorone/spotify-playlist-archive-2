@@ -24351,6 +24351,24 @@
     },
     {
       "album": {
+        "name": "Maybe I'm the Reason / Be Cool",
+        "url": "https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174128,
+      "name": "Maybe I'm the Reason",
+      "url": "https://open.spotify.com/track/1TPCNPlitIbnPjJfL8TjC4"
+    },
+    {
+      "album": {
         "name": "Maybe I\u2019m Lonely",
         "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
       },
@@ -37316,7 +37334,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 222552,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 128,607 likes - 113 songs - 6 hr 28 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 128,591 likes - 113 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

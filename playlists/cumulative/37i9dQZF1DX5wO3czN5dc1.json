@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/41e91XrUiRNfYvQJaA0X68"
+      },
+      "artists": [
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241584,
+      "name": "222",
+      "url": "https://open.spotify.com/track/7cCYXwe0HnQjVIHKX9IBdg"
+    },
+    {
+      "album": {
         "name": "Abantu",
         "url": "https://open.spotify.com/album/0w29YVnUIsgtPKFl7CAyXY"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 349090,
       "name": "Arcana Dei",
       "url": "https://open.spotify.com/track/1lCA23ozFtmsi5kqVA29VY"
@@ -342,7 +360,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 303386,
       "name": "Asalam Alaikum",
       "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
@@ -1150,10 +1168,28 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 231257,
       "name": "Dream - Radio Edit",
       "url": "https://open.spotify.com/track/3wio3XA57i8cgBVXpVSGzR"
+    },
+    {
+      "album": {
+        "name": "Chuki",
+        "url": "https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8"
+      },
+      "artists": [
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392125,
+      "name": "Dwana Days",
+      "url": "https://open.spotify.com/track/1Old2F6y7j1fJRNKesCwGE"
     },
     {
       "album": {
@@ -1636,7 +1672,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 212000,
       "name": "Gemu - Radio Edit",
       "url": "https://open.spotify.com/track/1iApKEOkBkgAkkelE9NdiW"
@@ -1997,6 +2033,32 @@
     },
     {
       "album": {
+        "name": "Under The Sun (Part One)",
+        "url": "https://open.spotify.com/album/7kkAq9kErGaqUJSfC4qGu4"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        },
+        {
+          "name": "Tefo Foxx",
+          "url": "https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272137,
+      "name": "Imali",
+      "url": "https://open.spotify.com/track/6S3JIxlBBEmEzr4kLQjOBT"
+    },
+    {
+      "album": {
         "name": "Imikhuleko",
         "url": "https://open.spotify.com/album/1PxWStJ5RTCig67KUJRqcU"
       },
@@ -2196,6 +2258,28 @@
       "duration_ms": 377704,
       "name": "INKUNZI",
       "url": "https://open.spotify.com/track/6KhNNTyJ1bloukFKzVq0Zc"
+    },
+    {
+      "album": {
+        "name": "Masingita",
+        "url": "https://open.spotify.com/album/7BTDHUfDxkoXu3AQlBoVyO"
+      },
+      "artists": [
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        },
+        {
+          "name": "STOFFELA",
+          "url": "https://open.spotify.com/artist/4ySNMtCSTAPhaXp9XMtSSn"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342721,
+      "name": "Int'engekhoyo (feat. STOFFELA)",
+      "url": "https://open.spotify.com/track/0PmOeHT4I1XfaSD8JGHv3S"
     },
     {
       "album": {
@@ -2558,6 +2642,28 @@
       "duration_ms": 162000,
       "name": "KALI - Radio Edit Mix",
       "url": "https://open.spotify.com/track/2bW51OJbA3JDCriRKIxO4c"
+    },
+    {
+      "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "album": {
@@ -3556,7 +3662,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 212500,
       "name": "Mulalo",
       "url": "https://open.spotify.com/track/7oVcS6Ki7M2VjRa2765chw"
@@ -4178,6 +4284,28 @@
       "duration_ms": 181005,
       "name": "No Other",
       "url": "https://open.spotify.com/track/6Jkl9VHMWtkDrXQ1gzVN3V"
+    },
+    {
+      "album": {
+        "name": "No Shape Without You",
+        "url": "https://open.spotify.com/album/3vrD2T9rErhaCbc4wV1UYf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "LevyM",
+          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265573,
+      "name": "No Shape Without You",
+      "url": "https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE"
     },
     {
       "album": {
@@ -4892,7 +5020,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 394576,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6RqwWN3p1KeZCnPRMa4K3A"
@@ -4922,7 +5050,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 472106,
       "name": "Soul Alive",
       "url": "https://open.spotify.com/track/7kfLKbqZA8nQHjf7ONUhRZ"
@@ -4944,6 +5072,48 @@
       "duration_ms": 364866,
       "name": "Step Out",
       "url": "https://open.spotify.com/track/0Du9aUG4WlJRAxRUQ3AxTi"
+    },
+    {
+      "album": {
+        "name": "Sthombe Esihle (feat. Focalistic, BigBaller_Ceo & Ch'cco)",
+        "url": "https://open.spotify.com/album/19JHxv5nejru7vxpgc1NOx"
+      },
+      "artists": [
+        {
+          "name": "Mluusician",
+          "url": "https://open.spotify.com/artist/7uNPGhyPtFpwvmSP3tTiaE"
+        },
+        {
+          "name": "Mark Khoza",
+          "url": "https://open.spotify.com/artist/788f3u39ABDYpjpz0HPXjD"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Ricky Lenyora",
+          "url": "https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "BigBaller_Ceo",
+          "url": "https://open.spotify.com/artist/4lQGYXmayFYVFeZYEU8zla"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463008,
+      "name": "Sthombe Esihle (feat. Focalistic, BigBaller_Ceo & Ch'cco)",
+      "url": "https://open.spotify.com/track/6RdArWPl34orAQtDWvtv0b"
     },
     {
       "album": {
@@ -5398,7 +5568,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 341403,
       "name": "Ukuphumelela",
       "url": "https://open.spotify.com/track/2CiDQsPXQsl80PodS2DM3a"
@@ -5600,6 +5770,32 @@
       "duration_ms": 291442,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/1YrArbJhi7g6RAGb81ZI6T"
+    },
+    {
+      "album": {
+        "name": "Unembeza",
+        "url": "https://open.spotify.com/album/1Go1vPXFFsCuCA1zFvWPiG"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "ZIDDO",
+          "url": "https://open.spotify.com/artist/4XE8kpT8vOyemOlkfzPJnc"
+        },
+        {
+          "name": "Section Five",
+          "url": "https://open.spotify.com/artist/5pM2d7Jh0CvXvddLhBsRfS"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Unembeza",
+      "url": "https://open.spotify.com/track/3bzsr5XLrNtUNunw5nr5Q5"
     },
     {
       "album": {

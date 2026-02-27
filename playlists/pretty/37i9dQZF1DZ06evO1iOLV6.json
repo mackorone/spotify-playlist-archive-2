@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAD39nLDPe8L8HCIsT1gE/38",
+  "snapshot_id": "aZ47gAAAAACVLcAUl7iHiMtQTMkQbM+O",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prayer Request",
         "url": "https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 193097,
       "name": "Prayer Request",
       "url": "https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Jonze",
-        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 157391,
-      "name": "No Jonze",
-      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 252200,
       "name": "Together",
       "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Jonze",
+        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 157391,
+      "name": "No Jonze",
+      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober (Soo Bad)",
-        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "Sober (Soo Bad)",
-      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Love (in support of UNICEF)",
         "url": "https://open.spotify.com/album/0GYG8mzT02965RRFiBxfxX"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     },
     {
       "added_at": null,
@@ -963,22 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
       "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 153057,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
+      "duration_ms": 232027,
+      "name": "G.O.E",
+      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
     },
     {
       "added_at": null,
@@ -999,18 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
       },
       "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 232027,
-      "name": "G.O.E",
-      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
+      "duration_ms": 153057,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "Hal\u00e9 Hal\u00e9",
+      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heal D World",
         "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
       },
@@ -1047,26 +1063,6 @@
       "duration_ms": 224026,
       "name": "Heal D World",
       "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 205450,
-      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
-      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
     }
   ],
   "unique_name": "This Is Patoranking",

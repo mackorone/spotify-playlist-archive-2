@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 331880,
+  "num_followers": 331924,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAD1nsFdNlHmgHHekQTeaGqu",
+  "snapshot_id": "aZ47gAAAAAAU9Ev0FdpcM39vfA83PBOe",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know Wassup",
-        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 201142,
-      "name": "You Know Wassup",
-      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+        "name": "You Know Wassup",
+        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+      "duration_ms": 201142,
+      "name": "You Know Wassup",
+      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Get Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Boy",
         "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 212878,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Get Me (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 142768,
-      "name": "go",
-      "url": "https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Me (feat. Keyshia Cole)",
         "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 178347,
       "name": "All Me (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 142768,
+      "name": "go",
+      "url": "https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx"
     },
     {
       "added_at": null,

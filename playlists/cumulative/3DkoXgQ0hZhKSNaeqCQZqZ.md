@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-493 songs - 1 day 2 hr 3 min
+495 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [antler crimes](https://open.spotify.com/track/1I7TUj9ZSZNxfHoQ9MwqlA) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/0cQBvrHqCGFkET8ODs57rF) | 4:44 | 2024-04-21 | 2026-01-03 |
 | [ANTONYMPH](https://open.spotify.com/track/6wmn9nN4of6GOnJ15qWfjU) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:02 | 2025-07-05 |  |
 | [anxiety](https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [anxiety](https://open.spotify.com/album/7FB48AGZIDX4JkMqsOjWlX) | 1:51 | 2025-07-18 |  |
+| [anything4u](https://open.spotify.com/track/10ovr4LpA0ZP7yYoNmhKuP) | [mayflowers](https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z) | [anything4u](https://open.spotify.com/album/4uqZBwMo4q1FZE1FaxxGhp) | 3:30 | 2026-02-26 |  |
 | [April's Fool](https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [Don't Waste Good Names on an EP](https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D) | 3:22 | 2024-05-28 |  |
 | [Arceus](https://open.spotify.com/track/3FeuN23GmhjQ67deilQrwD) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Arceus](https://open.spotify.com/album/7MGrsKbt3cAfAs928tMONg) | 4:15 | 2026-01-06 |  |
 | [Are you for me?](https://open.spotify.com/track/2mOw8RRSIC6wPocTRuaITf) | [Koa](https://open.spotify.com/artist/1D2fuywbAodeGUc1xitNJ7) | [Circles](https://open.spotify.com/album/4efUO1YCPDx3mrcaSGFbrD) | 2:24 | 2024-05-28 |  |
@@ -294,6 +295,7 @@
 | [Never Too Late](https://open.spotify.com/track/57TjYFXXsqx66fDZuJpmCb) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 2:37 | 2023-12-27 |  |
 | [Neverland](https://open.spotify.com/track/3xzsr8XPt2grKWJeNZzFqv) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Neverland](https://open.spotify.com/album/3EDAJhK1lYeXEzoHnf56he) | 4:04 | 2025-04-08 |  |
 | [NEW DAY](https://open.spotify.com/track/4D6gqaHk1tqusRoqI5Vu3X) | [Mawstar](https://open.spotify.com/artist/2Jz7LoIGV3HsMuKXZ8PI2a) | [NEW DAY](https://open.spotify.com/album/4X7kybc3bVu0vcxuyDQkIx) | 1:56 | 2025-12-20 |  |
+| [NI4NI](https://open.spotify.com/track/2UmXnlHwi4dsPl9eizEhlI) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [NI4NI](https://open.spotify.com/album/0nOAwAvokahlFr5LEeWttF) | 4:12 | 2026-02-26 |  |
 | [nicotine](https://open.spotify.com/track/4uZFNR3bLinXTwUcHrEMIl) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [All Nighter, Vol\. 7](https://open.spotify.com/album/4Nc6cTaCq9RU1hrODsY3cx) | 2:19 | 2023-08-07 |  |
 | [Night In The Woods](https://open.spotify.com/track/54diDu8KqqHpu1AnZGvaZm) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Sad, Drunk and Needy](https://open.spotify.com/album/4FRDjPenlluCNuhnSQY4Xf) | 3:40 | 2024-03-06 |  |
 | [nightmare you can't shake](https://open.spotify.com/track/5BJKzupuZo5Uk2T7zZpfeG) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [kdreamz57](https://open.spotify.com/album/7A9Gvl6692gYLpW5MZvZhF) | 2:59 | 2024-08-15 | 2025-10-05 |

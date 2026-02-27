@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: An\u0131l Durmu\u015f",
+  "description": "Pop'un sevilen isimleri. Kapak: Batuhan Kordel",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 166027,
       "name": "Ah\u0131m Var",
       "url": "https://open.spotify.com/track/5cJG3FmcQYqygEsKTzi9JW"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 177890,
       "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
       "url": "https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 155714,
       "name": "Bu Ne Bela",
       "url": "https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5"
@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 239051,
       "name": "Esmer Yang\u0131n",
       "url": "https://open.spotify.com/track/5vHOz4L13HSQuKTw6TXwxZ"
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "evvel ezel",
       "url": "https://open.spotify.com/track/5g5qz9ITYSc7N7r0G05cob"
@@ -4944,7 +4944,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 201702,
       "name": "Kara G\u00f6zl\u00fcm",
       "url": "https://open.spotify.com/track/54Gn2xKANJ0TsEnnlRGvgI"
@@ -5208,7 +5208,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 150562,
       "name": "Kendisi \u00c7\u0131kt\u0131 Bu Yoldan",
       "url": "https://open.spotify.com/track/1Nt1tWcwS4NjjyHT29Osco"
@@ -6415,6 +6415,24 @@
     },
     {
       "album": {
+        "name": "Olan Oldu",
+        "url": "https://open.spotify.com/album/3MVJianAjvMi16H5QPvLrB"
+      },
+      "artists": [
+        {
+          "name": "Batuhan Kordel",
+          "url": "https://open.spotify.com/artist/53GzfAvawfKb966INeFp18"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169536,
+      "name": "Olan Oldu",
+      "url": "https://open.spotify.com/track/62X0aS5kJGVuQV6ei4cVk4"
+    },
+    {
+      "album": {
         "name": "Olmaz Senden",
         "url": "https://open.spotify.com/album/63Phykg9euTwthd6h3rAKE"
       },
@@ -6684,7 +6702,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 175445,
       "name": "Sahte Sonbahar",
       "url": "https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb"
@@ -6760,7 +6778,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "Sana",
       "url": "https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN"
@@ -8030,7 +8048,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 131052,
       "name": "U\u00e7urumlar",
       "url": "https://open.spotify.com/track/6yORKL9Z81FgAKhES34xmG"
@@ -8316,7 +8334,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"
@@ -9474,7 +9492,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 241333,
       "name": "\u00dczg\u00fcn\u00fcm",
       "url": "https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV"
@@ -9518,7 +9536,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195750,
       "name": "\u00dczg\u00fcn\u00fcm A\u015fk\u0131m",
       "url": "https://open.spotify.com/track/27JIwRoqmSZ85M20Im6yGR"

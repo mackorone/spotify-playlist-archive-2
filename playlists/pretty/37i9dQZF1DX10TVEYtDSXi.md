@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,118 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,117 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 18 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
 | 19 | [Góður Dagur](https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Páll Óskar](https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq) | [Góður Dagur](https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV) | 2:24 |
 | 20 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 |
-| 21 | [Einhver Þarf Að Segja Það \(Áramótaskaup 2025\)](https://open.spotify.com/track/6oZYrEXAuscQTISSKCJQaf) | [Jón Jónsson](https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu), [Silvía Nótt](https://open.spotify.com/artist/2CuE2Urm0zxMp0Dy6sXrzM) | [Einhver Þarf Að Segja Það \(Áramótaskaup 2025\)](https://open.spotify.com/album/0BGoMdErMw8XYnQjOYfTIP) | 3:28 |
+| 21 | [Einhver Þarf Að Segja Það \(Áramótaskaup 2025\)](https://open.spotify.com/track/6oZYrEXAuscQTISSKCJQaf) | [Jón Jónsson](https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu), [Silvía Nótt](https://open.spotify.com/artist/1o5zuxIgr9MjkSNKmtUDge) | [Einhver Þarf Að Segja Það \(Áramótaskaup 2025\)](https://open.spotify.com/album/0BGoMdErMw8XYnQjOYfTIP) | 3:28 |
 | 22 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 23 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
 | 24 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Karnivool",
-  "num_followers": 567204,
+  "num_followers": 567230,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Mercenary",
-        "url": "https://open.spotify.com/album/3CSeOvIsqFOmMtiloSMI5c"
-      },
-      "artists": [
-        {
-          "name": "Soen",
-          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
-        }
-      ],
-      "duration_ms": 250466,
-      "name": "Mercenary",
-      "url": "https://open.spotify.com/track/6gfrg6juktpmPpXHLEJ3Hc"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "Les Chants de l'Aurore",
         "url": "https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 317946,
       "name": "Flamme Jumelle",
       "url": "https://open.spotify.com/track/6qWYIFxZV0ZkmTynlhR1qk"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Mercenary",
+        "url": "https://open.spotify.com/album/3CSeOvIsqFOmMtiloSMI5c"
+      },
+      "artists": [
+        {
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+        }
+      ],
+      "duration_ms": 250466,
+      "name": "Mercenary",
+      "url": "https://open.spotify.com/track/6gfrg6juktpmPpXHLEJ3Hc"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Terrene Hunter",
-        "url": "https://open.spotify.com/album/60cruwKvuPfkevirdVpXC2"
-      },
-      "artists": [
-        {
-          "name": "Andromida",
-          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
-        }
-      ],
-      "duration_ms": 231970,
-      "name": "Terrene Hunter",
-      "url": "https://open.spotify.com/track/6Km6XsyXdOsRhu0tj1Jj6x"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "Metamorph",
         "url": "https://open.spotify.com/album/21lxVQoHeVUJ74qKXO03NP"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 269271,
       "name": "Black Water",
       "url": "https://open.spotify.com/track/1l3sMzBRc8dgpKzj2wm368"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Terrene Hunter",
+        "url": "https://open.spotify.com/album/60cruwKvuPfkevirdVpXC2"
+      },
+      "artists": [
+        {
+          "name": "Andromida",
+          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
+        }
+      ],
+      "duration_ms": 231970,
+      "name": "Terrene Hunter",
+      "url": "https://open.spotify.com/track/6Km6XsyXdOsRhu0tj1Jj6x"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS"
-      },
-      "artists": [
-        {
-          "name": "Anup Sastry",
-          "url": "https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86"
-        },
-        {
-          "name": "Andy Cizek",
-          "url": "https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta"
-        }
-      ],
-      "duration_ms": 304864,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "Apple of Discord",
         "url": "https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX"
       },
@@ -1899,6 +1879,26 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS"
+      },
+      "artists": [
+        {
+          "name": "Anup Sastry",
+          "url": "https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86"
+        },
+        {
+          "name": "Andy Cizek",
+          "url": "https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta"
+        }
+      ],
+      "duration_ms": 304864,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
       },
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Pixelate",
-        "url": "https://open.spotify.com/album/5ab3fPnGY6OV34Swm5ffI0"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 190435,
-      "name": "Pixelate",
-      "url": "https://open.spotify.com/track/5ITT2UsqV9R5jRnpUYebcA"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "m\u00e5sstaden (forte)",
         "url": "https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 231757,
       "name": "Eternal Golden Monk - forte",
       "url": "https://open.spotify.com/track/63lzuPkE4FkPW7SPyDolSi"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Pixelate",
+        "url": "https://open.spotify.com/album/5ab3fPnGY6OV34Swm5ffI0"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 190435,
+      "name": "Pixelate",
+      "url": "https://open.spotify.com/track/5ITT2UsqV9R5jRnpUYebcA"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/5n4i8UrMCeEhiKCnzsaFNU"
+      },
+      "artists": [
+        {
+          "name": "Heart Of A Coward",
+          "url": "https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "Mouth of Madness",
+      "url": "https://open.spotify.com/track/0vEmEnc9S2E402BbWrfI1u"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
       },
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Deliverance",
-        "url": "https://open.spotify.com/album/5n4i8UrMCeEhiKCnzsaFNU"
-      },
-      "artists": [
-        {
-          "name": "Heart Of A Coward",
-          "url": "https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "Mouth of Madness",
-      "url": "https://open.spotify.com/track/0vEmEnc9S2E402BbWrfI1u"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "The Stargate",
         "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 500088,
       "name": "The Stargate [Tablet I]",
       "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Your Little Suburbia Is In Ruins",
+        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 245325,
+      "name": "Your Little Suburbia Is In Ruins",
+      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2115,22 +2131,6 @@
       "duration_ms": 326612,
       "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
       "url": "https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Your Little Suburbia Is In Ruins",
-        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 245325,
-      "name": "Your Little Suburbia Is In Ruins",
-      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "How's The Heart? (Bonus Version)",
-        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
-      },
-      "artists": [
-        {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
-        }
-      ],
-      "duration_ms": 229975,
-      "name": "Only When I'm Breathing",
-      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "Revel In Time",
         "url": "https://open.spotify.com/album/59eeYsYn4KBOtOtAPCESVW"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 257894,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "How's The Heart? (Bonus Version)",
+        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "duration_ms": 229975,
+      "name": "Only When I'm Breathing",
+      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "DAMNUM",
+        "url": "https://open.spotify.com/album/1LbK8xqE3DF6DE9drbwacI"
+      },
+      "artists": [
+        {
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+        }
+      ],
+      "duration_ms": 310724,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/6FDLIsQnjDx5KvI2586BAh"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Silently Walking Alone",
         "url": "https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 245077,
       "name": "Silently Walking Alone",
       "url": "https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "The Sowers of Discord",
-        "url": "https://open.spotify.com/album/3fo2JBLUlOvkN5FlyZiJyR"
-      },
-      "artists": [
-        {
-          "name": "Above, Below",
-          "url": "https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/39XqmCHbfbKTXGx2pqc1s2"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2363,18 +2363,18 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "DAMNUM",
-        "url": "https://open.spotify.com/album/1LbK8xqE3DF6DE9drbwacI"
+        "name": "The Sowers of Discord",
+        "url": "https://open.spotify.com/album/3fo2JBLUlOvkN5FlyZiJyR"
       },
       "artists": [
         {
-          "name": "Allegaeon",
-          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+          "name": "Above, Below",
+          "url": "https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx"
         }
       ],
-      "duration_ms": 310724,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/6FDLIsQnjDx5KvI2586BAh"
+      "duration_ms": 195970,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/39XqmCHbfbKTXGx2pqc1s2"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Ephemeral",
-        "url": "https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS"
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA"
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Ephemeral",
-      "url": "https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3"
+      "duration_ms": 219428,
+      "name": "Neil",
+      "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
     },
     {
       "added_at": "2026-02-06 17:00:44",

@@ -698,7 +698,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195848,
       "name": "Augen Leuchten",
       "url": "https://open.spotify.com/track/0MPG4SFATpPCVC1C4rrgEH"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 137466,
       "name": "Babyglock",
       "url": "https://open.spotify.com/track/46XTtnjy05ludrJ8Iqt8fI"
@@ -1539,7 +1539,7 @@
     },
     {
       "album": {
-        "name": "Bullfight",
+        "name": "bullfight",
         "url": "https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY"
       },
       "artists": [
@@ -1552,7 +1552,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183252,
-      "name": "Bullfight",
+      "name": "bullfight",
       "url": "https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU"
     },
     {
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180908,
       "name": "Domino",
       "url": "https://open.spotify.com/track/1S0n6HR1ZHZ8vOzMJiQKQE"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 152386,
       "name": "Du",
       "url": "https://open.spotify.com/track/4TIuKVR9bLwwDhBfesKZVe"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 130166,
       "name": "ELLA",
       "url": "https://open.spotify.com/track/07B2CmYPHTjI6Cv5z4dazl"
@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 182960,
       "name": "Filme",
       "url": "https://open.spotify.com/track/2fwj4LVwBYfWpIuy3BeTZu"
@@ -3171,6 +3171,28 @@
     },
     {
       "album": {
+        "name": "Gib uns nicht auf",
+        "url": "https://open.spotify.com/album/3uMI5CuOOqZLw2rUqa5uit"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        },
+        {
+          "name": "JIGGO",
+          "url": "https://open.spotify.com/artist/5Pmsa0FeoMFWsjhpo2bIAK"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156315,
+      "name": "Gib uns nicht auf",
+      "url": "https://open.spotify.com/track/4Rfv2xTvaOIrJpYTmrMiju"
+    },
+    {
+      "album": {
         "name": "Crazy Woman",
         "url": "https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy"
       },
@@ -3310,7 +3332,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180687,
       "name": "Hab dir nie gesagt",
       "url": "https://open.spotify.com/track/04H74fy8ApqS6qLpqJPcoV"
@@ -3368,7 +3390,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 155089,
       "name": "Hand in Hand",
       "url": "https://open.spotify.com/track/7kk8yOVDyUZBt3sr7dCIVz"
@@ -3520,7 +3542,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210731,
       "name": "heimweh_demo",
       "url": "https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ"
@@ -4432,7 +4454,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 177633,
       "name": "Keep Fucking Up",
       "url": "https://open.spotify.com/track/3zyIidytVGtGxCujC5rUwn"
@@ -4526,7 +4548,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 136342,
       "name": "lass es gehen (feat. Max Raabe)",
       "url": "https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8"
@@ -4718,7 +4740,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 244000,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR"
@@ -4946,7 +4968,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 205053,
       "name": "Major Love",
       "url": "https://open.spotify.com/track/31pvTbaEbnoP9iQBdKycYq"
@@ -5094,7 +5116,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 192463,
       "name": "Mein Hass tritt dir die Haust\u00fcr ein",
       "url": "https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj"
@@ -5188,6 +5210,24 @@
       "duration_ms": 167715,
       "name": "Method Acting",
       "url": "https://open.spotify.com/track/0waRqqT3XMM1UzZkSZGnd3"
+    },
+    {
+      "album": {
+        "name": "Mich selbst",
+        "url": "https://open.spotify.com/album/0GVBQN5S6CykRYpprV3l0d"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228813,
+      "name": "Mich selbst",
+      "url": "https://open.spotify.com/track/42qXgF9aACLBZjcMnpfO36"
     },
     {
       "album": {
@@ -5350,7 +5390,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 227166,
       "name": "morgen",
       "url": "https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3"
@@ -5712,7 +5752,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 150162,
       "name": "No One Compares",
       "url": "https://open.spotify.com/track/12ASZJzyrSZH8F5SOEhOjQ"
@@ -5788,7 +5828,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180223,
       "name": "Number One",
       "url": "https://open.spotify.com/track/0gb6KfibP8ehI8JSjScGpc"
@@ -5940,7 +5980,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 152951,
       "name": "only friends",
       "url": "https://open.spotify.com/track/4uxiew7kMMMNu0FXEAJG4K"
@@ -6208,7 +6248,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 147811,
       "name": "PIROUETTEN",
       "url": "https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP"
@@ -6346,7 +6386,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164826,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6EBmSBk6dYp0LmXH2ZXZib"
@@ -6636,7 +6676,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 155773,
       "name": "Salz",
       "url": "https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3"
@@ -6812,7 +6852,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 120584,
       "name": "sch\u00f6nhauser (feat. Gustav)",
       "url": "https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj"
@@ -7000,7 +7040,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 294866,
       "name": "Siente (el Ritmo)",
       "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
@@ -8792,7 +8832,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 198520,
       "name": "What Does She Have",
       "url": "https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc"
@@ -8832,7 +8872,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 194000,
       "name": "Whatever Happens",
       "url": "https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy"
@@ -8938,7 +8978,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 132853,
       "name": "Wieder",
       "url": "https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI"
@@ -9270,7 +9310,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 146635,
       "name": "Zimmerpflanze",
       "url": "https://open.spotify.com/track/4rOEdJmcop5bNKC95SEcml"

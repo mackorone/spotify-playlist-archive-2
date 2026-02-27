@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2695,
+  "num_followers": 2696,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARcZL/4lWjLhmAYGFlBeCT+NgzIbmR",
+  "snapshot_id": "AAARcnHWHJyLUFu2nRL9ni41ooVjvYdW",
   "tracks": [
+    {
+      "added_at": "2026-02-27 00:18:08",
+      "album": {
+        "name": "Present State",
+        "url": "https://open.spotify.com/album/1rbBtG9EsLJURxpXaPKXyI"
+      },
+      "artists": [
+        {
+          "name": "DARCOS LIFE",
+          "url": "https://open.spotify.com/artist/0C2us4WTI9QWkRCl7eGkFv"
+        }
+      ],
+      "duration_ms": 300620,
+      "name": "Present State",
+      "url": "https://open.spotify.com/track/5sOWrNfV8fyQNKZm4DzOYP"
+    },
     {
       "added_at": "2026-02-25 14:50:26",
       "album": {

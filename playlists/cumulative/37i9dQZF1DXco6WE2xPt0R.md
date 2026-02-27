@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-340 songs - 20 hr 7 min
+341 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [I Hate U](https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:53 | 2022-12-12 | 2023-02-25 |
 | [I NEED IT \(feat\. Syd & Tank\)](https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I NEED IT \(feat\. Syd & Tank\)](https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG) | 3:44 | 2024-04-26 |  |
 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-07-29 | 2022-09-24 |
-| [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 | 2023-07-14 |  |
+| [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 | 2023-07-14 | 2026-02-27 |
 | [Ifwu](https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1) | [Devvon Terrell](https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH) | [Boys Don't Cry](https://open.spotify.com/album/707TPiqmiFvPsVMOqQJ3Ia) | 3:11 | 2022-03-18 | 2022-12-13 |
 | [ILM](https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip) | [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd) | [Eventually Pt\. 1](https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ) | 3:56 | 2022-02-25 | 2025-06-14 |
 | [In Love With You](https://open.spotify.com/track/79UjqYt9MCLlBpzAvaKVJj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 5:21 | 2022-02-25 | 2022-04-23 |
@@ -169,6 +169,7 @@
 | [Lessons](https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Lessons](https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv) | 4:10 | 2022-02-25 | 2022-12-17 |
 | [Let It Burn](https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Reality Show](https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh) | 3:43 | 2022-02-25 | 2024-08-30 |
 | [Let Me](https://open.spotify.com/track/7B8TZlK6uFFVMr3JcUS50y) | [The Floacist](https://open.spotify.com/artist/2vlbiZTuFOGEwyCZbXOCPL) | [Floetic Soul](https://open.spotify.com/album/4llUif7fTmYmKQ07y634mN) | 3:53 | 2022-02-25 | 2022-05-27 |
+| [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 | 2026-02-26 |  |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-04-01 |
 | [Let Me See Your Phone](https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Let Me See Your Phone](https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4) | 3:22 | 2022-09-30 |  |
 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-20 | 2025-06-28 |

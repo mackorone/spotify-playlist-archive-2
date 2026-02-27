@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Spotify editors pick new and exciting artists\. RADAR BNLX\-artist: <a href="spotify:artist:7a5xPqxWpIHk4tcdv7bDc6">MICHA</a>
+> Spotify editors pick new and exciting artists\. RADAR BNLX\-artist: <a href="spotify:artist:3smrOozTm8zGvRfrcIyRg9">Samuel Welten</a>
 
-230 songs - 12 hr 19 min
+231 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 | 2021-12-10 | 2022-06-17 |
 | [Dancing On My Feelings](https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Dancing On My Feelings](https://open.spotify.com/album/7wclxbfcMy8Luc0iDxBvaE) | 3:28 | 2024-10-03 |  |
 | [Dans M'n Ogen Dicht](https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dans M'n Ogen Dicht](https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e) | 3:05 | 2022-07-07 | 2023-05-23 |
-| [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 | 2025-10-09 |  |
+| [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 | 2025-10-09 | 2026-02-27 |
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-09-14 | 2024-04-11 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-03-03 | 2022-07-08 |
 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 | 2022-01-24 | 2023-05-10 |
@@ -217,6 +217,7 @@
 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 | 2025-10-31 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-12-10 | 2022-06-17 |
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2021-12-10 | 2022-10-18 |
+| [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-02-26 |  |
 | [Vlieg Hoog](https://open.spotify.com/track/42kJZkC1MFlarkImGzLk7r) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:41 | 2023-09-14 | 2024-01-19 |
 | [walk away](https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [walk away](https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B) | 2:55 | 2022-08-25 | 2023-09-15 |
 | [Walk Walk](https://open.spotify.com/track/1DBkUFoOcyd9wWGHB9ENv2) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Montbray](https://open.spotify.com/album/4ZoaUVTqltgDW5THX0hxHY) | 4:51 | 2024-07-01 | 2024-08-01 |

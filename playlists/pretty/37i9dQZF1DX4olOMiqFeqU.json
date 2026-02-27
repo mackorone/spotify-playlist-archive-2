@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2487624,
+  "num_followers": 2487596,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-01-26 09:26:06",
       "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
-    },
-    {
-      "added_at": "2026-01-26 09:26:06",
-      "album": {
         "name": "Hirap Kalimutan",
         "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 173500,
       "name": "Hirap Kalimutan",
       "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
+    },
+    {
+      "added_at": "2026-01-26 09:26:06",
+      "album": {
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
       "added_at": "2026-01-26 09:26:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-26 09:26:06",
       "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
-      },
-      "artists": [
-        {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
-        }
-      ],
-      "duration_ms": 236705,
-      "name": "Magkabilang Mundo",
-      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
-    },
-    {
-      "added_at": "2026-01-26 09:26:06",
-      "album": {
         "name": "Sa Susunod na Habang Buhay",
         "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2026-01-26 09:26:06",
+      "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
     },
     {
       "added_at": "2026-01-26 09:26:06",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-01-26 09:26:06",
       "album": {
-        "name": "Balisong (Transformed)",
-        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
-      },
-      "artists": [
-        {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        }
-      ],
-      "duration_ms": 163571,
-      "name": "Balisong - Transformed",
-      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
-    },
-    {
-      "added_at": "2026-01-26 09:26:06",
-      "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 310708,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2026-01-26 09:26:06",
+      "album": {
+        "name": "Balisong (Transformed)",
+        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        }
+      ],
+      "duration_ms": 163571,
+      "name": "Balisong - Transformed",
+      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
     },
     {
       "added_at": "2026-01-26 09:26:06",

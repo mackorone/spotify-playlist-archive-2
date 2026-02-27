@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,721 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,742 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 7 | [Valley Of Trappers](https://open.spotify.com/track/0M45LdUPRAlAZJUp6jeHL5) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [Valley Of Trappers](https://open.spotify.com/album/7mZz6DhJ44tgc0rIypklgj) | 2:13 |
 | 8 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
 | 9 | [Ghetto](https://open.spotify.com/track/3FAgydcaoO9g0XO4SwlKNL) | [RiGiid](https://open.spotify.com/artist/4gnQowtoLDJEw56pczHRmL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Ghetto](https://open.spotify.com/album/7KmRGL7geFvSy2MqToWkqx) | 3:16 |
-| 10 | [Do Go](https://open.spotify.com/track/5KSc1Luy5JOjV5TEXfdOv9) | [YAW BERK](https://open.spotify.com/artist/5nCRn3Xb3daKxoy7GtWLgD) | [Do Go](https://open.spotify.com/album/23nOFCW9dw2CJcXmgbQf7l) | 2:43 |
-| 11 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 |
+| 10 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 |
+| 11 | [GHRIME RIDDIM II: RHYTHM & GHRIME](https://open.spotify.com/track/3mL9b7kpStwetzxHGLaVQs) | [SAVAGE 4](https://open.spotify.com/artist/5zSR3vg92lLKODwbAaFEbT), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP) | [GHRIME RIDDIM II: RHYTHM & GHRIME](https://open.spotify.com/album/0CcVe9piMflFXQkkqf0Y4m) | 2:05 |
 | 12 | [Stand Firm](https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Stand Firm](https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r) | 2:12 |
 | 13 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
 | 14 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Sweet](https://open.spotify.com/track/15ePvDHYnntIuwzXIbZ2tz) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Sweet](https://open.spotify.com/album/4fmeXWHITW7ezwMEqPbNjr) | 2:03 |
 | 50 | [Distance Relationship](https://open.spotify.com/track/5ulBQnE0UZpPO0AvVSun5J) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Distance Relationship](https://open.spotify.com/album/4cs5YFk1SlTyQ70tWZaeWR) | 3:29 |
 
-Snapshot ID: `AAAAAE4t1BpKzmNQ4b9W2aMNgzdEnc5m`
+Snapshot ID: `AAAAAKkuXBeMFVrGHXHHtLgNaNhSxrfP`

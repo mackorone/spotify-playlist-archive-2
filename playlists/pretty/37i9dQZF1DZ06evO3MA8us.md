@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,373 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,375 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 37 | [Here I Am To Worship \- Live](https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:51 |
 | 38 | [Breathe \- Live](https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [Songs That Changed The Church \- Worship](https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr) | 4:12 |
 | 39 | [Follow \- Live From Passion 2024](https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 4:38 |
-| 40 | [Here For You \- Live](https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:40 |
-| 41 | [We Fall Down \- Live](https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 4:44 |
+| 40 | [We Fall Down \- Live](https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 4:44 |
+| 41 | [Here For You \- Live](https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:40 |
 | 42 | [Shout To The Lord \- Live From LIFT: Creative Conference](https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Jourdan Johnson](https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 3:41 |
 | 43 | [Shout Hosanna \- Live](https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Even So Come \(Live\)](https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG) | 4:02 |
 | 44 | [God Of Wonders \- Live](https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [Buen Padre](https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Glorioso Día](https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i) | 4:20 |
 | 50 | [Marvelous Light \- Live](https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 5:52 |
 
-Snapshot ID: `aZzqAAAAAABEaQhqpExriLTEeDWK1XXU`
+Snapshot ID: `aZ47gAAAAADMk/hB/iA7/kY7Aek6SnAg`

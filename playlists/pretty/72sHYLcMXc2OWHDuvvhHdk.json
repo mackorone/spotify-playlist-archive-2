@@ -1,12 +1,12 @@
 {
   "description": "Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions. www.lucciagobeats.com ",
-  "num_followers": 561,
+  "num_followers": 562,
   "original_name": "Cruise Music",
   "owner": {
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJw6mPeNZZj/Oef3y3akDReTOlrNc5",
+  "snapshot_id": "AAAJyASSV8FLjX4KF4h1yrm2unyVTcTX",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -38987,6 +38987,86 @@
       "duration_ms": 239016,
       "name": "How It Hurts to Be Alone (Edm)",
       "url": "https://open.spotify.com/track/2gdOXXLIfYxlDtQ5AKvQ8y"
+    },
+    {
+      "added_at": "2026-02-26 21:16:16",
+      "album": {
+        "name": "Open Range",
+        "url": "https://open.spotify.com/album/5e3bX9IMWCAR09XqEoJf0o"
+      },
+      "artists": [
+        {
+          "name": "EVGHENI TULGENCO",
+          "url": "https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w"
+        }
+      ],
+      "duration_ms": 131464,
+      "name": "Open Range",
+      "url": "https://open.spotify.com/track/75GQG00UnFW7lJZRxNmnVm"
+    },
+    {
+      "added_at": "2026-02-26 21:16:33",
+      "album": {
+        "name": "A quoi bon",
+        "url": "https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU"
+      },
+      "artists": [
+        {
+          "name": "Kyara",
+          "url": "https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff"
+        }
+      ],
+      "duration_ms": 226054,
+      "name": "A quoi bon",
+      "url": "https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx"
+    },
+    {
+      "added_at": "2026-02-26 21:17:22",
+      "album": {
+        "name": "Endless Rite",
+        "url": "https://open.spotify.com/album/6bnbRQ6UeoaKTwTfpdInE9"
+      },
+      "artists": [
+        {
+          "name": "Basavriuk",
+          "url": "https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd"
+        }
+      ],
+      "duration_ms": 246756,
+      "name": "Endless Rite",
+      "url": "https://open.spotify.com/track/4Wz6qD27pzaBe1yw2owOIx"
+    },
+    {
+      "added_at": "2026-02-26 21:25:42",
+      "album": {
+        "name": "Somebody Real",
+        "url": "https://open.spotify.com/album/0EmKEt4fo9UvnjO3Lm12eH"
+      },
+      "artists": [
+        {
+          "name": "KIA",
+          "url": "https://open.spotify.com/artist/3fh3oFb1KTTHIdCUzoY6eU"
+        }
+      ],
+      "duration_ms": 228030,
+      "name": "Somebody Real",
+      "url": "https://open.spotify.com/track/5Yj8OJNrnyxFABHO4FNKUx"
+    },
+    {
+      "added_at": "2026-02-26 22:24:34",
+      "album": {
+        "name": "Fuel The Flame EP",
+        "url": "https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ"
+      },
+      "artists": [
+        {
+          "name": "File Under Humanoid",
+          "url": "https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Fuel The Flame",
+      "url": "https://open.spotify.com/track/7pBg9yHTAml4Aw3eIvcgBH"
     }
   ],
   "unique_name": "Cruise Music",

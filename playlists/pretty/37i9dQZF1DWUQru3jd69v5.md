@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> Kuremino in cover della playlist con il futuro del rap italiano 📈
+> Nabi in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,554 likes - 74 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,551 likes - 74 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 5 | [Money Maker](https://open.spotify.com/track/7tHCTDnsFYGUCl2zqCst1b) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [Money Maker](https://open.spotify.com/album/5XGssftBGJjQY4S13TjPmB) | 3:05 |
 | 6 | [Art Attack](https://open.spotify.com/track/786Ix4kzThar3zwk8vx6xj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Art Attack](https://open.spotify.com/album/42OhbFUoE1r4I2ltGbKsG3) | 2:12 |
 | 7 | [PENSIERI CATTIVI](https://open.spotify.com/track/0ls1xhGTOQvVpFZPgGil9x) | [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m) | [PENSIERI CATTIVI](https://open.spotify.com/album/1Nq8vyBbFpKsi7WRQOIAyk) | 2:25 |
-| 8 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 |
-| 9 | [ANUBI](https://open.spotify.com/track/7MLhPKIf1fTcJCy1Nfyyyc) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [ANUBI](https://open.spotify.com/album/52NtFcMo8qJNjOhOCDveCv) | 2:25 |
-| 10 | [nuda in casa \#41](https://open.spotify.com/track/0hnau4E4zk3VOZ2UfXuXGs) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [nuda in casa \#41](https://open.spotify.com/album/6HVXG2s0h71HUEUB5U4hwj) | 2:55 |
-| 11 | [RAPPER \(feat\. Flaco G\)](https://open.spotify.com/track/6Roni9ASPjKcY7DYz7LAAh) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 2:50 |
+| 8 | [VELENO \(feat\. Néza\)](https://open.spotify.com/track/0a4drTfDdtdqXu2qvFFll8) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 2:39 |
+| 9 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 |
+| 10 | [ANUBI](https://open.spotify.com/track/7MLhPKIf1fTcJCy1Nfyyyc) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [ANUBI](https://open.spotify.com/album/52NtFcMo8qJNjOhOCDveCv) | 2:25 |
+| 11 | [nuda in casa \#41](https://open.spotify.com/track/0hnau4E4zk3VOZ2UfXuXGs) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [nuda in casa \#41](https://open.spotify.com/album/6HVXG2s0h71HUEUB5U4hwj) | 2:55 |
 | 12 | [LA VITA CHE VIVO](https://open.spotify.com/track/2q9O6twPyMmPXqd4arGkA9) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [LA VITA CHE VIVO](https://open.spotify.com/album/4yKtowdWYMpI2FX784fRnQ) | 2:58 |
 | 13 | [NUVOLE ROSSE \(feat\. LILCR\)](https://open.spotify.com/track/0rsv2I7032BbnBAUo8TZzh) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [SHAYTAN](https://open.spotify.com/album/65uNhuH5g94ZAXysiJzUZq) | 2:13 |
 | 14 | [OVERSIZE](https://open.spotify.com/track/1DWdzegxzshILVfcdlKLsO) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [OVERSIZE](https://open.spotify.com/album/38rVKLQJl7LzrJ8yivSj7y) | 2:03 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 73 | [HAPPINESS](https://open.spotify.com/track/4h5JQTc5HEDYUGRS0dM7pT) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [HAPPINESS](https://open.spotify.com/album/2n28fhR5NPZhNlXtKy6Zi4) | 3:00 |
 | 74 | [CASE \(feat\. Flaco G, Lubi\)](https://open.spotify.com/track/7CnJ1gvjXZuRWfvv33ZeVY) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:33 |
 
-Snapshot ID: `AAAAAAmD5yB9mtExp8MHil8Xg4qenEhW`
+Snapshot ID: `AAAAAAjwZJ1vxtu5TS2kHvdi1ptif+G7`

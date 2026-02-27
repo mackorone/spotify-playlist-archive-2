@@ -4,7 +4,7 @@
 
 > per spingere come veri gym bro e gym sis
 
-418 songs - 21 hr 53 min
+419 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 | 2022-05-03 | 2022-09-29 |
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-08-01 | 2024-11-26 |
 | [48H \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/05mrU7mN3c1822bpY58UBC) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 3:18 | 2022-05-03 | 2022-07-29 |
+| [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 | 2026-02-24 |  |
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2025-07-21 | 2026-02-20 |
 | [90MIN](https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:51 | 2022-05-03 | 2022-07-29 |
 | [Abracadabra \(feat\. Future\)](https://open.spotify.com/track/0lSVjlxmAMSJGFSjVB1FtU) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 3:12 | 2022-05-03 | 2022-07-14 |
@@ -88,7 +89,7 @@
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 | 2022-07-04 |  |
 | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu) | 2:46 | 2025-11-20 | 2026-01-16 |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-05-03 | 2023-07-20 |
-| [Candy](https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Candy](https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc) | 1:58 | 2025-07-21 |  |
+| [Candy](https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Candy](https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc) | 1:58 | 2025-07-21 | 2026-02-27 |
 | [CARNIVAL](https://open.spotify.com/track/4OssqCixV2Xsxd43wMIQyS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93) | 4:24 | 2024-08-01 | 2025-04-12 |
 | [Casablanca \(feat\. Morad\)](https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:34 | 2023-08-17 | 2025-07-22 |
 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2022-07-04 | 2024-06-05 |

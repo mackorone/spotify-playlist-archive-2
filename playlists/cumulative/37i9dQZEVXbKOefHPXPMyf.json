@@ -7988,7 +7988,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -15844,6 +15844,28 @@
       "duration_ms": 221373,
       "name": "Comernos",
       "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "COMERNOS",
+      "url": "https://open.spotify.com/track/2TYZU0Fvfp5b7gbfqdIAq6"
     },
     {
       "album": {
@@ -31119,6 +31141,24 @@
     },
     {
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/37SuAXa5D3RiDEX2nuOA3V"
+      },
+      "artists": [
+        {
+          "name": "Santos Wu",
+          "url": "https://open.spotify.com/artist/7GeStb3zD6pNi9Kmsk7urD"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145560,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/2WRRxuZJhhzwqeBWCePmNo"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -36926,7 +36966,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -37878,7 +37918,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173750,
       "name": "Kileros",
       "url": "https://open.spotify.com/track/1wigcF8smPqZxhZ2nvanjd"
@@ -46452,7 +46492,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 223596,
       "name": "Me Fui Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/1bbFzjWpKtENyKRImu4F2A"
@@ -49958,7 +49998,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -64220,6 +64260,36 @@
       "duration_ms": 185581,
       "name": "Rezas",
       "url": "https://open.spotify.com/track/7iHuzLWiHtQstKUs4FFd21"
+    },
+    {
+      "album": {
+        "name": "Rich Badness 2.0",
+        "url": "https://open.spotify.com/album/2VUseGfd0VXcft6oebxAEg"
+      },
+      "artists": [
+        {
+          "name": "Frxndi",
+          "url": "https://open.spotify.com/artist/27KY4V8VWZ3iZHu33aCurN"
+        },
+        {
+          "name": "Puketondatrack",
+          "url": "https://open.spotify.com/artist/1ZwYu9AcgdgEzJRCxG0NnP"
+        },
+        {
+          "name": "GIMARIO",
+          "url": "https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH"
+        },
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316800,
+      "name": "Rich Badness 2.0",
+      "url": "https://open.spotify.com/track/0PPhf8ZHy3KWBW5FCiwIrx"
     },
     {
       "album": {

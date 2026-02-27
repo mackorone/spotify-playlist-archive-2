@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: American Football
 
-1,277 songs - 2 day 23 hr 28 min
+1,279 songs - 2 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 | 2023-08-17 | 2023-09-15 |
 | [Francesca](https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce) | 4:30 | 2023-05-18 | 2023-05-20 |
 | [Freakshow](https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Only Slightly Empty](https://open.spotify.com/album/095PeO7jjMoZrvtUFkVeGW) | 2:57 | 2025-10-02 | 2026-02-13 |
+| [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 | 2026-02-26 |  |
 | [FRENEMIES](https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [FRENEMIES](https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz) | 3:10 | 2024-08-01 | 2024-09-06 |
 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-04 | 2024-09-06 |
 | [Friends of Mine](https://open.spotify.com/track/3T7JN3VHiWFLAPUexUuxes) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Friends of Mine](https://open.spotify.com/album/3eY2qS65MuDKI4MXqiuopU) | 3:26 | 2023-06-29 | 2023-09-01 |
@@ -415,6 +416,7 @@
 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 | 2024-09-12 | 2024-12-20 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 | 2023-03-18 |
 | [GASLIGHT!](https://open.spotify.com/track/6OCbBpYhFHbBbfdnaoEsZ1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:28 | 2023-03-08 | 2023-03-09 |
+| [Gentleman](https://open.spotify.com/track/5qGlVj7q8E5kJRznWOD12a) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Gentleman](https://open.spotify.com/album/2rVHGc0YWHFfKTcrVhmeLn) | 2:16 | 2026-02-26 |  |
 | [Get By Then Die](https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Get By Then Die](https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR) | 3:31 | 2025-11-14 | 2026-01-16 |
 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 | 2024-02-02 | 2024-03-15 |
 | [Get Free](https://open.spotify.com/track/0agVVzbyorgegkwR8lVvMN) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Get Free](https://open.spotify.com/album/5xFCERL28FPqxpbyqbSHwz) | 1:33 | 2023-10-26 | 2023-12-22 |

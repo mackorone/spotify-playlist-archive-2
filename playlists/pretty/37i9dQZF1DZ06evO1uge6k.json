@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 260559,
+  "num_followers": 260574,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAD5FDHKH6ogJ+enb6xIz+Pi",
+  "snapshot_id": "aZ47gAAAAAADrGrw1R/A7TgrNOyx9mpz",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "Rough Boy",
-      "url": "https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 267480,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "Rough Boy",
+      "url": "https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv"
     },
     {
       "added_at": null,

@@ -1749,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "Big Bum Bum",
+        "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Big Bum Bum",
+      "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
+    },
+    {
+      "album": {
         "name": "Big Fish",
         "url": "https://open.spotify.com/album/7nH8tRwm0FDUZnIFIS9q26"
       },
@@ -3457,6 +3479,32 @@
     },
     {
       "album": {
+        "name": "Dollar Cash",
+        "url": "https://open.spotify.com/album/3JEOheimIpsWCewzQKOGQK"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236910,
+      "name": "Dollar Cash",
+      "url": "https://open.spotify.com/track/5oFeQiU1VqyYjqdZLMgZ1E"
+    },
+    {
+      "album": {
         "name": "Don't Call Me (feat. Zinoleesky)",
         "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
       },
@@ -4376,7 +4424,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
@@ -4686,7 +4734,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-680 songs - 1 day 16 hr 3 min
+682 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 | 2026-01-30 |  |
 | [24](https://open.spotify.com/track/0auAhRNjTNd5rzOEnpLFqX) | [Sush 28](https://open.spotify.com/artist/2VSNYqXIGA7Sr8XyIDMczK) | [24](https://open.spotify.com/album/3sVAjWg3oST76Lb1xxgQhv) | 2:12 | 2026-02-11 |  |
 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 | 2025-11-11 | 2025-12-21 |
+| [30th Day](https://open.spotify.com/track/7hw2C4wZeCFErLYjtrWVBG) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [30th Day](https://open.spotify.com/album/7dwecrXQ6HIdkiNnRnCxpE) | 3:53 | 2026-02-26 |  |
 | [4thegirl](https://open.spotify.com/track/0K2X58uhUSfVCpPy2H8bl5) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:15 | 2025-12-15 | 2026-01-15 |
 | [6 P.M\. \- Sped Up + Reverbed](https://open.spotify.com/track/13c4SLMyy8znHwt61koe4Z) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [6 P.M\. \(Sped Up + Reverbed\)](https://open.spotify.com/album/5rYYBjP2VsETOIm13VcJ5H) | 3:42 | 2026-01-14 | 2026-02-20 |
 | [7 Wonder](https://open.spotify.com/track/2jEa1Hi7nMl4B8LT5yjThF) | [Necrovaye](https://open.spotify.com/artist/0dkN0O2ZrD4FTbEe8beISY) | [7 Wonder](https://open.spotify.com/album/2PVcfUE6GTbR4K8urqQcF0) | 2:29 | 2026-01-31 |  |
@@ -655,6 +656,7 @@
 | [What are you doing the rest of your life?](https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [What are you doing the rest of your life?](https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr) | 5:37 | 2025-07-18 | 2026-01-05 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-12-23 | 2026-01-24 |
 | [What's My Scam?](https://open.spotify.com/track/6ZudKarH8XOwIFdPHtmYI3) | [Crant Oliver Buekeley](https://open.spotify.com/artist/3ct3WW0E8NUEZawfjPdxBa), [Dax Aloysius Buekeley](https://open.spotify.com/artist/2gEi5uDdXX5Y8CUU9PhgwX) | [Exciting Opportunities](https://open.spotify.com/album/3RVeuykb5sRt59wkzFkwI6) | 3:39 | 2025-12-23 | 2026-01-24 |
+| [What's the Use? \- Instrumental](https://open.spotify.com/track/5r4DMrQ4BpTRdnPe9QGeya) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [What's the Use? \(Instrumental\)](https://open.spotify.com/album/5FffrbI5spPovvRmhyo7UH) | 2:37 | 2026-02-26 |  |
 | [When You Found Him](https://open.spotify.com/track/4Uby1hQRDJmrr2s9ZCjupQ) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [When You Found Him](https://open.spotify.com/album/7hieI6F3OVDNR27FnGnghc) | 3:39 | 2025-12-22 | 2026-01-24 |
 | [Where Gods Lie](https://open.spotify.com/track/2TVpP80tpLVOVeq1YKOlVV) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Our Place Behind the Stars](https://open.spotify.com/album/6LNqoOjahbMiv5j00m9Maw) | 4:19 | 2025-12-21 | 2026-01-15 |
 | [WHERE'S MY HEAD](https://open.spotify.com/track/1Z6tkAoBUKel5pywbdJHOR) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [WHERE'S MY HEAD](https://open.spotify.com/album/6Lm4bi8UvsymJhezlHnV0x) | 1:57 | 2025-12-23 | 2026-01-27 |

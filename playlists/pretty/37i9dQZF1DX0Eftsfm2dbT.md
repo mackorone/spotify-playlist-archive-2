@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック　cover: Watson \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,437 likes - 91 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,462 likes - 91 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 14 | [レベルアップ \- feat\. Hezron](https://open.spotify.com/track/5RS3Yxr5QtLvb7YlHuRpPR) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [レベルアップ \(feat\. Hezron\)](https://open.spotify.com/album/0AdIq2Yf6haNtPjZPoc4Hk) | 3:58 |
 | 15 | [KATTARINA](https://open.spotify.com/track/5Hv1K6UO163b76PTnPDJ0X) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [KATTARINA](https://open.spotify.com/album/69AQNqE98bHro9A4dgYZON) | 2:44 |
 | 16 | [Mornin'26](https://open.spotify.com/track/1gMJ26Vii9ZpqWLPUYMIGn) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Mornin'26](https://open.spotify.com/album/01O5fklEpSlKQcchjYPJyg) | 3:33 |
-| 17 | [Yα Boy!!](https://open.spotify.com/track/2KZeSOk8Cri20hcqnZLpjl) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Yα Boy!!](https://open.spotify.com/album/4RT9pfWS6VNkU6sVckHgT3) | 3:55 |
+| 17 | [Yα Boy!!](https://open.spotify.com/track/2KZeSOk8Cri20hcqnZLpjl) | [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Yα Boy!!](https://open.spotify.com/album/4RT9pfWS6VNkU6sVckHgT3) | 3:55 |
 | 18 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 |
 | 19 | [VERRY SMoL](https://open.spotify.com/track/0BZQkSSnjhnvhwVw9JGT5r) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [VERRY SMoL](https://open.spotify.com/album/0XYOakkssfxOTbrIjxIccs) | 2:07 |
 | 20 | [今日という日は \(feat\. T\-Pablow\)](https://open.spotify.com/track/7CObvh64I8vCHUMgPC9wWV) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [T\-Pablow](https://open.spotify.com/artist/0wygiZev26irRopIBGuoTR) | [Soul Quake 3](https://open.spotify.com/album/11gMNssJtONEGPfsRuPLKg) | 4:19 |

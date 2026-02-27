@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-616 songs - 2 day 2 hr 30 min
+618 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Looking at Your Pager \- Chris Lake Remix](https://open.spotify.com/track/19IYiA9TCmbCet65fZZhhN) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Looking At Your Pager \(Chris Lake Remix\)](https://open.spotify.com/album/1kdnF2ZYbBEh14FYvy1lcv) | 3:39 | 2025-02-21 | 2025-07-05 |
 | [Lost in the Dark \- Scorz Remix](https://open.spotify.com/track/6G6ocTBr0UxglkDI7O6LgM) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Yana Mann](https://open.spotify.com/artist/3t1uXGgr7EhybMyWiJlZKd) | [Lost in the Dark \(Remixes\)](https://open.spotify.com/album/7qkzBLKhBVs5InoV2UySov) | 4:30 | 2024-09-06 | 2025-02-22 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2023-01-12 | 2023-03-11 |
+| [Lost Project](https://open.spotify.com/track/5kXl3zSfTMIv1ohWapUxGK) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [MT\. DS EP](https://open.spotify.com/album/2i4OGGjgQl7BBJluGyYTLE) | 6:25 | 2026-02-27 |  |
 | [Lost Somewhere in the Day](https://open.spotify.com/track/1hlpBZQKvvjt69U8hn9s0M) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Poly](https://open.spotify.com/album/0l7zF0wmKvo2smjzhOBzHh) | 6:26 | 2026-01-16 |  |
 | [Love Like We're Dying](https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Love Like We're Dying](https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad) | 3:03 | 2023-08-04 | 2024-01-27 |
 | [Love Parade](https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Love Parade](https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv) | 3:26 | 2025-09-26 |  |
@@ -363,6 +364,7 @@
 | [Motor \- Dave Angel Rework](https://open.spotify.com/track/2wFYHU7CAuJ33kI6D6m7uT) | [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3) | [Stranger Than Paradise \(Remixes Part \#2\)](https://open.spotify.com/album/7gSDOtIAww7e5LZhP5ibRx) | 7:42 | 2023-11-03 | 2024-03-23 |
 | [Mountains \- Eden Prince Remix](https://open.spotify.com/track/5dvEtWPevKXJmnMwqZhQeJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Mountains \(Eden Prince Remix\)](https://open.spotify.com/album/6TBy45W1iOzieFey2fiHKe) | 3:21 | 2024-11-08 | 2025-04-12 |
 | [Movin' In Slowly](https://open.spotify.com/track/62bseztlpPySEmmSkkQEj9) | [Ezra Blissard](https://open.spotify.com/artist/6ENNcsssIMTgY3JPK3Fd5w) | [Movin’ In Slowly](https://open.spotify.com/album/4jCKGOT6o3NDd1FxjvBsUl) | 5:41 | 2024-07-19 | 2024-11-23 |
+| [MT\. DS](https://open.spotify.com/track/6XWXTB5PurCkKtlkT5xjk8) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [MT\. DS EP](https://open.spotify.com/album/2i4OGGjgQl7BBJluGyYTLE) | 5:14 | 2026-02-27 |  |
 | [Musak \- Eddie Halliwell Remix](https://open.spotify.com/track/0L104SHhgK4QJc95XWrHFj) | [Trisco](https://open.spotify.com/artist/079vV8RtDt79K1AxE1Qpbp), [Eddie Halliwell](https://open.spotify.com/artist/45A7XBuUTqH1KBFh3cZ4ZJ) | [Musak](https://open.spotify.com/album/2TnMvLULDk6dN7zdEukus2) | 6:42 | 2025-08-01 |  |
 | [Muuden \- Sama' Abdulhadi Remix](https://open.spotify.com/track/2830uS7zU82aEsTzgZlW2Y) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R), [Sama’ Abdulhadi](https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm) | [Transmit](https://open.spotify.com/album/0relScCY1W16jYwC6ZFgeb) | 7:48 | 2023-11-03 | 2024-04-27 |
 | [My Body \- TR711](https://open.spotify.com/track/7GNbe0rliPf0O3GyMxew5s) | [Flashmob](https://open.spotify.com/artist/7xo0kZGwplHhSh8ORbToS8) | [Toolroom Radio EP711 \- Presented by Mark Knight](https://open.spotify.com/album/7xD1V3MjU8NQ7sDR7dnrqJ) | 4:05 | 2023-12-01 | 2024-03-02 |

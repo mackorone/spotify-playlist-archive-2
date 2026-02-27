@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 賽
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,778 likes - 85 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,779 likes - 85 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 84 | [JUKE JOINT](https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [JUKE JOINT](https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt) | 3:19 |
 | 85 | [Run Like The River](https://open.spotify.com/track/1JEcUbOx7s9PshQORndzlW) | [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9), [TREV](https://open.spotify.com/artist/7BJ4BnoBfnkw4xFb3Do3Ud) | [Run Like The River / Reach Out](https://open.spotify.com/album/0364AoYjhtAZHGOnC49qpC) | 4:35 |
 
-Snapshot ID: `AAAAADl1A8LPw6DIFu5yXebmINOzOgaB`
+Snapshot ID: `AAAAAMXU+ju+jHnOxKl9m7HjifLtixcj`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADyED2gXBOYIKnir+d/y8P2",
+  "snapshot_id": "aZ47gAAAAAClv89tzuAozqnduGy9+0ch",
   "tracks": [
     {
       "added_at": null,
@@ -615,34 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pari Pari",
-        "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 153984,
-      "name": "Pari Pari",
-      "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TFS",
         "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
       },
@@ -687,6 +659,34 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pari Pari",
+        "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "Pari Pari",
+      "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
     },
     {
       "added_at": null,

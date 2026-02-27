@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 162933,
       "name": "500 Miles",
       "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
@@ -8315,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
+    },
+    {
+      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
       },
@@ -8326,7 +8344,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
@@ -27886,6 +27904,24 @@
       "duration_ms": 207933,
       "name": "Fins",
       "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
+    },
+    {
+      "album": {
+        "name": "Fire In My Heart",
+        "url": "https://open.spotify.com/album/5pSP8ytxoxjdKRuId7ooHk"
+      },
+      "artists": [
+        {
+          "name": "Escape from New York",
+          "url": "https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313638,
+      "name": "Fire In My Heart",
+      "url": "https://open.spotify.com/track/2Zi3BefpBaeH7tMznvmsni"
     },
     {
       "album": {
@@ -51088,6 +51124,24 @@
       "duration_ms": 341578,
       "name": "Ma Nigga",
       "url": "https://open.spotify.com/track/0yAAwSTtc60mLGsRiulDpZ"
+    },
+    {
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "MacArthur Park - Single Version",
+      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
     },
     {
       "album": {
@@ -94504,7 +94558,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 268933,
       "name": "Wuthering Heights - 2018 Remaster",
       "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"

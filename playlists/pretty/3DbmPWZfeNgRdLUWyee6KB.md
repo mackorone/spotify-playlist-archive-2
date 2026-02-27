@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,282 likes - 168 songs - 9 hr 28 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,282 likes - 170 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 166 | [James](https://open.spotify.com/track/27auLUTUz5zzFjkuffOEAN) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [James](https://open.spotify.com/album/03LbkbBHfZ90TWp9uUXl3R) | 2:25 |
 | 167 | [Floto](https://open.spotify.com/track/0cpVDFhmJ5mRssyaE8ZjAo) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [Floto](https://open.spotify.com/album/2Z8DVQAobcZtSFHc05afHk) | 3:58 |
 | 168 | [Drug Infused Love](https://open.spotify.com/track/0zvHPpFftBopYcKXTexcjm) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Drug Infused Love](https://open.spotify.com/album/7falbSgkPHlEQ8WfjnRhPf) | 2:45 |
+| 169 | [30th Day](https://open.spotify.com/track/7hw2C4wZeCFErLYjtrWVBG) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [30th Day](https://open.spotify.com/album/7dwecrXQ6HIdkiNnRnCxpE) | 3:53 |
+| 170 | [What's the Use? \- Instrumental](https://open.spotify.com/track/5r4DMrQ4BpTRdnPe9QGeya) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [What's the Use? \(Instrumental\)](https://open.spotify.com/album/5FffrbI5spPovvRmhyo7UH) | 2:37 |
 
-Snapshot ID: `AAAQzsEPj5C7zWuYxzNynqxw6We4kZiS`
+Snapshot ID: `AAAQ0B3vc3J3jdBLTEa5kLbDVuA6K9C5`

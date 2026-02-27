@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "verano del 2016",
+        "url": "https://open.spotify.com/album/2cpqux8H9HomasOw6VE59F"
+      },
+      "artists": [
+        {
+          "name": "TRUFFY",
+          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143295,
+      "name": "1 chance",
+      "url": "https://open.spotify.com/track/2hVrAjr4b0WMve2wIqJejo"
+    },
+    {
+      "album": {
         "name": "10DE10",
         "url": "https://open.spotify.com/album/0YAfOqdsXkRNuRQ2QE0OpE"
       },
@@ -1232,7 +1254,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 150000,
       "name": "DE NOVELA",
       "url": "https://open.spotify.com/track/1cKp6SNnn81iZHDCFR9e5h"
@@ -1346,7 +1368,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 192981,
       "name": "El\u00e9ctrica",
       "url": "https://open.spotify.com/track/63vtmiipQfllmqykpm6PyY"
@@ -1598,7 +1620,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 141176,
       "name": "Fine By Me - Remix",
       "url": "https://open.spotify.com/track/4qwOXy2KPuBAcFqJqa7XAJ"
@@ -2102,7 +2124,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164206,
       "name": "IS IT",
       "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
@@ -2160,7 +2182,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 136020,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/7MIxQE0rwszP0SICo7bsGW"
@@ -2516,7 +2538,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 168687,
       "name": "Loco Contigo",
       "url": "https://open.spotify.com/track/1jStUvWUJi2tSbWzZ2IjcS"
@@ -2648,7 +2670,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 145691,
       "name": "Mal Acostumbrado",
       "url": "https://open.spotify.com/track/1U7xY3f5eI62AF33vjKFOa"
@@ -2912,7 +2934,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 142173,
       "name": "MININA",
       "url": "https://open.spotify.com/track/4gOiK8bTyZgaCRNAffNUUG"
@@ -3144,7 +3166,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 126000,
       "name": "Nadie como t\u00fa",
       "url": "https://open.spotify.com/track/6hSSrd6fYd7AaoqNokaByi"
@@ -3206,7 +3228,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 142000,
       "name": "No Tengo Miedo",
       "url": "https://open.spotify.com/track/4Q5tUw0jpXJ8NLvVHFwiKA"
@@ -3316,7 +3338,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 117142,
       "name": "OLD SKOOL",
       "url": "https://open.spotify.com/track/2oSLFgyPzc5TgMAQoqCHsc"
@@ -3338,7 +3360,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 144442,
       "name": "PA QUE LA VEAN",
       "url": "https://open.spotify.com/track/4SvpbPbHBIhC1hasTuunzA"
@@ -3438,7 +3460,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 192727,
       "name": "Parado No Bail\u00e3o - Mundial",
       "url": "https://open.spotify.com/track/7w60587yqlGryxSt9mAoo0"
@@ -3570,7 +3592,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 166567,
       "name": "PEL\u00c9 - Tropkillaz Remix",
       "url": "https://open.spotify.com/track/3oZbnZZNzhLcHhi3L3Gd72"
@@ -3678,7 +3700,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 206606,
       "name": "Piloto de Fuga - Remix",
       "url": "https://open.spotify.com/track/2E490MLouGY6Dz4nOlZN60"
@@ -3820,7 +3842,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180480,
       "name": "Privado para Voce",
       "url": "https://open.spotify.com/track/1PDUTE1pn45BKxMUcPR1OI"
@@ -4052,7 +4074,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 201824,
       "name": "SEM FREIO",
       "url": "https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX"
@@ -4140,7 +4162,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208750,
       "name": "Siempre Lo Mismo",
       "url": "https://open.spotify.com/track/28V0RGomn2AeHMXyQRNvaL"
@@ -4520,7 +4542,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 119456,
       "name": "Take Take",
       "url": "https://open.spotify.com/track/2xKJeszGTZKkzNEvO1UbdQ"
@@ -5322,7 +5344,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 175384,
       "name": "XTENTACION",
       "url": "https://open.spotify.com/track/4q5DyfCJXMZrH4OgPzZ2el"
@@ -5436,7 +5458,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 145384,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/62UtpYc0DcKhugL52gnVOK"

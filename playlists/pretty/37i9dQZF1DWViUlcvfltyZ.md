@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 Fight Pausa, clauscalmo, Guinevere sfocati ma in cover
+> Rock, indie e punk dall'Italia 🎸 Bambole di Pezza in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,977 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,975 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Workaholica](https://open.spotify.com/track/2GlzeqRjGgXm11AQrSNNTL) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Workaholica](https://open.spotify.com/album/2YXvKMBKpBnayRPGIF83Fm) | 3:16 |
 | 100 | [Intanto](https://open.spotify.com/track/15TePy6cQan8RcDpg3abxX) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Temporale](https://open.spotify.com/album/3YvK53OYLxnvacEkwJ4yP4) | 2:53 |
 
-Snapshot ID: `AAAAACBn2SSsdmVeNv3sx6+AZ+vIca3o`
+Snapshot ID: `AAAAAH8aZHS27SNuE+M2wu+ycmTguwxo`

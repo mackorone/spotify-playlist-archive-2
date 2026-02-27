@@ -1,13 +1,29 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Northsle",
-  "num_followers": 241294,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: NDX A.K.A.",
+  "num_followers": 241379,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN5K1kYuaLJI1blL36V6nW+93ahw",
+  "snapshot_id": "AAAAACq1Uk1MayErYOkJp4kLHw7ZqEvp",
   "tracks": [
+    {
+      "added_at": "2026-02-26 17:00:33",
+      "album": {
+        "name": "Remukan Ati (New Version)",
+        "url": "https://open.spotify.com/album/76nSJ014YDSTXQgXhSK6GE"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "duration_ms": 265598,
+      "name": "Remukan Ati - New Version",
+      "url": "https://open.spotify.com/track/4Y92EDbM18PzscXNzegTlz"
+    },
     {
       "added_at": "2026-02-12 17:48:17",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 348000,
       "name": "LUMRAH ( LUMPUKE SING WES BUBRAH )",
       "url": "https://open.spotify.com/track/0ozx2AJmjxX5AiKgxUGJQP"
-    },
-    {
-      "added_at": "2026-02-12 17:48:17",
-      "album": {
-        "name": "Kusumaning Ati",
-        "url": "https://open.spotify.com/album/4NIMe0DgA7VAuLEFxV5U6p"
-      },
-      "artists": [
-        {
-          "name": "Esa Risty",
-          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Kusumaning Ati",
-      "url": "https://open.spotify.com/track/2aQi2odiCf1QsVeIvJIpcr"
     },
     {
       "added_at": "2026-02-05 23:09:14",
@@ -79,6 +79,38 @@
       "duration_ms": 257007,
       "name": "Njanjeni",
       "url": "https://open.spotify.com/track/79AuIgXTJqA1QoPHxRtM2O"
+    },
+    {
+      "added_at": "2026-02-26 17:00:33",
+      "album": {
+        "name": "NOTO",
+        "url": "https://open.spotify.com/album/38w7jKNuo32QhJ6YHTN4yK"
+      },
+      "artists": [
+        {
+          "name": "Gilga Sahid",
+          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+        }
+      ],
+      "duration_ms": 342325,
+      "name": "NOTO",
+      "url": "https://open.spotify.com/track/4Y00qBQr1stACixu1qpkEP"
+    },
+    {
+      "added_at": "2026-02-12 17:48:17",
+      "album": {
+        "name": "Kusumaning Ati",
+        "url": "https://open.spotify.com/album/4NIMe0DgA7VAuLEFxV5U6p"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Kusumaning Ati",
+      "url": "https://open.spotify.com/track/2aQi2odiCf1QsVeIvJIpcr"
     },
     {
       "added_at": "2026-02-05 23:09:14",
@@ -147,6 +179,22 @@
       "duration_ms": 253000,
       "name": "Aku Tetep Bali",
       "url": "https://open.spotify.com/track/1J9IHbIfkabPZSxZt3LoWG"
+    },
+    {
+      "added_at": "2026-02-26 17:00:33",
+      "album": {
+        "name": "Sasi Pasa",
+        "url": "https://open.spotify.com/album/44gYjvz746TVZFNydvyYDJ"
+      },
+      "artists": [
+        {
+          "name": "KAJAWI",
+          "url": "https://open.spotify.com/artist/4JLFY6fICG1BFaw8Jc5KzR"
+        }
+      ],
+      "duration_ms": 252462,
+      "name": "Sasi Pasa",
+      "url": "https://open.spotify.com/track/75TWfmIO5QbHdfmy8AYRCw"
     },
     {
       "added_at": "2026-01-08 17:05:28",
@@ -219,22 +267,6 @@
       "duration_ms": 356250,
       "name": "Ego Wong Tuo",
       "url": "https://open.spotify.com/track/2z12TlZjywRzVhYLoM7ryH"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
-        "name": "Mawar",
-        "url": "https://open.spotify.com/album/0YC9QYibIpyHnDTQRe1Z6S"
-      },
-      "artists": [
-        {
-          "name": "Wandra Restusiyan",
-          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
-        }
-      ],
-      "duration_ms": 299403,
-      "name": "Mawar",
-      "url": "https://open.spotify.com/track/5WGLul5iR1qPmuq9hSZdYn"
     },
     {
       "added_at": "2026-01-08 17:05:28",
@@ -527,26 +559,6 @@
     {
       "added_at": "2026-01-08 17:05:28",
       "album": {
-        "name": "Ojo Njaluk Pegat",
-        "url": "https://open.spotify.com/album/2RHde7rJz0IWSRjg6AjjtC"
-      },
-      "artists": [
-        {
-          "name": "Esa Risty",
-          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
-        },
-        {
-          "name": "ARYA GALIH",
-          "url": "https://open.spotify.com/artist/3LEzVC11Jtzc1fZWzXtOGY"
-        }
-      ],
-      "duration_ms": 418000,
-      "name": "Ojo Njaluk Pegat",
-      "url": "https://open.spotify.com/track/1cylp0hgJSunHAQyXjoHAZ"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
         "name": "Kusuma Wijaya",
         "url": "https://open.spotify.com/album/6IVXAj9J4rbHmD5QQL6wqc"
       },
@@ -675,22 +687,6 @@
     {
       "added_at": "2026-01-08 17:05:28",
       "album": {
-        "name": "Patgulipat",
-        "url": "https://open.spotify.com/album/6UImQ86mpuiIJA5QwZf3iM"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        }
-      ],
-      "duration_ms": 299520,
-      "name": "Patgulipat",
-      "url": "https://open.spotify.com/track/5WEDt9oj53o10BovgXzA3S"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
         "name": "Ego Wong Tuo",
         "url": "https://open.spotify.com/album/2vnrti9NGjh8KfwFmCZB70"
       },
@@ -775,26 +771,6 @@
       "duration_ms": 253440,
       "name": "Rasah Bali 2",
       "url": "https://open.spotify.com/track/7wPOdb9udLYOAFsRfvvuLR"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
-        "name": "Sampeyan",
-        "url": "https://open.spotify.com/album/3RjDWLA3kZod405bGn7x8x"
-      },
-      "artists": [
-        {
-          "name": "Vadesta",
-          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
-        },
-        {
-          "name": "Destya Eka",
-          "url": "https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Sampeyan",
-      "url": "https://open.spotify.com/track/0HODYghtMn99N7189LLFWI"
     },
     {
       "added_at": "2026-01-08 17:05:28",
@@ -919,26 +895,6 @@
     {
       "added_at": "2026-01-08 17:05:28",
       "album": {
-        "name": "GULU PEDOT",
-        "url": "https://open.spotify.com/album/6B9lGHDDpkFjxyvJG59bku"
-      },
-      "artists": [
-        {
-          "name": "SKA 86",
-          "url": "https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg"
-        },
-        {
-          "name": "RIZMA SYAM",
-          "url": "https://open.spotify.com/artist/6gty3S7iAeTvgFOsSNS5WY"
-        }
-      ],
-      "duration_ms": 307975,
-      "name": "GULU PEDOT",
-      "url": "https://open.spotify.com/track/3Pelf4g0PhBY8Qf9Xdcebr"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
         "name": "Denny Caknan: Live at ZEPP Kuala Lumpur",
         "url": "https://open.spotify.com/album/3ghdTfXuLekdikteuBPK1f"
       },
@@ -1011,26 +967,6 @@
     {
       "added_at": "2026-01-08 17:05:28",
       "album": {
-        "name": "Asing",
-        "url": "https://open.spotify.com/album/702qQExxF5zP2pufi1BA71"
-      },
-      "artists": [
-        {
-          "name": "Lavora",
-          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
-        },
-        {
-          "name": "OMWAWES",
-          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Asing",
-      "url": "https://open.spotify.com/track/6G0NSuLgeigUIqpwC69ac4"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
         "name": "Wong Sepele",
         "url": "https://open.spotify.com/album/79fUg4zJxfJnrehgiN9DvT"
       },
@@ -1083,26 +1019,6 @@
     {
       "added_at": "2026-01-08 17:05:28",
       "album": {
-        "name": "Kawitaning Sinawang",
-        "url": "https://open.spotify.com/album/4bD96mWbnzDwzKh54n0Gul"
-      },
-      "artists": [
-        {
-          "name": "Esa Risty",
-          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
-        },
-        {
-          "name": "Icing Tanaka",
-          "url": "https://open.spotify.com/artist/0hheXfcmb08lGonHVlgq3B"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Kawitaning Sinawang",
-      "url": "https://open.spotify.com/track/4ucL4cmsyrFHuPBeNCEIDi"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
         "name": "Lanang Tenan",
         "url": "https://open.spotify.com/album/5hqjpYvyKarkxa5twuWAVq"
       },
@@ -1147,22 +1063,6 @@
       "duration_ms": 258000,
       "name": "Kabagyan",
       "url": "https://open.spotify.com/track/7p4g03E3yh1ovkMlvj9mwO"
-    },
-    {
-      "added_at": "2026-01-08 17:05:28",
-      "album": {
-        "name": "KAWITANING SINAWANG",
-        "url": "https://open.spotify.com/album/28xHCBbw0lfWN4E0S1TRlT"
-      },
-      "artists": [
-        {
-          "name": "Sasya Arkhisna",
-          "url": "https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA"
-        }
-      ],
-      "duration_ms": 321465,
-      "name": "KAWITANING SINAWANG",
-      "url": "https://open.spotify.com/track/3EPFbJPrZXSgr2Wqk4KEVS"
     },
     {
       "added_at": "2026-01-08 17:05:28",

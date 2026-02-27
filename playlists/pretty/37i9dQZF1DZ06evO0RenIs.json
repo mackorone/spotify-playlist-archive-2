@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97423,
+  "num_followers": 97427,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADSr1sc5tb2MRjJR/ApPXnz",
+  "snapshot_id": "aZ47gAAAAAAZaBBO6/rlX74dWIVYey5X",
   "tracks": [
     {
       "added_at": null,
@@ -115,34 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
-          "name": "UFOs",
-          "url": "https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd"
-        },
-        {
-          "name": "Braxe + Falcon",
-          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
-        },
-        {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "DJ Falcon",
-          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 273971,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
+      "duration_ms": 186159,
+      "name": "Long Distance Call",
+      "url": "https://open.spotify.com/track/7dGubYmPavaI9YNansq9TW"
     },
     {
       "added_at": null,
@@ -179,18 +163,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
       },
       "artists": [
         {
+          "name": "UFOs",
+          "url": "https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd"
+        },
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 186159,
-      "name": "Long Distance Call",
-      "url": "https://open.spotify.com/track/7dGubYmPavaI9YNansq9TW"
+      "duration_ms": 273971,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
     },
     {
       "added_at": null,

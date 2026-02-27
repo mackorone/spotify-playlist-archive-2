@@ -7737,6 +7737,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
+    },
+    {
+      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
       },
@@ -7748,7 +7766,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
@@ -9758,7 +9776,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Blue Valentine",
       "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
@@ -17158,7 +17176,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -19214,7 +19232,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -23320,6 +23338,24 @@
       "duration_ms": 195258,
       "name": "Entra En Mi vida / La De La Mala Suerte - En Vivo",
       "url": "https://open.spotify.com/track/0mYdCMOJH2nvHXx9VLzVBl"
+    },
+    {
+      "album": {
+        "name": "entrando pa la discoteca",
+        "url": "https://open.spotify.com/album/7dcePP7myzwed95lYiRIaw"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Run",
+          "url": "https://open.spotify.com/artist/6UyO2JPSpcc36s8wHRymHP"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139038,
+      "name": "entrando pa la discoteca",
+      "url": "https://open.spotify.com/track/6nGGhFDsU0Txopw9eo8d8T"
     },
     {
       "album": {
@@ -29824,7 +29860,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 233000,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/0LAvtWIqRjqKRKY2NHzeCn"
@@ -31550,7 +31586,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
@@ -37201,6 +37237,24 @@
     },
     {
       "album": {
+        "name": "Introspective (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496706,
+      "name": "Left to My Own Devices - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5ZbIlWjCC7qK6O6gRLgEPW"
+    },
+    {
+      "album": {
         "name": "Lejos de la Ciudad (con Camilo)",
         "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
@@ -39285,6 +39339,24 @@
     },
     {
       "album": {
+        "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259493,
+      "name": "Love Comes Quickly - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4789vxAh2p3QrPtdWgeHK0"
+    },
+    {
+      "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
@@ -39490,6 +39562,24 @@
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Love Me Like This",
+      "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
     },
     {
       "album": {
@@ -42212,7 +42302,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 223596,
       "name": "Me Fui Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/1bbFzjWpKtENyKRImu4F2A"
@@ -47744,7 +47834,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -48066,7 +48156,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 256162,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/1ibwh3Ne8ywnVNdeI4sDK2"
@@ -56938,7 +57028,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 135433,
       "name": "QUE CASUALIDAD",
       "url": "https://open.spotify.com/track/4yC79VGeTkB5zVMKODWgXz"
@@ -60814,6 +60904,24 @@
       "duration_ms": 193040,
       "name": "Scott and Zelda",
       "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+    },
+    {
+      "album": {
+        "name": "Bilingual: Further Listening 1995-1997",
+        "url": "https://open.spotify.com/album/7x4QGVpvnb3NKPdGQzDcsM"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "Se a Vida E (That's the Way Life Is) - 2001 Remaster",
+      "url": "https://open.spotify.com/track/1SQBrDt9Qpektc2VLUK8yc"
     },
     {
       "album": {

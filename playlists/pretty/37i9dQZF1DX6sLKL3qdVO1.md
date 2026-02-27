@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Tainy, Rauw Alejandro, y JHAYCO en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,082 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,056 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ROSITA](https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [ROSITA](https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD) | 4:05 |
 | 2 | [FOREVER TU GANTEL](https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:46 |
-| 3 | [En El Club](https://open.spotify.com/track/1jt1JLQB7iopUUuxzhPBgS) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [RED ROOM](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 2:24 |
+| 3 | [En El Club](https://open.spotify.com/track/1jt1JLQB7iopUUuxzhPBgS) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Cuarto Rojo](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 2:24 |
 | 4 | [Choque](https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Choque](https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr) | 3:19 |
 | 5 | [Y si peleamos](https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Y si peleamos](https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY) | 3:12 |
 | 6 | [DALE HASTA ABAJO](https://open.spotify.com/track/0ijfp5UZxAzR3eNANozXm8) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Baby Maikol](https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U), [Dave Produce](https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9) | [DALE HASTA ABAJO](https://open.spotify.com/album/5GQoSc0HPVcgRV31INhGI8) | 3:15 |

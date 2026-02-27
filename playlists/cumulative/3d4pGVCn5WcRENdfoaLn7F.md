@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-233 songs - 14 hr 24 min
+236 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-09-21 |  |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-02-04 | 2026-02-25 |
 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 | 2025-12-28 |
+| [Consumer Unit](https://open.spotify.com/track/2O7KnLBqPako9l0JfkwGEp) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Consumer Unit](https://open.spotify.com/album/0bBXbmdNWYauccx4abtnGU) | 3:05 | 2026-02-26 |  |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 | 2025-12-06 |
 | [Crashout Bandicoot](https://open.spotify.com/track/4tr2Y43N2nmWDY14JzkRoi) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG) | [Crashout Bandicoot](https://open.spotify.com/album/5pEGwEj7GOB2qg2tOZW1Ut) | 2:57 | 2025-11-26 | 2025-12-28 |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-12-03 | 2026-01-05 |
@@ -78,6 +79,7 @@
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-01-07 | 2026-02-02 |
 | [Fly Eagle Fly](https://open.spotify.com/track/3hPCPkc3F0Sho1x08IJ4SD) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:50 | 2026-01-22 | 2026-02-25 |
 | [Flying High](https://open.spotify.com/track/34Vu65tSCXXHcuKJXZYtrN) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Mark Henes](https://open.spotify.com/artist/1HSODWzFk49xph0BPYAF0l) | [Flying High](https://open.spotify.com/album/6x5RwDFMeEGiHWJtnRQ5so) | 3:15 | 2025-11-11 | 2025-12-06 |
+| [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-02-26 |  |
 | [For Sale By Owner](https://open.spotify.com/track/6uNX8cb1mLv5pdlNt1CmkJ) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:46 | 2025-11-26 | 2025-12-28 |
 | [Forget](https://open.spotify.com/track/57itK4sT9yWj8xL5P0vY7R) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Forget](https://open.spotify.com/album/7oiPL3Rad4NlLcu7DnQEt3) | 2:43 | 2025-11-19 |  |
 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 | 2026-02-19 |  |
@@ -141,6 +143,7 @@
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-17 | 2025-12-06 |
 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2025-12-05 |  |
 | [No One Speaks](https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Off to the Happy Place](https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR) | 2:29 | 2026-01-19 | 2026-02-25 |
+| [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2026-02-26 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-21 |  |
 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 | 2025-12-13 | 2026-01-05 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-12 |

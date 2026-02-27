@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-2,808 songs - 6 day 1 hr 23 min
+2,809 songs - 6 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 | 2023-03-01 | 2025-01-31 |
 | [HARKI](https://open.spotify.com/track/2EayJFSji4xEOIM4Ur8gik) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [HARKI](https://open.spotify.com/album/2Pit0Gz40DEVhx71C6ZtUz) | 2:00 | 2023-02-14 | 2023-04-03 |
 | [HARRAGAS](https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [HARRAGAS](https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L) | 2:20 | 2022-11-12 | 2022-12-04 |
-| [Hatar att jag älskar dig](https://open.spotify.com/track/4NF6LZiq3UJwVAAkpd5DWC) | [Felix Manu](https://open.spotify.com/artist/2gXs1tQmQNe5bAUU726Ohd) | [Hatar att jag älskar dig](https://open.spotify.com/album/4eQBOKPGkfYIkPSk0goOaw) | 2:58 | 2026-02-23 |  |
+| [Hatar att jag älskar dig](https://open.spotify.com/track/4NF6LZiq3UJwVAAkpd5DWC) | [Felix Manu](https://open.spotify.com/artist/2gXs1tQmQNe5bAUU726Ohd) | [Hatar att jag älskar dig](https://open.spotify.com/album/4eQBOKPGkfYIkPSk0goOaw) | 2:58 | 2026-02-23 | 2026-02-27 |
 | [Hate You So Much](https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hate You So Much](https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U) | 2:36 | 2025-03-02 | 2026-02-11 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-07 | 2023-12-27 |
 | [HBB](https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [HBB](https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF) | 2:26 | 2024-10-12 | 2024-10-25 |
@@ -1213,6 +1213,7 @@
 | [Ikon](https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Ikon](https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md) | 2:41 | 2023-02-01 | 2023-02-28 |
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-12 | 2026-01-05 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-21 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-02-26 |  |
 | [In corpore sano](https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg) | [Konstrakta](https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt) | [In corpore sano](https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI) | 2:59 | 2022-05-16 | 2022-05-29 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-02-28 | 2022-06-10 |
 | [In i dimman](https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm) | 2:53 | 2022-06-09 | 2022-07-31 |

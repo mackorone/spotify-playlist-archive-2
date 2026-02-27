@@ -1917,6 +1917,44 @@
     },
     {
       "album": {
+        "name": "LA OBSESION, VOL. 1",
+        "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
+      },
+      "artists": [
+        {
+          "name": "La Obsesion",
+          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        },
+        {
+          "name": "Vic Gunn",
+          "url": "https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb"
+        },
+        {
+          "name": "Nasty Vato",
+          "url": "https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD"
+        },
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
+        },
+        {
+          "name": "Josa El Menor",
+          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "AltaFarra",
+      "url": "https://open.spotify.com/track/6pC6dBA07DMsgwLk4Bz3Kv"
+    },
+    {
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -8509,6 +8547,24 @@
     },
     {
       "album": {
+        "name": "Como Te Afect\u00f3",
+        "url": "https://open.spotify.com/album/2wxt6vcWZ3B8q7AzapebUf"
+      },
+      "artists": [
+        {
+          "name": "JOAKO",
+          "url": "https://open.spotify.com/artist/5kErqJMmN35SkXsrmLyPdc"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "Como Te Afect\u00f3",
+      "url": "https://open.spotify.com/track/2HEsjzHqjhBjoLD2MsBgIw"
+    },
+    {
+      "album": {
         "name": "Como Te Pago",
         "url": "https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ"
       },
@@ -9342,7 +9398,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -10300,7 +10356,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 197869,
       "name": "Dame Otro Motivo",
       "url": "https://open.spotify.com/track/40iaOidXr2AwfjXFqlWqcg"
@@ -12088,7 +12144,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -17758,7 +17814,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -22772,7 +22828,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -23208,7 +23264,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -24676,7 +24732,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 223596,
       "name": "Me Fui Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/1bbFzjWpKtENyKRImu4F2A"
@@ -30268,6 +30324,24 @@
       "duration_ms": 142840,
       "name": "Oh My Angel",
       "url": "https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
     },
     {
       "album": {
@@ -36834,8 +36908,8 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
-      "duration_ms": 116257,
+      "date_removed": null,
+      "duration_ms": 109803,
       "name": "shock the word funk - slowed",
       "url": "https://open.spotify.com/track/4AebZ84PKAziBqM0HwsqjI"
     },
@@ -37770,7 +37844,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 142875,
       "name": "SOBERBIO FUNK",
       "url": "https://open.spotify.com/track/0eDlrPpMRCBFWRiMUjIdj2"
@@ -41768,12 +41842,12 @@
       },
       "artists": [
         {
-          "name": "Bearn",
-          "url": "https://open.spotify.com/artist/65W5I2tJzuSiZra9HeTW1V"
-        },
-        {
           "name": "S3RL",
           "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+        },
+        {
+          "name": "Bearn",
+          "url": "https://open.spotify.com/artist/65W5I2tJzuSiZra9HeTW1V"
         }
       ],
       "date_added": "2026-02-24",

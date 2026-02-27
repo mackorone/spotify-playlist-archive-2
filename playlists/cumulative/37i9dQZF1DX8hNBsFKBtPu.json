@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/1FXeGzWHVxvDP9mEmPeiQR"
+      },
+      "artists": [
+        {
+          "name": "Freja Malou",
+          "url": "https://open.spotify.com/artist/6XohZc57rFLsppWV2sTe8a"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/4HNiTYE2vw8OYHwn0zScqp"
+    },
+    {
+      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -3619,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "En Stor Lykkelig Familie",
+        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195777,
+      "name": "En Stor Lykkelig Familie",
+      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
+    },
+    {
+      "album": {
         "name": "End of the World",
         "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
       },
@@ -4059,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
         "name": "fight the urge",
         "url": "https://open.spotify.com/album/5WACqjLHPiOn1PxK9qWG7b"
       },
@@ -4164,6 +4218,24 @@
       "duration_ms": 182725,
       "name": "Flow",
       "url": "https://open.spotify.com/track/02Hjgk7NbS2BtkMpK5pe1j"
+    },
+    {
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224812,
+      "name": "Flue i et spind",
+      "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
     },
     {
       "album": {
@@ -5266,6 +5338,28 @@
       "duration_ms": 138193,
       "name": "hader ik mig selv sammen med dig",
       "url": "https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y"
+    },
+    {
+      "album": {
+        "name": "Halbal i K\u00f8benhavn (feat. JOSVA)",
+        "url": "https://open.spotify.com/album/2qEZLu8mpVrXQshl42fvR2"
+      },
+      "artists": [
+        {
+          "name": "Luca Stereo",
+          "url": "https://open.spotify.com/artist/45QGVJCKobWSRSFbbrrAvp"
+        },
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191707,
+      "name": "Halbal i K\u00f8benhavn (feat. JOSVA)",
+      "url": "https://open.spotify.com/track/6vu6ObTrFf9wYL1Kvd7miL"
     },
     {
       "album": {
@@ -9649,6 +9743,24 @@
     },
     {
       "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/5XqNvypotKqhHuYHgnjWBa"
       },
@@ -10940,6 +11052,24 @@
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "album": {
@@ -12692,6 +12822,24 @@
       "duration_ms": 146824,
       "name": "S\u00f8erne",
       "url": "https://open.spotify.com/track/6bnFmyKpSMCEHG9adMU1nw"
+    },
+    {
+      "album": {
+        "name": "S\u00f8vnl\u00f8s",
+        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149304,
+      "name": "S\u00f8vnl\u00f8s",
+      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
     },
     {
       "album": {
@@ -14938,6 +15086,24 @@
       "duration_ms": 219411,
       "name": "Worry Never Wins (feat. NATURE)",
       "url": "https://open.spotify.com/track/2qRFOTapfaEZ2ZE48AiZJM"
+    },
+    {
+      "album": {
+        "name": "You always liked me better when i was stoned",
+        "url": "https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "You always liked me better when i was stoned",
+      "url": "https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN"
     },
     {
       "album": {

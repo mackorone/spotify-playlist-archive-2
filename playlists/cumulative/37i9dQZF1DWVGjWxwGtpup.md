@@ -2,9 +2,9 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Bad Bunny
+> Tous les hits latino du moment sont ici\. Photo : J Balvin x Rayan Castro
 
-404 songs - 20 hr 49 min
+405 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Dolce Vita](https://open.spotify.com/track/4LzIcYimjekMzAc0c4vf2Q) | [Rara](https://open.spotify.com/artist/1sRvfCFBFo15M1ANbTq1Is) | [Dolce Vita](https://open.spotify.com/album/4FM5JpQ5epSYAbkwxIEyUD) | 2:27 | 2023-12-21 | 2024-01-19 |
 | [Dolche](https://open.spotify.com/track/25WDOCITWIg6Nfz5wjkfBY) | [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Dolche](https://open.spotify.com/album/5xGGtkZo6N3HCmvT7LoU8c) | 2:37 | 2025-04-24 | 2025-05-17 |
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-09-28 | 2023-11-24 |
-| [dopamina](https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:05 | 2026-01-08 |  |
+| [dopamina](https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:05 | 2026-01-08 | 2026-02-27 |
 | [DOSiS](https://open.spotify.com/track/45hMdaPF4b47baFQHgI5Mj) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [DOSiS](https://open.spotify.com/album/5gJ0BZlRum6qWfJKlem3z8) | 3:34 | 2024-01-25 | 2024-03-22 |
 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-21 | 2024-05-24 |
 | [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 | 2025-05-22 | 2025-07-19 |
@@ -369,6 +369,7 @@
 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 | 2024-09-06 | 2025-10-24 |
 | [THANK YOU BB](https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [THANK YOU BB](https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa) | 3:26 | 2025-11-13 |  |
 | [TOA](https://open.spotify.com/track/7gdDVtwNZfpyymuUuNQBD8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [TOA](https://open.spotify.com/album/339pENtTr43vsQGyGZC0qC) | 3:01 | 2025-04-03 | 2025-04-25 |
+| [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 | 2026-02-26 |  |
 | [TOQUE DE QUEDA \(feat\. Peipper\)](https://open.spotify.com/track/1qTAHepXsJBb1c0MoBVP0J) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [TOQUE DE QUEDA \(feat\. Peipper\)](https://open.spotify.com/album/438SWtqpPDUbIad03OAHUT) | 2:42 | 2025-05-08 | 2025-05-23 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-23 | 2024-06-21 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-09-28 | 2024-07-05 |

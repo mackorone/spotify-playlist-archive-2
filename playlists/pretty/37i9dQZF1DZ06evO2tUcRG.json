@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269514,
+  "num_followers": 269523,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAD5tLpAEUkUMwQO51FzxKm",
+  "snapshot_id": "aZ47gAAAAADRAY6t/RjEzsayFNh106yM",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Onde Iremos?",
+        "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Teu Santo Nome",
+      "url": "https://open.spotify.com/track/3d4fqNr8Skfs5PmxAZSeP0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 264374,
       "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
       "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Onde Iremos?",
-        "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Teu Santo Nome",
-      "url": "https://open.spotify.com/track/3d4fqNr8Skfs5PmxAZSeP0"
     },
     {
       "added_at": null,
@@ -755,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
       },
       "artists": [
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+      "duration_ms": 326883,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
     },
     {
       "added_at": null,
@@ -791,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
       "artists": [
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 326883,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Seu Nome",
-        "url": "https://open.spotify.com/album/0CjJExJhqqfZ5LLJBs848d"
+        "name": "A Igreja (Ao Vivo)",
+        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
       },
       "artists": [
-        {
-          "name": "Andr\u00e9 Aquino",
-          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 542139,
-      "name": "Em Seu Nome",
-      "url": "https://open.spotify.com/track/4IMvk0xyCGwwX4bVixr5cv"
+      "duration_ms": 286452,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
     },
     {
       "added_at": null,
@@ -863,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja (Ao Vivo)",
-        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
+        "name": "Em Seu Nome",
+        "url": "https://open.spotify.com/album/0CjJExJhqqfZ5LLJBs848d"
       },
       "artists": [
+        {
+          "name": "Andr\u00e9 Aquino",
+          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 286452,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
+      "duration_ms": 542139,
+      "name": "Em Seu Nome",
+      "url": "https://open.spotify.com/track/4IMvk0xyCGwwX4bVixr5cv"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112328,
+  "num_followers": 112445,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
+        "name": "Decyzje",
+        "url": "https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Decyzje",
+      "url": "https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
         "name": "Pali si\u0119 niebo",
         "url": "https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 157528,
       "name": "s\u0142owa na K",
       "url": "https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
-        "name": "Decyzje",
-        "url": "https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65"
-      },
-      "artists": [
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        },
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Decyzje",
-      "url": "https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
-      },
-      "artists": [
-        {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 itd.",
         "url": "https://open.spotify.com/album/4LNqtIipHftDkT0ZnFUK58"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 254158,
       "name": "Mi\u0142o\u015b\u0107 itd.",
       "url": "https://open.spotify.com/track/7BfQIV2V28FVblkqVegwnj"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+      },
+      "artists": [
+        {
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Hot!",
-        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
-      },
-      "artists": [
-        {
-          "name": "Chloe Parch\u00e9",
-          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
-        },
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Hot!",
-      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "sticky rice",
         "url": "https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 187428,
       "name": "sticky rice",
       "url": "https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        },
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
     },
     {
       "added_at": "2026-02-23 16:52:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 
 > Relive the defining era of 2015\-2019 in UK Rap, R&B, Hip\-Hop, Afroswing and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,103 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,303 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 | 73 | [Fashion Week \(feat\. AJ Tracey & MoStack\)](https://open.spotify.com/track/78KyOmqWmqLkQcXO1cA7MO) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Fashion Week \(feat\. AJ Tracey & MoStack\)](https://open.spotify.com/album/6OvaMPD9RAQ3tVTijCTgz8) | 3:21 |
 | 74 | [I Win](https://open.spotify.com/track/1Ci5Pl39IIwzx0p0CSuvG4) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [I Win](https://open.spotify.com/album/6UMKao3ady9sgSr5VJvLvo) | 3:07 |
 | 75 | [Strike a Pose \(feat\. Aitch\)](https://open.spotify.com/track/23GvTfcGK454ppLsts3W44) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Strike a Pose \(feat\. Aitch\)](https://open.spotify.com/album/4VHqJxJ3wZ9znAPhgcwYwa) | 3:34 |
-| 76 | [Greaze Mode](https://open.spotify.com/track/6gRbkI6s0M7zTE9uhRZUjV) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Greaze Mode](https://open.spotify.com/album/3qhdxKqksjkX6l8NDXz0as) | 2:48 |
-| 77 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 |
-| 78 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
-| 79 | [Active](https://open.spotify.com/track/52YnEPFQEqxOL7SZcu3vWV) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Brixton](https://open.spotify.com/album/1ETrwwNXRqYGe4CUlvGVVF) | 3:48 |
-| 80 | [Ask Flipz](https://open.spotify.com/track/4I31cTuAHTf9aO7JkGW8PO) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [7 Days](https://open.spotify.com/album/7n7NgiMxMFj2KhwW9OfaXr) | 3:52 |
+| 76 | [Kennington Where It Started](https://open.spotify.com/track/6Na5zhYhzUupJiEjagtRHn) | [Bis](https://open.spotify.com/artist/2CouBNQVudUwXuQvfplovo), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Active](https://open.spotify.com/artist/6W8bB1cNNdp1x2M6cMCTzZ), [MizOrMac](https://open.spotify.com/artist/6qJxjpZgvj3NJGKMkFakpA) | [Kennington Where It Started](https://open.spotify.com/album/4rmKoFAySmOwXlzCyUAbwq) | 3:56 |
+| 77 | [Greaze Mode](https://open.spotify.com/track/6gRbkI6s0M7zTE9uhRZUjV) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Greaze Mode](https://open.spotify.com/album/3qhdxKqksjkX6l8NDXz0as) | 2:48 |
+| 78 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 |
+| 79 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
+| 80 | [Active](https://open.spotify.com/track/52YnEPFQEqxOL7SZcu3vWV) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Brixton](https://open.spotify.com/album/1ETrwwNXRqYGe4CUlvGVVF) | 3:48 |
 
-Snapshot ID: `AAAAAMlQ5/R19ujrcdtE0PPbVNeUMGMG`
+Snapshot ID: `AAAAAKoZibr5uwyjnftWYwcfBO458Yod`

@@ -1,6 +1,6 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 210087,
+  "num_followers": 210090,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
@@ -268,7 +268,7 @@
       },
       "artists": [
         {
-          "name": "Luttrell",
+          "name": "Eric Luttrell",
           "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         },
         {
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-02-12 16:54:16",
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Fox",
+          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+        }
+      ],
+      "duration_ms": 201442,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3"
+    },
+    {
+      "added_at": "2026-02-12 16:54:16",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2026-02-12 16:54:16",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Fox",
-          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
-        }
-      ],
-      "duration_ms": 201442,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3"
     },
     {
       "added_at": "2026-02-12 16:54:16",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-02-12 16:54:16",
       "album": {
+        "name": "STOP (what if you fly?)",
+        "url": "https://open.spotify.com/album/4eMJ14ilC3DC0CjIJaJJFR"
+      },
+      "artists": [
+        {
+          "name": "Bassi Fox",
+          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+        }
+      ],
+      "duration_ms": 197174,
+      "name": "STOP (what if you fly?)",
+      "url": "https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj"
+    },
+    {
+      "added_at": "2026-02-12 16:54:16",
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 217216,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr"
-    },
-    {
-      "added_at": "2026-02-12 16:54:16",
-      "album": {
-        "name": "STOP (what if you fly?)",
-        "url": "https://open.spotify.com/album/4eMJ14ilC3DC0CjIJaJJFR"
-      },
-      "artists": [
-        {
-          "name": "Bassi Fox",
-          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
-        }
-      ],
-      "duration_ms": 197174,
-      "name": "STOP (what if you fly?)",
-      "url": "https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj"
     },
     {
       "added_at": "2026-02-12 16:54:16",

@@ -4,7 +4,7 @@
 
 > Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Genesis Owusu
 
-126 songs - 6 hr 53 min
+129 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,12 +54,13 @@
 | [Gatekeep](https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Big Modern](https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX) | 1:06 | 2025-11-20 |  |
 | [Gold](https://open.spotify.com/track/4ab3Sjx3e92nsAGrL0BYL7) | [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [gold / fawn](https://open.spotify.com/album/2TOEnmEgLeiozFQcJKats7) | 4:27 | 2026-02-05 |  |
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 | 2026-01-30 |
-| [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 |  |
+| [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 | 2026-02-27 |
 | [Head In A Toaster](https://open.spotify.com/track/3imsIC8F4wV3AX7oIoIkCE) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Head In A Toaster](https://open.spotify.com/album/3fvhuLxy0ynDpYUlL5MxYM) | 1:55 | 2025-10-23 | 2026-02-13 |
 | [Headlights](https://open.spotify.com/track/5EVfMP3tZ8L1c2ple2YnGT) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [Headlights](https://open.spotify.com/album/6U4InmynS95MGghIuTUa6x) | 4:10 | 2025-10-23 |  |
 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 | 2025-11-13 | 2026-01-23 |
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-23 |  |
 | [How I'm Feeling](https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [How I'm Feeling](https://open.spotify.com/album/5UFejVMGISqKdcE8jikgyd) | 2:56 | 2025-11-06 |  |
+| [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-02-26 |  |
 | [i'm still here \(feat\. sweet93\)](https://open.spotify.com/track/4syMA65QPHgPFbAhKF1cy1) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [the machinist](https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa) | 4:02 | 2025-10-23 | 2026-01-15 |
 | [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-15 |  |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-05 |  |
@@ -75,7 +76,7 @@
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 | 2025-11-21 |
 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 | 2025-10-23 |  |
 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 | 2025-10-23 | 2025-12-05 |
-| [mlb](https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [mlb](https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry) | 3:52 | 2025-10-23 |  |
+| [mlb](https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [mlb](https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry) | 3:52 | 2025-10-23 | 2026-02-27 |
 | [Nausea](https://open.spotify.com/track/4NyZSDjtIfz27tSVGnd3uu) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [Nausea](https://open.spotify.com/album/0MJVMWhQjrVp9aE7M5b9mi) | 4:01 | 2025-10-23 | 2025-11-21 |
 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-10-23 |  |
 | [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 | 2025-10-23 |  |
@@ -120,6 +121,7 @@
 | [Swamped](https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky Is Falling](https://open.spotify.com/album/28uUvZtG0MaZILpUToigcn) | 3:17 | 2025-10-23 | 2025-11-21 |
 | [Take Me Apart](https://open.spotify.com/track/60X2aBTjALI2TZvRe3dHTJ) | [LORY](https://open.spotify.com/artist/1MnhXelXuGXhjgCyWrc4DF) | [Three\-Three\-Three](https://open.spotify.com/album/48JSARqYTYJa1DmZl1NOLJ) | 2:19 | 2025-11-06 | 2026-01-30 |
 | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5) | 3:03 | 2025-10-23 | 2026-02-13 |
+| [The Gap](https://open.spotify.com/track/0QqS4DQq9tVaQZwP1977M7) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [The Gap](https://open.spotify.com/album/1Bnpt6QVXk8mDmiYIfGOUL) | 4:28 | 2026-02-26 |  |
 | [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-10-23 | 2025-11-14 |
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-10-23 | 2026-02-21 |
 | [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys \(Japanese Deluxe Edition\)](https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB) | 2:39 | 2026-01-15 |  |
@@ -133,6 +135,7 @@
 | [Unravel](https://open.spotify.com/track/3ez0xKG3l1OrHFZ6wy64OB) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Unravel](https://open.spotify.com/album/0tibtVhSBn7hILu0brCz8e) | 3:46 | 2025-11-20 |  |
 | [Violet \- YHWH Nailgun Remix](https://open.spotify.com/track/2kbKNHVudgXof9wjHE133Z) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd), [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Violet \(YHWH Nailgun Remix\)](https://open.spotify.com/album/61jYiKm2orJF28fCaFWLD4) | 4:14 | 2026-01-22 |  |
 | [want someone](https://open.spotify.com/track/6z3OIvA4hWhL9tAqh4pG5N) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [want someone](https://open.spotify.com/album/6sHptB5hwfGcHfTk2x9I4d) | 2:40 | 2025-10-23 | 2026-01-15 |
-| [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-10-23 |  |
+| [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-10-23 | 2026-02-27 |
+| [WHITE NOISE](https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [WHITE NOISE](https://open.spotify.com/album/4Ujzbe9tXwfIZabmtPFAEC) | 4:24 | 2026-02-26 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

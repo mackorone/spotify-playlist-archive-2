@@ -4416,7 +4416,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 122156,
       "name": "Dear X - Acoustic",
       "url": "https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo"
@@ -4788,7 +4788,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 130434,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2"
@@ -7278,7 +7278,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 190780,
       "name": "Frayed Edges",
       "url": "https://open.spotify.com/track/16Vl5jE1fu5J1o4gQ8dl1r"
@@ -8296,6 +8296,24 @@
       "duration_ms": 179645,
       "name": "HAVE MERCY",
       "url": "https://open.spotify.com/track/7fU0SxqyQYCkoKsju0ZPxz"
+    },
+    {
+      "album": {
+        "name": "Have You Heard Your Muse Today?",
+        "url": "https://open.spotify.com/album/5pTt9dounJvnstZN3XHNao"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196603,
+      "name": "Have You Heard Your Muse Today?",
+      "url": "https://open.spotify.com/track/5dBXLIn9THvF7UDV6Y6Z49"
     },
     {
       "album": {
@@ -9835,6 +9853,24 @@
     },
     {
       "album": {
+        "name": "In The Year 2525 (ghosts in chains)",
+        "url": "https://open.spotify.com/album/0Uopy1Q0QcBFLGF40wZJNu"
+      },
+      "artists": [
+        {
+          "name": "Thee Wrecking Crew",
+          "url": "https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209439,
+      "name": "In The Year 2525 (ghosts in chains)",
+      "url": "https://open.spotify.com/track/4aYcjqNEdC6CAwtFz4k7HN"
+    },
+    {
+      "album": {
         "name": "In This Light",
         "url": "https://open.spotify.com/album/7mIaScZKe2WyyjzvLhgZ9A"
       },
@@ -10449,6 +10485,24 @@
     },
     {
       "album": {
+        "name": "karma will find her way",
+        "url": "https://open.spotify.com/album/6Iss2ULS8SMdWQzDIZtT2d"
+      },
+      "artists": [
+        {
+          "name": "Ara De Rosa",
+          "url": "https://open.spotify.com/artist/0lZvSOVKHBi27tC6VJEKoK"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152757,
+      "name": "karma will find her way",
+      "url": "https://open.spotify.com/track/4WZ8ngIlOSN6F3KWoiZ5tt"
+    },
+    {
+      "album": {
         "name": "Keep Thinking",
         "url": "https://open.spotify.com/album/0lVl0LYln3U5IdMjutQTCO"
       },
@@ -10536,6 +10590,24 @@
       "duration_ms": 299386,
       "name": "Kick the Brakes off (Now We're Rollin')",
       "url": "https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG"
+    },
+    {
+      "album": {
+        "name": "Be My Valentine",
+        "url": "https://open.spotify.com/album/0QiAcz7IRIbdEntz6LRQ2P"
+      },
+      "artists": [
+        {
+          "name": "Seychelles",
+          "url": "https://open.spotify.com/artist/0rTgBBUFhjZjcf9njIWamz"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161006,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/6pTlQcf2TFalcOL6O5rcP4"
     },
     {
       "album": {
@@ -12327,6 +12399,24 @@
     },
     {
       "album": {
+        "name": "Galata",
+        "url": "https://open.spotify.com/album/499joGIzEV3WP8tRbVQsrH"
+      },
+      "artists": [
+        {
+          "name": "Tomos Withano",
+          "url": "https://open.spotify.com/artist/3qoKqlGIP6UNXnxvEQfWzp"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127791,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4Uib7WPSBBmc8CohGYmFaa"
+    },
+    {
+      "album": {
         "name": "May Sunset",
         "url": "https://open.spotify.com/album/6yZolKuA99kELUnkAGvEHt"
       },
@@ -13781,6 +13871,24 @@
     },
     {
       "album": {
+        "name": "2.EXE",
+        "url": "https://open.spotify.com/album/3G4BqNqVQcvRKkCjk9KVs8"
+      },
+      "artists": [
+        {
+          "name": "Edita King",
+          "url": "https://open.spotify.com/artist/083PPuqs9pYZUI25Rm6mPC"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171039,
+      "name": "No One Does It Like Me",
+      "url": "https://open.spotify.com/track/0rRjg8A9QudtKvqKs19y3J"
+    },
+    {
+      "album": {
         "name": "Anything According To Plan",
         "url": "https://open.spotify.com/album/27vc2qCIKAumr15deHbdc3"
       },
@@ -14082,6 +14190,24 @@
       "duration_ms": 186745,
       "name": "Nothing but a Memory",
       "url": "https://open.spotify.com/track/68tcsrNM7NoCbRE0EW4x9A"
+    },
+    {
+      "album": {
+        "name": "Electric Night",
+        "url": "https://open.spotify.com/album/5fx6zYSU38qN9DiSL4J9Lo"
+      },
+      "artists": [
+        {
+          "name": "Verena",
+          "url": "https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188470,
+      "name": "Nothing To See",
+      "url": "https://open.spotify.com/track/55N6UIvCRHkSwJSuDfUIdI"
     },
     {
       "album": {
@@ -15908,7 +16034,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 191584,
       "name": "Rain Hides My Tears Tonight",
       "url": "https://open.spotify.com/track/7EgGEYInzw8Ltpbig88YnO"
@@ -16508,6 +16634,24 @@
       "duration_ms": 150192,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5QbFE1cog9kL3v2LIzRPeI"
+    },
+    {
+      "album": {
+        "name": "Right Outta Nowhere",
+        "url": "https://open.spotify.com/album/2DLzm5BaDur8xpKMPzxbii"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Ryder",
+          "url": "https://open.spotify.com/artist/0c6JD4SrwQICEaxfRdZS6s"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201159,
+      "name": "Right Outta Nowhere",
+      "url": "https://open.spotify.com/track/7wmJTXUnEoCOavotIGYQc5"
     },
     {
       "album": {
@@ -18917,6 +19061,24 @@
     },
     {
       "album": {
+        "name": "Taken By The Hand",
+        "url": "https://open.spotify.com/album/17gVvXXiDA6w98KLMK7bNc"
+      },
+      "artists": [
+        {
+          "name": "Ellie Carter",
+          "url": "https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193079,
+      "name": "Taken By The Hand",
+      "url": "https://open.spotify.com/track/0dgDCw9psih9iCCq1QOgYE"
+    },
+    {
+      "album": {
         "name": "Talking To Jesus",
         "url": "https://open.spotify.com/album/4usI3DjcdoLXhkT7EymYpe"
       },
@@ -19000,7 +19162,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 175000,
       "name": "Teacher Teach Me",
       "url": "https://open.spotify.com/track/4WpcT6H2c7h0DolObTbaDE"
@@ -22786,6 +22948,24 @@
       "duration_ms": 165428,
       "name": "Your Goodbye Changed Me",
       "url": "https://open.spotify.com/track/62lm06sb8O8x046vfXXh5V"
+    },
+    {
+      "album": {
+        "name": "YOUR LOVE",
+        "url": "https://open.spotify.com/album/3lYQUFqAcydlAvPmbWqIE0"
+      },
+      "artists": [
+        {
+          "name": "Valleymountain",
+          "url": "https://open.spotify.com/artist/1VH0oZ5j1GtP29Ye1d1zqo"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175766,
+      "name": "YOUR LOVE",
+      "url": "https://open.spotify.com/track/3SBlv3hA8nLHk9g67VJ2eF"
     },
     {
       "album": {

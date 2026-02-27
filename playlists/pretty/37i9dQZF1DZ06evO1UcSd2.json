@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 79765,
+  "num_followers": 79850,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAACv5zqOL5yB3LlUe22Wo2D",
+  "snapshot_id": "aZ47gAAAAABXSddh5kYnecAykkSo+Tp/",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 165480,
-      "name": "Gente del General",
-      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
+      "duration_ms": 180384,
+      "name": "Soy Mencho",
+      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 180384,
-      "name": "Soy Mencho",
-      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
+      "duration_ms": 165480,
+      "name": "Gente del General",
+      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4Os4Jurq9wiwOoMCS3Llvq"
-      },
-      "artists": [
-        {
-          "name": "El Medina",
-          "url": "https://open.spotify.com/artist/1HAvDPGzG863u9h9u2iMDX"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200597,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0tNAek3rDP1oo5iCgzdL66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
         "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
       },
@@ -775,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gordo",
-        "url": "https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA"
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4Os4Jurq9wiwOoMCS3Llvq"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "El Medina",
+          "url": "https://open.spotify.com/artist/1HAvDPGzG863u9h9u2iMDX"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 166613,
-      "name": "El Gordo",
-      "url": "https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz"
+      "duration_ms": 200597,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0tNAek3rDP1oo5iCgzdL66"
     },
     {
       "added_at": null,
@@ -827,6 +807,26 @@
       "duration_ms": 210398,
       "name": "Belicotas",
       "url": "https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Gordo",
+        "url": "https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "El Gordo",
+      "url": "https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz"
     },
     {
       "added_at": null,

@@ -1,13 +1,197 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7877,
+  "num_followers": 7879,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOtRtRVXbSrySL3Snpg67UsK3a/h9a",
+  "snapshot_id": "AAAOx8k6Gu5CPUjw3U9l3E6Fsfa3373x",
   "tracks": [
+    {
+      "added_at": "2026-02-26 14:42:04",
+      "album": {
+        "name": "Who's Here?",
+        "url": "https://open.spotify.com/album/0wDQAL6rbrSRzEkUNIzioP"
+      },
+      "artists": [
+        {
+          "name": "Greta Levska",
+          "url": "https://open.spotify.com/artist/3r3NacwYbrrmf9zuuj1n35"
+        }
+      ],
+      "duration_ms": 306502,
+      "name": "Who's Here?",
+      "url": "https://open.spotify.com/track/1FNeshISK3vjYw9ebBLw8o"
+    },
+    {
+      "added_at": "2026-02-26 14:43:28",
+      "album": {
+        "name": "Quiero Tu Amor",
+        "url": "https://open.spotify.com/album/1Easqa1BTUEy8TPCm0mVv0"
+      },
+      "artists": [
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        },
+        {
+          "name": "Andre VII",
+          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "duration_ms": 183169,
+      "name": "Quiero Tu Amor - Radio Edit",
+      "url": "https://open.spotify.com/track/0u7tk9dvWeG2EJ6nclMNLV"
+    },
+    {
+      "added_at": "2026-02-26 14:39:54",
+      "album": {
+        "name": "Playa Paradiso",
+        "url": "https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 185353,
+      "name": "Playa Paradiso",
+      "url": "https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU"
+    },
+    {
+      "added_at": "2026-02-26 14:42:24",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/6EwceabziOOptW7N7tT626"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 275544,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/4n0gxEYj45uKjAfXOw8lYt"
+    },
+    {
+      "added_at": "2026-02-26 14:40:17",
+      "album": {
+        "name": "Soul Sonic Force EP",
+        "url": "https://open.spotify.com/album/51WXsG9PaH4WBUqw1GI7Hv"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 306147,
+      "name": "Insurrection",
+      "url": "https://open.spotify.com/track/4yTfcBSlx5rGVnTaH7yqL7"
+    },
+    {
+      "added_at": "2026-02-26 14:40:45",
+      "album": {
+        "name": "For Several Eternals Before There Were Years",
+        "url": "https://open.spotify.com/album/6QgF3L8v9e8Mwwd1vhLUBJ"
+      },
+      "artists": [
+        {
+          "name": "1-800 Techno",
+          "url": "https://open.spotify.com/artist/2X2lZoNNwgxRD7kZpBn0sS"
+        },
+        {
+          "name": "DJ CITY",
+          "url": "https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj"
+        },
+        {
+          "name": "Karl Lihagen",
+          "url": "https://open.spotify.com/artist/39xx7uSO1RiFK5YyJwgAa3"
+        }
+      ],
+      "duration_ms": 411250,
+      "name": "My Name is Who",
+      "url": "https://open.spotify.com/track/1nBcqnJWXBxngm84lXEWe8"
+    },
+    {
+      "added_at": "2026-02-26 14:41:02",
+      "album": {
+        "name": "Left At Sunset",
+        "url": "https://open.spotify.com/album/0BqEGSrVCZaGd8HuILOlGX"
+      },
+      "artists": [
+        {
+          "name": "Tornado Wallace",
+          "url": "https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT"
+        },
+        {
+          "name": "Courtney Bailey",
+          "url": "https://open.spotify.com/artist/3lkGl12NbdeNBcsjo7coDQ"
+        }
+      ],
+      "duration_ms": 433510,
+      "name": "Asahi Ga Yondeiru",
+      "url": "https://open.spotify.com/track/5HZB4iXdKvzmpHjBjXD8t2"
+    },
+    {
+      "added_at": "2026-02-26 14:38:18",
+      "album": {
+        "name": "Layering Buddha",
+        "url": "https://open.spotify.com/album/4SslY9VUfpKkY2nm4gx4kP"
+      },
+      "artists": [
+        {
+          "name": "Robert Henke",
+          "url": "https://open.spotify.com/artist/5cSssfrNDzZdX1c5qVe30y"
+        }
+      ],
+      "duration_ms": 293813,
+      "name": "Layer 001",
+      "url": "https://open.spotify.com/track/3TR6dG23WkTS4LMGela6UC"
+    },
+    {
+      "added_at": "2026-02-26 14:41:20",
+      "album": {
+        "name": "Chuva",
+        "url": "https://open.spotify.com/album/5aYnVwiIxWVQ7Ksa96TYRA"
+      },
+      "artists": [
+        {
+          "name": "N\u00f8rbak",
+          "url": "https://open.spotify.com/artist/0TwXWZcwzGVVOa1Vdu3UEj"
+        }
+      ],
+      "duration_ms": 281956,
+      "name": "Chuva",
+      "url": "https://open.spotify.com/track/3qzYHMvSyLcDYdwtrlrezm"
+    },
+    {
+      "added_at": "2026-02-26 14:41:36",
+      "album": {
+        "name": "A Hum Of Maybe",
+        "url": "https://open.spotify.com/album/0qnPF8Sh3L9DIutZZDpRLI"
+      },
+      "artists": [
+        {
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        }
+      ],
+      "duration_ms": 334517,
+      "name": "Hum Of Maybe",
+      "url": "https://open.spotify.com/track/3BeHTAECg4fbAPqHeembPg"
+    },
     {
       "added_at": "2026-02-18 15:27:57",
       "album": {
@@ -3940,7 +4124,7 @@
       },
       "artists": [
         {
-          "name": "\u00c9tienne de Cr\u00e9cy",
+          "name": "Etienne de Cr\u00e9cy ",
           "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
         },
         {

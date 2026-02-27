@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,738 likes - 190 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,829 likes - 190 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 22 | [Peaceful Morning](https://open.spotify.com/track/7DyF6UY3xiVmoLncNaCAtg) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Peaceful Morning](https://open.spotify.com/album/1VifjtiGpfZHpgVyeJM4y1) | 2:41 |
 | 23 | [Slow Drifting](https://open.spotify.com/track/7kXKkgCB1u4mzXO2P9LsUP) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Slow Drifting](https://open.spotify.com/album/39V8Sj52MNmbsCViIj67gr) | 2:25 |
 | 24 | [Blurred Lights](https://open.spotify.com/track/7aJ0gEpbB2hNnEQ4AXivXl) | [Daly Lowe](https://open.spotify.com/artist/1DERRyxDextHQUIp33LiOQ) | [Blurred Lights](https://open.spotify.com/album/4VnaTBCfGGnNj3mr4utRwW) | 2:26 |
-| 25 | [Forest Mystique](https://open.spotify.com/track/5sPKUjOxcEPXHhzNPD3WmU) | [Mistwood](https://open.spotify.com/artist/4D4a0xoAAAiqddv8O0JZ6M) | [Forest Mystique](https://open.spotify.com/album/4GpnD1kz98Xo6hKSokNZ8j) | 3:45 |
+| 25 | [Forest Mystique](https://open.spotify.com/track/5sPKUjOxcEPXHhzNPD3WmU) | [Mistwood](https://open.spotify.com/artist/5bodEDQ4DA2TCgwiBcPAxI) | [Forest Mystique](https://open.spotify.com/album/4GpnD1kz98Xo6hKSokNZ8j) | 3:45 |
 | 26 | [cloud forest](https://open.spotify.com/track/2iaRep2eVfXAaoTvpFg9tE) | [Lierre](https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku) | [cloud forest](https://open.spotify.com/album/6kuub22drlYHzz9OLKucJW) | 2:24 |
 | 27 | [Nature's Heart](https://open.spotify.com/track/7yIzdeMsJ8Ao3E4WReINYu) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Nature's Heart](https://open.spotify.com/album/7zmcX2OiYE6yZf4FDk1W9o) | 2:45 |
 | 28 | [Birdsong Revival](https://open.spotify.com/track/6revOhCNDkfUK0wpZPf2bY) | [Faded Grandeur](https://open.spotify.com/artist/64ODerOSP4aFrfGgTQ7nbe) | [Birdsong Revival](https://open.spotify.com/album/17I1wU1TrcZzMoqo3FZVqY) | 2:40 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 189 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 |
 | 190 | [Feel the Forest](https://open.spotify.com/track/1XWWyO7yYj1636eT1VJeAz) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Feel the Forest](https://open.spotify.com/album/3oOoxvI9pdac8KbD7C0YWJ) | 2:52 |
 
-Snapshot ID: `AAAAAAz9NTSxsQW30d9zuup8vgENAhzY`
+Snapshot ID: `AAAAAAvwdkgnNGVhJ8GOqQN4EJ0fffFY`

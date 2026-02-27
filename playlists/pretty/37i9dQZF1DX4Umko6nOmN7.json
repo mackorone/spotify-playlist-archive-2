@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 613847,
+  "num_followers": 613843,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Oh love",
-        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 256047,
-      "name": "Oh love",
-      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Genom livet",
         "url": "https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 167156,
       "name": "Genom livet",
       "url": "https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Oh love",
+        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 256047,
+      "name": "Oh love",
+      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Swan Upon Leda",
         "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
@@ -987,22 +987,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
-        "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
       },
       "artists": [
         {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        },
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
-      "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
+        "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
+        "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
       "artists": [
         {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        },
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
         }
       ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
+      "duration_ms": 169213,
+      "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
+      "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Fragile Thing",
+        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 168561,
+      "name": "Fragile Thing",
+      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Fragile Thing",
-        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 168561,
-      "name": "Fragile Thing",
-      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1479,22 +1495,6 @@
       "duration_ms": 158546,
       "name": "you chose this",
       "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Do You Haunt Me",
-        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 193155,
-      "name": "Do You Haunt Me",
-      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Vara m\u00e4nniska",
-        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 134624,
-      "name": "Vara m\u00e4nniska",
-      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Flytta h\u00e4rifr\u00e5n",
         "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 208509,
       "name": "Flytta h\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Vara m\u00e4nniska",
+        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 134624,
+      "name": "Vara m\u00e4nniska",
+      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
     },
     {
       "added_at": "2026-01-09 08:25:05",

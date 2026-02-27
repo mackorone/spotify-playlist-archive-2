@@ -1413,6 +1413,28 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/1gJOBSFTxIuJ2pwYRa7cmJ"
+      },
+      "artists": [
+        {
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/3RkVf1OldUGYKfhsnE35AC"
+    },
+    {
+      "album": {
         "name": "Kautaka (Remix)",
         "url": "https://open.spotify.com/album/5RKJcCAVGDoTFAf0B9pSb5"
       },
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 183050,
       "name": "Ruwa II",
       "url": "https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S"

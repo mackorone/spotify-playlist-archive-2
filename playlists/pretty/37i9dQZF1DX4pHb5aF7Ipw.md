@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Rawaab Del Rey & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,006 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,007 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 9 | [Front Man](https://open.spotify.com/track/64MGErTUPVPAHi36PiUguD) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Front Man](https://open.spotify.com/album/5haq8jUx4UgbbPRHIrkDfQ) | 3:01 |
 | 10 | [Money Magnet](https://open.spotify.com/track/4hGH03vmgACTrkX2UdqwQt) | [Kulwinder Sohi](https://open.spotify.com/artist/4ZuPcTmzv64QazoSJizaxe), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Husan Galwatti](https://open.spotify.com/artist/6QYK5wmqsrKJc9NRkDkEq2) | [Money Magnet](https://open.spotify.com/album/34cKzfl5KFQgi3D5PFI2iF) | 3:05 |
 | 11 | [HUNT](https://open.spotify.com/track/2QBGmcVhHvHK0Sxd0JsrRM) | [Simar Ghai](https://open.spotify.com/artist/2vP3STguePEahsT3QmMfhr) | [HUNT](https://open.spotify.com/album/4elOywqCLZUhZASuDt6P6I) | 2:47 |
-| 12 | [Born to Live](https://open.spotify.com/track/5M5B71ibTJQAaObBzi737R) | [Mr RJ Gautam](https://open.spotify.com/artist/0lKQsCQVHskG1y6K6dKPsj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Beat Boi Deep](https://open.spotify.com/artist/024zFKsfkByro9RORWasCq) | [4 Flowers](https://open.spotify.com/album/61QW93GNx9H9nN4eLbL7AG) | 3:22 |
+| 12 | [Born to Live](https://open.spotify.com/track/5M5B71ibTJQAaObBzi737R) | [Mr RJ Gautam](https://open.spotify.com/artist/0lKQsCQVHskG1y6K6dKPsj), [Beat Boi Deep](https://open.spotify.com/artist/024zFKsfkByro9RORWasCq) | [4 Flowers](https://open.spotify.com/album/61QW93GNx9H9nN4eLbL7AG) | 3:22 |
 | 13 | [FAFO](https://open.spotify.com/track/4CgpS5Zaj3DTJ4vM2hqBAv) | [G Brar](https://open.spotify.com/artist/6iz1cneCcR7HrjW2THIK3v) | [FAFO](https://open.spotify.com/album/6677iI55PSHpE79hxwQnri) | 3:06 |
 | 14 | [Kaun Aya](https://open.spotify.com/track/0IcBZmYNKJtcwCFEccrg68) | [ISSA G](https://open.spotify.com/artist/4SuYH4CRMWleBbcTjwhmjV) | [Kaun Aya](https://open.spotify.com/album/4pVFzDeJx6Xl0xCo3Lx7P5) | 1:34 |
 | 15 | [God Damn](https://open.spotify.com/track/719qcQsFWLLtuUTh1ji07w) | [Mehra](https://open.spotify.com/artist/3Ruo5W7U9cRtjJ29zj7oWE), [13 Likhari](https://open.spotify.com/artist/02CHY0S3j3yUFzrRk7eDFW) | [God Damn](https://open.spotify.com/album/5HDtemxP0pvEJ7CS6NEXNC) | 3:11 |

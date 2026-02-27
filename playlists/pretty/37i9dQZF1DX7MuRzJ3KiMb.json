@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104921,
+  "num_followers": 104917,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "AGUA E' PANELA (cule_nota)",
+        "url": "https://open.spotify.com/album/29d7TpjwEZ2mXqrBQBuQfN"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 127829,
+      "name": "AGUA E' PANELA (cule_nota)",
+      "url": "https://open.spotify.com/track/0T5aZy0h2WCk1N9Vgp77Qn"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "la culpa (track 11)",
         "url": "https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 165120,
       "name": "la culpa (track 11)",
       "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "AGUA E' PANELA (cule_nota)",
-        "url": "https://open.spotify.com/album/29d7TpjwEZ2mXqrBQBuQfN"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 127829,
-      "name": "AGUA E' PANELA (cule_nota)",
-      "url": "https://open.spotify.com/track/0T5aZy0h2WCk1N9Vgp77Qn"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 145151,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "No Fue Suerte",
         "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 212382,
       "name": "Perdon Mama",
       "url": "https://open.spotify.com/track/6WbkWq6e8KuD6k26L1yePw"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 145151,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "NoNoNo",
-        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "T.V ADDICT",
         "url": "https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 150346,
       "name": "drugz",
       "url": "https://open.spotify.com/track/5DWlVW2J2yojwgMtiLLFJp"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "RID\u00cdCULO",
-        "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 159607,
-      "name": "RID\u00cdCULO",
-      "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Aurora (Remix)",
         "url": "https://open.spotify.com/album/6wEUiMr0TmgW4ibsAOXybW"
       },
@@ -1475,26 +1455,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "\u00d3xido (Nick Warren & Nicolas Rada Remix)",
-        "url": "https://open.spotify.com/album/10q7J2PEljNlw5o2kBCItF"
+        "name": "RID\u00cdCULO",
+        "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
       },
       "artists": [
         {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
         },
         {
-          "name": "Nick Warren",
-          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
-        },
-        {
-          "name": "Nicolas Rada",
-          "url": "https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5"
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
         }
       ],
-      "duration_ms": 414531,
-      "name": "\u00d3xido - Nick Warren & Nicolas Rada Remix",
-      "url": "https://open.spotify.com/track/3j1abdTMpaSKiVOYykJLL4"
+      "duration_ms": 159607,
+      "name": "RID\u00cdCULO",
+      "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1515,6 +1491,30 @@
       "duration_ms": 232120,
       "name": "Ojos Secos (with Cuco)",
       "url": "https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "\u00d3xido (Nick Warren & Nicolas Rada Remix)",
+        "url": "https://open.spotify.com/album/10q7J2PEljNlw5o2kBCItF"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        },
+        {
+          "name": "Nick Warren",
+          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
+        },
+        {
+          "name": "Nicolas Rada",
+          "url": "https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5"
+        }
+      ],
+      "duration_ms": 414531,
+      "name": "\u00d3xido - Nick Warren & Nicolas Rada Remix",
+      "url": "https://open.spotify.com/track/3j1abdTMpaSKiVOYykJLL4"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Filantrop\u00eda",
-        "url": "https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "dj spizike",
-          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
-        }
-      ],
-      "duration_ms": 126383,
-      "name": "Un Pelito y un Tamal",
-      "url": "https://open.spotify.com/track/6ogaSIMjINZK3D97pBv3Xo"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "GUSTAR Y OFENDER",
         "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 207801,
       "name": "PERTENECER",
       "url": "https://open.spotify.com/track/3ahgcq09Cc7CXwDkYQxOfq"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Filantrop\u00eda",
+        "url": "https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "dj spizike",
+          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
+        }
+      ],
+      "duration_ms": 126383,
+      "name": "Un Pelito y un Tamal",
+      "url": "https://open.spotify.com/track/6ogaSIMjINZK3D97pBv3Xo"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Quiero que lo que yo te diga sea un arma en tu arsenal",
-        "url": "https://open.spotify.com/album/4gKa7wOYqksh8CshKQd9yT"
-      },
-      "artists": [
-        {
-          "name": "Winona Riders",
-          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "Ingrid Grudke",
-      "url": "https://open.spotify.com/track/7nocjmOy0yVkVmjGiCgITq"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/06pFNFPnFGxswcfLUbwbO8"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 244853,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/1XjB5CC1i2lN9eGupMQSWy"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Quiero que lo que yo te diga sea un arma en tu arsenal",
+        "url": "https://open.spotify.com/album/4gKa7wOYqksh8CshKQd9yT"
+      },
+      "artists": [
+        {
+          "name": "Winona Riders",
+          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+        }
+      ],
+      "duration_ms": 175841,
+      "name": "Ingrid Grudke",
+      "url": "https://open.spotify.com/track/7nocjmOy0yVkVmjGiCgITq"
     },
     {
       "added_at": "2025-12-03 13:16:51",

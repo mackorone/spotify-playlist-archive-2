@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Central Cee",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Digga D",
   "name": "Who We Be",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 171655,
       "name": "8PM",
       "url": "https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet"
@@ -5979,6 +5979,32 @@
     },
     {
       "album": {
+        "name": "Clean and Fresh",
+        "url": "https://open.spotify.com/album/7rP3vxSybZALfrJ4DZMmS1"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138840,
+      "name": "Clean and Fresh",
+      "url": "https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2"
+    },
+    {
+      "album": {
         "name": "Clearest of Signs",
         "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
       },
@@ -10698,7 +10724,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -14214,6 +14240,24 @@
       "duration_ms": 211633,
       "name": "Honestly (Feat. Blanco)",
       "url": "https://open.spotify.com/track/3enAbhOqBI9SqBvZGSVkY3"
+    },
+    {
+      "album": {
+        "name": "Honour / I Want In",
+        "url": "https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250152,
+      "name": "Honour",
+      "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
     },
     {
       "album": {
@@ -19810,7 +19854,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 169127,
       "name": "Mightjuss",
       "url": "https://open.spotify.com/track/2BCTfnyOqyEq4CmZ3aPjEj"
@@ -22206,7 +22250,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
@@ -23563,6 +23607,24 @@
     },
     {
       "album": {
+        "name": "Job's Not Done",
+        "url": "https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "Pac-Man",
+      "url": "https://open.spotify.com/track/7CT6uTCmVIMnFR9VVag8Hr"
+    },
+    {
+      "album": {
         "name": "Packs and Potions",
         "url": "https://open.spotify.com/album/1VkcWtwCE0ktxyiZqjkCzu"
       },
@@ -24204,7 +24266,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -24620,6 +24682,24 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "album": {
+        "name": "Point To Prove",
+        "url": "https://open.spotify.com/album/0Ol9zAyCJMU86fDjdodJpK"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138165,
+      "name": "Point To Prove",
+      "url": "https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs"
     },
     {
       "album": {
@@ -33384,6 +33464,28 @@
       "duration_ms": 145879,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9"
+    },
+    {
+      "album": {
+        "name": "Watch Me Now! (with NLE Choppa)",
+        "url": "https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Watch Me Now! (with NLE Choppa)",
+      "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 
 > Feel good songs yang bikin kamu happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,590 likes - 77 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,589 likes - 77 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 | 32 | [Saat Denganmu](https://open.spotify.com/track/4Y5HdGbvGiyQCd7GjlyD1V) | [Chandra Satria](https://open.spotify.com/artist/4ot1BWOW743fMmTrCNufAm), [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [Saat Denganmu](https://open.spotify.com/album/3Mv029bGvz7oJVRqLr1t2e) | 4:07 |
 | 33 | [Your Love](https://open.spotify.com/track/6TPpCbn9z0IY5Te048iy5R) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 2:53 |
 | 34 | [Hold My Hand](https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Hold My Hand](https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin) | 3:47 |
-| 35 | [Tunggu Apa Lagi](https://open.spotify.com/track/2LVnSeNPdiT9r95BtLhrAQ) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [LUAP](https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd) | 3:39 |
+| 35 | [Tunggu Apa Lagi](https://open.spotify.com/track/2LVnSeNPdiT9r95BtLhrAQ) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [LUAP](https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd) | 3:39 |
 | 36 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
 | 37 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
 | 38 | [Gong Xi Happy \(Natya, Rendy, Naissa\)](https://open.spotify.com/track/0sp334pp65TBsl7ytHMfbk) | [Step by Step ID](https://open.spotify.com/artist/2lsCkG13qWokWDSRW1nhtM) | [Gong Xi Happy \(Natya, Rendy, Naissa\)](https://open.spotify.com/album/79Zz5NV3sSSgVa05P60Hhj) | 2:47 |

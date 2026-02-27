@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208105,
       "name": "Brutally",
       "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Everywhere Isn't Texas",
+        "url": "https://open.spotify.com/album/75jUCkcDcLD25FR9AlQJik"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192955,
+      "name": "Everywhere Isn't Texas",
+      "url": "https://open.spotify.com/track/20eJY9bryFWgVNUlZBUgGN"
+    },
+    {
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 173946,
       "name": "Finest Work",
       "url": "https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 187846,
       "name": "Forgive My Deceit",
       "url": "https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po"
@@ -2078,6 +2096,24 @@
       "duration_ms": 263760,
       "name": "Forward",
       "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
+    },
+    {
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/02LoGnwNdQjewONsLrM0YN"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/5U6sbkexYOvmOkhIYaprrP"
     },
     {
       "album": {
@@ -2110,7 +2146,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 181618,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/0ID888wUXbMfZVVPe0DtJg"
@@ -2561,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Hearken",
+        "url": "https://open.spotify.com/album/76esxIQUhXuZW0d7VdNy2g"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371671,
+      "name": "Hearken",
+      "url": "https://open.spotify.com/track/4xEBLCaklcfiEk0d6BIeZe"
+    },
+    {
+      "album": {
         "name": "Hearts That Pound Like Yours",
         "url": "https://open.spotify.com/album/4J7zHXQyKKUSOpha3swQle"
       },
@@ -2886,7 +2940,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 243875,
       "name": "I Hate It Here",
       "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
@@ -3304,7 +3358,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 233307,
       "name": "Incomprehensible",
       "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
@@ -3466,10 +3520,28 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 236033,
       "name": "Just Be Simple",
       "url": "https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U"
+    },
+    {
+      "album": {
+        "name": "Karaoke Friday",
+        "url": "https://open.spotify.com/album/3MPoYDKXUpsqSujiKo8vgt"
+      },
+      "artists": [
+        {
+          "name": "My Mercury",
+          "url": "https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234784,
+      "name": "Karaoke Friday",
+      "url": "https://open.spotify.com/track/1TXiuhwr1Ymqc08OFIC7NC"
     },
     {
       "album": {
@@ -3730,7 +3802,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 195690,
       "name": "Lose",
       "url": "https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV"
@@ -3950,7 +4022,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 224419,
       "name": "Marlay Park",
       "url": "https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z"
@@ -4328,7 +4400,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 176418,
       "name": "my mind (now)",
       "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
@@ -5850,7 +5922,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 245892,
       "name": "summer in december",
       "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
@@ -6088,7 +6160,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 324893,
       "name": "The Commons",
       "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
@@ -6452,6 +6524,24 @@
       "duration_ms": 181924,
       "name": "Tie Dye Sky",
       "url": "https://open.spotify.com/track/71vUAS9Aftk8CCCReZDDXi"
+    },
+    {
+      "album": {
+        "name": "til august",
+        "url": "https://open.spotify.com/album/3EMZG4Y5HKssmMazBmNlXt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "til august",
+      "url": "https://open.spotify.com/track/6WUkPB4F1l26DfDqRIsbTH"
     },
     {
       "album": {

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [639 Hz Compassion](https://open.spotify.com/track/1dUEOImbqBBnzIJYmZSJQn) | [Hertz Harmony](https://open.spotify.com/artist/1LQ6dIMZP4sNgA9hoE1PBT) | [639 Hz Compassion](https://open.spotify.com/album/01oSV7pzXDvsACSbXryXqB) | 2:50 | 2025-12-02 |  |
-| [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 | 2026-02-26 |
+| [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
 | [A New Day](https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [A New Day](https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW) | 2:36 | 2023-10-06 | 2025-04-24 |
 | [A Silent Moon](https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn) | [Atmosferion](https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc) | [A Silent Moon](https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H) | 3:08 | 2022-11-11 | 2025-01-15 |
 | [A Space Within a Space](https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync) | 3:11 | 2022-07-05 | 2022-07-29 |
@@ -225,7 +225,7 @@
 | [Repose](https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2) | 3:12 | 2022-08-05 | 2024-04-19 |
 | [Repose](https://open.spotify.com/track/5iznXjdt5IJ29UjDM7lVT7) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/6kDgVv2vgX9z2DWawWlOWt) | 3:12 | 2022-07-05 | 2022-07-29 |
 | [Resonance](https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k) | [Evanesce](https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8) | [Resonance](https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln) | 2:23 | 2025-05-14 |  |
-| [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-04-29 |  |
+| [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-04-29 | 2026-02-27 |
 | [Restoration](https://open.spotify.com/track/0YTADQHqg5hMmY34d5WUfG) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Restoration](https://open.spotify.com/album/63mFaMYI2MjMn08yo21sDo) | 3:07 | 2025-05-14 |  |
 | [Rituals](https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ritual](https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD) | 3:49 | 2022-07-05 | 2025-07-25 |
 | [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-17 |  |

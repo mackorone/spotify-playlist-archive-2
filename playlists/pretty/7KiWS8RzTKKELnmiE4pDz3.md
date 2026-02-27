@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 395 songs - 1 day 0 hr 14 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 397 songs - 1 day 0 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -403,5 +403,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 393 | [Hot! Heat! Wow! Hot!](https://open.spotify.com/track/5m2AvZcE0f59XTBDmjNqZA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Fronzoli](https://open.spotify.com/album/2fsuwVXuxg6psijDhlSbzt) | 3:32 |
 | 394 | [Aux Cord](https://open.spotify.com/track/25FSYy5ox8ZXYzBCvTEKLd) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [4eva Is A Mighty Long Time](https://open.spotify.com/album/6vGEX2ejVVsHTIsqI1teZg) | 3:15 |
 | 395 | [Crawl](https://open.spotify.com/track/5wWW7oHGBRgVAaKEoGFvOf) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 3:50 |
+| 396 | [Vaudeville Villain](https://open.spotify.com/track/6rkV9hz91Rr5iHnMRPZdEQ) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:31 |
+| 397 | [Hourglass](https://open.spotify.com/track/27SUFEhCpOTwYGdvzCbRpK) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 3:21 |
 
-Snapshot ID: `AAAfxthQtveejKAcGsHenLGji5d5tIMQ`
+Snapshot ID: `AAAfyJbDruosOlIwuLXo0KQaj2P9IwHT`

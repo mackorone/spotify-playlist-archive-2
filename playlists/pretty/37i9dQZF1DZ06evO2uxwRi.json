@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43433,
+  "num_followers": 43436,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAASF+NugLYHEdRQYPbEC4nC",
+  "snapshot_id": "aZ47gAAAAABRf/NQixlTZyYVrTCa5YbC",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "The Glory Of Love",
-      "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 182066,
       "name": "Truth Of My Youth",
       "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "The Glory Of Love",
+      "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 231240,
       "name": "Failure's Not Flattering",
       "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
     },
     {
       "added_at": null,

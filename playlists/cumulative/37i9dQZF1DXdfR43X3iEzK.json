@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "my alt/pop could mean anything \u2694\ufe0f\ncover: hannes",
+  "description": "my alt/pop could mean anything \u2694\ufe0f\ncover: bella kay",
   "name": "alt/pop",
   "tracks": [
     {
@@ -2739,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "DISNEY PRINCESS",
+        "url": "https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245441,
+      "name": "DISNEY PRINCESS",
+      "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX"
       },
@@ -3359,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa"
+    },
+    {
+      "album": {
         "name": "Flink Pike",
         "url": "https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26"
       },
@@ -3612,7 +3648,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 240133,
       "name": "G.OD",
       "url": "https://open.spotify.com/track/2KC52ALH0ecP7LIcmXpnXk"
@@ -5095,6 +5131,24 @@
     },
     {
       "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "album": {
         "name": "Imaginary",
         "url": "https://open.spotify.com/album/5KZHjC5BKfUqunElvrZk4x"
       },
@@ -5430,7 +5484,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 143213,
       "name": "Jaime",
       "url": "https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf"
@@ -7150,7 +7204,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 171961,
       "name": "Nosedive",
       "url": "https://open.spotify.com/track/7H5O0aoIWMU5rfGSqGzLDB"
@@ -7298,6 +7352,24 @@
       "duration_ms": 217524,
       "name": "Old Me",
       "url": "https://open.spotify.com/track/6cuJsVA2GrUZDHP2cYnD1f"
+    },
+    {
+      "album": {
+        "name": "OLD TECHNOLOGY",
+        "url": "https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159198,
+      "name": "OLD TECHNOLOGY",
+      "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
     },
     {
       "album": {
@@ -10738,7 +10810,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189834,
       "name": "Will You Think Of Me?",
       "url": "https://open.spotify.com/track/4hayZUGO3xFqhikvPyoVRg"

@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 114747,
+  "num_followers": 114758,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAC1MYI7B/SzDIpv+RYcoZfn",
+  "snapshot_id": "aZ47gAAAAADaaJDbC2C5hs31vo3Gwqxw",
   "tracks": [
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/7xJnw5LC1xpAsue1TIt36J"
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 217173,
-      "name": "I Am the Fire",
-      "url": "https://open.spotify.com/track/1lF4hSfLHFWEwftha9gnZ1"
+      "duration_ms": 203880,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/6oIjJi274wP86uqFxQRlKV"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/7xJnw5LC1xpAsue1TIt36J"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 203880,
-      "name": "Do Not Disturb",
-      "url": "https://open.spotify.com/track/6oIjJi274wP86uqFxQRlKV"
+      "duration_ms": 217173,
+      "name": "I Am the Fire",
+      "url": "https://open.spotify.com/track/1lF4hSfLHFWEwftha9gnZ1"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 240453,
-      "name": "Killing Ourselves to Live",
-      "url": "https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b"
+      "duration_ms": 220666,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 3.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ReAniMate 3.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
       },
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 220666,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
+      "duration_ms": 240453,
+      "name": "Killing Ourselves to Live",
+      "url": "https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@
 
 > Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands 🔥
 
-119 songs - 6 hr 15 min
+120 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [5 In De Klok](https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [5 In De Klok](https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7) | 3:07 | 2025-06-06 | 2026-02-09 |
+| [5 In De Klok](https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [5 In De Klok](https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7) | 3:07 | 2025-06-06 |  |
 | [Adio Amore Adio](https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gewoon Jannes](https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV) | 3:27 | 2025-06-06 |  |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2025-06-06 |  |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2026-01-27 |  |
@@ -58,7 +58,7 @@
 | [Hoe Zou Je Doen](https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Hoe Zou Je Doen](https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj) | 3:04 | 2025-06-06 |  |
 | [Ik Ga Zwemmen](https://open.spotify.com/track/1f9X68h6QGh01bD0r4g9DF) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/65DiFaOKycQjpuAFpKTOfG) | 2:59 | 2025-06-06 | 2025-12-06 |
 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 | 2025-06-06 |  |
-| [Ik Laat Je Nooit Meer Gaan](https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [10 Jaar \(Mijn Grootste Hits Tot Nu Toe\)](https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH) | 3:50 | 2025-06-06 |  |
+| [Ik Laat Je Nooit Meer Gaan](https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [10 Jaar \(Mijn Grootste Hits Tot Nu Toe\)](https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH) | 3:50 | 2025-06-06 | 2026-02-27 |
 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 | 2025-06-06 |  |
 | [In Elk Stadje](https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [In Elk Stadje](https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x) | 3:30 | 2025-06-06 |  |
 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 | 2025-06-06 |  |
@@ -92,7 +92,8 @@
 | [Muziek Is Ons Leven](https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS) | [Echte Vrienden](https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb) | [Muziek Is Ons Leven](https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ) | 3:31 | 2025-06-06 |  |
 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 | 2025-12-10 |  |
 | [Nog Geen Siësta](https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Nog Geen Siësta](https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A) | 2:39 | 2025-06-06 | 2026-01-28 |
-| [Ontspanje](https://open.spotify.com/track/449CDQDtHMg18Y5KuMPhMx) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Jongen Uit De Stad](https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr) | 2:40 | 2026-02-11 |  |
+| [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 | 2026-02-26 |  |
+| [Ontspanje](https://open.spotify.com/track/449CDQDtHMg18Y5KuMPhMx) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Jongen Uit De Stad](https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr) | 2:40 | 2026-02-11 | 2026-02-27 |
 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 | 2025-06-06 |  |
 | [Pretty Belinda](https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA) | [Lawineboys](https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4), [Rocky Vosse](https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ) | [Pretty Belinda](https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm) | 2:54 | 2025-06-06 |  |
 | [Pure Verleiding](https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Lekker Lekker](https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1) | 3:23 | 2025-12-10 | 2026-02-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,639 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,779 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 12 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
 | 13 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
 | 14 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
-| 15 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
-| 16 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
-| 17 | [Hassassiya](https://open.spotify.com/track/5w3WUacjjy4TgQI1ffGXaB) | [Salim Cravata ](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Hassassiya](https://open.spotify.com/album/3z6Qdj8k7H9OWYhuKhgcHP) | 3:00 |
-| 18 | [NGHAMER](https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [NGHAMER](https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX) | 2:59 |
-| 19 | [Quand elle danse](https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Quand elle danse](https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K) | 3:11 |
-| 20 | [RIRI&ROCKY](https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [RIRI&ROCKY](https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh) | 2:43 |
+| 15 | [RIRI&ROCKY](https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [RIRI&ROCKY](https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh) | 2:43 |
+| 16 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
+| 17 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
+| 18 | [Hassassiya](https://open.spotify.com/track/5w3WUacjjy4TgQI1ffGXaB) | [Salim Cravata ](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Hassassiya](https://open.spotify.com/album/3z6Qdj8k7H9OWYhuKhgcHP) | 3:00 |
+| 19 | [NGHAMER](https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [NGHAMER](https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX) | 2:59 |
+| 20 | [Quand elle danse](https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Quand elle danse](https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K) | 3:11 |
 | 21 | [CARTA ROUGE](https://open.spotify.com/track/2ZzUpYp57Eftn5ueNKxkdW) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CARTA ROUGE](https://open.spotify.com/album/7DmLAQQhaikH0svVdVSlBX) | 3:13 |
 | 22 | [Habibi](https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Habibi](https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6) | 3:03 |
 | 23 | [TGV](https://open.spotify.com/track/109qPdBVwQb4kHIm4xTQu0) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Alam](https://open.spotify.com/album/1GWdlug2gmT2vOiTI1Rlig) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
 | 50 | [Chkoun Ntiya](https://open.spotify.com/track/6xH01d8YetZfuRCSlPCymQ) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [Chkoun Ntiya](https://open.spotify.com/album/0i2NCxG20ngXCFWdEqso6n) | 3:37 |
 
-Snapshot ID: `AAAAAKLkle9dGub6Pz5s8IX8Ric6SIEN`
+Snapshot ID: `AAAAALPHJRWknr1TjNrbo01A54G4l2Zx`

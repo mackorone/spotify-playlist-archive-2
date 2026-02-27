@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Roh Yun Ha\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Sik\-K\)
 
-1,779 songs - 3 day 23 hr 19 min
+1,780 songs - 3 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,6 +1187,7 @@
 | [PITAPA \(Feat\. pH\-1, JUNNY\)](https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [2 Kids On The Block \- Part.3](https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR) | 3:26 | 2024-03-29 | 2026-01-23 |
 | [Plan A\-Z \(feat\. TOMMY YANG\)](https://open.spotify.com/track/2hDV7WwnfDee8vsqFmpSuQ) | [Dakshood](https://open.spotify.com/artist/2jKQ4jDx4IYeDyTHGz1tkk), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y) | [Plan A\-Z \(feat\. TOMMY YANG\)](https://open.spotify.com/album/0o8tOqcK0CgIKxp4iyvsrr) | 2:06 | 2025-12-08 |  |
 | [Play](https://open.spotify.com/track/12FGJeMWeTVRjK31NIUIMQ) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Play](https://open.spotify.com/album/6MgHVfBDsr2qBP3Og6hPTo) | 2:39 | 2021-12-18 | 2022-07-07 |
+| [PLAYER \(feat\. Crush\)](https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [6SEOUL](https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh) | 3:06 | 2026-02-26 |  |
 | [Please \(Feat\. KIM HYO EUN, G2 & DUMBFOUNDEAD\)](https://open.spotify.com/track/4tJl1AVYE6WFAWtuAEhxpM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Coming To You Live](https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq) | 3:05 | 2023-01-10 | 2023-01-18 |
 | [Plosive](https://open.spotify.com/track/7bccIHtLR69pDIpHHJS2S5) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Light Adaptation](https://open.spotify.com/album/75y9y88UPJCpAEFCGDiwR7) | 2:49 | 2024-02-06 | 2024-05-03 |
 | [Plug it, Charge it, Work it](https://open.spotify.com/track/6r614UP1kiODR1jWR269TR) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [SUPERCHARGED](https://open.spotify.com/album/49beELaUnwCFd0ygQgH3E6) | 2:19 | 2024-10-04 | 2024-12-04 |

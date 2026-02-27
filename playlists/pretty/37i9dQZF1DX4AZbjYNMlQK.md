@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,866 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,828 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 8 | [Snowman \(feat\. Belinda\)](https://open.spotify.com/track/7tQ5cliSQxT7kv2OAxgy7s) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Snowman](https://open.spotify.com/album/6ABuOE8UhKiIiG0nK0fyUb) | 2:59 |
 | 9 | [Santa Baby](https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Santa Baby](https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq) | 2:55 |
 | 10 | [Te Fuiste](https://open.spotify.com/track/2gCa8rRD7zAJLBFJgnaru1) | [Daniela Blasco](https://open.spotify.com/artist/18Vhlc8r07wfrblTyfHEcg) | [Te Fuiste](https://open.spotify.com/album/0J8RBN49DLSWGIcR4A82Qf) | 3:34 |
-| 11 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 |
+| 11 | [Santa](https://open.spotify.com/track/337mfRQq0EimDHkR3iQGTy) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Santa](https://open.spotify.com/album/3wYfjSTIqSbV5bRw3nhu81) | 3:21 |
 | 12 | [Al Mundo Paz](https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 2:47 |
 | 13 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 |
-| 14 | [Santa](https://open.spotify.com/track/337mfRQq0EimDHkR3iQGTy) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Santa](https://open.spotify.com/album/3wYfjSTIqSbV5bRw3nhu81) | 3:21 |
+| 14 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 |
 | 15 | [Llegó la Navidad](https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Generacion Escogida](https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim), [Christian Nieves](https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ) | [Llegó la Navidad](https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt) | 3:43 |
 | 16 | [Feliz Navidad \(feat\. Mon Laferte\)](https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 2:42 |
 | 17 | [Gracias](https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Gracias](https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U) | 3:24 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 59 | [Alegría](https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Alegría](https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k) | 3:22 |
 | 60 | [Querido Santa Claus](https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Querido Santa Claus](https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI) | 3:22 |
 | 61 | [La Navidad Comenzó](https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [La Navidad Comenzó](https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2) | 3:19 |
-| 62 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
-| 63 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 |
+| 62 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 |
+| 63 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
 | 64 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 |
 | 65 | [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 |
 | 66 | [No Me Puedes Faltar \(Navidad\)](https://open.spotify.com/track/3c56nqMkeVdVnIxuflEJ5a) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl) | [No Me Puedes Faltar \(Navidad\)](https://open.spotify.com/album/6W6JtAT7c9Cgg73wheBQoP) | 3:28 |

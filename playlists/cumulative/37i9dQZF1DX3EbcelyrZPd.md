@@ -2,7 +2,7 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
+> Get your fill of vibes straight out of Tanzania\. Cover: Jay Melody
 
 644 songs - 1 day 12 hr 43 min
 
@@ -209,7 +209,7 @@
 | [Jeshi](https://open.spotify.com/track/3WU4mcgDNDwvOh5yvvUkiR) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Jeshi](https://open.spotify.com/album/0F99MTbWxyLZbXLtcgfYg5) | 3:17 | 2021-06-25 | 2022-02-05 |
 | [Jina](https://open.spotify.com/track/1J4zRKJxkMEa0iiPFX4ujG) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Jina](https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8) | 3:47 | 2025-07-10 | 2025-10-03 |
 | [Jipinde](https://open.spotify.com/track/66Y7mdsIOB9o6VrAJjdJGU) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Jipinde](https://open.spotify.com/album/4JMCOqbKas506lkTUtGGOq) | 2:40 | 2021-09-02 | 2022-07-15 |
-| [Jirani](https://open.spotify.com/track/0U6Fg4SXr3bl5nLwaQz5Hd) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Jirani](https://open.spotify.com/album/0vhSd0LwSYdq8FssIsGq8Q) | 3:02 | 2025-05-01 |  |
+| [Jirani](https://open.spotify.com/track/0U6Fg4SXr3bl5nLwaQz5Hd) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Jirani](https://open.spotify.com/album/0vhSd0LwSYdq8FssIsGq8Q) | 3:02 | 2025-05-01 | 2026-02-27 |
 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 | 2022-10-07 | 2023-04-21 |
 | [Juju \(feat\. Marioo\)](https://open.spotify.com/track/0HsI0Uo4iQnYpCAiBQuIQg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Juju \(feat\. Marioo\)](https://open.spotify.com/album/0HOR2H0t3Ugp3PtzEuyOIk) | 3:30 | 2025-04-11 | 2025-09-12 |
 | [Juluka](https://open.spotify.com/track/4wPZNhlSMqyKtdPG20Zt6f) | [Matutu Nyabange](https://open.spotify.com/artist/0eT1Ko0Tt6T5Bk927HJrsD), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Juluka](https://open.spotify.com/album/5d6q85ACjQVZGtzOzShpQc) | 3:38 | 2024-08-15 | 2025-01-10 |

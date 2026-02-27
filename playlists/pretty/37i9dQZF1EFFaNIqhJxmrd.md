@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 84 | [Follow Your Heart](https://open.spotify.com/track/2LvmiyPIdtW6T3pybKwcSc) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:21 |
 | 85 | [Din Låt](https://open.spotify.com/track/5Mo1sg5UVCUlgxZ2HXIMMc) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:04 |
 | 86 | [Obscene](https://open.spotify.com/track/5o6pZbA04aNAe8rAPapFpO) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:49 |
-| 87 | [Emptied Out](https://open.spotify.com/track/6yY9BHa8Z2BnGR6uyf6FWf) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 2:59 |
-| 88 | [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:21 |
+| 87 | [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:21 |
+| 88 | [Emptied Out](https://open.spotify.com/track/6yY9BHa8Z2BnGR6uyf6FWf) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 2:59 |
 | 89 | [Pretty](https://open.spotify.com/track/6j8JQJB1rFUNIZbpYQLbpp) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [This End Had No Beginning](https://open.spotify.com/album/3JxvP66tU4dBgNr9qUg8zB) | 3:10 |
 | 90 | [dö för mig](https://open.spotify.com/track/5nazg0445VGj83DneXAGNC) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:03 |
 | 91 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 115 | [3D](https://open.spotify.com/track/2OtCO79wkJ0wGpTQqgaG1u) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [3D](https://open.spotify.com/album/0w5santyjrfiZPqul2isJn) | 1:56 |
 | 116 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AcKpagAAAAB0AiX3pLJH7rvstTKpLLvy`
+Snapshot ID: `AcKvHgAAAAAEKeQhTql0mZIRkWUFMU3c`

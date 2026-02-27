@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Getting Old Is Killing Me",
+        "url": "https://open.spotify.com/album/4vweKvkQJZ1ZtwbEmW2mSg"
+      },
+      "artists": [
+        {
+          "name": "Steve Schmitt",
+          "url": "https://open.spotify.com/artist/6IXauAqsGDqYJzEA4FAJyc"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344840,
+      "name": "Don't Waste Your Time No More",
+      "url": "https://open.spotify.com/track/6k1cjP7gtHTtPbR5L2J4pZ"
+    },
+    {
+      "album": {
         "name": "Don\u00b4t Bring Me Down",
         "url": "https://open.spotify.com/album/3tyHhtZSfDpBbCD8tT6RW6"
       },

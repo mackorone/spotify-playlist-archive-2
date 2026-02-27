@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-634 songs - 1 day 13 hr 21 min
+635 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 | 2025-05-16 |  |
 | [Black Gold](https://open.spotify.com/track/0usVZ1hVbeBjmcGT7f6G8d) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:35 | 2022-03-24 | 2022-04-21 |
 | [Black Rain \- Jayda G Remix](https://open.spotify.com/track/2xvaAfj3UwqdVBUT7Y4scx) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Black Rain \(Jayda G Remix\)](https://open.spotify.com/album/3vxagOTOtePoyP0zYZl0Fs) | 4:11 | 2021-12-23 | 2022-07-12 |
+| [Blue](https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Blue](https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ) | 2:50 | 2026-02-25 |  |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-07-28 | 2022-10-13 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 | 2021-12-23 | 2022-07-27 |
@@ -241,7 +242,7 @@
 | [I Fell in Love Again](https://open.spotify.com/track/2vAFFYY2Iwhry8o8ZQgW5D) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [I Fell in Love Again](https://open.spotify.com/album/3WMCCey7bkFQbzEUplNQZ0) | 3:38 | 2022-01-20 | 2022-07-29 |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-16 | 2025-10-03 |
 | [I Need You](https://open.spotify.com/track/4qU8ip3F34wLBY1GBWYN3m) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [I Need You](https://open.spotify.com/album/6LAGnOxbEh0eVJIGdS3baY) | 3:03 | 2022-01-06 | 2022-07-28 |
-| [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 | 2026-01-23 |  |
+| [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 | 2026-01-23 | 2026-02-27 |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-19 | 2024-06-07 |
 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 | 2021-12-23 | 2022-04-21 |
 | [I'm free](https://open.spotify.com/track/4avPMUU15YTgFVEVnKdKQY) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/1C58yPdGxhkoCiXL0yuDXF) | 3:18 | 2024-04-12 | 2024-05-10 |

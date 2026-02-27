@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: TADI, Isyana Sarasvati, MAKO.",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Yung Caters",
   "name": "JIVVA",
   "tracks": [
     {
@@ -404,6 +404,24 @@
       "duration_ms": 174153,
       "name": "Balada Ibukota",
       "url": "https://open.spotify.com/track/0ep8KoAjChrYv8kZa5CxoD"
+    },
+    {
+      "album": {
+        "name": "Bandung City (UOO)",
+        "url": "https://open.spotify.com/album/093k3PKKaHm4dGiD223Opj"
+      },
+      "artists": [
+        {
+          "name": "Yung Caters",
+          "url": "https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Bandung City (UOO)",
+      "url": "https://open.spotify.com/track/3da5PBXzLQ3KoBGceD6QVG"
     },
     {
       "album": {
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 163257,
       "name": "Istriku",
       "url": "https://open.spotify.com/track/21j9SPUJscVwCfxqvopLhc"
@@ -2937,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "PHP",
+        "url": "https://open.spotify.com/album/5xzgc6Wn8gWL3PsPW8gL8n"
+      },
+      "artists": [
+        {
+          "name": "Bona Pascal",
+          "url": "https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243157,
+      "name": "PHP",
+      "url": "https://open.spotify.com/track/2QN6dPRKUAfeA51R2fprp1"
+    },
+    {
+      "album": {
         "name": "Pintu Rahasia",
         "url": "https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7"
       },
@@ -3912,6 +3948,28 @@
       "duration_ms": 184008,
       "name": "Text Me (When It's Over)",
       "url": "https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv"
+    },
+    {
+      "album": {
+        "name": "The Idea of You",
+        "url": "https://open.spotify.com/album/0B76FbYfsmoJwApePOLS3H"
+      },
+      "artists": [
+        {
+          "name": "Moneva",
+          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
+        },
+        {
+          "name": "Imelda Lizal",
+          "url": "https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284727,
+      "name": "The Idea of You",
+      "url": "https://open.spotify.com/track/1c8nwr5DO8gmOhmpBX4nJQ"
     },
     {
       "album": {

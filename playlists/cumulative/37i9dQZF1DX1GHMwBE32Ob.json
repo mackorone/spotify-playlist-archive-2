@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Mavo",
+  "description": "From the trenches. Through the streets.\nCover: Candy Bleakz",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -7852,7 +7852,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 138947,
       "name": "Spaghetti",
       "url": "https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt"
@@ -8292,6 +8292,24 @@
       "duration_ms": 176000,
       "name": "Trabaye",
       "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
+    },
+    {
+      "album": {
+        "name": "TRABZ",
+        "url": "https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "TRABZ",
+      "url": "https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ"
     },
     {
       "album": {

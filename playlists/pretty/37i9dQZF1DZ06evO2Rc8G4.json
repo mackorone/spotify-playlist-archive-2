@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170419,
+  "num_followers": 170435,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAACZ2pr3UuAXQaG9plV6rzJP",
+  "snapshot_id": "aZ47gAAAAAAf4IE77jgHZggP5G8AJ/wI",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
       "artists": [
         {
@@ -768,9 +752,25 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 189586,
-      "name": "Things We Do For Love",
-      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
+      "duration_ms": 178880,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 239880,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h"
+      "duration_ms": 189586,
+      "name": "Things We Do For Love",
+      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
     },
     {
       "added_at": null,
@@ -827,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
       },
       "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Vegas High",
-      "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
     },
     {
       "added_at": null,
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Out Of 10 (feat. Kylie Minogue)",
-        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 170602,
-      "name": "10 Out Of 10 (feat. Kylie Minogue)",
-      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
+      "duration_ms": 213026,
+      "name": "Vegas High",
+      "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
     },
     {
       "added_at": null,

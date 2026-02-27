@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: \uc7ac\ud63c \ud669\ud6c4 (The Remarried Empress)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: \ud654\uc0b0\uadc0\ud658 (Return of the Blossoming Blade)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "tracks": [
     {
@@ -1110,6 +1110,24 @@
       "duration_ms": 205984,
       "name": "Endless (Music from the Original Game Soundtrack \"Kalpa Of Universe\")",
       "url": "https://open.spotify.com/track/4r1PMgmwixLqclA0ImxT3J"
+    },
+    {
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/3lFaAYgXjYmE7PJyjTo38K"
+      },
+      "artists": [
+        {
+          "name": "GilGu",
+          "url": "https://open.spotify.com/artist/5wftr44TzLsb5bZ6zC17AU"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2KD5OHKr1PzVKYAgBA8C1H"
     },
     {
       "album": {
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 260173,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK"
@@ -2814,6 +2832,24 @@
       "duration_ms": 226516,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3uk0W0obUiWSesu1xwptQw"
+    },
+    {
+      "album": {
+        "name": "Webtoon 'Return of the Blossoming Blade' Part.5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4TBlwestyArrRwPgL2ZtIE"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Never Losing",
+      "url": "https://open.spotify.com/track/3b0Bxz2ZxN8aYUAnNCnXqT"
     },
     {
       "album": {
@@ -4402,7 +4438,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 193000,
       "name": "What If",
       "url": "https://open.spotify.com/track/6wbf8UteMC5Rq7hdr3O4Jt"

@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 84830,
+  "num_followers": 84848,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Keepin' It Cool",
-        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Keepin' It Cool",
-      "url": "https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Lil' Man Soul",
         "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 245226,
       "name": "I'm Waiting For You",
       "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Keepin' It Cool",
+        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Keepin' It Cool",
+      "url": "https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "The Limit's The Sky",
+        "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Chill Or Be Chilled",
+      "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Kickin' It",
         "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "The Limit's The Sky",
-        "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
+        "name": "Soul Express",
+        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
       "artists": [
         {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Chill Or Be Chilled",
-      "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
+      "duration_ms": 282506,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -295,22 +311,6 @@
       "duration_ms": 302506,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Soul Express",
-        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Lay It Back",
-        "url": "https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 335346,
-      "name": "To Be Like Him",
-      "url": "https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Metro Blue",
         "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 265773,
       "name": "People Make the World Go Round",
       "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Lay It Back",
+        "url": "https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 335346,
+      "name": "To Be Like Him",
+      "url": "https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78"
     },
     {
       "added_at": "2020-08-19 19:15:51",

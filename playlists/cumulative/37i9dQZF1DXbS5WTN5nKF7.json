@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Charlotte Cardin !",
+  "description": "Le meilleur des hits avec Taylor Swift !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -460,6 +460,24 @@
       "duration_ms": 229668,
       "name": "Allons Voir",
       "url": "https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW"
+    },
+    {
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
     },
     {
       "album": {
@@ -1428,6 +1446,24 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
+    },
+    {
+      "album": {
+        "name": "H\u00e9l\u00e9 2",
+        "url": "https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202887,
+      "name": "Capuche",
+      "url": "https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6"
     },
     {
       "album": {
@@ -2502,7 +2538,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 176533,
       "name": "Escroc",
       "url": "https://open.spotify.com/track/3yYPNVUFRHwVx5Q3HINdO9"
@@ -3797,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "Imposter",
+        "url": "https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158238,
+      "name": "Imposter",
+      "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
+    },
+    {
+      "album": {
         "name": "In The Stars (French Version)",
         "url": "https://open.spotify.com/album/2VmbPgtq2R4rqZbZQjWD3u"
       },
@@ -4524,7 +4578,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 193960,
       "name": "Le Chat",
       "url": "https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP"
@@ -6550,7 +6604,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 176010,
       "name": "QUE CE SOIT CLAIR",
       "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"

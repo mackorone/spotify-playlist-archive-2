@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Ally Evenson
 
-2,306 songs - 5 day 2 hr 45 min
+2,307 songs - 5 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1321,6 +1321,7 @@
 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 | 2021-05-04 | 2021-05-28 |
 | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/track/0PDMJ5XPiUc006Th2t04q8) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/album/1UeVCqanippU9jszS3D4Ny) | 3:41 | 2021-02-24 | 2022-04-12 |
 | [Maybe Don't \(feat\. JP Saxe\) \- HONNE Remix](https://open.spotify.com/track/11MUf3KmUWkwGGT0nHgv7g) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Maybe Don't \(feat\. JP Saxe\) \[HONNE Remix\]](https://open.spotify.com/album/1wxjjTywtdnvsa1GCNUy1M) | 2:55 | 2020-10-24 | 2021-01-15 |
+| [Maybe I'm the Reason](https://open.spotify.com/track/1TPCNPlitIbnPjJfL8TjC4) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Maybe I'm the Reason / Be Cool](https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd) | 2:54 | 2026-02-20 |  |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-04 | 2023-09-23 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi) | 1:54 | 2022-11-11 | 2022-12-22 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-06-17 | 2022-12-01 |
@@ -2018,7 +2019,7 @@
 | [teeth](https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:58 | 2025-12-05 | 2026-02-08 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-11-26 |
 | [TELESCOPE](https://open.spotify.com/track/0hSF71xjBaLyh4c7cV60hX) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq), [Sintoria](https://open.spotify.com/artist/5obN8rH8vcZiPJprUDj46p) | [TELESCOPE](https://open.spotify.com/album/68Ewq04LRD81Bbx60eXIBg) | 3:03 | 2020-11-20 | 2021-01-23 |
-| [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 | 2026-02-03 |  |
+| [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 | 2026-02-03 | 2026-02-27 |
 | [telly](https://open.spotify.com/track/01YqF3Nhfu3nsiQnZONpqT) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [telly](https://open.spotify.com/album/2ANxpNOc4tI3yi8baY5q8J) | 2:14 | 2021-05-10 | 2021-06-04 |
 | [Tenpin Haven](https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Tenpin Haven](https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv) | 4:07 | 2026-02-06 | 2026-02-23 |
 | [Tension](https://open.spotify.com/track/7iw7EB3awZl7xbXgAdKqQi) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Planetarium](https://open.spotify.com/album/0aw1n752bWwLLwwv5daGfG) | 2:53 | 2021-05-11 | 2021-10-14 |

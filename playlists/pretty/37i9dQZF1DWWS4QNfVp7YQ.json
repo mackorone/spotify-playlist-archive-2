@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 99216,
+  "num_followers": 99239,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Afroguaracha",
-        "url": "https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi"
-      },
-      "artists": [
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
-        }
-      ],
-      "duration_ms": 189393,
-      "name": "Afroguaracha",
-      "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Al\u00f3cate",
         "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 201543,
       "name": "Al\u00f3cate",
       "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Afroguaracha",
+        "url": "https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi"
+      },
+      "artists": [
+        {
+          "name": "Dj Otto",
+          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
+        }
+      ],
+      "duration_ms": 189393,
+      "name": "Afroguaracha",
+      "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
     },
     {
       "added_at": "2024-07-05 22:41:57",

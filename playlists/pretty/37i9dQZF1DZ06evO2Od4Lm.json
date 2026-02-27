@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 130952,
+  "num_followers": 130970,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAA+mr5lWVTXpMnvTaFGGlc4",
+  "snapshot_id": "aZ47gAAAAAD1F/B98mutyNTN5P3J582j",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compass Rosa",
-        "url": "https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh"
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
       "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 205846,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1"
+      "duration_ms": 254053,
+      "name": "All the Trees of the Field Will Clap Their Hands",
+      "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "Compass Rosa",
+        "url": "https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh"
       },
       "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 254053,
-      "name": "All the Trees of the Field Will Clap Their Hands",
-      "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
+      "duration_ms": 205846,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Flint (For the Unemployed and Underpaid)",
+      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 222071,
       "name": "Lady Macbeth In Chains",
       "url": "https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Flint (For the Unemployed and Underpaid)",
-      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age of Adz",
-        "url": "https://open.spotify.com/album/4kRMCapj9nEyBWnM0kc9OX"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 328013,
-      "name": "Vesuvius",
-      "url": "https://open.spotify.com/track/3GWZX3YtldXCdSQqrzGgV5"
+      "duration_ms": 203493,
+      "name": "The Upper Peninsula",
+      "url": "https://open.spotify.com/track/2AmS0bH0h8pAbz4BWfCqMz"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

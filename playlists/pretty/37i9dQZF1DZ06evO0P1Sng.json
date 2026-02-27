@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAACFizprKjtu+zeKaz94BeZ/",
+  "snapshot_id": "aZ47gAAAAAA35S9BBX3m249FJdQv52J5",
   "tracks": [
     {
       "added_at": null,
@@ -827,6 +827,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fresh Sesh #6",
+        "url": "https://open.spotify.com/album/1Er4MbWMJTAp6C8iGmBs3V"
+      },
+      "artists": [
+        {
+          "name": "Jenario Mc",
+          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
+        },
+        {
+          "name": "Abaddie",
+          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
+        },
+        {
+          "name": "Akascagrossa",
+          "url": "https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "Fresh Sesh #6",
+      "url": "https://open.spotify.com/track/7giwNNsayyEN9gWmQHy8PQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agi Igual Homem",
         "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
       },
@@ -975,38 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Sesh #6",
-        "url": "https://open.spotify.com/album/1Er4MbWMJTAp6C8iGmBs3V"
-      },
-      "artists": [
-        {
-          "name": "Jenario Mc",
-          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
-        },
-        {
-          "name": "Abaddie",
-          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
-        },
-        {
-          "name": "Akascagrossa",
-          "url": "https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 204857,
-      "name": "Fresh Sesh #6",
-      "url": "https://open.spotify.com/track/7giwNNsayyEN9gWmQHy8PQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MC de Batalha",
         "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
       },
@@ -1051,6 +1051,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FZND DNV",
+        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FZND DNV",
+      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Milhas",
         "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 163720,
       "name": "Milhas",
       "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FZND DNV",
-        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "FZND DNV",
-      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
     },
     {
       "added_at": null,
@@ -1363,26 +1363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sua Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 131584,
-      "name": "Sua Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1427,22 +1407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azzy (Ao Vivo no REP Festival)",
-        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
+        "name": "Sua Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
       },
       "artists": [
         {
-          "name": "REP Festival",
-          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
-        },
-        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
         }
       ],
-      "duration_ms": 106882,
-      "name": "Poesia Ac\u00fastica #11: Nada Mudou - Ao Vivo no REP Festival",
-      "url": "https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs"
+      "duration_ms": 131584,
+      "name": "Sua Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
     },
     {
       "added_at": null,
@@ -1483,6 +1463,26 @@
       "duration_ms": 487619,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azzy (Ao Vivo no REP Festival)",
+        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
+      },
+      "artists": [
+        {
+          "name": "REP Festival",
+          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 106882,
+      "name": "Poesia Ac\u00fastica #11: Nada Mudou - Ao Vivo no REP Festival",
+      "url": "https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs"
     }
   ],
   "unique_name": "This Is Azzy",

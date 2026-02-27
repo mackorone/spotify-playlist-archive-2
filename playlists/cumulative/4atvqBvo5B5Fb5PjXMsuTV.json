@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date. Updated 26 Feb 23:11 UTC.",
+  "description": "Latest popular single releases. Sorted by release date. Updated 27 Feb 23:11 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -17354,7 +17354,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 146556,
       "name": "Can't Stop The Throb",
       "url": "https://open.spotify.com/track/4EhXOy8870l2aTOR7EIrBA"
@@ -20708,7 +20708,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 93261,
       "name": "Close Ya Eyes!",
       "url": "https://open.spotify.com/track/4N0rOJ3W0XCYpdwDRsMPEA"
@@ -27904,6 +27904,24 @@
       "duration_ms": 212000,
       "name": "DISKO MUSHROOM",
       "url": "https://open.spotify.com/track/2NE7hPzpkNG2aKR8ydWBuX"
+    },
+    {
+      "album": {
+        "name": "DISNEY PRINCESS",
+        "url": "https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245441,
+      "name": "DISNEY PRINCESS",
+      "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
     },
     {
       "album": {
@@ -54339,6 +54357,24 @@
     },
     {
       "album": {
+        "name": "ITALIA STARTER PACK",
+        "url": "https://open.spotify.com/album/4M05X6484OBedfXnueiugs"
+      },
+      "artists": [
+        {
+          "name": "J-AX",
+          "url": "https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170376,
+      "name": "ITALIA STARTER PACK",
+      "url": "https://open.spotify.com/track/4ZAjcfbt84O79SGc0jWqu7"
+    },
+    {
+      "album": {
         "name": "Itamambuca",
         "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
       },
@@ -71595,6 +71631,24 @@
     },
     {
       "album": {
+        "name": "NI4NI",
+        "url": "https://open.spotify.com/album/0nOAwAvokahlFr5LEeWttF"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252705,
+      "name": "NI4NI",
+      "url": "https://open.spotify.com/track/2UmXnlHwi4dsPl9eizEhlI"
+    },
+    {
+      "album": {
         "name": "Nice Knowing You",
         "url": "https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF"
       },
@@ -88100,7 +88154,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210404,
       "name": "Save My Love",
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
@@ -88154,7 +88208,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 172333,
       "name": "Save The Day - From \"Hoppers\"",
       "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
@@ -90820,6 +90874,24 @@
       "duration_ms": 80487,
       "name": "Shut The Fack Up (STFU)",
       "url": "https://open.spotify.com/track/4yYh3t22EJdVgZSKxg27uP"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/13N8MLxKX3V8AiIRYVZC2q"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/1dghbq1PC8Pv4TETa9qupR"
     },
     {
       "album": {

@@ -10093,6 +10093,24 @@
     },
     {
       "album": {
+        "name": "Ottikita (01)",
+        "url": "https://open.spotify.com/album/4owBfV36cG7NOD9JnXd1SK"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165174,
+      "name": "Ottikita (01)",
+      "url": "https://open.spotify.com/track/4QyhVCxgAhugXPfzxilA0Q"
+    },
+    {
+      "album": {
         "name": "Ovvoru Ponnukkum (DEAFFROGS RECORDS)",
         "url": "https://open.spotify.com/album/4FqX3n33fZ6QbXhd7H9wRV"
       },
@@ -12212,6 +12230,24 @@
       "duration_ms": 188210,
       "name": "Soorpanagai",
       "url": "https://open.spotify.com/track/3YrotPydUy2kflbzZxtBIw"
+    },
+    {
+      "album": {
+        "name": "Sorgame Stun Aagum",
+        "url": "https://open.spotify.com/album/0slcTlopbFcegmXRBLbBqx"
+      },
+      "artists": [
+        {
+          "name": "Arun VT",
+          "url": "https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183636,
+      "name": "Sorgame Stun Aagum",
+      "url": "https://open.spotify.com/track/4eZVXQSqNFGwASklUaYPyy"
     },
     {
       "album": {

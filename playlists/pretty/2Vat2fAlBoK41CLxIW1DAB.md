@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,598 likes - 888 songs - 2 day 7 hr 57 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,598 likes - 894 songs - 2 day 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -896,5 +896,11 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 886 | [The Echoes Of My Screams](https://open.spotify.com/track/0pWXCua3FgJ18l9stZQJkO) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [The Echoes Of My Screams](https://open.spotify.com/album/6QKIRdG1rs9enoxTzPaQ5V) | 3:32 |
 | 887 | [Same Roots, New Fire](https://open.spotify.com/track/7ylG8ggNngVKDa0f5760pf) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Same Roots, New Fire](https://open.spotify.com/album/3xDKyBvMGjSgCYLv4YV7Ks) | 3:16 |
 | 888 | [Focused Frank](https://open.spotify.com/track/6gmIkIRS2RYEFW3IO5kBGb) | [Sam Tout](https://open.spotify.com/artist/7KkL60MFnIoBkdAfkUIBei) | [Echoes In Balance](https://open.spotify.com/album/5nCv2Eubc2RnEVxAJ1KIrA) | 3:38 |
+| 889 | [Чн](https://open.spotify.com/track/1k4hUObaHc5pCGD0ZvrhsC) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Чн](https://open.spotify.com/album/70f1wT4l5S7lN9wp2G9uJ0) | 3:10 |
+| 890 | [NOEYES//NOLOVE](https://open.spotify.com/track/1C5xxIlC1xavzMctSroHAD) | [BAMBEES](https://open.spotify.com/artist/5XRS6XmNxoOO0nDsJgeOrl) | [NOEYES//NOLOVE](https://open.spotify.com/album/4bZun5C03yKphjdj3vTyRd) | 2:33 |
+| 891 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 |
+| 892 | [Natural](https://open.spotify.com/track/3dLC3AnDK6QbxnhPWwWRAE) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5) | [Math](https://open.spotify.com/album/3Q5Qp1xWCfFg3YYSNlmwU9) | 3:13 |
+| 893 | [The Piper's Call with Jan Andersen](https://open.spotify.com/track/1K6q4HZXhHS7Ba4CHvQQDK) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 5:26 |
+| 894 | [Machinist](https://open.spotify.com/track/390uDe1clzKPgHHfd5i7pg) | [Age of Alteration](https://open.spotify.com/artist/0efMU3AGg3sdyFIYadU5x7) | [Machinist](https://open.spotify.com/album/2BYIyXYp7D1GVDdlE9qLyT) | 3:01 |
 
-Snapshot ID: `AAADmRp1EUMxsbWvZ42eZre3AZGnld5v`
+Snapshot ID: `AAADnwkCmZvf10PloNlLHoqzdw6oghId`

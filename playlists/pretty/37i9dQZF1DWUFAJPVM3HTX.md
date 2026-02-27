@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW?si=w\-fNzqCCSpWSvolvGB5PXQ">rjtheweirdo</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,866 likes - 177 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,890 likes - 177 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

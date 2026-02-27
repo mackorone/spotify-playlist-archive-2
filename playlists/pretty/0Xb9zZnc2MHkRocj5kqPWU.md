@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 59,443 likes - 106 songs - 5 hr 40 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 59,431 likes - 106 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 53 | [Bach: Cello Suite No\. 2 in D Minor, BWV 1008: I\. Prélude](https://open.spotify.com/track/3oXgDnhVSSNEwWCdobzliC) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Bach: Cello Suite No\. 2 in D Minor, BWV 1008: I\. Prélude](https://open.spotify.com/album/5EXbcOZdtjCIYsBX1wLkby) | 4:29 |
 | 54 | [Mon Coeur, Béton Brut](https://open.spotify.com/track/3PevFNBsHPkYmvPpE5C2aM) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Urban Impressionism \(Deluxe Edition\)](https://open.spotify.com/album/1l5WfNq5NhNpr9f1klpPLw) | 2:50 |
 | 55 | [Valse mélancolique](https://open.spotify.com/track/5rW6nljcULX0KnwwXlYJtO) | [Vladimir Rebikov](https://open.spotify.com/artist/0egrebhFLsNr4p5IlkMDzk), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Valse mélancolique](https://open.spotify.com/album/3PTMwmxKysFop6pzICQsTs) | 1:41 |
-| 56 | [Piano Sonata in A major](https://open.spotify.com/track/2YU0wP7NCBWasA1O205I5q) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Mozart Paradox](https://open.spotify.com/album/0G8kmLl872QJc2dBIxwCGN) | 4:36 |
+| 56 | [Piano Sonata in A Major \(After the First Movement of Piano Sonata No\. 11 in A Major, K\. 331\) \[Arr\. for Piano Solo by T\. Enhco\]](https://open.spotify.com/track/2YU0wP7NCBWasA1O205I5q) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Mozart Paradox](https://open.spotify.com/album/0G8kmLl872QJc2dBIxwCGN) | 4:36 |
 | 57 | [Beautiful Blossoms](https://open.spotify.com/track/0sTIJZ5AUAcPDr7L20dnLs) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn), [Mumintrollen](https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP) | [Seasons in Moominvalley](https://open.spotify.com/album/36jQCZanXXgvBhTuOYfWac) | 2:33 |
 | 58 | [Melancholy Variation \(After Concerto for Violin & Oboe in C Minor, BWV 1060R: III\. Allegro\) \[Arr\. for Violin, Accordion, String Quintet & Piano by Jan\-Peter Klöpfel\]](https://open.spotify.com/track/4oIKh5gcrZ4Vb6ld31baJT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Martynas](https://open.spotify.com/artist/24xgek07kTzaZ4SrocQHTs), [Norwegian String Quintet](https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Melancholy Variation](https://open.spotify.com/album/5LLtRnzPFDZNz0fhOHAbOv) | 3:11 |
 | 59 | [Eventide](https://open.spotify.com/track/4ZOnatfSjfxv36CdG8aWkc) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Eventide](https://open.spotify.com/album/6BeCcwopx2pdHSbvjVlcJY) | 3:06 |

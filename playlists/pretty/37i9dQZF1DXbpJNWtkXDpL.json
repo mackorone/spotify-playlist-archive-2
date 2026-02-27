@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92170,
+  "num_followers": 92168,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "FLOR marchita",
         "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 209473,
       "name": "FLOR marchita",
       "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
+        }
+      ],
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -671,6 +671,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "NO ACEPTEN IMITACIONES",
+        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        }
+      ],
+      "duration_ms": 155890,
+      "name": "COCINE Y COCINE",
+      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "PESADILLA.wav",
         "url": "https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 163764,
       "name": "PESADILLA.wav",
       "url": "https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "NO ACEPTEN IMITACIONES",
-        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Onemillionkisses",
-          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
-        }
-      ],
-      "duration_ms": 155890,
-      "name": "COCINE Y COCINE",
-      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -887,6 +887,30 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Tu Consentido",
+        "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
+      },
+      "artists": [
+        {
+          "name": "Dimelow Pro",
+          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        },
+        {
+          "name": "Ibarra",
+          "url": "https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Tu Consentido",
+      "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "veranito2k",
         "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 171000,
       "name": "Verano Cruel",
       "url": "https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Tu Consentido",
-        "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
-      },
-      "artists": [
-        {
-          "name": "Dimelow Pro",
-          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
-        },
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        },
-        {
-          "name": "Ibarra",
-          "url": "https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Tu Consentido",
-      "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "REGGAETON CUTE (VOL. 2)",
-        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
+        "name": "CATARSIS",
+        "url": "https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP"
       },
       "artists": [
         {
-          "name": "Roby Damian",
-          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
+          "name": "Cross MX",
+          "url": "https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
         }
       ],
-      "duration_ms": 158571,
-      "name": "MI D",
-      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
+      "duration_ms": 149413,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

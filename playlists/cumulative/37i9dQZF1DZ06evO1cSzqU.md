@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-101 songs - 7 hr 43 min
+102 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Always Somewhere](https://open.spotify.com/track/6Ok4D4w117mSi9OP8tmrpg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 4:57 | 2022-09-17 |  |
 | [Animal Magnetism](https://open.spotify.com/track/139vGPQ7UFWjP0ou6Vf68z) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:57 | 2022-09-21 | 2022-10-02 |
 | [Arizona](https://open.spotify.com/track/6HJMhjioyzZB7z6oSqCZN6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:55 | 2024-07-09 | 2024-07-10 |
-| [Bad Boys Running Wild](https://open.spotify.com/track/6UWWzTU1NgKf7vHbOeO17p) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 3:56 | 2022-10-20 |  |
+| [Bad Boys Running Wild](https://open.spotify.com/track/6UWWzTU1NgKf7vHbOeO17p) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 3:56 | 2022-10-20 | 2026-02-27 |
+| [Bad Boys Running Wild \- 2015 \- Remaster](https://open.spotify.com/track/0IhHHMznSjZ52IpXIU1A9D) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/5eiWWiHKC7Elfml59PORlF) | 3:56 | 2026-02-27 |  |
 | [Believe In Love](https://open.spotify.com/track/3T8I6Fdb6sUvIQqCaXK98b) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Savage Amusement](https://open.spotify.com/album/3iYSGTBKc5DDUQV1lwvhgl) | 5:24 | 2022-10-12 | 2025-07-02 |
 | [Believe in Love \- 2015 \- Remaster](https://open.spotify.com/track/7dJgMpT6LzQTlLMEuoapq2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Savage Amusement](https://open.spotify.com/album/60eR5X7jp8eSwlOSXbz5Qk) | 5:23 | 2023-12-21 |  |
 | [Believe in Love \- 2015 Remaster](https://open.spotify.com/track/1rQzg5VzNl4dZPQ6BAIm5p) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Savage Amusement](https://open.spotify.com/album/3jW8ocBVKcyWjJ4P8pBs3O) | 5:23 | 2023-10-10 | 2023-11-11 |

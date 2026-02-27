@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166088,
+  "num_followers": 166082,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,18 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
+        "name": "One Last Tear",
+        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
       },
       "artists": [
         {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         }
       ],
-      "duration_ms": 176614,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
+      "duration_ms": 140232,
+      "name": "One Last Tear",
+      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -307,18 +303,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "One Last Tear",
-        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
         }
       ],
-      "duration_ms": 140232,
-      "name": "One Last Tear",
-      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
+      "duration_ms": 176614,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 193138,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Badman Step",
         "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
       },
@@ -1335,6 +1319,42 @@
       "duration_ms": 200914,
       "name": "Badman Step",
       "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "duration_ms": 193138,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Scream My Name",
+        "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
+      },
+      "artists": [
+        {
+          "name": "Georgie Riot",
+          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
+        },
+        {
+          "name": "Sophie-Grace",
+          "url": "https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt"
+        }
+      ],
+      "duration_ms": 206774,
+      "name": "Scream My Name",
+      "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1359,26 +1379,6 @@
       "duration_ms": 206896,
       "name": "Rockstar Bass",
       "url": "https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Scream My Name",
-        "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
-      },
-      "artists": [
-        {
-          "name": "Georgie Riot",
-          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
-        },
-        {
-          "name": "Sophie-Grace",
-          "url": "https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt"
-        }
-      ],
-      "duration_ms": 206774,
-      "name": "Scream My Name",
-      "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Barbera 2026",
-        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Barbera 2026",
-      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Let Me Down",
         "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
       },
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
+        "name": "Barbera 2026",
+        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
       },
       "artists": [
         {
-          "name": "Majistrate",
-          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
-        },
-        {
-          "name": "Weejii",
-          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
+      "duration_ms": 243921,
+      "name": "Barbera 2026",
+      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1547,18 +1527,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+        "name": "Bigger Amount",
+        "url": "https://open.spotify.com/album/7mv0hUdMKkBMdCdZkIohcL"
       },
       "artists": [
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        },
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
         }
       ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+      "duration_ms": 180214,
+      "name": "Bigger Amount",
+      "url": "https://open.spotify.com/track/748OwMC54EEWkhRDOc3svl"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Bigger Amount",
-        "url": "https://open.spotify.com/album/7mv0hUdMKkBMdCdZkIohcL"
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
       },
       "artists": [
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        },
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 180214,
-      "name": "Bigger Amount",
-      "url": "https://open.spotify.com/track/748OwMC54EEWkhRDOc3svl"
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1639,6 +1619,42 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
+      },
+      "artists": [
+        {
+          "name": "Majistrate",
+          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
+        },
+        {
+          "name": "Weejii",
+          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Satan's Alley",
         "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
@@ -1659,6 +1675,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/5F1ysE3pHEVff0KT3c0YfN"
+      },
+      "artists": [
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/4zKfzNTHGTI60A5FcykRKU"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/6pvsEbFpaEyUpcfU3HGqLd"
       },
@@ -1675,38 +1707,6 @@
       "duration_ms": 202000,
       "name": "Simulation",
       "url": "https://open.spotify.com/track/6xnBre4gfp3CiOazJ44IMy"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Senses",
-        "url": "https://open.spotify.com/album/5F1ysE3pHEVff0KT3c0YfN"
-      },
-      "artists": [
-        {
-          "name": "BAKEY",
-          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Senses",
-      "url": "https://open.spotify.com/track/4zKfzNTHGTI60A5FcykRKU"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Dancing In My Sleep",
-        "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 LaVice",
-          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
-        },
-        {
-          "name": "Tania Foster",
-          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
-        }
-      ],
-      "duration_ms": 202068,
-      "name": "Dancing In My Sleep",
-      "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
       },
@@ -1895,22 +1875,6 @@
       "duration_ms": 200423,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Foreshadow / Third Kit",
-        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Foreshadow",
-      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1935,6 +1899,42 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Foreshadow / Third Kit",
+        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Foreshadow",
+      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Dancing In My Sleep",
+        "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+        }
+      ],
+      "duration_ms": 202068,
+      "name": "Dancing In My Sleep",
+      "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "RUDEBOI",
         "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
       },
@@ -1955,26 +1955,18 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "TAKEOVER",
-        "url": "https://open.spotify.com/album/6o6bDiw3hroIi7naApZV0n"
+        "name": "Romance EP",
+        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
       },
       "artists": [
         {
-          "name": "G-REX",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        },
-        {
-          "name": "Bebi",
-          "url": "https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
         }
       ],
-      "duration_ms": 146122,
-      "name": "TAKEOVER",
-      "url": "https://open.spotify.com/track/0kPgP8ZzA4vifLskKkHFQn"
+      "duration_ms": 282000,
+      "name": "Mudcrab",
+      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
     }
   ],
   "unique_name": "Proper Naughty ",

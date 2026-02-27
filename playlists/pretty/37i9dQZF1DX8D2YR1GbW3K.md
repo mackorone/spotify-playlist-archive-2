@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,892 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,928 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 122 | [Cannonball \(Earthquake\)](https://open.spotify.com/track/2y5lOo1TNIQJIDBc1EDtPX) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Cannonball \(Earthquake\)](https://open.spotify.com/album/4lmaksRskap9DpCgvqSQXO) | 3:32 |
 | 123 | [Watch Out For This \(Bumaye\)](https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [The Flexican](https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:29 |
 | 124 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
-| 125 | [The Drop](https://open.spotify.com/track/3xIwnKhZxWxKcecqrfXBJj) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [Ultra Trap](https://open.spotify.com/album/1pLo9QTyw1PgVaLbJNomPh) | 3:49 |
+| 125 | [Pressure \- Alesso Radio Edit](https://open.spotify.com/track/4ZJjf1jKxiHTcBnF7K6TLW) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5), [Starkillers](https://open.spotify.com/artist/6gJE2UbjRlQBb0dFmMQTm0), [Alex Kenji](https://open.spotify.com/artist/57emG0pZhSfbfskupwZ4Bu), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Pressure \(Alesso Radio Edit\)](https://open.spotify.com/album/1TpzXbZdjk34I5i3LnrUjp) | 3:02 |
 
 Snapshot ID: `AAAAAOVvMvJjzILpT9Aw52EAi357FMmb`

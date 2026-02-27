@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 238986,
       "name": "Angola",
       "url": "https://open.spotify.com/track/1bpVEpnOaAYkPvByKCmBXf"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 210960,
       "name": "Apricot Tree",
       "url": "https://open.spotify.com/track/25BqmDMjXSxGAgY6UHCDiv"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 210944,
       "name": "Beautiful Frankenstein",
       "url": "https://open.spotify.com/track/7r0iKylcYP9i5MWfprfM9G"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 269662,
       "name": "Blood / Water",
       "url": "https://open.spotify.com/track/7HNrmyAXCBMsqZ3r11R6Z8"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 311000,
       "name": "Controller",
       "url": "https://open.spotify.com/track/25yY8HF7pYDHA0CXx9Beil"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 189677,
       "name": "Cool Story Bro",
       "url": "https://open.spotify.com/track/5GvWYBiKovK3KWGjmCi9wX"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 235346,
       "name": "Cowboy Blues",
       "url": "https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 212093,
       "name": "Disposing of His Body",
       "url": "https://open.spotify.com/track/76zqfMymGuJSaLlRC3uoOc"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 298285,
       "name": "Excess & Lewis Findlay)",
       "url": "https://open.spotify.com/track/0Itvhn3niERQXu4y0bDNVY"
@@ -1110,6 +1110,24 @@
       "duration_ms": 188464,
       "name": "Fables",
       "url": "https://open.spotify.com/track/2rsylxMg1zRvbpIFu4CZjG"
+    },
+    {
+      "album": {
+        "name": "Fear (Demo)",
+        "url": "https://open.spotify.com/album/3Lq5YwfzGpgUfNhflySB4o"
+      },
+      "artists": [
+        {
+          "name": "Dear Heather",
+          "url": "https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368640,
+      "name": "Fear - Demo",
+      "url": "https://open.spotify.com/track/1xGQKuz3lqVEjEdGaa2U7J"
     },
     {
       "album": {
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 195761,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2CaeoDenCPTMU1ilc4f19z"
@@ -1749,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Landmine",
+        "url": "https://open.spotify.com/album/4GaglIqptZqR27btOIWKru"
+      },
+      "artists": [
+        {
+          "name": "Eyes of Home",
+          "url": "https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Landmine",
+      "url": "https://open.spotify.com/track/60qsuyRPULAooLpbPDANTb"
+    },
+    {
+      "album": {
         "name": "Beginnings and Endings",
         "url": "https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci"
       },
@@ -1760,7 +1796,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 203564,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/4KH2g8FgE17XnxRRJbVgEk"
@@ -1920,7 +1956,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 337268,
       "name": "Manmade Fires",
       "url": "https://open.spotify.com/track/7flLFmCkey6fJopjMyz8rb"
@@ -2111,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "VIVA LA FALLS",
+        "url": "https://open.spotify.com/album/34BB2RMplDpzoqIlUAE3UZ"
+      },
+      "artists": [
+        {
+          "name": "The Falls Band",
+          "url": "https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224362,
+      "name": "Overdrinking",
+      "url": "https://open.spotify.com/track/1vrQYRiTRkmNaNZwLL7ycy"
+    },
+    {
+      "album": {
         "name": "Parasite (Demo)",
         "url": "https://open.spotify.com/album/6PiHv0qqyKwpHr2I04vpo4"
       },
@@ -2122,7 +2176,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 254680,
       "name": "Parasite - Demo",
       "url": "https://open.spotify.com/track/2xbG1SeusBEXFgoHZztq82"
@@ -2140,7 +2194,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 226594,
       "name": "Permanent Vacation",
       "url": "https://open.spotify.com/track/4Oc8zjSMOoU1w4f3ICqDVN"
@@ -2216,7 +2270,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 164986,
       "name": "Pontchartrain Beach",
       "url": "https://open.spotify.com/track/0lnNspmdFeUKUcsItuwkXo"
@@ -2702,7 +2756,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 198320,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/2rw809tUXjwDiYK9v3tU2m"
@@ -2894,7 +2948,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 235393,
       "name": "Up For Air",
       "url": "https://open.spotify.com/track/3ugL72Ej1a4UeeDhHdc1RM"
@@ -3020,7 +3074,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 220000,
       "name": "Wisdom Teeth",
       "url": "https://open.spotify.com/track/0FIqTNitA2adXzOlJLts3o"

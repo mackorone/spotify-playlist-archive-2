@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,922 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,939 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 62 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
 | 63 | [Everybody's Different](https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 4:00 |
 | 64 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
-| 65 | [Black&Blue](https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3) | 3:18 |
-| 66 | [Uptight](https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 4:39 |
+| 65 | [Uptight](https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 4:39 |
+| 66 | [Black&Blue](https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3) | 3:18 |
 | 67 | [Gangsta](https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG) | 3:14 |
 | 68 | [makes me \(wanna move\)](https://open.spotify.com/track/0Ma2y8tgYCUWDGxnA9Gw3i) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [c u l8r](https://open.spotify.com/album/1S1hN5OQuFQ5jQjlqhPkDB) | 3:01 |
 | 69 | [NASSY](https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp) | [NASSY](https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo) | 2:22 |

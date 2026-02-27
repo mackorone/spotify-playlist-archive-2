@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,513 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,514 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 26 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
 | 27 | [All Things New](https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:07 |
 | 28 | [Chasing Me Down \(feat\. Tye Tribbett\)](https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:12 |
-| 29 | [Chasing After You \(The Morning Song\) \(feat\. Aaron Camper\)](https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Aaron Camper](https://open.spotify.com/artist/6BX9j7UsymFKsVPpNy5PTP) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 6:46 |
-| 30 | [Holy You \(FrĒligious\)](https://open.spotify.com/track/55lD4Bw9nCYceU7TnVc82R) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holy You \(FrĒligious\)](https://open.spotify.com/album/0LDkdvozl55KUGYUFK4lcL) | 4:03 |
+| 29 | [Holy You \(FrĒligious\)](https://open.spotify.com/track/55lD4Bw9nCYceU7TnVc82R) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holy You \(FrĒligious\)](https://open.spotify.com/album/0LDkdvozl55KUGYUFK4lcL) | 4:03 |
+| 30 | [Chasing After You \(The Morning Song\) \(feat\. Aaron Camper\)](https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Aaron Camper](https://open.spotify.com/artist/6BX9j7UsymFKsVPpNy5PTP) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 6:46 |
 | 31 | [Most High](https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Christian Spaulding](https://open.spotify.com/artist/4srBhABKWh0DCGDbGpMQaW), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Thy Kingdom Come](https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon) | 4:38 |
 | 32 | [Goodness Of God \- Live](https://open.spotify.com/track/2vpzga018mYLVXkE77wEds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:41 |
 | 33 | [We Are Victorious \(feat\. Tye Tribbett\)](https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Duets](https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [All Hail \- Live In Dallas](https://open.spotify.com/track/6s9vCBhhXtz6G9BRQ4YnVa) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:51 |
 | 50 | [Still Have Joy \- Live](https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:07 |
 
-Snapshot ID: `aZzqAAAAAAAAGou8zxQWxs7uUFkBgIAu`
+Snapshot ID: `aZ47gAAAAACFM/dPBaHapAx4aXNIFRTr`

@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-831 songs - 2 day 6 hr 47 min
+832 songs - 2 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 | 2023-09-05 | 2023-09-22 |
 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 | 2023-11-07 | 2023-11-18 |
 | [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/0XBFnNqFyAKPJoo3ikzvBe) | 3:20 | 2025-07-04 | 2026-02-25 |
-| [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 | 2025-07-04 |  |
+| [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 | 2025-07-04 | 2026-02-27 |
 | [KEY of Like！](https://open.spotify.com/track/2hQkYgyZfIcmDgIHMcidvB) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM), [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh), [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [KEY of Like！](https://open.spotify.com/album/5dwr0fHNYlLzbZqTqMwotl) | 4:11 | 2025-02-11 | 2025-03-12 |
 | [Kibou no namae](https://open.spotify.com/track/1ldgALd36lkNKA9MkEjQcF) | [家入レオ×麻倉もも](https://open.spotify.com/artist/2sQ533RKXQvXLT66OkfEqw), [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc), [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [Kibou no namae](https://open.spotify.com/album/1nc8iam2SFPEwHqfrIG9dB) | 3:26 | 2024-02-20 | 2024-04-17 |
 | [KiLLKiSS](https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [KiLLKiSS](https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p) | 3:28 | 2025-01-08 | 2025-06-22 |
@@ -326,6 +326,7 @@
 | [S.O.S](https://open.spotify.com/track/0PQq6VYNSo9jWPwMBr1JLr) | [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae) | [TVアニメ「デート・ア・ライブIV」エンディング・テーマ「S.O.S」](https://open.spotify.com/album/5EHoQqsyT6u2OjSkuSSOEd) | 4:28 | 2022-06-09 | 2022-07-20 |
 | [salvation](https://open.spotify.com/track/2AbocYmJLREUEZlSBkbsAe) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation](https://open.spotify.com/album/5JOp4contbA28JuaELOKQW) | 3:24 | 2022-06-09 | 2022-07-18 |
 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 | 2024-02-13 | 2024-04-19 |
+| [Sayo\-Shigure](https://open.spotify.com/track/65PpJlLtW2Wo30nQ5A2zS4) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM) | [Sayo\-Shigure / リブウト / Hip, hip, hooray! / 令嬢モブ！](https://open.spotify.com/album/0srMzgv4BKTOHyBMuCrPFb) | 3:28 | 2026-02-26 |  |
 | [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 | 2024-02-13 | 2024-06-26 |
 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 | 2025-01-08 | 2025-07-06 |
 | [selfish](https://open.spotify.com/track/0PjnMsqLESCjo6RLd5qLgo) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」エンディングテーマ「selfish」](https://open.spotify.com/album/5Qgz3sULal1qqcknzY8sIa) | 3:52 | 2022-07-07 | 2022-07-21 |

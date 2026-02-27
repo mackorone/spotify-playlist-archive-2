@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ONE OR EIGHT
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,524 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,544 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,23 +21,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 11 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 |
 | 12 | [君がおじいちゃんあたしがおばあちゃん](https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [日々愛々](https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ) | 3:41 |
 | 13 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/7L1gMHl2Hd65Yt4J8IhIk5) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/2RoCdV0YAeOcc96olS0Tyj) | 5:22 |
-| 14 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
-| 15 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
-| 16 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
-| 17 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
-| 18 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
-| 19 | [中華料理屋の酢豚が食べたい](https://open.spotify.com/track/4V6SOpJTzJALfNivDuouLJ) | [Rinko](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [中華料理屋の酢豚が食べたい](https://open.spotify.com/album/2vd7mmBOx2C9XmmLiS90Xp) | 3:18 |
-| 20 | [世界は恋に落ちている](https://open.spotify.com/track/0PWIc3fMjsnfxv2SyQ2lRx) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている](https://open.spotify.com/album/0WSQj7Napau4Akty4Inkds) | 5:11 |
-| 21 | [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 |
-| 22 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
-| 23 | [倍倍FIGHT!](https://open.spotify.com/track/48Vmf6Z41CoJo0JvT8tZfS) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [倍倍FIGHT!](https://open.spotify.com/album/2ckfzuzGU3I0dhCwfnESEN) | 4:13 |
-| 24 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
-| 25 | [完璧だ](https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Original](https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh) | 2:30 |
-| 26 | [don't stop freestyle](https://open.spotify.com/track/5qRhSP9lDIS4sokxoPtU9i) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.4](https://open.spotify.com/album/15yovXTDI9ZXzZa2Py6236) | 1:53 |
-| 27 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
-| 28 | [君の恋人になれますように](https://open.spotify.com/track/4ULgTE9WJkJbUIagN5XG55) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [昨日を生きない私達へ](https://open.spotify.com/album/3fDeb5QQJMOKktMep53Zc4) | 4:17 |
-| 29 | [come again](https://open.spotify.com/track/1CZeGqCedLsWhFufD9UjYa) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 5:54 |
-| 30 | [アイサレタイ](https://open.spotify.com/track/0HJ4bOxL3wvJIk5a0j5OMm) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [アイサレタイ](https://open.spotify.com/album/0OgFvzaWhbU9ey9gniMzWi) | 1:44 |
+| 14 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
+| 15 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
+| 16 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
+| 17 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
+| 18 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
+| 19 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
+| 20 | [中華料理屋の酢豚が食べたい](https://open.spotify.com/track/4V6SOpJTzJALfNivDuouLJ) | [Rinko](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [中華料理屋の酢豚が食べたい](https://open.spotify.com/album/2vd7mmBOx2C9XmmLiS90Xp) | 3:18 |
+| 21 | [世界は恋に落ちている](https://open.spotify.com/track/0PWIc3fMjsnfxv2SyQ2lRx) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている](https://open.spotify.com/album/0WSQj7Napau4Akty4Inkds) | 5:11 |
+| 22 | [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 |
+| 23 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 24 | [倍倍FIGHT!](https://open.spotify.com/track/48Vmf6Z41CoJo0JvT8tZfS) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [倍倍FIGHT!](https://open.spotify.com/album/2ckfzuzGU3I0dhCwfnESEN) | 4:13 |
+| 25 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
+| 26 | [完璧だ](https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Original](https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh) | 2:30 |
+| 27 | [don't stop freestyle](https://open.spotify.com/track/5qRhSP9lDIS4sokxoPtU9i) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.4](https://open.spotify.com/album/15yovXTDI9ZXzZa2Py6236) | 1:53 |
+| 28 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
+| 29 | [君の恋人になれますように](https://open.spotify.com/track/4ULgTE9WJkJbUIagN5XG55) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [昨日を生きない私達へ](https://open.spotify.com/album/3fDeb5QQJMOKktMep53Zc4) | 4:17 |
+| 30 | [come again](https://open.spotify.com/track/1CZeGqCedLsWhFufD9UjYa) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 5:54 |
 | 31 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 32 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 33 | [ocean eyes](https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Ocean Eyes](https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 |
 | 50 | [Shopping Bag](https://open.spotify.com/track/7tBm772bkeFyOFpcasf3UB) | [ピラフ星人](https://open.spotify.com/artist/7LCvObtg5MA10WBd4DiK1E) | [Dream Taxi](https://open.spotify.com/album/5v9C5LaLIO2MsjCJIBPFXM) | 2:07 |
 
-Snapshot ID: `AAAAAKB4Ptf3qKVtnyM1HdinXdO773na`
+Snapshot ID: `AAAAAPRd1NVbIvZluofBFmdpsmcGrgTr`

@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 516704,
+  "num_followers": 516731,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-02-23 06:07:03",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2026-02-23 06:07:03",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2026-02-23 06:07:03",
       "album": {
-        "name": "That Kind Of Love",
-        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
       },
       "artists": [
         {
-          "name": "I'MIN",
-          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 212733,
-      "name": "That Kind of Love",
-      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2026-02-23 06:07:03",
@@ -371,6 +355,22 @@
       "duration_ms": 203409,
       "name": "Bye Bye My Blue",
       "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2026-02-23 06:07:03",
+      "album": {
+        "name": "That Kind Of Love",
+        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
+      },
+      "artists": [
+        {
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "That Kind of Love",
+      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
     },
     {
       "added_at": "2026-02-23 06:07:03",

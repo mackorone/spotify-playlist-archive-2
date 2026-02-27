@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: ma\u00efa",
-  "num_followers": 44841,
+  "num_followers": 44839,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Papa",
-        "url": "https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0"
       },
       "artists": [
         {
-          "name": "Rina",
-          "url": "https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF"
+      "duration_ms": 204112,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0"
+        "name": "The Currency Is Trust",
+        "url": "https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
         }
       ],
-      "duration_ms": 204112,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A"
+      "duration_ms": 172381,
+      "name": "The Currency Is Trust",
+      "url": "https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "The Currency Is Trust",
-        "url": "https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5"
+        "name": "Papa",
+        "url": "https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK"
       },
       "artists": [
         {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+          "name": "Rina",
+          "url": "https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY"
         }
       ],
-      "duration_ms": 172381,
-      "name": "The Currency Is Trust",
-      "url": "https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G"
+      "duration_ms": 163404,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Keiner Wei\u00df",
-        "url": "https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk"
-      },
-      "artists": [
-        {
-          "name": "tosha",
-          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Keiner Wei\u00df",
-      "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "amelie",
         "url": "https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 158902,
       "name": "amelie",
       "url": "https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Keiner Wei\u00df",
+        "url": "https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Keiner Wei\u00df",
+      "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Mad Machine 2.0",
-        "url": "https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 161399,
-      "name": "Mad Machine 2.0",
-      "url": "https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/7u0rAQQ0OdLe6I3ySeBflV"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 118470,
       "name": "180",
       "url": "https://open.spotify.com/track/2RjH4Cwz8bGiYhZ4zu3Fa9"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Mad Machine 2.0",
+        "url": "https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 161399,
+      "name": "Mad Machine 2.0",
+      "url": "https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU"
     },
     {
       "added_at": "2026-02-03 23:00:18",

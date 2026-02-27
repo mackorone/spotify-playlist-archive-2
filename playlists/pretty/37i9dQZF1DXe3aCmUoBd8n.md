@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Nassif Zeytoun
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,103 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,117 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 16 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 |
 | 17 | [Bethoon](https://open.spotify.com/track/1mcxn6PaCx2IMGAxqa7eDY) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Bethoon](https://open.spotify.com/album/2nv9sbU7LTMwrUh7atRYRH) | 3:39 |
 | 18 | [Skaba](https://open.spotify.com/track/2qKD4crtO5JqTjSepwUtBU) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Skaba](https://open.spotify.com/album/5K4PftTZCW3K8x849sVXpH) | 3:10 |
-| 19 | [يا مسافر](https://open.spotify.com/track/4xlB7mQPdwwPmi0VHf0akd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Ya Msafer](https://open.spotify.com/album/2fvPa1wdci5ANFDtblj5gq) | 3:19 |
+| 19 | [Ya Msafer](https://open.spotify.com/track/4xlB7mQPdwwPmi0VHf0akd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Ya Msafer](https://open.spotify.com/album/2fvPa1wdci5ANFDtblj5gq) | 3:19 |
 | 20 | [NARI NARI NARI / ناري ناري ناري](https://open.spotify.com/track/7zO8pvhMf6s1DzMMiV7CaU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 3:23 |
 | 21 | [Dwali](https://open.spotify.com/track/0FTatqMMiIIYA1b5tds3Fc) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Dwali](https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9) | 2:54 |
 | 22 | [WALA MEEN](https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [WALA MEEN](https://open.spotify.com/album/52Jft3EkjHz3YizhXvuftP) | 3:12 |

@@ -5226,24 +5226,6 @@
     {
       "album": {
         "name": "God I'm Just Grateful",
-        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234844,
-      "name": "God I'm Just Grateful",
-      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
-    },
-    {
-      "album": {
-        "name": "God I'm Just Grateful",
         "url": "https://open.spotify.com/album/5FTiQxhX4OfMF5YjStmIt6"
       },
       "artists": [
@@ -5262,6 +5244,24 @@
       "duration_ms": 299583,
       "name": "God I'm Just Grateful",
       "url": "https://open.spotify.com/track/2ggP6WjaTsloaiBxXY5JB7"
+    },
+    {
+      "album": {
+        "name": "God I'm Just Grateful (Radio Version)",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful - Radio Version",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
     },
     {
       "album": {

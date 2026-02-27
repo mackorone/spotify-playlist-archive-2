@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 featuring QRTR 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,207 likes - 115 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,240 likes - 115 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 28 | [Broody](https://open.spotify.com/track/6qR8sW1nzI8qmPgEdlSx1s) | [Samba](https://open.spotify.com/artist/6nZP9Pm5xxpwoYJcpzAsTU), [Rochy Romero](https://open.spotify.com/artist/6Zq7tgGskId37eTREXEAk5), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [Broody](https://open.spotify.com/album/6zbYMivXExIPJVsTcjo4yx) | 2:48 |
 | 29 | [BIG CHOON](https://open.spotify.com/track/3IdJOBj2sVfQrjSVyOwkdu) | [HALF OFFF](https://open.spotify.com/artist/5D4GKmOnRbn5nOM1qT3OOb), [Half Queen](https://open.spotify.com/artist/1HQZ9UiiEh6w7sDu3G9fP7), [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [BIG CHOON](https://open.spotify.com/album/5BUD7KiN2tjgq8o21e9xYz) | 4:32 |
 | 30 | [Living Emojis](https://open.spotify.com/track/5N0hAdWydob6uxAB7NDZ7G) | [Simo Cell](https://open.spotify.com/artist/4KxpqghQTX2FlkzsbG3ENk), [Abdullah Miniawy](https://open.spotify.com/artist/4vtk0GdkL06BZlviVp2H7J) | [Living Emojis](https://open.spotify.com/album/1xnJ52qUfSXWOm4zrEM9Jt) | 3:41 |
-| 31 | [Closer](https://open.spotify.com/track/6k4Sm1behInA6Si3yJKoMv) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Heartbreaker EP](https://open.spotify.com/album/6N8BQWnkKn41TwAKPw6XMW) | 4:35 |
+| 31 | [Closer](https://open.spotify.com/track/6k4Sm1behInA6Si3yJKoMv) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Heartbreaker](https://open.spotify.com/album/6N8BQWnkKn41TwAKPw6XMW) | 4:35 |
 | 32 | [Bir Allah](https://open.spotify.com/track/6F6wzambh13wpn6LVPepBZ) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Labyrinth](https://open.spotify.com/album/5jOsO7rvlZKQIHaf1ggr0E) | 3:43 |
 | 33 | [Me Pega](https://open.spotify.com/track/4maWwwzXuoxd5AQB9bjbMz) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Me Pega + Tem Carnaval](https://open.spotify.com/album/2r7tniPqvwLqeR24z5dCVK) | 3:28 |
 | 34 | [Just 30 Seconds](https://open.spotify.com/track/4jy0KR8EHNvLuSKZ5l8jEI) | [Sciahri](https://open.spotify.com/artist/5BeP8aqpT4BUEF3sh7ycDC) | [Pareidolia IV](https://open.spotify.com/album/6hCAhnReMcNuQP5q3q46nh) | 5:33 |

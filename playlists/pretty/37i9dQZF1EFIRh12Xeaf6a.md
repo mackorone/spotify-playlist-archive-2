@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,241 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,240 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 149 | [Avenue P](https://open.spotify.com/track/3rxuCpVMtDyzCPz6wJF4os) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:03 |
 | 150 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
 | 151 | [Where Do I Go](https://open.spotify.com/track/3nMQI2dUZKh7VtBZZTeGLv) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:12 |
-| 152 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
-| 153 | [My Simple Humble Neighborhood](https://open.spotify.com/track/2oVm7hqwMCrmYTnDHNpwSg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:08 |
+| 152 | [My Simple Humble Neighborhood](https://open.spotify.com/track/2oVm7hqwMCrmYTnDHNpwSg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:08 |
+| 153 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
 | 154 | [You Bet I Would](https://open.spotify.com/track/3zf7h56EgKQsJTGPFdKXaJ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [What's So Sweet About Sweet Sixteen](https://open.spotify.com/album/70DWBXTHhuVDYYU3pXvFKZ) | 2:12 |
 | 155 | [A Man Without a Dream](https://open.spotify.com/track/15HiMB4XHgr2UiuAtNHlhC) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Instant Replay](https://open.spotify.com/album/4UZe5Oq0ZIA4AD9NlApFF6) | 3:03 |
 | 156 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
@@ -253,7 +253,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 243 | [What About Me](https://open.spotify.com/track/4O4QKS1mPwH4LTob5tDq5X) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:08 |
 | 244 | [If She Were My Girl](https://open.spotify.com/track/4ZQyzfQ8lmicx974FvzR7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:11 |
 | 245 | [Dreamin' About You](https://open.spotify.com/track/0cbJpZkWLOL0etGXm6xoE8) | [Annette And The Vonnair Sisters](https://open.spotify.com/artist/4MW9tyMCzCz8y8cLj0jCN2) | [The Singles & Albums Collection 1958\-62](https://open.spotify.com/album/0oVIj5WJyWMIJH03EUwYI6) | 2:04 |
-| 246 | [Blessed Is the Man](https://open.spotify.com/track/60OCAjSXxJCOKVsKhV9naE) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g) | [Rural Free Delivery](https://open.spotify.com/album/5ojLaEQWJ6Vwkw4CDiwmWn) | 3:43 |
+| 246 | [Blessed Is the Man](https://open.spotify.com/track/60OCAjSXxJCOKVsKhV9naE) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/7dQ6pWgrGxcfACvhoNBejB) | [Rural Free Delivery](https://open.spotify.com/album/5ojLaEQWJ6Vwkw4CDiwmWn) | 3:43 |
 | 247 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
 | 248 | [Will Power](https://open.spotify.com/track/53DCY6TFQxiasPM6O8spPb) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Growing Up Girls](https://open.spotify.com/album/2kuDolN2GQ2Mh6rKTbbNkD) | 2:33 |
 | 249 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcKpagAAAAB0JPYPXp7Vkz/tiFzxnq5g`
+Snapshot ID: `AcKvCgAAAAA1gIdPdGuuu0xtCY8KfoZF`

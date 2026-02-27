@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Yandel y LATIN MAFIA en portada.",
-  "num_followers": 40034,
+  "num_followers": 40040,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,18 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Gar\u00faa (Sabor a Querer)",
-        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
       },
       "artists": [
         {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
-        },
-        {
-          "name": "Migliz",
-          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Gar\u00faa (Sabor a Querer)",
-      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+      "duration_ms": 251039,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -611,18 +607,22 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+        "name": "Gar\u00faa (Sabor a Querer)",
+        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Migliz",
+          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
         }
       ],
-      "duration_ms": 251039,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+      "duration_ms": 222000,
+      "name": "Gar\u00faa (Sabor a Querer)",
+      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Como Fuego",
         "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 184925,
       "name": "Como Fuego",
       "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
       },
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra La Corriente",
-      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2026-01-16 06:00:20",

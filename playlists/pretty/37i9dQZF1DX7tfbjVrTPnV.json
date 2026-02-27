@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 234772,
+  "num_followers": 234797,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "I Could Have Told You",
-        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "I Could Have Told You",
-      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 212308,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/0Vc2d6rwDyTNfNRUUV1TkT"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "I Could Have Told You",
+        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I Could Have Told You",
+      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Robby Hecht",
-        "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
-      },
-      "artists": [
-        {
-          "name": "Robby Hecht",
-          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Carter Girl",
         "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 318160,
       "name": "Troublesome Waters",
       "url": "https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Robby Hecht",
+        "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
+      },
+      "artists": [
+        {
+          "name": "Robby Hecht",
+          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Carter Girl",
         "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 169586,
       "name": "Little Black Train",
       "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2024-08-30 04:00:00",

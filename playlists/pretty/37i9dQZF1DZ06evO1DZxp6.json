@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 241094,
+  "num_followers": 241146,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAACs+2R3D8t6AzcJHf5FmMsL",
+  "snapshot_id": "aZ47gAAAAABycy2Ei/3ei2W3tV26/i65",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 319393,
       "name": "Chau",
       "url": "https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 166185,
-      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
     },
     {
       "added_at": null,

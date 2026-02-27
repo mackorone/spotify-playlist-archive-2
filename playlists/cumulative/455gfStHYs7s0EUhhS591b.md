@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-262 songs - 15 hr 21 min
+263 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Of Your Weapons \- Jesabel Remix](https://open.spotify.com/track/2IQIYuUf9iAQOqqUJ1SJHB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [All Of Your Weapons \(Jesabel Remix\)](https://open.spotify.com/album/0CDYkpaWdvKqU2HXsop3id) | 3:44 | 2025-07-18 |  |
 | [All That She Wants](https://open.spotify.com/track/7pIq8Wmc1fR6VE2G8HU2wj) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [All That She Wants](https://open.spotify.com/album/3F74YeCMJR0bhYG8Ff2wlm) | 2:23 | 2025-12-19 |  |
 | [Almost Home](https://open.spotify.com/track/2bMATlixJ3kp39jCbg8rsf) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Almost Home](https://open.spotify.com/album/4eUsEHvnLniDFaaf98zHvF) | 3:48 | 2025-08-15 |  |
+| [Amalong](https://open.spotify.com/track/3vF70xmAZzofW6CPw6VLHA) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Amalong](https://open.spotify.com/album/3DjGhnpPoommIjTbxMhjEx) | 4:03 | 2026-02-27 |  |
 | [Amanecer \- Extended Mix](https://open.spotify.com/track/2XQDgyKqCaFuPPT4dHn3Eu) | [VillaNaranjos](https://open.spotify.com/artist/5EU3v7BJwruVXZjPssKnmO) | [Levante / Amanecer](https://open.spotify.com/album/2P1rqNcjXNLhK4ste8W21Y) | 3:55 | 2025-06-19 |  |
 | [Amazin' \- Edit](https://open.spotify.com/track/1JpTKjjvvCJ7zkE2Okl3LJ) | [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt), [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Amazin' \(Edit\)](https://open.spotify.com/album/1CMLumuIBZga45sKzEj23m) | 2:44 | 2025-09-26 | 2025-10-03 |
 | [An Angel's Love \- Bobby Suryadi Remix](https://open.spotify.com/track/5UFGL9webcYRAJhgdwQnnb) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Sylvia Tosun](https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1), [Bobby Suryadi](https://open.spotify.com/artist/6TMPHyIc8NbEGdkI3Le4bN) | [An Angel's Love \(Bobby Suryadi Remix\)](https://open.spotify.com/album/6uuYO0jOkQtciW5FoafKqK) | 3:39 | 2025-10-24 | 2025-10-31 |

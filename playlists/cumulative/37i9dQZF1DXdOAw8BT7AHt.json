@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 192000,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/5ZTFhPucwVWNd1C3kHMAWM"
@@ -8590,6 +8590,24 @@
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE",
       "url": "https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3"
+    },
+    {
+      "album": {
+        "name": "Semi-Detached Furnished Home",
+        "url": "https://open.spotify.com/album/3bLXWvtmvJS7HBwKoVop6B"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133344,
+      "name": "Semi-Detached Furnished Home",
+      "url": "https://open.spotify.com/track/426Pcd366bBkCCUAlJMgnP"
     },
     {
       "album": {

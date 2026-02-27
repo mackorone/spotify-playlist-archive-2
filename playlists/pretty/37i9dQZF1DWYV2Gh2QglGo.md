@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Tim Hicks
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,663 likes - 112 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,659 likes - 112 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

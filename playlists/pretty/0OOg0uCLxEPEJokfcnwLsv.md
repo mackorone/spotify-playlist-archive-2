@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 745 likes - 76 songs - 4 hr 42 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 748 likes - 77 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 74 | [Obsession](https://open.spotify.com/track/5aaoiX4NB1mm65vh3uBi6N) | [Love N'Dirtt](https://open.spotify.com/artist/3mRYs0sLOI5IOBYiOYMLG6) | [Give It Time](https://open.spotify.com/album/2Ru9L8vtPvvSfcSCcENjRj) | 3:51 |
 | 75 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 |
 | 76 | [When All Else Fails..\. They Take You to War](https://open.spotify.com/track/64TRi6Duj1W24iLoERg6wt) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [When All Else Fails..\. They Take You to War](https://open.spotify.com/album/2BAzDBqvFrluusRqb4AVOI) | 4:00 |
+| 77 | [Lonely Spaceman](https://open.spotify.com/track/2zqjUfdbnpfFCzwMmIYjbD) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 4:39 |
 
-Snapshot ID: `AAAFLRbUCt+MBaop8bdWKQ7uiASTYdxE`
+Snapshot ID: `AAAFLi+a524ruQ2hcxRpvJ6A40Nhrb17`

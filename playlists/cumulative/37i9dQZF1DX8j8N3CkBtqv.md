@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akshath, Anubha Bajaj and other exciting artists.
 
-1,353 songs - 3 day 2 hr 0 min
+1,354 songs - 3 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1024,10 +1024,11 @@
 | [Saadho](https://open.spotify.com/track/2Q82mCCsgJPqNH8ceuCc9P) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Sabr](https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ) | 5:10 | 2025-04-11 | 2025-04-19 |
 | [Saahiba](https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Saahiba](https://open.spotify.com/album/7mlb1stM6vE1g4vtHn0GBG) | 3:15 | 2024-01-12 | 2024-06-15 |
 | [Saaiyaan Ve](https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saaiyaan Ve](https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR) | 3:00 | 2025-06-27 | 2025-07-06 |
+| [Saajan](https://open.spotify.com/track/7DlJqM9YWWBBx3HvqnrssC) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Saajan](https://open.spotify.com/album/1jvGQ2YVEBh1CjGT9bpf1u) | 3:43 | 2026-02-20 |  |
 | [Saajna](https://open.spotify.com/track/6pZa09ix3b8neGcd2npWVx) | [Ramya Ramkumar](https://open.spotify.com/artist/5mZttQqxgmGllfUyl4LSmQ) | [Saajna](https://open.spotify.com/album/60TbH0VAHFH6y6cat7rAuN) | 2:33 | 2026-02-06 |  |
 | [Saalo Se](https://open.spotify.com/track/5V4BoefaIDvg3m3V6g9Cpf) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Saalo Se](https://open.spotify.com/album/4ngEajgZgykMDA11vydy0p) | 2:41 | 2024-09-13 | 2024-10-04 |
 | [Saans Bharlu](https://open.spotify.com/track/0mKEM8JHj0GfFcstcASLqb) | [Raghvansh](https://open.spotify.com/artist/5GmdJXkk970lvGZ94UNBSl) | [Saans Bharlu](https://open.spotify.com/album/6WSjY7WP5xxG8gojnmjnEQ) | 3:17 | 2026-01-30 |  |
-| [Saanu Tere Naal](https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Arvinder Singh](https://open.spotify.com/artist/4ZY81pabNXmCTyutcniAVW), [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF) | [Saanu Tere Naal](https://open.spotify.com/album/5BmUhx8SXUqQEkcYVJatXW) | 2:41 | 2026-01-30 |  |
+| [Saanu Tere Naal](https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Arvinder Singh](https://open.spotify.com/artist/4ZY81pabNXmCTyutcniAVW), [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF) | [Saanu Tere Naal](https://open.spotify.com/album/5BmUhx8SXUqQEkcYVJatXW) | 2:41 | 2026-01-30 | 2026-02-27 |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-15 | 2023-10-21 |
 | [Saath De](https://open.spotify.com/track/24gFEjMDxYFn24SUFz2pvH) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sukrit Srivastava](https://open.spotify.com/artist/4fL2GzLhtLrapqKaYaRDj5) | [Saath De](https://open.spotify.com/album/49EiJmrABQSl4MjQwQnwYI) | 3:12 | 2025-06-13 | 2025-06-21 |
 | [Saath Tera](https://open.spotify.com/track/0BtFEVSLYcnRyf6y05fCED) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Saath Tera](https://open.spotify.com/album/7vT2iHf7PhUuiRT3PlVHKx) | 3:41 | 2023-09-08 | 2023-10-07 |

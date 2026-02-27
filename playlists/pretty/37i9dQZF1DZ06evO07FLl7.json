@@ -1,12 +1,12 @@
 {
   "description": "This is Tassia Reis. The essential tracks, all in one playlist.",
-  "num_followers": 2333,
+  "num_followers": 2335,
   "original_name": "This Is Tassia Reis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAADvgb2ODfrQ0PMibKtwL8cm",
+  "snapshot_id": "aZ47gAAAAAChY+tCHEuBrtS4INFuD7cU",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 246160,
+      "name": "Desapegada",
+      "url": "https://open.spotify.com/track/2hLPznFogBpskf30msBE8u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frequ\u00eancia Tropical",
         "url": "https://open.spotify.com/album/2Y4HnY79Rwq5TmFMYzCZMT"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 203520,
       "name": "Encontrar",
       "url": "https://open.spotify.com/track/3JhNkfCNxZGyAgywEtP6By"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 246160,
-      "name": "Desapegada",
-      "url": "https://open.spotify.com/track/2hLPznFogBpskf30msBE8u"
     },
     {
       "added_at": null,
@@ -738,11 +738,19 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Preta Ary",
+          "url": "https://open.spotify.com/artist/60HC5XmmxNg1Hq1HaSigjJ"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/609veNB6YGfJ78QoFirQ5W"
         }
       ],
-      "duration_ms": 210182,
-      "name": "Me Diga",
-      "url": "https://open.spotify.com/track/3xxutzwHSLz56J8h9MmN8h"
+      "duration_ms": 263586,
+      "name": "Shonda - RMX",
+      "url": "https://open.spotify.com/track/6qwFSSA7ZQBY3e1Yythyr0"
     },
     {
       "added_at": null,
@@ -806,19 +814,11 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Preta Ary",
-          "url": "https://open.spotify.com/artist/60HC5XmmxNg1Hq1HaSigjJ"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/609veNB6YGfJ78QoFirQ5W"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Shonda - RMX",
-      "url": "https://open.spotify.com/track/6qwFSSA7ZQBY3e1Yythyr0"
+      "duration_ms": 210182,
+      "name": "Me Diga",
+      "url": "https://open.spotify.com/track/3xxutzwHSLz56J8h9MmN8h"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
+        "url": "https://open.spotify.com/album/0bpL7wxpMjqxhrrV81pKzY"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 205515,
+      "name": "Os Pretinho Bem",
+      "url": "https://open.spotify.com/track/2zTphbX1ECZs792jAqYove"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siento por Ciento (Remix)",
         "url": "https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 189250,
       "name": "Calma Preta",
       "url": "https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
-        "url": "https://open.spotify.com/album/0bpL7wxpMjqxhrrV81pKzY"
-      },
-      "artists": [
-        {
-          "name": "Thiago Elni\u00f1o",
-          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 205515,
-      "name": "Os Pretinho Bem",
-      "url": "https://open.spotify.com/track/2zTphbX1ECZs792jAqYove"
     },
     {
       "added_at": null,

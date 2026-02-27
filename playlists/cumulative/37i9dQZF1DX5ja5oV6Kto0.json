@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: SuperJazzClub",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 125581,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 202812,
       "name": "Catch Me If U Can",
       "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
@@ -7139,6 +7139,24 @@
     },
     {
       "album": {
+        "name": "Gimme Ur Luv",
+        "url": "https://open.spotify.com/album/1Yjr8ett0KVRZlM2IkaviJ"
+      },
+      "artists": [
+        {
+          "name": "Efe Oraka",
+          "url": "https://open.spotify.com/artist/5Q53UO2TC6Nwbx0qVCmcxo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Gimme Ur Luv",
+      "url": "https://open.spotify.com/track/41Y4HI6j3MO763wGudQtAP"
+    },
+    {
+      "album": {
         "name": "gin and wine (ginuwine)",
         "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
       },
@@ -8717,6 +8735,24 @@
     },
     {
       "album": {
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+      },
+      "artists": [
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "album": {
         "name": "Duplicity",
         "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
       },
@@ -10056,7 +10092,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 180000,
       "name": "LAGOS",
       "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
@@ -10624,7 +10660,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 133629,
       "name": "Life Was Never Like This",
       "url": "https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6"
@@ -12404,7 +12440,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 173400,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO"
@@ -16269,6 +16305,28 @@
     },
     {
       "album": {
+        "name": "september rush",
+        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "september rush",
+      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
+    },
+    {
+      "album": {
         "name": "Serenade",
         "url": "https://open.spotify.com/album/7AsdQ9pfh57nuYV6vZedF9"
       },
@@ -19245,6 +19303,24 @@
     },
     {
       "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
+    },
+    {
+      "album": {
         "name": "Trappin'",
         "url": "https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq"
       },
@@ -20486,6 +20562,24 @@
       "duration_ms": 312195,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/5I4Z9SwVg7q2YmldDQhBxq"
+    },
+    {
+      "album": {
+        "name": "Whine Am",
+        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Whine Am",
+      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
     },
     {
       "album": {

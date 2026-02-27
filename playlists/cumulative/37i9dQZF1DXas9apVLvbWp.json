@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "<a href=\"http://bluegiant.jp/\">BLUE GIANT MOMENTUM</a>\u3068Spotify\u306e\u30b3\u30e9\u30dc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
+  "description": "BLUE GIANT MOMENTUM\u3068Spotify\u306e\u30b3\u30e9\u30dc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
   "name": "BLUE GIANT MOMENTUM",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 274333,
       "name": "9:20 Special",
       "url": "https://open.spotify.com/track/1wreDFIifhpYHqbizi9qYz"
+    },
+    {
+      "album": {
+        "name": "A Love Supreme (Monophonic Edition)",
+        "url": "https://open.spotify.com/album/3JRgE1OqN7A8wrYqFxDfJO"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463840,
+      "name": "A Love Supreme, Pt. I - Acknowledgement - Monophonic Mix",
+      "url": "https://open.spotify.com/track/1FqsiQIKzTu2XTtCT9PKk3"
     },
     {
       "album": {
@@ -262,7 +280,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 235779,
       "name": "Angels Speak",
       "url": "https://open.spotify.com/track/5UA1ie1K66P4NcD6nBfnwY"
@@ -426,10 +444,28 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8"
+    },
+    {
+      "album": {
+        "name": "Fuchsia Swing Song",
+        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372306,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
     },
     {
       "album": {
@@ -510,7 +546,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 661733,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3BSv9ngFMYolfY15hcmqiv"
@@ -817,6 +853,44 @@
     },
     {
       "album": {
+        "name": "Motion II",
+        "url": "https://open.spotify.com/album/32sjyqbMI1JdpJoKXOuWVk"
+      },
+      "artists": [
+        {
+          "name": "Out Of/Into",
+          "url": "https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        },
+        {
+          "name": "Matt Brewer",
+          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472693,
+      "name": "Brothers In Arms",
+      "url": "https://open.spotify.com/track/2lGr5P4ftvEMppOnkbKEuP"
+    },
+    {
+      "album": {
         "name": "Business Meetin'",
         "url": "https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m"
       },
@@ -933,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Lawns",
+        "url": "https://open.spotify.com/album/32aTGZfiVQIGZkOva4qTaz"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397000,
+      "name": "Casual \u2013 Lee",
+      "url": "https://open.spotify.com/track/324Ifu6XstyM2SLkfR0PyX"
+    },
+    {
+      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -962,7 +1054,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 268915,
       "name": "central park west",
       "url": "https://open.spotify.com/track/5jPy6437F28samqS2tJu7n"
@@ -1107,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "When The Heart Emerges Glistening",
+        "url": "https://open.spotify.com/album/2Cdwhd5tE35ZcwZ5wRQcNF"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515973,
+      "name": "Confessions To My Unborn Daughter",
+      "url": "https://open.spotify.com/track/3hrGfXGMfHUB9GTRIEhcPs"
+    },
+    {
+      "album": {
         "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
       },
@@ -1161,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 693666,
+      "name": "Crisis - Remastered",
+      "url": "https://open.spotify.com/track/51rjxO4PLrWelh4izyiLg7"
+    },
+    {
+      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
       },
@@ -1208,7 +1336,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 373840,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx"
@@ -1410,7 +1538,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 339400,
       "name": "Dream of Home",
       "url": "https://open.spotify.com/track/0SzbT89AkSgRdIqFHaLHlx"
@@ -1588,7 +1716,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 347911,
       "name": "Fugitive Ritual, Selah",
       "url": "https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW"
@@ -1978,7 +2106,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 421333,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/6Z4SWtUfWxjjtaU0RMFOTy"
@@ -2073,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "II B.S. - Edit",
+      "url": "https://open.spotify.com/track/1wVqyP5MC3wJmOvEk9e6Ts"
+    },
+    {
+      "album": {
         "name": "On Impulse: John Coltrane",
         "url": "https://open.spotify.com/album/6yPS0oVk1bztYkyerUAF8N"
       },
@@ -2154,7 +2300,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 347466,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/26FevqvFqsmrEIOwstmQJG"
@@ -2228,7 +2374,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 267880,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/45hxUyJyJHO7rucki6bxGD"
@@ -2246,9 +2392,9 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 718960,
-      "name": "Inner Urge - Rudy Van Gelder Edition; 2004 Digital Remaster",
+      "name": "Inner Urge - Remastered 2004/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/05aZ2boQ1yuAD4p4HyORbK"
     },
     {
@@ -2340,6 +2486,24 @@
       "duration_ms": 243252,
       "name": "It Never Entered My Mind - Remastered",
       "url": "https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe"
+    },
+    {
+      "album": {
+        "name": "Doin' Allright",
+        "url": "https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374466,
+      "name": "It's You Or No One - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
+      "url": "https://open.spotify.com/track/6lRUxdHbXomYmWcT1IkQDA"
     },
     {
       "album": {
@@ -2488,7 +2652,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 311333,
       "name": "Kamala's Dance",
       "url": "https://open.spotify.com/track/2pD9bvzPscTTHarvoSPtqL"
@@ -2510,6 +2674,24 @@
       "duration_ms": 466866,
       "name": "Kofi",
       "url": "https://open.spotify.com/track/6Hk76REBGJGtePFcMWVxQT"
+    },
+    {
+      "album": {
+        "name": "Filin",
+        "url": "https://open.spotify.com/album/6VfLUVPWfuVl3pJFUsZfzt"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277597,
+      "name": "La Sentencia",
+      "url": "https://open.spotify.com/track/6C8K6rHrIJcFjjOrJS83CI"
     },
     {
       "album": {
@@ -2799,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Mama Too Tight",
+        "url": "https://open.spotify.com/album/3qr5zSyMn6r7chKsSMZRag"
+      },
+      "artists": [
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325733,
+      "name": "Mama Too Tight",
+      "url": "https://open.spotify.com/track/31UVIDtSNHAc0jO4Wvgln2"
+    },
+    {
+      "album": {
         "name": "Brass/Trio",
         "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
       },
@@ -2889,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 799720,
+      "name": "Melody for Melonae - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6OHkZEZTLdikuJHilpfeoe"
+    },
+    {
+      "album": {
         "name": "Memories of Home",
         "url": "https://open.spotify.com/album/3DL6z2z92LR1SHFR5mT2PN"
       },
@@ -2904,7 +3122,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 328383,
       "name": "Memories of Home",
       "url": "https://open.spotify.com/track/5cWutQML1hiTrQPStz2ual"
@@ -2922,7 +3140,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 313200,
       "name": "Mercy, Mercy, Mercy",
       "url": "https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt"
@@ -2944,7 +3162,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 243031,
       "name": "Midnight Marauders",
       "url": "https://open.spotify.com/track/3ogbdxSy8mT5zCkxifYu9K"
@@ -3184,7 +3402,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 383173,
       "name": "My Life Matters",
       "url": "https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky"
@@ -3246,6 +3464,24 @@
       "duration_ms": 337275,
       "name": "N.Y. Theme - Set 1 / Live From Cafe Bohemia/1956",
       "url": "https://open.spotify.com/track/7sezKCBVwPmGSQ8oyO3COn"
+    },
+    {
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "Naima",
+      "url": "https://open.spotify.com/track/4pfx6oNDB6Hw3ZrjeFtDdm"
     },
     {
       "album": {
@@ -3333,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Nothing Serious",
+        "url": "https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Nothing Serious",
+      "url": "https://open.spotify.com/track/6KQBpkJ77rhkr2jJP3g40v"
+    },
+    {
+      "album": {
         "name": "Now He Sings, Now He Sobs (Expanded Edition)",
         "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
@@ -3388,6 +3642,46 @@
       "duration_ms": 398413,
       "name": "Nutty",
       "url": "https://open.spotify.com/track/0CKkJPdtSKgDpq8bl1NeNC"
+    },
+    {
+      "album": {
+        "name": "Misterioso [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/45oDrAenNZa6szAzjd30F8"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk Quartet",
+          "url": "https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323600,
+      "name": "Nutty",
+      "url": "https://open.spotify.com/track/0FyyIpgA9JHn8kMwr2E9ei"
+    },
+    {
+      "album": {
+        "name": "The Cape Verdean Blues",
+        "url": "https://open.spotify.com/album/2jTvEM76ioutKODSdPllkr"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435186,
+      "name": "Nutville",
+      "url": "https://open.spotify.com/track/0LSx4wrciz0D0Q2dYVUFV8"
     },
     {
       "album": {
@@ -3481,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527453,
+      "name": "Omega",
+      "url": "https://open.spotify.com/track/66BFIziKeKtVwWVYNPXgFc"
+    },
+    {
+      "album": {
         "name": "Sonny Side Up",
         "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
       },
@@ -3504,6 +3816,24 @@
       "duration_ms": 340960,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
+    },
+    {
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "album": {
@@ -3572,7 +3902,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 222120,
       "name": "Overjoyed - Live at Ruth Eckerd Hall, Florida, 2020",
       "url": "https://open.spotify.com/track/5AN8WgfGBWWQiSnww2WMxM"
@@ -3612,10 +3942,28 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 308880,
       "name": "Parks Lope",
       "url": "https://open.spotify.com/track/41n47jgK2AveJmHs4QIIQk"
+    },
+    {
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527426,
+      "name": "Passion Dance",
+      "url": "https://open.spotify.com/track/0lELi5BqmUO4hXTFfAUf60"
     },
     {
       "album": {
@@ -3682,7 +4030,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 269320,
       "name": "Point of Many Returns",
       "url": "https://open.spotify.com/track/4F3dUJKROkousRbWy6xWv4"
@@ -3766,10 +4114,28 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 456493,
       "name": "Real Love Pt. 1",
       "url": "https://open.spotify.com/track/3hx6insLLZ8cU7gIs4xp5F"
+    },
+    {
+      "album": {
+        "name": "Point Of Departure (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 736600,
+      "name": "Refuge - Rudy Van Gelder Edition/1999 Remaster",
+      "url": "https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP"
     },
     {
       "album": {
@@ -3856,7 +4222,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 160720,
       "name": "Roy",
       "url": "https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718"
@@ -3892,7 +4258,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 313946,
       "name": "Run To It (The CP Song)",
       "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
@@ -4015,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 945493,
+      "name": "Search For The New Land - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3adOstnpR3h59VbfGpOkhf"
+    },
+    {
+      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -4084,6 +4468,28 @@
       "duration_ms": 291520,
       "name": "Sequel To That Old Story",
       "url": "https://open.spotify.com/track/7ci1A5lVxJHVSnHSLp6Ftq"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Richie",
+          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "Set It Free",
+      "url": "https://open.spotify.com/track/4io6SoknlqXWcR30IphizL"
     },
     {
       "album": {
@@ -4530,7 +4936,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 254933,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/7wc9v9f1agzyv4nckk0peS"
@@ -4792,7 +5198,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 377236,
       "name": "Sway",
       "url": "https://open.spotify.com/track/0sFGeDQs250HkU7D23uFqr"
@@ -4828,7 +5234,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 375360,
       "name": "Synthetics",
       "url": "https://open.spotify.com/track/6tTB5N5bTD7lszJAS9mU8U"
@@ -4916,7 +5322,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 540760,
       "name": "Tempus Fugit - Live at Mishima City YouYou Hall, Shizuoka, Japan / 2019",
       "url": "https://open.spotify.com/track/7wrUjaRcfqhpA0DACbdZic"
@@ -4990,6 +5396,24 @@
       "duration_ms": 442185,
       "name": "The Bluest Eye",
       "url": "https://open.spotify.com/track/4WAJmXMCoEf29VgK8j2wWA"
+    },
+    {
+      "album": {
+        "name": "The Freedom Rider",
+        "url": "https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448573,
+      "name": "The Freedom Rider",
+      "url": "https://open.spotify.com/track/5xtEeHZRWWdZOL0GAve3CC"
     },
     {
       "album": {
@@ -5178,7 +5602,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 290666,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
@@ -5196,7 +5620,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 417333,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
@@ -5236,6 +5660,24 @@
       "duration_ms": 614946,
       "name": "Totem Pole - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/782py08Vd3JdBAP79X0FSz"
+    },
+    {
+      "album": {
+        "name": "Gospel Music",
+        "url": "https://open.spotify.com/album/52H41dJZIWXp6SjvXF0Gie"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440892,
+      "name": "Trinity (Father, Son, and Holy Spirit)",
+      "url": "https://open.spotify.com/track/0nONfdSjBptV3MtphsdYDc"
     },
     {
       "album": {
@@ -5406,7 +5848,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 167906,
       "name": "Waltz for Hal Willner",
       "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
@@ -5560,6 +6002,24 @@
       "duration_ms": 160733,
       "name": "When The Saints Go Marching In - Single Version",
       "url": "https://open.spotify.com/track/15ldGLkV2U5hm37QAJURMP"
+    },
+    {
+      "album": {
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131160,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
     },
     {
       "album": {
@@ -5742,7 +6202,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 416293,
       "name": "XYZ [Feat. Sonicwonder]",
       "url": "https://open.spotify.com/track/1lmDl5INkuqa7zjrMBO2SV"
@@ -5790,7 +6250,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
@@ -5880,7 +6340,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 307515,
       "name": "\u30e9\u30a6\u30e9",
       "url": "https://open.spotify.com/track/7GrzGX43ghD3XK96tbeotQ"

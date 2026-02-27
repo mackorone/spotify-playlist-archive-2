@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,091 songs - 5 day 2 hr 16 min
+2,096 songs - 5 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [A Million Lives](https://open.spotify.com/track/4djpHr9ZkzQ3WWOtwQ5m6W) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [Like the Wind, Like the Fire \(New Edition 1\)](https://open.spotify.com/album/7qvnA6Jh4SU9HEuVLV9l6i) | 4:27 | 2025-07-08 |  |
 | [A New Start](https://open.spotify.com/track/0POrdlvaCWTkBU35uIHoUb) | [Rexlambo](https://open.spotify.com/artist/0I83Jj4OE4Y102cx1R5mjV) | [A New Start](https://open.spotify.com/album/5O7CIXlNUk2TOgHFeeNnph) | 2:22 | 2025-12-01 |  |
 | [A Perfect Day](https://open.spotify.com/track/5uH0gf8dBxKLUKhjj3JEBd) | [BEIBEI](https://open.spotify.com/artist/0DbTkXEMSQ0EYOEj2E8h2u) | [A Perfect Day](https://open.spotify.com/album/4nHsqQm0yKqRzvpQT7lo70) | 4:22 | 2025-07-29 |  |
+| [A quoi bon](https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [A quoi bon](https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU) | 3:46 | 2026-02-26 |  |
 | [A Special Light](https://open.spotify.com/track/4n46ogKPBYvoVueWflsgow) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [A Special Light](https://open.spotify.com/album/2q5cExJTuDZqVaWt40hI7t) | 2:07 | 2025-10-27 |  |
 | [A tiempo para mí](https://open.spotify.com/track/2VKV3ZMBOnN8NEdK79Loow) | [Kamila Moreno](https://open.spotify.com/artist/4taYjgtibWMgT86fEJvVUt), [AIgorythm](https://open.spotify.com/artist/7rokwomChHmWiwwnrhQynN) | [A tiempo para mí](https://open.spotify.com/album/0OEiEmZWah3jhjtsIgWBDR) | 2:33 | 2025-10-16 |  |
 | [A True Love Story](https://open.spotify.com/track/5BaaEUGc6xoIP4wxwX8QJA) | [Boogie and the Mean Machine](https://open.spotify.com/artist/7p3NuBEpuN2PDVFCbKvc6m) | [A True Love Story](https://open.spotify.com/album/2dcQf8NeLk5ZBK1Knqu86S) | 3:11 | 2024-12-17 |  |
@@ -512,6 +513,7 @@
 | [En mi Vida](https://open.spotify.com/track/19cPxrpCnVEhdJFopBq77h) | [Ay Gregorio!](https://open.spotify.com/artist/7JWYz76kcuMX1ZpdgQKGhs) | [En mi Vida](https://open.spotify.com/album/313CCvByz5yiSX7D4mnOLy) | 6:01 | 2025-07-19 |  |
 | [Enamorados O Fiel Amigos](https://open.spotify.com/track/2QBg9vNDiwOu6orl9gtiqe) | [Trelos](https://open.spotify.com/artist/7g9OBgf1IBVEJPzOruPZCm) | [Enamorados O Fiel Amigos](https://open.spotify.com/album/776Vgt7zViblw94yjkvdTp) | 3:36 | 2025-09-16 |  |
 | [end of twenty seven](https://open.spotify.com/track/7kKcqvVO385iSlEVXvYwwK) | [Dylan Sherry](https://open.spotify.com/artist/47SpsruvmDVLTAuRZqAEMH) | [end of twenty seven](https://open.spotify.com/album/6b9b9A4SFzmHK5wTjwbQkY) | 3:06 | 2025-03-06 |  |
+| [Endless Rite](https://open.spotify.com/track/4Wz6qD27pzaBe1yw2owOIx) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Endless Rite](https://open.spotify.com/album/6bnbRQ6UeoaKTwTfpdInE9) | 4:06 | 2026-02-26 |  |
 | [Endless Search I Desire](https://open.spotify.com/track/1GI9xcXYCkluAP1VN97dLz) | [Blase](https://open.spotify.com/artist/4YGNOfoJ5pbSwycRnztrI5) | [Endless Search I Desire](https://open.spotify.com/album/7FkZT4djtYFDoEfi1AWPN1) | 3:43 | 2024-04-30 |  |
 | [Endure.](https://open.spotify.com/track/2B9axV5HaQJFkZ04QHodOM) | [Danger & Sorson](https://open.spotify.com/artist/7dgbkj7yGzPLpkR5AxRX87) | [Endure.](https://open.spotify.com/album/4FVRTa4MK4H7kgeNnT3JMI) | 2:39 | 2024-08-21 |  |
 | [English Cream](https://open.spotify.com/track/1mV8DLfPwTQSmwBUxffKty) | [Was a Wolf](https://open.spotify.com/artist/1EHTnpulUzfLp6suYQ31FV) | [Change of Control](https://open.spotify.com/album/6MRUXh0wHA9jo2wsxJk6T1) | 3:33 | 2024-05-21 |  |
@@ -626,6 +628,7 @@
 | [From The Sky](https://open.spotify.com/track/6sTWJke9SIzPW2KR7dErdr) | [Cedric Saga](https://open.spotify.com/artist/0z2QGV6jeXk53Kxy2ofBNw) | [From The Sky](https://open.spotify.com/album/6i4QTGQVtgNyGw1CWBYl1c) | 3:30 | 2025-03-13 |  |
 | [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 | 2026-02-18 |  |
 | [FRUSTRATED](https://open.spotify.com/track/6jLJBfgYa6SOENq2wPlxaJ) | [Mary Lou](https://open.spotify.com/artist/1Ndek8c7r79Cuhq7QfeIuW) | [FRUSTRATED](https://open.spotify.com/album/6B8OF1dop534ACfC2Dxgfm) | 2:33 | 2025-03-07 |  |
+| [Fuel The Flame](https://open.spotify.com/track/7pBg9yHTAml4Aw3eIvcgBH) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 3:05 | 2026-02-26 |  |
 | [Full Throttle](https://open.spotify.com/track/6SqOhAzLOIXm0U7a734nx2) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Full Throttle](https://open.spotify.com/album/6I6vljE2Yr4N7y3yQnUtOA) | 2:48 | 2025-11-17 |  |
 | [FUNK GUITAR NA VEIA](https://open.spotify.com/track/3n4z9B4cg9hi7g5aMfSTfN) | [Gerson Oliveira](https://open.spotify.com/artist/4L8cy6Hmu5sthH4EQxwdBN) | [FUNK GUITAR NA VEIA](https://open.spotify.com/album/4W3cnlg6rChS3jIxlXangB) | 4:49 | 2025-10-09 |  |
 | [Fuori Di Qua](https://open.spotify.com/track/45CQFzA5gRYvY3rpw3QsX4) | [L'Orca, Pino & Giò](https://open.spotify.com/artist/56gHPAYzPERrPRMN95PQHG) | [Fuori Di Qua](https://open.spotify.com/album/6TldjaZCioHVgEwVz3RFL9) | 3:54 | 2024-08-12 |  |
@@ -1306,6 +1309,7 @@
 | [Only You](https://open.spotify.com/track/7FCxfXFVdOW5WF7heNxbhe) | [Youb Mens](https://open.spotify.com/artist/4g0hEdRRDZAtsWO9YgRJFT) | [Only You](https://open.spotify.com/album/6OE9pl3yIGyfGoArwo3Mrt) | 2:28 | 2024-04-23 |  |
 | [Open Air Dreams](https://open.spotify.com/track/6WECaFq4WmhhqBIohc4gVA) | [Schönfelder Entertainment](https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn) | [Night Moves](https://open.spotify.com/album/32wsGb4tnZ4hlKDuVA4eNO) | 2:49 | 2025-06-20 |  |
 | [Open Minds](https://open.spotify.com/track/7xEI0bimr29CJ1RNOs89t0) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [Blue Drip](https://open.spotify.com/album/3I3Nt2GllYCULJL44Qye5c) | 3:40 | 2025-06-20 |  |
+| [Open Range](https://open.spotify.com/track/75GQG00UnFW7lJZRxNmnVm) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Open Range](https://open.spotify.com/album/5e3bX9IMWCAR09XqEoJf0o) | 2:11 | 2026-02-26 |  |
 | [Orilla](https://open.spotify.com/track/2Wuc5NU4pUBFin0iK8oDZf) | [Max Valdés](https://open.spotify.com/artist/4aDtvnSRjsWzbXZFQTnDwY) | [Orilla](https://open.spotify.com/album/3AjdFvF2VRD0JdtJlCmMev) | 3:42 | 2025-06-16 |  |
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-11-18 |  |
 | [Other Side Of Wrong](https://open.spotify.com/track/4DfJsNguTpKYQQQbNi3yOt) | [Ken Tizzard and Music for Goats](https://open.spotify.com/artist/61WoSnXBrkPMvoiTHmHG3a) | [THE DAGG SASSIONS](https://open.spotify.com/album/70xCBlVEuQPUNgFQfmCauK) | 3:38 | 2025-09-22 |  |
@@ -1585,6 +1589,7 @@
 | [Solitude](https://open.spotify.com/track/41SiVzvnLW9tQ0ivCdCDgs) | [Butch Cassidy A2J](https://open.spotify.com/artist/3ct5j2OeQI9woVo1GUE8fT), [Phume](https://open.spotify.com/artist/4GC3jG0OT1Jk8dUetatIN5) | [Solitude](https://open.spotify.com/album/0vp66CwwbAeO5LbWI7aqvy) | 6:42 | 2024-08-26 |  |
 | [Sombra En El Rio](https://open.spotify.com/track/4qGiDIgoiPXwfxZyC1wcMd) | [Pez Revolver](https://open.spotify.com/artist/7mihzMIfocxe7kMpvEjIwn) | [Sombra En El Rio](https://open.spotify.com/album/174BwbXLdlM5s2tfhT3XtH) | 2:51 | 2024-05-22 |  |
 | [SOMEBODY OUT THERE](https://open.spotify.com/track/5f1DV1FXRnv5ybBM876sqi) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [SONGS OF 2020](https://open.spotify.com/album/5R98duPExwehOShULBRoh4) | 3:32 | 2025-02-17 |  |
+| [Somebody Real](https://open.spotify.com/track/5Yj8OJNrnyxFABHO4FNKUx) | [KIA](https://open.spotify.com/artist/3fh3oFb1KTTHIdCUzoY6eU) | [Somebody Real](https://open.spotify.com/album/0EmKEt4fo9UvnjO3Lm12eH) | 3:48 | 2026-02-26 |  |
 | [Someone I Believe In](https://open.spotify.com/track/1tNKFzshEkHZGasByKl7CE) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Someone I Believe In](https://open.spotify.com/album/5jLFI5Snqbj6BKgb2glavc) | 2:56 | 2025-10-09 |  |
 | [Someone You Knew](https://open.spotify.com/track/5GIfxK5RwG0WP4jqY6Prx8) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Someone You Knew](https://open.spotify.com/album/2nbwizDkRnS1cMgy9GCJgz) | 3:08 | 2024-07-05 |  |
 | [Something 'Bout A Boy](https://open.spotify.com/track/6y3Iz2ZdEOFE1xYwrdUCO2) | [Jennifer Alvarado](https://open.spotify.com/artist/0bM0RX6zTNn5MuKdpb92xU) | [Something 'Bout A Boy](https://open.spotify.com/album/6MwTkYGbD27XDhCvOCI9Z0) | 4:01 | 2025-05-29 |  |

@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Geolier in cover
+> I brani italiani che abbiamo on repeat  🔁  Ditonellapiaga in cover
 
-525 songs - 1 day 3 hr 5 min
+526 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Una Notte](https://open.spotify.com/track/69jWbZWK29hyhmgxz4PLyJ) | [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Una Notte](https://open.spotify.com/album/5fFQVaWtOUtqKKMkcWYa2S) | 2:50 | 2024-07-18 | 2024-08-20 |
 | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA) | 2:45 | 2025-03-18 | 2025-04-11 |
 | [Una Stupida Scusa](https://open.spotify.com/track/2YG2PSDHU3HCNXhLNqvaK9) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Una Stupida Scusa](https://open.spotify.com/album/1eetlkncQWpoBjMPsyYdGm) | 2:47 | 2025-05-15 | 2025-08-29 |
+| [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 | 2026-02-26 |  |
 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 | 2025-09-04 |  |
 | [VA TUTTO BENE \(con Sayf\)](https://open.spotify.com/track/7jFnIzqqRPcSLLAzBnMg80) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [OGNI MUSICA](https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ) | 2:57 | 2025-12-11 | 2025-12-30 |
 | [vabbè ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 | 2024-07-01 | 2024-11-29 |

@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 443869,
+  "num_followers": 443854,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Crashing Out",
-        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 215518,
-      "name": "Crashing Out",
-      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Straight Up (Needy)",
         "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 194273,
       "name": "Straight Up (Needy)",
       "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Crashing Out",
+        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 215518,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 152101,
-      "name": "I See How It Is",
-      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 201085,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Island in the Sun",
         "url": "https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y"
       },
@@ -1355,6 +1323,38 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Big Al Dente",
+        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 170970,
+      "name": "Big Al Dente",
+      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 152101,
+      "name": "I See How It Is",
+      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "saturate",
         "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Big Al Dente",
-        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
       },
       "artists": [
         {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         }
       ],
-      "duration_ms": 170970,
-      "name": "Big Al Dente",
-      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
+      "duration_ms": 201085,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "GARAGE",
-        "url": "https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 185816,
-      "name": "SLEEP TALKING",
-      "url": "https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "GARAGE",
+        "url": "https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 185816,
+      "name": "SLEEP TALKING",
+      "url": "https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Beg For More",
         "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 174000,
       "name": "Beg For More",
       "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Never Said",
-      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Never Said",
+      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Bedroom Posters",
         "url": "https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 218635,
       "name": "Bedroom Posters",
       "url": "https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "only overnight",
+        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "only overnight",
+      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1647,22 +1663,6 @@
       "duration_ms": 153133,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "only overnight",
-        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "only overnight",
-      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
     },
     {
       "added_at": "2026-01-09 05:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,543 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,875 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 30 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |
 | 31 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Happiness Happening](https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0) | 3:35 |
 | 32 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99 \(feat\. Grace\)](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:34 |
-| 33 | [Xpander \- Edit](https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 3:22 |
-| 34 | [Diving Faces \- Radio Cut](https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU) | [Liquid Child](https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7) | [Diving Faces](https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ) | 3:40 |
+| 33 | [Diving Faces \- Radio Cut](https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU) | [Liquid Child](https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7) | [Diving Faces](https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ) | 3:40 |
+| 34 | [Xpander \- Edit](https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 3:22 |
 | 35 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
 | 36 | [Coming On Strong](https://open.spotify.com/track/1ZLjrNoJWPvfMb7grtSNVf) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [The World Of Trance \(40 Biggest Trance Hits Ever\) \- Armada Music](https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR) | 3:19 |
 | 37 | [Synaesthesia \(Fly Away\)](https://open.spotify.com/track/5QdgpcfAw8EbsupH0B6BpI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Sheryl Deane](https://open.spotify.com/artist/7dVxjwH88uQMmN69MD61Fa) | [Synaesthesia \(Fly Away\)](https://open.spotify.com/album/5VsjT0u49R46HG9kSYsHMz) | 3:49 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 45 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
 | 46 | [The Theme](https://open.spotify.com/track/2VW6HO7fSA4dkbGgG1xkdn) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg) | [The Theme](https://open.spotify.com/album/3n0kAuzcbVBS0I893yXagK) | 3:07 |
 | 47 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
-| 48 | [Can't Sleep \- Radio Edit](https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Can't Sleep](https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB) | 3:12 |
+| 48 | [Sun & Moon \- Above & Beyond Club Mix](https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [The Club Mix Collection](https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE) | 3:08 |
 | 49 | [Liberation \(Fly Like An Angel\) \- Ferry Corsten Remix](https://open.spotify.com/track/4PzBpZbQLEWHwBhh6oFILN) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Retrospective \(25 Years\)](https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4) | 3:06 |
 | 50 | [Strange World](https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- Selection 003](https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq) | 3:58 |
 

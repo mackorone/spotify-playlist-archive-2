@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Carlão entra na zona.
+> LON3R JOHNY entra na zona.
 
-956 songs - 2 day 2 hr 27 min
+960 songs - 2 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [ACESSO](https://open.spotify.com/track/2YKBixZOIzcSPA4rCDrsVl) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [ACESSO](https://open.spotify.com/album/2KmVmwL9hqQbtnhySbl11R) | 2:23 | 2024-03-22 | 2024-04-12 |
 | [Acorda Ò Zé](https://open.spotify.com/track/139lGHAO6XTJboUSJMhRin) | [Bezegol](https://open.spotify.com/artist/6lCt4RGbnTCT1NN2lEENh5) | [Acorda Ò Zé](https://open.spotify.com/album/1XtZ1MC82D9yt9mnBL2o0H) | 3:35 | 2024-02-09 | 2024-03-08 |
 | [Acordar](https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Acordar](https://open.spotify.com/album/1tWREZzrDTdmy0ADiiI18b) | 3:17 | 2024-05-23 | 2025-03-28 |
+| [Actividade](https://open.spotify.com/track/4q63amIN1eXDZrqq9dAwhU) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Actividade](https://open.spotify.com/album/34CmVFH8F1YBCwtUsmFfYt) | 3:51 | 2026-02-27 |  |
 | [Afogado em Mágoas](https://open.spotify.com/track/3s6wmQNEtIPg8naKzU2hz2) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Afogado em Mágoas](https://open.spotify.com/album/5RT64x6PUKZUQztG04PjvP) | 2:32 | 2024-10-10 | 2024-10-25 |
 | [AGORA NAW](https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [AGORA NAW](https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx) | 2:55 | 2023-01-20 | 2023-02-10 |
 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 | 2025-06-26 | 2026-01-30 |
@@ -66,6 +67,7 @@
 | [ALL EYEZ ON ME](https://open.spotify.com/track/0DBTcVIDYmoSH0mnhwRwyI) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Silver YK](https://open.spotify.com/artist/3D7gt1ZX2aR7k0OvmdYeBc) | [ALL EYEZ ON ME](https://open.spotify.com/album/1mzZbMkVMeRiZq6WhQI81e) | 3:22 | 2024-01-19 | 2024-02-09 |
 | [ALL IN](https://open.spotify.com/track/42UxspF1t9VgfebD2EJQcd) | [2M](https://open.spotify.com/artist/1Ys18XRJeADiL6Zdtw6gOf), [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Dj Puffe](https://open.spotify.com/artist/4Z3wRg50SXmCOrW8TC4R5n), [mc henryk](https://open.spotify.com/artist/52tJTHOhfyiMcav6xhgMdQ), [MC Ryanzinho](https://open.spotify.com/artist/14SQVjZODVABQV4qA8cjex) | [ALL IN](https://open.spotify.com/album/6VvXWTzOvpCXDlswPh0ARj) | 3:39 | 2025-03-28 | 2025-06-27 |
 | [Alma do Negócio](https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Alma do Negócio](https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv) | 2:40 | 2024-07-25 | 2025-04-04 |
+| [Alta Cultura \- A Sós](https://open.spotify.com/track/1X4How3b1rNIcCcxh37jzd) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Alta Cultura \- A Sós](https://open.spotify.com/album/5uLZRPLRLBHqb8952M6wO5) | 2:57 | 2026-02-27 |  |
 | [Alta Cultura \- BrownSkinDevil](https://open.spotify.com/track/6OiMVGKSKO9Ix9i7rz38M7) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Alta Cultura \- BrownSkinDevil](https://open.spotify.com/album/3rsJk1mxo6ozyNQ5DxEEnn) | 2:48 | 2026-01-30 |  |
 | [Alta Cultura \- Ciclos](https://open.spotify.com/track/5QIaKPazYE58mbGcPhYkD3) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Alta Cultura \- Ciclos](https://open.spotify.com/album/29CwslOuFNVOP7LNvrTMyN) | 2:40 | 2026-01-23 | 2026-02-13 |
 | [Alta Cultura \- Dangerous](https://open.spotify.com/track/2rLJhC51bvXlEsxw5rsFRJ) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Alta Cultura \- Dangerous](https://open.spotify.com/album/1sudI9zUaPpCNvShiRuTC4) | 2:51 | 2026-02-20 |  |
@@ -98,6 +100,7 @@
 | [Aqui Comigo](https://open.spotify.com/track/3VLwWKNmVfbyV6houYL229) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Aqui Comigo](https://open.spotify.com/album/4Hn59yama1JP12NLh1gSH1) | 3:05 | 2024-07-18 | 2025-04-18 |
 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 | 2023-07-20 | 2023-08-04 |
 | [ARROGANG](https://open.spotify.com/track/4CtuDcCTB6i3WutNDLRpPM) | [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z), [Aft3rlife](https://open.spotify.com/artist/61JqIRJIESqiK9QV8Emsvp) | [ARROGANG](https://open.spotify.com/album/7bWjuZKfIcc3bSGJuGLoU2) | 3:06 | 2025-05-15 | 2025-06-06 |
+| [ASCENSÃO](https://open.spotify.com/track/1RpEQM2WrIm4ltkW0UHC3B) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [ASCENSÃO](https://open.spotify.com/album/3OjEQNdqwT9oJUDK8vua9m) | 2:28 | 2026-02-27 |  |
 | [ASSALTO](https://open.spotify.com/track/59M2RplqIzUEO7n70kRiBf) | [pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [ASSALTO](https://open.spotify.com/album/7lKB4qPPceoyeJNXgMOZW5) | 2:13 | 2024-02-23 | 2024-03-15 |
 | [Assassino](https://open.spotify.com/track/78CpoadoaXB6mcIDX5JXLk) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Assassino](https://open.spotify.com/album/3gmvUc2omtD0XSZapd9Mv0) | 3:33 | 2022-07-16 | 2022-07-22 |
 | [Assunto Meu](https://open.spotify.com/track/4sjDdTecsvoxV4vjvmUhMO) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Assunto Meu](https://open.spotify.com/album/14BI8fS7mq1oGcf6mGP6XH) | 2:07 | 2025-12-12 |  |
@@ -334,6 +337,7 @@
 | [Eu Vou Vencer](https://open.spotify.com/track/702bq8Ud8dIxysgrRvTqv0) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Eu Vou Vencer](https://open.spotify.com/album/2Q1ojLgXp6qbjmhEhonNeJ) | 4:17 | 2025-07-31 | 2025-10-31 |
 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 | 2022-07-16 | 2023-02-03 |
 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 | 2024-06-13 | 2025-10-17 |
+| [EVERESTE](https://open.spotify.com/track/5y9CWZurQSSHA3EG1bAG4g) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [EVERESTE](https://open.spotify.com/album/6AjfCNBmdrhdLAHosk6wV5) | 2:48 | 2026-02-27 |  |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
 | [EViL](https://open.spotify.com/track/2VaLKyJgR9lIVoTqf4oIyY) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [EViL](https://open.spotify.com/album/3fCwkZDlvmzwqx0O2j3ASt) | 2:50 | 2022-08-01 | 2023-04-28 |
 | [Exagera](https://open.spotify.com/track/3ztX5R8LZ6al7s8lFnCGzA) | [MOR3NO](https://open.spotify.com/artist/6AMhf6PcVHkmKuCP4zrfVr), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Active Boyz](https://open.spotify.com/artist/1IxCHgFpxES88DBJRotUe9) | [Exagera](https://open.spotify.com/album/6LwyooZ5dTDYaFFxyzMdHf) | 2:50 | 2025-04-17 | 2025-08-30 |

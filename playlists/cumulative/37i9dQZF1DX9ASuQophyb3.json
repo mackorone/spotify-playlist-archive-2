@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Burak Bulut",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: M Lisa x Sefo ",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 181925,
       "name": "Ah \u00c7ocuk",
       "url": "https://open.spotify.com/track/2NmdPKQx2gszM8Iz3kenp1"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "A\u011fla",
+        "url": "https://open.spotify.com/album/7LYGAMnCGmAIsgrqnWTKQG"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179488,
+      "name": "A\u011fla",
+      "url": "https://open.spotify.com/track/5XmZpVC8niKhumnhswMy0x"
+    },
+    {
+      "album": {
         "name": "A\u011fla G\u00f6nl\u00fcm",
         "url": "https://open.spotify.com/album/3wLTqBKlJRsk4gj7i2aNaO"
       },
@@ -940,7 +958,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 160500,
       "name": "Babas\u0131ndan Yaral\u0131",
       "url": "https://open.spotify.com/track/3BA6v1EkwiKa2ihuk2Qmze"
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 373077,
       "name": "Bir Ba\u015f\u0131ma",
       "url": "https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk"
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 273707,
       "name": "Bir B\u00fcy\u00fcl\u00fc Gece - Live At The Royal Albert Hall",
       "url": "https://open.spotify.com/track/4aI9mRo7AVthqabn6Y6yf3"
@@ -2658,7 +2676,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 309519,
       "name": "Da\u011flar\u0131na",
       "url": "https://open.spotify.com/track/5eMwhq10XijjDB2zrwo7sP"
@@ -4280,7 +4298,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 201937,
       "name": "Hazin Geliyor",
       "url": "https://open.spotify.com/track/0YfN4umsF4hemQ7y73yrJ2"
@@ -4386,6 +4404,24 @@
       "duration_ms": 174386,
       "name": "Herkes Oldun",
       "url": "https://open.spotify.com/track/4aOsapVhhnhvumlwRmXl1b"
+    },
+    {
+      "album": {
+        "name": "Hesap Benden \u00dcst\u00fc Kals\u0131n",
+        "url": "https://open.spotify.com/album/0e9Ow1fcRgWC8kFn3T3P1G"
+      },
+      "artists": [
+        {
+          "name": "Ferhat G\u00f6\u00e7er",
+          "url": "https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Hesap Benden \u00dcst\u00fc Kals\u0131n",
+      "url": "https://open.spotify.com/track/5LYrocSlpC8TJUXFayZjSf"
     },
     {
       "album": {
@@ -5719,6 +5755,32 @@
     },
     {
       "album": {
+        "name": "Manifest (Arem & Arman Remix)",
+        "url": "https://open.spotify.com/album/71n0HHrDzFE8i0SxvJ5UEz"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152515,
+      "name": "Manifest - Arem & Arman Remix",
+      "url": "https://open.spotify.com/track/4pILSItkwkqcWhrOrtuoYB"
+    },
+    {
+      "album": {
         "name": "Max",
         "url": "https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV"
       },
@@ -6301,6 +6363,28 @@
     },
     {
       "album": {
+        "name": "O B\u0130\u2019TANE",
+        "url": "https://open.spotify.com/album/1HZSZxNz5qioQsZi070XzH"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        },
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147909,
+      "name": "O B\u0130\u2019TANE",
+      "url": "https://open.spotify.com/track/744xRGSYI3qlWgXtgZ6OHt"
+    },
+    {
+      "album": {
         "name": "O De\u011fil Ki",
         "url": "https://open.spotify.com/album/5vtnQvkCRHYoyrL7gBCQMe"
       },
@@ -6392,6 +6476,24 @@
       "duration_ms": 191056,
       "name": "Oku Can\u0131ma",
       "url": "https://open.spotify.com/track/6wLyQPRvckIyROXPQ1a6Mx"
+    },
+    {
+      "album": {
+        "name": "Olan Oldu",
+        "url": "https://open.spotify.com/album/3MVJianAjvMi16H5QPvLrB"
+      },
+      "artists": [
+        {
+          "name": "Batuhan Kordel",
+          "url": "https://open.spotify.com/artist/53GzfAvawfKb966INeFp18"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169536,
+      "name": "Olan Oldu",
+      "url": "https://open.spotify.com/track/62X0aS5kJGVuQV6ei4cVk4"
     },
     {
       "album": {
@@ -6588,6 +6690,24 @@
       "duration_ms": 162000,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/38iMOXptk023Z9IxRDo9iU"
+    },
+    {
+      "album": {
+        "name": "Peki \u00d6yle Olsun",
+        "url": "https://open.spotify.com/album/4c4UCx12jdeDe3FtHniGIx"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel",
+          "url": "https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Peki \u00d6yle Olsun",
+      "url": "https://open.spotify.com/track/6QHkJAqfl4mSUBhznWsVqP"
     },
     {
       "album": {
@@ -7273,6 +7393,24 @@
     },
     {
       "album": {
+        "name": "Sende Bi' \u015eey Var",
+        "url": "https://open.spotify.com/album/6yBI0c6bP5nsCPzw0Ah3S7"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206454,
+      "name": "Sende Bi' \u015eey Var",
+      "url": "https://open.spotify.com/track/4LtXEOQR8rwWccMwWhGUHm"
+    },
+    {
+      "album": {
         "name": "Sende De Benden Var",
         "url": "https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP"
       },
@@ -7914,7 +8052,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 149202,
       "name": "S\u00f6yleyin O Benim G\u00f6ky\u00fcz\u00fcm G\u00fcne\u015fim",
       "url": "https://open.spotify.com/track/2hVOpFUzAvC2lqCGJXJFKy"

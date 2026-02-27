@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22816,
+  "num_followers": 22817,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAAAH+TMyHBHdk56RcM3fZU47",
+  "snapshot_id": "aZ47gAAAAAAWo+nLnkHCIjMM5HreJPBo",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuentas",
-        "url": "https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0"
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
       "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 168958,
-      "name": "Cuentas",
-      "url": "https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag"
+      "duration_ms": 155588,
+      "name": "454",
+      "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
     },
     {
       "added_at": null,
@@ -387,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+        "name": "Cuentas",
+        "url": "https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0"
       },
       "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 155588,
-      "name": "454",
-      "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
+      "duration_ms": 168958,
+      "name": "Cuentas",
+      "url": "https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 141906,
-      "name": "Seduceme",
-      "url": "https://open.spotify.com/track/6um5rfVr77YWdtW2BFVnb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 190000,
       "name": "Mi Reyna",
       "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 141906,
+      "name": "Seduceme",
+      "url": "https://open.spotify.com/track/6um5rfVr77YWdtW2BFVnb0"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 154351,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morro Loco",
         "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 191944,
       "name": "Morro Loco",
       "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 154351,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 157080,
       "name": "No Me Quiero Enamorar",
       "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
     },
     {
       "added_at": null,

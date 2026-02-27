@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,809 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,814 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 99 | [Sunday blues](https://open.spotify.com/track/4ESwkGCyueRheJClLZJLHJ) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Rexperience \#01 mixed by D'julz](https://open.spotify.com/album/5fwskhF3ICZySqeEoHlJfY) | 3:05 |
 | 100 | [Zukunftsmusik \(feat\. U96\)](https://open.spotify.com/track/4JBLosZzEEyIOzPw8UhpLD) | [Wolfgang Flür](https://open.spotify.com/artist/2bXLBqSNmadcnCjRQaePRj), [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Magazine 1](https://open.spotify.com/album/3XhqcfjNdUJwpq96rgprM4) | 4:15 |
 
-Snapshot ID: `AAAAANt9ZapS7t5xq1smT6M5HUVjIDxR`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

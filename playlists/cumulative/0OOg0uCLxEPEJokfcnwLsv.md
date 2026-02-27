@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-331 songs - 20 hr 37 min
+332 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Live Like You Mean It](https://open.spotify.com/track/0axZqgHnrL5FpSDyrCQkqr) | [Riff Raiders](https://open.spotify.com/artist/3uP6nJf8faTwth3kDqqKRv) | [Live Like You Mean It](https://open.spotify.com/album/1c6wgRmqwUT1oq7Xi7c5S2) | 3:25 | 2026-02-21 |  |
 | [Lobo Enjaulado](https://open.spotify.com/track/1Emlppibbbk0q4dwzbdGMr) | [P.R.O.A.](https://open.spotify.com/artist/6cMptGtvHkjH88qP0s57eO) | [Lobo Enjaulado](https://open.spotify.com/album/63rBMmyVAlIWjCJGGa7ySM) | 6:05 | 2026-02-16 |  |
 | [Lobotomy](https://open.spotify.com/track/19aXEmTM5YghumBM5d0HWu) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:03 | 2025-12-13 | 2026-01-05 |
+| [Lonely Spaceman](https://open.spotify.com/track/2zqjUfdbnpfFCzwMmIYjbD) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 4:39 | 2026-02-26 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2026-02-04 | 2026-02-23 |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2026-01-19 | 2026-02-18 |

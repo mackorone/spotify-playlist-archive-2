@@ -2,7 +2,7 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> La nuova scena pop italiana 🕯️  cover: Joseph
+> La nuova scena pop italiana 🇮🇹 cover: Samurai Jay
 
 1,159 songs - 2 day 7 hr 8 min
 

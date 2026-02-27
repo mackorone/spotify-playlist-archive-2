@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "anything4u",
+        "url": "https://open.spotify.com/album/4uqZBwMo4q1FZE1FaxxGhp"
+      },
+      "artists": [
+        {
+          "name": "mayflowers",
+          "url": "https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "anything4u",
+      "url": "https://open.spotify.com/track/10ovr4LpA0ZP7yYoNmhKuP"
+    },
+    {
+      "album": {
         "name": "Don't Waste Good Names on an EP",
         "url": "https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D"
       },
@@ -5614,6 +5632,24 @@
       "duration_ms": 116756,
       "name": "NEW DAY",
       "url": "https://open.spotify.com/track/4D6gqaHk1tqusRoqI5Vu3X"
+    },
+    {
+      "album": {
+        "name": "NI4NI",
+        "url": "https://open.spotify.com/album/0nOAwAvokahlFr5LEeWttF"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252705,
+      "name": "NI4NI",
+      "url": "https://open.spotify.com/track/2UmXnlHwi4dsPl9eizEhlI"
     },
     {
       "album": {

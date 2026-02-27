@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,334 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,340 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 39 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
 | 40 | [サザエさん一家](https://open.spotify.com/track/1TgBRjzoQDtyzeVc08FFyI) | [宇野ゆう子](https://open.spotify.com/artist/3vztmeg6tDx8dJohekt4l4) | [サザエさん](https://open.spotify.com/album/0OYfnYKIrEjcvHEPkfSK7n) | 3:28 |
 | 41 | [ゴーゴーヘブン](https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP) | [Yoshiyuki Osawa](https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek) | [The LEGEND](https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL) | 3:59 |
-| 42 | [トップをねらえ！ ～FLY HIGH～](https://open.spotify.com/track/6AhRUa69AONqcxZ3Mt9J9h) | [日高のり子](https://open.spotify.com/artist/34OA8bEaKKjRCn9qAMmvL7), [Rei Sakuma](https://open.spotify.com/artist/1KWnkbFpSMuSsAh1frfIjf) | [トップをねらえ！音楽集](https://open.spotify.com/album/7o9sfg1C31MdFhv1QBpizb) | 4:28 |
-| 43 | [ダンバイン とぶ](https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [聖戦士ダンバイン オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ) | 4:16 |
+| 42 | [ダンバイン とぶ](https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [聖戦士ダンバイン オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ) | 4:16 |
+| 43 | [トップをねらえ！ ～FLY HIGH～](https://open.spotify.com/track/6AhRUa69AONqcxZ3Mt9J9h) | [日高のり子](https://open.spotify.com/artist/34OA8bEaKKjRCn9qAMmvL7), [Rei Sakuma](https://open.spotify.com/artist/1KWnkbFpSMuSsAh1frfIjf) | [トップをねらえ！音楽集](https://open.spotify.com/album/7o9sfg1C31MdFhv1QBpizb) | 4:28 |
 | 44 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 |
 | 45 | [疾風ザブングル](https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [戦闘メカ ザブングル オリジナル・サウンドトラック Vol.1](https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N) | 3:44 |
 | 46 | [コン・バトラ－Vのテーマ \(超電磁ロボ コン・バトラーV\)](https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [スーパーロボット大戦 ボーカルコレクション ROBONATION.1](https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz) | 2:55 |

@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Z9
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PURPEECH
 
-223 songs - 14 hr 25 min
+224 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [ฉันจะรีบบอกรักเธอ](https://open.spotify.com/track/0VOIQcLeVfauNE0uwmIWD6) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ฉันจะรีบบอกรักเธอ](https://open.spotify.com/album/0c6IP7EnaX9ezWtHYBseCM) | 3:13 | 2025-05-22 | 2025-09-26 |
 | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/album/3fGfAm9QQEuVE2QBdLk4DT) | 6:05 | 2024-08-22 | 2026-01-23 |
 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 | 2024-01-26 | 2024-04-12 |
-| [ซอยข่อยแน](https://open.spotify.com/track/5NatUJnc5MRLXZtPssbOnC) | [YONIA](https://open.spotify.com/artist/3dGY3ZGSS9AkDxJ1tiKlkh) | [ซอยข่อยแน](https://open.spotify.com/album/43F1BaUAb6QmBlb6RUv4KL) | 3:13 | 2026-01-22 |  |
+| [ซอยข่อยแน](https://open.spotify.com/track/5NatUJnc5MRLXZtPssbOnC) | [YONIA](https://open.spotify.com/artist/3dGY3ZGSS9AkDxJ1tiKlkh) | [ซอยข่อยแน](https://open.spotify.com/album/43F1BaUAb6QmBlb6RUv4KL) | 3:13 | 2026-01-22 | 2026-02-27 |
 | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI) | 3:33 | 2025-03-20 | 2025-04-29 |
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 | 2024-01-26 | 2025-04-11 |
 | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/album/7wZ6cdyUeqn86acl7dyMwR) | 5:16 | 2025-02-20 | 2025-12-05 |
@@ -180,6 +180,7 @@
 | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H) | 3:35 | 2024-12-06 | 2025-01-10 |
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-26 |  |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-05-16 | 2025-04-17 |
+| [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 | 2026-02-26 |  |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2024-01-26 | 2024-04-12 |
 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 | 2025-10-12 | 2026-01-15 |
 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-04-16 | 2025-06-20 |

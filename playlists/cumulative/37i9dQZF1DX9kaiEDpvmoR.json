@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 275040,
       "name": "Anita - Live",
       "url": "https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 347626,
       "name": "Arvet",
       "url": "https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS"
@@ -2895,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Give and Take",
+        "url": "https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Give and Take",
+      "url": "https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk"
+    },
+    {
+      "album": {
         "name": "jaywalking",
         "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
       },
@@ -2910,6 +2928,28 @@
       "duration_ms": 170818,
       "name": "Glasshouse",
       "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
+    },
+    {
+      "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        },
+        {
+          "name": "Ingrid",
+          "url": "https://open.spotify.com/artist/5MoWNrnyfYT8RgRjEpTROL"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
     },
     {
       "album": {
@@ -4414,7 +4454,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 191440,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5"
@@ -7892,7 +7932,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 358186,
       "name": "S\u00e5 m\u00e5nga mil, s\u00e5 m\u00e5nga \u00e5r... - Live",
       "url": "https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3"

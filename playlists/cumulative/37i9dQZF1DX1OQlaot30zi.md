@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Enny P,  Salmo, Kuremino, Low\-Red con Yung Snapp, Macello con Scaccia e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Luchè, Sayf, nayt e molti altri.
 
 6,861 songs - 12 day 15 hr 28 min
 

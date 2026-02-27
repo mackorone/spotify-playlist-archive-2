@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,162 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,178 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 59 | [Juízo e Responsabilidade](https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Juízo e Responsabilidade](https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa) | 2:37 |
 | 60 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
 | 61 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 |
-| 62 | [Atrás do Paredão](https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Atrás do Paredão](https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13) | 2:50 |
-| 63 | [Minha Preta](https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2) | [Bistro](https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx) | [Minha Preta](https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu) | 2:55 |
+| 62 | [Minha Preta](https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2) | [Bistro](https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx) | [Minha Preta](https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu) | 2:55 |
+| 63 | [Atrás do Paredão](https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Atrás do Paredão](https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13) | 2:50 |
 | 64 | [Te Quero Aqui](https://open.spotify.com/track/2P0jzfZ5w8vkMP7OfWIlF3) | [Clyntia](https://open.spotify.com/artist/0C4kzFthuXpIXPpq3hfJmm), [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8) | [Te Quero Aqui](https://open.spotify.com/album/3erkKxOFo7ucsj00jXVPxb) | 2:50 |
 | 65 | [Deixa a Chuva Cair \- Acoustic Version](https://open.spotify.com/track/466NYRgtd3gPNH43VQ5A33) | [Rick Bonadio](https://open.spotify.com/artist/2CZ8dMcFFZ1UYj52mUSaE6), [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Deixa a Chuva Cair \(Acoustic Version\)](https://open.spotify.com/album/0L7Ch86WVPvPjf1LoIDcPl) | 2:44 |
 | 66 | [Carmim](https://open.spotify.com/track/1t4WNhU1dwnGYoicyjVncb) | [Duny](https://open.spotify.com/artist/6ttexDkFUVyREIRbC05l8E) | [Carmim](https://open.spotify.com/album/75CkDTv216LcLYvKOUOQzn) | 3:41 |

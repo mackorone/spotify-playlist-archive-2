@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un inverno non proprio felice \(naska in cover\)
+> musica per un inverno non proprio felice \(chiello in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,086 likes - 110 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,092 likes - 110 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 109 | [solite cose](https://open.spotify.com/track/5q49W8e8ZOy1wO9MIpL8RR) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:00 |
 | 110 | [croci \(feat\. Sally Cruz\)](https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [tutti i colori del buio](https://open.spotify.com/album/278YwMUlBJkd2Pj1YmCsQY) | 3:04 |
 
-Snapshot ID: `AAAAAOrX0tQI8kVh2nJ3ew2wV97/fBvI`
+Snapshot ID: `AAAAAK5VbIpupu6xfgK2xIkaODTjsVQc`

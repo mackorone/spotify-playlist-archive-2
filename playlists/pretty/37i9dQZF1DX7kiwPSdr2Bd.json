@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Valesca Mayssa",
-  "num_followers": 362896,
+  "num_followers": 362980,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-02-13 03:01:37",
       "album": {
+        "name": "Levarei a Minha Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PFQ5bt8Gd5nuFnaW9NQRk"
+      },
+      "artists": [
+        {
+          "name": "Mayara Karolaine",
+          "url": "https://open.spotify.com/artist/2CQGSc7wDD1TMHJvRO5P75"
+        },
+        {
+          "name": "Vivace Music",
+          "url": "https://open.spotify.com/artist/2MTfVdhunAi8kbjOVZrmQs"
+        }
+      ],
+      "duration_ms": 215294,
+      "name": "Levarei a Minha Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW"
+    },
+    {
+      "added_at": "2026-02-13 03:01:37",
+      "album": {
         "name": "Faz Chover de Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2yOsWfVwLaGeiqpSqUWSak"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 430948,
       "name": "Cadeias Quebrar (Break Every Chain) - Ao Vivo",
       "url": "https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz"
-    },
-    {
-      "added_at": "2026-02-13 03:01:37",
-      "album": {
-        "name": "Levarei a Minha Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5PFQ5bt8Gd5nuFnaW9NQRk"
-      },
-      "artists": [
-        {
-          "name": "Mayara Karolaine",
-          "url": "https://open.spotify.com/artist/2CQGSc7wDD1TMHJvRO5P75"
-        },
-        {
-          "name": "Vivace Music",
-          "url": "https://open.spotify.com/artist/2MTfVdhunAi8kbjOVZrmQs"
-        }
-      ],
-      "duration_ms": 215294,
-      "name": "Levarei a Minha Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW"
     },
     {
       "added_at": "2026-02-13 03:01:37",

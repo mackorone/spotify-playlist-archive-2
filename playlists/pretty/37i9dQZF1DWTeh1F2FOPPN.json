@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 90852,
+  "num_followers": 90876,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 427407,
-      "name": "A House Is Not a Home",
-      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 209560,
       "name": "I Just Died",
       "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 427407,
+      "name": "A House Is Not a Home",
+      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Harvest for the World",
-        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 323315,
-      "name": "(At Your Best) You Are Love",
-      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
+      "duration_ms": 211893,
+      "name": "Get It Over With",
+      "url": "https://open.spotify.com/track/3NsVe4VhqzB2M0R282HJJB"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+        "name": "Harvest for the World",
+        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Get It Over With",
-      "url": "https://open.spotify.com/track/3NsVe4VhqzB2M0R282HJJB"
+      "duration_ms": 323315,
+      "name": "(At Your Best) You Are Love",
+      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
     },
     {
       "added_at": "2022-10-01 16:54:27",

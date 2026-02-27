@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "JANAKI in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Salom\u00e8e in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -2444,6 +2444,24 @@
       "duration_ms": 161647,
       "name": "Bruciami",
       "url": "https://open.spotify.com/track/3FdKyrHYU1MQVoKhyaPuVH"
+    },
+    {
+      "album": {
+        "name": "BRUTTO SHOW",
+        "url": "https://open.spotify.com/album/2RQeHCCDEx6kv8TAJdJjA1"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00e8e",
+          "url": "https://open.spotify.com/artist/1KlD1JXtUV44n7tdzmiXit"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Brutto show",
+      "url": "https://open.spotify.com/track/6qADo5jm9XZxWPh1IboHyH"
     },
     {
       "album": {

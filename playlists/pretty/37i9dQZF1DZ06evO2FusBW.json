@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZzqAAAAAACUGJNqYDJqjBtrdiAwRVJm",
+  "snapshot_id": "aZ47gAAAAACZ1i6QE9X1y1RJCb7Zwm0P",
   "tracks": [
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Winter Impressions",
+        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
+      "duration_ms": 166338,
+      "name": "A Tale in Paris",
+      "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Impressions",
-        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 166338,
-      "name": "A Tale in Paris",
-      "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
+      "duration_ms": 229146,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
     },
     {
       "added_at": null,

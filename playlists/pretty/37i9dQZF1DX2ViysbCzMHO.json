@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175948,
+  "num_followers": 175959,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 178191,
       "name": "I'm Not Pretty - Acoustic",
       "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Drive You Out Of My Mind (Dark Room Edition)",
         "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
         "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 185815,
       "name": "Coulda Loved You Longer - Acoustic",
       "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
-        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 329053,
-      "name": "Love The Lonely Out Of You - Live Pinebox Version",
-      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1327,6 +1311,22 @@
       "duration_ms": 204358,
       "name": "Can't Nobody - Acoustic",
       "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
+        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 329053,
+      "name": "Love The Lonely Out Of You - Live Pinebox Version",
+      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Gonna Love You (Alternate Versions)",
-        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Gonna Love You - Acoustic",
-      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "This Town's Been Too Good To Us (Stripped)",
         "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 189066,
       "name": "This Town's Been Too Good To Us (Stripped)",
       "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Gonna Love You (Alternate Versions)",
+        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Gonna Love You - Acoustic",
+      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Breakin' in Boots (Stripped)",
-        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Breakin' in Boots - Stripped",
-      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "My Left Hand (Wedding Version)",
         "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 186133,
       "name": "My Left Hand (Wedding Version)",
       "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Breakin' in Boots (Stripped)",
+        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "Breakin' in Boots - Stripped",
+      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2026-01-16 05:00:43",

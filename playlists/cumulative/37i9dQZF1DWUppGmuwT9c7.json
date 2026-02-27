@@ -499,6 +499,40 @@
     },
     {
       "album": {
+        "name": "De Avond Is Van Ons",
+        "url": "https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa"
+      },
+      "artists": [
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173553,
+      "name": "De Avond Is Van Ons",
+      "url": "https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx"
+    },
+    {
+      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -656,6 +690,24 @@
       "duration_ms": 167343,
       "name": "Dichtbij Me (M'n Desire)",
       "url": "https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ"
+    },
+    {
+      "album": {
+        "name": "Diner Voor Twee",
+        "url": "https://open.spotify.com/album/7eigNO4pIpnIB9btmu9gAU"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155156,
+      "name": "Diner Voor Twee",
+      "url": "https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8"
     },
     {
       "album": {
@@ -1582,7 +1634,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 148472,
       "name": "Lang Leve De Liefde",
       "url": "https://open.spotify.com/track/5wyTD9sYdm8c2UDGtqF2LJ"
@@ -1998,7 +2050,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 150741,
       "name": "Nooit Meer Voorbij",
       "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
@@ -2092,7 +2144,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 166950,
       "name": "Samen",
       "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
@@ -2148,6 +2200,28 @@
       "duration_ms": 154627,
       "name": "Sparen Voor De Nacht",
       "url": "https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir"
+    },
+    {
+      "album": {
+        "name": "Spijt",
+        "url": "https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Spijt",
+      "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
     },
     {
       "album": {

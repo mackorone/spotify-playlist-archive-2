@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 561 likes - 2,348 songs - 5 day 17 hr 12 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,353 songs - 5 day 17 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2356,5 +2356,10 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2346 | [Loved You Well](https://open.spotify.com/track/726B5SsK89Kb35fjLnUAbJ) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Loved You Well](https://open.spotify.com/album/3yGEUH53gDIEIpTfRDpU1N) | 4:02 |
 | 2347 | [Maywell](https://open.spotify.com/track/5YAK7c9Azk9DUfoDBfjNNc) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [I Can Dream](https://open.spotify.com/album/79T68idWo8fapNq659HB0a) | 4:25 |
 | 2348 | [How It Hurts to Be Alone \(Edm\)](https://open.spotify.com/track/2gdOXXLIfYxlDtQ5AKvQ8y) | [Liu Marks](https://open.spotify.com/artist/0V93twsNChTw8nVXNxW0fq) | [The Cowboy](https://open.spotify.com/album/6buUDssabwFkCt6C5In0cL) | 3:59 |
+| 2349 | [Open Range](https://open.spotify.com/track/75GQG00UnFW7lJZRxNmnVm) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Open Range](https://open.spotify.com/album/5e3bX9IMWCAR09XqEoJf0o) | 2:11 |
+| 2350 | [A quoi bon](https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [A quoi bon](https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU) | 3:46 |
+| 2351 | [Endless Rite](https://open.spotify.com/track/4Wz6qD27pzaBe1yw2owOIx) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Endless Rite](https://open.spotify.com/album/6bnbRQ6UeoaKTwTfpdInE9) | 4:06 |
+| 2352 | [Somebody Real](https://open.spotify.com/track/5Yj8OJNrnyxFABHO4FNKUx) | [KIA](https://open.spotify.com/artist/3fh3oFb1KTTHIdCUzoY6eU) | [Somebody Real](https://open.spotify.com/album/0EmKEt4fo9UvnjO3Lm12eH) | 3:48 |
+| 2353 | [Fuel The Flame](https://open.spotify.com/track/7pBg9yHTAml4Aw3eIvcgBH) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 3:05 |
 
-Snapshot ID: `AAAJw6mPeNZZj/Oef3y3akDReTOlrNc5`
+Snapshot ID: `AAAJyASSV8FLjX4KF4h1yrm2unyVTcTX`

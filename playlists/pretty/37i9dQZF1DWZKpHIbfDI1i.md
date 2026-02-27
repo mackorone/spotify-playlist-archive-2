@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Banda MS y Xavi en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,233 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,268 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 26 | [Pasta](https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Pasta](https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P) | 3:14 |
 | 27 | [Mi Yo de Antes](https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Yo de Antes](https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN) | 3:02 |
 | 28 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 |
-| 29 | [Haciendo Memoria](https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Haciendo Memoria](https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar) | 3:07 |
-| 30 | [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 |
+| 29 | [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 |
+| 30 | [Haciendo Memoria](https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Haciendo Memoria](https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar) | 3:07 |
 | 31 | [La Morrita](https://open.spotify.com/track/29YP167FTBz8m3937YbKDw) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Morrita](https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev) | 2:34 |
 | 32 | [100/10](https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [100/10](https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww) | 2:38 |
 | 33 | [Belladona](https://open.spotify.com/track/065QdMHr2KoPSxtcli0fGC) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Belladona](https://open.spotify.com/album/16ZpanWKTqPtQrkuUTroyB) | 3:32 |

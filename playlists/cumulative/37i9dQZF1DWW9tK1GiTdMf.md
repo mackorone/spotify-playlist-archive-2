@@ -2,7 +2,7 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un inverno non proprio felice \(naska in cover\)
+> musica per un inverno non proprio felice \(chiello in cover\)
 
 1,626 songs - 3 day 2 hr 36 min
 

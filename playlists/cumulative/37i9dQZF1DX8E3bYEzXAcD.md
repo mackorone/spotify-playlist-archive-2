@@ -4,7 +4,7 @@
 
 > Rustig aan, ff ademen jij.
 
-45 songs - 2 hr 0 min
+48 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AaAAaa](https://open.spotify.com/track/03ylxisG0KM0VlvyGLSSxu) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:26 | 2025-06-27 |  |
 | [Accepteren](https://open.spotify.com/track/6X2PJ1oPEf4GUcmyBuPOwm) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Levensles](https://open.spotify.com/album/4sBPiyibzraYzKn7MwPm2p) | 3:20 | 2025-06-27 |  |
 | [All Ice](https://open.spotify.com/track/3UgOeRwPmEoiwg2ejvUxQp) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 2:39 | 2025-06-27 | 2025-09-16 |
+| [Brick By Brick](https://open.spotify.com/track/20hJR3U7Ar0WE7vQrl3iWp) | [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII) | [Brick By Brick](https://open.spotify.com/album/0X30EwgT0OaGGBTPJgYYGy) | 3:19 | 2026-02-26 |  |
 | [Cullinan](https://open.spotify.com/track/62PDXg9UDd0q4N6hCl0fI7) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6) | [Cullinan](https://open.spotify.com/album/04MPrXHuTkaGeSVmtWp9j7) | 3:03 | 2025-06-27 |  |
 | [Dakje Open](https://open.spotify.com/track/1qsMR2r9IiJ7Ow6ewNbFaI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Dakje Open](https://open.spotify.com/album/2WvRupQncVmgisPHHDdjYF) | 2:14 | 2025-06-27 |  |
 | [Doe Rustig](https://open.spotify.com/track/7moKARHYaqaAddizkT0d9n) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Doe Rustig](https://open.spotify.com/album/0vrU4iKKqxmJigZLzGwgD0) | 2:07 | 2025-06-27 |  |
@@ -29,13 +30,15 @@
 | [Jabra](https://open.spotify.com/track/095Wi1mUn863osrFmXlHiL) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Elevation](https://open.spotify.com/artist/6bVmLQ5Ga3xeKdgfhuqcrI) | [Jabra](https://open.spotify.com/album/2qDKHtqG1s2QHzB9PW2iIN) | 1:31 | 2025-06-27 |  |
 | [La La La](https://open.spotify.com/track/3Z4j3hMz2mTYOtbxz5291r) | [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [La La La](https://open.spotify.com/album/1IHAwlSMGkA3lJN50tbRBJ) | 2:23 | 2025-06-27 | 2025-08-29 |
 | [Lego](https://open.spotify.com/track/1ZjEH6v18SchL2oD9EKPDd) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Lego](https://open.spotify.com/album/7KlTTubyFR9008y1QNefmG) | 2:34 | 2025-06-27 |  |
+| [Liever Alleen](https://open.spotify.com/track/0DwZRtAdpj1LXx7U3m3oko) | [Gior](https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA) | [Liever Alleen](https://open.spotify.com/album/4Yamfa5h6uuFgs6xJtClDf) | 2:40 | 2026-02-26 |  |
 | [MULALA](https://open.spotify.com/track/3ZEZUgpOUO4Po0eXtBt4oF) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [MULALA](https://open.spotify.com/album/7ykykZsyyh5fEVBmkkZZwc) | 2:36 | 2025-06-27 |  |
 | [Nardo RS](https://open.spotify.com/track/0nJz0YOgj4iXWayoewi6F8) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [Nardo RS](https://open.spotify.com/album/0mdF7CR6FPfSxS0LZdoXDu) | 2:17 | 2025-06-27 |  |
 | [Niet Beefen](https://open.spotify.com/track/5MzDa2q3jCJlIz008pW9ue) | [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC) | [Zes Gangen Menu](https://open.spotify.com/album/4nD1iPRy6jhO8bvtHgCFFE) | 2:19 | 2025-06-27 |  |
 | [Nooit Thuis](https://open.spotify.com/track/0jGExV1jNFFC6rwWANc5UH) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 2:40 | 2025-06-27 |  |
 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 | 2025-09-25 |  |
-| [Op De Strip](https://open.spotify.com/track/3rXvuORfigmA83I00PWbBQ) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Op De Strip](https://open.spotify.com/album/6X74hQtHRyQURvw3Jl5DkY) | 2:34 | 2025-06-27 |  |
+| [Op De Strip](https://open.spotify.com/track/3rXvuORfigmA83I00PWbBQ) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Op De Strip](https://open.spotify.com/album/6X74hQtHRyQURvw3Jl5DkY) | 2:34 | 2025-06-27 | 2026-02-27 |
 | [Orkest](https://open.spotify.com/track/6YlSycjgTKCA3GQGgxjMhc) | [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC), [Vic9](https://open.spotify.com/artist/7FGPqGAnNztJ6mQniyFLt9), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Zes Gangen Menu](https://open.spotify.com/album/4nD1iPRy6jhO8bvtHgCFFE) | 3:22 | 2025-06-27 |  |
+| [Panorama](https://open.spotify.com/track/3EQ8F3JNlCPvbmNgu2pwlb) | [Joella T](https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW) | [Panorama](https://open.spotify.com/album/5SYnYcGipW5R4kh1mpwhQt) | 2:27 | 2026-02-26 |  |
 | [Pesos](https://open.spotify.com/track/6YCD1qrFgZDIWdej4kYOXF) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Pesos](https://open.spotify.com/album/5m2mxqu1qih25VcEt7DEv6) | 2:19 | 2025-06-27 |  |
 | [Philly Haal](https://open.spotify.com/track/2oGiZAtGD70Oe3cEu0aRnX) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Philly Haal](https://open.spotify.com/album/26Fzw5N60KJPEWsnzb0bxU) | 2:37 | 2025-06-27 |  |
 | [Praten Over Rits](https://open.spotify.com/track/1mT7TOHeODI7zO6uPdoUso) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Praten Over Rits](https://open.spotify.com/album/2atk9xXL35RdoKHgMYLug0) | 3:17 | 2025-06-27 |  |

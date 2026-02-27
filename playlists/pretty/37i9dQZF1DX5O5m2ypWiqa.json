@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Espinoza Paz en portada. ",
-  "num_followers": 1990862,
+  "num_followers": 1991009,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Indeleble",
-        "url": "https://open.spotify.com/album/6AxSh2VYkdZUSZmwpLKsyk"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Indeleble",
-      "url": "https://open.spotify.com/track/6r6g6eNSA6CNXo423wJ6gV"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 173226,
       "name": "Amantes Escondidos",
       "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Indeleble",
+        "url": "https://open.spotify.com/album/6AxSh2VYkdZUSZmwpLKsyk"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Indeleble",
+      "url": "https://open.spotify.com/track/6r6g6eNSA6CNXo423wJ6gV"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2219,18 +2219,22 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV"
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
       "artists": [
         {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD"
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2247,6 +2251,22 @@
       "duration_ms": 228973,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2283,26 +2303,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -2315,22 +2315,6 @@
       "duration_ms": 149812,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234198,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2363,6 +2347,38 @@
       "duration_ms": 220000,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234198,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/6ZNWvaqKZSS9JLSmkC2Iop"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 232663,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3YLZE6B8KTT0kYHL3ovVwA"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2431,34 +2447,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/6ZNWvaqKZSS9JLSmkC2Iop"
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 232663,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3YLZE6B8KTT0kYHL3ovVwA"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "Exitos De Mariano Barba",
-        "url": "https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Una Noche Mas Contigo",
-      "url": "https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV"
+      "duration_ms": 199080,
+      "name": "Hombre Libre",
+      "url": "https://open.spotify.com/track/0aNg375SvHpJAWSMZkIYtF"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

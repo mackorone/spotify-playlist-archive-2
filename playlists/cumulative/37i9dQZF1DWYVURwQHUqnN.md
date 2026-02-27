@@ -2,7 +2,7 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : PLK x Theodora
+> Photo : GIMS
 
 468 songs - 21 hr 48 min
 

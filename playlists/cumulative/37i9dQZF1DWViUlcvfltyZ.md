@@ -2,7 +2,7 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 Fight Pausa, clauscalmo, Guinevere sfocati ma in cover
+> Rock, indie e punk dall'Italia 🎸 Bambole di Pezza in cover
 
 1,861 songs - 4 day 8 hr 13 min
 

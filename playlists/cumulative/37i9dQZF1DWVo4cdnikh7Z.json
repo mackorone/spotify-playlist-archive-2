@@ -2937,6 +2937,32 @@
     },
     {
       "album": {
+        "name": "Akkadi (From \"Sattendru Maarudhu Vaanilai\")",
+        "url": "https://open.spotify.com/album/71XwMCXc53hF4ShYbvvUZI"
+      },
+      "artists": [
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Girishh G",
+          "url": "https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187005,
+      "name": "Akkadi (From \"Sattendru Maarudhu Vaanilai\")",
+      "url": "https://open.spotify.com/track/2JeN6RnmzACsK2OwysJB7V"
+    },
+    {
+      "album": {
         "name": "Akkalu Bakkalu (From \"Housemates\")",
         "url": "https://open.spotify.com/album/6tkgWeKB3TSAOFygjAHWxz"
       },
@@ -13391,6 +13417,40 @@
     },
     {
       "album": {
+        "name": "Euphoria (Tamil)",
+        "url": "https://open.spotify.com/album/6fDNz7p8vNyOSoNWyQCdNy"
+      },
+      "artists": [
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Vallavan",
+          "url": "https://open.spotify.com/artist/31JlpIXSw3SDT7wrDOU4bz"
+        },
+        {
+          "name": "Gayathri Suresh",
+          "url": "https://open.spotify.com/artist/17KMGAxvstqpaHy7JnxI51"
+        },
+        {
+          "name": "Kathikan",
+          "url": "https://open.spotify.com/artist/1T6kyUAgTu7WWEF2wsvZV0"
+        },
+        {
+          "name": "Naveen Bharathi",
+          "url": "https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218191,
+      "name": "Fly High (Tamil)",
+      "url": "https://open.spotify.com/track/19lMyuy2UDyR4Y2ffTzaN1"
+    },
+    {
+      "album": {
         "name": "DD Returns (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
       },
@@ -14316,6 +14376,40 @@
       "duration_ms": 119300,
       "name": "Gumthalakadi Gala Gala",
       "url": "https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg"
+    },
+    {
+      "album": {
+        "name": "Haffa Haffa (From \"Mustafa Mustafa\")",
+        "url": "https://open.spotify.com/album/7FBqW6e8uJnV90hVT3IGMY"
+      },
+      "artists": [
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        },
+        {
+          "name": "M.S.Jones Rupert",
+          "url": "https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID"
+        },
+        {
+          "name": "Anushya Murugesh",
+          "url": "https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8"
+        },
+        {
+          "name": "Sathish",
+          "url": "https://open.spotify.com/artist/1Zr26G0OND2Q0iVFP0BJ1Z"
+        },
+        {
+          "name": "Naveen Bharathi",
+          "url": "https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Haffa Haffa (From \"Mustafa Mustafa\")",
+      "url": "https://open.spotify.com/track/30fqPUxxYnyiTSiVvLbrd7"
     },
     {
       "album": {
@@ -27064,7 +27158,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 233624,
       "name": "Mannichiru (From \"Sirai\")",
       "url": "https://open.spotify.com/track/6k9Vll55i6BtXr7IhWwmwu"
@@ -36848,7 +36942,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 209333,
       "name": "Pattuma (From \"Love Insurance Kompany\")",
       "url": "https://open.spotify.com/track/5oieVOqzZzYEgmrOis1gbU"
@@ -40642,7 +40736,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 303203,
       "name": "Rekka Rekka",
       "url": "https://open.spotify.com/track/7irQXVDibbl9ijrLajUVap"

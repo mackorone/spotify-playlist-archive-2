@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,431 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,391 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 20 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 |
 | 21 | [ciężki szmal](https://open.spotify.com/track/1INz9FSfzPbCUiXBt2Qa3l) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc), [slotkakotka123](https://open.spotify.com/artist/07eHPQI6wg41TPL5l6XTsR) | [ciężki szmal](https://open.spotify.com/album/5dEbAIybdNTbS0ivPaK7Jp) | 3:00 |
 | 22 | [all my money](https://open.spotify.com/track/2QWWWDjUkgkM36eV6vxTSt) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [all my money](https://open.spotify.com/album/1nmAMyarEDpYJbKsA1rR8F) | 3:21 |
-| 23 | [Bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
+| 23 | [bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
 | 24 | [LIVRE](https://open.spotify.com/track/7CFLoozGhdaqGeAaij6Gsr) | [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [LIVRE](https://open.spotify.com/album/7bAOw3FM77DBujnL1tesaP) | 3:14 |
 | 25 | [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 |
 | 26 | [ofiarne kozły](https://open.spotify.com/track/29cqBX8sRpCaRFpvOXWgOd) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [ofiarne kozły](https://open.spotify.com/album/7w5jjgy1n68RFAqcy4Nzm5) | 2:49 |

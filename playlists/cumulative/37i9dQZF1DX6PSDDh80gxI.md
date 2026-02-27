@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Tommaso Paradiso in cover di Indie Italia 🏹❤️
+> Il nostro Fulminacci in cover di Indie Italia 🍌💙
 
-474 songs - 1 day 1 hr 23 min
+476 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ascoltare gli alberi](https://open.spotify.com/track/0gQ7KxkgClrDXvD4MrfAQT) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S) | [Ascoltare gli alberi](https://open.spotify.com/album/5PkdD1nN3vygejhLOh4l4p) | 3:18 | 2024-10-24 | 2024-11-08 |
 | [Astri](https://open.spotify.com/track/6IxuNkruuGCSVHc9nY7sFk) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Astri](https://open.spotify.com/album/2pG1yO9hcUKUEobzi6gnb6) | 3:41 | 2026-01-08 |  |
 | [Attitudini: nessuna](https://open.spotify.com/track/1Q4JNJowlBd2EsJiD56OCy) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Attitudini: nessuna](https://open.spotify.com/album/4fr0LS6QjF35GwB67wNjKi) | 2:55 | 2025-12-04 | 2026-01-30 |
+| [Avvoltoi](https://open.spotify.com/track/3ByNcS81LqRYUvJjpWhZ7T) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Avvoltoi](https://open.spotify.com/album/2Pm3fClssWE7Bhnijoi7E1) | 2:45 | 2026-02-26 |  |
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 | 2024-10-11 |
 | [BALLA](https://open.spotify.com/track/0mlZdAdXr19dGJ1tNHBvr7) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [BALLA COI LUPI NELLA STALLA](https://open.spotify.com/album/4mF8RZSmhTnNujFm3YUIVH) | 3:48 | 2024-10-17 | 2024-11-15 |
 | [BALLA DA SOLA](https://open.spotify.com/track/50spFDfvMoXukKiT5rZuWB) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [33](https://open.spotify.com/album/0CnhUDR5R712uOBRT2KlHo) | 2:46 | 2025-05-22 | 2025-06-06 |
@@ -330,6 +331,7 @@
 | [Petrolio](https://open.spotify.com/track/5FWe1oExQtR9v9FvhqXWr8) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/65Wv5uZO75nHQM7dMAadZW) | 3:06 | 2025-04-03 | 2025-04-18 |
 | [Petrolio](https://open.spotify.com/track/2QH9o0EPJGUElDByARkXuy) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Petrolio](https://open.spotify.com/album/1K36hYryitp9VKOpoCUspA) | 3:03 | 2025-04-17 | 2025-05-09 |
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 | 2024-10-04 |
+| [PIANGI DAL VIVO](https://open.spotify.com/track/6awDBKYbJQQ8iIfbXtBoco) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [GRANDI SUCCESSI](https://open.spotify.com/album/0YCxr5WiOLY1xQp79275Dn) | 2:52 | 2026-02-26 |  |
 | [Piangono anche gli uomini \(feat\. Alberto Bianco\)](https://open.spotify.com/track/7C1QXDHC4GYCC2AS2Lr52B) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Alberto Bianco](https://open.spotify.com/artist/4OvEjbTT6H3zArVIrsEoII) | [Piangono Anche Gli Uomini](https://open.spotify.com/album/2Hp6AtPf7V2jFTTUGnIlkr) | 2:52 | 2025-01-30 | 2025-02-21 |
 | [Piazzale degli Eroi](https://open.spotify.com/track/0HznKHR0rq2ydRPTNdr4yX) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Piazzale degli Eroi](https://open.spotify.com/album/0JkG2md6SYiPWmDqMToBt9) | 3:25 | 2025-11-18 | 2026-01-23 |
 | [piccola](https://open.spotify.com/track/23rvrgsyz8UfDcdJ0Q2n6W) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [piccola](https://open.spotify.com/album/2K5AyOdOngBYvDhG4pGMcL) | 2:15 | 2024-10-17 | 2024-11-15 |
@@ -454,7 +456,7 @@
 | [Un Altro Universo](https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Un Altro Universo](https://open.spotify.com/album/6jBiHku5XSMNvJpoJuTRLQ) | 3:20 | 2024-06-27 | 2024-12-06 |
 | [un animale non sa piangere](https://open.spotify.com/track/3mvGHHnPqk5kotY7F1TGjG) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1), [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [II \- Inverno](https://open.spotify.com/album/2RzmXbAM2UnvsVC7TPflJz) | 2:49 | 2026-01-16 | 2026-02-25 |
 | [un cane per te](https://open.spotify.com/track/1VCOQIBjWRjwgeXtQDmabc) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [I \- Autunno](https://open.spotify.com/album/5UMS2YRbBGmK7auQraSmcU) | 2:56 | 2025-09-25 | 2025-11-14 |
-| [Un canto nuovo](https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Un canto nuovo](https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV) | 3:47 | 2026-01-16 |  |
+| [Un canto nuovo](https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Un canto nuovo](https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV) | 3:47 | 2026-01-16 | 2026-02-27 |
 | [Un giorno triste \(feat\. Gemitaiz\)](https://open.spotify.com/track/1ADf9yY4ATx5Sg64SeGMlW) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 2:43 | 2025-11-06 | 2025-12-05 |
 | [Un milione di anni](https://open.spotify.com/track/3PP5bAeGdXQIdFUbXv0n56) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Un milione di anni](https://open.spotify.com/album/0nqRSalfTZgRjJVKTYy7kr) | 4:18 | 2025-08-28 | 2025-09-26 |
 | [Un momento migliore](https://open.spotify.com/track/1drertInnr9h9odhSHkDsS) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Un momento migliore](https://open.spotify.com/album/7yu27fd3zjgkPrsTYY4Q4v) | 6:02 | 2025-01-02 | 2025-01-31 |
@@ -479,7 +481,7 @@
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-12 | 2025-05-30 |
 | [Your Dog](https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 2:53 | 2024-12-19 | 2025-12-12 |
 | [Zagara](https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Zagara](https://open.spotify.com/album/5N9H0fJEfi0WPpZtr0NKq2) | 3:41 | 2025-06-19 | 2025-08-29 |
-| [Zanzare](https://open.spotify.com/track/1mjyb7CoaAWKCNsse0wFrN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Zanzare](https://open.spotify.com/album/3pj3b9jcsYjfXTnzgtXgqs) | 3:34 | 2026-01-16 |  |
+| [Zanzare](https://open.spotify.com/track/1mjyb7CoaAWKCNsse0wFrN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Zanzare](https://open.spotify.com/album/3pj3b9jcsYjfXTnzgtXgqs) | 3:34 | 2026-01-16 | 2026-02-27 |
 | [Zenzero \(con Colapesce\)](https://open.spotify.com/track/0lK6Pn6aN9Ce1BCbNFAb7d) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Zenzero \(con Colapesce\)](https://open.spotify.com/album/5T80lWZk7nwZzFwrSSlRuT) | 2:53 | 2024-10-24 | 2025-01-10 |
 | [È solo un momento](https://open.spotify.com/track/6NCYQaMYJ8BM7SscFAcDfF) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [È solo un momento](https://open.spotify.com/album/5w0vtVhoTzKWq8t46pqLwW) | 3:31 | 2025-05-29 | 2025-06-27 |
 

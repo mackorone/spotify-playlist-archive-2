@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: The Paradise",
-  "num_followers": 540827,
+  "num_followers": 541425,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyxEPKNHKZ82jP42P9wmexPh6o8",
+  "snapshot_id": "AAAAAOZjGbEzovQV1hK4G1rzTe6DFiN0",
   "tracks": [
     {
       "added_at": "2026-02-25 10:32:25",
@@ -63,6 +63,26 @@
       "duration_ms": 227026,
       "name": "Meesaala Pilla (From \"Mana ShankaraVaraprasad Garu - Pandagaki Vasthunnaru\")",
       "url": "https://open.spotify.com/track/00cE2yTZLjn2AKjHttfNfd"
+    },
+    {
+      "added_at": "2026-02-26 13:21:50",
+      "album": {
+        "name": "Geetha Govindam",
+        "url": "https://open.spotify.com/album/0HJz9WijjAmBKRIueDTGmm"
+      },
+      "artists": [
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 266715,
+      "name": "Inkem Inkem Inkem Kaavaale",
+      "url": "https://open.spotify.com/track/3hglFJgXWPZUlHLfiDO35b"
     },
     {
       "added_at": "2026-02-24 09:08:55",
@@ -143,6 +163,10 @@
         "url": "https://open.spotify.com/album/4Qo2GygetQ72mekmB7D7Hg"
       },
       "artists": [
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        },
         {
           "name": "Adnan Sami",
           "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
@@ -271,30 +295,6 @@
       "duration_ms": 208000,
       "name": "Singari",
       "url": "https://open.spotify.com/track/2N96K0NT6IZ1f1OKrNoJZY"
-    },
-    {
-      "added_at": "2026-02-16 13:08:30",
-      "album": {
-        "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
-        "url": "https://open.spotify.com/album/4fUeGMIYVi22stROdyMxEr"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
-      "url": "https://open.spotify.com/track/7oPSWYvSHoC8UA8WVUngq4"
     },
     {
       "added_at": "2026-02-24 09:08:55",

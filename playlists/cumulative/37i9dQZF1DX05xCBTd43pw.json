@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "C'est nous",
+        "url": "https://open.spotify.com/album/0WSlch6aG5w0ha2TLk7aZP"
+      },
+      "artists": [
+        {
+          "name": "Will River",
+          "url": "https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "C'est nous",
+      "url": "https://open.spotify.com/track/7zrntDj5tanqHDx6esLwYN"
+    },
+    {
+      "album": {
         "name": "C:K:C",
         "url": "https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd"
       },
@@ -2433,6 +2451,28 @@
     },
     {
       "album": {
+        "name": "Exit Wound",
+        "url": "https://open.spotify.com/album/68SbLgPXANkmt0yqEuvntV"
+      },
+      "artists": [
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        },
+        {
+          "name": "Bad Boyfriend",
+          "url": "https://open.spotify.com/artist/6i2nBCTVvTRt4YprAm8lkq"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136323,
+      "name": "Exit Wound",
+      "url": "https://open.spotify.com/track/6WeaUVL7TMsSwEsAHAtJVc"
+    },
+    {
+      "album": {
         "name": "Ostb\u00e4rn gseh und st\u00e4rbe",
         "url": "https://open.spotify.com/album/7lfj26zC3hF9Gm9mHSqxyk"
       },
@@ -3193,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/1HGHMVLD5dLLXJ3OICfvOr"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hansen",
+          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182456,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/7v40SKK5kBOHC8mGUh8FuF"
+    },
+    {
+      "album": {
         "name": "Heal Me",
         "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
       },
@@ -3316,7 +3374,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 187854,
       "name": "Heaven or Hell",
       "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
@@ -4730,7 +4788,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 196246,
       "name": "Long Year",
       "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
@@ -5475,6 +5533,32 @@
     },
     {
       "album": {
+        "name": "Need Somebody (feat. Bastien)",
+        "url": "https://open.spotify.com/album/2f7MBS9b8UHS6wzL9bj3jR"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "Tatana",
+          "url": "https://open.spotify.com/artist/65HdMHmas8nAip0vbbP9m9"
+        },
+        {
+          "name": "Bastien",
+          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Need Somebody (feat. Bastien)",
+      "url": "https://open.spotify.com/track/3aSo0dXxsV7mA7pCJy6MLp"
+    },
+    {
+      "album": {
         "name": "Need To Be Loved",
         "url": "https://open.spotify.com/album/6T42dLfqiy1fcZ2MdOqdRw"
       },
@@ -5908,7 +5992,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 184761,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
@@ -6787,6 +6871,24 @@
     },
     {
       "album": {
+        "name": "si tu me demandes",
+        "url": "https://open.spotify.com/album/5U3B2zbIx8XEXpy55hhOLl"
+      },
+      "artists": [
+        {
+          "name": "MARYNE",
+          "url": "https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165573,
+      "name": "si tu me demandes",
+      "url": "https://open.spotify.com/track/6N9wdVht1PjAnt4AZq9Nou"
+    },
+    {
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY"
       },
@@ -6852,7 +6954,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 144373,
       "name": "Since We Met",
       "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
@@ -8462,7 +8564,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 223783,
       "name": "Wasting Gold",
       "url": "https://open.spotify.com/track/40AAaGE7ajARCdyLuBhH3F"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Netherlands.",
-  "num_followers": 67174,
+  "num_followers": 67175,
   "original_name": "Viral 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTJcQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MTOtwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "I Will See You Again",
         "url": "https://open.spotify.com/album/5ZRDRaHob2ACLZ0BW06cfh"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/01MpFwJqAaYgLKgzbCZbrE"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "I Will See You Again",
         "url": "https://open.spotify.com/album/5ZRDRaHob2ACLZ0BW06cfh"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/6bovuOmtnXf4WfxQzeAT1x"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Kouwe Kak",
         "url": "https://open.spotify.com/album/61TWNYthhubPajfdYtspVB"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6br7zmBXTUgQWoqVDQ6qBW"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Vervreemd",
         "url": "https://open.spotify.com/album/3Zme7AYOj5SA4Xuh8TDWjr"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/7M4F4A8M7k13zOnyt3q2CC"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Lijntje",
         "url": "https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
@@ -197,7 +181,39 @@
       "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "AMG Met Matje",
         "url": "https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "UPTEMPO FIESTA",
         "url": "https://open.spotify.com/album/5ehFkr5qaiyOolNATeCpjw"
@@ -233,23 +249,7 @@
       "url": "https://open.spotify.com/track/58bZ5ad52KvSXK2oYqBpHi"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Kakalika",
-        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 181581,
-      "name": "Kakalika",
-      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Waar Was Je?",
         "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Out of My Mind EP",
         "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
@@ -297,39 +297,7 @@
       "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Op Mijn Tijd",
         "url": "https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE"
@@ -345,7 +313,23 @@
       "url": "https://open.spotify.com/track/64vwMcUFHTBDwHJtpZYACO"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -361,91 +345,23 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
-        "name": "Brrrr\ud83e\udd76\ud83c\udde8\ud83c\udde6",
-        "url": "https://open.spotify.com/album/0ihz2qaZXdzOnfejHxCIUj"
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
       },
       "artists": [
         {
-          "name": "D-Double",
-          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
         }
       ],
-      "duration_ms": 139354,
-      "name": "Brrrr \ud83e\udd76\ud83c\udde8\ud83c\udde6",
-      "url": "https://open.spotify.com/track/2z6kVEyUnUk7Zmbo4aeMZc"
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Afraid Of The Dark",
-        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 278416,
-      "name": "Afraid Of The Dark",
-      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
-      },
-      "artists": [
-        {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
-        }
-      ],
-      "duration_ms": 191687,
-      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Sitting Down Here (feat. Lilly Ahlberg)",
-        "url": "https://open.spotify.com/album/7ySSTmTidGWYiMkHZKxa1g"
-      },
-      "artists": [
-        {
-          "name": "Albi",
-          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 158284,
-      "name": "Sitting Down Here (feat. Lilly Ahlberg)",
-      "url": "https://open.spotify.com/track/7vu6ybPQYHIKfrqg73ZI2d"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Koffiepauze",
         "url": "https://open.spotify.com/album/60RcXCp5h8VgkdRLPVyXgY"
@@ -465,7 +381,91 @@
       "url": "https://open.spotify.com/track/5ej15hOxeeiwS542eGEfVY"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Sitting Down Here (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/7ySSTmTidGWYiMkHZKxa1g"
+      },
+      "artists": [
+        {
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 158284,
+      "name": "Sitting Down Here (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/7vu6ybPQYHIKfrqg73ZI2d"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Brrrr\ud83e\udd76\ud83c\udde8\ud83c\udde6",
+        "url": "https://open.spotify.com/album/0ihz2qaZXdzOnfejHxCIUj"
+      },
+      "artists": [
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Brrrr \ud83e\udd76\ud83c\udde8\ud83c\udde6",
+      "url": "https://open.spotify.com/track/2z6kVEyUnUk7Zmbo4aeMZc"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "duration_ms": 191687,
+      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Site 15",
+        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 236460,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Petrus",
         "url": "https://open.spotify.com/album/5wLwbrjdXDt072PxVQk51y"
@@ -505,7 +505,23 @@
       "url": "https://open.spotify.com/track/5BaBYz1YNroBj3V0v0oAb3"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "The Final Verdict",
         "url": "https://open.spotify.com/album/3a3QTWdcqdKxXYVU7UdSV5"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/66GgamjluD1DwCLEiPWZv9"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "REVIVE+",
         "url": "https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x"
@@ -537,23 +553,7 @@
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "TIKI TIKI",
-        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
-      },
-      "artists": [
-        {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
-        }
-      ],
-      "duration_ms": 121739,
-      "name": "TIKI TIKI - Slowed",
-      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Mo\u00ebt Dat Nou",
         "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
@@ -573,23 +573,7 @@
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Site 15",
-        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 236460,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "CD van mij",
         "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
@@ -609,7 +593,7 @@
       "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
@@ -633,55 +617,7 @@
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "WTBBA?!",
-        "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "WTBBA?!",
-      "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "LIEFDE IS MOEILIJK",
-        "url": "https://open.spotify.com/album/7rq8eKuce1Ga0t9qPZEsWd"
-      },
-      "artists": [
-        {
-          "name": "TYCH",
-          "url": "https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ"
-        }
-      ],
-      "duration_ms": 139746,
-      "name": "LIEFDE IS MOEILIJK",
-      "url": "https://open.spotify.com/track/4lyyczrNysFKBP7OzKKnHP"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Yeralt\u0131",
         "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
@@ -697,47 +633,23 @@
       "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+        "name": "WTBBA?!",
+        "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
         }
       ],
-      "duration_ms": 286866,
-      "name": "Only You (with Burna Boy)",
-      "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
+      "duration_ms": 205565,
+      "name": "WTBBA?!",
+      "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Drive Safe",
-        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Drive Safe",
-      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "ECLESIA",
         "url": "https://open.spotify.com/album/48HmiG504mBM1GbpMx2fMU"
@@ -753,39 +665,7 @@
       "url": "https://open.spotify.com/track/6VjqIvOKnV8zA4rOkN7oaq"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Your Eyes",
-        "url": "https://open.spotify.com/album/2orewSiRAYqOUHZmE4afvz"
-      },
-      "artists": [
-        {
-          "name": "Small Town Kid",
-          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
-        }
-      ],
-      "duration_ms": 120687,
-      "name": "Shards",
-      "url": "https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Terukir Di Bintang",
-        "url": "https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Someone Out of Town",
-      "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "Yogameister",
         "url": "https://open.spotify.com/album/7IgyZx96FSFWo4aTXDNGCL"
@@ -809,23 +689,127 @@
       "url": "https://open.spotify.com/track/5hhZwYyYgHlfElYxCSRxNE"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "LIEFDE IS MOEILIJK",
+        "url": "https://open.spotify.com/album/7rq8eKuce1Ga0t9qPZEsWd"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "TYCH",
+          "url": "https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ"
         }
       ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+      "duration_ms": 139746,
+      "name": "LIEFDE IS MOEILIJK",
+      "url": "https://open.spotify.com/track/4lyyczrNysFKBP7OzKKnHP"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/2orewSiRAYqOUHZmE4afvz"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "duration_ms": 120687,
+      "name": "Shards",
+      "url": "https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Terukir Di Bintang",
+        "url": "https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Someone Out of Town",
+      "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/7F5Rsmf9CA7kj2HTkGNQqk"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/25DOfzfpERYnUtEauoZgNA"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Ruwa",
+        "url": "https://open.spotify.com/album/01QuDDQ08dQMx7P5I0vOLL"
+      },
+      "artists": [
+        {
+          "name": "Ruwa Jin",
+          "url": "https://open.spotify.com/artist/5lcipJtNr6cM87vcGpEcZq"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Ruwa",
+      "url": "https://open.spotify.com/track/4zJu3WrABlBD23qunrjWov"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 286866,
+      "name": "Only You (with Burna Boy)",
+      "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -845,39 +829,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Als Blikken Konden Doden",
-        "url": "https://open.spotify.com/album/229FKtAV6ltXMbD9Q7ye2U"
-      },
-      "artists": [
-        {
-          "name": "Veul G\u00e8re",
-          "url": "https://open.spotify.com/artist/0KpEX9Hb9jJaxSEgDRMLbM"
-        }
-      ],
-      "duration_ms": 187071,
-      "name": "Als Blikken Konden Doden",
-      "url": "https://open.spotify.com/track/1tlJ07kgmeSDJc4HurwVDM"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
-      "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/7F5Rsmf9CA7kj2HTkGNQqk"
-      },
-      "artists": [
-        {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/25DOfzfpERYnUtEauoZgNA"
-    },
-    {
-      "added_at": "2026-02-25 14:00:32",
+      "added_at": "2026-02-26 14:38:15",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -888,9 +840,65 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
+    },
+    {
+      "added_at": "2026-02-26 14:38:15",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
     }
   ],
   "unique_name": "Viral 50 - Netherlands",

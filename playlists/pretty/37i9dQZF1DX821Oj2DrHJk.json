@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 31572,
+  "num_followers": 31571,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 381998,
       "name": "Lyin' Eyes - 2013 Remaster",
       "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 261773,
-      "name": "D'yer Mak'er - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
+      "duration_ms": 289360,
+      "name": "Over the Hills and Far Away - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 289360,
-      "name": "Over the Hills and Far Away - 1990 Remaster",
-      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
+      "duration_ms": 261773,
+      "name": "D'yer Mak'er - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "The Complete UK Recordings",
-        "url": "https://open.spotify.com/album/3gyK04qL9Si5MgCidiVy1V"
+        "name": "Back and Fourth",
+        "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
       },
       "artists": [
         {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+          "name": "Lindisfarne",
+          "url": "https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt"
         }
       ],
-      "duration_ms": 241572,
-      "name": "The Wall Street Shuffle",
-      "url": "https://open.spotify.com/track/3HyZGwZAq9oQJQBzSyjs7Q"
+      "duration_ms": 260733,
+      "name": "Run for Home",
+      "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
     }
   ],
   "unique_name": "70s Summer Rock",

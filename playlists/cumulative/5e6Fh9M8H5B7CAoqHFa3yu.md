@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,895 songs - 4 day 17 hr 30 min
+1,896 songs - 4 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1068,6 +1068,7 @@
 | [Moon's Gaze](https://open.spotify.com/track/3l7kWDlEC4c1umworaXNdq) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:26 | 2024-09-25 |  |
 | [Moonlight](https://open.spotify.com/track/4ElVTmsHkWKmF4PWAfCi9K) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 6:06 | 2024-07-06 |  |
 | [Moonlight Bloom](https://open.spotify.com/track/5gS25BVjmlZq10tJZm3CWA) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Moonlight Bloom](https://open.spotify.com/album/1HTUjxY0Zod7KzTAqiOa0W) | 1:53 | 2025-09-15 |  |
+| [Moonlight of Muirin](https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Moonlight of Muirin](https://open.spotify.com/album/4oRObxDGVm3EEHExEBfywZ) | 3:12 | 2026-02-27 |  |
 | [Moonlit Skip](https://open.spotify.com/track/0nA97rGpGHOMgas8vb2H8j) | [Lunar Parachute](https://open.spotify.com/artist/2dyy57lsy2XPve44S6k94w) | [Secret In The Twilight](https://open.spotify.com/album/6rlx6IQrbfTGuWz8ak7Thu) | 3:19 | 2025-07-15 |  |
 | [moonlit solitude](https://open.spotify.com/track/23o52EBzfUm7pCWdDouigk) | [Hey D!](https://open.spotify.com/artist/0QLILgoSRvw2OB8sosyyTh) | [moonlit solitude](https://open.spotify.com/album/7ilapFeivTjRfTdPlJvRHN) | 2:34 | 2025-09-08 |  |
 | [Moonsteppa](https://open.spotify.com/track/2MPpkxSaGj0TZYiClpL2SS) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Moonsteppa](https://open.spotify.com/album/15mEEqT5CD79q5apP4mK0M) | 3:50 | 2024-03-10 |  |

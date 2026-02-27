@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "\u5149\u3088\u3001\u50d5\u306b\u3002",
+        "url": "https://open.spotify.com/album/3Ai4Zc0mhEjrTS4pVOQ6U3"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "HYPE ALIVE",
+      "url": "https://open.spotify.com/track/28L7x5dJ7BmMUkieFUdCep"
+    },
+    {
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },

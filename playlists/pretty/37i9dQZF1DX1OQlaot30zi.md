@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Enny P,  Salmo, Kuremino, Low\-Red con Yung Snapp, Macello con Scaccia e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Luchè, Sayf, nayt e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,940 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,943 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
-| 2 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
-| 3 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
+| 1 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
+| 2 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
+| 3 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
 | 4 | [Money Maker](https://open.spotify.com/track/7tHCTDnsFYGUCl2zqCst1b) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [Money Maker](https://open.spotify.com/album/5XGssftBGJjQY4S13TjPmB) | 3:05 |
 | 5 | [CRACKERS](https://open.spotify.com/track/0WXmK981bcJwiV7XhL2mP4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [CRACKERS](https://open.spotify.com/album/4JfrerWCkMFZR4PIr98khT) | 2:37 |
 | 6 | [Imparanoiato](https://open.spotify.com/track/2eToVvJmpHwRytSfnjmH8t) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Best](https://open.spotify.com/album/2wz3HwAuXX6BYwAJTlS6d9) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [BOTTEGA \(feat\. Ntò\)](https://open.spotify.com/track/0wk6WqKfPR1BVmhOfgVxjW) | [Raimo](https://open.spotify.com/artist/4dzoQsokmVsBXQf6VG80Hm), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [BOTTEGA \(feat\. Ntò\)](https://open.spotify.com/album/5KBaos3cS02ptJWKLUEqL7) | 2:26 |
 | 100 | [T'amo e T'odio \(feat\. Frezza & Dipinto\)](https://open.spotify.com/track/6YGKWLpQtBDopaAlOMgZnw) | [Pepp 'O Red](https://open.spotify.com/artist/0wF47dWCTiDlqm5FkNkr1B), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [T'am e T'odio \(feat\. Frezza & Dipinto\)](https://open.spotify.com/album/3nqsZLYlVSknjbK1YXxWu4) | 2:23 |
 
-Snapshot ID: `AAAAAA4LCXpAIvVKD9F6cfvOJ5zyCz7V`
+Snapshot ID: `AAAAAAbea/e9w+cHdDDx2F1+dqxHaV9d`

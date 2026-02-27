@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfxthQtveejKAcGsHenLGji5d5tIMQ",
+  "snapshot_id": "AAAfyJbDruosOlIwuLXo0KQaj2P9IwHT",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -7115,6 +7115,42 @@
       "duration_ms": 230460,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/5wWW7oHGBRgVAaKEoGFvOf"
+    },
+    {
+      "added_at": "2026-02-26 19:41:00",
+      "album": {
+        "name": "Vaudeville Villain",
+        "url": "https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7"
+      },
+      "artists": [
+        {
+          "name": "Viktor Vaughn",
+          "url": "https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Vaudeville Villain",
+      "url": "https://open.spotify.com/track/6rkV9hz91Rr5iHnMRPZdEQ"
+    },
+    {
+      "added_at": "2026-02-27 00:57:38",
+      "album": {
+        "name": "A Piece Of Strange",
+        "url": "https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA"
+      },
+      "artists": [
+        {
+          "name": "CunninLynguists",
+          "url": "https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/27SUFEhCpOTwYGdvzCbRpK"
     }
   ],
   "unique_name": "main ",

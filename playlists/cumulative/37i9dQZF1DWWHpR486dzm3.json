@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "tasapainoo / 1000 versioo",
+        "url": "https://open.spotify.com/album/33dNT41O87MnjNpTi2Ly7e"
+      },
+      "artists": [
+        {
+          "name": "fibi",
+          "url": "https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "1000 versioo",
+      "url": "https://open.spotify.com/track/4vWet3pjrvRUOFLbugdwkP"
+    },
+    {
+      "album": {
         "name": "12345",
         "url": "https://open.spotify.com/album/3uX5XKs7qz819h1ssm2OQL"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 238197,
       "name": "Alone in My World",
       "url": "https://open.spotify.com/track/73LMJ4twt2DIwyBVR9jgto"
@@ -1832,6 +1850,24 @@
       "duration_ms": 269538,
       "name": "Cat State",
       "url": "https://open.spotify.com/track/4Xv6PijYz44ifTtP3jfYCi"
+    },
+    {
+      "album": {
+        "name": "CCTV",
+        "url": "https://open.spotify.com/album/6n45dxSPwVvcGcy97KE8HP"
+      },
+      "artists": [
+        {
+          "name": "Ghosts on TV",
+          "url": "https://open.spotify.com/artist/2ZajVdMwsg3XJw3Sq7vuBT"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428386,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/4vcvu6ZZH1hNTJwKSHf9oh"
     },
     {
       "album": {
@@ -3951,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Haahuillen",
+        "url": "https://open.spotify.com/album/26viVkBTKvNx37Yk5BeCjx"
+      },
+      "artists": [
+        {
+          "name": "Antti Autio",
+          "url": "https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Haahuillen",
+      "url": "https://open.spotify.com/track/3sMpTiwA7AejQbMUFMczZn"
+    },
+    {
+      "album": {
         "name": "Haihatus",
         "url": "https://open.spotify.com/album/2xjRhm9XnswNOjnUoujqet"
       },
@@ -4244,6 +4298,24 @@
       "duration_ms": 148480,
       "name": "Hei hei ja hyv\u00e4sti",
       "url": "https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI"
+    },
+    {
+      "album": {
+        "name": "Is\u00e4t",
+        "url": "https://open.spotify.com/album/3y0ItRVzPdUD0TeVd91WBJ"
+      },
+      "artists": [
+        {
+          "name": "Heikki Kuula",
+          "url": "https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Hei hei muru!",
+      "url": "https://open.spotify.com/track/4osHP9P1fQZgAMZviytgNI"
     },
     {
       "album": {
@@ -7920,7 +7992,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 208416,
       "name": "Kuiskaus",
       "url": "https://open.spotify.com/track/06B18ox0YbchjWBO7mxLgc"
@@ -9246,6 +9318,24 @@
       "duration_ms": 267995,
       "name": "Lippissukupolven joutsenlaulu",
       "url": "https://open.spotify.com/track/6dGNBHryvWMOh8B9ElZdkD"
+    },
+    {
+      "album": {
+        "name": "Liskoaivot",
+        "url": "https://open.spotify.com/album/5xwEbKCsWJPnhLirF2hxNf"
+      },
+      "artists": [
+        {
+          "name": "MAMMA",
+          "url": "https://open.spotify.com/artist/45sD2bIEHPx2cM7iEc4e0g"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Liskoaivot",
+      "url": "https://open.spotify.com/track/7BXv7F9yMvz4y9LADLHWTb"
     },
     {
       "album": {
@@ -11667,6 +11757,24 @@
     },
     {
       "album": {
+        "name": "Hydrephos",
+        "url": "https://open.spotify.com/album/4hvMrnU2DENif3FUk8puCr"
+      },
+      "artists": [
+        {
+          "name": "Pambikallio",
+          "url": "https://open.spotify.com/artist/0IDSJa4NZqzjo1kwUi7ey5"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/1Oa2WZ00Ow6orLPYFwIdQl"
+    },
+    {
+      "album": {
         "name": "Noidankeh\u00e4",
         "url": "https://open.spotify.com/album/30t7C8BHUXf3q4tbBybQTj"
       },
@@ -13180,6 +13288,24 @@
       "duration_ms": 217488,
       "name": "Pienet Laivat",
       "url": "https://open.spotify.com/track/5ksASRLJWbiapCln5kXgru"
+    },
+    {
+      "album": {
+        "name": "Pieni exit",
+        "url": "https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f"
+      },
+      "artists": [
+        {
+          "name": "Malla",
+          "url": "https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Pieni exit",
+      "url": "https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74"
     },
     {
       "album": {
@@ -14722,7 +14848,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-27",
       "duration_ms": 236267,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/5EOSnoLAZ2lhhkyYpljMCG"
@@ -16066,6 +16192,24 @@
       "duration_ms": 211874,
       "name": "Sugar Mama",
       "url": "https://open.spotify.com/track/0fnmqBL8dnJHCDoJOtS9lt"
+    },
+    {
+      "album": {
+        "name": "Sulaa laavaa",
+        "url": "https://open.spotify.com/album/5FvCzOSjmCpKSpux1meqjq"
+      },
+      "artists": [
+        {
+          "name": "Markus Perttula",
+          "url": "https://open.spotify.com/artist/0KOsZUUpyfo5qbb7YNEOEv"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214676,
+      "name": "Sulaa laavaa",
+      "url": "https://open.spotify.com/track/66VQ6kIvz1eOgWrNq5KwQj"
     },
     {
       "album": {
@@ -18151,6 +18295,24 @@
     },
     {
       "album": {
+        "name": "Vaikka se loppuni ois",
+        "url": "https://open.spotify.com/album/41iuVrbVIaK4q7SnhoySvY"
+      },
+      "artists": [
+        {
+          "name": "Hopeasiivet",
+          "url": "https://open.spotify.com/artist/6zisCzs51KHat4Y2B9JVEO"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171814,
+      "name": "T\u00e4n\u00e4\u00e4n (Olen lent\u00e4nyt pes\u00e4st\u00e4 pois)",
+      "url": "https://open.spotify.com/track/0tGNbbJz4REExWLLhjLXa8"
+    },
+    {
+      "album": {
         "name": "T\u00e4n\u00e4\u00e4n ei tarvii murehtia",
         "url": "https://open.spotify.com/album/1Vm4U6Oq1BjqwQd4jydFLp"
       },
@@ -18974,6 +19136,24 @@
       "duration_ms": 143013,
       "name": "Viisaat lapset",
       "url": "https://open.spotify.com/track/2YUFL03F9q5HdiiwL3uzUl"
+    },
+    {
+      "album": {
+        "name": "Viistoista",
+        "url": "https://open.spotify.com/album/3hq9CFVMnAH4ADBUHGXGG0"
+      },
+      "artists": [
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "Viistoista",
+      "url": "https://open.spotify.com/track/2aR1lT1uvLkJ06HRbMESIz"
     },
     {
       "album": {
